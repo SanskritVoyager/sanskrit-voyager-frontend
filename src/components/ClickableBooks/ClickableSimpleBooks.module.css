@@ -618,6 +618,50 @@ mark:hover {
     text-align: right; /* Right-align labels */
     padding-right: 1rem; /* Space between label and content */
   }  
+
+  .quote .p .label {
+    transform: translateY(-1.7em); /* Use em to scale with font size */
+  }
+  
+  /* Label inside a sūtra div */
+  .sūtra_with_bhāṣya .quote .p .label {
+    transform: translateY(-3em);
+  }
+
+  .quote.sutra .p .label {
+    transform: translateY(-4.25em);
+  }
+  
+  /* Label directly in a paragraph */
+  .p > .label {
+    transform: translateY(-1.7em);
+  }
+  
+  /* Label in a line group */
+  .lg .l .label {
+    transform: translateY(-1.2em);
+  }
+  
+  /* Label after specific text types */
+  .Sutra .label,
+  .sūtra .label,
+  .sutra .label {
+    transform: translateY(-2em); /* These have different spacing */
+  }
+  
+  /* Commentary sections might need different spacing */
+  .Commentary .label {
+    transform: translateY(-1.5em);
+  }
+  
+  /* Bhashya sections */
+  .IntroBhashya .label,
+  .LeadingBhashya .label {
+    transform: translateY(-1.8em);
+  }
+
+
+
 }
 
 
