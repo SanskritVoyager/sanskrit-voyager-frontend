@@ -174,19 +174,21 @@ export function NavbarSimple({
           Corpus Search
         </Button>
 
-        <Button
-          component="a"
-          href="https://forms.gle/tsMiRceuVK5c42MT7"
-          target="_blank"
-          rel="noopener noreferrer"
-          fullWidth
-          mt="sm"
-          variant="subtle"
-          leftSection={<IconMessageCircle size={18} stroke={1.5} />}
-          justify="left"
-        >
-          Provide Feedback
-        </Button>
+        {(isMobile || isTablet) && (
+          <Button
+            component="a"
+            href="https://forms.gle/tsMiRceuVK5c42MT7"
+            target="_blank"
+            rel="noopener noreferrer"
+            fullWidth
+            mt="sm"
+            variant="subtle"
+            leftSection={<IconMessageCircle size={18} stroke={1.5} />}
+            justify="left"
+          >
+            Provide Feedback
+          </Button>
+        )}
       </div>
     </nav>
   );
