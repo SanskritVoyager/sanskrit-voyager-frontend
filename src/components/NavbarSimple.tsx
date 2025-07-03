@@ -1,5 +1,5 @@
 import { useState, ReactNode } from 'react';
-import { Group, Code, Select, Stack, Textarea, Button, } from '@mantine/core';
+import { Group, Code, Select, Stack, Textarea, Button } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import {
   IconBellRinging,
@@ -13,6 +13,7 @@ import {
   IconLogout,
   IconVocabularyOff,
   IconSettingsSearch,
+  IconMessageCircle,
 } from '@tabler/icons-react';
 import classes from './NavbarSimple.module.css'; // You might need to adjust the CSS import
 
@@ -21,9 +22,8 @@ import DictionarySelectComponent from './DictionarySelect';
 import BookSelect from './BookSelect';
 import TranslationControl from './TranslationControl';
 
-
-
-interface NavbarProps { // Updated Props
+interface NavbarProps {
+  // Updated Props
   isMobile: boolean | undefined;
   isTablet: boolean | undefined;
   isSmallMobile: boolean | undefined;
@@ -45,7 +45,7 @@ interface NavbarProps { // Updated Props
     open: () => void;
     close: () => void;
     toggle: () => void;
-  }
+  };
 }
 
 export function NavbarSimple({
@@ -69,13 +69,8 @@ export function NavbarSimple({
 }: NavbarProps) {
   const [active, setActive] = useState('Billing');
 
- 
-
   return (
-
-    <nav className={classes.navbar}
-
-    >
+    <nav className={classes.navbar}>
       <div className={classes.navbarMain}>
         {/*<Group className={classes.header} justify="space-between">
           <Code fw={700}>Sanskrit Reader</Code>
@@ -84,20 +79,18 @@ export function NavbarSimple({
         {/* Content from NavbarSimple moved here */}
         <Stack gap="3px" justify="flex-end">
           <Select
-              data={[
-                { value: 'IAST', label: 'Romanic (IAST)' },
-                { value: 'DEVANAGARI', label: 'Devanagari' },
-                { value: 'HK', label: 'Harvard-Kyoto (HK)' },
-                { value: 'SLP1', label: 'SLP1 (Sanskrit Library Phonetic)' },
-                { value: 'Tamil', label: 'Tamil' },
-                { value: 'Kolkata', label: 'Kolkata' },
-                { value: 'Bengali', label: 'Bengali' },
-                { value: 'Kannada', label: 'Kannada' },
-                { value: 'WX', label: 'WX' },
-                { value: 'ITRANS', label: 'ITRANS' },
-
-
-              ]}
+            data={[
+              { value: 'IAST', label: 'Romanic (IAST)' },
+              { value: 'DEVANAGARI', label: 'Devanagari' },
+              { value: 'HK', label: 'Harvard-Kyoto (HK)' },
+              { value: 'SLP1', label: 'SLP1 (Sanskrit Library Phonetic)' },
+              { value: 'Tamil', label: 'Tamil' },
+              { value: 'Kolkata', label: 'Kolkata' },
+              { value: 'Bengali', label: 'Bengali' },
+              { value: 'Kannada', label: 'Kannada' },
+              { value: 'WX', label: 'WX' },
+              { value: 'ITRANS', label: 'ITRANS' },
+            ]}
             value={scheme.value}
             label="Select Transliteration Scheme"
             placeholder="Pick Transliteration Scheme, default is IAST"
@@ -142,11 +135,11 @@ export function NavbarSimple({
           label="Write Text Here"
           description="Copy and paste text here to transliterate it."
           placeholder={
-            "Write text here to transliterate it." +
+            'Write text here to transliterate it.' +
             '\n' +
-            "A single word is automatically searched." +
+            'A single word is automatically searched.' +
             '\n' +
-            "Analyse words on click."
+            'Analyse words on click.'
           }
           style={{ width: '100%', paddingBottom: 16, paddingTop: '0px' }}
           autosize
@@ -156,7 +149,7 @@ export function NavbarSimple({
 
         <Button
           className={classes.readingButton}
-          leftSection={<IconVocabularyOff   size={14} />}
+          leftSection={<IconVocabularyOff size={14} />}
           onClick={() => setIsNavbarVisible(false)}
           loaderProps={{ type: 'dots' }}
           style={{
@@ -166,29 +159,37 @@ export function NavbarSimple({
           Start Reading
         </Button>
 
-       
-
-        <Button 
+        <Button
           className={classes.advancedSearchButton}
-          fullWidth 
+          fullWidth
           mt="sm"
-          leftSection={<IconSettingsSearch className={classes.advancedSearchIcon} size={18} stroke={1.5}/>} 
+          leftSection={
+            <IconSettingsSearch className={classes.advancedSearchIcon} size={18} stroke={1.5} />
+          }
           onClick={() => {
             handleAdvancedSearch.toggle();
           }}
-          justify='left'
-          
-          >
-          Corpus Search 
+          justify="left"
+        >
+          Corpus Search
         </Button>
 
-
+        <Button
+          component="a"
+          href="https://forms.gle/tsMiRceuVK5c42MT7"
+          target="_blank"
+          rel="noopener noreferrer"
+          fullWidth
+          mt="sm"
+          variant="subtle"
+          leftSection={<IconMessageCircle size={18} stroke={1.5} />}
+          justify="left"
+        >
+          Provide Feedback
+        </Button>
       </div>
-
     </nav>
   );
 }
 
-export default NavbarSimple; 
-
-
+export default NavbarSimple;

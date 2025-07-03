@@ -139,3 +139,12 @@ transform: rotate(20deg);
   color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
   border-color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-gray-7));
 }
+
+.feedbackButton {
+  font-weight: 500;
+  padding: rem(6px) rem(10px);
+  
+  &:hover {
+    background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
+  }
+}
