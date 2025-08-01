@@ -223,14 +223,15 @@ export function HeaderSearch({
                   style={{
                     marginLeft: '8px', // space outside the badge
                     textTransform: 'none', // disable uppercase
+                    paddingRight: '8px',
                   }} // Add right padding
                 >
                   Ctrl+K
                 </Badge>
               )
             }
-            rightSectionWidth={60}
-            placeholder="Search Sanskrit Words."
+            rightSectionWidth={80}
+            placeholder="Dictionary Search."
             leftSection={<IconSearch style={{ width: rem(16), height: rem(16) }} stroke={1.5} />}
             data={entries}
             onChange={selectEntries}

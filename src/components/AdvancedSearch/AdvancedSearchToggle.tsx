@@ -29,7 +29,7 @@ interface AdvancedSearchToggleProps {
 const SearchToggle = ({ isMobile, handleAdvancedSearch }: AdvancedSearchToggleProps) => {
   return (
     <Group justify="center">
-      <Tooltip label="Open Advanced Search (Ctrl + S)">
+      <Tooltip label="Open Book Search (Ctrl + S)">
         <ActionIcon
           className={classes.actionIcon}
           onClick={() => handleAdvancedSearch.toggle()}

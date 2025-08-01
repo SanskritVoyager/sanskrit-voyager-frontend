@@ -179,7 +179,7 @@ export function NavbarSimple({
           }}
           justify="left"
         >
-          Corpus Search
+          Book Search
         </Button>
 
         {(isMobile || isTablet) && (

@@ -15,7 +15,7 @@ import {
   Skeleton,
 } from '@mantine/core';
 import { IconBook, IconChevronRight, IconExternalLink } from '@tabler/icons-react';
-import { BookResult, SearchResult, SegmentResult } from '../types/searchTypes';
+import { BookResult, SearchResult, SegmentResult } from '../../types/searchTypes';
 import HighlightText from '../../utils/HighlightText';
 import classes from './AdvancedSearch.module.css';
 import { colorResolver } from '@mantine/core/lib/core/Box/style-props/resolvers/color-resolver/color-resolver';
