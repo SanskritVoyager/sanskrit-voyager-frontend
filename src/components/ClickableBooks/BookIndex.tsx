@@ -25,7 +25,7 @@ const BookIndex: React.FC<BookIndexProps> = ({ chapters, onChapterClick }) => {
       mb="lg"
       className={classes.bookIndex}
     >
-      {/* <span className={classes.indexTitle}>Index</span> */}
+     <span className={classes.indexTitle}>Table of Contents</span> 
       <List type="ordered">
         {chapters.map((chapter) => (
           <List.Item key={chapter.elementId}>
