@@ -184,6 +184,7 @@ export function NavbarSimple({
 
         {(isMobile || isTablet) && (
           <Button
+            className={classes.feedbackButton}
             component="a"
             href="https://forms.gle/tsMiRceuVK5c42MT7"
             target="_blank"

@@ -87,7 +87,7 @@ const ClickableSimpleBooks = ({
     // Recursive function to find all ChapterTitle elements
     const findChapters = (elements: TextElement[]) => {
       for (const element of elements) {
-        if (element.tag === 'ChapterTitle' && element.text) {
+        if ((element.tag === 'ChapterTitle' || element.tag === 'head') && element.text) {
           const chapterId = `chapter-${chapterCount}`;
           extractedChapters.push({
             text: element.text,
@@ -459,7 +459,7 @@ const ClickableSimpleBooks = ({
 
     // Add special ID for ChapterTitle elements using pre-collected map
     let elementId: string | undefined;
-    if (element.tag === 'ChapterTitle' && element.text) {
+    if ((element.tag === 'ChapterTitle' || element.tag === 'head') && element.text) {
       // O(1) lookup from pre-processed map
       elementId = chapterIdMap.current.get(element.text);
     } else {

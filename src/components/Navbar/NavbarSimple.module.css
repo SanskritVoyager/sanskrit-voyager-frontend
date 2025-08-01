@@ -96,3 +96,16 @@
   border-color: light-dark(var(--mantine-color-orange-4), var(--mantine-color-dark-1));
   resize: 1.1;
 }
+
+.feedbackButton {
+
+  color: light-dark(var(--mantine-color-orange-7), var(--mantine-color-orange-7));
+
+}
+
+
+.feedbackButton:hover {
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
+  color: light-dark(var(--mantine-color-orange-5), var(--mantine-color-gray-5));
+  resize: 1.1;
+}
