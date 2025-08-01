@@ -358,7 +358,7 @@
 }
 
 .modalClose:hover {
-  color: var(--mantine-color-coolOrange-0);
+  color: var(--mantine-color-coolOrange-4);
   transform: rotate(20deg);
   border-color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-6));
 

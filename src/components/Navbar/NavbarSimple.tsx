@@ -67,7 +67,15 @@ export function NavbarSimple({
   setTextType,
   handleAdvancedSearch,
 }: NavbarProps) {
-  const [active, setActive] = useState('Billing');
+
+  const handleBookSelect = (title: string | null) => {
+    setBookTitle(title);
+    if (isMobile) {
+      setTimeout(() => {
+        setIsNavbarVisible(false);
+      }, 300); // 300ms delay before closing
+    }
+  };
 
   return (
     <nav className={classes.navbar}>
@@ -109,7 +117,7 @@ export function NavbarSimple({
             setSelectedDictionaries={setSelectedDictionaries}
           />
 
-          <BookSelect setBookTitle={setBookTitle} bookTitle={bookTitle} />
+          <BookSelect setBookTitle={handleBookSelect} bookTitle={bookTitle} />
 
           {bookTitle !== null && (
             <TranslationControl textType={textType} setTextType={setTextType} />

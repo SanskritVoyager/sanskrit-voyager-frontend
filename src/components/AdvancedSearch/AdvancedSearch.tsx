@@ -34,12 +34,12 @@ import {
   IconX,
 } from '@tabler/icons-react';
 import classes from './AdvancedSearch.module.css';
-import { BookResult, SearchResult, SegmentResult } from '../types/searchTypes';
-import HighlightText from './HighlightText';
+import { BookResult, SearchResult, SegmentResult } from '../../types/searchTypes';
+import HighlightText from '../../utils/HighlightText';
 import SearchInputComponent from './AdvancedSearchInput';
 import AdvancedSearchResults from './AdvancedSearchResults';
 import { use } from 'chai';
-import filterData from '../utils/filter_data.json';
+import filterData from '../../utils/filter_data.json';
 
 interface AdvancedSearchProps {
   advancedSearchResults: SearchResult | null;

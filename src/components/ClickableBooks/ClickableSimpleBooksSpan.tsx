@@ -8,12 +8,7 @@ interface BookSpanProps {
   onClick: (event: React.MouseEvent<HTMLElement>) => void; // Pass the click handler
 }
 
-const BookSpan: React.FC<BookSpanProps> = ({
-    wordText,
-    wordKey,
-    isSanskrit = false,
-    onClick,
-  }) => {
+const BookSpan: React.FC<BookSpanProps> = ({ wordText, wordKey, isSanskrit = false, onClick }) => {
   // Calculate className based only on props relevant to this specific word
   const className = `
     ${classes.word}

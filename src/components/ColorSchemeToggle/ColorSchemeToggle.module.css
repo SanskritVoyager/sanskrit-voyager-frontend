@@ -61,7 +61,7 @@
 
 
 .light {
-  color: var(--mantine-color-coolOrange-5);
+  color: var(--mantine-color-coolOrange-4);
 
 }
 
@@ -83,7 +83,7 @@
 }
 
 .light, .dark {
-  color: light-dark(var(--mantine-color-indigo-9), var(--mantine-color-coolOrange-5));
+  color: light-dark(var(--mantine-color-indigo-9), var(--mantine-color-coolOrange-4));
 }
 
 */

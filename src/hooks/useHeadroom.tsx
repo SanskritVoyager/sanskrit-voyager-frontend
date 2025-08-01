@@ -20,13 +20,15 @@ export const managePinStateAndCallbacks = (
       isCurrentlyPinnedRef.current = true;
       onPin?.();
     }
-  } else { // Not in fixed position
+  } else {
+    // Not in fixed position
     if (isScrollingUp) {
       if (!isCurrentlyPinnedRef.current) {
         isCurrentlyPinnedRef.current = true;
         onPin?.();
       }
-    } else { // Scrolling down
+    } else {
+      // Scrolling down
       if (isCurrentlyPinnedRef.current) {
         isCurrentlyPinnedRef.current = false;
         onRelease?.();
@@ -62,7 +64,7 @@ function useCombinedScrollData(
 
   useEffect(() => {
     const element = containerRef.current;
-    
+
     // Basic DOM safety check
     if (!element || !document.contains(element)) {
       setPosition({ x: 0, y: 0 });
@@ -80,10 +82,10 @@ function useCombinedScrollData(
 
       // Use RAF to throttle scroll updates for better performance
       if (rafRef.current) return;
-      
+
       rafRef.current = requestAnimationFrame(() => {
         rafRef.current = undefined;
-        
+
         const currentScrollTop = element.scrollTop;
         const currentScrollLeft = element.scrollLeft;
 
@@ -92,20 +94,20 @@ function useCombinedScrollData(
         // Calculate scroll direction with threshold
         if (Math.abs(currentScrollTop - lastScrollTopRef.current) > scrollThreshold) {
           const newIsScrollingUp = currentScrollTop < lastScrollTopRef.current;
-          
+
           // Only update state if direction actually changed
           if (newIsScrollingUp !== isScrollingUpRef.current) {
             isScrollingUpRef.current = newIsScrollingUp;
             setIsScrollingUp(newIsScrollingUp);
           }
         }
-        
+
         // Special case: if at the very top, always consider it as "scrolling up"
         if (currentScrollTop === 0 && !isScrollingUpRef.current) {
           isScrollingUpRef.current = true;
           setIsScrollingUp(true);
         }
-        
+
         lastScrollTopRef.current = Math.max(0, currentScrollTop);
       });
     };
@@ -114,11 +116,11 @@ function useCombinedScrollData(
       setIsResizing(true);
       // Remember current position before resize
       const preResizeScrollTop = lastScrollTopRef.current;
-      
+
       clearTimeout(resizeTimerRef.current);
       resizeTimerRef.current = setTimeout(() => {
         setIsResizing(false);
-        
+
         // After resize, check if scroll position changed significantly
         const postResizeScrollTop = element.scrollTop;
         if (Math.abs(postResizeScrollTop - preResizeScrollTop) > scrollThreshold) {
@@ -128,7 +130,7 @@ function useCombinedScrollData(
             setIsScrollingUp(newIsScrollingUp);
           }
         }
-        
+
         lastScrollTopRef.current = Math.max(0, postResizeScrollTop);
       }, 300);
     };
@@ -136,10 +138,10 @@ function useCombinedScrollData(
     // Initialize state
     const initialScrollTop = element.scrollTop;
     const initialScrollLeft = element.scrollLeft;
-    
+
     setPosition({ x: initialScrollLeft, y: initialScrollTop });
     lastScrollTopRef.current = Math.max(0, initialScrollTop);
-    
+
     // Start with "scrolling up" if at top, otherwise maintain current state
     const initialIsScrollingUp = initialScrollTop === 0 ? true : isScrollingUpRef.current;
     if (initialIsScrollingUp !== isScrollingUpRef.current) {
@@ -198,7 +200,7 @@ export function useContainerHeadroom({
   // Manage pin state and callbacks - only when ready
   useIsomorphicEffect(() => {
     if (!isReady) return;
-    
+
     managePinStateAndCallbacks(
       scrollY,
       fixedAt,
@@ -212,7 +214,7 @@ export function useContainerHeadroom({
   // Handle fix callback - only when ready
   useIsomorphicEffect(() => {
     if (!isReady) return;
-    
+
     if (isFixed(scrollY, fixedAt)) {
       onFixRef.current?.();
       // Ensure pinned state is consistent when fixed
@@ -225,19 +227,22 @@ export function useContainerHeadroom({
 
   // Return visible state - default to visible when not ready (safer for mobile)
   if (!isReady) return true;
-  
+
   return isFixed(scrollY, fixedAt) || isScrollingUp;
 }
 
 // Separate scroll utility
 export function useContainerScrollTo(containerRef: React.RefObject<HTMLElement>) {
-  return useCallback(({ x, y }: Partial<ScrollPosition>) => {
-    if (!containerRef.current) return;
-    
-    const scrollOptions: ScrollToOptions = { behavior: 'smooth' };
-    if (typeof x === 'number') scrollOptions.left = x;
-    if (typeof y === 'number') scrollOptions.top = y;
-    
-    containerRef.current.scrollTo(scrollOptions);
-  }, [containerRef]);
+  return useCallback(
+    ({ x, y }: Partial<ScrollPosition>) => {
+      if (!containerRef.current) return;
+
+      const scrollOptions: ScrollToOptions = { behavior: 'smooth' };
+      if (typeof x === 'number') scrollOptions.left = x;
+      if (typeof y === 'number') scrollOptions.top = y;
+
+      containerRef.current.scrollTo(scrollOptions);
+    },
+    [containerRef]
+  );
 }

@@ -22,19 +22,15 @@ export function ResponsiveProvider({ children }: { children: React.ReactNode }) 
   const isMobile = useMediaQuery('(max-width: 660px)') ?? false;
   const isTablet = useMediaQuery('(max-width: 1100px)') ?? false;
   const isSmallMobile = useMediaQuery('(max-height: 724px)') ?? false;
-  
+
   // Value to be provided to consuming components
   const value = {
     isMobile,
     isTablet,
     isSmallMobile,
   };
-  
-  return (
-    <ResponsiveContext.Provider value={value}>
-      {children}
-    </ResponsiveContext.Provider>
-  );
+
+  return <ResponsiveContext.Provider value={value}>{children}</ResponsiveContext.Provider>;
 }
 
 // Custom hook for easier access to this context

@@ -3,12 +3,11 @@ import { SegmentedControl } from '@mantine/core';
 import classes from './TranslationControl.module.css';
 
 interface TranslationControlProps {
-    textType: string;
-    setTextType: (value: string) => void;
+  textType: string;
+  setTextType: (value: string) => void;
 }
 
 function TranslationControl({ textType, setTextType }: TranslationControlProps) {
-
   return (
     <SegmentedControl
       fullWidth
@@ -19,7 +18,7 @@ function TranslationControl({ textType, setTextType }: TranslationControlProps) 
         { label: 'Line by Line', value: 'both' },
         { label: 'Original Text', value: 'or' },
       ]}
-    classNames={{
+      classNames={{
         indicator: classes.indicator,
         root: classes.root,
       }}

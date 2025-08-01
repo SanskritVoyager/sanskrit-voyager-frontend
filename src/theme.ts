@@ -5,11 +5,9 @@ import './fonts/LibertinusSans/LibertinusSans.css';
 import './fonts/IndUni-P/IndUni-P.css';
 
 export const theme = createTheme({
-
   primaryColor: 'primary',
 
   fontFamily: 'Palatino, serif',
-
 
   fontSizes: {
     xs: rem(11),
@@ -33,7 +31,7 @@ export const theme = createTheme({
       light: 'coolOrange',
     }),
 
-   coolOrange: [
+    coolOrange: [
       '#dd8c71', // 0: lightest
       '#dd8c71',
       '#dd8c71',
@@ -46,41 +44,33 @@ export const theme = createTheme({
       '#dd8c71', // 10: even darker
     ],
 
-  
-
-  lightscale: [
-
-          '#ffffff', // white
-          '#fefdfc', // 0: lightest
-          '#f8f8f7',
-          '#f5f4ee',
-          '#f3f3f0', // 4: your main color
-          '#f0eee5',
-          '#e2e0d3',
-          '#eeece2',
-          '#dd8c71',
-          '#c05f3b', // 9: darkest
+    lightscale: [
+      '#ffffff', // white
+      '#fefdfc', // 0: lightest
+      '#f8f8f7',
+      '#f5f4ee',
+      '#f3f3f0', // 4: your main color
+      '#f0eee5',
+      '#e2e0d3',
+      '#eeece2',
+      '#dd8c71',
+      '#c05f3b', // 9: darkest
     ],
     palette: [
-
       '#2c5282', // blue
       '#ac3e3e', // red
       '#008080', // teal
       '#f5f4ee',
       '#f3f3f0', // 4: your main color
-      '#f0eee5',// used
+      '#f0eee5', // used
       '#4C8EE0', // lighter blue1
       '#91B0D7', // lighter blue2
-      '#D6E9FF',  // lightest blue
+      '#D6E9FF', // lightest blue
       '#c05f3b', // 9: darkest
-  ],
-      
+    ],
   },
 
-  
-  
   headings: { fontFamily: 'LibertinusSans, sans serif' },
-
 
   /** Put your mantine theme override here */
 });

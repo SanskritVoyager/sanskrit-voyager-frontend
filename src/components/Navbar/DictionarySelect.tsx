@@ -27,25 +27,19 @@ const DictionarySelectComponent = ({
             { value: 'mw', label: 'Monier-Williams Sanskrit-English Dictionary' },
             { value: 'ap90', label: 'Apte Practical Sanskrit-English Dictionary' },
             { value: 'cae', label: 'Cappeller Sanskrit-English Dictionary' },
-          ]
+          ],
         },
         {
           group: 'Sanskrit-Concise',
-          items: [
-            { value: 'ddsa', label: 'Macdonell A Practical Sanskrit Dictionary' },
-          ]
+          items: [{ value: 'ddsa', label: 'Macdonell A Practical Sanskrit Dictionary' }],
         },
         {
           group: 'Sanskrit-German',
-          items: [
-            { value: 'gra', label: 'Grassmann Wörterbuch zum Rig Veda' },
-          ]
+          items: [{ value: 'gra', label: 'Grassmann Wörterbuch zum Rig Veda' }],
         },
         {
           group: 'Specialized Dictionaries',
-          items: [
-            { value: 'bhs', label: 'Edgerton Buddhist Hybrid Sanskrit Dictionary' },
-          ]
+          items: [{ value: 'bhs', label: 'Edgerton Buddhist Hybrid Sanskrit Dictionary' }],
         },
         //{
         //  group: 'Sanskrit to Sanskrit',
@@ -53,14 +47,11 @@ const DictionarySelectComponent = ({
         //    { value: 'armh', label: 'Abhidhānaratnamālā of Halāyudha' },
         //    { value: 'abch', label: 'Abhidhānacintāmaṇi of Hemacandrācārya' },
         //  ]
-      //  },
-
+        //  },
 
         {
           group: 'Pali Dictionaries',
-          items: [
-            { value: 'cped', label: 'Concise Pali English Dictionary' },
-          ]
+          items: [{ value: 'cped', label: 'Concise Pali English Dictionary' }],
         },
       ]}
       value={selectedDictionaries} // Bind the parent state

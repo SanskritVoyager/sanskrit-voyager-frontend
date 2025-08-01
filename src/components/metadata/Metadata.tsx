@@ -7,21 +7,27 @@ interface MetadataProps {
   metadata: Metadata;
 }
 
-
 // Helper to detect if we have complex metadata
 const isComplexMetadata = (metadata: any): boolean => {
-  return !!(metadata.titles || metadata.authors || metadata.publication?.availability || metadata.sources);
+  return !!(
+    metadata.titles ||
+    metadata.authors ||
+    metadata.publication?.availability ||
+    metadata.sources
+  );
 };
 
 // Helper to safely extract text from content array
 const extractTextFromContent = (content: any[]): string => {
   if (!content || !Array.isArray(content)) return '';
-  
-  return content.map(item => {
-    if (item.type === 'text') return item.value;
-    if (item.content) return extractTextFromContent(item.content);
-    return '';
-  }).join('');
+
+  return content
+    .map((item) => {
+      if (item.type === 'text') return item.value;
+      if (item.content) return extractTextFromContent(item.content);
+      return '';
+    })
+    .join('');
 };
 
 // Helper to check if a value is empty
@@ -36,14 +42,14 @@ const isEmpty = (value: any): boolean => {
 // Component for rendering structured content (for revision history)
 const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
   if (!content || !Array.isArray(content)) return null;
-  
+
   return (
     <>
       {content.map((item, index) => {
         if (item.type === 'text') {
           return <span key={index}>{item.value}</span>;
         }
-        
+
         if (item.type === 'note') {
           return (
             <Paper key={index} p="md" my="md" className={classes.noteBlock}>
@@ -51,7 +57,7 @@ const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
             </Paper>
           );
         }
-        
+
         if (item.type === 'p') {
           return (
             <Text key={index} component="p" mb="sm">
@@ -59,7 +65,7 @@ const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
             </Text>
           );
         }
-        
+
         if (item.type === 'list') {
           return (
             <Box key={index} component="ul" pl="lg" my="sm">
@@ -71,7 +77,7 @@ const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
             </Box>
           );
         }
-        
+
         if (item.type === 'persName' || item.type === 'placeName') {
           return (
             <Text key={index} span className={classes.textName}>
@@ -79,23 +85,36 @@ const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
             </Text>
           );
         }
-        
+
         if (item.type === 'ref') {
           return (
-            <a key={index} href={item.attributes?.target} target="_blank" rel="noopener noreferrer" className={classes.link}>
+            <a
+              key={index}
+              href={item.attributes?.target}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={classes.link}
+            >
               <StructuredContent content={item.content} />
             </a>
           );
         }
-        
+
         if (item.type === 'code') {
           return (
-            <Text key={index} span ff="monospace" bg="gray.1" px="xs" className={classes.inlineCode}>
+            <Text
+              key={index}
+              span
+              ff="monospace"
+              bg="gray.1"
+              px="xs"
+              className={classes.inlineCode}
+            >
               <StructuredContent content={item.content} />
             </Text>
           );
         }
-        
+
         if (item.type === 'address') {
           return (
             <Box key={index} component="address" fs="italic" pl="md">
@@ -103,7 +122,7 @@ const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
             </Box>
           );
         }
-        
+
         if (item.type === 'addrLine') {
           return (
             <Text key={index} component="div">
@@ -111,12 +130,12 @@ const StructuredContent: React.FC<{ content: any[] }> = ({ content }) => {
             </Text>
           );
         }
-        
+
         // For any other type with content
         if (item.content) {
           return <StructuredContent key={index} content={item.content} />;
         }
-        
+
         return null;
       })}
     </>
@@ -131,15 +150,19 @@ const ContributorsList: React.FC<{ contributors: any[] }> = ({ contributors }) =
         const role = contributor.responsibility || contributor.role;
         const name = contributor.name;
         const when = contributor.when || contributor.name_attributes?.when;
-        
+
         if (isEmpty(name)) return null;
-        
+
         return (
           <Box key={index} className={classes.contributorItem}>
             <Text>
-              <strong>{role?.charAt(0).toUpperCase() + role?.slice(1)}:</strong>{' '}
-              {name}
-              {when && <Text span c="dimmed" size="xs"> ({when})</Text>}
+              <strong>{role?.charAt(0).toUpperCase() + role?.slice(1)}:</strong> {name}
+              {when && (
+                <Text span c="dimmed" size="xs">
+                  {' '}
+                  ({when})
+                </Text>
+              )}
             </Text>
           </Box>
         );
@@ -154,32 +177,31 @@ const SourcesList: React.FC<{ sources: any[] }> = ({ sources }) => {
     <Stack gap="md">
       {sources.map((source, index) => (
         <Paper key={index} p="sm" className={classes.sourceItem}>
-          {source.titles && source.titles.map((title: any, tIndex: number) => (
-            <Text key={tIndex} fw={title.type === 'main' ? 600 : 400} >
-              {title.text}
-            </Text>
-          ))}
+          {source.titles &&
+            source.titles.map((title: any, tIndex: number) => (
+              <Text key={tIndex} fw={title.type === 'main' ? 600 : 400}>
+                {title.text}
+              </Text>
+            ))}
           {source.authors && (
-            <Text c="dimmed">
-              by {source.authors.map((a: any) => a.name).join(', ')}
-            </Text>
+            <Text c="dimmed">by {source.authors.map((a: any) => a.name).join(', ')}</Text>
           )}
           {source.publisher && (
             <Text>
-              Publisher: {typeof source.publisher === 'string' ? source.publisher : extractTextFromContent(source.publisher.content)}
+              Publisher:{' '}
+              {typeof source.publisher === 'string'
+                ? source.publisher
+                : extractTextFromContent(source.publisher.content)}
             </Text>
           )}
-          {source.date && (
-            <Text>Date: {source.date.text}</Text>
-          )}
-          {source.notes && source.notes.map((note: any, nIndex: number) => (
-            <Text key={nIndex} size="xs" c="dimmed" fs="italic">
-              {extractTextFromContent(note.content)}
-            </Text>
-          ))}
-          {source.full_text_concat && !source.titles && (
-            <Text>{source.full_text_concat}</Text>
-          )}
+          {source.date && <Text>Date: {source.date.text}</Text>}
+          {source.notes &&
+            source.notes.map((note: any, nIndex: number) => (
+              <Text key={nIndex} size="xs" c="dimmed" fs="italic">
+                {extractTextFromContent(note.content)}
+              </Text>
+            ))}
+          {source.full_text_concat && !source.titles && <Text>{source.full_text_concat}</Text>}
         </Paper>
       ))}
     </Stack>
@@ -189,17 +211,19 @@ const SourcesList: React.FC<{ sources: any[] }> = ({ sources }) => {
 // Component for rendering publication info
 const PublicationInfo: React.FC<{ publication: any }> = ({ publication }) => {
   const { authority, publisher, date, availability } = publication;
-  
+
   return (
     <Stack gap="xs">
       {authority && !isEmpty(authority) && (
         <Text>
-          <strong>Authority:</strong> {typeof authority === 'string' ? authority : extractTextFromContent(authority.content)}
+          <strong>Authority:</strong>{' '}
+          {typeof authority === 'string' ? authority : extractTextFromContent(authority.content)}
         </Text>
       )}
       {publisher && !isEmpty(publisher) && (
         <Text>
-          <strong>Publisher:</strong> {typeof publisher === 'string' ? publisher : extractTextFromContent(publisher.content)}
+          <strong>Publisher:</strong>{' '}
+          {typeof publisher === 'string' ? publisher : extractTextFromContent(publisher.content)}
         </Text>
       )}
       {date && !isEmpty(date) && (
@@ -209,14 +233,17 @@ const PublicationInfo: React.FC<{ publication: any }> = ({ publication }) => {
       )}
       {availability?.license_declaration && !isEmpty(availability.license_declaration) && (
         <Box>
-          <Text><strong>License:</strong></Text>
-          <a 
-            href={availability.license_declaration.target} 
-            target="_blank" 
+          <Text>
+            <strong>License:</strong>
+          </Text>
+          <a
+            href={availability.license_declaration.target}
+            target="_blank"
             rel="noopener noreferrer"
             className={classes.licenseLink}
           >
-            {availability.license_declaration.text || extractTextFromContent(availability.license_declaration.content)}
+            {availability.license_declaration.text ||
+              extractTextFromContent(availability.license_declaration.content)}
           </a>
         </Box>
       )}
@@ -229,23 +256,24 @@ const RevisionHistory: React.FC<{ revisions: any[] }> = ({ revisions }) => {
   return (
     <Stack gap="md">
       {revisions.map((revision, index) => {
-        const hasFullContent = revision.description_content && revision.description_content.length > 0;
-        
+        const hasFullContent =
+          revision.description_content && revision.description_content.length > 0;
+
         return (
           <Paper key={index} className={classes.revisionCard} withBorder>
-            <Group gap="xs" mb={hasFullContent ? "md" : 0}>
-              {revision.when && 
-              <Badge 
-                    size="sm" 
-                    variant="light"
-                    classNames={{root: classes.badgeRoot}}>{revision.when}</Badge>}
+            <Group gap="xs" mb={hasFullContent ? 'md' : 0}>
+              {revision.when && (
+                <Badge size="sm" variant="light" classNames={{ root: classes.badgeRoot }}>
+                  {revision.when}
+                </Badge>
+              )}
               {revision.who && <Text className={classes.revisionAuthor}>{revision.who}</Text>}
             </Group>
-            
+
             {revision.description_text && !hasFullContent && (
-              <Text size='sm'>{revision.description_text}</Text>
+              <Text size="sm">{revision.description_text}</Text>
             )}
-            
+
             {hasFullContent && (
               <Box className={classes.revisionContent}>
                 <StructuredContent content={revision.description_content} />
@@ -262,18 +290,18 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
   if (!metadata) return null;
 
   const isComplex = isComplexMetadata(metadata);
-  
+
   // Parse title to extract main title and subtitle
   const parseTitle = (title: string) => {
     if (!title) return { mainTitle: '', subtitle: '' };
-    
+
     const openParenIndex = title.indexOf('(');
     const openBracketIndex = title.indexOf('[');
-    
+
     if (openParenIndex === -1 && openBracketIndex === -1) {
       return { mainTitle: title, subtitle: '' };
     }
-    
+
     const splitIndex = openParenIndex !== -1 ? openParenIndex : openBracketIndex;
     const mainTitle = title.substring(0, splitIndex).trim();
     const subtitle = title.substring(splitIndex).trim();
@@ -297,22 +325,22 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
 
   return (
     <div className={classes.metadataContainer}>
-      <Title 
-        order={1} 
+      <Title
+        order={1}
         className={`${classes.bookTitle} ${classes[titleSize]}`}
         style={{
           lineHeight: 1.2,
           marginBottom: subtitle ? '0.5rem' : '1rem',
           wordBreak: 'break-word',
-          hyphens: 'auto'
+          hyphens: 'auto',
         }}
       >
         {mainTitle}
       </Title>
-      
+
       {subtitle && (
-        <Text 
-          size="lg" 
+        <Text
+          size="lg"
           className={classes.bookSubtitle}
           style={{
             marginBottom: '1rem',
@@ -320,22 +348,22 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
             marginLeft: '1rem',
             fontStyle: 'italic',
             color: 'var(--mantine-color-dimmed)',
-            lineHeight: 1.2
+            lineHeight: 1.2,
           }}
         >
           {subtitle}
         </Text>
       )}
-      
+
       {/* Authors - handle both simple and complex formats */}
       {(metadata.author || metadata.authors) && (
         <Text size="lg" className={classes.authorLine}>
-          by {metadata.author || metadata.authors?.map(a => a.name).join(', ')}
+          by {metadata.author || metadata.authors?.map((a) => a.name).join(', ')}
         </Text>
       )}
 
-      <Accordion 
-        className={classes.metadataAccordion} 
+      <Accordion
+        className={classes.metadataAccordion}
         // variant="contained"
         classNames={{
           root: classes.metadataAccordionRoot,
@@ -358,12 +386,16 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
               {metadata.principal && !isEmpty(metadata.principal) && (
                 <Text size="md" c="dimmed" mb="md" mt="md">
                   Principal: {metadata.principal.person_name}
-                  {metadata.principal.organization_name && ` (${metadata.principal.organization_name})`}
+                  {metadata.principal.organization_name &&
+                    ` (${metadata.principal.organization_name})`}
                 </Text>
               )}
 
-              {(metadata.publisher || metadata.publication || metadata.publication_date || 
-                metadata.license || metadata.funder) && (
+              {(metadata.publisher ||
+                metadata.publication ||
+                metadata.publication_date ||
+                metadata.license ||
+                metadata.funder) && (
                 <Box>
                   <Text mb="sm" className={classes.sectionTitle}>
                     Basic Information
@@ -375,24 +407,24 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
                         <strong>Publisher:</strong> {metadata.publisher}
                       </Text>
                     )}
-                    
+
                     {metadata.publication && !isEmpty(metadata.publication) && (
                       <PublicationInfo publication={metadata.publication} />
                     )}
-                    
+
                     {metadata.publication_date && !metadata.publication?.date && (
                       <Text className={classes.metadataItem}>
                         <strong>Publication Date:</strong> {metadata.publication_date}
                       </Text>
                     )}
-                    
+
                     {/* Simple license */}
                     {metadata.license && !metadata.publication?.availability && (
                       <Text className={classes.metadataItem}>
                         <strong>License: </strong>
-                        <a 
-                          href={metadata.license.target} 
-                          target="_blank" 
+                        <a
+                          href={metadata.license.target}
+                          target="_blank"
                           rel="noopener noreferrer"
                           className={classes.licenseLink}
                         >
@@ -400,15 +432,14 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
                         </a>
                       </Text>
                     )}
-                    
+
                     {/* Funder (new field) */}
                     {metadata.funder && !isEmpty(metadata.funder) && (
                       <Text className={classes.metadataItem}>
-                        <strong>Funder:</strong> {
-                          typeof metadata.funder === 'string' 
-                            ? metadata.funder 
-                            : extractTextFromContent(metadata.funder.content)
-                        }
+                        <strong>Funder:</strong>{' '}
+                        {typeof metadata.funder === 'string'
+                          ? metadata.funder
+                          : extractTextFromContent(metadata.funder.content)}
                       </Text>
                     )}
                   </Stack>
@@ -457,9 +488,7 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
                   </Text>
                   <Stack gap="sm">
                     {metadata.notes_statement.map((note: any, index: number) => (
-                      <Text key={index}>
-                        {extractTextFromContent(note.content)}
-                      </Text>
+                      <Text key={index}>{extractTextFromContent(note.content)}</Text>
                     ))}
                   </Stack>
                 </Box>
@@ -473,25 +502,27 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
                     Technical Details
                   </Text>
                   <Stack gap="sm">
-                    {metadata.encoding_description.description_paragraphs?.map((para: any, index: number) => (
-                      <Text key={index} >
-                        {extractTextFromContent(para.content)}
-                      </Text>
-                    ))}
+                    {metadata.encoding_description.description_paragraphs?.map(
+                      (para: any, index: number) => (
+                        <Text key={index}>{extractTextFromContent(para.content)}</Text>
+                      )
+                    )}
                     {metadata.encoding_description.editorial_declaration && (
                       <Box>
                         <Text mb="xs">Editorial Declaration:</Text>
-                        {Object.entries(metadata.encoding_description.editorial_declaration).map(([key, value]: [string, any]) => {
-                          if (isEmpty(value)) return null;
-                          return (
-                            <Text key={key} pl="md">
-                              <strong>{key}:</strong> {
-                                value.text || 
-                                (value.paragraphs_content && extractTextFromContent(value.paragraphs_content[0].content))
-                              }
-                            </Text>
-                          );
-                        })}
+                        {Object.entries(metadata.encoding_description.editorial_declaration).map(
+                          ([key, value]: [string, any]) => {
+                            if (isEmpty(value)) return null;
+                            return (
+                              <Text key={key} pl="md">
+                                <strong>{key}:</strong>{' '}
+                                {value.text ||
+                                  (value.paragraphs_content &&
+                                    extractTextFromContent(value.paragraphs_content[0].content))}
+                              </Text>
+                            );
+                          }
+                        )}
                       </Box>
                     )}
                   </Stack>

@@ -14,25 +14,25 @@ const handleApiError = (response: Response) => {
 
 // Function to fetch book text by title
 export const fetchBookText = async (title: string): Promise<BookText> => {
-    try {
-      const response = await fetch(`${API_BASE_URL}/book`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ title: title }), // Pass the title directly
-      });
-      console.log("title", title)
-  
-      const data = await handleApiError(response);
-      
-      // Convert API response to BookText format
-      return formatApiResponseToBookText(data, title);
-    } catch (error) {
-      console.error('Error fetching book text:', error);
-      throw error;
-    }
-  };
+  try {
+    const response = await fetch(`${API_BASE_URL}/book`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ title: title }), // Pass the title directly
+    });
+    console.log('title', title);
+
+    const data = await handleApiError(response);
+
+    // Convert API response to BookText format
+    return formatApiResponseToBookText(data, title);
+  } catch (error) {
+    console.error('Error fetching book text:', error);
+    throw error;
+  }
+};
 
 // Function to search texts
 export const searchTexts = async (params: any) => {
@@ -75,7 +75,7 @@ const formatApiResponseToBookText = (segments: any[], titleOrId: string): BookTe
   // Extract metadata if available from the first segment
   const firstSegment = segments[0] || {};
   const title = firstSegment.book_title || firstSegment.title || titleOrId;
-  
+
   // Create a basic BookText structure
   const bookText: BookText = {
     metadata: {
@@ -89,6 +89,6 @@ const formatApiResponseToBookText = (segments: any[], titleOrId: string): BookTe
       } as TextElement;
     }),
   };
-  
+
   return bookText;
 };

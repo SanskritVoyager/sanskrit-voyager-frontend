@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
-import WordInfo from './WordInfo';
+import WordInfo from './WordEntries/WordInfo';
 import classes from './ClickableBooks/ClickableSimpleBooks.module.css';
 import { useResponsive } from '@/context/ResponsiveContext';
 
@@ -52,10 +52,9 @@ const WordInfoPortal: React.FC<WordInfoPortalProps> = ({
   // Effect for scrolling behavior
   useEffect(() => {
     if (!isLoadingDebug && wordData.length > 0 && portalContainer) {
-      portalContainer.scrollIntoView({ 
-        
+      portalContainer.scrollIntoView({
         behavior: 'smooth',
-        block: isMobile ? 'start' : 'center'
+        block: isMobile ? 'start' : 'center',
       });
     }
   }, [isLoadingDebug, wordData, portalContainer]);

@@ -1,11 +1,5 @@
 // localStorageColorSchemeManager.ts
-import {
-  isMantineColorScheme,
-  MantineColorScheme,
-  MantineColorSchemeManager,
-} from '@mantine/core';
-
-
+import { isMantineColorScheme, MantineColorScheme, MantineColorSchemeManager } from '@mantine/core';
 
 export interface LocalStorageColorSchemeManagerOptions {
   key?: string;
@@ -18,10 +12,10 @@ export function localStorageColorSchemeManager({
   let storageHandler: ((event: StorageEvent) => void) | null = null;
   let mediaQueryHandler: ((event: MediaQueryListEvent) => void) | null = null;
   let mediaQuery: MediaQueryList | null = null;
-  
+
   // Add a reference to store timeout ID for debouncing
   let debounceTimeout: number | null = null;
-  
+
   return {
     get: (defaultValue) => {
       if (typeof window === 'undefined') {
@@ -34,24 +28,25 @@ export function localStorageColorSchemeManager({
         if (stored && isMantineColorScheme(stored)) {
           return stored;
         }
-        
+
         // Set system preference as default
-        const systemPreference = window.matchMedia('(prefers-color-scheme: dark)').matches ? 
-          'dark' : 'light';
-        
+        const systemPreference = window.matchMedia('(prefers-color-scheme: dark)').matches
+          ? 'dark'
+          : 'light';
+
         // Store for future use but don't trigger reflows
         try {
           window.localStorage.setItem(key, systemPreference);
         } catch {
           // Ignore errors in private browsing
         }
-        
+
         return systemPreference;
       } catch {
         return defaultValue;
       }
     },
-    
+
     set: (colorScheme) => {
       if (typeof window === 'undefined') return;
       try {
@@ -60,7 +55,7 @@ export function localStorageColorSchemeManager({
         // Ignore errors in private browsing
       }
     },
-    
+
     clear: () => {
       if (typeof window === 'undefined') return;
       try {
@@ -75,9 +70,11 @@ export function localStorageColorSchemeManager({
       if (typeof window === 'undefined') return;
 
       storageHandler = (event) => {
-        if (event.storageArea === window.localStorage && 
-            event.key === key && 
-            isMantineColorScheme(event.newValue)) {
+        if (
+          event.storageArea === window.localStorage &&
+          event.key === key &&
+          isMantineColorScheme(event.newValue)
+        ) {
           onUpdate(event.newValue);
         }
       };
@@ -88,7 +85,7 @@ export function localStorageColorSchemeManager({
         if (debounceTimeout) {
           window.clearTimeout(debounceTimeout);
         }
-        
+
         debounceTimeout = window.setTimeout(() => {
           if (!window.localStorage.getItem(key)) {
             const newScheme = e.matches ? 'dark' : 'light';
@@ -103,22 +100,22 @@ export function localStorageColorSchemeManager({
 
     unsubscribe: () => {
       if (typeof window === 'undefined') return;
-      
+
       if (storageHandler) {
         window.removeEventListener('storage', storageHandler);
         storageHandler = null;
       }
-      
+
       if (mediaQuery && mediaQueryHandler) {
         mediaQuery.removeEventListener('change', mediaQueryHandler);
         mediaQueryHandler = null;
         mediaQuery = null;
       }
-      
+
       if (debounceTimeout) {
         window.clearTimeout(debounceTimeout);
         debounceTimeout = null;
       }
-    }
+    },
   };
 }

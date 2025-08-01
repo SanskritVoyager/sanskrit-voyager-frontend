@@ -9,18 +9,19 @@ interface BookSelectProps {
 // BookTitle interface defines the structure of our processed book data
 interface BookTitle {
   // Value is stored in normalized form (no diacritics, spaces instead of underscores)
-  value: string;    
+  value: string;
   // Label is the human-readable form with proper capitalization
-  label: string;    
+  label: string;
   // Original filename as it exists in the system
-  original: string; 
+  original: string;
 }
 
 // Utility function to properly capitalize words in a title
 function capitalizeWords(string: string) {
-  return string.split(' ').map(word =>
-    word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ');
+  return string
+    .split(' ')
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
 }
 
 // Utility function to remove diacritical marks from text
@@ -38,16 +39,17 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
   // Simplified filter function that works with pre-normalized values
   const normalisedFilter: OptionsFilter = ({ options, search }) => {
     const normalizedSearch = removeDiacritics(search.toLowerCase().trim());
-    
+
     return options.filter((option): option is ComboboxItem => {
       // First check if this is a group
       if ('group' in option) {
         return false; // We don't handle groups in our case
       }
-      
+
       // Now TypeScript knows this is a ComboboxItem with a value
-      return typeof option.value === 'string' && 
-        option.value.toLowerCase().includes(normalizedSearch);
+      return (
+        typeof option.value === 'string' && option.value.toLowerCase().includes(normalizedSearch)
+      );
     });
   };
 
@@ -63,10 +65,10 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
         const formattedData = data.map((title: string) => {
           // Remove special prefixes and replace special characters
           const displayText = title
-            .replace(/^sa/, '')    // Remove 'sa' prefix
-            .replace(/^ta/, '')    // Remove 'ta' prefix
-            .replace(/_/g, ' ')    // Replace underscores with spaces
-            .replace(/-/g, ' ');   // Replace hyphens with spaces
+            .replace(/^sa/, '') // Remove 'sa' prefix
+            .replace(/^ta/, '') // Remove 'ta' prefix
+            .replace(/_/g, ' ') // Replace underscores with spaces
+            .replace(/-/g, ' '); // Replace hyphens with spaces
 
           // Create a single processed entry for each book
           return {
@@ -75,14 +77,12 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
             // Store properly formatted version for display
             label: capitalizeWords(displayText),
             // Keep original filename for file operations
-            original: title
+            original: title,
           };
         });
 
         // Sort books alphabetically by display label
-        setBookTitlesList(formattedData.sort((a, b) => 
-          a.label.localeCompare(b.label)
-        ));
+        setBookTitlesList(formattedData.sort((a, b) => a.label.localeCompare(b.label)));
       })
       .catch((error) => {
         console.error('Error loading titles:', error);
@@ -91,7 +91,7 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
 
   // Handle selection of a book
   const selectBook = (value: string | null) => {
-    const selectedBook = bookTitlesList.find(book => book.value === value);
+    const selectedBook = bookTitlesList.find((book) => book.value === value);
     // Pass the original filename back to parent component
     setBookTitle(selectedBook?.original ?? null);
     // Update local selected value state

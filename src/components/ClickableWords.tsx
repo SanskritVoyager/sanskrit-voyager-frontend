@@ -18,7 +18,6 @@ interface ClickableWordsProps {
   onAdditionalWordClick?: (word: string) => void;
   setClickedAdditionalWord: (word: string) => void;
   setIsLoadingWordData: (isLoading: boolean) => void;
-
 }
 
 const ClickableWords: React.FC<ClickableWordsProps> = ({
@@ -31,7 +30,7 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
   onWordClick,
   onAdditionalWordClick,
   textTranslit,
-  setClickedAdditionalWord
+  setClickedAdditionalWord,
 }) => {
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const clipboard = useClipboard({ timeout: 500 });
@@ -43,12 +42,11 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
     if (onWordClick) {
       onWordClick(trimmedWord);
     }
-    
   };
 
   return (
     <>
-      {textTranslit !== "" && (
+      {textTranslit !== '' && (
         <ActionIcon
           className={classes.copyButton}
           onClick={() => clipboard.copy(lines.join('\n'))}
@@ -58,11 +56,11 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
           {clipboard.copied ? (
             <IconClipboardCheck className={classes.iconClip} size={20} stroke={1.5} />
           ) : (
-            < IconClipboard className={classes.iconClip} size={20} stroke={1.5} />
+            <IconClipboard className={classes.iconClip} size={20} stroke={1.5} />
           )}
         </ActionIcon>
       )}
-      
+
       <div style={{ marginTop: '4.5rem' }}>
         {lines.map((line, lineIndex) => {
           const words = line.split(/\s+|\+/);
@@ -73,7 +71,7 @@ const ClickableWords: React.FC<ClickableWordsProps> = ({
                   const trimmedWord = word.trim();
                   return (
                     <span
-                     className={`
+                      className={`
                           ${classes.word}
                           ${selectedWord === trimmedWord ? classes.selectedWord : ''}
                           `}

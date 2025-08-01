@@ -15,11 +15,12 @@ import {
 import { useDisclosure, useDebouncedState, useHotkeys } from '@mantine/hooks';
 import { IconSearch, IconListSearch, IconMessageCircle } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
-import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
-export { UiSwitch } from './UiSwitch';
+import { ActionToggle } from '../ColorSchemeToggle/ColorSchemeToggle';
 import React, { useState, useEffect, useRef } from 'react';
-import Logo from './logo';
-import SearchToggle from './AdvancedSearchToggle';
+import Logo from '../../utils/logo';
+import SearchToggle from '../AdvancedSearch/AdvancedSearchToggle';
+
+
 
 const removeDiacritics = (str: string | null) => {
   if (str === null) {

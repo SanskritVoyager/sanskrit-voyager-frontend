@@ -6,6 +6,35 @@
     var(--mantine-color-red-4)*/
   }
 
+  /* Book Index styles */
+  .bookIndex {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-7));
+    box-shadow: none;
+    border: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-6)) !important;
+  }
+
+  .indexTitle{
+    font-family: 'LinuxBiolinum', sans-serif;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+
+  }
+
+  .indexLink {
+    text-decoration: none;
+    color: light-dark(var(--mantine-color-coolOrange-4), var(--mantine-color-coolOrange-4));
+    transition: color 0.2s ease-in-out;
+  }
+
+  .indexLink:hover {
+   
+    text-decoration: underline;
+    color: light-dark(var(--mantine-color-orange-3), var(--mantine-color-orange-3));
+    transition: color 0.05s ease-out;
+  }
+
   .lineContainer {
     position: relative;
     margin-bottom: 0.25rem;
@@ -33,6 +62,8 @@
   .hi {
     display: inline;
   }
+  
+
   
   /* Text formatting */
   .bold {
@@ -138,16 +169,21 @@
 
 
 .Sutra  {
-
-  font-size: 1.2rem;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
-  color: light-dark(var(--mantine-color-dark-6), var(--mantine-color-gray-3));
-  text-align: left;
-  line-height: 1.3;
-  font-family: 'LinuxBiolinum', sans-serif;
-}
-
+    display: block;
+    margin: 1rem 2rem;
+    padding-left: 1rem;
+    border-left: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
+    font-style: italic;
+    color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-gray-4)); /* Slightly different color */
+  }
+  
+  @media (max-width: 1000px) {
+    .Sutra{
+      padding-left: 0.5rem;
+    }
+  }
+  
+  
 
 .sūtra {
 
@@ -551,14 +587,17 @@ mark:hover {
 
 .ChapterTitle {
 
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  display: block;
+  font-size: 1.4em;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   color: light-dark(var(--mantine-color-dark-6), var(--mantine-color-gray-3));
   text-align: center;
   line-height: 1.3;
   font-family: 'LinuxBiolinum', sans-serif;
 }
+
+
 
 .IntroBhashya {
 
@@ -567,7 +606,7 @@ mark:hover {
   margin-top: 1rem;
   color: light-dark(var(--mantine-color-dark-6), var(--mantine-color-gray-3));
   text-align: left;
-  line-height: 1.2;
+  line-height: 2;
   font-family: 'garamond', serif;
   font-style: italic;
   margin-left: 1.5rem;

@@ -7,12 +7,10 @@ interface DictionaryEntryProps {
 
 function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
   const processContent = (content: string) => {
-
-      // Add this check: If content is null or undefined, return empty result
-      if (!content) {
-          return []; // Or return null, or an empty string span, depending on desired output
-      }
-
+    // Add this check: If content is null or undefined, return empty result
+    if (!content) {
+      return []; // Or return null, or an empty string span, depending on desired output
+    }
 
     content = content.replace(/&amp;c\./g, '&c.');
 
@@ -28,30 +26,43 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
 
     const getClassName = (tag: string): string => {
       switch (tag) {
-        case 'hw': return 'dictHeadword';
-        case 'ab': return 'dictAbbreviation';
-        case 'lex': return 'dictGrammar';
-        case 'ls': return 'dictSource';
-        case 'etym': return 'dictEtymology';
-        case 'def': return 'dictDefinition';
-        case 's': return 'dictSanskrit';
-        case 's1': return 'dictName';
-        case 'gk': return 'dictGreek';
-        case 'lang': return 'dictLanguage';
-        case 'i': return 'dictItalic';
-        case 'b': return 'dictBold';
-        case 'div': return 'dictDivision';
-        case 'hom': return 'dictHomonym';
-        default: return '';
+        case 'hw':
+          return 'dictHeadword';
+        case 'ab':
+          return 'dictAbbreviation';
+        case 'lex':
+          return 'dictGrammar';
+        case 'ls':
+          return 'dictSource';
+        case 'etym':
+          return 'dictEtymology';
+        case 'def':
+          return 'dictDefinition';
+        case 's':
+          return 'dictSanskrit';
+        case 's1':
+          return 'dictName';
+        case 'gk':
+          return 'dictGreek';
+        case 'lang':
+          return 'dictLanguage';
+        case 'i':
+          return 'dictItalic';
+        case 'b':
+          return 'dictBold';
+        case 'div':
+          return 'dictDivision';
+        case 'hom':
+          return 'dictHomonym';
+        default:
+          return '';
       }
     };
 
     const createStyledSpan = (text: string) => {
       if (!text) return null;
 
-      const appliedClasses = tagStack
-        .map(tag => classes[getClassName(tag)])
-        .filter(Boolean);
+      const appliedClasses = tagStack.map((tag) => classes[getClassName(tag)]).filter(Boolean);
 
       if (inParentheses) {
         appliedClasses.push(classes.dictParenthetical);
@@ -60,34 +71,28 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
       // Handle both 's' and 's1' tags with clickable words
       if (tagStack.includes('s') || tagStack.includes('s1')) {
         const isName = tagStack.includes('s1');
-        
-        // Split text into words only for Sanskrit terms, keep names as whole
-        const textParts: string[] = isName 
-          ? [text] 
-          : text.split(/(\s+|—|-|\/)/u);
 
-        
-          
+        // Split text into words only for Sanskrit terms, keep names as whole
+        const textParts: string[] = isName ? [text] : text.split(/(\s+|—|-|\/)/u);
+
         return textParts.map((word, wordIndex) => {
           if (!word.trim()) return word;
 
           // Order classes with the most specific last
           const orderedClasses = [
-            ...appliedClasses.filter(cls => 
-              cls !== classes.dictSanskrit && 
-              cls !== classes.dictName
+            ...appliedClasses.filter(
+              (cls) => cls !== classes.dictSanskrit && cls !== classes.dictName
             ),
-            isName ? classes.dictName : classes.dictSanskrit
-          ].filter(Boolean).join(' ');
+            isName ? classes.dictName : classes.dictSanskrit,
+          ]
+            .filter(Boolean)
+            .join(' ');
 
           return (
             <span
               key={`${index}-${wordIndex}`}
               className={orderedClasses}
-              onClick={() => onWordClick?.(
-                isName ? word.toLowerCase() : word,
-                index
-              )}
+              onClick={() => onWordClick?.(isName ? word.toLowerCase() : word, index)}
             >
               {word}
             </span>
@@ -100,10 +105,7 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
       const orderedClasses = appliedClasses.join(' ');
 
       return (
-        <span 
-          key={index++} 
-          className={orderedClasses}
-        >
+        <span key={index++} className={orderedClasses}>
           {text}
         </span>
       );
@@ -171,11 +173,7 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
     return result;
   };
 
-  return (
-    <div className={classes.dictEntry}>
-      {processContent(entry)}
-    </div>
-  );
+  return <div className={classes.dictEntry}>{processContent(entry)}</div>;
 }
 
 export default DictionaryEntry;

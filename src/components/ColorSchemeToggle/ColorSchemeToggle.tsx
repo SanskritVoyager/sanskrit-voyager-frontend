@@ -1,5 +1,11 @@
 import cx from 'clsx';
-import { ActionIcon, useMantineColorScheme, useComputedColorScheme, Group, Button } from '@mantine/core';
+import {
+  ActionIcon,
+  useMantineColorScheme,
+  useComputedColorScheme,
+  Group,
+  Button,
+} from '@mantine/core';
 import { IconSun, IconMoon } from '@tabler/icons-react';
 import classes from './ColorSchemeToggle.module.css';
 import { useMediaQuery } from '@mantine/hooks';
@@ -15,7 +21,7 @@ export function ActionToggle() {
         className={classes.actionIcon}
         onClick={() => setColorScheme(computedColorScheme === 'light' ? 'dark' : 'light')}
         variant="default"
-        size= {isMobile ? 'md' : 'lg'}
+        size={isMobile ? 'md' : 'lg'}
         aria-label="Toggle color scheme"
       >
         <IconSun className={cx(classes.icon, classes.light)} stroke={1.5} />

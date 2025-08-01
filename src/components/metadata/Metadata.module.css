@@ -72,7 +72,7 @@
 }
 
 .licenseLink {
-  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-coolOrange-9));
+  color: light-dark(var(--mantine-color-lightscale-9), var(--mantine-color-coolOrange-4));
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.2s ease;
@@ -205,7 +205,7 @@
 
 /* Links within metadata */
 .link {
-  color: light-dark(var(--mantine-color-coolOrange-7), var(--mantine-color-blue-4));
+  color: light-dark(var(--mantine-color-coolOrange-4), var(--mantine-color-blue-4));
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: all 0.2s ease;
@@ -273,7 +273,7 @@
 }
 
 .badgeRoot {
-  border: 1px solid light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-coolOrange-5));
+  border: 1px solid light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-coolOrange-4));
 }
 
 .metadataAccordionPanel {

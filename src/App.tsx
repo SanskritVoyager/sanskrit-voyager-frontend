@@ -5,20 +5,16 @@ import { theme } from './theme';
 import { localStorageColorSchemeManager } from './utils/localStorageColorSchemeManager';
 import { ResponsiveProvider } from './context/ResponsiveContext';
 
-
 const colorSchemeManager = localStorageColorSchemeManager({
   key: 'mantine-color-scheme',
 });
 
 export default function App() {
   return (
-    <MantineProvider
-      theme={theme}
-      colorSchemeManager={colorSchemeManager}
-    >
-    <ResponsiveProvider>
-      <Router />
-    </ResponsiveProvider>
+    <MantineProvider theme={theme} colorSchemeManager={colorSchemeManager}>
+      <ResponsiveProvider>
+        <Router />
+      </ResponsiveProvider>
     </MantineProvider>
   );
 }

@@ -9,27 +9,27 @@ const LoadingSkeleton = () => (
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" width="70%" mb="xl" />
-    
+
     <Skeleton height={30} radius="md" mb="lg" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" width="80%" mb="xl" />
-    
+
     <Skeleton height={30} radius="md" mb="lg" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" width="60%" mb="xl" />
-    
+
     <Skeleton height={30} radius="md" mb="lg" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" width="60%" mb="xl" />
-    
+
     <Skeleton height={30} radius="md" mb="lg" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" width="60%" mb="xl" />
-    
+
     <Skeleton height={30} radius="md" mb="lg" />
     <Skeleton height={8} radius="xl" mb="sm" />
     <Skeleton height={8} radius="xl" mb="sm" />

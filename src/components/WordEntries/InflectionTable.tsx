@@ -1,35 +1,38 @@
 import React from 'react';
 import { Table } from '@mantine/core';
-import classes from './InflectionTable.module.css'
-
+import classes from './InflectionTable.module.css';
 
 interface InflectionTableProps {
   inflection_wordsIAST: string[] | null;
   rowcolstitles: Array<[string, string]> | null;
-  useColor?: boolean;  // New prop to toggle between styling options
+  useColor?: boolean; // New prop to toggle between styling options
 }
 
-const InflectionTable = ({ inflection_wordsIAST, rowcolstitles, useColor = false }: InflectionTableProps) => {
+const InflectionTable = ({
+  inflection_wordsIAST,
+  rowcolstitles,
+  useColor = false,
+}: InflectionTableProps) => {
   if (!inflection_wordsIAST || !Array.isArray(inflection_wordsIAST)) {
     return null;
   }
 
   if (inflection_wordsIAST.length <= 1) {
-    return 
-     // <b> </b>;
+    return;
+    // <b> </b>;
   }
 
-  let rowtitles = ["First", "Second", "Third"];
-  let coltitles = ["Singular", "Dual", "Plural"];
+  let rowtitles = ['First', 'Second', 'Third'];
+  let coltitles = ['Singular', 'Dual', 'Plural'];
 
   const colMapping: { [key: string]: string } = {
-    'Sg': 'Singular',
-    'Du': 'Dual',
-    'Pl': 'Plural'
+    Sg: 'Singular',
+    Du: 'Dual',
+    Pl: 'Plural',
   };
 
   if (inflection_wordsIAST.length === 24) {
-    rowtitles = ["Nom", "Acc", "Inst", "Dat", "Abl", "Gen", "Loc", "Voc"];
+    rowtitles = ['Nom', 'Acc', 'Inst', 'Dat', 'Abl', 'Gen', 'Loc', 'Voc'];
   }
 
   let table = [];
@@ -48,9 +51,7 @@ const InflectionTable = ({ inflection_wordsIAST, rowcolstitles, useColor = false
   const shouldBeBold = (rowTitle: string, colIndex: number): boolean => {
     if (!rowcolstitles) return false;
     const colTitle = colIndex === 0 ? 'Sg' : colIndex === 1 ? 'Du' : 'Pl';
-    return rowcolstitles.some(([row, col]) => 
-      row === rowTitle && col === colTitle
-    );
+    return rowcolstitles.some(([row, col]) => row === rowTitle && col === colTitle);
   };
 
   // Format case titles with period and make them bold
@@ -58,29 +59,24 @@ const InflectionTable = ({ inflection_wordsIAST, rowcolstitles, useColor = false
     return <b>{title}.</b>;
   };
 
-
   return (
     // <div className="overflow-x-auto" style={{ width: '60%', margin: '0 auto' }}>
-    <div  
-
-    className={classes.inflectionTableContainer}
-    
-     >
-      <Table 
-        withColumnBorders 
-        highlightOnHover 
+    <div className={classes.inflectionTableContainer}>
+      <Table
+        withColumnBorders
+        highlightOnHover
         striped
         className="w-auto max-w-lg" // Reduced width
         styles={{
           td: {
-            padding: '8px 12px',  // Reduced padding
-            fontSize: '0.95rem',   // Slightly smaller font
+            padding: '8px 12px', // Reduced padding
+            fontSize: '0.95rem', // Slightly smaller font
           },
           th: {
-            padding: '8px 12px',  // Reduced padding
+            padding: '8px 12px', // Reduced padding
             backgroundColor: 'transparent',
-            fontSize: '0.95rem',   // Slightly smaller font
-          }
+            fontSize: '0.95rem', // Slightly smaller font
+          },
         }}
       >
         <Table.Thead>
@@ -102,18 +98,17 @@ const InflectionTable = ({ inflection_wordsIAST, rowcolstitles, useColor = false
               {row.map((cell, colIndex) => {
                 const isBold = shouldBeBold(rowtitles[rowIndex], colIndex);
                 return (
-                  <Table.Td 
-                    key={colIndex} 
+                  <Table.Td
+                    key={colIndex}
                     className="text-center text-sm"
                     style={
-                      isBold 
-                        ? useColor 
+                      isBold
+                        ? useColor
                           ? {
-
-                                //color: '#5b1166',
-                                    // #ce53e0
-                              color: '#83358f',            // Darker blue text
-                              fontWeight: 'bold'
+                              //color: '#5b1166',
+                              // #ce53e0
+                              color: '#83358f', // Darker blue text
+                              fontWeight: 'bold',
                             }
                           : { fontWeight: 'bold' }
                         : {}

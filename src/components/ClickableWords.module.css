@@ -132,6 +132,6 @@
 }
 
 .copyButton:hover {
-  color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-coolOrange-2));
+  color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-coolOrange-4));
   transform: scale(1.1);
 }

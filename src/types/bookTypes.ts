@@ -3,12 +3,12 @@ export type Contributor = {
   role: string;
   name: string;
   when: string;
-}
+};
 
 export type License = {
   text: string;
   target: string;
-}
+};
 
 export type Metadata = {
   original_title: string;
@@ -21,7 +21,7 @@ export type Metadata = {
   text_id?: string;
   collection?: string;
   category?: string;
-}
+};
 
 export type TextElement = {
   tag: string;
@@ -30,7 +30,7 @@ export type TextElement = {
   translated_text?: string;
   children?: TextElement[];
   segment_number?: number;
-}
+};
 
 // Original BookText format for JSON files
 export type BookText = {
@@ -39,14 +39,14 @@ export type BookText = {
   metadata?: Metadata;
   body?: TextElement[];
   isApiSource?: false;
-}
+};
 
 // New format for API-returned data
 export type ApiSegment = {
   segment_id: string;
   segment_number: number;
   text: string;
-}
+};
 
 export type ApiBookText = {
   text_id: string;
@@ -57,7 +57,7 @@ export type ApiBookText = {
   segments: ApiSegment[];
   isApiSource: true;
   metadata?: Metadata;
-}
+};
 
 // Combined type for the application
 export type BookContent = BookText | ApiBookText;
@@ -91,10 +91,12 @@ export interface BookResult {
 }
 
 // Define the possible search result types
-export type SearchResult = {
-  type: 'segments';
-  results: SegmentResult[];
-} | {
-  type: 'books';
-  results: BookResult[];
-};
+export type SearchResult =
+  | {
+      type: 'segments';
+      results: SegmentResult[];
+    }
+  | {
+      type: 'books';
+      results: BookResult[];
+    };
