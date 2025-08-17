@@ -65,24 +65,7 @@
   transform: translateX(4px);
 }
 
-/* Optional: Add a subtle indicator before each link */
-.indexLink::before {
-  content: '';
-  position: absolute;
-  left: -1rem;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 3px;
-  height: 3px;
-  border-radius: 50%;
-  background-color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-gray-5));
-  opacity: 0;
-  transition: opacity 0.2s ease;
-}
 
-.indexLink:hover::before {
-  opacity: 1;
-}
 
 /* Optional: Number styling if you want to make them more subtle */
 .indexLink::marker,
