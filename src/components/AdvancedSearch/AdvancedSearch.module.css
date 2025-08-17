@@ -7,20 +7,33 @@
   overflow-y: auto;
   margin-top: -5px;
   margin-left: 0;
-  padding: 0;
+  padding: 1rem;
   max-width: 600px;
   margin-left: auto;  /* Add these two margin properties */
   margin-right: auto; /* to center the component horizontally */
 }
 
+
+
 .optionsContainer {
   width: 100%;
   display: flex;
   flex-direction: column;
-  padding: 0.75rem;
+  padding: 0.75rem; /* equivalent to p="md" */
   background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+  border-radius: 0.5rem; /* equivalent to radius="md" */
+  box-shadow: 
+    0 0.25rem 1.25rem rgba(0, 0, 0, 0.035),
+    0 0 0 0.5px rgba(134, 142, 150, 0.15);
 }
 
+
+/* Dark mode */
+[data-mantine-color-scheme="dark"] .optionsContainer {
+  box-shadow: 
+    0 0.25rem 1.25rem rgba(0, 0, 0, 0.035),
+    0 0 0 0.5px rgba(214, 211, 209, 0.3);
+}
 
 
 /* Responsive adjustments */

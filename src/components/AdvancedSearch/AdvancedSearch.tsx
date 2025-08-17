@@ -219,7 +219,9 @@ function AdvancedSearch({
 
   return (
     <div className={classes.pageWrapper}>
-      <Paper p="md" radius="md" className={classes.optionsContainer}>
+      <div
+          className={classes.optionsContainer}
+        >
         <Title order={2} mb="xs" className={classes.title}>
           Sanskrit Corpus Search
         </Title>
@@ -477,7 +479,7 @@ function AdvancedSearch({
             Search Texts
           </Button>
         </Stack>
-      </Paper>
+      </div>
 
       {/* Search Results Section */}
       <AdvancedSearchResults

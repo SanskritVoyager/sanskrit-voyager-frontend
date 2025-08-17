@@ -32,16 +32,18 @@ export const theme = createTheme({
     }),
 
     coolOrange: [
-      '#dd8c71', // 0: lightest
-      '#dd8c71',
-      '#dd8c71',
-      '#dd8c71', // 4: your main color
-      '#dd8c71',
-      '#dd8c71',
-      '#dd8c71',
-      '#dd8c71',
-      '#dd8c71', // 9: darkest
-      '#dd8c71', // 10: even darker
+
+
+      "#ffefe8",
+      "#fadfd6",
+      "#edbeae",
+      "#dd8c71", // main color
+      "#d77c5d",
+      "#d26945",
+      "#d05e39",
+      "#b84e2b",
+      "#a54424",
+      "#91381b"
     ],
 
     lightscale: [
