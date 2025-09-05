@@ -323,35 +323,45 @@ const ClickableSimpleBooks = ({
       });
     };
 
-    if (element.tag === 'lg' && element.attributes?.id) {
-      const labelText = element.attributes.id; // Use the id as label text
+    const extractXmlId = (attrs?: Record<string, any>): string | undefined => {
+      if (!attrs) return;
+      const key = Object.keys(attrs).find(k => /(^id$|}id$)/.test(k));
+      const val = key ? attrs[key] : undefined;
+      return typeof val === 'string' ? val.trim() : undefined;
+    };
 
-      return (
-        <>
-          {/* Render the label separately */}
-          <div
-            className={`
-              ${classes.label} 
-              ${isTargetSegment ? classes.highlightedSegment : ''}
-              ${isMatchedSegment ? classes.matchedSegment : ''}
-            `}
-            data-segment-number={segmentNumber}
-            ref={setSegmentRef}
-            id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
-          >
-            {labelText}
-          </div>
+    // Normalize: if there is an underscore keep the part after first underscore
+    const formatLabelId = (raw?: string): string | undefined =>
+      raw ? raw.replace(/^[^_]*_/, '') : raw;
 
-          {/* Render the children with normal styling */}
-          {element.children?.map((child, childIndex) => (
-            <React.Fragment key={`lg-label-child-${childIndex}`}>
-              {renderTextElement(child)}
-            </React.Fragment>
-          ))}
-        </>
-      );
+    // ...inside renderTextElement, replace current lg block...
+    if (element.tag === 'lg') {
+      const rawId = extractXmlId(element.attributes);
+      if (rawId) {
+        const labelText = formatLabelId(rawId);
+        return (
+          <>
+            <div
+              className={`
+                ${classes.label}
+                ${isTargetSegment ? classes.highlightedSegment : ''}
+                ${isMatchedSegment ? classes.matchedSegment : ''}
+              `}
+              data-segment-number={segmentNumber}
+              ref={setSegmentRef}
+              id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
+            >
+              {labelText}
+            </div>
+            {element.children?.map((child, childIndex) => (
+              <React.Fragment key={`lg-label-child-${childIndex}`}>
+                {renderTextElement(child)}
+              </React.Fragment>
+            ))}
+          </>
+        );
+      }
     }
-
     // Handle notes at the element level
     if (element.tag === 'note') {
       const noteContent = element.text || '';
