@@ -8,25 +8,14 @@ import { IconTable, IconTableOff, IconBorderAll, IconTablePlus } from '@tabler/i
 
 import classes from './WordDataComponent.module.css';
 
-// Define types for the different entry structures
-type InflectionEntry = [string, string]; // [caseAbbr, numberAbbr]
-type LongEntry = [
-  string, // entry[0] - word
-  string, // entry[1] - grammar
-  InflectionEntry[], // entry[2] - inflections
-  string[], // entry[3] - inflection_wordsIAST
-  string, // entry[4] - derivarion
-  string, // entry[5] - pronunciation
-  { [dictionaryName: string]: { [wordName: string]: string[] } }, // entry[6] - vocabulary entries
-];
+import {
+  WordEntry,
+  LongEntry,
+  ShortEntry,
+  InflectionEntry,
+  DictionaryLabels,
+} from '../../types/wordTypes';
 
-type ShortEntry = [
-  string, // entry[0] - word
-  string, // entry[1] - unknown/unused
-  { [dictionaryName: string]: { [wordName: string]: string[] } }, // entry[6] - vocabulary entries
-];
-
-type WordEntry = LongEntry | ShortEntry;
 
 interface WordDataComponentProps {
   selectedDictionaries: string[];
@@ -39,9 +28,7 @@ interface WordDataComponentProps {
   setDisplayInflectionTables: (value: boolean) => void;
 }
 
-type DictionaryLabels = {
-  [key: string]: string;
-};
+
 
 const dictionaryLabels: DictionaryLabels = {
   mw: 'Monier-Williams Sanskrit-English',
@@ -110,10 +97,10 @@ const WordDataComponent = ({
   };
 
   return (
-    <>
+    <div className={classes.wordDataContainer}>
       {wordData &&
         wordData.map((entry, index) => {
-          console.log(entry[2]);
+          // console.log(entry[2]);
           if (entry.length === 7) {
             const longEntry = entry as LongEntry;
             const shouldShowVocabulary = !hasWordAppearedBefore(longEntry[0], index);
@@ -125,7 +112,10 @@ const WordDataComponent = ({
 
             return (
               // title first
-              <div key={index}>
+              <div 
+                className='test2' 
+                key={index}
+              >
                 <Title order={1} className={classes.mainWord} data-word={longEntry[0]}>
                   {longEntry[0]}
                 </Title>
@@ -398,7 +388,7 @@ const WordDataComponent = ({
             return null;
           }
         })}
-    </>
+    </div>
   );
 };
 
