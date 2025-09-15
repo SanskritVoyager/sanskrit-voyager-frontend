@@ -67,11 +67,99 @@
   margin: 0 0.3em;
 }
 
+
+
+
+
 .dictSource {
   font-style: normal;
   color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-7));
-
   
+  /* Add abbreviation behavior */
+  display: inline-block;
+  max-width: 50px; /* Adjust this value as needed */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: bottom;
+  position: relative;
+  cursor: help; /* Shows a help cursor on hover */
+}
+
+.dictSource {
+  font-style: normal;
+  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-7));
+  
+  display: inline-block;
+  max-width: 50px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: bottom;
+  position: relative;
+  cursor: help;
+}
+
+/* Create invisible hover area that stays in place */
+.dictSource::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.dictSource:hover {
+  overflow: visible;
+  background-color: light-dark(
+    var(--mantine-color-gray-0), 
+    var(--mantine-color-dark-6)
+  );
+  padding: 0 4px;
+  border-radius: 3px;
+  
+  /* Float above without affecting layout */
+  position: relative;
+  z-index: 10;
+  white-space: normal;
+  max-width: 500px;
+  
+  /* Keep original dimensions for layout */
+  clip-path: none;
+}
+
+/* Extend hover area when expanded */
+.dictSource:hover::after {
+  bottom: -100%; /* Extend the hover area downward */
+  right: -100%;
+}
+
+/* Also apply to parenthetical sources */
+.dictParenthetical.dictSource {
+  font-style: normal;
+  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-7));
+  max-width: 80px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.dictParenthetical.dictSource:hover {
+  overflow: visible;
+  background-color: light-dark(
+    var(--mantine-color-gray-0), 
+    var(--mantine-color-dark-6)
+  );
+  padding: 0 4px;
+  border-radius: 3px;
+    white-space: wrap;
+    display: inline;
+
+
 }
 
 .dictEtymology {
@@ -175,14 +263,7 @@ color: rgb(118, 38, 231);
 }
 
 
-.dictParenthetical.dictSource {
-    font-style: normal;
-    color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-7));
 
-    
-    /*
-    color: #c64242;*/
-  }
 
   .dictParenthetical.dictGrammar{
     font-style: italic;
