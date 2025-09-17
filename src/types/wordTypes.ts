@@ -23,7 +23,6 @@ export type GroupedEntries = {
   [key: string]: WordEntry[];
 };
 
-
 export type DictionaryLabels = {
   [key: string]: string;
 };

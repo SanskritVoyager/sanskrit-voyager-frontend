@@ -166,7 +166,9 @@ export function NavbarSimple({
         >
           Start Reading
         </Button>
+        
 
+        {/*
         <Button
           className={classes.advancedSearchButton}
           fullWidth
@@ -181,6 +183,7 @@ export function NavbarSimple({
         >
           Book Search
         </Button>
+        */}
 
         {(isMobile || isTablet) && (
           <Button
