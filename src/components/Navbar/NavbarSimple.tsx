@@ -86,6 +86,8 @@ export function NavbarSimple({
 
         {/* Content from NavbarSimple moved here */}
         <Stack gap="3px" justify="flex-end">
+
+          
           <Select
             data={[
               { value: 'IAST', label: 'Romanic (IAST)' },
@@ -155,17 +157,19 @@ export function NavbarSimple({
           maxRows={8}
         />
 
-        <Button
-          className={classes.readingButton}
-          leftSection={<IconVocabularyOff size={14} />}
-          onClick={() => setIsNavbarVisible(false)}
-          loaderProps={{ type: 'dots' }}
-          style={{
-            width: '100%',
-          }}
-        >
-          Start Reading
-        </Button>
+        {(text || bookTitle) && (
+          <Button
+            className={classes.readingButton}
+            leftSection={<IconVocabularyOff size={14} />}
+            onClick={() => setIsNavbarVisible(false)}
+            loaderProps={{ type: 'dots' }}
+            style={{
+              width: '100%',
+            }}
+          >
+            Start Reading
+          </Button>
+        )}
         
 
         {/*

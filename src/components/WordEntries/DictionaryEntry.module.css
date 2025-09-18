@@ -71,20 +71,6 @@
 
 
 
-.dictSource {
-  font-style: normal;
-  color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-7));
-  
-  /* Add abbreviation behavior */
-  display: inline-block;
-  max-width: 50px; /* Adjust this value as needed */
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  vertical-align: bottom;
-  position: relative;
-  cursor: help; /* Shows a help cursor on hover */
-}
 
 .dictSource {
   font-style: normal;
@@ -95,9 +81,16 @@
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  vertical-align: bottom;
   position: relative;
   cursor: help;
+  line-height: inherit;
+
+  vertical-align: bottom;
+  padding: 0;      /* Ensure no padding */
+  margin: 0;       /* Ensure no margin */
+
+
+  
 }
 
 /* Create invisible hover area that stays in place */
@@ -138,13 +131,11 @@
 
 /* Also apply to parenthetical sources */
 .dictParenthetical.dictSource {
-  font-style: normal;
   color: light-dark(var(--mantine-color-palette-0), var(--mantine-color-palette-7));
   max-width: 80px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  display: inline-block;
   vertical-align: bottom;
 }
 
