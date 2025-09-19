@@ -37,5 +37,5 @@ export const safeSplitTextOld = (text: string): string[] => {
 export const safeSplitText = (text: string): string[] => {
   // Split only at newline characters
   // The trim() calls ensure we don't get empty whitespace at the start/end of lines
-  return [text];
+  return text.split(/\r?\n/);
 };
