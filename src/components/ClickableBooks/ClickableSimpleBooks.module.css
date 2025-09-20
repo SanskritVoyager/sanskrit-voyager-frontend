@@ -157,6 +157,7 @@ ol li::marker {
   .originalText {
     margin-bottom: 0.5rem;
     margin-top: 0.5rem;
+    white-space: pre-line;
 
   }
   
@@ -758,3 +759,8 @@ mark:hover {
   }
 }
 
+.OpeningTitle {
+  text-align: center;
+  font-weight: 500;
+
+}
