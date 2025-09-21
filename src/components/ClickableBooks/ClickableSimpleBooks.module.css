@@ -935,3 +935,28 @@ mark:hover {
     letter-spacing: 1rem;
   }
 }
+
+.homage {
+  display: block;
+  font-style: italic;
+  color: light-dark(
+    var(--mantine-color-gray-6), 
+    var(--mantine-color-gray-4)
+  );
+  margin-top: 3rem;
+  padding-bottom: 1.5rem;
+  text-align: center;
+  
+}
+
+.homage .translatedText {
+  display: block;
+  font-style: normal; /* Normal style for translation */
+  margin-left: 0; /* Center it */
+  color: light-dark(
+    var(--mantine-color-gray-5), 
+    var(--mantine-color-gray-5)
+  );
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
