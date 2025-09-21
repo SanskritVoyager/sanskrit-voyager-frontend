@@ -143,6 +143,7 @@ transform: rotate(20deg);
 .feedbackButton {
   font-weight: 500;
   padding: rem(6px) rem(10px);
+  color: light-dark(var(--mantine-color-coolOrange-6), var(--mantine-color-coolOrange-4));
   
   &:hover {
     background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-6));
