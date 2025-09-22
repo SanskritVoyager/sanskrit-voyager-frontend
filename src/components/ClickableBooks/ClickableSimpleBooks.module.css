@@ -683,7 +683,11 @@ mark:hover {
       rgba(var(--mantine-color-dark-6), 0.5) 0%, 
       transparent 100%)
   );
-  
+    /* Accent border */
+  border-left: 2px solid light-dark(
+    var(--mantine-color-coolOrange-4), 
+    var(--mantine-color-coolOrange-5)
+  );
 
 
 }
