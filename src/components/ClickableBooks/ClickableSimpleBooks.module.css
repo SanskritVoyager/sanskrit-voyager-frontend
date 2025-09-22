@@ -586,7 +586,8 @@ mark:hover {
   padding-left: 1rem;
   border-left: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
   font-style: italic;
-  color: light-dark(var(--mantine-color-dark-3), var(--mantine-color-gray-4)); /* Slightly different color */
+  color: light-dark(var(--mantine-color-dark-6), var(--mantine-color-gray-4)); /* Slightly different color */
+  font-family: 'LinuxBiolinum', sans-serif;
 }
 
 @media (max-width: 1000px) {
