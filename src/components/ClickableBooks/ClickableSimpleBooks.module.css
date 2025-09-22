@@ -387,7 +387,9 @@ mark:hover {
   border-bottom: 1px solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-5));
 }
 
-
+.trailer .translatedText {
+  font-style: normal; 
+}
 
 /* --- Verse and Prose --- */
 
@@ -580,7 +582,7 @@ mark:hover {
 
 .quote { /* Block quotation */
   display: block;
-  margin: 1rem 2rem;
+  margin: 2rem 2rem;
   padding-left: 1rem;
   border-left: 1px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
   font-style: italic;
@@ -591,6 +593,10 @@ mark:hover {
   .quote{
     padding-left: 0.5rem;
   }
+}
+
+.quote .translatedText {
+  font-style: normal; /* Normal style for translations */
 }
 
 
@@ -677,14 +683,10 @@ mark:hover {
       transparent 100%)
   );
   
-  /* Accent border */
-  border-left: 3px solid light-dark(
-    var(--mantine-color-coolOrange-4), 
-    var(--mantine-color-coolOrange-5)
-  );
-  
+
 
 }
+
 
 
 
@@ -778,6 +780,8 @@ mark:hover {
   .p > .label {
     transform: translateY(-1.7em);
   }
+
+
   
   /* Label in a line group */
   .lg .l .label {
