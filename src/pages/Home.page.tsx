@@ -487,6 +487,7 @@ export function HomePage() {
                   setTargetSegmentNumber={setTargetSegmentNumber}
                   query={query}
                   matchedBookSegments={matchedBookSegments}
+                  setMatchedBookSegments={setMatchedBookSegments}
                 />
               </div>
             </Grid.Col>

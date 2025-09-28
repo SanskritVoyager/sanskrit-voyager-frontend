@@ -11,6 +11,7 @@ import { useThrottledCallback, useThrottledState } from '@mantine/hooks';
 import ScrollMarkers from './ClickableSimpleMarkers';
 import BookSpan from './ClickableSimpleBooksSpan';
 import BookIndex from './BookIndex';
+import { set } from 'lodash';
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
@@ -21,6 +22,7 @@ interface ClickableSimpleBooksProps {
   setTargetSegmentNumber: React.Dispatch<React.SetStateAction<number | null>>;
   query: string;
   matchedBookSegments: number[];
+  setMatchedBookSegments: React.Dispatch<React.SetStateAction<number[]>>;
   setSelectedWord: (word: string) => void;
   setClickedAdditionalWord: (word: string) => void;
 }
@@ -35,6 +37,7 @@ const ClickableSimpleBooks = ({
   targetSegmentNumber,
   query,
   matchedBookSegments,
+  setMatchedBookSegments
 }: ClickableSimpleBooksProps) => {
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const highlightedSpanRef = useRef<HTMLElement | null>(null);
@@ -42,7 +45,7 @@ const ClickableSimpleBooks = ({
   const foundNotes = useRef<number>(0);
   const segmentRefs = useRef<Map<number, HTMLDivElement>>(new Map());
   const containerRef = useRef<HTMLDivElement>(null);
-  const initialRenderComplete = useRef(false);
+  const [initialRenderComplete, setInitialRenderComplete] = useState<boolean>(false);
   const renderCount = useRef(0);
   renderCount.current++;
   console.log(`ClickableSimpleBooks render #${renderCount.current}`);
@@ -83,7 +86,7 @@ const ClickableSimpleBooks = ({
 
   useEffect(() => {
     segmentRefs.current = new Map();
-    initialRenderComplete.current = false;
+    setInitialRenderComplete(false);
     foundNotes.current = 0;
     console.log('Segment refs map and note counter reset due to book change');
   }, [bookText]);
@@ -117,10 +120,10 @@ const ClickableSimpleBooks = ({
   }, [targetSegmentNumber, scrollToSegment]);
 
   useEffect(() => {
-    if (!initialRenderComplete.current && bookText.body && bookText.body.length > 0) {
+    if (!initialRenderComplete && bookText.body && bookText.body.length > 0) {
       const timer = setTimeout(() => {
         console.log('Setting initial render complete flag to true.');
-        initialRenderComplete.current = true;
+        setInitialRenderComplete(true);
       }, 500);
       return () => clearTimeout(timer);
     }
@@ -474,6 +477,8 @@ const ClickableSimpleBooks = ({
 
   foundNotes.current = 0;
 
+  console.log('matchedBookSegments:', matchedBookSegments);
+
   return (
     <div className={classes.bookContainer} ref={containerRef} style={{ position: 'relative' }}>
       {bookText.metadata && <MetadataComponent metadata={bookText.metadata} />}
@@ -499,14 +504,14 @@ const ClickableSimpleBooks = ({
           </React.Fragment>
         ))}
       </div>
-      {matchedBookSegments.length > 0 && (
+      {(
         <ScrollMarkers
           containerRef={containerRef}
           segmentRefs={segmentRefs}
           matchedBookSegments={matchedBookSegments}
           activeSegment={targetSegmentNumber}
           onSegmentClick={scrollToSegment}
-          initialRenderComplete={initialRenderComplete.current}
+          initialRenderComplete={initialRenderComplete}
         />
       )}
       <WordInfoPortal
