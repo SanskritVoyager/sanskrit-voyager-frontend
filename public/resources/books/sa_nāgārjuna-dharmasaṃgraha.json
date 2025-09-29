@@ -57,18 +57,21 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Dharmasaṃgrahaḥ /"
+          "text": "Dharmasaṃgrahaḥ /",
+          "segment_number": 1
         },
         {
           "tag": "text",
-          "text": "(Dhs)"
+          "text": "(Dhs)",
+          "segment_number": 2
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "// namo ratnatrayāya //"
+      "text": "// namo ratnatrayāya //",
+      "segment_number": 3
     },
     {
       "tag": "lg",
@@ -77,79 +80,94 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ratnatrayaṃ namaskṛtya sarvasattvahitodayam /"
+          "text": "ratnatrayaṃ namaskṛtya sarvasattvahitodayam /",
+          "segment_number": 4
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kathyate mohanāśāya dharmasārasamuccayaḥ //"
+          "text": "kathyate mohanāśāya dharmasārasamuccayaḥ //",
+          "segment_number": 5
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "1. tatra prathamaṃ tāvat trīṇi ratnāni / tathadyā - buddho dharmaḥ saṃghaśceti //"
+      "text": "1. tatra prathamaṃ tāvat trīṇi ratnāni / tathadyā - buddho dharmaḥ saṃghaśceti //",
+      "segment_number": 6
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "2. trīṇi yānāni /[tadyathā -] śrāvakayānam, pratyekabuddhayānam, mahāyānaṃ ceti //"
+      "text": "2. trīṇi yānāni /[tadyathā -] śrāvakayānam, pratyekabuddhayānam, mahāyānaṃ ceti //",
+      "segment_number": 7
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "3. pañca buddhāḥ / tadyathā - vairocanaḥ, akṣobhyaḥ, ratnasaṃbhavaḥ, amitābhaḥ, amoghasiddhiśceti //"
+      "text": "3. pañca buddhāḥ / tadyathā - vairocanaḥ, akṣobhyaḥ, ratnasaṃbhavaḥ, amitābhaḥ, amoghasiddhiśceti //",
+      "segment_number": 8
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "4. catasro devyaḥ / tadyathā - rocanī, māmakī, pāṇḍurā, tārā ceti //"
+      "text": "4. catasro devyaḥ / tadyathā - rocanī, māmakī, pāṇḍurā, tārā ceti //",
+      "segment_number": 9
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "5. pañca rakṣā / tadyathā - pratisarā, sāhasrapramardanī, mārīcī, mantrānusāriṇī, śīlavatī ceti //"
+      "text": "5. pañca rakṣā / tadyathā - pratisarā, sāhasrapramardanī, mārīcī, mantrānusāriṇī, śīlavatī ceti //",
+      "segment_number": 10
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "6. sapta tathāgatāḥ / tadyathā - vipaśyī, śikhī, viśvabhūḥ, krakucchandaḥ, kanakamuniḥ, kāśyapaḥ, śākyamuniśceti //"
+      "text": "6. sapta tathāgatāḥ / tadyathā - vipaśyī, śikhī, viśvabhūḥ, krakucchandaḥ, kanakamuniḥ, kāśyapaḥ, śākyamuniśceti //",
+      "segment_number": 11
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "7. catvāro lokapālāḥ / tadyathā - dhṛtarāṣṭraḥ, virūpākṣaḥ, virūḍhakaḥ, kuberaśceti //"
+      "text": "7. catvāro lokapālāḥ / tadyathā - dhṛtarāṣṭraḥ, virūpākṣaḥ, virūḍhakaḥ, kuberaśceti //",
+      "segment_number": 12
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "8. aṣṭau lokapālāḥ / tadyathā - indraḥ, yamaḥ, varaṇaḥ, kuberaḥ, īśānaḥ, agniḥ, nairṛtaḥ, vāyuriti //"
+      "text": "8. aṣṭau lokapālāḥ / tadyathā - indraḥ, yamaḥ, varaṇaḥ, kuberaḥ, īśānaḥ, agniḥ, nairṛtaḥ, vāyuriti //",
+      "segment_number": 13
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "9. daśa lokapālāḥ / aṣṭalokapālādhikamūrdhvaṃ brahmā adhaḥ kṛṣṇaḥ //"
+      "text": "9. daśa lokapālāḥ / aṣṭalokapālādhikamūrdhvaṃ brahmā adhaḥ kṛṣṇaḥ //",
+      "segment_number": 14
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "10. caturdaśa lokapālāḥ / tadyathā - daśalokapālasakalam, candraḥ, sūryaḥ, pṛthvī, asuraḥ //"
+      "text": "10. caturdaśa lokapālāḥ / tadyathā - daśalokapālasakalam, candraḥ, sūryaḥ, pṛthvī, asuraḥ //",
+      "segment_number": 15
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "11. daśa krodhāḥ / tadyathā - yamāntakaḥ, prajñāntakaḥ, padmāntakaḥ, vighnāntakaḥ, acaraṭarkirājaḥ, nīladaṇḍaḥ, mahābalaḥ, uṣṇīṣaḥ, cakravartī, sambharājaśceti //"
+      "text": "11. daśa krodhāḥ / tadyathā - yamāntakaḥ, prajñāntakaḥ, padmāntakaḥ, vighnāntakaḥ, acaraṭarkirājaḥ, nīladaṇḍaḥ, mahābalaḥ, uṣṇīṣaḥ, cakravartī, sambharājaśceti //",
+      "segment_number": 16
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "12. aṣṭau bodhisattvāḥ / tadyathā - maitreyaḥ, gaganagañjaḥ, samantabhadraḥ, vajrapāṇiḥ, mañjuśrīḥ, sarvanivaraṇaviṣkambhī, kṣitigarbhaḥ, khagarbhaśceti //"
+      "text": "12. aṣṭau bodhisattvāḥ / tadyathā - maitreyaḥ, gaganagañjaḥ, samantabhadraḥ, vajrapāṇiḥ, mañjuśrīḥ, sarvanivaraṇaviṣkambhī, kṣitigarbhaḥ, khagarbhaśceti //",
+      "segment_number": 17
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "13. ṣaḍyoginyaḥ / tadyathā - vajravārāhī, yāminī, saṃcāraṇī, saṃtrāsanī, cāṇḍikā ceti //"
+      "text": "13. ṣaḍyoginyaḥ / tadyathā - vajravārāhī, yāminī, saṃcāraṇī, saṃtrāsanī, cāṇḍikā ceti //",
+      "segment_number": 18
     },
     {
       "tag": "note",
@@ -167,102 +185,122 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "14. saptavidhā anuttarapūjā / tadyathā - vandanā, pūjanā, pāpadeśanā, anumodanā, adhyeṣaṇā, bodhicittotpādaḥ, pariṇāmanā ceti //"
+      "text": "14. saptavidhā anuttarapūjā / tadyathā - vandanā, pūjanā, pāpadeśanā, anumodanā, adhyeṣaṇā, bodhicittotpādaḥ, pariṇāmanā ceti //",
+      "segment_number": 19
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "15. trīṇi kuśalamūlāni / bodhicittotpādaḥ, āśayaviśuddhiḥ, ahaṃkāramamakāraparityāgaśceti //"
+      "text": "15. trīṇi kuśalamūlāni / bodhicittotpādaḥ, āśayaviśuddhiḥ, ahaṃkāramamakāraparityāgaśceti //",
+      "segment_number": 20
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "16. catvāro brahmavihārāḥ / maitrī, karuṇā, muditā, upekṣā ceti //"
+      "text": "16. catvāro brahmavihārāḥ / maitrī, karuṇā, muditā, upekṣā ceti //",
+      "segment_number": 21
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "17. ṣaṭ pāramitāḥ / dānapāramitā, śīlapāramitā, kṣāntipāramitā, vīryapāramitā, dhyānapāramitā, prajñāpāramitā ceti //"
+      "text": "17. ṣaṭ pāramitāḥ / dānapāramitā, śīlapāramitā, kṣāntipāramitā, vīryapāramitā, dhyānapāramitā, prajñāpāramitā ceti //",
+      "segment_number": 22
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "18. daśa pāramitāḥ / ṣaṭpāramitāsakalam, upāyam, praṇidhiḥ, balam, jñānaṃ ceti //"
+      "text": "18. daśa pāramitāḥ / ṣaṭpāramitāsakalam, upāyam, praṇidhiḥ, balam, jñānaṃ ceti //",
+      "segment_number": 23
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "19. catvāri saṃgrahavastūnī / dānam, priyavacanam, arthacaryā, samānārthatā ceti //"
+      "text": "19. catvāri saṃgrahavastūnī / dānam, priyavacanam, arthacaryā, samānārthatā ceti //",
+      "segment_number": 24
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "20. pañcābhijñāḥ / divyacakṣuḥ, divyaśrotram, paracittajñānam, pūrvanivāsānusmṛtiḥ, ṛddhiśceti //"
+      "text": "20. pañcābhijñāḥ / divyacakṣuḥ, divyaśrotram, paracittajñānam, pūrvanivāsānusmṛtiḥ, ṛddhiśceti //",
+      "segment_number": 25
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "21. catvāryāryasatyāni / tadyathā - duḥkham, samudayaḥ, nirodhaḥ mārgaśceti //"
+      "text": "21. catvāryāryasatyāni / tadyathā - duḥkham, samudayaḥ, nirodhaḥ mārgaśceti //",
+      "segment_number": 26
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "22. pañca skandhāḥ / rūpam, vedanā, saṃjñā, saṃskārā, vijñānaṃ ceti //"
+      "text": "22. pañca skandhāḥ / rūpam, vedanā, saṃjñā, saṃskārā, vijñānaṃ ceti //",
+      "segment_number": 27
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "23. lokottarapañcaskandhāḥ / śīlasamādhiprajñāvimuktivimuktijñānadarśanaskandhā iti //"
+      "text": "23. lokottarapañcaskandhāḥ / śīlasamādhiprajñāvimuktivimuktijñānadarśanaskandhā iti //",
+      "segment_number": 28
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "24. dvādaśāyatanāni / cakṣuḥśrotraghrāṇajihvākāyamanaāyatanāni rūpagandhaśabdarasasparśadharmāyatanāni ceti //"
+      "text": "24. dvādaśāyatanāni / cakṣuḥśrotraghrāṇajihvākāyamanaāyatanāni rūpagandhaśabdarasasparśadharmāyatanāni ceti //",
+      "segment_number": 29
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "25. aṣṭādaśa dhātavaḥ // cakṣuḥśrotraghrāṇajihvākāyamanorūpagandhaśabdarasasparśadharmadhātavaḥ cakṣurvijñānaśrotravijñānaghrāṇavijñānajihvāvijñānakāyavijñānamanovijñānaghātavaśceti //"
+      "text": "25. aṣṭādaśa dhātavaḥ // cakṣuḥśrotraghrāṇajihvākāyamanorūpagandhaśabdarasasparśadharmadhātavaḥ cakṣurvijñānaśrotravijñānaghrāṇavijñānajihvāvijñānakāyavijñānamanovijñānaghātavaśceti //",
+      "segment_number": 30
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "26. tatraikādaśa rūpaskandhāḥ // cakṣuḥ, śrotram, ghrāṇam, jihvā, kāyaḥ, rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaḥ vijñaptiśceti //"
+      "text": "26. tatraikādaśa rūpaskandhāḥ // cakṣuḥ, śrotram, ghrāṇam, jihvā, kāyaḥ, rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaḥ vijñaptiśceti //",
+      "segment_number": 31
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "27. vedanā trividhā / sukhāḥ, duḥkhā, aduḥkhāsukhā ceti //"
+      "text": "27. vedanā trividhā / sukhāḥ, duḥkhā, aduḥkhāsukhā ceti //",
+      "segment_number": 32
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "28. saṃjñāskandhaḥ / nimittodgahaṇātmikā //"
+      "text": "28. saṃjñāskandhaḥ / nimittodgahaṇātmikā //",
+      "segment_number": 33
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "29. saṃskārā dvividhāḥ / tatra cittasaṃprayuktasaṃskārāḥ, cittaviprayuktasaṃskārāśceti //"
+      "text": "29. saṃskārā dvividhāḥ / tatra cittasaṃprayuktasaṃskārāḥ, cittaviprayuktasaṃskārāśceti //",
+      "segment_number": 34
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "30. cittasaṃprayuktasaṃskārāścatvāriṃśat / tadyathā - vedanā, saṃjñā, cetanā, chandaḥ, sparśaḥ, matiḥ, smṛtiḥ, manaskāraḥ, adhimokṣaḥ, samādhiḥ, śraddhā, apramādaḥ, prasrabdhiḥ, upekṣā, hrīḥ, apatrapā, alobhaḥ, adveṣaḥ, ahiṃsā, vīryam, mohaḥ, pramādaḥ, kausīdyam, aśrāddhyam, styānam, auddhatyam, ahrīkatā, anapatrapā, krodhaḥ, upanāhaḥ, śāṭhyam, īrṣyā, pradānaḥ, mrakṣaḥ, mātsaryam, māyā, madaḥ, vihiṃsā, vitarkaḥ, vicāraśceti //"
+      "text": "30. cittasaṃprayuktasaṃskārāścatvāriṃśat / tadyathā - vedanā, saṃjñā, cetanā, chandaḥ, sparśaḥ, matiḥ, smṛtiḥ, manaskāraḥ, adhimokṣaḥ, samādhiḥ, śraddhā, apramādaḥ, prasrabdhiḥ, upekṣā, hrīḥ, apatrapā, alobhaḥ, adveṣaḥ, ahiṃsā, vīryam, mohaḥ, pramādaḥ, kausīdyam, aśrāddhyam, styānam, auddhatyam, ahrīkatā, anapatrapā, krodhaḥ, upanāhaḥ, śāṭhyam, īrṣyā, pradānaḥ, mrakṣaḥ, mātsaryam, māyā, madaḥ, vihiṃsā, vitarkaḥ, vicāraśceti //",
+      "segment_number": 35
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "31. tatra cittaviprayuktasaṃskārāsrayodaśa / prāptiḥ, aprāptiḥ, sabhāgatā, asaṃjñikam, samāptiḥ, jīvitam, jātiḥ, jarā, sthitiḥ, anityatā, nāmakāyaḥ, padakāyaḥ, vyañjanakāyaśceti //"
+      "text": "31. tatra cittaviprayuktasaṃskārāsrayodaśa / prāptiḥ, aprāptiḥ, sabhāgatā, asaṃjñikam, samāptiḥ, jīvitam, jātiḥ, jarā, sthitiḥ, anityatā, nāmakāyaḥ, padakāyaḥ, vyañjanakāyaśceti //",
+      "segment_number": 36
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "32. trīṇyasaṃskṛtāni / tadyathā - ākāśaḥ, pratisaṃkhyānirodhaḥ, apratisaṃkhyānirodhaśceti //"
+      "text": "32. trīṇyasaṃskṛtāni / tadyathā - ākāśaḥ, pratisaṃkhyānirodhaḥ, apratisaṃkhyānirodhaśceti //",
+      "segment_number": 37
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "33. ṣaḍ viṣayāḥ / tadyathā - rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaḥ, dharmaśceti //"
+      "text": "33. ṣaḍ viṣayāḥ / tadyathā - rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaḥ, dharmaśceti //",
+      "segment_number": 38
     },
     {
       "tag": "note",
@@ -280,67 +318,80 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "34. tatra rūpaṃ viṣayasvabhāvam / nīlam, pītam, lohitam, avadātam, haritam, dīrgham, hrasvam, parimaṇḍalam, unnatam, avanatam, sātam, visātam, accham, dhūmaḥ, rajaḥ, mahikā, chāyā, ātapaḥ, ālokaḥ, andhakāraśceti //"
+      "text": "34. tatra rūpaṃ viṣayasvabhāvam / nīlam, pītam, lohitam, avadātam, haritam, dīrgham, hrasvam, parimaṇḍalam, unnatam, avanatam, sātam, visātam, accham, dhūmaḥ, rajaḥ, mahikā, chāyā, ātapaḥ, ālokaḥ, andhakāraśceti //",
+      "segment_number": 39
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "35. aṣṭāviṃśatividhaḥ śabdaḥ / sapta puruṣavākśabdāḥ, sapta puruṣahastādiśabdāḥ / eta eva(manojñā)manojñabhedenāṣṭāviṃśatiḥ //"
+      "text": "35. aṣṭāviṃśatividhaḥ śabdaḥ / sapta puruṣavākśabdāḥ, sapta puruṣahastādiśabdāḥ / eta eva(manojñā)manojñabhedenāṣṭāviṃśatiḥ //",
+      "segment_number": 40
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "36. rasaḥ ṣaḍvidhaḥ / tadyathā - madhuraḥ, amlaḥ, lavaṇaḥ, kaṭuḥ, tiktaḥ, kaṣāyaśceti //"
+      "text": "36. rasaḥ ṣaḍvidhaḥ / tadyathā - madhuraḥ, amlaḥ, lavaṇaḥ, kaṭuḥ, tiktaḥ, kaṣāyaśceti //",
+      "segment_number": 41
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "37. catvāro gandhāḥ / tadyathā - sugandhaḥ, durgandhaḥ, samagandhaḥ, viṣamagandhaśceti //"
+      "text": "37. catvāro gandhāḥ / tadyathā - sugandhaḥ, durgandhaḥ, samagandhaḥ, viṣamagandhaśceti //",
+      "segment_number": 42
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "38. ekādaśa spraṣṭavyāni / pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ślakṣṇatvam, karkaśatvam, laghutvam, gurutvam, śītam, jighatsā pipāsā ceti //"
+      "text": "38. ekādaśa spraṣṭavyāni / pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ślakṣṇatvam, karkaśatvam, laghutvam, gurutvam, śītam, jighatsā pipāsā ceti //",
+      "segment_number": 43
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "39. pañca mahābhūtāni / pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ākāśceti //"
+      "text": "39. pañca mahābhūtāni / pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ākāśceti //",
+      "segment_number": 44
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "40. pañca bhautikāni / rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaśceti //"
+      "text": "40. pañca bhautikāni / rūpam, śabdaḥ, gandhaḥ, rasaḥ, sparśaśceti //",
+      "segment_number": 45
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "41. viṃśatiḥ śūnyatāḥ / tadyathā - adhyātmaśūnyatā, bahirdhāśūnyatā, adhyātmabahirdhāśūnyatā, śūnyatāśūnyatā, mahāśūnyatā, paramārthaśūnyatā, saṃskṛtaśūnyatā, asaṃskṛtaśūnyatā, atyantaśūnyatā, anavarāgraśūnyatā, anavakāraśūnyatā, prakṛtiśūnyatā, sarvadharmaśūnyatā, lakṣaṇaśūnyatā, alakṣaṇaśūnyatā, bhāvaśūnyatā, abhāvaśūnyatā, svabhāvaśūnyatā, abhāvasvabhāvaśūnyatā, parabhāvaśūnyatā ceti //"
+      "text": "41. viṃśatiḥ śūnyatāḥ / tadyathā - adhyātmaśūnyatā, bahirdhāśūnyatā, adhyātmabahirdhāśūnyatā, śūnyatāśūnyatā, mahāśūnyatā, paramārthaśūnyatā, saṃskṛtaśūnyatā, asaṃskṛtaśūnyatā, atyantaśūnyatā, anavarāgraśūnyatā, anavakāraśūnyatā, prakṛtiśūnyatā, sarvadharmaśūnyatā, lakṣaṇaśūnyatā, alakṣaṇaśūnyatā, bhāvaśūnyatā, abhāvaśūnyatā, svabhāvaśūnyatā, abhāvasvabhāvaśūnyatā, parabhāvaśūnyatā ceti //",
+      "segment_number": 46
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "42. dvādaśāṅgapratītyasamutpādaḥ / avidyā, saṃskārāḥ, vijñānam, nāmarūpam, ṣaḍāyatanam, sparśaḥ, vedanā, tṛṣṇā, upādānam, bhavaḥ, jātiḥ, jarāmaraṇam, śokaparidevaduḥkhadaurmanasyopāyāsāśceti //"
+      "text": "42. dvādaśāṅgapratītyasamutpādaḥ / avidyā, saṃskārāḥ, vijñānam, nāmarūpam, ṣaḍāyatanam, sparśaḥ, vedanā, tṛṣṇā, upādānam, bhavaḥ, jātiḥ, jarāmaraṇam, śokaparidevaduḥkhadaurmanasyopāyāsāśceti //",
+      "segment_number": 47
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "43. saptatriṃśadbodhipākṣikā dharmāḥ / catvāri smṛtyupasthānāni // 4 // catvāri samyakprahāṇāni // 8 // catvāra ṛddhipādāḥ // 12 // pañcendriyāṇi // 17 // pañca balāni // 22 // sapta bodhyaṅgāni // 29 // āryāṣṭāṅgikamārgaśceti // 37 //"
+      "text": "43. saptatriṃśadbodhipākṣikā dharmāḥ / catvāri smṛtyupasthānāni // 4 // catvāri samyakprahāṇāni // 8 // catvāra ṛddhipādāḥ // 12 // pañcendriyāṇi // 17 // pañca balāni // 22 // sapta bodhyaṅgāni // 29 // āryāṣṭāṅgikamārgaśceti // 37 //",
+      "segment_number": 48
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "44. tatra katamāni smṛtyupasthānāni? tadyathā - kāye kāyānudarśasmṛtyupasthānam, vedanāyāṃ vedanānudarśasmṛtyupasthānam, citte cittānudarśasmṛtyupasthānam, dharme dharmānudarśasmṛtyupasthānam //"
+      "text": "44. tatra katamāni smṛtyupasthānāni? tadyathā - kāye kāyānudarśasmṛtyupasthānam, vedanāyāṃ vedanānudarśasmṛtyupasthānam, citte cittānudarśasmṛtyupasthānam, dharme dharmānudarśasmṛtyupasthānam //",
+      "segment_number": 49
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "45. katamāni catvāri samyakprahāṇāni? tadyathā - utpannānāṃ kuśalamūlānāṃ saṃrakṣaṇam / anutpannānāṃ samutpādaḥ / utpannānāmakuśalānāṃ dharmāṇāṃ prahāṇam / anutpannānāṃ punaranutpādaśceti //"
+      "text": "45. katamāni catvāri samyakprahāṇāni? tadyathā - utpannānāṃ kuśalamūlānāṃ saṃrakṣaṇam / anutpannānāṃ samutpādaḥ / utpannānāmakuśalānāṃ dharmāṇāṃ prahāṇam / anutpannānāṃ punaranutpādaśceti //",
+      "segment_number": 50
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "46. catvāraḥ ṛddhipādāḥ / tadyathā - chandasamādhiprahāṇāya saṃskārasamanvāgata ṛddhipādaḥ / evaṃ cittaṛddhipādaḥ / vīryaṛddhipādaḥ / mīmāṃsāsamādhiprahāṇāya saṃskārasamanvāgataṛddhipādaśceti //"
+      "text": "46. catvāraḥ ṛddhipādāḥ / tadyathā - chandasamādhiprahāṇāya saṃskārasamanvāgata ṛddhipādaḥ / evaṃ cittaṛddhipādaḥ / vīryaṛddhipādaḥ / mīmāṃsāsamādhiprahāṇāya saṃskārasamanvāgataṛddhipādaśceti //",
+      "segment_number": 51
     },
     {
       "tag": "note",
@@ -358,82 +409,98 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "47. pañcendriyāṇi / tadyathā - śraddhāsamādhivīryasmṛtiprajñendriyaṃ ceti //"
+      "text": "47. pañcendriyāṇi / tadyathā - śraddhāsamādhivīryasmṛtiprajñendriyaṃ ceti //",
+      "segment_number": 52
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "48. pañca balāni / śraddhāvīryasmṛtisamādhiprajñābalaṃ ceti //"
+      "text": "48. pañca balāni / śraddhāvīryasmṛtisamādhiprajñābalaṃ ceti //",
+      "segment_number": 53
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "49. sapta bodhyaṅgāni / tadyathā - smṛtisaṃbodhyaṅgam, dharmavicayasaṃbodhyaṅgam, vīryasaṃbodhyaṅgam, prītisaṃbodhyaṅgam, prasrabdhisaṃbodhyaṅgam, samādhisaṃbodhyaṅgam, upekṣāsaṃbodhyaṅgamiti //"
+      "text": "49. sapta bodhyaṅgāni / tadyathā - smṛtisaṃbodhyaṅgam, dharmavicayasaṃbodhyaṅgam, vīryasaṃbodhyaṅgam, prītisaṃbodhyaṅgam, prasrabdhisaṃbodhyaṅgam, samādhisaṃbodhyaṅgam, upekṣāsaṃbodhyaṅgamiti //",
+      "segment_number": 54
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "50. āryāṣṭāṅgikamārgaḥ // samyagdṛṣṭiḥ, samyaksaṃkalpaḥ, samyagvāk, samyakkarmāntaḥ, samyagvyāyāmaḥ, samyaksmṛtiḥ, samyaksamādhiśceti / ete saptatriṃśabdodhipākṣikā dharmāḥ //"
+      "text": "50. āryāṣṭāṅgikamārgaḥ // samyagdṛṣṭiḥ, samyaksaṃkalpaḥ, samyagvāk, samyakkarmāntaḥ, samyagvyāyāmaḥ, samyaksmṛtiḥ, samyaksamādhiśceti / ete saptatriṃśabdodhipākṣikā dharmāḥ //",
+      "segment_number": 55
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "51. catasraḥ pratisaṃvidaḥ / tadyathā - dharmapratisaṃvit, arthapratisaṃvit, niruktipratisaṃvit, pratibhānapratisaṃvicceti //"
+      "text": "51. catasraḥ pratisaṃvidaḥ / tadyathā - dharmapratisaṃvit, arthapratisaṃvit, niruktipratisaṃvit, pratibhānapratisaṃvicceti //",
+      "segment_number": 56
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "52. catasro dhāraṇyaḥ / tadyathā - ātmadhāraṇī, granthadhāraṇī, dharmadhāraṇī, mantradhāraṇī ceti //"
+      "text": "52. catasro dhāraṇyaḥ / tadyathā - ātmadhāraṇī, granthadhāraṇī, dharmadhāraṇī, mantradhāraṇī ceti //",
+      "segment_number": 57
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "53. catvāri pratiśaraṇāni / tadyathā - arthapratiśaraṇatā na vyañjanapratiśaraṇatā / jñānapratiśaraṇatā na vijñānapratiśaraṇatā / nītārthapratiśaraṇatā na neyārthapratiśaraṇatā / dharmapratiśaraṇatā na pudgalapratiśaraṇatā ceti //"
+      "text": "53. catvāri pratiśaraṇāni / tadyathā - arthapratiśaraṇatā na vyañjanapratiśaraṇatā / jñānapratiśaraṇatā na vijñānapratiśaraṇatā / nītārthapratiśaraṇatā na neyārthapratiśaraṇatā / dharmapratiśaraṇatā na pudgalapratiśaraṇatā ceti //",
+      "segment_number": 58
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "54. ṣaḍanusmṛtayaḥ / buddhānusmṛtiḥ, dharmānusmṛtiḥ, saṃghānusmṛtiḥ, tyāgānusmṛtiḥ, śīlānusmṛtiḥ, devānusmṛtiśceti //"
+      "text": "54. ṣaḍanusmṛtayaḥ / buddhānusmṛtiḥ, dharmānusmṛtiḥ, saṃghānusmṛtiḥ, tyāgānusmṛtiḥ, śīlānusmṛtiḥ, devānusmṛtiśceti //",
+      "segment_number": 59
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "55. catvāri dharmapadāni / tadyathā - anityāḥ sarvasaṃskārāḥ / duḥkhāḥ sarvasaṃskārāḥ / nirātmānaḥ sarvasaṃskārāḥ / śāntaṃ nirvāṇaṃ ceti //"
+      "text": "55. catvāri dharmapadāni / tadyathā - anityāḥ sarvasaṃskārāḥ / duḥkhāḥ sarvasaṃskārāḥ / nirātmānaḥ sarvasaṃskārāḥ / śāntaṃ nirvāṇaṃ ceti //",
+      "segment_number": 60
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "56. daśākuśalāni / tadyathā - prāṇātipātaḥ, adattādānam, kāmamithyācāraḥ, mṛṣāvādaḥ, paiśunyam, pāruṣyam, saṃbhinnapralāpaḥ, abhidhyā, vyāpādaḥ, mithyādṛṣṭiśceti //"
+      "text": "56. daśākuśalāni / tadyathā - prāṇātipātaḥ, adattādānam, kāmamithyācāraḥ, mṛṣāvādaḥ, paiśunyam, pāruṣyam, saṃbhinnapralāpaḥ, abhidhyā, vyāpādaḥ, mithyādṛṣṭiśceti //",
+      "segment_number": 61
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "57. gatayaḥ ṣaṭ / tadyathā - narakaḥ, tiryak, pretaḥ, asuraḥ, manuṣyaḥ, devaśceti //"
+      "text": "57. gatayaḥ ṣaṭ / tadyathā - narakaḥ, tiryak, pretaḥ, asuraḥ, manuṣyaḥ, devaśceti //",
+      "segment_number": 62
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "58. ṣaḍ dhātavaḥ / pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ākāśaḥ, vijñānaṃ ceti //"
+      "text": "58. ṣaḍ dhātavaḥ / pṛthvī, āpaḥ, tejaḥ, vāyuḥ, ākāśaḥ, vijñānaṃ ceti //",
+      "segment_number": 63
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "59. aṣṭau vimokṣāḥ / tadyathā - rūpī rūpāṇī paśyati śūnyam / ādhyātmārūpasaṃjñī bahirdhārūpāṇi paśyati śūnyam / ākāśānantyāyatanaṃ paśyati śūnyam / vijñānānantyāyatanaṃ paśyati śūnyam / ākiṃcanyāyatanaṃ paśyati śūnyam / naivasaṃjñānāsaṃjñāyatanaṃ paśyati śūnyam / saṃjñāvedayitanirodhaṃ paśyati śūnyaṃ ceti //"
+      "text": "59. aṣṭau vimokṣāḥ / tadyathā - rūpī rūpāṇī paśyati śūnyam / ādhyātmārūpasaṃjñī bahirdhārūpāṇi paśyati śūnyam / ākāśānantyāyatanaṃ paśyati śūnyam / vijñānānantyāyatanaṃ paśyati śūnyam / ākiṃcanyāyatanaṃ paśyati śūnyam / naivasaṃjñānāsaṃjñāyatanaṃ paśyati śūnyam / saṃjñāvedayitanirodhaṃ paśyati śūnyaṃ ceti //",
+      "segment_number": 64
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "60. pañcānantaryāṇi / tadyathā - mātṛvadhaḥ, pitṛvadhaḥ arhadvadhaḥ, tathāgataduṣṭacittarudhirotpādaḥ, saṃghabhedaśceti //"
+      "text": "60. pañcānantaryāṇi / tadyathā - mātṛvadhaḥ, pitṛvadhaḥ arhadvadhaḥ, tathāgataduṣṭacittarudhirotpādaḥ, saṃghabhedaśceti //",
+      "segment_number": 65
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "61. aṣṭau lokadharmāḥ // lābhaḥ, alābhaḥ, sukham, duḥkham, yaśaḥ, ayaśaḥ, nindā, praśaṃsā ceti //"
+      "text": "61. aṣṭau lokadharmāḥ // lābhaḥ, alābhaḥ, sukham, duḥkham, yaśaḥ, ayaśaḥ, nindā, praśaṃsā ceti //",
+      "segment_number": 66
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "62. navāṅgapravacanāni / tadyathā - sūtram, geyam, vyākaraṇam, gāthā, udānam, jātakam, vaipulyam, adbhutadharmaḥ, upadeśaśceti //"
+      "text": "62. navāṅgapravacanāni / tadyathā - sūtram, geyam, vyākaraṇam, gāthā, udānam, jātakam, vaipulyam, adbhutadharmaḥ, upadeśaśceti //",
+      "segment_number": 67
     },
     {
       "tag": "note",
@@ -451,72 +518,86 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "63. dvādaśa dhūtaguṇāḥ / paiṇḍapātikaḥ, traicīvarikaḥ, khalupaścādbhaktikaḥ, naiṣadyikaḥ, yathāsaṃstarikaḥ, vṛkṣamūlikaḥ, ekāsanikaḥ, ābhyavakāśikaḥ, āraṇyakaḥ, śmāśānikaḥ, pāṃśūkūlikaḥ, nāmantikaśceti //"
+      "text": "63. dvādaśa dhūtaguṇāḥ / paiṇḍapātikaḥ, traicīvarikaḥ, khalupaścādbhaktikaḥ, naiṣadyikaḥ, yathāsaṃstarikaḥ, vṛkṣamūlikaḥ, ekāsanikaḥ, ābhyavakāśikaḥ, āraṇyakaḥ, śmāśānikaḥ, pāṃśūkūlikaḥ, nāmantikaśceti //",
+      "segment_number": 68
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "64. daśa bhūmayaḥ / pramuditā, vimalā, prabhākarī, arciṣmatī, sudurjayā, abhimukhī, dūraṃgamā, acalā, sādhumatī, dharmameghā ceti //"
+      "text": "64. daśa bhūmayaḥ / pramuditā, vimalā, prabhākarī, arciṣmatī, sudurjayā, abhimukhī, dūraṃgamā, acalā, sādhumatī, dharmameghā ceti //",
+      "segment_number": 69
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "65. samantaprabhā, nirupamā, jñānavatī / etāḥ sahitāsrayodaśa bhūmayaḥ //"
+      "text": "65. samantaprabhā, nirupamā, jñānavatī / etāḥ sahitāsrayodaśa bhūmayaḥ //",
+      "segment_number": 70
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "66. pañca cakṣūṃṣī / māṃsacakṣuḥ, dharmacakṣuḥ, prajñācakṣuḥ, divyacakṣuḥ, buddhacakṣuśceti //"
+      "text": "66. pañca cakṣūṃṣī / māṃsacakṣuḥ, dharmacakṣuḥ, prajñācakṣuḥ, divyacakṣuḥ, buddhacakṣuśceti //",
+      "segment_number": 71
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "67. ṣaṭ kleśāḥ / rāgaḥ, pratighaḥ, mānaḥ, avidyā, kudṛṣṭiḥ, vicikitsā ceti //"
+      "text": "67. ṣaṭ kleśāḥ / rāgaḥ, pratighaḥ, mānaḥ, avidyā, kudṛṣṭiḥ, vicikitsā ceti //",
+      "segment_number": 72
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "68. pañca dṛṣṭayaḥ / satkāyadṛṣṭiḥ, antagrāhadṛṣṭiḥ, mithyādṛṣṭiḥ, dṛṣṭiparāmarśaḥ, śīlaparāmarśaḥ //"
+      "text": "68. pañca dṛṣṭayaḥ / satkāyadṛṣṭiḥ, antagrāhadṛṣṭiḥ, mithyādṛṣṭiḥ, dṛṣṭiparāmarśaḥ, śīlaparāmarśaḥ //",
+      "segment_number": 73
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "69. catuviṃśatirupakleśāḥ / tadyathā - krodhaḥ, upanāhaḥ, mrakṣaḥ, pradāśaḥ, īrṣyāḥ, mātsaryam, śāṭhyam, māyā, madaḥ, vihiṃsā, hrīḥ, anapatrapā, styānam, aśrāddhyam, kausīdyam, pramādaḥ, muṣitasmṛtiḥ, vikṣepaḥ, asaṃprajanyam, kaukṛtyam, middham, vitarkaḥ, vicāraśceti //"
+      "text": "69. catuviṃśatirupakleśāḥ / tadyathā - krodhaḥ, upanāhaḥ, mrakṣaḥ, pradāśaḥ, īrṣyāḥ, mātsaryam, śāṭhyam, māyā, madaḥ, vihiṃsā, hrīḥ, anapatrapā, styānam, aśrāddhyam, kausīdyam, pramādaḥ, muṣitasmṛtiḥ, vikṣepaḥ, asaṃprajanyam, kaukṛtyam, middham, vitarkaḥ, vicāraśceti //",
+      "segment_number": 74
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "70. pañcāhārāḥ / dhyānāhārāḥ, kavalīkārāhārāḥ, pratyāhārāḥ, sparśāhārāḥ, saṃcetanikāhārāśceti //"
+      "text": "70. pañcāhārāḥ / dhyānāhārāḥ, kavalīkārāhārāḥ, pratyāhārāḥ, sparśāhārāḥ, saṃcetanikāhārāśceti //",
+      "segment_number": 75
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "71. pañca bhayāni / ājīvikābhayam, śokabhayam, maraṇabhayam, durgatibhayam, parṣadasādyabhayaṃ ceti //"
+      "text": "71. pañca bhayāni / ājīvikābhayam, śokabhayam, maraṇabhayam, durgatibhayam, parṣadasādyabhayaṃ ceti //",
+      "segment_number": 76
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "72. catvāri dhyānāni / tadyathā - savitarkaṃ savicāraṃ vivekajaṃ prītisukhamiti prathamadhyānam / adhyātmapramodanātprītisukhamiti dvitīyam / upekṣāsmṛtisaṃprajanyaṃ sukhamiti tṛtīyam / upekṣāsmṛtipariśuddhiraduḥkhāsukhā vedaneti caturthaṃ dhyānamiti //"
+      "text": "72. catvāri dhyānāni / tadyathā - savitarkaṃ savicāraṃ vivekajaṃ prītisukhamiti prathamadhyānam / adhyātmapramodanātprītisukhamiti dvitīyam / upekṣāsmṛtisaṃprajanyaṃ sukhamiti tṛtīyam / upekṣāsmṛtipariśuddhiraduḥkhāsukhā vedaneti caturthaṃ dhyānamiti //",
+      "segment_number": 77
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "73. trayo vimokṣāḥ / śūnyatā, animittaḥ, apraṇihitaśceti //"
+      "text": "73. trayo vimokṣāḥ / śūnyatā, animittaḥ, apraṇihitaśceti //",
+      "segment_number": 78
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "74. bodhisattvānāṃ daśa vaśitāḥ / āyurvaśitā, cittavaśitā, pariṣkāravaśitā, dharmavaśitā, ṛddhivaśitā, janmavaśitā, adhimuktivaśitā, praṇidhānavaśitā, karmavaśitā, jñānavaśitā ceti //"
+      "text": "74. bodhisattvānāṃ daśa vaśitāḥ / āyurvaśitā, cittavaśitā, pariṣkāravaśitā, dharmavaśitā, ṛddhivaśitā, janmavaśitā, adhimuktivaśitā, praṇidhānavaśitā, karmavaśitā, jñānavaśitā ceti //",
+      "segment_number": 79
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "75. bodhisattvānāṃ daśa balāni / tadyathā - adhimuktibalam,\npratisaṃkhyānabalam, bhāvabalam, kṣāntibalam, jñānabalam, prahāṇabalam, samādhibalam, pratibhānabalam, puṇyabalam, pratipattibalaṃ ceti //"
+      "text": "75. bodhisattvānāṃ daśa balāni / tadyathā - adhimuktibalam,\npratisaṃkhyānabalam, bhāvabalam, kṣāntibalam, jñānabalam, prahāṇabalam, samādhibalam, pratibhānabalam, puṇyabalam, pratipattibalaṃ ceti //",
+      "segment_number": 80
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "76. tathāgatasya daśa balāni / tadyathā - sthānāsthānajñānabalam, karmavipākajñānabalam, nānādhātujñānabalam, nānadhimuktijñānabalam, sattvendriyaparāparajñānabalam, sarvatragāminīpratipattijñānabalam, dhyānavimokṣasamādhisamāpattisaṃkleśavyavadānavyutthānajñānabalam, pūrvanivāsānusmṛtijñānabalam, cyutyutpattijñānabalam, āsravakṣayajñānabalaṃ ceti //"
+      "text": "76. tathāgatasya daśa balāni / tadyathā - sthānāsthānajñānabalam, karmavipākajñānabalam, nānādhātujñānabalam, nānadhimuktijñānabalam, sattvendriyaparāparajñānabalam, sarvatragāminīpratipattijñānabalam, dhyānavimokṣasamādhisamāpattisaṃkleśavyavadānavyutthānajñānabalam, pūrvanivāsānusmṛtijñānabalam, cyutyutpattijñānabalam, āsravakṣayajñānabalaṃ ceti //",
+      "segment_number": 81
     },
     {
       "tag": "note",
@@ -534,37 +615,44 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "77. catvāri vaiśāradyāni / tadyathā - abhisaṃbodhivaiśāradyam, āsravakṣayajñānavaiśāradyam, nairvāṇikamārgāvataraṇavaiśāradyam[antarāyikadharmānanyathātvaniścitavyākaraṇavaiśāradyaṃ] ceti //"
+      "text": "77. catvāri vaiśāradyāni / tadyathā - abhisaṃbodhivaiśāradyam, āsravakṣayajñānavaiśāradyam, nairvāṇikamārgāvataraṇavaiśāradyam[antarāyikadharmānanyathātvaniścitavyākaraṇavaiśāradyaṃ] ceti //",
+      "segment_number": 82
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "78. pañca mātsaryāṇi / dharmamātsaryam, lābhamātsaryam, āvāsamātsaryam, kuśalamātsaryam, varṇamātsaryaṃ ceti //"
+      "text": "78. pañca mātsaryāṇi / dharmamātsaryam, lābhamātsaryam, āvāsamātsaryam, kuśalamātsaryam, varṇamātsaryaṃ ceti //",
+      "segment_number": 83
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "79. aṣṭādaśāveṇikā buddhadharmāḥ / tadyathā - nāsti tathāgatasya skhalitam / nāsti ravitam / nāsti muṣitasmṛtitā / nāstyasamāhitacittam / nāsti nānātvasaṃjñā / nāstyapratisaṃkhyāyopekṣā / nāsti chandaparihāṇiḥ / nāsti vīryaparihāṇiḥ / nāsti smṛtiparihāṇiḥ / nāsti samādhiparihāṇiḥ / nāsti prajñāparihāṇiḥ / nāsti vimuktiparihāṇiḥ / nāsti vimuktijñānadarśanaparihāṇiḥ / sarvakāyakarmajñānapūrvagamajñānānuparivṛttiḥ / sarvavākkarmajñānapūrvaṃgamajñānānuparivṛttiḥ / sarvamanaskarmajñānapūrvaṃgamajñānānuparivṛttiḥ / atīte 'dhvanyasaṅgamapratihatajñānam / pratyutpanne 'dhvanyasaṅgamapratihatajñānadarśanaṃ ceti //"
+      "text": "79. aṣṭādaśāveṇikā buddhadharmāḥ / tadyathā - nāsti tathāgatasya skhalitam / nāsti ravitam / nāsti muṣitasmṛtitā / nāstyasamāhitacittam / nāsti nānātvasaṃjñā / nāstyapratisaṃkhyāyopekṣā / nāsti chandaparihāṇiḥ / nāsti vīryaparihāṇiḥ / nāsti smṛtiparihāṇiḥ / nāsti samādhiparihāṇiḥ / nāsti prajñāparihāṇiḥ / nāsti vimuktiparihāṇiḥ / nāsti vimuktijñānadarśanaparihāṇiḥ / sarvakāyakarmajñānapūrvagamajñānānuparivṛttiḥ / sarvavākkarmajñānapūrvaṃgamajñānānuparivṛttiḥ / sarvamanaskarmajñānapūrvaṃgamajñānānuparivṛttiḥ / atīte 'dhvanyasaṅgamapratihatajñānam / pratyutpanne 'dhvanyasaṅgamapratihatajñānadarśanaṃ ceti //",
+      "segment_number": 84
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "80. catvāro mārāḥ / tadyathā - skandhamāraḥ, kleśamāraḥ, devaputramāraḥ, mṛtyumāraśceti //"
+      "text": "80. catvāro mārāḥ / tadyathā - skandhamāraḥ, kleśamāraḥ, devaputramāraḥ, mṛtyumāraśceti //",
+      "segment_number": 85
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "81. catvāri śraddhāṅgāni / tadyathā - āryasatyam, triratnam, karma, karmaphalaṃ ceti //"
+      "text": "81. catvāri śraddhāṅgāni / tadyathā - āryasatyam, triratnam, karma, karmaphalaṃ ceti //",
+      "segment_number": 86
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "82. navānupūrvasamādhisamāpattayaḥ / tadyathā - catvāri dhyānāni, catasra ārūpyasamāpattayaḥ, nirodhasamāpattiśceti //"
+      "text": "82. navānupūrvasamādhisamāpattayaḥ / tadyathā - catvāri dhyānāni, catasra ārūpyasamāpattayaḥ, nirodhasamāpattiśceti //",
+      "segment_number": 87
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "83. dvātriṃśallakṣaṇāni / tadyathā - cakrāṅkitapāṇipādatalatā / supratiṣṭhitapāṇipādatalatā / jālābalabaddhā(vanaddhā?)ṅgulipāṇipādatalatā / mṛdutaruṇahastapādatalatā / saptotsadatā / dīrghāṅgulitā / āyatapārṣṇitā / ṛjugātratā / utsaṅgapādatā / urdhvāgraromatā / aiṇejayaṅghatā / pralambabāhutā / koṣagatabastiguhyatā / suvarṇavarṇatā / śuklacchavitā / pradakṣiṇāvartaikaromatā / ūrṇālaṃkṛtamukhatā / siṃhapūrvāntakāyatā / susaṃvṛttaskandhatā / citāntarāṃsatā / rasarasāgratā / nyagrodhaparimaṇḍalatā / uṣṇīṣaśiraskatā / prabhūtajivhatā / siṃhahanutā / śuklahanutā / samadantatā / haṃsavikrāntagāmitā / aviraladantatā / samacatvāriṃśaddantatā / abhinīlanetratā / gopakṣanetratā ceti //"
+      "text": "83. dvātriṃśallakṣaṇāni / tadyathā - cakrāṅkitapāṇipādatalatā / supratiṣṭhitapāṇipādatalatā / jālābalabaddhā(vanaddhā?)ṅgulipāṇipādatalatā / mṛdutaruṇahastapādatalatā / saptotsadatā / dīrghāṅgulitā / āyatapārṣṇitā / ṛjugātratā / utsaṅgapādatā / urdhvāgraromatā / aiṇejayaṅghatā / pralambabāhutā / koṣagatabastiguhyatā / suvarṇavarṇatā / śuklacchavitā / pradakṣiṇāvartaikaromatā / ūrṇālaṃkṛtamukhatā / siṃhapūrvāntakāyatā / susaṃvṛttaskandhatā / citāntarāṃsatā / rasarasāgratā / nyagrodhaparimaṇḍalatā / uṣṇīṣaśiraskatā / prabhūtajivhatā / siṃhahanutā / śuklahanutā / samadantatā / haṃsavikrāntagāmitā / aviraladantatā / samacatvāriṃśaddantatā / abhinīlanetratā / gopakṣanetratā ceti //",
+      "segment_number": 88
     },
     {
       "tag": "p",
@@ -576,68 +664,82 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Dhs, Vaidya 335"
+          "text": "Dhs, Vaidya 335",
+          "segment_number": 90
         },
         {
           "tag": "text",
-          "text": ") pradakṣiṇāvartanābhitā / samantaprāsādikatā / śucisamudāratā / vyapagatatilakagātratā / tūlasadṛśasukumārapāṇitā / snigdhapāṇilekhatā / gambhīrapāṇilekhatā / āyatapāṇilekhatā / nātyāyatavacanatā / bimbapratibimboṣṭhatā / mṛdujivhatā / tanujivhatā / raktajihvatā / meghagarjitaghoṣatā / madhuracārumañjusvaratā / vṛttadaṃṣṭratā / tīkṣṇaṃdaṃṣṭratā / śūkladaṃṣṭratā / samadaṃṣṭratā / anupūrvadaṃṣṭratā / tuṅganāsatā / śucināsatā / viśālanayanatā / citrapakṣmatā / sitāsitakamaladalanayanatā / āyatabhrūkatā / śuklabhrūkatā / susnigdhabhrūkatā / pīnāyatabhujalatā / samakarṇatā / anupahatakarṇendriyatā / avimlānalalāṭatā / pṛthulalāṭatā / suparipūrṇottamāṅgatā / bhramarasadṛśakeśatā / citrakeśatā / guḍākeśatā / asaṃmuṇitakeśatā / aparuṣakeśatā / surabhikeśatā / śrīvatsamuktikanandyāvartalakṣitapāṇipādatalatā ceti //"
+          "text": ") pradakṣiṇāvartanābhitā / samantaprāsādikatā / śucisamudāratā / vyapagatatilakagātratā / tūlasadṛśasukumārapāṇitā / snigdhapāṇilekhatā / gambhīrapāṇilekhatā / āyatapāṇilekhatā / nātyāyatavacanatā / bimbapratibimboṣṭhatā / mṛdujivhatā / tanujivhatā / raktajihvatā / meghagarjitaghoṣatā / madhuracārumañjusvaratā / vṛttadaṃṣṭratā / tīkṣṇaṃdaṃṣṭratā / śūkladaṃṣṭratā / samadaṃṣṭratā / anupūrvadaṃṣṭratā / tuṅganāsatā / śucināsatā / viśālanayanatā / citrapakṣmatā / sitāsitakamaladalanayanatā / āyatabhrūkatā / śuklabhrūkatā / susnigdhabhrūkatā / pīnāyatabhujalatā / samakarṇatā / anupahatakarṇendriyatā / avimlānalalāṭatā / pṛthulalāṭatā / suparipūrṇottamāṅgatā / bhramarasadṛśakeśatā / citrakeśatā / guḍākeśatā / asaṃmuṇitakeśatā / aparuṣakeśatā / surabhikeśatā / śrīvatsamuktikanandyāvartalakṣitapāṇipādatalatā ceti //",
+          "segment_number": 91
         }
-      ]
+      ],
+      "segment_number": 89
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "85. cakravartināṃ sapta ratnāni / tadyathā - cakraratnam, aśvaratnam, hastiratnam, maṇiratnam, strīratnam, khaṅgaratnam, pariṇāyakaratnaṃ ceti //"
+      "text": "85. cakravartināṃ sapta ratnāni / tadyathā - cakraratnam, aśvaratnam, hastiratnam, maṇiratnam, strīratnam, khaṅgaratnam, pariṇāyakaratnaṃ ceti //",
+      "segment_number": 92
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "86. tatra trayo 'dhvānaḥ / tadyathā - atīto 'dhvā, anāgato 'dhvā, pratyutpanno 'dhvā ceti //"
+      "text": "86. tatra trayo 'dhvānaḥ / tadyathā - atīto 'dhvā, anāgato 'dhvā, pratyutpanno 'dhvā ceti //",
+      "segment_number": 93
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "87. catvāraḥ kalpāḥ / tadyathā - antarakalpāḥ, mahākalpāḥ, śūnyakalpāḥ, sārakalpāśceti //"
+      "text": "87. catvāraḥ kalpāḥ / tadyathā - antarakalpāḥ, mahākalpāḥ, śūnyakalpāḥ, sārakalpāśceti //",
+      "segment_number": 94
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "88. catvāri yugāni / tadyathā - kṛtayugam, tretāyugam, dvāparam, kaliyugaṃ ceti //"
+      "text": "88. catvāri yugāni / tadyathā - kṛtayugam, tretāyugam, dvāparam, kaliyugaṃ ceti //",
+      "segment_number": 95
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "89. lokadvayam / tadyathā - sattvalokaḥ, bhājanalokaśceti //"
+      "text": "89. lokadvayam / tadyathā - sattvalokaḥ, bhājanalokaśceti //",
+      "segment_number": 96
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "90. catvāro yonayaḥ / tadyathā - aṇḍajaḥ, saṃsvedajaḥ, jarāyujaḥ, upapādukaśceti //"
+      "text": "90. catvāro yonayaḥ / tadyathā - aṇḍajaḥ, saṃsvedajaḥ, jarāyujaḥ, upapādukaśceti //",
+      "segment_number": 97
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "91. pañca kaṣāyāḥ / tadyathā - kleśakaṣāyaḥ, dṛṣṭikaṣāyaḥ, sattvakaṣāyaḥ, āyuḥkaṣāyaḥ, kalpakaṣāyaśceti //"
+      "text": "91. pañca kaṣāyāḥ / tadyathā - kleśakaṣāyaḥ, dṛṣṭikaṣāyaḥ, sattvakaṣāyaḥ, āyuḥkaṣāyaḥ, kalpakaṣāyaśceti //",
+      "segment_number": 98
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "92. trayaḥ sattvādhyāḥ / tadyathā - pūrvāntakoṭiparijñāyāḥ, aparāntakoṭiparijñāyāḥ, caturmārakoṭiparijñāyāśceti //"
+      "text": "92. trayaḥ sattvādhyāḥ / tadyathā - pūrvāntakoṭiparijñāyāḥ, aparāntakoṭiparijñāyāḥ, caturmārakoṭiparijñāyāśceti //",
+      "segment_number": 99
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "93. daśa jñānāni / tadyathā - duḥkhajñānam, samudayajñānam, nirodhajñānam, mārgajñānam, dharmajñānam, anvayajñānam, saṃvṛtijñānam, paracittajñānam, kṣayajñānam, anutpādajñānaṃ ceti //"
+      "text": "93. daśa jñānāni / tadyathā - duḥkhajñānam, samudayajñānam, nirodhajñānam, mārgajñānam, dharmajñānam, anvayajñānam, saṃvṛtijñānam, paracittajñānam, kṣayajñānam, anutpādajñānaṃ ceti //",
+      "segment_number": 100
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "94. pañca jñānāni / tadyathā - ādarśanajñānam, samatājñānam, pratyavekṣaṇājñānam, kṛtyānuṣṭhānajñānam, suviśuddhadharmadhātujñānaṃ ceti //"
+      "text": "94. pañca jñānāni / tadyathā - ādarśanajñānam, samatājñānam, pratyavekṣaṇājñānam, kṛtyānuṣṭhānajñānam, suviśuddhadharmadhātujñānaṃ ceti //",
+      "segment_number": 101
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "95. dve satye / tadyathā - saṃvṛtisatyam, paramārthasatyaṃ ceti //"
+      "text": "95. dve satye / tadyathā - saṃvṛtisatyam, paramārthasatyaṃ ceti //",
+      "segment_number": 102
     },
     {
       "tag": "p",
@@ -649,53 +751,64 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Dhs, Vaidya 336"
+          "text": "Dhs, Vaidya 336",
+          "segment_number": 104
         },
         {
           "tag": "text",
-          "text": ") samudaye dharmajñānam, samudaye 'nvayajñānakṣāntiḥ, samudaye 'nvayajñānam / nirodhe dharmajñānakṣāntiḥ, nirodhe dharmajñānam, nirodhe 'nvayajñānakṣāntiḥ, nirodhe 'nvayajñānam / mārge dharmajñānakṣāntiḥ, mārge dharmajñānam, mārge 'nvayajñānakṣāntiḥ, mārge 'nvayajñānaṃ ceti //"
+          "text": ") samudaye dharmajñānam, samudaye 'nvayajñānakṣāntiḥ, samudaye 'nvayajñānam / nirodhe dharmajñānakṣāntiḥ, nirodhe dharmajñānam, nirodhe 'nvayajñānakṣāntiḥ, nirodhe 'nvayajñānam / mārge dharmajñānakṣāntiḥ, mārge dharmajñānam, mārge 'nvayajñānakṣāntiḥ, mārge 'nvayajñānaṃ ceti //",
+          "segment_number": 105
         }
-      ]
+      ],
+      "segment_number": 103
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "97. tatra duḥkhasatye catvāra ākārāḥ / tadyathā - anityataḥ, duḥkhataḥ, śūnyataḥ, anātmataśceti //"
+      "text": "97. tatra duḥkhasatye catvāra ākārāḥ / tadyathā - anityataḥ, duḥkhataḥ, śūnyataḥ, anātmataśceti //",
+      "segment_number": 106
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "98. samudayasatye catvāra ākārāḥ / tadyathā - hetutaḥ, samudayataḥ, prabhavataḥ, pratyayataśceti //"
+      "text": "98. samudayasatye catvāra ākārāḥ / tadyathā - hetutaḥ, samudayataḥ, prabhavataḥ, pratyayataśceti //",
+      "segment_number": 107
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "99. nirodhasatye catvāra ākārāḥ / tadyathā - nirodhataḥ, śāntataḥ, praṇītataḥ, niḥsaraṇataśceti //"
+      "text": "99. nirodhasatye catvāra ākārāḥ / tadyathā - nirodhataḥ, śāntataḥ, praṇītataḥ, niḥsaraṇataśceti //",
+      "segment_number": 108
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "100. mārgasatye catvāra ākārāḥ / tadyathā - mārgataḥ, nyāyataḥ, pratipattitaḥ, nairyāṇika(ta)śceti //"
+      "text": "100. mārgasatye catvāra ākārāḥ / tadyathā - mārgataḥ, nyāyataḥ, pratipattitaḥ, nairyāṇika(ta)śceti //",
+      "segment_number": 109
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "101. catvāraḥ samādhayaḥ / tadyathā - ālokasamādhiḥ, vṛtāsamādhiḥ, ekādaśapratiṣṭhasamādhiḥ, ānantaryasamādhiśceti //"
+      "text": "101. catvāraḥ samādhayaḥ / tadyathā - ālokasamādhiḥ, vṛtāsamādhiḥ, ekādaśapratiṣṭhasamādhiḥ, ānantaryasamādhiśceti //",
+      "segment_number": 110
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "102. tatrāṣṭau[puruṣa] - pugdalāḥ / tadyathā - srotaāpannaphalapratipannakaḥ, srotaāpannaḥ, sakṛdāgāmiphalapratipannakaḥ, sakṛdāgāmī, anāgāmiphalapratipannakaḥ, anāgāmī, arhatphalapratipannakaḥ, arhaṃśceti //"
+      "text": "102. tatrāṣṭau[puruṣa] - pugdalāḥ / tadyathā - srotaāpannaphalapratipannakaḥ, srotaāpannaḥ, sakṛdāgāmiphalapratipannakaḥ, sakṛdāgāmī, anāgāmiphalapratipannakaḥ, anāgāmī, arhatphalapratipannakaḥ, arhaṃśceti //",
+      "segment_number": 111
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "103. tathāṣṭau pratipugdalāḥ / tadyathā - śraddhānusārī, dharmānusārī, srotaāpannaḥ, devakulaṃkulaḥ, manuṣyakulaṃkulaḥ, sakṛdāgāmiphalaḥ, śraddhavimuktirdṛṣṭiprāpta ekavīcīko 'nāgāmyantarāparinirvāyī upahatyaparinirvāyī abhisaṃskāraparinirvāyī pluto 'rddhaplutaḥ sarvāstānapluto dṛṣṭadharmasamaḥ kāyasākṣī khaṅgaśceti //"
+      "text": "103. tathāṣṭau pratipugdalāḥ / tadyathā - śraddhānusārī, dharmānusārī, srotaāpannaḥ, devakulaṃkulaḥ, manuṣyakulaṃkulaḥ, sakṛdāgāmiphalaḥ, śraddhavimuktirdṛṣṭiprāpta ekavīcīko 'nāgāmyantarāparinirvāyī upahatyaparinirvāyī abhisaṃskāraparinirvāyī pluto 'rddhaplutaḥ sarvāstānapluto dṛṣṭadharmasamaḥ kāyasākṣī khaṅgaśceti //",
+      "segment_number": 112
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "104. [tadanu dvādaśākaradharmacakrapravartakaṃ(naṃ) katamat? tadyathā - idaṃ duḥkhamāryasatyamiti bhikṣavaḥ pūrvamanuśrutya teṣu dharmeṣu yoniśo manasiṃgavataḥ(?) cakṣurudapādi / jñānamutpādi cintotpādi / cutrirudapādi / ityekaparicatakaḥ 1 idaṃ duḥkhamārya sa tatra khalvabhijñātaṃ iti bhikṣavaḥ / ityādi pūrvavaditiyaḥ // idaṃ duḥkhasamudayamāryasatvaṃ tava khalvabhijñāya prahīṇamiti hityādi tṛtīyaḥ / tathā idaṃ duḥkhanirodha āryasatyamiti hipratyekaḥ // idaṃ duḥkhanirodhaāryyasatyaṃ tatra khalvabhijñāya śākṣāt kartavyamiti hitya dvitīyaḥ / idaṃ duḥkhanirodhaāryasatya tatra khalu bhijñāya śākṣāt dvitīya / tadyathā idaṃ duḥkhamārgagāminī pratipadāryasatyemiti tyeka // idaṃ duḥkhamokṣagāmini pratipa ityāryyasatyaṃ tatra khalu bhijñāya bhāvayitavyamiti hi bhikṣava ityādi tṛtīyaḥ / parivarta ityeva dvādaśākāradharmacakrapravarttanamiti // ]"
+      "text": "104. [tadanu dvādaśākaradharmacakrapravartakaṃ(naṃ) katamat? tadyathā - idaṃ duḥkhamāryasatyamiti bhikṣavaḥ pūrvamanuśrutya teṣu dharmeṣu yoniśo manasiṃgavataḥ(?) cakṣurudapādi / jñānamutpādi cintotpādi / cutrirudapādi / ityekaparicatakaḥ 1 idaṃ duḥkhamārya sa tatra khalvabhijñātaṃ iti bhikṣavaḥ / ityādi pūrvavaditiyaḥ // idaṃ duḥkhasamudayamāryasatvaṃ tava khalvabhijñāya prahīṇamiti hityādi tṛtīyaḥ / tathā idaṃ duḥkhanirodha āryasatyamiti hipratyekaḥ // idaṃ duḥkhanirodhaāryyasatyaṃ tatra khalvabhijñāya śākṣāt kartavyamiti hitya dvitīyaḥ / idaṃ duḥkhanirodhaāryasatya tatra khalu bhijñāya śākṣāt dvitīya / tadyathā idaṃ duḥkhamārgagāminī pratipadāryasatyemiti tyeka // idaṃ duḥkhamokṣagāmini pratipa ityāryyasatyaṃ tatra khalu bhijñāya bhāvayitavyamiti hi bhikṣava ityādi tṛtīyaḥ / parivarta ityeva dvādaśākāradharmacakrapravarttanamiti // ]",
+      "segment_number": 113
     },
     {
       "tag": "note",
@@ -713,62 +826,74 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Ms. C.\ntadanu dvādaśākāradharmacakrapravartakaḥ / katamat / idaṃ duḥkhamāryasatyamiti bhikṣavaḥ / pūrvamanuśrutya teṣu dharmeṣu yoniśo manasigavataḥ cakṣurudapādi / jñānamutpādi cittotpādi / cutrirutpādi // ityekaparivartaka idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti hi bhikṣavaḥ / pūrvamanuśruya teṣu yoniso manasiṅgarvutaḥ // iti dvitīyaḥ // idamāryasatyaṃ tatra khalvabhijñātaṃ iti bhikṣavaḥ / ityādi pūrvavaditi yaḥ //"
+      "text": "Ms. C.\ntadanu dvādaśākāradharmacakrapravartakaḥ / katamat / idaṃ duḥkhamāryasatyamiti bhikṣavaḥ / pūrvamanuśrutya teṣu dharmeṣu yoniśo manasigavataḥ cakṣurudapādi / jñānamutpādi cittotpādi / cutrirutpādi // ityekaparivartaka idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti hi bhikṣavaḥ / pūrvamanuśruya teṣu yoniso manasiṅgarvutaḥ // iti dvitīyaḥ // idamāryasatyaṃ tatra khalvabhijñātaṃ iti bhikṣavaḥ / ityādi pūrvavaditi yaḥ //",
+      "segment_number": 114
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "idaṃ duḥkhasamudayamāryasatyaṃ tava khalvabhijñāya prahīṇamiti hītyādi tṛtīyam //"
+      "text": "idaṃ duḥkhasamudayamāryasatyaṃ tava khalvabhijñāya prahīṇamiti hītyādi tṛtīyam //",
+      "segment_number": 115
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "tathā idaṃ duḥkhanirodha āryasatyamiti hi pratyekaḥ // idaṃ duḥkhanirodha āryasatyaṃ tatra khalvabhijñāya sākṣāt kartavyamiti hityādi / dvitīyaḥ / idaṃ duḥkhanirodha āryasatyaṃ tatra khalvabhijñāya sākṣāt kṛtamiti dvitīyaḥ /"
+      "text": "tathā idaṃ duḥkhanirodha āryasatyamiti hi pratyekaḥ // idaṃ duḥkhanirodha āryasatyaṃ tatra khalvabhijñāya sākṣāt kartavyamiti hityādi / dvitīyaḥ / idaṃ duḥkhanirodha āryasatyaṃ tatra khalvabhijñāya sākṣāt kṛtamiti dvitīyaḥ /",
+      "segment_number": 116
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "tathā idaṃ duḥkhamārgagāmini pratipadāryasatyamiti pratyeka / idaṃ duḥkhamokṣagāminī pratipat // ityāryasatyaṃ tatra khalvabhijñāya bhātavyamiti hi bhikṣavaḥ ityādi tṛtīyaḥ / parivartta ityevaṃ dvādaśākāradharmacakrapravartanamiti // //"
+      "text": "tathā idaṃ duḥkhamārgagāmini pratipadāryasatyamiti pratyeka / idaṃ duḥkhamokṣagāminī pratipat // ityāryasatyaṃ tatra khalvabhijñāya bhātavyamiti hi bhikṣavaḥ ityādi tṛtīyaḥ / parivartta ityevaṃ dvādaśākāradharmacakrapravartanamiti // //",
+      "segment_number": 117
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Restored Text.\ntadatra dvādaśākāradharmacakrapravartakaṃ(naṃ?) katamat? idaṃ duḥkhamāryasatyamiti(me) bhikṣavaḥ pūrvamananuśruteṣu dharmeṣu yoniśo manasikurvataḥ cakṣurudapādi jñānamudapādi vidyodapādi bhūrirudapādītyekaṃ parivartakam / idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti hi (me) bhikṣavaḥ pūrvamananuśruteṣu dharmeṣu yoniśo manasikurvata iti dvitīyam / idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti bhikṣavaḥ ityādi pūrvavaditi tṛtīyam //"
+      "text": "Restored Text.\ntadatra dvādaśākāradharmacakrapravartakaṃ(naṃ?) katamat? idaṃ duḥkhamāryasatyamiti(me) bhikṣavaḥ pūrvamananuśruteṣu dharmeṣu yoniśo manasikurvataḥ cakṣurudapādi jñānamudapādi vidyodapādi bhūrirudapādītyekaṃ parivartakam / idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti hi (me) bhikṣavaḥ pūrvamananuśruteṣu dharmeṣu yoniśo manasikurvata iti dvitīyam / idaṃ duḥkhamāryasatyaṃ tatra khalvabhijñāya parijñātamiti bhikṣavaḥ ityādi pūrvavaditi tṛtīyam //",
+      "segment_number": 118
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[tathedaṃ duḥkhasamudayamāryasatyamiti pratyekam / idaṃ duḥkhasamudayamāryasatyaṃ tatra khalvabhijñāya prahātavyamiti dvitīyam /] idaṃ duḥkhasamudayamāryasatyaṃ tatra khalvabhijñāya prahīṇamiti hītyādi tṛtīyam /"
+      "text": "[tathedaṃ duḥkhasamudayamāryasatyamiti pratyekam / idaṃ duḥkhasamudayamāryasatyaṃ tatra khalvabhijñāya prahātavyamiti dvitīyam /] idaṃ duḥkhasamudayamāryasatyaṃ tatra khalvabhijñāya prahīṇamiti hītyādi tṛtīyam /",
+      "segment_number": 119
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "tathedaṃ duḥkhanirodhamāryasatyamiti hi pratyekam / idaṃ duḥkhanirodhamāryasatyaṃ tatra khalvabhijñāya sākṣātkartavyamiti hītyādi dvitīyam / idaṃ duḥkhanirodhamāryasatyaṃ tatra khalvabhijñāya sākṣātkṛtamiti tṛtīyam //"
+      "text": "tathedaṃ duḥkhanirodhamāryasatyamiti hi pratyekam / idaṃ duḥkhanirodhamāryasatyaṃ tatra khalvabhijñāya sākṣātkartavyamiti hītyādi dvitīyam / idaṃ duḥkhanirodhamāryasatyaṃ tatra khalvabhijñāya sākṣātkṛtamiti tṛtīyam //",
+      "segment_number": 120
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "tatheyaṃ duḥkhamārgagāminī pratipadityāryasatyamiti pratyekam / iyaṃ duḥkhamokṣagāminī pratipadityāryasatyaṃ tatra khalvabhivijñāya bhāvayitavyamiti hi bhikṣava ityādi dvitīyam /"
+      "text": "tatheyaṃ duḥkhamārgagāminī pratipadityāryasatyamiti pratyekam / iyaṃ duḥkhamokṣagāminī pratipadityāryasatyaṃ tatra khalvabhivijñāya bhāvayitavyamiti hi bhikṣava ityādi dvitīyam /",
+      "segment_number": 121
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[idaṃ duḥkhamokṣagāminī pratipadityāryasatyaṃ tatra khalvabhijñāya bhāvitamiti tṛtīyam // ]"
+      "text": "[idaṃ duḥkhamokṣagāminī pratipadityāryasatyaṃ tatra khalvabhijñāya bhāvitamiti tṛtīyam // ]",
+      "segment_number": 122
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "105. tatra dānaṃ trividham / tadyathā - dharmadānam, āmiṣadānam, maitrīdānaṃ ceti //"
+      "text": "105. tatra dānaṃ trividham / tadyathā - dharmadānam, āmiṣadānam, maitrīdānaṃ ceti //",
+      "segment_number": 123
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "106. śīlaṃ trividham / tadyathā - saṃbhāraśīlam, kuśalasaṃgrāhaśīlam, sattvārthakriyāśīlaṃ ceti //"
+      "text": "106. śīlaṃ trividham / tadyathā - saṃbhāraśīlam, kuśalasaṃgrāhaśīlam, sattvārthakriyāśīlaṃ ceti //",
+      "segment_number": 124
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "107. kṣāntistrividhā / tadyathā - dharmanidhyānakṣāntiḥ, duḥkhādhivāsanākṣāntiḥ, paropakāradharmakṣāntiśceti //"
+      "text": "107. kṣāntistrividhā / tadyathā - dharmanidhyānakṣāntiḥ, duḥkhādhivāsanākṣāntiḥ, paropakāradharmakṣāntiśceti //",
+      "segment_number": 125
     },
     {
       "tag": "note",
@@ -786,97 +911,116 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "108. vīryaṃ trividham / tadyathā - saṃnāhavīryam, prayogavīryam, para(ri)niṣṭhāvīryaṃ ceti //"
+      "text": "108. vīryaṃ trividham / tadyathā - saṃnāhavīryam, prayogavīryam, para(ri)niṣṭhāvīryaṃ ceti //",
+      "segment_number": 126
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "109. dhyānaṃ trividham / tadyathā - sadoṣāpakarṣadhyānam, sukhavaihārikadhyānam, aśeṣavaibhūṣitadhyānaṃ ceti //"
+      "text": "109. dhyānaṃ trividham / tadyathā - sadoṣāpakarṣadhyānam, sukhavaihārikadhyānam, aśeṣavaibhūṣitadhyānaṃ ceti //",
+      "segment_number": 127
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "110. prajñā trividhā / tadyathā - śrutamayī, cintāmayī, bhāvanāmayī ceti //"
+      "text": "110. prajñā trividhā / tadyathā - śrutamayī, cintāmayī, bhāvanāmayī ceti //",
+      "segment_number": 128
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "111. upāyastrividhaḥ / tadyathā - sarvasattvāvabodhakaḥ, sattvārthābhāvakaḥ, kṣiprasukhābhisaṃbodhiśceti //"
+      "text": "111. upāyastrividhaḥ / tadyathā - sarvasattvāvabodhakaḥ, sattvārthābhāvakaḥ, kṣiprasukhābhisaṃbodhiśceti //",
+      "segment_number": 129
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "112. praṇidhānaṃ trividham / tadyathā - susthānaprābandhikam, sattvārthaprabandhikam, buddhakṣetrapariśodhakaṃ ceti //"
+      "text": "112. praṇidhānaṃ trividham / tadyathā - susthānaprābandhikam, sattvārthaprabandhikam, buddhakṣetrapariśodhakaṃ ceti //",
+      "segment_number": 130
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "113. balaṃ trividham / tadyathā - karmavyāvartakam, kleśāpakarṣakam, mānapramādādivyāvartakaṃ ceti //"
+      "text": "113. balaṃ trividham / tadyathā - karmavyāvartakam, kleśāpakarṣakam, mānapramādādivyāvartakaṃ ceti //",
+      "segment_number": 131
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "114. jñānaṃ trividham / tadyathā - avikalpakam, vikalpasamabhāvabodhakam, satyārthopāyaparokṣaṃ ceti //"
+      "text": "114. jñānaṃ trividham / tadyathā - avikalpakam, vikalpasamabhāvabodhakam, satyārthopāyaparokṣaṃ ceti //",
+      "segment_number": 132
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "115. tatrāvaraṇe dve / tadyathā - kleśavaraṇam, jñeyāvaraṇaṃ ceti //"
+      "text": "115. tatrāvaraṇe dve / tadyathā - kleśavaraṇam, jñeyāvaraṇaṃ ceti //",
+      "segment_number": 133
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "116. nairātmyaṃ dvividham / tadyathā - dharmanairātmyam, pugdalanairātmyaṃ ceti //"
+      "text": "116. nairātmyaṃ dvividham / tadyathā - dharmanairātmyam, pugdalanairātmyaṃ ceti //",
+      "segment_number": 134
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "117. saṃbhāro dvividhaḥ / tadyathā - puṇyasaṃbhāraḥ, jñānasaṃbhāraśceti //"
+      "text": "117. saṃbhāro dvividhaḥ / tadyathā - puṇyasaṃbhāraḥ, jñānasaṃbhāraśceti //",
+      "segment_number": 135
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "118. tatra ṣaṭ samādhyāvaraṇāni / tadyathā - kausīdyam, mānam, śāṭhyam, auddhatyam, anābhogaḥ, satyābhogaśceti //"
+      "text": "118. tatra ṣaṭ samādhyāvaraṇāni / tadyathā - kausīdyam, mānam, śāṭhyam, auddhatyam, anābhogaḥ, satyābhogaśceti //",
+      "segment_number": 136
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "119. tatra pratipattyāṣṭau prahāṇasaṃskārāḥ / tadyathā - śraddhā, buddhaḥ(ddhiḥ), vyāyāmaḥ, prasrabdhiḥ, smṛtiḥ, saṃprajanyam, cetanā, upekṣā ceti //"
+      "text": "119. tatra pratipattyāṣṭau prahāṇasaṃskārāḥ / tadyathā - śraddhā, buddhaḥ(ddhiḥ), vyāyāmaḥ, prasrabdhiḥ, smṛtiḥ, saṃprajanyam, cetanā, upekṣā ceti //",
+      "segment_number": 137
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "120. tatra catvāro dvīpāḥ / tadyathā - pūrvavidehaḥ, jambudvīpaḥ, aparagodāniḥ(nīyaḥ), uttarakurudvīpaśceti //"
+      "text": "120. tatra catvāro dvīpāḥ / tadyathā - pūrvavidehaḥ, jambudvīpaḥ, aparagodāniḥ(nīyaḥ), uttarakurudvīpaśceti //",
+      "segment_number": 138
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "121. aṣṭāvuṣṇanarakāḥ / tadyathā - saṃjīvaḥ, kālasūtraḥ, saṃghātaḥ, rauravaḥ, mahārauravaḥ, tapanaḥ, pratāpanaḥ, avīciśceti //"
+      "text": "121. aṣṭāvuṣṇanarakāḥ / tadyathā - saṃjīvaḥ, kālasūtraḥ, saṃghātaḥ, rauravaḥ, mahārauravaḥ, tapanaḥ, pratāpanaḥ, avīciśceti //",
+      "segment_number": 139
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "122. aṣṭau śītanarakāḥ / tadyathā - arbudaḥ, nirarbudaḥ, aṭaṭaḥ, apapaḥ, hāhādharaḥ, utpalaḥ, padmaḥ, mahāpadmaśceti //"
+      "text": "122. aṣṭau śītanarakāḥ / tadyathā - arbudaḥ, nirarbudaḥ, aṭaṭaḥ, apapaḥ, hāhādharaḥ, utpalaḥ, padmaḥ, mahāpadmaśceti //",
+      "segment_number": 140
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "123. sapta pātālāni / tadyathā - dharaṇītalaḥ, acalaḥ, mahācalaḥ, āpaḥ, kāñcanaḥ, saṃjīvaḥ, narakaśceti /"
+      "text": "123. sapta pātālāni / tadyathā - dharaṇītalaḥ, acalaḥ, mahācalaḥ, āpaḥ, kāñcanaḥ, saṃjīvaḥ, narakaśceti /",
+      "segment_number": 141
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "124. dvau cakravālau / tadyathā - cakravālamahācakravālau ceti //"
+      "text": "124. dvau cakravālau / tadyathā - cakravālamahācakravālau ceti //",
+      "segment_number": 142
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "125. aṣṭāṅgaparvatāḥ / tadyathā - yugaṃdharaḥ, īśādharaḥ, khadirakaḥ, sudarśanaḥ, vinatakaḥ, aśvakarṇaḥ, nemiṃdharagiriḥ, sumeruśceti //"
+      "text": "125. aṣṭāṅgaparvatāḥ / tadyathā - yugaṃdharaḥ, īśādharaḥ, khadirakaḥ, sudarśanaḥ, vinatakaḥ, aśvakarṇaḥ, nemiṃdharagiriḥ, sumeruśceti //",
+      "segment_number": 143
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "126. sapta sāgarāḥ / tadyathā - kṣāraḥ, kṣīraḥ, dadhi, udadhiḥ, ghṛtam, madhuḥ, surā ceti //"
+      "text": "126. sapta sāgarāḥ / tadyathā - kṣāraḥ, kṣīraḥ, dadhi, udadhiḥ, ghṛtam, madhuḥ, surā ceti //",
+      "segment_number": 144
     },
     {
       "tag": "note",
@@ -894,77 +1038,92 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "127. tatra ṣaṭ kāmāvacarā devāḥ / tadyathā - cāturmahārājakāyikāḥ, trāyastriṃśāḥ, tuṣitāḥ, yāmāḥ, nirmāṇaratayaḥ, paranirmitavaśavartinaśceti //"
+      "text": "127. tatra ṣaṭ kāmāvacarā devāḥ / tadyathā - cāturmahārājakāyikāḥ, trāyastriṃśāḥ, tuṣitāḥ, yāmāḥ, nirmāṇaratayaḥ, paranirmitavaśavartinaśceti //",
+      "segment_number": 145
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "128. aṣṭādaśa rūpāvacarā devāḥ / tadyathā - brahmakāyikāḥ, brahmapurohitāḥ, brahmapārṣadyāḥ, mahābrahmāṇaḥ, parīttābhāḥ, apramāṇābhāḥ, ābhāsvarāḥ, parīttaśubhāḥ, śubhakṛtsnāḥ, anabhrakāḥ, puṇyaprasavāḥ, bṛhatphalāḥ, asaṃjñisattvāḥ, avṛhāḥ, atapāḥ, sudṛśāḥ, sudarśanāḥ, akaniṣṭhāśceti //"
+      "text": "128. aṣṭādaśa rūpāvacarā devāḥ / tadyathā - brahmakāyikāḥ, brahmapurohitāḥ, brahmapārṣadyāḥ, mahābrahmāṇaḥ, parīttābhāḥ, apramāṇābhāḥ, ābhāsvarāḥ, parīttaśubhāḥ, śubhakṛtsnāḥ, anabhrakāḥ, puṇyaprasavāḥ, bṛhatphalāḥ, asaṃjñisattvāḥ, avṛhāḥ, atapāḥ, sudṛśāḥ, sudarśanāḥ, akaniṣṭhāśceti //",
+      "segment_number": 146
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "129. catvāro 'rūpāvacarā devāḥ / ākāśānantyāyatanopagāḥ, vijñānānantyāyatanopagāḥ, ākiṃcanyāyatanopagāḥ, naivasaṃjñānāsaṃjñāyatanopagāśceti //"
+      "text": "129. catvāro 'rūpāvacarā devāḥ / ākāśānantyāyatanopagāḥ, vijñānānantyāyatanopagāḥ, ākiṃcanyāyatanopagāḥ, naivasaṃjñānāsaṃjñāyatanopagāśceti //",
+      "segment_number": 147
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "130. trividhā ālaṅghanāḥ / tadyathā - satyālaṅghanā, dharmālaṅghanā, anālaṅghanā ceti //"
+      "text": "130. trividhā ālaṅghanāḥ / tadyathā - satyālaṅghanā, dharmālaṅghanā, anālaṅghanā ceti //",
+      "segment_number": 148
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "131. trividhā mahāmaitrī / tadyathā - satyālaṅgha(mba)nā, dharmalaṅgha(rmālamba)nā, anālaṅgha(mba)nā ceti //"
+      "text": "131. trividhā mahāmaitrī / tadyathā - satyālaṅgha(mba)nā, dharmalaṅgha(rmālamba)nā, anālaṅgha(mba)nā ceti //",
+      "segment_number": 149
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "132. trividhaṃ karma / tadyathā - dṛṣṭadharmavedanīyam, utpadyavedanīyam, aparavedanīyaṃ ceti //"
+      "text": "132. trividhaṃ karma / tadyathā - dṛṣṭadharmavedanīyam, utpadyavedanīyam, aparavedanīyaṃ ceti //",
+      "segment_number": 150
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "133. trividhaṃ prātihāryam / tadyathā - ṛddhiprātihāryam, ādeśanāprātihāryam, anuśāsanīprātihāryaṃ ceti //"
+      "text": "133. trividhaṃ prātihāryam / tadyathā - ṛddhiprātihāryam, ādeśanāprātihāryam, anuśāsanīprātihāryaṃ ceti //",
+      "segment_number": 151
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "134. aṣṭāvakṣaṇāḥ / tadyathā - narakopapattiḥ, tiryagupapattiḥ, yamalokopapattiḥ, pratyantajanapadopapattiḥ, dīrghāyuṣadevopapattiḥ, indriyavikalatā, mithyādṛṣṭiḥ, cittotpādavirāgitatā ceti //"
+      "text": "134. aṣṭāvakṣaṇāḥ / tadyathā - narakopapattiḥ, tiryagupapattiḥ, yamalokopapattiḥ, pratyantajanapadopapattiḥ, dīrghāyuṣadevopapattiḥ, indriyavikalatā, mithyādṛṣṭiḥ, cittotpādavirāgitatā ceti //",
+      "segment_number": 152
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "135. trividhā vikalpāḥ / tadyathā - anusmaraṇavikalpaḥ, saṃtirana(tīraṇa)vikalpaḥ, sahajavikalpaśceti //"
+      "text": "135. trividhā vikalpāḥ / tadyathā - anusmaraṇavikalpaḥ, saṃtirana(tīraṇa)vikalpaḥ, sahajavikalpaśceti //",
+      "segment_number": 153
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "136. catvāraḥ samādhayaḥ / tadyathā - śūraṃgamaḥ, gaganagañjaḥ vimalaprabhaḥ, siṃhavikrīḍitaśceti /"
+      "text": "136. catvāraḥ samādhayaḥ / tadyathā - śūraṃgamaḥ, gaganagañjaḥ vimalaprabhaḥ, siṃhavikrīḍitaśceti /",
+      "segment_number": 154
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "137. caturdaśāvyākṛtavastūni / tadyathā - śāśvato lokaḥ, aśāśvato lokaḥ, śāśvataścāśāśvataśca, naiva śāśvato nāśāśvataśca / antavāṃllokaḥ, anantavāṃllokaḥ, antavāṃścānantavāṃllokaśca, naivāntavānnānantavāṃśca / bhavati tathāgataḥ paraṃ maraṇāt, na bhavati tathāgataḥ paraṃ maraṇāt, bhavati na ca bhavati ca tathāgataḥ paraṃ maraṇāt, naiva bhavati na bhavati tathāgataḥ paraṃ maraṇāt / sa jīvastaccharīram, anyo jīvo 'nyaccharīraṃ ceti //"
+      "text": "137. caturdaśāvyākṛtavastūni / tadyathā - śāśvato lokaḥ, aśāśvato lokaḥ, śāśvataścāśāśvataśca, naiva śāśvato nāśāśvataśca / antavāṃllokaḥ, anantavāṃllokaḥ, antavāṃścānantavāṃllokaśca, naivāntavānnānantavāṃśca / bhavati tathāgataḥ paraṃ maraṇāt, na bhavati tathāgataḥ paraṃ maraṇāt, bhavati na ca bhavati ca tathāgataḥ paraṃ maraṇāt, naiva bhavati na bhavati tathāgataḥ paraṃ maraṇāt / sa jīvastaccharīram, anyo jīvo 'nyaccharīraṃ ceti //",
+      "segment_number": 155
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "138. trīṇi kuśalamūlāni / tadyathā - adveṣaḥ, alobhaḥ, amohaśceti //"
+      "text": "138. trīṇi kuśalamūlāni / tadyathā - adveṣaḥ, alobhaḥ, amohaśceti //",
+      "segment_number": 156
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "139. etadviparyayāntrīṇyakuśalamūlāni / tadyathā - lobhaḥ, mohaḥ, dveṣaśceti //"
+      "text": "139. etadviparyayāntrīṇyakuśalamūlāni / tadyathā - lobhaḥ, mohaḥ, dveṣaśceti //",
+      "segment_number": 157
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "140. tisraḥ śikṣāḥ / tadyathā - adhicittaśikṣā, adhiśīlaśikṣā, adhiprajñāśikṣā ceti //"
+      "text": "140. tisraḥ śikṣāḥ / tadyathā - adhicittaśikṣā, adhiśīlaśikṣā, adhiprajñāśikṣā ceti //",
+      "segment_number": 158
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "iti nāgārjunapādaviracito 'yaṃ dharmasaṃgrahaḥ samāptaḥ //"
+      "text": "iti nāgārjunapādaviracito 'yaṃ dharmasaṃgrahaḥ samāptaḥ //",
+      "segment_number": 159
     }
   ]
 }

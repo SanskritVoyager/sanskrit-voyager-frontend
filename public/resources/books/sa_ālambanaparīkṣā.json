@@ -37,17 +37,20 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Ālambanaparīkṣā (Āp)"
+      "text": "Ālambanaparīkṣā (Āp)",
+      "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ācāryadiṅnāgakṛtā"
+      "text": "ācāryadiṅnāgakṛtā",
+      "segment_number": 2
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "namaḥ sarvabuddhabodhisattvebhyaḥ"
+      "text": "namaḥ sarvabuddhabodhisattvebhyaḥ",
+      "segment_number": 3
     },
     {
       "tag": "p",
@@ -57,7 +60,27 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "atadābhatayā tasyā nākṣavadviṣayaḥ sa tu(aṇavaḥ) // Āp_1 //"
+          "text": "atadābhatayā tasyā nākṣavadviṣayaḥ sa tu(aṇavaḥ) // Āp_1 //",
+          "segment_number": 5
+        }
+      ],
+      "segment_number": 4
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadābhāsā na tasmāt sā dravyābhāvāt dvicandravat /",
+          "segment_number": 6
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "evaṃ bāhyadvayañcaiva na yuktaṃ matigocaraḥ // Āp_2 //",
+          "segment_number": 7
         }
       ]
     },
@@ -68,12 +91,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadābhāsā na tasmāt sā dravyābhāvāt dvicandravat /"
+          "text": "sādhanaṃ sañcitākāramicchanti kila kecana /",
+          "segment_number": 8
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "evaṃ bāhyadvayañcaiva na yuktaṃ matigocaraḥ // Āp_2 //"
+          "text": "aṇvākāro na vijñapterarthaḥ kaṭhinatādivat // Āp_3 //",
+          "segment_number": 9
         }
       ]
     },
@@ -84,12 +109,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sādhanaṃ sañcitākāramicchanti kila kecana /"
+          "text": "bhaveddhaṭaśarāvādestathā sati samā matiḥ /",
+          "segment_number": 10
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aṇvākāro na vijñapterarthaḥ kaṭhinatādivat // Āp_3 //"
+          "text": "ākārabhedādbhedaścet, nāsti tu dravyasatyaṇau // Āp_4 //",
+          "segment_number": 11
         }
       ]
     },
@@ -100,12 +127,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhaveddhaṭaśarāvādestathā sati samā matiḥ /"
+          "text": "pramāṇabhedābhāvāt saḥ, adravye 'sti tataḥ sa hi /",
+          "segment_number": 12
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākārabhedādbhedaścet, nāsti tu dravyasatyaṇau // Āp_4 //"
+          "text": "aṇūnāṃ parihāre hi tadābhajñānaviplavāt // Āp_5 //",
+          "segment_number": 13
         }
       ]
     },
@@ -116,12 +145,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pramāṇabhedābhāvāt saḥ, adravye 'sti tataḥ sa hi /"
+          "text": "yadantarjñeyarūpaṃ tu vahirvadavabhāsate /",
+          "segment_number": 14
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aṇūnāṃ parihāre hi tadābhajñānaviplavāt // Āp_5 //"
+          "text": "so 'rtho vijñānarūpatvāttatpratyayatayāpi ca // Āp_6 //",
+          "segment_number": 15
         }
       ]
     },
@@ -132,12 +163,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadantarjñeyarūpaṃ tu vahirvadavabhāsate /"
+          "text": "ekāṃśaḥ pratyayo 'vītāt śaktyarpaṇātkrameṇa[vā] /",
+          "segment_number": 16
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "so 'rtho vijñānarūpatvāttatpratyayatayāpi ca // Āp_6 //"
+          "text": "sahakārivaśādyaddhi śaktirūpaṃ [tat] indriyam // Āp_7 //",
+          "segment_number": 17
         }
       ]
     },
@@ -148,35 +181,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ekāṃśaḥ pratyayo 'vītāt śaktyarpaṇātkrameṇa[vā] /"
+          "text": "sā cāviruddhā vijñapterevaṃ viṣayarūpakam /",
+          "segment_number": 18
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sahakārivaśādyaddhi śaktirūpaṃ [tat] indriyam // Āp_7 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sā cāviruddhā vijñapterevaṃ viṣayarūpakam /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "pravartate 'nādikālaṃ śaktiścānyonyahetuke // Āp_8 //"
+          "text": "pravartate 'nādikālaṃ śaktiścānyonyahetuke // Āp_8 //",
+          "segment_number": 19
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ityācāryadiṅnāgakṛtā ālambanaparīkṣāprakaraṇakārikā samāptā"
+      "text": "ityācāryadiṅnāgakṛtā ālambanaparīkṣāprakaraṇakārikā samāptā",
+      "segment_number": 20
     }
   ]
 }

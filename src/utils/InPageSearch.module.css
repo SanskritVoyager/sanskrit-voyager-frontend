@@ -1,0 +1,50 @@
+.searchContainer {
+  position: fixed;
+  top: 70px; /* Just below the header */
+  right: 20px;
+  z-index: 1000;
+  max-width: 400px;
+  background-color: light-dark(var(--mantine-color-white), var(--mantine-color-dark-6));
+  border: 1px solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+}
+
+@media (max-width: 768px) {
+  .searchContainer {
+    top: 10px;
+    right: 10px;
+    left: 10px;
+    max-width: none;
+  }
+}
+
+.searchInput {
+  flex: 1;
+  min-width: 200px;
+}
+
+.matchCounter {
+  white-space: nowrap;
+  min-width: 60px;
+  text-align: center;
+}
+
+/* Highlight styles that will be applied by the hook */
+:global(.search-highlight) {
+  background-color: rgba(255, 235, 59, 0.5) !important;
+  color: inherit !important;
+  border-radius: 2px;
+  padding: 0 2px;
+  transition: background-color 0.2s ease;
+}
+
+:global(.search-highlight-current) {
+  background-color: rgba(255, 152, 0, 0.6) !important;
+}
+
+/* Additional marker styling for search matches */
+.searchMatchMarker {
+  background-color: var(--mantine-color-yellow-5) !important;
+  opacity: 0.7;
+  height: 16px;
+  width: 10px;
+}

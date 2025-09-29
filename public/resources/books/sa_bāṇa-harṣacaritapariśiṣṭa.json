@@ -37,12 +37,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "pariśiṣṭam"
+      "text": "pariśiṣṭam",
+      "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "bāṇa-praśastayaḥ"
+      "text": "bāṇa-praśastayaḥ",
+      "segment_number": 2
     },
     {
       "tag": "lg",
@@ -51,60 +53,34 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śleṣe kecana śabdagumphaviṣaye kecid rase cāpare"
+          "text": "śleṣe kecana śabdagumphaviṣaye kecid rase cāpare",
+          "segment_number": 3
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "'laṅkāre katicitsadarthaviṣaye cānye kathāvarṇane /"
+          "text": "'laṅkāre katicitsadarthaviṣaye cānye kathāvarṇane /",
+          "segment_number": 4
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "āḥ sarvatra gabhīradhīrakavitāvindyāṭavīcāturī-"
+          "text": "āḥ sarvatra gabhīradhīrakavitāvindyāṭavīcāturī-",
+          "segment_number": 5
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sañcārī kavikumbhikumbhabhiduro bāṇastu pañcānanaḥ // 1 //"
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "(śrīcandradevasya)"
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "hemno bhāraśatāni vā madamucāṃ vṛndāni vā dantināṃ"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "śrīharṣeṇa samarpitāni kavaye bāṇāya kutrādya tat /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "yā bāṇena tu tasya sūktinikarairuṭṭaṅkitāḥ kīrtayas"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tāḥ kalpapralaye 'pi yānti na manāṅ manye parimlānatām // 2 //"
+          "text": "sañcārī kavikumbhikumbhabhiduro bāṇastu pañcānanaḥ // 1 //",
+          "segment_number": 6
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(ruyyakakṛtavyaktivivekavyākhyāne)"
+      "text": "(śrīcandradevasya)",
+      "segment_number": 7
     },
     {
       "tag": "lg",
@@ -113,19 +89,34 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "artheśvaraṃ hanta bhaje 'bhinandaṃ vāgīśvaraṃ vākpatirājamīḍe /"
+          "text": "hemno bhāraśatāni vā madamucāṃ vṛndāni vā dantināṃ",
+          "segment_number": 8
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "raseśvaraṃ naumi ca kālidāsaṃ bāṇaṃ tu sarvaśvaramānato 'smi // 3 //"
+          "text": "śrīharṣeṇa samarpitāni kavaye bāṇāya kutrādya tat /",
+          "segment_number": 9
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yā bāṇena tu tasya sūktinikarairuṭṭaṅkitāḥ kīrtayas",
+          "segment_number": 10
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tāḥ kalpapralaye 'pi yānti na manāṅ manye parimlānatām // 2 //",
+          "segment_number": 11
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(udayasundaryāṃ soḍhvalasya)"
+      "text": "(ruyyakakṛtavyaktivivekavyākhyāne)",
+      "segment_number": 12
     },
     {
       "tag": "lg",
@@ -134,19 +125,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pariśīlitaiva sarasaṃ kavirājairbahubhiratra vāgdevī /"
+          "text": "artheśvaraṃ hanta bhaje 'bhinandaṃ vāgīśvaraṃ vākpatirājamīḍe /",
+          "segment_number": 13
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bāṇena tu vaijātyāt kathayati nāmaiva vāṇīti // 4 //"
+          "text": "raseśvaraṃ naumi ca kālidāsaṃ bāṇaṃ tu sarvaśvaramānato 'smi // 3 //",
+          "segment_number": 14
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(viśveśvarasya)"
+      "text": "(udayasundaryāṃ soḍhvalasya)",
+      "segment_number": 15
     },
     {
       "tag": "lg",
@@ -155,35 +149,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kādambarīsahodaryā sudhaye vai budhe hṛdi /"
+          "text": "pariśīlitaiva sarasaṃ kavirājairbahubhiratra vāgdevī /",
+          "segment_number": 16
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "harṣākhyāyikayā khyātiṃ bāṇo 'bdhiriva labdavān // 5 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "śaśvadbāṇadvitīyena namadākāradhāriṇā /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "dhanuṣeva guṇāḍhyena niḥśeṣo rañjito janaḥ // 6 //"
+          "text": "bāṇena tu vaijātyāt kathayati nāmaiva vāṇīti // 4 //",
+          "segment_number": 17
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(trivikramasya)"
+      "text": "(viśveśvarasya)",
+      "segment_number": 18
     },
     {
       "tag": "lg",
@@ -192,19 +173,40 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jātā śikhaṇḍinī prāgyathā śikhaṇḍī tathāvagacchāmi /"
+          "text": "kādambarīsahodaryā sudhaye vai budhe hṛdi /",
+          "segment_number": 19
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "prāgalbhyamadhikamāptuṃ vāṇī bāṇo babhūveti // 7 //"
+          "text": "harṣākhyāyikayā khyātiṃ bāṇo 'bdhiriva labdavān // 5 //",
+          "segment_number": 20
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śaśvadbāṇadvitīyena namadākāradhāriṇā /",
+          "segment_number": 21
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhanuṣeva guṇāḍhyena niḥśeṣo rañjito janaḥ // 6 //",
+          "segment_number": 22
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(govardhanasya)"
+      "text": "(trivikramasya)",
+      "segment_number": 23
     },
     {
       "tag": "lg",
@@ -213,51 +215,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "hṛdi lagnena bāṇena yanmando 'pi padakramaḥ /"
+          "text": "jātā śikhaṇḍinī prāgyathā śikhaṇḍī tathāvagacchāmi /",
+          "segment_number": 24
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhavet kavikuraṅgāṇāṃ cāpalaṃ tatra kāraṇam // 8 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "subandhurbāṇabhaṭṭaśca kavirāja iti trayaḥ /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "vakroktimārganipuṇāścaturtho vidyate na vā // 9 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sacitravarṇavicchittihāriṇoravanīpatiḥ /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "śrīharṣa iva saṃghaṭṭaṃ cakre bāṇamayūrayoḥ // 10 //"
+          "text": "prāgalbhyamadhikamāptuṃ vāṇī bāṇo babhūveti // 7 //",
+          "segment_number": 25
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(navasāhasāṅke)"
+      "text": "(govardhanasya)",
+      "segment_number": 26
     },
     {
       "tag": "lg",
@@ -266,19 +239,58 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratikavibhedanabāṇaḥ kavitātarugahanaviharaṇamayūraḥ /"
+          "text": "hṛdi lagnena bāṇena yanmando 'pi padakramaḥ /",
+          "segment_number": 27
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sahṛdayalokasubandhurjayati śrībhaṭṭabāṇakavirājaḥ // 11 //"
+          "text": "bhavet kavikuraṅgāṇāṃ cāpalaṃ tatra kāraṇam // 8 //",
+          "segment_number": 28
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "subandhurbāṇabhaṭṭaśca kavirāja iti trayaḥ /",
+          "segment_number": 29
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vakroktimārganipuṇāścaturtho vidyate na vā // 9 //",
+          "segment_number": 30
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sacitravarṇavicchittihāriṇoravanīpatiḥ /",
+          "segment_number": 31
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "śrīharṣa iva saṃghaṭṭaṃ cakre bāṇamayūrayoḥ // 10 //",
+          "segment_number": 32
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(vīranārāyaṇacarite)"
+      "text": "(navasāhasāṅke)",
+      "segment_number": 33
     },
     {
       "tag": "lg",
@@ -287,67 +299,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yuktaṃ kādambarīṃ śrutvā kavayo maunamāśritāḥ /"
+          "text": "pratikavibhedanabāṇaḥ kavitātarugahanaviharaṇamayūraḥ /",
+          "segment_number": 34
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bāṇadhvanāvanadhyāyo bhavatīti smṛtiryataḥ // 12 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "rucirasvaravarṇapadā rasabhāvavatī jaganmano harati /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tatkiṃ taruṇī nahi nahi, vāṇī bāṇasya madhuraśīlasya // 13 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "saharṣacaritā śaśvatkṛtakādambarīkathā /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "bāṇasya vāṇyanārteva svacchandaṃ bhramati kṣitau // 14 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "bāṇaṃ satkavigīrvāṇamanubadhnāti kaḥ kaviḥ /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sindhumandhuḥ kimanveti dyumaṇiḥ katamo maṇiḥ // 15 //"
+          "text": "sahṛdayalokasubandhurjayati śrībhaṭṭabāṇakavirājaḥ // 11 //",
+          "segment_number": 35
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(raghunāthacarite)"
+      "text": "(vīranārāyaṇacarite)",
+      "segment_number": 36
     },
     {
       "tag": "lg",
@@ -356,12 +323,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śabdārthayoḥ samo gumphaḥ pāñcālī rītiriṣyate /"
+          "text": "yuktaṃ kādambarīṃ śrutvā kavayo maunamāśritāḥ /",
+          "segment_number": 37
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śilābhaṭṭārikāvāci bāṇoktiṣu ca sā yadi // 16 //"
+          "text": "bāṇadhvanāvanadhyāyo bhavatīti smṛtiryataḥ // 12 //",
+          "segment_number": 38
         }
       ]
     },
@@ -372,19 +341,58 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kevalo 'pi sphuran bāṇaḥ karoti vimadān kavīn /"
+          "text": "rucirasvaravarṇapadā rasabhāvavatī jaganmano harati /",
+          "segment_number": 39
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ki punaḥ kḷptasandhānapulindakṛtasannidhiḥ // 17 //"
+          "text": "tatkiṃ taruṇī nahi nahi, vāṇī bāṇasya madhuraśīlasya // 13 //",
+          "segment_number": 40
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "saharṣacaritā śaśvatkṛtakādambarīkathā /",
+          "segment_number": 41
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāṇasya vāṇyanārteva svacchandaṃ bhramati kṣitau // 14 //",
+          "segment_number": 42
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bāṇaṃ satkavigīrvāṇamanubadhnāti kaḥ kaviḥ /",
+          "segment_number": 43
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sindhumandhuḥ kimanveti dyumaṇiḥ katamo maṇiḥ // 15 //",
+          "segment_number": 44
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "(dhanapālasya)"
+      "text": "(raghunāthacarite)",
+      "segment_number": 45
     },
     {
       "tag": "lg",
@@ -393,12 +401,56 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "daṇḍītyupasthite sadyaḥ kavīnāṃ kampatāṃ manaḥ /"
+          "text": "śabdārthayoḥ samo gumphaḥ pāñcālī rītiriṣyate /",
+          "segment_number": 46
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "praviṣṭhe tvantaraṃ bāṇe kaṇṭhe vāgeva rudhyate // 18 //"
+          "text": "śilābhaṭṭārikāvāci bāṇoktiṣu ca sā yadi // 16 //",
+          "segment_number": 47
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kevalo 'pi sphuran bāṇaḥ karoti vimadān kavīn /",
+          "segment_number": 48
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ki punaḥ kḷptasandhānapulindakṛtasannidhiḥ // 17 //",
+          "segment_number": 49
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "(dhanapālasya)",
+      "segment_number": 50
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "daṇḍītyupasthite sadyaḥ kavīnāṃ kampatāṃ manaḥ /",
+          "segment_number": 51
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "praviṣṭhe tvantaraṃ bāṇe kaṇṭhe vāgeva rudhyate // 18 //",
+          "segment_number": 52
         }
       ]
     }

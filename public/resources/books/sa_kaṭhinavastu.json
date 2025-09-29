@@ -50,7 +50,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* //"
+      "text": "uddānam* //",
+      "segment_number": 1
     },
     {
       "tag": "p",
@@ -62,13 +63,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "276r1 = GBM 6.864"
+          "text": "276r1 = GBM 6.864",
+          "segment_number": 3
         },
         {
           "tag": "text",
-          "text": ") ca kālena pudgalo mātṛkāpadāny akṛtena viṃśatiḥ karaṇīyena dvādaśikā"
+          "text": ") ca kālena pudgalo mātṛkāpadāny akṛtena viṃśatiḥ karaṇīyena dvādaśikā",
+          "segment_number": 4
         }
-      ]
+      ],
+      "segment_number": 2
     },
     {
       "tag": "note",
@@ -86,7 +90,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "sāketena varṣopagatā śāstur darśanakāmyayā \nkardame uṣṇena klāntānāṃ cīvaraṃ tatra sammatam* // //"
+      "text": "sāketena varṣopagatā śāstur darśanakāmyayā \nkardame uṣṇena klāntānāṃ cīvaraṃ tatra sammatam* // //",
+      "segment_number": 5
     },
     {
       "tag": "p",
@@ -98,13 +103,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 7
         },
         {
           "tag": "text",
-          "text": "śrāvastīm anuprāptāḥ atha saṃbahulā bhikṣavaḥ pātracīvaraṃ pratiśamayya pādau prakṣālya yena bhagavāṃs tenopasaṃkrāntā upasaṃkramya bhagavataḥ pādau śirasā vanditvā ekānte niṣaṇṇāḥ"
+          "text": "śrāvastīm anuprāptāḥ atha saṃbahulā bhikṣavaḥ pātracīvaraṃ pratiśamayya pādau prakṣālya yena bhagavāṃs tenopasaṃkrāntā upasaṃkramya bhagavataḥ pādau śirasā vanditvā ekānte niṣaṇṇāḥ",
+          "segment_number": 8
         }
-      ]
+      ],
+      "segment_number": 6
     },
     {
       "tag": "note",
@@ -129,57 +137,68 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "n"
+          "text": "n",
+          "segment_number": 10
         },
         {
           "tag": "text",
-          "text": "te / kuto yūyaṃ bhikṣava etarhy āgacchata : kutra vā stha varṣā uṣitā iti pratisaṃmodate bhagavān āgantukān bhikṣūn anayā pratisaṃmodanayā sukhaṃ sparśaṃ varṣā nayā kuto yūyaṃ bhikṣava etarhy āgacchatha kutra vā stha varṣā uṣitāḥ te kathayaṃti sāketād vayaṃ bhadant'; etarhy āgacchāma sākete vā sma varṣā uṣitāḥ kaccid yūyaṃ bhikṣavaḥ sākete sukhaṃ sparśaṃ varṣā uṣitā na vā stha klāntāḥ piṇḍakena tathyaṃ vayaṃ bhadanta ("
+          "text": "te / kuto yūyaṃ bhikṣava etarhy āgacchata : kutra vā stha varṣā uṣitā iti pratisaṃmodate bhagavān āgantukān bhikṣūn anayā pratisaṃmodanayā sukhaṃ sparśaṃ varṣā nayā kuto yūyaṃ bhikṣava etarhy āgacchatha kutra vā stha varṣā uṣitāḥ te kathayaṃti sāketād vayaṃ bhadant'; etarhy āgacchāma sākete vā sma varṣā uṣitāḥ kaccid yūyaṃ bhikṣavaḥ sākete sukhaṃ sparśaṃ varṣā uṣitā na vā stha klāntāḥ piṇḍakena tathyaṃ vayaṃ bhadanta (",
+          "segment_number": 11
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 189"
+          "text": "Matsumura 189",
+          "segment_number": 12
         },
         {
           "tag": "text",
-          "text": ") sāketa sukhaṃ sparśaṃ varṣā uṣitā na vā sma"
+          "text": ") sāketa sukhaṃ sparśaṃ varṣā uṣitā na vā sma",
+          "segment_number": 13
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": "klāntā"
+          "text": "klāntā",
+          "segment_number": 15
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 16
         },
         {
           "tag": "text",
-          "text": "piṇḍakenāpi tu vayaṃ samādāya pātracīvaraṃ bahutṛṇe bahukardame uṣṇena klāmyanta"
+          "text": "piṇḍakenāpi tu vayaṃ samādāya pātracīvaraṃ bahutṛṇe bahukardame uṣṇena klāmyanta",
+          "segment_number": 17
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 18
         },
         {
           "tag": "text",
-          "text": "svedaparyākulīkṛtaśarīrā janapadacārikāṃ carantaḥ kṛcchreṇehānuprāptāḥ"
+          "text": "svedaparyākulīkṛtaśarīrā janapadacārikāṃ carantaḥ kṛcchreṇehānuprāptāḥ",
+          "segment_number": 19
         }
-      ]
+      ],
+      "segment_number": 9
     },
     {
       "tag": "p",
@@ -191,123 +210,146 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 21
         },
         {
           "tag": "text",
-          "text": "kaṭhināstare na daśāhaparamaṃ na māsaparamaṃ na rātri"
+          "text": "kaṭhināstare na daśāhaparamaṃ na māsaparamaṃ na rātri",
+          "segment_number": 22
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vi"
+          "text": "vi",
+          "segment_number": 23
         },
         {
           "tag": "text",
-          "text": "pravāsāḥ sāntarottareṇa cīvareṇa janapadacārikāṃ ("
+          "text": "pravāsāḥ sāntarottareṇa cīvareṇa janapadacārikāṃ (",
+          "segment_number": 24
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 190"
+          "text": "Matsumura 190",
+          "segment_number": 25
         },
         {
           "tag": "text",
-          "text": ") prakramaṇaṃ yāvadap"
+          "text": ") prakramaṇaṃ yāvadap",
+          "segment_number": 26
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "t"
+          "text": "t",
+          "segment_number": 27
         },
         {
           "tag": "text",
-          "text": "a"
+          "text": "a",
+          "segment_number": 28
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 29
         },
         {
           "tag": "text",
-          "text": "vikalpi"
+          "text": "vikalpi",
+          "segment_number": 30
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ta"
+          "text": "ta",
+          "segment_number": 31
         },
         {
           "tag": "text",
-          "text": "cīvaradhāraṇam iti / apare 'pi paṃcānuśaṃsā"
+          "text": "cīvaradhāraṇam iti / apare 'pi paṃcānuśaṃsā",
+          "segment_number": 32
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 33
         },
         {
           "tag": "text",
-          "text": "/ na gaṇabhojanaṃ na ("
+          "text": "/ na gaṇabhojanaṃ na (",
+          "segment_number": 34
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 191"
+          "text": "Matsumura 191",
+          "segment_number": 35
         },
         {
           "tag": "text",
-          "text": ") paraṃparabhojanaṃ na kuleṣv ānimantritacārikā yāvadāptaṃ cīvaraparyeṣaṇaṃ ("
+          "text": ") paraṃparabhojanaṃ na kuleṣv ānimantritacārikā yāvadāptaṃ cīvaraparyeṣaṇaṃ (",
+          "segment_number": 36
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 192"
+          "text": "Matsumura 192",
+          "segment_number": 37
         },
         {
           "tag": "text",
-          "text": ") kārtikān māsād yāvat phālguno māso atrāntarāt sāstṛtakaṭhi"
+          "text": ") kārtikān māsād yāvat phālguno māso atrāntarāt sāstṛtakaṭhi",
+          "segment_number": 38
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nā"
+          "text": "nā",
+          "segment_number": 39
         },
         {
           "tag": "text",
-          "text": "nāṃ lābha iti viditvā bhikṣūn āmantrayate sma / tasmāt tarhi bhikṣavo 'nujānāmi bhikṣūṇāṃ sparśavihārārthaṃ dātrīṇāṃ ca deyadharmaparibhogārthaṃ varṣoṣitair bhikṣubhiḥ kaṭhinam āstartavyaṃ yasmāt paṃcānuśaṃsā"
+          "text": "nāṃ lābha iti viditvā bhikṣūn āmantrayate sma / tasmāt tarhi bhikṣavo 'nujānāmi bhikṣūṇāṃ sparśavihārārthaṃ dātrīṇāṃ ca deyadharmaparibhogārthaṃ varṣoṣitair bhikṣubhiḥ kaṭhinam āstartavyaṃ yasmāt paṃcānuśaṃsā",
+          "segment_number": 40
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 41
         },
         {
           "tag": "text",
-          "text": "kaṭhine na daśāhaparamaṃ pūrvavad yāvad āstṛtakaṭhinānāṃ lābha iti"
+          "text": "kaṭhine na daśāhaparamaṃ pūrvavad yāvad āstṛtakaṭhinānāṃ lābha iti",
+          "segment_number": 42
         }
-      ]
+      ],
+      "segment_number": 20
     },
     {
       "tag": "p",
@@ -319,42 +361,50 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 193"
+          "text": "Matsumura 193",
+          "segment_number": 44
         },
         {
           "tag": "text",
-          "text": ") āstartavyam iti / bhagavān āha / yad varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpadyate tasmād āstartavyaṃ evaṃ ca punar āstartavyaṃ pūrvavat* sāmagryam ārocayitavyaṃ idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ yadi saṃghasyābhirucitam anena cīvareṇa saṃghasya kaṭhinam ("
+          "text": ") āstartavyam iti / bhagavān āha / yad varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpadyate tasmād āstartavyaṃ evaṃ ca punar āstartavyaṃ pūrvavat* sāmagryam ārocayitavyaṃ idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ yadi saṃghasyābhirucitam anena cīvareṇa saṃghasya kaṭhinam (",
+          "segment_number": 45
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "276v1 = GBM 6.865"
+          "text": "276v1 = GBM 6.865",
+          "segment_number": 46
         },
         {
           "tag": "text",
-          "text": ") āstariṣyati / tataḥ paścād aparasmin divase śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūṃ ("
+          "text": ") āstariṣyati / tataḥ paścād aparasmin divase śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūṃ (",
+          "segment_number": 47
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 194"
+          "text": "Matsumura 194",
+          "segment_number": 48
         },
         {
           "tag": "text",
-          "text": ") samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavya"
+          "text": ") samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavya",
+          "segment_number": 49
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m"
+          "text": "m",
+          "segment_number": 50
         }
-      ]
+      ],
+      "segment_number": 43
     },
     {
       "tag": "p",
@@ -366,13 +416,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 195"
+          "text": "Matsumura 195",
+          "segment_number": 52
         },
         {
           "tag": "text",
-          "text": ") purāṇacīvarāṇāṃ apy avipravāso bhaviṣyati prāg eva navakānāṃ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārthaṃ saṃmanyetānena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmantaḥ purāṇacīvarāṇām apy avipravāso bhaviṣyati prāg eva navakānām ity eṣā jñaptiḥ // evaṃ ca karma kartavyaṃ"
+          "text": ") purāṇacīvarāṇāṃ apy avipravāso bhaviṣyati prāg eva navakānāṃ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārthaṃ saṃmanyetānena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmantaḥ purāṇacīvarāṇām apy avipravāso bhaviṣyati prāg eva navakānām ity eṣā jñaptiḥ // evaṃ ca karma kartavyaṃ",
+          "segment_number": 53
         }
-      ]
+      ],
+      "segment_number": 51
     },
     {
       "tag": "p",
@@ -384,35 +437,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 196"
+          "text": "Matsumura 196",
+          "segment_number": 55
         },
         {
           "tag": "text",
-          "text": ") yeṣām āyuṣmatāṃ kṣamate idaṃ cīvaraṃ kaṭhinārthaṃ saṃmantum anena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt prakramata"
+          "text": ") yeṣām āyuṣmatāṃ kṣamate idaṃ cīvaraṃ kaṭhinārthaṃ saṃmantum anena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt prakramata",
+          "segment_number": 56
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 57
         },
         {
           "tag": "text",
-          "text": "purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ sa tūṣṇīṃ na kṣamate bhāṣantāṃ saṃmataḥ saṃghena idaṃ cīvaraṃ kaṭhinārtham anena cīvareṇa"
+          "text": "purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ sa tūṣṇīṃ na kṣamate bhāṣantāṃ saṃmataḥ saṃghena idaṃ cīvaraṃ kaṭhinārtham anena cīvareṇa",
+          "segment_number": 58
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃghasya"
+          "text": "saṃghasya",
+          "segment_number": 59
         },
         {
           "tag": "text",
-          "text": "kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmataḥ purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīṃ evam etad dhārayāmi"
+          "text": "kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmataḥ purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīṃ evam etad dhārayāmi",
+          "segment_number": 60
         }
-      ]
+      ],
+      "segment_number": 54
     },
     {
       "tag": "p",
@@ -424,35 +484,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 197"
+          "text": "Matsumura 197",
+          "segment_number": 62
         },
         {
           "tag": "text",
-          "text": ") paścimakāṃ varṣām upagato anyatra varṣoṣitaḥ śikṣādattakaḥ apare api paṃca na saṃmantavyāḥ pārivāsika mūlapārivāsika mānāpya mūlamānāpyacāra utkṣiptakaḥ apare paṃca na saṃmantavyā cchandād gacchati dveṣāṃ mohād bhayād gacchati āstṛtaṃ cānāstṛtaṃ kaṭhinaṃ na jānāti : paṃcabhis tu dharmaiḥ samanvāgataḥ kaṭhināstārako bhikṣur asaṃmataś ca saṃmantavya"
+          "text": ") paścimakāṃ varṣām upagato anyatra varṣoṣitaḥ śikṣādattakaḥ apare api paṃca na saṃmantavyāḥ pārivāsika mūlapārivāsika mānāpya mūlamānāpyacāra utkṣiptakaḥ apare paṃca na saṃmantavyā cchandād gacchati dveṣāṃ mohād bhayād gacchati āstṛtaṃ cānāstṛtaṃ kaṭhinaṃ na jānāti : paṃcabhis tu dharmaiḥ samanvāgataḥ kaṭhināstārako bhikṣur asaṃmataś ca saṃmantavya",
+          "segment_number": 63
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 64
         },
         {
           "tag": "text",
-          "text": "saṃmataś c"
+          "text": "saṃmataś c",
+          "segment_number": 65
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a n"
+          "text": "a n",
+          "segment_number": 66
         },
         {
           "tag": "text",
-          "text": "āvakāśayitavyaḥ katamaiḥ paṃcabhiḥ na cchandād gacchati na dveṣān na mohān na bhayād gacchati āstṛtānāstṛtaṃ ca kaṭhinaṃ jānāti"
+          "text": "āvakāśayitavyaḥ katamaiḥ paṃcabhiḥ na cchandād gacchati na dveṣān na mohān na bhayād gacchati āstṛtānāstṛtaṃ ca kaṭhinaṃ jānāti",
+          "segment_number": 67
         }
-      ]
+      ],
+      "segment_number": 61
     },
     {
       "tag": "p",
@@ -464,35 +531,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 198"
+          "text": "Matsumura 198",
+          "segment_number": 69
         },
         {
           "tag": "text",
-          "text": ") yāvad utsāhayitavyaḥ utsahase tvam evaṃnāmā saṃghasya kaṭhin"
+          "text": ") yāvad utsāhayitavyaḥ utsahase tvam evaṃnāmā saṃghasya kaṭhin",
+          "segment_number": 70
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "am"
+          "text": "am",
+          "segment_number": 71
         },
         {
           "tag": "text",
-          "text": "āstartum iti saced utsahate"
+          "text": "āstartum iti saced utsahate",
+          "segment_number": 72
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "te"
+          "text": "te",
+          "segment_number": 73
         },
         {
           "tag": "text",
-          "text": "na vaktavyaṃ utsahed iti / tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam*"
+          "text": "na vaktavyaṃ utsahed iti / tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam*",
+          "segment_number": 74
         }
-      ]
+      ],
+      "segment_number": 68
     },
     {
       "tag": "p",
@@ -504,31 +578,37 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "277r1 = GBM 6.866"
+          "text": "277r1 = GBM 6.866",
+          "segment_number": 76
         },
         {
           "tag": "text",
-          "text": ") yat saṃghaḥ evaṃnāmānaṃ kaṭhināstārakaṃ"
+          "text": ") yat saṃghaḥ evaṃnāmānaṃ kaṭhināstārakaṃ",
+          "segment_number": 77
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃmanyeta evaṃnāmā kaṭhināstarakaḥ"
+          "text": "saṃmanyeta evaṃnāmā kaṭhināstarakaḥ",
+          "segment_number": 78
         },
         {
           "tag": "text",
-          "text": "saṃghasya kaṭhinam āstariṣyat"
+          "text": "saṃghasya kaṭhinam āstariṣyat",
+          "segment_number": 79
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "īti eṣā jñaptiḥ evaṃ ca karma kartavyaṃ"
+          "text": "īti eṣā jñaptiḥ evaṃ ca karma kartavyaṃ",
+          "segment_number": 80
         }
-      ]
+      ],
+      "segment_number": 75
     },
     {
       "tag": "note",
@@ -553,24 +633,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "śṛṇotu bhadantāḥ saṃghaḥ ayam evaṃnāmā kaṭhināstāraka utsahe saṃghasya kaṭhinam āstartuṃ tat saṃgha evaṃnāmānaṃ kaṭhināstārakaṃ saṃmanyeta ayam evaṃnāmā kaṭhināstarakaḥ saṃghasya kaṭhinam āstariṣyat"
+          "text": "śṛṇotu bhadantāḥ saṃghaḥ ayam evaṃnāmā kaṭhināstāraka utsahe saṃghasya kaṭhinam āstartuṃ tat saṃgha evaṃnāmānaṃ kaṭhināstārakaṃ saṃmanyeta ayam evaṃnāmā kaṭhināstarakaḥ saṃghasya kaṭhinam āstariṣyat",
+          "segment_number": 82
         },
         {
           "tag": "text",
-          "text": "i yeṣām āyuṣmatāṃ kṣamate evaṃnāmānaṃ kaṭhināstārakaṃ saṃmantuṃ evaṃnāmā kaṭhināstārakaḥ saṃghasya kaṭhinam āstariṣyati te tūṣṇī"
+          "text": "i yeṣām āyuṣmatāṃ kṣamate evaṃnāmānaṃ kaṭhināstārakaṃ saṃmantuṃ evaṃnāmā kaṭhināstārakaḥ saṃghasya kaṭhinam āstariṣyati te tūṣṇī",
+          "segment_number": 83
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 84
         },
         {
           "tag": "text",
-          "text": "na kṣamate bhāṣantāṃ saṃmataḥ saṃghena evaṃnāmā kaṭhināstārakaḥ saṃghasya kaṭhinam āstariṣyati kṣāntam anujñātaṃ saṃghena yasmāt tuṣṇīm evam etad dhārayāmi"
+          "text": "na kṣamate bhāṣantāṃ saṃmataḥ saṃghena evaṃnāmā kaṭhināstārakaḥ saṃghasya kaṭhinam āstariṣyati kṣāntam anujñātaṃ saṃghena yasmāt tuṣṇīm evam etad dhārayāmi",
+          "segment_number": 85
         }
-      ]
+      ],
+      "segment_number": 81
     },
     {
       "tag": "p",
@@ -582,24 +667,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "r"
+          "text": "r",
+          "segment_number": 87
         },
         {
           "tag": "text",
-          "text": "jñaptyā kaṭhinaṃ āstaritavyaṃ ("
+          "text": "jñaptyā kaṭhinaṃ āstaritavyaṃ (",
+          "segment_number": 88
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 200"
+          "text": "Matsumura 200",
+          "segment_number": 89
         },
         {
           "tag": "text",
-          "text": ") śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ saṃghena kaṭhinārthaṃ saṃmatam ayaṃ caivaṃnāmā kaṭhināstārako bhikṣuḥ saṃmataḥ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārtham evaṃnāmno bhikṣor anupradadyād ity eṣā jñaptiḥ"
+          "text": ") śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ saṃghena kaṭhinārthaṃ saṃmatam ayaṃ caivaṃnāmā kaṭhināstārako bhikṣuḥ saṃmataḥ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārtham evaṃnāmno bhikṣor anupradadyād ity eṣā jñaptiḥ",
+          "segment_number": 90
         }
-      ]
+      ],
+      "segment_number": 86
     },
     {
       "tag": "p",
@@ -611,9 +701,11 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 92
         }
-      ]
+      ],
+      "segment_number": 91
     },
     {
       "tag": "p",
@@ -625,57 +717,68 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 201"
+          "text": "Matsumura 201",
+          "segment_number": 94
         },
         {
           "tag": "text",
-          "text": ") śvo 'ham āyuṣmanta"
+          "text": ") śvo 'ham āyuṣmanta",
+          "segment_number": 95
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 96
         },
         {
           "tag": "text",
-          "text": "kaṭhinam āstariṣyāmi / yuṣmābhi"
+          "text": "kaṭhinam āstariṣyāmi / yuṣmābhi",
+          "segment_number": 97
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 98
         },
         {
           "tag": "text",
-          "text": "svakasvakāni cīvarāṇi pratyuddhartavyāni iti tataḥ kaṭhināstārakeṇa ("
+          "text": "svakasvakāni cīvarāṇi pratyuddhartavyāni iti tataḥ kaṭhināstārakeṇa (",
+          "segment_number": 99
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 202"
+          "text": "Matsumura 202",
+          "segment_number": 100
         },
         {
           "tag": "text",
-          "text": ") bhikṣuṇā kaṭhina"
+          "text": ") bhikṣuṇā kaṭhina",
+          "segment_number": 101
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 102
         },
         {
           "tag": "text",
-          "text": "gandhapuṣpānvitaṃ surabhidhūpadhūpitaṃ kṛtvā śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūn samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite vṛddhānte sthāpayitavyaṃ tato vṛddhānte sthivā kaṭhinaṃ gṛhītvā vaktavyaṃ"
+          "text": "gandhapuṣpānvitaṃ surabhidhūpadhūpitaṃ kṛtvā śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūn samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite vṛddhānte sthāpayitavyaṃ tato vṛddhānte sthivā kaṭhinaṃ gṛhītvā vaktavyaṃ",
+          "segment_number": 103
         }
-      ]
+      ],
+      "segment_number": 93
     },
     {
       "tag": "p",
@@ -687,18 +790,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 203"
+          "text": "Matsumura 203",
+          "segment_number": 105
         },
         {
           "tag": "text",
-          "text": ") saṃmatam ahaṃ caivaṃnāmā kaṭhināstārakas tan mayā anena cīvareṇa saṃghasya kaṭhinam āstṛtam iti"
+          "text": ") saṃmatam ahaṃ caivaṃnāmā kaṭhināstārakas tan mayā anena cīvareṇa saṃghasya kaṭhinam āstṛtam iti",
+          "segment_number": 106
         }
-      ]
+      ],
+      "segment_number": 104
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 14. tena vaktavyaṃ sādhv āstṛtaṃ suṣṭhv āstṛtaṃ yo 'tra lābhas cānuśaṃsaś ca so 'smākam iti evaṃ dvir api tṛr api yāvat saṃghanavakasya sarvair vaktavyaṃ sādhv āstṛtaṃ suṣṭhv āstṛtaṃ yo 'tra lābhaś cānuśaṃsaś ca so 'smākam iti"
+      "text": "Kaṭhina-v 14. tena vaktavyaṃ sādhv āstṛtaṃ suṣṭhv āstṛtaṃ yo 'tra lābhas cānuśaṃsaś ca so 'smākam iti evaṃ dvir api tṛr api yāvat saṃghanavakasya sarvair vaktavyaṃ sādhv āstṛtaṃ suṣṭhv āstṛtaṃ yo 'tra lābhaś cānuśaṃsaś ca so 'smākam iti",
+      "segment_number": 107
     },
     {
       "tag": "p",
@@ -710,13 +817,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 204"
+          "text": "Matsumura 204",
+          "segment_number": 109
         },
         {
           "tag": "text",
-          "text": ") kaṭhināstārako bhikṣur yathāprajñaptān āsamudācārikāṃ dharmān na samādāya vartate sātisāro bhavati"
+          "text": ") kaṭhināstārako bhikṣur yathāprajñaptān āsamudācārikāṃ dharmān na samādāya vartate sātisāro bhavati",
+          "segment_number": 110
         }
-      ]
+      ],
+      "segment_number": 108
     },
     {
       "tag": "p",
@@ -728,35 +838,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "śuklapakṣa"
+          "text": "śuklapakṣa",
+          "segment_number": 112
         },
         {
           "tag": "text",
-          "text": "paṃcadaśyāṃ punar ārocayitavyaṃ śvā āyuṣmanta"
+          "text": "paṃcadaśyāṃ punar ārocayitavyaṃ śvā āyuṣmanta",
+          "segment_number": 113
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 114
         },
         {
           "tag": "text",
-          "text": "kaṭhinam uddhariṣyāmi yūyaṃ svakasvakāni cīvarāṇy adhitiṣṭhateti / yaś ca tatra lābhaḥ saṃpannaḥ sa saṃghena bhājayitavya"
+          "text": "kaṭhinam uddhariṣyāmi yūyaṃ svakasvakāni cīvarāṇy adhitiṣṭhateti / yaś ca tatra lābhaḥ saṃpannaḥ sa saṃghena bhājayitavya",
+          "segment_number": 115
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 116
         },
         {
           "tag": "text",
-          "text": "//"
+          "text": "//",
+          "segment_number": 117
         }
-      ]
+      ],
+      "segment_number": 111
     },
     {
       "tag": "p",
@@ -768,46 +885,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "an"
+          "text": "an",
+          "segment_number": 119
         },
         {
           "tag": "text",
-          "text": "āstṛtaṃ pañcānām upāliṃ avarṣikasya varṣācchinnakasya paścimakā"
+          "text": "āstṛtaṃ pañcānām upāliṃ avarṣikasya varṣācchinnakasya paścimakā",
+          "segment_number": 120
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 121
         },
         {
           "tag": "text",
-          "text": "("
+          "text": "(",
+          "segment_number": 122
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "277v1 = GBM 6.867"
+          "text": "277v1 = GBM 6.867",
+          "segment_number": 123
         },
         {
           "tag": "text",
-          "text": ") varṣā"
+          "text": ") varṣā",
+          "segment_number": 124
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 125
         },
         {
           "tag": "text",
-          "text": "upagatasya anyatra varṣopagatasya tasmiṃ kaṭhina āstīryamāṇe asaṃmukhībhūtasya / apareṣām api paṃcānām anāstṛtaṃ pārivāsikasya paryuṣitaparivāsasya mānāpyacārikasya caritamānāpyasya śikṣādattakasya ca"
+          "text": "upagatasya anyatra varṣopagatasya tasmiṃ kaṭhina āstīryamāṇe asaṃmukhībhūtasya / apareṣām api paṃcānām anāstṛtaṃ pārivāsikasya paryuṣitaparivāsasya mānāpyacārikasya caritamānāpyasya śikṣādattakasya ca",
+          "segment_number": 126
         }
-      ]
+      ],
+      "segment_number": 118
     },
     {
       "tag": "note",
@@ -832,14 +958,17 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "katīnāṃ bhadantaiva lābho nānuśaṃsā / pañcānām upālin avarṣikasya varṣācchinnakasya paścimakāṃ varṣām upagatasyānyatra varṣopagatasya tasmiṃ kaṭhina astīryamāṇa saṃmukhībhūtasya / apareṣām api pañcānāṃ pārivāsikasya paryuṣitaparivāsasya mānāpyacārikasya caritamānāpyasya śikṣādattakasya ca"
+          "text": "katīnāṃ bhadantaiva lābho nānuśaṃsā / pañcānām upālin avarṣikasya varṣācchinnakasya paścimakāṃ varṣām upagatasyānyatra varṣopagatasya tasmiṃ kaṭhina astīryamāṇa saṃmukhībhūtasya / apareṣām api pañcānāṃ pārivāsikasya paryuṣitaparivāsasya mānāpyacārikasya caritamānāpyasya śikṣādattakasya ca",
+          "segment_number": 128
         }
-      ]
+      ],
+      "segment_number": 127
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 19. kātīnāṃ bhadanta naiva lābho nānuśaṃsaḥ paṃcānām upāliṃ adarśanāyotkṣiptakasya apratikarmaṇāyotkṣiptakasya apratinisṛṣṭe / pāpake dṛṣṭigate utkṣiptakasya anyatra varṣoṣitasya bhinne ca saṃghe adharme pākṣikasya"
+      "text": "Kaṭhina-v 19. kātīnāṃ bhadanta naiva lābho nānuśaṃsaḥ paṃcānām upāliṃ adarśanāyotkṣiptakasya apratikarmaṇāyotkṣiptakasya apratinisṛṣṭe / pāpake dṛṣṭigate utkṣiptakasya anyatra varṣoṣitasya bhinne ca saṃghe adharme pākṣikasya",
+      "segment_number": 129
     },
     {
       "tag": "note",
@@ -864,40 +993,48 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 131
         },
         {
           "tag": "text",
-          "text": "svāgataṃ svāgataṃ āyuṣmantaḥ kaccit sukhacaryā / kīdṛśī āyuṣmantaḥ sukhacaryā corair muṣitā"
+          "text": "svāgataṃ svāgataṃ āyuṣmantaḥ kaccit sukhacaryā / kīdṛśī āyuṣmantaḥ sukhacaryā corair muṣitā",
+          "segment_number": 132
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 133
         },
         {
           "tag": "text",
-          "text": "sma"
+          "text": "sma",
+          "segment_number": 134
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 135
         },
         {
           "tag": "text",
-          "text": "/ asmākam āyuṣmantaḥ prabhūto lābhaḥ saṃpannaḥ yadi kaṭhinam uddhriyate cīvarair yuṣmākaṃ saṃvibhāgaṃ kurma iti / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti bhagavān āha / tasmād anujānāmi corair muṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddhartavyaṃ evaṃ ca punar uddhartavyaṃ śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūn samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam*"
+          "text": "/ asmākam āyuṣmantaḥ prabhūto lābhaḥ saṃpannaḥ yadi kaṭhinam uddhriyate cīvarair yuṣmākaṃ saṃvibhāgaṃ kurma iti / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti bhagavān āha / tasmād anujānāmi corair muṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddhartavyaṃ evaṃ ca punar uddhartavyaṃ śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūn samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam*",
+          "segment_number": 136
         }
-      ]
+      ],
+      "segment_number": 130
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 21. śṛṇotu bhadantāḥ saṃgha yāvad evāsminn āvāse samagreṇa saṃghena kaṭhinam āstṛtaṃ saṃbahulāś ca bhikṣavaḥ corair muṣitā āgatāḥ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaś corair muṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddhared ity eṣā jñaptiḥ evaṃ ca karma kartavyam*"
+      "text": "Kaṭhina-v 21. śṛṇotu bhadantāḥ saṃgha yāvad evāsminn āvāse samagreṇa saṃghena kaṭhinam āstṛtaṃ saṃbahulāś ca bhikṣavaḥ corair muṣitā āgatāḥ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaś corair muṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddhared ity eṣā jñaptiḥ evaṃ ca karma kartavyam*",
+      "segment_number": 137
     },
     {
       "tag": "note",
@@ -922,28 +1059,34 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "s"
+          "text": "s",
+          "segment_number": 139
         },
         {
           "tag": "text",
-          "text": "tat saṃghaś corair muṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddharati yeṣām āyuṣmatāṃ kṣamate coramuṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddharituṃ te tūṣṇīṃ na kṣamate bhāṣantāṃ uddhṛtaṃ saṃghena coramuṣitakānāṃ bhikṣūṇām arthāya kaṭhinaṃ kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm evam etad dhārayāmi /"
+          "text": "tat saṃghaś corair muṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddharati yeṣām āyuṣmatāṃ kṣamate coramuṣitakānāṃ bhikṣūṇām arthāya kaṭhinam uddharituṃ te tūṣṇīṃ na kṣamate bhāṣantāṃ uddhṛtaṃ saṃghena coramuṣitakānāṃ bhikṣūṇām arthāya kaṭhinaṃ kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm evam etad dhārayāmi /",
+          "segment_number": 140
         }
-      ]
+      ],
+      "segment_number": 138
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 22b. tasmād yo lābhaḥ saṃpannaḥ sa bhājayitavyaḥ bhājite yasyābhipretan tena svakāt pratyaṃśāc cauramuṣitakānāṃ bhikṣūṇāṃ saṃvibhāgaḥ kartavyaḥ // //"
+      "text": "Kaṭhina-v 22b. tasmād yo lābhaḥ saṃpannaḥ sa bhājayitavyaḥ bhājite yasyābhipretan tena svakāt pratyaṃśāc cauramuṣitakānāṃ bhikṣūṇāṃ saṃvibhāgaḥ kartavyaḥ // //",
+      "segment_number": 141
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* //"
+      "text": "uddānam* //",
+      "segment_number": 142
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "vitaritaṃ vilikhitaṃ ca dhuṭī gaṇḍūṣapaṭṭikā \nupadhipariṣaṇḍo ca purāṇasannihitaphupphusam* // //"
+      "text": "vitaritaṃ vilikhitaṃ ca dhuṭī gaṇḍūṣapaṭṭikā \nupadhipariṣaṇḍo ca purāṇasannihitaphupphusam* // //",
+      "segment_number": 143
     },
     {
       "tag": "p",
@@ -955,24 +1098,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 208"
+          "text": "Matsumura 208",
+          "segment_number": 145
         },
         {
           "tag": "text",
-          "text": ") bhadanta vilikhitena dakaśāṭikācīvareṇa gaṇḍūṣacīvareṇa paṭṭikācīvareṇa plotikācīvareṇa pariṣaṇḍācīvareṇa purāṇacīvareṇa ("
+          "text": ") bhadanta vilikhitena dakaśāṭikācīvareṇa gaṇḍūṣacīvareṇa paṭṭikācīvareṇa plotikācīvareṇa pariṣaṇḍācīvareṇa purāṇacīvareṇa (",
+          "segment_number": 146
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 209"
+          "text": "Matsumura 209",
+          "segment_number": 147
         },
         {
           "tag": "text",
-          "text": ") sannihitacīvareṇa phupphusacīvareṇa kaṭhinam āstartuṃ na labhyam upālin* // //"
+          "text": ") sannihitacīvareṇa phupphusacīvareṇa kaṭhinam āstartuṃ na labhyam upālin* // //",
+          "segment_number": 148
         }
-      ]
+      ],
+      "segment_number": 144
     },
     {
       "tag": "note",
@@ -990,7 +1138,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* // //"
+      "text": "uddānam* // //",
+      "segment_number": 149
     },
     {
       "tag": "lg",
@@ -999,17 +1148,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "marditaṃ cāpy akālena pudgalasya tṛcīvaram*"
+          "text": "marditaṃ cāpy akālena pudgalasya tṛcīvaram*",
+          "segment_number": 150
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "akalpikam asaṃcchanaṃ na kuryād ūnapaṃcakam*"
+          "text": "akalpikam asaṃcchanaṃ na kuryād ūnapaṃcakam*",
+          "segment_number": 151
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "asaṃmatam anāstṛtaṃ bahiḥsīme na rohati // //"
+          "text": "asaṃmatam anāstṛtaṃ bahiḥsīme na rohati // //",
+          "segment_number": 152
         }
       ]
     },
@@ -1023,46 +1175,55 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "278r1 = GBM 6.868"
+          "text": "278r1 = GBM 6.868",
+          "segment_number": 154
         },
         {
           "tag": "text",
-          "text": ") upālī buddhaṃ bhagavantaṃ pṛcchati labhyaṃ bhadanta marditena cīvareṇa kaṭhinam āstartuṃ na labhyam upālin* labhyaṃ bhadanta akālacīvareṇa paudgalikayā saṃghāṭyā ("
+          "text": ") upālī buddhaṃ bhagavantaṃ pṛcchati labhyaṃ bhadanta marditena cīvareṇa kaṭhinam āstartuṃ na labhyam upālin* labhyaṃ bhadanta akālacīvareṇa paudgalikayā saṃghāṭyā (",
+          "segment_number": 155
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 211"
+          "text": "Matsumura 211",
+          "segment_number": 156
         },
         {
           "tag": "text",
-          "text": ") uttarāsaṃgena antarvāsena akalpikena cīvareṇa acchinakena ūnapaṃcakena asammatena"
+          "text": ") uttarāsaṃgena antarvāsena akalpikena cīvareṇa acchinakena ūnapaṃcakena asammatena",
+          "segment_number": 157
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "cīvareṇa asammatena"
+          "text": "cīvareṇa asammatena",
+          "segment_number": 158
         },
         {
           "tag": "text",
-          "text": "("
+          "text": "(",
+          "segment_number": 159
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 212"
+          "text": "Matsumura 212",
+          "segment_number": 160
         },
         {
           "tag": "text",
-          "text": ") kaṭhināstārakena bahiḥsīmāsammatena kaṭhinacīvareṇa bahiḥsīmāsaṃmatena kaṭhināstārakena kaṭhinam āstartuṃ na labhyam upālin* // //"
+          "text": ") kaṭhināstārakena bahiḥsīmāsammatena kaṭhinacīvareṇa bahiḥsīmāsaṃmatena kaṭhināstārakena kaṭhinam āstartuṃ na labhyam upālin* // //",
+          "segment_number": 161
         }
-      ]
+      ],
+      "segment_number": 153
     },
     {
       "tag": "note",
@@ -1080,12 +1241,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* // //"
+      "text": "uddānam* // //",
+      "segment_number": 162
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "kālikaṃ cāpi traimāsyam ahantaṃ caiva kalpikam*\nātyayikaṃ pailotikaṃ pudgalasya tṛcīvaram* // //"
+      "text": "kālikaṃ cāpi traimāsyam ahantaṃ caiva kalpikam*\nātyayikaṃ pailotikaṃ pudgalasya tṛcīvaram* // //",
+      "segment_number": 163
     },
     {
       "tag": "p",
@@ -1097,35 +1260,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "tena labhyaṃ"
+          "text": "tena labhyaṃ",
+          "segment_number": 165
         },
         {
           "tag": "text",
-          "text": "kaṭhinam āstartuṃ labhyam upāliṃ ahatacīvareṇa labhyaṃ ahatakalpitena labhyaṃ ātyayikacīvareṇa labhyaṃ paulotikacīvareṇa labhyaṃ paulotikayā ("
+          "text": "kaṭhinam āstartuṃ labhyam upāliṃ ahatacīvareṇa labhyaṃ ahatakalpitena labhyaṃ ātyayikacīvareṇa labhyaṃ paulotikacīvareṇa labhyaṃ paulotikayā (",
+          "segment_number": 166
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 214"
+          "text": "Matsumura 214",
+          "segment_number": 167
         },
         {
           "tag": "text",
-          "text": ") saṃghāṭyā na labhyaṃ"
+          "text": ") saṃghāṭyā na labhyaṃ",
+          "segment_number": 168
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "labhyaṃ bhadanta paudgalikayā saṃghāṭyā kaṭhinam āstartuṃ labhyam upālin"
+          "text": "labhyaṃ bhadanta paudgalikayā saṃghāṭyā kaṭhinam āstartuṃ labhyam upālin",
+          "segment_number": 169
         },
         {
           "tag": "text",
-          "text": "sacet saṃghe nisṛṣṭā bhavati evam uttarāsaṃgenāntarvāsena // //"
+          "text": "sacet saṃghe nisṛṣṭā bhavati evam uttarāsaṃgenāntarvāsena // //",
+          "segment_number": 170
         }
-      ]
+      ],
+      "segment_number": 164
     },
     {
       "tag": "note",
@@ -1143,12 +1313,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* // //"
+      "text": "uddānam* // //",
+      "segment_number": 171
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "paudgalikaṃ gārhāpatakaṃ paṃcakaṃ sādhikapaṃcikaṃ\nsaṃmatam āstṛtaṃ caiva antaḥsīme ca rohau // //"
+      "text": "paudgalikaṃ gārhāpatakaṃ paṃcakaṃ sādhikapaṃcikaṃ\nsaṃmatam āstṛtaṃ caiva antaḥsīme ca rohau // //",
+      "segment_number": 172
     },
     {
       "tag": "p",
@@ -1160,24 +1332,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 216"
+          "text": "Matsumura 216",
+          "segment_number": 174
         },
         {
           "tag": "text",
-          "text": ") bhavati paṃcakena labhyaṃ sādhikena paṃcakena labhyaṃ sammatena kaṭhinacīvare"
+          "text": ") bhavati paṃcakena labhyaṃ sādhikena paṃcakena labhyaṃ sammatena kaṭhinacīvare",
+          "segment_number": 175
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṇa"
+          "text": "ṇa",
+          "segment_number": 176
         },
         {
           "tag": "text",
-          "text": "kaṭhināstārakena labhyaṃ antaḥsīmāsammatena kaṭhinacīvareṇa labhyaṃ antaḥsīmāsammatena kaṭhināstārakena labhyaṃ"
+          "text": "kaṭhināstārakena labhyaṃ antaḥsīmāsammatena kaṭhinacīvareṇa labhyaṃ antaḥsīmāsammatena kaṭhināstārakena labhyaṃ",
+          "segment_number": 177
         }
-      ]
+      ],
+      "segment_number": 173
     },
     {
       "tag": "p",
@@ -1189,18 +1366,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 217"
+          "text": "Matsumura 217",
+          "segment_number": 179
         },
         {
           "tag": "text",
-          "text": ") āśācchedakaṃ kaṭhinoddhāram evāṣṭamam* prakramaṇāntikaḥ kaṭhinoddhārā niṣṭhāpanāntikaḥ sanniṣṭhāpanāntikaḥ nāśanāntikaḥ śravaṇāntikaḥ sīmātikrāntikaḥ āśācchedakaḥ kaṭhinoddhāram evāṣṭamam*"
+          "text": ") āśācchedakaṃ kaṭhinoddhāram evāṣṭamam* prakramaṇāntikaḥ kaṭhinoddhārā niṣṭhāpanāntikaḥ sanniṣṭhāpanāntikaḥ nāśanāntikaḥ śravaṇāntikaḥ sīmātikrāntikaḥ āśācchedakaḥ kaṭhinoddhāram evāṣṭamam*",
+          "segment_number": 180
         }
-      ]
+      ],
+      "segment_number": 178
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 28. prakramaṇāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsāt* akṛtacīvaro 'niṣṭhitacīvaraḥ samādāya pātracīvaraṃ bahiḥsīmāṃ prakramaty apunarāgamanāya tasya prakramaṇāntikaḥ kaṭhinoddhāraḥ"
+      "text": "Kaṭhina-v 28. prakramaṇāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsāt* akṛtacīvaro 'niṣṭhitacīvaraḥ samādāya pātracīvaraṃ bahiḥsīmāṃ prakramaty apunarāgamanāya tasya prakramaṇāntikaḥ kaṭhinoddhāraḥ",
+      "segment_number": 181
     },
     {
       "tag": "note",
@@ -1225,35 +1406,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "āntik"
+          "text": "āntik",
+          "segment_number": 183
         },
         {
           "tag": "text",
-          "text": "aḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣ"
+          "text": "aḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣ",
+          "segment_number": 184
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "y"
+          "text": "y",
+          "segment_number": 185
         },
         {
           "tag": "text",
-          "text": "āmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣ"
+          "text": "āmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣ",
+          "segment_number": 186
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "y"
+          "text": "y",
+          "segment_number": 187
         },
         {
           "tag": "text",
-          "text": "āmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+          "text": "āmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 188
         }
-      ]
+      ],
+      "segment_number": 182
     },
     {
       "tag": "p",
@@ -1265,13 +1453,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 219"
+          "text": "Matsumura 219",
+          "segment_number": 190
         },
         {
           "tag": "text",
-          "text": ") āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmi nāpi cīvaraṃ kariṣyāmīti tasya sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+          "text": ") āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmi nāpi cīvaraṃ kariṣyāmīti tasya sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 191
         }
-      ]
+      ],
+      "segment_number": 189
     },
     {
       "tag": "p",
@@ -1283,73 +1474,87 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 220"
+          "text": "Matsumura 220",
+          "segment_number": 193
         },
         {
           "tag": "text",
-          "text": ") āvāsād akṛta"
+          "text": ") āvāsād akṛta",
+          "segment_number": 194
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "c"
+          "text": "c",
+          "segment_number": 195
         },
         {
           "tag": "text",
-          "text": "ī"
+          "text": "ī",
+          "segment_number": 196
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "varo"
+          "text": "varo",
+          "segment_number": 197
         },
         {
           "tag": "text",
-          "text": "'n"
+          "text": "'n",
+          "segment_number": 198
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 199
         },
         {
           "tag": "text",
-          "text": "ṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi ("
+          "text": "ṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi (",
+          "segment_number": 200
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "278v1 = GBM 6.869"
+          "text": "278v1 = GBM 6.869",
+          "segment_number": 201
         },
         {
           "tag": "text",
-          "text": ") cīvaraṃ kariṣyāmi /"
+          "text": ") cīvaraṃ kariṣyāmi /",
+          "segment_number": 202
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvaraṃ kariṣyāmīti"
+          "text": "tasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvaraṃ kariṣyāmīti",
+          "segment_number": 203
         },
         {
           "tag": "text",
-          "text": "sa tad ārabhate ārabdhaṃ tu naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ"
+          "text": "sa tad ārabhate ārabdhaṃ tu naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 204
         }
-      ]
+      ],
+      "segment_number": 192
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 32. śravaṇāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣuḥ āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmi samagreṇa ca saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti / tasya śravaṇāntikaḥ kaṭhinoddhāraḥ"
+      "text": "Kaṭhina-v 32. śravaṇāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣuḥ āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmi samagreṇa ca saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti / tasya śravaṇāntikaḥ kaṭhinoddhāraḥ",
+      "segment_number": 205
     },
     {
       "tag": "note",
@@ -1367,7 +1572,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 33. sīmātikrāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati pratyeṣyāmi na pratyeṣyāmīti sīmāṃ cātikrāmati tasya sīmātikrāntikaḥ kaṭhinoddhāraḥ"
+      "text": "Kaṭhina-v 33. sīmātikrāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati pratyeṣyāmi na pratyeṣyāmīti sīmāṃ cātikrāmati tasya sīmātikrāntikaḥ kaṭhinoddhāraḥ",
+      "segment_number": 206
     },
     {
       "tag": "p",
@@ -1379,9 +1585,11 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "kaṭhinoddhāraḥ"
+          "text": "kaṭhinoddhāraḥ",
+          "segment_number": 208
         }
-      ]
+      ],
+      "segment_number": 207
     },
     {
       "tag": "p",
@@ -1393,23 +1601,28 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 222"
+          "text": "Matsumura 222",
+          "segment_number": 210
         },
         {
           "tag": "text",
-          "text": ") āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati cāgatya kaṭhinoddhāraḥ pratyanubhavati tasya kaṭhinodhāra evāṣṭamaḥ // //"
+          "text": ") āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati cāgatya kaṭhinoddhāraḥ pratyanubhavati tasya kaṭhinodhāra evāṣṭamaḥ // //",
+          "segment_number": 211
         }
-      ]
+      ],
+      "segment_number": 209
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* //"
+      "text": "uddānam* //",
+      "segment_number": 212
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "akṛtena hi viṃśati vikṛtena hi viṃśati \nāśayā viṃśatiṃ kuryād anāsayā caiva viṃśikām* // //"
+      "text": "akṛtena hi viṃśati vikṛtena hi viṃśati \nāśayā viṃśatiṃ kuryād anāsayā caiva viṃśikām* // //",
+      "segment_number": 213
     },
     {
       "tag": "p",
@@ -1421,13 +1634,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 215
         },
         {
           "tag": "text",
-          "text": "bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+          "text": "bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 216
         }
-      ]
+      ],
+      "segment_number": 214
     },
     {
       "tag": "p",
@@ -1439,13 +1655,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "n"
+          "text": "n",
+          "segment_number": 218
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 219
         }
-      ]
+      ],
+      "segment_number": 217
     },
     {
       "tag": "note",
@@ -1463,17 +1682,20 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 38. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ /"
+      "text": "Kaṭhina-v 38. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ /",
+      "segment_number": 220
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 39. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvarakaṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti / tasya śravaṇāntikaḥ kaṭhinoddhāra-m-iti //"
+      "text": "Kaṭhina-v 39. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvarakaṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti / tasya śravaṇāntikaḥ kaṭhinoddhāra-m-iti //",
+      "segment_number": 221
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 40. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati / pratyeṣyāmi cīvaraṃ kariṣyāmi tasya tatra gatasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 40. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati / pratyeṣyāmi cīvaraṃ kariṣyāmi tasya tatra gatasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 222
     },
     {
       "tag": "p",
@@ -1485,24 +1707,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "279r1 = GBM 6.870"
+          "text": "279r1 = GBM 6.870",
+          "segment_number": 224
         },
         {
           "tag": "text",
-          "text": ") na haiva pratyeṣyāmi nāpi cīvaraṃ kariṣyāmīti tasya sa"
+          "text": ") na haiva pratyeṣyāmi nāpi cīvaraṃ kariṣyāmīti tasya sa",
+          "segment_number": 225
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "n"
+          "text": "n",
+          "segment_number": 226
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 227
         }
-      ]
+      ],
+      "segment_number": 223
     },
     {
       "tag": "p",
@@ -1514,13 +1741,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "kaḥ"
+          "text": "kaḥ",
+          "segment_number": 229
         },
         {
           "tag": "text",
-          "text": "kaṭhinoddhāraḥ"
+          "text": "kaṭhinoddhāraḥ",
+          "segment_number": 230
         }
-      ]
+      ],
+      "segment_number": 228
     },
     {
       "tag": "note",
@@ -1545,40 +1775,48 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "va"
+          "text": "va",
+          "segment_number": 232
         },
         {
           "tag": "text",
-          "text": "raḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti samagreṇa"
+          "text": "raḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti samagreṇa",
+          "segment_number": 233
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ca"
+          "text": "ca",
+          "segment_number": 234
         },
         {
           "tag": "text",
-          "text": "saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti / sa śrutvā cā"
+          "text": "saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti / sa śrutvā cā",
+          "segment_number": 235
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bhya"
+          "text": "bhya",
+          "segment_number": 236
         },
         {
           "tag": "text",
-          "text": "numodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //"
+          "text": "numodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 237
         }
-      ]
+      ],
+      "segment_number": 231
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 44. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasantati bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti / tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 44. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasantati bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti / tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 238
     },
     {
       "tag": "p",
@@ -1590,18 +1828,22 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "san"
+          "text": "san",
+          "segment_number": 240
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ // 10 //"
+          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ // 10 //",
+          "segment_number": 241
         }
-      ]
+      ],
+      "segment_number": 239
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 46. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasantati bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 46. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasantati bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 242
     },
     {
       "tag": "p",
@@ -1613,18 +1855,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 225"
+          "text": "Matsumura 225",
+          "segment_number": 244
         },
         {
           "tag": "text",
-          "text": ") paligodhasantatir bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtam* sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate / sādhūddhṛtaṃ suṣṭhūddhṛtam iti // tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //"
+          "text": ") paligodhasantatir bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtam* sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate / sādhūddhṛtaṃ suṣṭhūddhṛtam iti // tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 245
         }
-      ]
+      ],
+      "segment_number": 243
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 48. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasaṃtati bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasya tatra gatasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvarakaṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 48. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasaṃtati bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasya tatra gatasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvarakaṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 246
     },
     {
       "tag": "p",
@@ -1636,18 +1882,22 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "san"
+          "text": "san",
+          "segment_number": 248
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 249
         }
-      ]
+      ],
+      "segment_number": 247
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 50. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasaṃtatiḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / sa tatra gatā ārabhate ārabdhaṃ cāsya naśyati / tasya nāśanāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 50. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasaṃtatiḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / sa tatra gatā ārabhate ārabdhaṃ cāsya naśyati / tasya nāśanāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 250
     },
     {
       "tag": "p",
@@ -1659,13 +1909,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "279v1 = GBM 6.871"
+          "text": "279v1 = GBM 6.871",
+          "segment_number": 252
         },
         {
           "tag": "text",
-          "text": ") pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa saṃghena kaṭhinam uddhṛtam* sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate / sādhūddhṛtaṃ suṣṭhūddhṛtam iti // tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //"
+          "text": ") pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa saṃghena kaṭhinam uddhṛtam* sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate / sādhūddhṛtaṃ suṣṭhūddhṛtam iti // tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 253
         }
-      ]
+      ],
+      "segment_number": 251
     },
     {
       "tag": "p",
@@ -1677,24 +1930,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 226"
+          "text": "Matsumura 226",
+          "segment_number": 255
         },
         {
           "tag": "text",
-          "text": ") 'niṣṭhitacīvaraḥ vicikitsāsantatir bahiḥsīmāṃ prakrāmati kin nu pratyeṣyāmi āhosvi"
+          "text": ") 'niṣṭhitacīvaraḥ vicikitsāsantatir bahiḥsīmāṃ prakrāmati kin nu pratyeṣyāmi āhosvi",
+          "segment_number": 256
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "n"
+          "text": "n",
+          "segment_number": 257
         },
         {
           "tag": "text",
-          "text": "na pratyeṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+          "text": "na pratyeṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 258
         }
-      ]
+      ],
+      "segment_number": 254
     },
     {
       "tag": "p",
@@ -1706,13 +1964,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "san"
+          "text": "san",
+          "segment_number": 260
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 261
         }
-      ]
+      ],
+      "segment_number": 259
     },
     {
       "tag": "p",
@@ -1724,13 +1985,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ho"
+          "text": "ho",
+          "segment_number": 263
         },
         {
           "tag": "text",
-          "text": "svin na pratyeṣyāmīti sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //"
+          "text": "svin na pratyeṣyāmīti sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 264
         }
-      ]
+      ],
+      "segment_number": 262
     },
     {
       "tag": "p",
@@ -1742,29 +2006,35 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 227"
+          "text": "Matsumura 227",
+          "segment_number": 266
         },
         {
           "tag": "text",
-          "text": ") pratyeṣyāmi āhosvin na pratyeṣyāmīti samagreṇa saṃghena kaṭhinam uddhṛtam*"
+          "text": ") pratyeṣyāmi āhosvin na pratyeṣyāmīti samagreṇa saṃghena kaṭhinam uddhṛtam*",
+          "segment_number": 267
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti"
+          "text": "sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti",
+          "segment_number": 268
         },
         {
           "tag": "text",
-          "text": "śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //"
+          "text": "śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 269
         }
-      ]
+      ],
+      "segment_number": 265
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 56. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati / pratyeṣyāmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+      "text": "Kaṭhina-v 56. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati / pratyeṣyāmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+      "segment_number": 270
     },
     {
       "tag": "p",
@@ -1776,13 +2046,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 272
         },
         {
           "tag": "text",
-          "text": "śikāyāṃ akṛtacīvaro 'niṣṭhitacīvara ity atrāniṣṭhitacīvara ity apanīya viprakṛtacīvara iti datvā nānākāreṇāparā viṃśati karyā / // //"
+          "text": "śikāyāṃ akṛtacīvaro 'niṣṭhitacīvara ity atrāniṣṭhitacīvara ity apanīya viprakṛtacīvara iti datvā nānākāreṇāparā viṃśati karyā / // //",
+          "segment_number": 273
         }
-      ]
+      ],
+      "segment_number": 271
     },
     {
       "tag": "p",
@@ -1794,18 +2067,22 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "i cīvaraṃ kariṣyām"
+          "text": "i cīvaraṃ kariṣyām",
+          "segment_number": 275
         },
         {
           "tag": "text",
-          "text": "īti tasyaivaṃ bhavati / na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+          "text": "īti tasyaivaṃ bhavati / na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 276
         }
-      ]
+      ],
+      "segment_number": 274
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "āśayety anena viśeṣeṇa pūrvavad aparā viṃśikā kāryā //"
+      "text": "āśayety anena viśeṣeṇa pūrvavad aparā viṃśikā kāryā //",
+      "segment_number": 277
     },
     {
       "tag": "note",
@@ -1823,22 +2100,26 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 58. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmaty anāśayā pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti / tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+      "text": "Kaṭhina-v 58. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmaty anāśayā pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti / tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+      "segment_number": 278
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "anāśayety anena viśeṣeṇāparā viṃśikā kāryā // //"
+      "text": "anāśayety anena viśeṣeṇāparā viṃśikā kāryā // //",
+      "segment_number": 279
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* //"
+      "text": "uddānam* //",
+      "segment_number": 280
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "karaṇīyena dvādaśikā paryeṣaṇatayā tathā \ndeśena paṃcikāṃ kṛtvā āvāsena ca paṃcikā // //"
+      "text": "karaṇīyena dvādaśikā paryeṣaṇatayā tathā \ndeśena paṃcikāṃ kṛtvā āvāsena ca paṃcikā // //",
+      "segment_number": 281
     },
     {
       "tag": "p",
@@ -1850,18 +2131,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "280r1 = GBM 6.872"
+          "text": "280r1 = GBM 6.872",
+          "segment_number": 283
         },
         {
           "tag": "text",
-          "text": ") kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ"
+          "text": ") kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 284
         }
-      ]
+      ],
+      "segment_number": 282
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 60. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy nāpi cīvarakaṃ kariṣyāmīti / tasya sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 60. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy nāpi cīvarakaṃ kariṣyāmīti / tasya sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 285
     },
     {
       "tag": "p",
@@ -1873,45 +2158,54 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 287
         },
         {
           "tag": "text",
-          "text": "bahiḥsīmāṃ prakrā"
+          "text": "bahiḥsīmāṃ prakrā",
+          "segment_number": 288
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "mati"
+          "text": "mati",
+          "segment_number": 289
         },
         {
           "tag": "text",
-          "text": "karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti ("
+          "text": "karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti (",
+          "segment_number": 290
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Matsumura 229"
+          "text": "Matsumura 229",
+          "segment_number": 291
         },
         {
           "tag": "text",
-          "text": ") sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //"
+          "text": ") sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //",
+          "segment_number": 292
         }
-      ]
+      ],
+      "segment_number": 286
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 62. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti / tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 62. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtaṃ sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti / tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 293
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 63. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasya tatra gatasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 63. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasya tatra gatasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 294
     },
     {
       "tag": "p",
@@ -1923,18 +2217,22 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "san"
+          "text": "san",
+          "segment_number": 296
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntikaḥ // 6 //"
+          "text": "niṣṭhāpanāntikaḥ // 6 //",
+          "segment_number": 297
         }
-      ]
+      ],
+      "segment_number": 295
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "nāśanāntikaḥ // 7 //"
+      "text": "nāśanāntikaḥ // 7 //",
+      "segment_number": 298
     },
     {
       "tag": "p",
@@ -1946,13 +2244,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 300
         },
         {
           "tag": "text",
-          "text": "// 8 //"
+          "text": "// 8 //",
+          "segment_number": 301
         }
-      ]
+      ],
+      "segment_number": 299
     },
     {
       "tag": "p",
@@ -1964,13 +2265,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "tasya"
+          "text": "tasya",
+          "segment_number": 303
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ // 9 //"
+          "text": "niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ // 9 //",
+          "segment_number": 304
         }
-      ]
+      ],
+      "segment_number": 302
     },
     {
       "tag": "p",
@@ -1982,18 +2286,22 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "tatir ity anena viśeṣeṇa"
+          "text": "tatir ity anena viśeṣeṇa",
+          "segment_number": 306
         },
         {
           "tag": "text",
-          "text": "niṣṭhāpanāntika uktaḥ // evaṃ sanniṣṭhāpanāntikaḥ // 10 //"
+          "text": "niṣṭhāpanāntika uktaḥ // evaṃ sanniṣṭhāpanāntikaḥ // 10 //",
+          "segment_number": 307
         }
-      ]
+      ],
+      "segment_number": 305
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "nāśanāntikaḥ // 11//"
+      "text": "nāśanāntikaḥ // 11//",
+      "segment_number": 308
     },
     {
       "tag": "note",
@@ -2011,7 +2319,8 @@
     {
       "tag": "l",
       "attributes": {},
-      "text": "śravaṇāntikaḥ // 12 //"
+      "text": "śravaṇāntikaḥ // 12 //",
+      "segment_number": 309
     },
     {
       "tag": "p",
@@ -2023,24 +2332,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "cīvaro 'niṣṭhita"
+          "text": "cīvaro 'niṣṭhita",
+          "segment_number": 311
         },
         {
           "tag": "text",
-          "text": "cīvaraḥ bahiḥsīmāṃ prakrāmati paryeṣaṇāya pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhā"
+          "text": "cīvaraḥ bahiḥsīmāṃ prakrāmati paryeṣaṇāya pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhā",
+          "segment_number": 312
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "panā"
+          "text": "panā",
+          "segment_number": 313
         },
         {
           "tag": "text",
-          "text": "ntikaḥ kaṭhinoddhāraḥ"
+          "text": "ntikaḥ kaṭhinoddhāraḥ",
+          "segment_number": 314
         }
-      ]
+      ],
+      "segment_number": 310
     },
     {
       "tag": "p",
@@ -2052,29 +2366,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "āy"
+          "text": "āy",
+          "segment_number": 316
         },
         {
           "tag": "text",
-          "text": "ety anena"
+          "text": "ety anena",
+          "segment_number": 317
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "viśeṣeṇa"
+          "text": "viśeṣeṇa",
+          "segment_number": 318
         },
         {
           "tag": "text",
-          "text": "pūrvavad aparā dvādaśikā : // //"
+          "text": "pūrvavad aparā dvādaśikā : // //",
+          "segment_number": 319
         }
-      ]
+      ],
+      "segment_number": 315
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 66. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati deśānuprekṣī apunarāgamanāya tasya prakramaṇāntikaḥ kaṭhinoddhāraḥ //"
+      "text": "Kaṭhina-v 66. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati deśānuprekṣī apunarāgamanāya tasya prakramaṇāntikaḥ kaṭhinoddhāraḥ //",
+      "segment_number": 320
     },
     {
       "tag": "p",
@@ -2086,60 +2406,72 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "aty"
+          "text": "aty",
+          "segment_number": 322
         },
         {
           "tag": "text",
-          "text": "eṣyāmi āhosvi"
+          "text": "eṣyāmi āhosvi",
+          "segment_number": 323
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "n"
+          "text": "n",
+          "segment_number": 324
         },
         {
           "tag": "text",
-          "text": "na pr"
+          "text": "na pr",
+          "segment_number": 325
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aty"
+          "text": "aty",
+          "segment_number": 326
         },
         {
           "tag": "text",
-          "text": "eṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasyaiva niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ // 2 //"
+          "text": "eṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasyaiva niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ // 2 //",
+          "segment_number": 327
         }
-      ]
+      ],
+      "segment_number": 321
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "evaṃ sanniṣṭhāpanāntikaḥ // 3 //"
+      "text": "evaṃ sanniṣṭhāpanāntikaḥ // 3 //",
+      "segment_number": 328
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "nāśanāntikaḥ // 4 //"
+      "text": "nāśanāntikaḥ // 4 //",
+      "segment_number": 329
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "śrāvaṇāntikaḥ // 5 //"
+      "text": "śrāvaṇāntikaḥ // 5 //",
+      "segment_number": 330
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 67.ii. yathā deśānuprekṣaṇapaṃcikā evam āvāsaprekṣaṇapaṃcikā // //"
+      "text": "Kaṭhina-v 67.ii. yathā deśānuprekṣaṇapaṃcikā evam āvāsaprekṣaṇapaṃcikā // //",
+      "segment_number": 331
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "kaṭhinavastu samāpta : // //"
+      "text": "kaṭhinavastu samāpta : // //",
+      "segment_number": 332
     }
   ]
 }

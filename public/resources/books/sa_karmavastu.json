@@ -50,7 +50,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "karmavastu"
+      "text": "karmavastu",
+      "segment_number": 1
     },
     {
       "tag": "p",
@@ -62,35 +63,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 199"
+          "text": "MSV II 199",
+          "segment_number": 3
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 4
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "karmavastuni"
+          "text": "karmavastuni",
+          "segment_number": 5
         },
         {
           "tag": "text",
-          "text": "("
+          "text": "(",
+          "segment_number": 6
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "285v1 = GBM 6.883"
+          "text": "285v1 = GBM 6.883",
+          "segment_number": 7
         },
         {
           "tag": "text",
-          "text": ") uddānam* //"
+          "text": ") uddānam* //",
+          "segment_number": 8
         }
-      ]
+      ],
+      "segment_number": 2
     },
     {
       "tag": "lg",
@@ -99,19 +107,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāśiṣu vāsavagrāmakaṃ senāñjayavastukam* /"
+          "text": "kāśiṣu vāsavagrāmakaṃ senāñjayavastukam* /",
+          "segment_number": 9
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "caṇpāyāṃ bhagavān buddhaḥ akarmāṇi pratikṣipet* //"
+          "text": "caṇpāyāṃ bhagavān buddhaḥ akarmāṇi pratikṣipet* //",
+          "segment_number": 10
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "kāśiṣu vāsavagrāmake senāṃjayo nāma bhikṣuḥ prativasati / tam āgamya vāsavagrāmakā brāhmaṇagṛhapatayo buddhadharmasaṃgheṣu kārān kurvanti / ye āgantukā bhikṣavo vāsavagrāmakam āgacchanti tān asau pratiśāmya sarvopakaraṇaiḥ pravārayitvā mārgaśrame prativinodite yeṣu kuleṣu piṇḍakā upanibaddhās teṣu bhoktuṃ preṣayati / yāvad anyatamaḥ sālohito vāsavagrāmake varṣā uṣitaḥ / trayāṇāṃ vārṣikāṇāṃ māsānām atyayāt kṛtacīvaro niṣṭhitacīvaraḥ samādāya pātracīvaraṃ yena śrāvastī tena cārikāṃ prakrānto 'nupūrveṇa cārikāṃ caran śrāvastīṃ anuprāptaḥ /"
+      "text": "kāśiṣu vāsavagrāmake senāṃjayo nāma bhikṣuḥ prativasati / tam āgamya vāsavagrāmakā brāhmaṇagṛhapatayo buddhadharmasaṃgheṣu kārān kurvanti / ye āgantukā bhikṣavo vāsavagrāmakam āgacchanti tān asau pratiśāmya sarvopakaraṇaiḥ pravārayitvā mārgaśrame prativinodite yeṣu kuleṣu piṇḍakā upanibaddhās teṣu bhoktuṃ preṣayati / yāvad anyatamaḥ sālohito vāsavagrāmake varṣā uṣitaḥ / trayāṇāṃ vārṣikāṇāṃ māsānām atyayāt kṛtacīvaro niṣṭhitacīvaraḥ samādāya pātracīvaraṃ yena śrāvastī tena cārikāṃ prakrānto 'nupūrveṇa cārikāṃ caran śrāvastīṃ anuprāptaḥ /",
+      "segment_number": 11
     },
     {
       "tag": "p",
@@ -123,13 +134,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 200"
+          "text": "MSV II 200",
+          "segment_number": 13
         },
         {
           "tag": "text",
-          "text": ") vighātaḥ / kīdṛśo vihāraḥ / kīdṛśo vighātaḥ / yatropakaraṇasaṃpat sa vihāraḥ / yatropakaraṇavaikalyaṃ sa vighātaḥ / yady evaṃ vihāro 'sau yatra senāṃjayo nāma bhikṣuḥ prativasati / tam āgamya vāsavagrāmīyakā brāhmaṇagṛhapatayo buddhadharmasaṃgheṣu kārān kurvanti / itaś ca tatrāgantuko bhikṣur āgacchati / tam asau pratiśāmya sarvopakaraṇaiḥ pravārayitvā mārgaśrame prativinodite yeṣu kuleṣu bhikṣūṇāṃ piṇḍakā upanibaddhās teṣu bhoktuṃ preṣayati /"
+          "text": ") vighātaḥ / kīdṛśo vihāraḥ / kīdṛśo vighātaḥ / yatropakaraṇasaṃpat sa vihāraḥ / yatropakaraṇavaikalyaṃ sa vighātaḥ / yady evaṃ vihāro 'sau yatra senāṃjayo nāma bhikṣuḥ prativasati / tam āgamya vāsavagrāmīyakā brāhmaṇagṛhapatayo buddhadharmasaṃgheṣu kārān kurvanti / itaś ca tatrāgantuko bhikṣur āgacchati / tam asau pratiśāmya sarvopakaraṇaiḥ pravārayitvā mārgaśrame prativinodite yeṣu kuleṣu bhikṣūṇāṃ piṇḍakā upanibaddhās teṣu bhoktuṃ preṣayati /",
+          "segment_number": 14
         }
-      ]
+      ],
+      "segment_number": 12
     },
     {
       "tag": "p",
@@ -141,67 +155,80 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "286r1 = GBM 6.884"
+          "text": "286r1 = GBM 6.884",
+          "segment_number": 16
         },
         {
           "tag": "text",
-          "text": ") preṣayiṣyatīti / ("
+          "text": ") preṣayiṣyatīti / (",
+          "segment_number": 17
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 201"
+          "text": "MSV II 201",
+          "segment_number": 18
         },
         {
           "tag": "text",
-          "text": ") yāvan navako bhikṣur āgataḥ / sa tena pratiśāmayitvā sarvopakaraṇaiḥ pravārito mārgaśrame prativinodite kulāni bhoktuṃ preṣitaḥ / ṣaḍvargikāḥ prakupitāḥ kathayanti / nandopananda kīdṛśo 'yaṃ"
+          "text": ") yāvan navako bhikṣur āgataḥ / sa tena pratiśāmayitvā sarvopakaraṇaiḥ pravārito mārgaśrame prativinodite kulāni bhoktuṃ preṣitaḥ / ṣaḍvargikāḥ prakupitāḥ kathayanti / nandopananda kīdṛśo 'yaṃ",
+          "segment_number": 19
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "mahallaḥ"
+          "text": "mahallaḥ",
+          "segment_number": 20
         },
         {
           "tag": "text",
-          "text": "chandadveṣī / yadi tāvat pūrvam āgatās te vayam* /"
+          "text": "chandadveṣī / yadi tāvat pūrvam āgatās te vayam* /",
+          "segment_number": 21
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yadi vṛddhās te vayam* /"
+          "text": "yadi vṛddhās te vayam* /",
+          "segment_number": 22
         },
         {
           "tag": "text",
-          "text": "atha bahuśrutās te vayam* / eṣa bhikṣur acireṇābhyāgato navakaḥ prakṛtijñaḥ / so 'nena sarvopakaraṇaiḥ pravārayitvā kulāni bhoktuṃ preṣito no tu vayam* / sa tair upālabdhaḥ / mahalla īdṛśas tvaṃ chandadveṣī / yadi tāvat pūrvam āgatās te vayaṃ pūrvavad yāvat* / sa tvayā sarvopakaraṇaiḥ pravārayitvā kulāni bhoktuṃ preṣito no tu vayam* / sthavirā kiṃcit parihīyate / ṣaḍvargikāḥ saṃjātāmarṣāḥ kathayanti / na tūṣṇīṃ sthātavyam* / tad aparaṃ prativadati / sa tair abhyāhataḥ / tūṣṇīm avasthitaḥ / tais tasyācodayitvāsmārayitvā vastukarmapratijñāyā balād utkṣepaṇīyaṃ karmaṃ kṛtam* / sa saṃlakṣayati / duḥkhaṃ brāhmaṇagṛhapatayaḥ prasādyante sukham aprasādyante / yadi sthāsyāmi vāsavagrāmīyakā brāhmaṇagṛhapatayaḥ prasādaṃ pravedayiṣyante / sarvadā prakramitavyam iti / sa samādāya pātracīvaraṃ yena śrāvastī yena cārikāṃ prakrānto 'nupūrveṇa cārikāṃ ("
+          "text": "atha bahuśrutās te vayam* / eṣa bhikṣur acireṇābhyāgato navakaḥ prakṛtijñaḥ / so 'nena sarvopakaraṇaiḥ pravārayitvā kulāni bhoktuṃ preṣito no tu vayam* / sa tair upālabdhaḥ / mahalla īdṛśas tvaṃ chandadveṣī / yadi tāvat pūrvam āgatās te vayaṃ pūrvavad yāvat* / sa tvayā sarvopakaraṇaiḥ pravārayitvā kulāni bhoktuṃ preṣito no tu vayam* / sthavirā kiṃcit parihīyate / ṣaḍvargikāḥ saṃjātāmarṣāḥ kathayanti / na tūṣṇīṃ sthātavyam* / tad aparaṃ prativadati / sa tair abhyāhataḥ / tūṣṇīm avasthitaḥ / tais tasyācodayitvāsmārayitvā vastukarmapratijñāyā balād utkṣepaṇīyaṃ karmaṃ kṛtam* / sa saṃlakṣayati / duḥkhaṃ brāhmaṇagṛhapatayaḥ prasādyante sukham aprasādyante / yadi sthāsyāmi vāsavagrāmīyakā brāhmaṇagṛhapatayaḥ prasādaṃ pravedayiṣyante / sarvadā prakramitavyam iti / sa samādāya pātracīvaraṃ yena śrāvastī yena cārikāṃ prakrānto 'nupūrveṇa cārikāṃ (",
+          "segment_number": 23
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 202"
+          "text": "MSV II 202",
+          "segment_number": 24
         },
         {
           "tag": "text",
-          "text": ") caran śrāvastīm anuprāptaḥ / sa bhikṣubhir dṛṣṭa uktaś ca / svāgataṃ svāgatam āyuṣman* / senāñjayin prītā vayaṃ tvaddarśanena no tv āgamanena / kiṃ kāraṇam* / tvām āgamya vāsavagrāmīyakā brāhmaṇagṛhapatayo buddhadharmasaṃgheṣu kārān kurvanti / āgantukānāṃ gamikānāṃ ca vāsavagrāmakaṃ pratiśaraṇam* / asty etad evam* / mama tu ṣaḍvargikair acodayitvāsmārayitvā vastukarmapratijñāyā balād utkṣepaṇīyaṃ karma kṛtam / kiṃ kāraṇam* / tena yathāvṛttam ākhyātam* / te 'vadhyāyantaḥ kṣipanto vivācayanta etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / tasmāt tarhi bhikṣavo vyagreṇa na bhikṣubhir acodayitvāsmārayitvā vastukarmapratijñayā balād utkṣepaṇīyaṃ karma kartavyam* / kurvanti / sātisārā bhavanti /"
+          "text": ") caran śrāvastīm anuprāptaḥ / sa bhikṣubhir dṛṣṭa uktaś ca / svāgataṃ svāgatam āyuṣman* / senāñjayin prītā vayaṃ tvaddarśanena no tv āgamanena / kiṃ kāraṇam* / tvām āgamya vāsavagrāmīyakā brāhmaṇagṛhapatayo buddhadharmasaṃgheṣu kārān kurvanti / āgantukānāṃ gamikānāṃ ca vāsavagrāmakaṃ pratiśaraṇam* / asty etad evam* / mama tu ṣaḍvargikair acodayitvāsmārayitvā vastukarmapratijñāyā balād utkṣepaṇīyaṃ karma kṛtam / kiṃ kāraṇam* / tena yathāvṛttam ākhyātam* / te 'vadhyāyantaḥ kṣipanto vivācayanta etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / tasmāt tarhi bhikṣavo vyagreṇa na bhikṣubhir acodayitvāsmārayitvā vastukarmapratijñayā balād utkṣepaṇīyaṃ karma kartavyam* / kurvanti / sātisārā bhavanti /",
+          "segment_number": 25
         }
-      ]
+      ],
+      "segment_number": 15
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "buddho bhagavān caṇpāyāṃ viharati gargāyāḥ puṣkariṇyās tīre / tena khalu samayena ṣaḍvargikā bhikṣava imāny evaṃrūpāṇy adharmakarmāṇi kurvanti / tadyathā adharmeṇa kurvanti vyagrāḥ / adharmeṇa kurvanti samagrāḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / tasmān na bhikṣubhir imāny evaṃrūpāṇy adharmakarmāṇi karaṇīyāni / tadyathā adharmeṇa vyagrair adharmeṇa samagraiḥ dharmeṇa vyagraiḥ / kurvanti / sātisārā bhavanti /"
+      "text": "buddho bhagavān caṇpāyāṃ viharati gargāyāḥ puṣkariṇyās tīre / tena khalu samayena ṣaḍvargikā bhikṣava imāny evaṃrūpāṇy adharmakarmāṇi kurvanti / tadyathā adharmeṇa kurvanti vyagrāḥ / adharmeṇa kurvanti samagrāḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / tasmān na bhikṣubhir imāny evaṃrūpāṇy adharmakarmāṇi karaṇīyāni / tadyathā adharmeṇa vyagrair adharmeṇa samagraiḥ dharmeṇa vyagraiḥ / kurvanti / sātisārā bhavanti /",
+      "segment_number": 26
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 27
     },
     {
       "tag": "p",
@@ -213,13 +240,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 29
         },
         {
           "tag": "text",
-          "text": "dvau na saṃbahulāḥ kṛtāḥ /\nna gaṇo gaṇasya karmāṇi paṃca saṃghakarmaṇāṃ svāminaḥ //"
+          "text": "dvau na saṃbahulāḥ kṛtāḥ /\nna gaṇo gaṇasya karmāṇi paṃca saṃghakarmaṇāṃ svāminaḥ //",
+          "segment_number": 30
         }
-      ]
+      ],
+      "segment_number": 28
     },
     {
       "tag": "note",
@@ -244,24 +274,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "286v1 = GBM 6.885"
+          "text": "286v1 = GBM 6.885",
+          "segment_number": 32
         },
         {
           "tag": "text",
-          "text": ") gaṇo gaṇasya / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / tasmān naikenaikasya karma kartavyam* / naikena dvayoḥ / naikena saṃbahulānām* /"
+          "text": ") gaṇo gaṇasya / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / tasmān naikenaikasya karma kartavyam* / naikena dvayoḥ / naikena saṃbahulānām* /",
+          "segment_number": 33
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 34
         },
         {
           "tag": "text",
-          "text": "dvābhyāṃ dvayoḥ / na dvābhyām ekasya / na dvābhyāṃ saṃbahulānām* / na saṃbahulaiḥ saṃbahulānām* / na saṃbahulair ekasya / na saṃbahulair dvayoḥ / na gaṇena gaṇasya / kurvanti / sātisāra bhavanti /"
+          "text": "dvābhyāṃ dvayoḥ / na dvābhyām ekasya / na dvābhyāṃ saṃbahulānām* / na saṃbahulaiḥ saṃbahulānām* / na saṃbahulair ekasya / na saṃbahulair dvayoḥ / na gaṇena gaṇasya / kurvanti / sātisāra bhavanti /",
+          "segment_number": 35
         }
-      ]
+      ],
+      "segment_number": 31
     },
     {
       "tag": "p",
@@ -273,44 +308,53 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃghaḥ"
+          "text": "saṃghaḥ",
+          "segment_number": 37
         },
         {
           "tag": "text",
-          "text": "/ viṃśatir bhikṣavaḥ saṃghaḥ uttare"
+          "text": "/ viṃśatir bhikṣavaḥ saṃghaḥ uttare",
+          "segment_number": 38
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ca /"
+          "text": "ca /",
+          "segment_number": 39
         },
         {
           "tag": "text",
-          "text": "paṃca saṃghāḥ /"
+          "text": "paṃca saṃghāḥ /",
+          "segment_number": 40
         }
-      ]
+      ],
+      "segment_number": 36
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "tatra bhikṣavo yatra catvāro bhikṣavaḥ prativasanti / arhati tatra saṃgho dharmeṇa sarvakarmāṇi kartum* / sthāpayitvā pāṃcānāṃ pravāraṇāṃ daśānām upasaṃpadaṃ viṃśatīnāṃ cāvarhaṇam* /"
+      "text": "tatra bhikṣavo yatra catvāro bhikṣavaḥ prativasanti / arhati tatra saṃgho dharmeṇa sarvakarmāṇi kartum* / sthāpayitvā pāṃcānāṃ pravāraṇāṃ daśānām upasaṃpadaṃ viṃśatīnāṃ cāvarhaṇam* /",
+      "segment_number": 41
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yatra paṃca prativasanti / arhati tatra saṃgho dharmeṇa sarvakarmāṇi kartum* / sthāpayitvā daśānām upasaṃpadaṃ viṃśatīnāṃ cāvarhaṇam* /"
+      "text": "yatra paṃca prativasanti / arhati tatra saṃgho dharmeṇa sarvakarmāṇi kartum* / sthāpayitvā daśānām upasaṃpadaṃ viṃśatīnāṃ cāvarhaṇam* /",
+      "segment_number": 42
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yatra daśa prativasanti / arhati tatra saṃghaḥ sarvakarmāṇi kartum* / sthāpayitvā viṃśatīnāṃ āvarhaṇam* /"
+      "text": "yatra daśa prativasanti / arhati tatra saṃghaḥ sarvakarmāṇi kartum* / sthāpayitvā viṃśatīnāṃ āvarhaṇam* /",
+      "segment_number": 43
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yatra viṃśatir bhikṣavaḥ prativasanti uttare ca / arhati tatra saṃgho dharmeṇa sarvakarmāṇi kartum* /"
+      "text": "yatra viṃśatir bhikṣavaḥ prativasanti uttare ca / arhati tatra saṃgho dharmeṇa sarvakarmāṇi kartum* /",
+      "segment_number": 44
     },
     {
       "tag": "note",
@@ -328,7 +372,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 45
     },
     {
       "tag": "lg",
@@ -337,12 +382,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "caturvargakaraṇīyaṃ pudgala ūnakaḥ kṛtaḥ /"
+          "text": "caturvargakaraṇīyaṃ pudgala ūnakaḥ kṛtaḥ /",
+          "segment_number": 46
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na pārivāsikacaturthena karmacatuṣṭayaṃ smṛtam* //"
+          "text": "na pārivāsikacaturthena karmacatuṣṭayaṃ smṛtam* //",
+          "segment_number": 47
         }
       ]
     },
@@ -356,13 +403,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na ca"
+          "text": "na ca",
+          "segment_number": 49
         },
         {
           "tag": "text",
-          "text": "tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /"
+          "text": "tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /",
+          "segment_number": 50
         }
-      ]
+      ],
+      "segment_number": 48
     },
     {
       "tag": "p",
@@ -374,24 +424,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 52
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ / caturvargakaraṇīyaṃ karma nāgārikacaturtho na śrāmaṇerakaḥ pūrvavad yāvan na pārivāsikacaturthāḥ kurvanti / dharmakarma ca tad vinayakarma ca / evaṃ ca tat karaṇīyam* / saṃghaś ca tena"
+          "text": "sātisāraḥ / caturvargakaraṇīyaṃ karma nāgārikacaturtho na śrāmaṇerakaḥ pūrvavad yāvan na pārivāsikacaturthāḥ kurvanti / dharmakarma ca tad vinayakarma ca / evaṃ ca tat karaṇīyam* / saṃghaś ca tena",
+          "segment_number": 53
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 54
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ /"
+          "text": "sātisāraḥ /",
+          "segment_number": 55
         }
-      ]
+      ],
+      "segment_number": 51
     },
     {
       "tag": "p",
@@ -403,13 +458,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 205"
+          "text": "MSV II 205",
+          "segment_number": 57
         },
         {
           "tag": "text",
-          "text": ") avinayakarma ca / na tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ / paṃcavargakaraṇīyaṃ karma āgārikapaṃcamaḥ pūrvavad yāvat pārivāsikapaṃcamāḥ kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /"
+          "text": ") avinayakarma ca / na tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ / paṃcavargakaraṇīyaṃ karma āgārikapaṃcamaḥ pūrvavad yāvat pārivāsikapaṃcamāḥ kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /",
+          "segment_number": 58
         }
-      ]
+      ],
+      "segment_number": 56
     },
     {
       "tag": "p",
@@ -421,40 +479,48 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 60
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ / paṃcavargakaraṇīyaṃ karma nāgārikapaṃcamā na śrāmaṇerakaḥ pūrvavad yāvan na pārivāsikapaṃcamā dharmeṇa kurvanti / ("
+          "text": "sātisāraḥ / paṃcavargakaraṇīyaṃ karma nāgārikapaṃcamā na śrāmaṇerakaḥ pūrvavad yāvan na pārivāsikapaṃcamā dharmeṇa kurvanti / (",
+          "segment_number": 61
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "287r1 = GBM 6.886"
+          "text": "287r1 = GBM 6.886",
+          "segment_number": 62
         },
         {
           "tag": "text",
-          "text": ") dharmakarma ca tad vinayakarma ca / evaṃ ca tat karaṇīyam* / saṃghaś ca tena"
+          "text": ") dharmakarma ca tad vinayakarma ca / evaṃ ca tat karaṇīyam* / saṃghaś ca tena",
+          "segment_number": 63
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 64
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ /"
+          "text": "sātisāraḥ /",
+          "segment_number": 65
         }
-      ]
+      ],
+      "segment_number": 59
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "daśavargakaraṇīyaṃ karma ūnā daśavargeṇa kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ / daśavargakaraṇīyaṃ karma āgārikadaśamāḥ pūrvavad yāvat pārivāsikadaśamā kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /"
+      "text": "daśavargakaraṇīyaṃ karma ūnā daśavargeṇa kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ / daśavargakaraṇīyaṃ karma āgārikadaśamāḥ pūrvavad yāvat pārivāsikadaśamā kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /",
+      "segment_number": 66
     },
     {
       "tag": "p",
@@ -466,24 +532,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 68
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ / daśavargakaraṇīyaṃ karma nāgārikadaśamāḥ pūrvavad yāvan na pārivāsikadaśamā dharmeṇa kurvanti / dharmakarma ca tad vinayakarma ca / evaṃ ca karaṇīyam* / saṃghaś ca tena"
+          "text": "sātisāraḥ / daśavargakaraṇīyaṃ karma nāgārikadaśamāḥ pūrvavad yāvan na pārivāsikadaśamā dharmeṇa kurvanti / dharmakarma ca tad vinayakarma ca / evaṃ ca karaṇīyam* / saṃghaś ca tena",
+          "segment_number": 69
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 70
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ /"
+          "text": "sātisāraḥ /",
+          "segment_number": 71
         }
-      ]
+      ],
+      "segment_number": 67
     },
     {
       "tag": "p",
@@ -495,13 +566,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 206"
+          "text": "MSV II 206",
+          "segment_number": 73
         },
         {
           "tag": "text",
-          "text": ") karma āgārikaviṃśatimāḥ śrāmaṇerakāḥ pūrvavat pārivāsikaviṃśatimāḥ kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /"
+          "text": ") karma āgārikaviṃśatimāḥ śrāmaṇerakāḥ pūrvavat pārivāsikaviṃśatimāḥ kurvanti / adharmakarma ca tad avinayakarma ca / na ca tat tathā karaṇīyam* / saṃghaś ca tena sātisāraḥ /",
+          "segment_number": 74
         }
-      ]
+      ],
+      "segment_number": 72
     },
     {
       "tag": "p",
@@ -513,29 +587,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 76
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ / viṃśativargakaraṇīyaṃ karma nāgārikaviṃśatimā na śrāmaṇerakāḥ pūrvavad yāvan na pārivāsikaviṃśatimā dharmeṇa kurvanti / dharmakarma tad vinayakarma ca / evaṃ ca tat karaṇīyam* / saṃghaś ca tena"
+          "text": "sātisāraḥ / viṃśativargakaraṇīyaṃ karma nāgārikaviṃśatimā na śrāmaṇerakāḥ pūrvavad yāvan na pārivāsikaviṃśatimā dharmeṇa kurvanti / dharmakarma tad vinayakarma ca / evaṃ ca tat karaṇīyam* / saṃghaś ca tena",
+          "segment_number": 77
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 78
         },
         {
           "tag": "text",
-          "text": "sātisāraḥ /"
+          "text": "sātisāraḥ /",
+          "segment_number": 79
         }
-      ]
+      ],
+      "segment_number": 75
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 80
     },
     {
       "tag": "lg",
@@ -544,12 +624,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dharmādharmeṇa yat karma yac ca jñaptitayā kṛtam* /"
+          "text": "dharmādharmeṇa yat karma yac ca jñaptitayā kṛtam* /",
+          "segment_number": 81
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "saṃmukhaṃ ca pratijñā ca cakrapeyāla saṅkalāt* //"
+          "text": "saṃmukhaṃ ca pratijñā ca cakrapeyāla saṅkalāt* //",
+          "segment_number": 82
         }
       ]
     },
@@ -563,84 +645,100 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "karma"
+          "text": "karma",
+          "segment_number": 84
         },
         {
           "tag": "text",
-          "text": "katamat* / aprāpte utsāraṇe aprāptam utsārayanti / yathāsyotsāryamāṇasyānuśrāvaṇaṃ bhavati / na tathotsārayanti / adharmakarma / dharmakarma katamat* / prāpte utsāraṇe prāptam utsārayanti / yathāsyotsāryamāṇasyānuśrāvaṇaṃ bhavati / tathotsārayanti / dharmakarma / aprāpte osāraṇe aprāptam osārayanti / yathāsya osāryamāṇasyānuśrāvaṇaṃ bhavati / na tathā osārayanti / adharmakarma / prāpte osāraṇe prāptam osārayanti / yathāsya osāryamāṇasyānuśrāvaṇaṃ bhavati / tathosārayanti / dharmakarma / jñaptikarma jñaptim akṛtvā kurvanti / adharmakarma / jñaptikarma jñaptiṃ kṛtvā kurvanti / ("
+          "text": "katamat* / aprāpte utsāraṇe aprāptam utsārayanti / yathāsyotsāryamāṇasyānuśrāvaṇaṃ bhavati / na tathotsārayanti / adharmakarma / dharmakarma katamat* / prāpte utsāraṇe prāptam utsārayanti / yathāsyotsāryamāṇasyānuśrāvaṇaṃ bhavati / tathotsārayanti / dharmakarma / aprāpte osāraṇe aprāptam osārayanti / yathāsya osāryamāṇasyānuśrāvaṇaṃ bhavati / na tathā osārayanti / adharmakarma / prāpte osāraṇe prāptam osārayanti / yathāsya osāryamāṇasyānuśrāvaṇaṃ bhavati / tathosārayanti / dharmakarma / jñaptikarma jñaptim akṛtvā kurvanti / adharmakarma / jñaptikarma jñaptiṃ kṛtvā kurvanti / (",
+          "segment_number": 85
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 207"
+          "text": "MSV II 207",
+          "segment_number": 86
         },
         {
           "tag": "text",
-          "text": ") dharmakarma / jñaptidvitīyaṃ karma / jñaptim akṛtvā ekaṃ vāram anuśrāvayanti / adharmakarma / jñaptidvitīyaṃ karma / jñaptiṃ kṛtvā ekaṃ vāram anuśrāvayanti / dharmakarma / jñapticaturthaṃ karma / jñaptim akṛtvā trīn vāram anuśrāvayanti / adharmakarma / jñapticaturthaṇ karma / jñaptiṃ kṛtvā trīn vārān anuśrāvayanti / dharmakarma / anyena karmaṇā jñaptiṃ kṛtvā niṣṭhāpayanti / adharmakarma / tenaiva karmaṇā jñaptiṃ kṛtvā niṣṭhāpayanti / dharmakarma / saṃmukhakaraṇīyaṃ karmāsaṃmukhībhūtasya kurvanti / adharmakarma / saṃmukhakaraṇīyaṃ karma saṃmukhībhūtasya kurvanti / dharmakarmā /"
+          "text": ") dharmakarma / jñaptidvitīyaṃ karma / jñaptim akṛtvā ekaṃ vāram anuśrāvayanti / adharmakarma / jñaptidvitīyaṃ karma / jñaptiṃ kṛtvā ekaṃ vāram anuśrāvayanti / dharmakarma / jñapticaturthaṃ karma / jñaptim akṛtvā trīn vāram anuśrāvayanti / adharmakarma / jñapticaturthaṇ karma / jñaptiṃ kṛtvā trīn vārān anuśrāvayanti / dharmakarma / anyena karmaṇā jñaptiṃ kṛtvā niṣṭhāpayanti / adharmakarma / tenaiva karmaṇā jñaptiṃ kṛtvā niṣṭhāpayanti / dharmakarma / saṃmukhakaraṇīyaṃ karmāsaṃmukhībhūtasya kurvanti / adharmakarma / saṃmukhakaraṇīyaṃ karma saṃmukhībhūtasya kurvanti / dharmakarmā /",
+          "segment_number": 87
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pratijñākaraṇīyaṃ karma apratijñayā kurvanti / adharmakarma /"
+          "text": "pratijñākaraṇīyaṃ karma apratijñayā kurvanti / adharmakarma /",
+          "segment_number": 88
         },
         {
           "tag": "text",
-          "text": "pratijñākaraṇīyaṃ karma pratijñayā kurvanti ("
+          "text": "pratijñākaraṇīyaṃ karma pratijñayā kurvanti (",
+          "segment_number": 89
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "287v1 = GBM 6.887"
+          "text": "287v1 = GBM 6.887",
+          "segment_number": 90
         },
         {
           "tag": "text",
-          "text": ") / dharmakarma / saṃmukhavinayārhāya smṛtivinayaṃ dadāti / adharmakarma / amūḍhavinayaṃ tatsvabhāvaiṣīyaṃ yadbhūyaiṣīyaṃ pratijñākārakaṃ tṛṇaprastārakaṃ tarjanīyaṃ nigarhaṇīyaṃ pratisaṃharaṇīyam adarśanīyotkṣepaṇayam apratikarmārhayotkṣepaṇīyam apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīyaṃ karma / parivāsaṃ mūlaparivāsaṃ mūlāpakarṣaparivāsaṃ mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyam āvarhanti / adharmakarma / saṃmukhavinayārhāya tu saṃmukhavinayam eva dadāti na smṛtivinayaṃ na yāvad āvarhanti / dharmakarma / smṛtivinayārhāya amūḍhavinayaṃ dadāti / adharmakarma / evaṃ yadbhūyaiṣīyaṃ pūrvavad yāvad āvarhanti saṃmukavinayaṃ dadāti / adharmakarma / smṛtivinayārhāya tu smṛtivinayam eva dadāti na tatsvabhāvaiṣīyaṃ na yāvat saṃmukhavinayam* / dharmakarma / amūḍhavinayārhāya ("
+          "text": ") / dharmakarma / saṃmukhavinayārhāya smṛtivinayaṃ dadāti / adharmakarma / amūḍhavinayaṃ tatsvabhāvaiṣīyaṃ yadbhūyaiṣīyaṃ pratijñākārakaṃ tṛṇaprastārakaṃ tarjanīyaṃ nigarhaṇīyaṃ pratisaṃharaṇīyam adarśanīyotkṣepaṇayam apratikarmārhayotkṣepaṇīyam apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīyaṃ karma / parivāsaṃ mūlaparivāsaṃ mūlāpakarṣaparivāsaṃ mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyam āvarhanti / adharmakarma / saṃmukhavinayārhāya tu saṃmukhavinayam eva dadāti na smṛtivinayaṃ na yāvad āvarhanti / dharmakarma / smṛtivinayārhāya amūḍhavinayaṃ dadāti / adharmakarma / evaṃ yadbhūyaiṣīyaṃ pūrvavad yāvad āvarhanti saṃmukavinayaṃ dadāti / adharmakarma / smṛtivinayārhāya tu smṛtivinayam eva dadāti na tatsvabhāvaiṣīyaṃ na yāvat saṃmukhavinayam* / dharmakarma / amūḍhavinayārhāya (",
+          "segment_number": 91
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 208"
+          "text": "MSV II 208",
+          "segment_number": 92
         },
         {
           "tag": "text",
-          "text": ") tatsvabhāvaiṣīyaṃ dadāti / adharmakarma / evaṃ yadbhūyaiṣīyaṃ yāvat saṃmukhavinayaṃ smṛtivinayaṃ dadāti / adharmakarma / amūḍhavinayārhāya tv amūḍhavinayam eva dadāti tatsvabhāvaiṣīyaṃ na yāvat saṃmukhavinayaṃ smṛtivinayaṃ / dharmakarma / tatsvabhāvaiṣīyārhāya yadbhūyaiṣīyaṃ dadāti adharmakarma / tarjanīyārhāya pūrvavad yāvad amūḍhavinayaṃ dadāti / adharmakarma / tatsvabhāvaiṣiyārhāya tu tatsvabhāvaiṣīyam eva dadāti na yadbhūyaiṣīyaṃ na yāvad amūḍhavinayam* / dharmakarma / yadbhūyaiṣīyārhāya tarjanīyaṃ karma kurvanti / adharmakarma / nigarhaṇīyārhāya pūrvavad yāvat tatsvabhāvaiṣīyam dadāti / adharmakarma / yadbhūyaiṣīyārhāya yadbhūyaiṣīyam eva dadāti na tarjanīyaṃ na yāvat tatsvabhāvaiṣīyam* / dharmakarma / tarjanīyakarmārhāya nigarhaṇīyaṃ karma kurvanti pratisaṃharaṇīyaṃ pūrvavad yāvad yadbhūyaiṣīyaṃ dadāti / adharmakarma / tarjanīyakarmārhāya tu tarjanīyam eva karma kurvanti na pariśiṣṭānīti / anayā vartanyā cakrapeyālaḥ pūrvavad yāvad dharmakarma / nigarhaṇīyārhāya pratisaṃharaṇīyaṃ karma kurvanti / adharmakarma / pūrvavat* / nigarhaṇīyakarmārhāya tu nigarhaṇīyakarmaiva kurvanti / dharmakarma pūrvavat* / pravāsanīyakarmārhāya pratisaṃharaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / pravāsanīyakarmārhāya tu pravāsanīyam eva karma kurvanti / dharmakarma pūrvavat* / pratisaṃharaṇīyakarmārhāyādarśanīyotkṣepaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / pratisaṃharaṇīyakarmārhāya tu pratisaṃharaṇīyam eva karma kurvanti / dharmakarma pūrvavat / adarśanīyotkṣepaṇīyakarmārhāyāpratikarmārhāyotkṣepaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / adarśanīyotkṣepaṇīyakarmārhāya tv adarśanīyotkṣepaṇīyam eva karma kurvanti / ("
+          "text": ") tatsvabhāvaiṣīyaṃ dadāti / adharmakarma / evaṃ yadbhūyaiṣīyaṃ yāvat saṃmukhavinayaṃ smṛtivinayaṃ dadāti / adharmakarma / amūḍhavinayārhāya tv amūḍhavinayam eva dadāti tatsvabhāvaiṣīyaṃ na yāvat saṃmukhavinayaṃ smṛtivinayaṃ / dharmakarma / tatsvabhāvaiṣīyārhāya yadbhūyaiṣīyaṃ dadāti adharmakarma / tarjanīyārhāya pūrvavad yāvad amūḍhavinayaṃ dadāti / adharmakarma / tatsvabhāvaiṣiyārhāya tu tatsvabhāvaiṣīyam eva dadāti na yadbhūyaiṣīyaṃ na yāvad amūḍhavinayam* / dharmakarma / yadbhūyaiṣīyārhāya tarjanīyaṃ karma kurvanti / adharmakarma / nigarhaṇīyārhāya pūrvavad yāvat tatsvabhāvaiṣīyam dadāti / adharmakarma / yadbhūyaiṣīyārhāya yadbhūyaiṣīyam eva dadāti na tarjanīyaṃ na yāvat tatsvabhāvaiṣīyam* / dharmakarma / tarjanīyakarmārhāya nigarhaṇīyaṃ karma kurvanti pratisaṃharaṇīyaṃ pūrvavad yāvad yadbhūyaiṣīyaṃ dadāti / adharmakarma / tarjanīyakarmārhāya tu tarjanīyam eva karma kurvanti na pariśiṣṭānīti / anayā vartanyā cakrapeyālaḥ pūrvavad yāvad dharmakarma / nigarhaṇīyārhāya pratisaṃharaṇīyaṃ karma kurvanti / adharmakarma / pūrvavat* / nigarhaṇīyakarmārhāya tu nigarhaṇīyakarmaiva kurvanti / dharmakarma pūrvavat* / pravāsanīyakarmārhāya pratisaṃharaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / pravāsanīyakarmārhāya tu pravāsanīyam eva karma kurvanti / dharmakarma pūrvavat* / pratisaṃharaṇīyakarmārhāyādarśanīyotkṣepaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / pratisaṃharaṇīyakarmārhāya tu pratisaṃharaṇīyam eva karma kurvanti / dharmakarma pūrvavat / adarśanīyotkṣepaṇīyakarmārhāyāpratikarmārhāyotkṣepaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / adarśanīyotkṣepaṇīyakarmārhāya tv adarśanīyotkṣepaṇīyam eva karma kurvanti / (",
+          "segment_number": 93
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 209"
+          "text": "MSV II 209",
+          "segment_number": 94
         },
         {
           "tag": "text",
-          "text": ") dharmakarma / pūrvavat* / apratikarmārhāyotkṣepaṇīyakarmārhāya parivāsaṃ dadāti / adharmakarma pūrvavat* / apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / apratikarmārhāyotkṣepaṇīyakarmārhāya tv apratikarmārhāyotkṣepaṇīyam eva karma ("
+          "text": ") dharmakarma / pūrvavat* / apratikarmārhāyotkṣepaṇīyakarmārhāya parivāsaṃ dadāti / adharmakarma pūrvavat* / apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīyaṃ karma kurvanti / adharmakarma pūrvavat* / apratikarmārhāyotkṣepaṇīyakarmārhāya tv apratikarmārhāyotkṣepaṇīyam eva karma (",
+          "segment_number": 95
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "288r1 = GBM 6.888"
+          "text": "288r1 = GBM 6.888",
+          "segment_number": 96
         },
         {
           "tag": "text",
-          "text": ") kurvanti / dharmakarma pūrvavat* / apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīykarmārhāya parivāsaṃ dadāti / adharmakarma pūrvavat* / apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīykarmārhāya tv apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīyaṃ karmaiva kurvanti / dharmakarma pūrvavat* / parivāsakarmārhāya mūlaparivāsaṃ dadāti / adharmakarma pūrvavat* / parivāsakarmārhāya tv aparivāsam eva tu dadāti / adharmakarma pūrvavat* / mūlaparivāsārhāya mūlaparivāsaṃ dadāti / adharmakarma pūrvavat* / mūlaparivāsārhāya tu mūlaparivāsam eva dadāti / dharmakarma pūrvavat* / aparyuṣitaparivāsāya mānāpyaṃ dadāti / adharmakarma pūrvavat* / aparyuṣitaparivāsāya mānāpyaṃ dadāti / adharmakarma pūrvavat* / paryuṣitaparivāsāya tu mānāpyaṃ dadāti / dharmakarma pūrvavat* / acaritamānāpyam āvarhanti / adharmakarma pūrvavat* / caritamānāpyam āvarhanti / dharmakarma pūrvavat* / āvarhaṇārhāya saṃmukhavinayaṃ dadāti / pūrvavad yāvan mānāpyaṃ dadāti / adharmakarma pūrvavat* / āvarhaṇārhāya tv āvarhaṇam eva kurvanti na saṃmukhavinayaṃ dadāti na yāvan mānāpyam* / dharmakarma pūrvavat* / evam eva navakena cakrapeyālaṃ vistareṇa boddhavyam* /"
+          "text": ") kurvanti / dharmakarma pūrvavat* / apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīykarmārhāya parivāsaṃ dadāti / adharmakarma pūrvavat* / apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīykarmārhāya tv apratinisṛṣṭe pāpake dṛṣṭigate utkṣepaṇīyaṃ karmaiva kurvanti / dharmakarma pūrvavat* / parivāsakarmārhāya mūlaparivāsaṃ dadāti / adharmakarma pūrvavat* / parivāsakarmārhāya tv aparivāsam eva tu dadāti / adharmakarma pūrvavat* / mūlaparivāsārhāya mūlaparivāsaṃ dadāti / adharmakarma pūrvavat* / mūlaparivāsārhāya tu mūlaparivāsam eva dadāti / dharmakarma pūrvavat* / aparyuṣitaparivāsāya mānāpyaṃ dadāti / adharmakarma pūrvavat* / aparyuṣitaparivāsāya mānāpyaṃ dadāti / adharmakarma pūrvavat* / paryuṣitaparivāsāya tu mānāpyaṃ dadāti / dharmakarma pūrvavat* / acaritamānāpyam āvarhanti / adharmakarma pūrvavat* / caritamānāpyam āvarhanti / dharmakarma pūrvavat* / āvarhaṇārhāya saṃmukhavinayaṃ dadāti / pūrvavad yāvan mānāpyaṃ dadāti / adharmakarma pūrvavat* / āvarhaṇārhāya tv āvarhaṇam eva kurvanti na saṃmukhavinayaṃ dadāti na yāvan mānāpyam* / dharmakarma pūrvavat* / evam eva navakena cakrapeyālaṃ vistareṇa boddhavyam* /",
+          "segment_number": 97
         }
-      ]
+      ],
+      "segment_number": 83
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 98
     },
     {
       "tag": "lg",
@@ -649,12 +747,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vyagraḥ samagrā rohanti dharmādharmeṇa votkṣipet* /"
+          "text": "vyagraḥ samagrā rohanti dharmādharmeṇa votkṣipet* /",
+          "segment_number": 99
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "osāraṇayā etāni karma vastusamudditam* //"
+          "text": "osāraṇayā etāni karma vastusamudditam* //",
+          "segment_number": 100
         }
       ]
     },
@@ -674,7 +774,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "vyagrakarma / samagrakarma / vyagrakarma katamat* / yāvanto bhikṣavaḥ sīmāprāptāḥ kriyāprāptās te sarve samavahitāḥ saṃmukhībhūtāś chandārhebhyaś ca cchandenānītā bhavanti / samavahitāś ca bhikṣavaḥ saṃmukhībhūtāḥ prativahanti pratikrośanti / yeṣāṃ prativahatāṃ pratikrośatāṃ pratikrośo rohati / karmāṇi ca kurvanti / idam ucyate vyagrakarma / samagrakarma katamat* / yāvanto bhikṣavaḥ sīmāprāptāḥ kriyāprāptās te sarve samavahitāḥ saṃmukhībhūtāś chandārhebhyaś ca cchandenānītā bhavanti / samavahitāś ca bhikṣavaḥ saṃmukhībhūtā na prativahanti na pratikrośanti / yeṣāṃ prativahatāṃ pratikrośatāṃ pratikrośo rohati / karmāṇi ca kurvanti / idam ucyate samagrakarma /"
+      "text": "vyagrakarma / samagrakarma / vyagrakarma katamat* / yāvanto bhikṣavaḥ sīmāprāptāḥ kriyāprāptās te sarve samavahitāḥ saṃmukhībhūtāś chandārhebhyaś ca cchandenānītā bhavanti / samavahitāś ca bhikṣavaḥ saṃmukhībhūtāḥ prativahanti pratikrośanti / yeṣāṃ prativahatāṃ pratikrośatāṃ pratikrośo rohati / karmāṇi ca kurvanti / idam ucyate vyagrakarma / samagrakarma katamat* / yāvanto bhikṣavaḥ sīmāprāptāḥ kriyāprāptās te sarve samavahitāḥ saṃmukhībhūtāś chandārhebhyaś ca cchandenānītā bhavanti / samavahitāś ca bhikṣavaḥ saṃmukhībhūtā na prativahanti na pratikrośanti / yeṣāṃ prativahatāṃ pratikrośatāṃ pratikrośo rohati / karmāṇi ca kurvanti / idam ucyate samagrakarma /",
+      "segment_number": 101
     },
     {
       "tag": "p",
@@ -686,40 +787,48 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "dharmeṇa samagrāḥ"
+          "text": "dharmeṇa samagrāḥ",
+          "segment_number": 103
         },
         {
           "tag": "text",
-          "text": "/ tatraikam utkṣepaṇakarma / yad idaṃ dharmeṇotkṣipanti samagrāḥ / kati bhadanta osāraṇakarmāṇi / catvāry ("
+          "text": "/ tatraikam utkṣepaṇakarma / yad idaṃ dharmeṇotkṣipanti samagrāḥ / kati bhadanta osāraṇakarmāṇi / catvāry (",
+          "segment_number": 104
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV II 211"
+          "text": "MSV II 211",
+          "segment_number": 105
         },
         {
           "tag": "text",
-          "text": ") upālin* / adharmeṇosārayanti vyagrāḥ / adharmeṇa samagrāḥ / dharmeṇa vyagrāḥ / dharmeṇa samagrāḥ / tatraikam osāraṇakarma ("
+          "text": ") upālin* / adharmeṇosārayanti vyagrāḥ / adharmeṇa samagrāḥ / dharmeṇa vyagrāḥ / dharmeṇa samagrāḥ / tatraikam osāraṇakarma (",
+          "segment_number": 106
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "288v1 = GBM 6.889"
+          "text": "288v1 = GBM 6.889",
+          "segment_number": 107
         },
         {
           "tag": "text",
-          "text": ") yad idaṃ dharmeṇa kurvanti samagrāḥ /"
+          "text": ") yad idaṃ dharmeṇa kurvanti samagrāḥ /",
+          "segment_number": 108
         }
-      ]
+      ],
+      "segment_number": 102
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "karmavastu samāptam* //"
+      "text": "karmavastu samāptam* //",
+      "segment_number": 109
     }
   ]
 }

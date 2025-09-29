@@ -48,22 +48,45 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 59"
+              "text": "Adhik-v 59",
+              "segment_number": 2
             },
             {
               "tag": "text",
-              "text": ") ḥadhikaraṇaśamathavastuniḥ ("
+              "text": ") ḥadhikaraṇaśamathavastuniḥ (",
+              "segment_number": 3
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 332a"
+              "text": "A 332a",
+              "segment_number": 4
             },
             {
               "tag": "text",
-              "text": ") uddānam"
+              "text": ") uddānam",
+              "segment_number": 5
+            }
+          ],
+          "segment_number": 1
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "kalaho vivādo 'dhikaraṇam kiṃmūlaṃ kuśalena ca /",
+              "segment_number": 6
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "syād vivādo anadhhikaraṇam vivādaṃ katibhiḥ śameta //",
+              "segment_number": 7
             }
           ]
         },
@@ -74,12 +97,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "kalaho vivādo 'dhikaraṇam kiṃmūlaṃ kuśalena ca /"
+              "text": "vivādaṃ saṃmukhaṃ śamayec chalākāgrahaṇena ca /",
+              "segment_number": 8
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "syād vivādo anadhhikaraṇam vivādaṃ katibhiḥ śameta //"
+              "text": "anavavādaṃ saṃmukhaṃ smṛtyā amūḍhavinayena ca //",
+              "segment_number": 9
             }
           ]
         },
@@ -90,35 +115,22 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "vivādaṃ saṃmukhaṃ śamayec chalākāgrahaṇena ca /"
+              "text": "tathaiva tatsvabhāvaiṣīyaṃ tṛṇaprastārakeṇa ca /",
+              "segment_number": 10
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "anavavādaṃ saṃmukhaṃ smṛtyā amūḍhavinayena ca //"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "tathaiva tatsvabhāvaiṣīyaṃ tṛṇaprastārakeṇa ca /"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "samagreṇa va saṃghena kṛtyādhikaraṇaṃ tathā //"
+              "text": "samagreṇa va saṃghena kṛtyādhikaraṇaṃ tathā //",
+              "segment_number": 11
             }
           ]
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "vyupaśamitavyam iti proktaṃ maharṣiṇā //"
+          "text": "vyupaśamitavyam iti proktaṃ maharṣiṇā //",
+          "segment_number": 12
         }
       ]
     },
@@ -129,7 +141,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The Buddha at Kapilavastu\nKing Śuddhodana listens to Buddha's sermons"
+          "text": "The Buddha at Kapilavastu\nKing Śuddhodana listens to Buddha's sermons",
+          "segment_number": 13
         },
         {
           "tag": "p",
@@ -141,13 +154,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 60"
+              "text": "Adhik-v 60",
+              "segment_number": 15
             },
             {
               "tag": "text",
-              "text": ") madhuramadhuraṃ dharmaṃ śṛṇoti āniñjyamānair indriyaiḥ; rājā śuddhodano mahatyā rājaṛddhyā mahatā rājānubhāvena śākyagaṇaparivṛto bhagavatsakāśam upasaṃkrānto dharmaśravaṇāya; sa dharmaṃ śrutvā prakrāntaḥ"
+              "text": ") madhuramadhuraṃ dharmaṃ śṛṇoti āniñjyamānair indriyaiḥ; rājā śuddhodano mahatyā rājaṛddhyā mahatā rājānubhāvena śākyagaṇaparivṛto bhagavatsakāśam upasaṃkrānto dharmaśravaṇāya; sa dharmaṃ śrutvā prakrāntaḥ",
+              "segment_number": 16
             }
-          ]
+          ],
+          "segment_number": 14
         }
       ]
     },
@@ -158,7 +174,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Buddha's doctrine is addressed also to women."
+          "text": "Buddha's doctrine is addressed also to women.",
+          "segment_number": 17
         }
       ]
     },
@@ -169,7 +186,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Queen Mahāprajāvatī asks king Śuddhodana to permit Śākya women to listen to the doctrine"
+          "text": "Queen Mahāprajāvatī asks king Śuddhodana to permit Śākya women to listen to the doctrine",
+          "segment_number": 18
         },
         {
           "tag": "p",
@@ -181,35 +199,42 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 332b"
+              "text": "A 332b",
+              "segment_number": 20
             },
             {
               "tag": "text",
-              "text": ") dharmaṃ śrotum; tad yadi deva ekaṃ vāraṃ vāraṃ gacched pūrvāhṇārambhe vayam apy aparāhṇe bhagavato 'ntikād dharmaṃ śṛṇuyāmaḥ; mahānāmā śākyaḥ saṃlakṣayati: gacchāmi, devaṃ prabodhayāmi iti; punaḥ saṃlakṣayati: duḥkhaṃ svadārāṇām arthāya devo vijñāpyate; mahāprajāvatī devasya bahumatā; tasyāḥ śrotavyaṃ yat kartavyaṃ manyate; tasyā etam arthaṃ nivedayāmi iti; sa yena mahāprajāvatī gautamī tenopasaṃkrāntaḥ; upasaṃkramya mahāprajāvatyā ("
+              "text": ") dharmaṃ śrotum; tad yadi deva ekaṃ vāraṃ vāraṃ gacched pūrvāhṇārambhe vayam apy aparāhṇe bhagavato 'ntikād dharmaṃ śṛṇuyāmaḥ; mahānāmā śākyaḥ saṃlakṣayati: gacchāmi, devaṃ prabodhayāmi iti; punaḥ saṃlakṣayati: duḥkhaṃ svadārāṇām arthāya devo vijñāpyate; mahāprajāvatī devasya bahumatā; tasyāḥ śrotavyaṃ yat kartavyaṃ manyate; tasyā etam arthaṃ nivedayāmi iti; sa yena mahāprajāvatī gautamī tenopasaṃkrāntaḥ; upasaṃkramya mahāprajāvatyā (",
+              "segment_number": 21
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 61"
+              "text": "Adhik-v 61",
+              "segment_number": 22
             },
             {
               "tag": "text",
-              "text": ") gautamyā etam arthaṃ nivedayitavān; sā kathayati: evaṃ bhavatu, devaṃ prabodhayāmi iti; tato mahānamnā gṛhapatinā gṛhaṃ gatvā śākyāyanīnām ārocitam; tataḥ tāḥ śākyāyinyāḥ anyāś ca yena mahāprajāvatī gautamī tenopasaṃkrāntāḥ; upasaṃkramya mahāprajāvatīṃ gautamīm idam avocan: yat khalu gautami jānīyāḥ, śrutam asmābhir bhagavān anekaśatāyāḥ parṣadaḥ purastān madhuramadhuraṃ dharmaṃ deśayati kṣaudram madhv ivāneḍakam, anekaśatā ca parṣad bhagavataḥ sakāśān madhuramadhuraṃ dharmaṃ śṛṇoti āniñjyamānair indriyaiḥ iti; tad icchāmo vayam api bhagavato 'ntikād dharmaṃ śrotum; asmākam arthaṃ devaṃ vijñāpaya yathā devaḥ pūrvāhṇe bhagavatsakāśam upasaṃkrāmati vayam apy aparāhṇe; sā kathayati: bhaginyaḥ, śobhanaṃ yuṣmābhiś cittam utpāditam, tiṣṭhata muhūrtam yāvad rājānaṃ śuddhodanam avalokayāmi iti;\natha mahāprajāvatī gautamī yena rājā śuddhodanas tenopasaṃkrāntā; upasaṃkramya rājānaṃ śuddhodanam idam avocat; yat khalu deva jānīyāḥ, śrutaṃ mayā bhagavān anekaśatāyāḥ parṣadaḥ purastān niṣaṇṇo madhuramadhuraṃ dharmaṃ deśayati kṣaudraṃ madhv ivāneḍakam; anekaśatā ca parṣad bhagavato 'ntikād dharmaṃ śṛṇoti āniñjyamānair indriyair iti; śākyānikābhir apy evaṃ śrutam, ākāṃkṣanti dharmaṃ śrotum; tad arhasi deva pūrvāhṇe bhagavatsakāśam upasaṃkramitum; aham api śākyānikā ādāya bhagavatsakāśam aparāhṇe upasaṃkramiṣyāmi; yat kāraṇam? tāḥ pūrvāhṇe gṛhavyāpāravyāpṛtāḥ na labhante ḥ'vakāśaṃḥ bhagavatsakāśam upasaṃkramitum iti; ācaritaṃ rājñaḥ śuddhodanasya yadā mahāprajāvatī gautamī ājñāṃ dadāti uddaṇḍaśarīro 'vatiṣṭhate, tāvac ca rājā ḥnaḥ niṣīdati yāvan mahāprajāvatyā ājñādānam anuṣṭhitaṃ bhavati iti; sa praṇataśirā kathayati; gautani, enaṃ bhavatu iti("
+              "text": ") gautamyā etam arthaṃ nivedayitavān; sā kathayati: evaṃ bhavatu, devaṃ prabodhayāmi iti; tato mahānamnā gṛhapatinā gṛhaṃ gatvā śākyāyanīnām ārocitam; tataḥ tāḥ śākyāyinyāḥ anyāś ca yena mahāprajāvatī gautamī tenopasaṃkrāntāḥ; upasaṃkramya mahāprajāvatīṃ gautamīm idam avocan: yat khalu gautami jānīyāḥ, śrutam asmābhir bhagavān anekaśatāyāḥ parṣadaḥ purastān madhuramadhuraṃ dharmaṃ deśayati kṣaudram madhv ivāneḍakam, anekaśatā ca parṣad bhagavataḥ sakāśān madhuramadhuraṃ dharmaṃ śṛṇoti āniñjyamānair indriyaiḥ iti; tad icchāmo vayam api bhagavato 'ntikād dharmaṃ śrotum; asmākam arthaṃ devaṃ vijñāpaya yathā devaḥ pūrvāhṇe bhagavatsakāśam upasaṃkrāmati vayam apy aparāhṇe; sā kathayati: bhaginyaḥ, śobhanaṃ yuṣmābhiś cittam utpāditam, tiṣṭhata muhūrtam yāvad rājānaṃ śuddhodanam avalokayāmi iti;\natha mahāprajāvatī gautamī yena rājā śuddhodanas tenopasaṃkrāntā; upasaṃkramya rājānaṃ śuddhodanam idam avocat; yat khalu deva jānīyāḥ, śrutaṃ mayā bhagavān anekaśatāyāḥ parṣadaḥ purastān niṣaṇṇo madhuramadhuraṃ dharmaṃ deśayati kṣaudraṃ madhv ivāneḍakam; anekaśatā ca parṣad bhagavato 'ntikād dharmaṃ śṛṇoti āniñjyamānair indriyair iti; śākyānikābhir apy evaṃ śrutam, ākāṃkṣanti dharmaṃ śrotum; tad arhasi deva pūrvāhṇe bhagavatsakāśam upasaṃkramitum; aham api śākyānikā ādāya bhagavatsakāśam aparāhṇe upasaṃkramiṣyāmi; yat kāraṇam? tāḥ pūrvāhṇe gṛhavyāpāravyāpṛtāḥ na labhante ḥ'vakāśaṃḥ bhagavatsakāśam upasaṃkramitum iti; ācaritaṃ rājñaḥ śuddhodanasya yadā mahāprajāvatī gautamī ājñāṃ dadāti uddaṇḍaśarīro 'vatiṣṭhate, tāvac ca rājā ḥnaḥ niṣīdati yāvan mahāprajāvatyā ājñādānam anuṣṭhitaṃ bhavati iti; sa praṇataśirā kathayati; gautani, enaṃ bhavatu iti(",
+              "segment_number": 23
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 62"
+              "text": "Adhik-v 62",
+              "segment_number": 24
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 25
             }
-          ]
+          ],
+          "segment_number": 19
         }
       ]
     },
@@ -220,7 +245,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Instances of female vanity and the story ot the maid-servant Rohikā"
+          "text": "Instances of female vanity and the story ot the maid-servant Rohikā",
+          "segment_number": 26
         },
         {
           "tag": "p",
@@ -232,22 +258,51 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 333a"
+              "text": "A 333a",
+              "segment_number": 28
             },
             {
               "tag": "text",
-              "text": ") sarva eva vītarāgāḥ iti; sā evam uktā lajjāparigatahṛdayā avāṅmukhī ekānte 'pakramya tam alaṃkāram apanīya cintāparā vyavasthitā; tasyā rohakā nāma preṣyadārikā; tasyā sārdham āgatā dharmaśravaṇārthinī; sā tayāhūya uktā: gaccha rohike idam alaṃkāraṃ sthāpayitvā āgaccha iti; sā tvaritagatipracāratayā gṛhe sthāpayitvā āgatā; tato mahāprajāvatī gautamī pañcaśataparivārā bhagavataḥ pādau śirasā vanditvā ekānte niṣaṇṇā; bhagavāṃś ca dharmaṃ deśayitum ārabdhaḥ; yāvad anyatarā śākyakumārikā tasmin dharme deśyamāne karṇāvasaktaṃ muktāhāraṃ muhur ḥmuhuḥḥ prekṣate, pāninā ca parāmṛśati; tato bhagavān anityatāpratisaṃyuktaṃ dharmaṃ deśayitum ārabdhaḥ; tathāpi sā nāvatiṣṭhate, prekṣate eva muktāhāram; adrākṣīn mahānāmno 'gramahiṣī tāṃ śākyakumārikāṃ karṇāvasaktaṃ muktāhāre muhur muhuḥ prekṣamāṇām; dṛṣṭvā ca punar asyā etad abhavat: kim iyaṃ tapasvinī evam anityeṣu saṃskāreṣu deśyamāneṣu muktāhāre 'tyarthaṃ adhyavasitā muhur muhuḥ prekṣate; yadi madīyaṃ muktāhāraṃ paśyet sarvamadā asyā vigaccheyuḥ iti viditvā preṣyadārikāṃ rohikām āmantrayate: gaccha madīyaṃ muktāhāraṃ śīghram ānaya iti; tasyā dharmaśravaṇāvarjitamanasāyā etad abhavat: hā kaṣṭam mamedṛśe dharme deśyamāne svāminyā ājñā dattā: dharmāntarāyo jātaḥ, sarvathā kaṣṭo dāsabhāvaḥ iti viditvā duḥkhadaurmanasyāhatā: gathāṃ ca bhāṣate:\n  dhig dāsabhāva bahuduḥkhaparasvadhīnaṃ\n  dhig jīvitaṃ mama purākṛtakarmalabdham /("
+              "text": ") sarva eva vītarāgāḥ iti; sā evam uktā lajjāparigatahṛdayā avāṅmukhī ekānte 'pakramya tam alaṃkāram apanīya cintāparā vyavasthitā; tasyā rohakā nāma preṣyadārikā; tasyā sārdham āgatā dharmaśravaṇārthinī; sā tayāhūya uktā: gaccha rohike idam alaṃkāraṃ sthāpayitvā āgaccha iti; sā tvaritagatipracāratayā gṛhe sthāpayitvā āgatā; tato mahāprajāvatī gautamī pañcaśataparivārā bhagavataḥ pādau śirasā vanditvā ekānte niṣaṇṇā; bhagavāṃś ca dharmaṃ deśayitum ārabdhaḥ; yāvad anyatarā śākyakumārikā tasmin dharme deśyamāne karṇāvasaktaṃ muktāhāraṃ muhur ḥmuhuḥḥ prekṣate, pāninā ca parāmṛśati; tato bhagavān anityatāpratisaṃyuktaṃ dharmaṃ deśayitum ārabdhaḥ; tathāpi sā nāvatiṣṭhate, prekṣate eva muktāhāram; adrākṣīn mahānāmno 'gramahiṣī tāṃ śākyakumārikāṃ karṇāvasaktaṃ muktāhāre muhur muhuḥ prekṣamāṇām; dṛṣṭvā ca punar asyā etad abhavat: kim iyaṃ tapasvinī evam anityeṣu saṃskāreṣu deśyamāneṣu muktāhāre 'tyarthaṃ adhyavasitā muhur muhuḥ prekṣate; yadi madīyaṃ muktāhāraṃ paśyet sarvamadā asyā vigaccheyuḥ iti viditvā preṣyadārikāṃ rohikām āmantrayate: gaccha madīyaṃ muktāhāraṃ śīghram ānaya iti; tasyā dharmaśravaṇāvarjitamanasāyā etad abhavat: hā kaṣṭam mamedṛśe dharme deśyamāne svāminyā ājñā dattā: dharmāntarāyo jātaḥ, sarvathā kaṣṭo dāsabhāvaḥ iti viditvā duḥkhadaurmanasyāhatā: gathāṃ ca bhāṣate:\n  dhig dāsabhāva bahuduḥkhaparasvadhīnaṃ\n  dhig jīvitaṃ mama purākṛtakarmalabdham /(",
+              "segment_number": 29
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 63"
+              "text": "Adhik-v 63",
+              "segment_number": 30
             },
             {
               "tag": "text",
-              "text": ")\n  draṣṭuṃ hi yā jinamukhaṃ na labhe 'dya pādaṃ\n  śrotuṃ ca dharmam amalam sugatasya tasya //"
+              "text": ")\n  draṣṭuṃ hi yā jinamukhaṃ na labhe 'dya pādaṃ\n  śrotuṃ ca dharmam amalam sugatasya tasya //",
+              "segment_number": 31
+            }
+          ],
+          "segment_number": 27
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "iti; atha bhagavata etad abhavat: iyaṃ rohikā dārikā pūrvabuddheṣu kṛtādhikārikā kiṃ tv alpāyuskā; uddhartavyā iyaṃ saṃsāracārakād iti viditvā ṛddhyā gāthaṃ bhūrjapatre ālikhya dattavān",
+              "segment_number": 32
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "utpannasya vināśaṃ hi jñātvā kālyāṇi janmani /",
+              "segment_number": 33
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yatnam āsthāya kalyāṇaṃ śrotavyaṃ mama bhāṣitam //",
+              "segment_number": 34
             }
           ]
         },
@@ -258,45 +313,28 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "iti; atha bhagavata etad abhavat: iyaṃ rohikā dārikā pūrvabuddheṣu kṛtādhikārikā kiṃ tv alpāyuskā; uddhartavyā iyaṃ saṃsāracārakād iti viditvā ṛddhyā gāthaṃ bhūrjapatre ālikhya dattavān"
+              "text": "iti; atha rohikā dārikā hṛṣṭā tuṣṭā prītisaumanasyajātā gāthāṃ bhāṣate; buddhālambanenaiva cetasā saṃprasthitā",
+              "segment_number": 35
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "utpannasya vināśaṃ hi jñātvā kālyāṇi janmani /"
+              "text": "na praṇaśyanti karmāṇy api kalpaśatair api /",
+              "segment_number": 36
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yatnam āsthāya kalyāṇaṃ śrotavyaṃ mama bhāṣitam //"
-            }
-          ]
-        },
-        {
-          "tag": "lg",
-          "attributes": {},
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "iti; atha rohikā dārikā hṛṣṭā tuṣṭā prītisaumanasyajātā gāthāṃ bhāṣate; buddhālambanenaiva cetasā saṃprasthitā"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "na praṇaśyanti karmāṇy api kalpaśatair api /"
-            },
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "sāmagrīṃ prāpya kālaṃ ca phalanti khalu dehinām //"
+              "text": "sāmagrīṃ prāpya kālaṃ ca phalanti khalu dehinām //",
+              "segment_number": 37
             }
           ]
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti; alpāyuṣkāyāḥ karmaṇaḥ sāmagrī prāptā; gavā taruṇavatsayā jīvitād vyaparopitā; sā bhagavato 'ntike cittam abhiprasādya kālagatā"
+          "text": "iti; alpāyuṣkāyāḥ karmaṇaḥ sāmagrī prāptā; gavā taruṇavatsayā jīvitād vyaparopitā; sā bhagavato 'ntike cittam abhiprasādya kālagatā",
+          "segment_number": 38
         }
       ]
     },
@@ -307,7 +345,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The story of Muktikā, the daughter of King of Siṃhala, and the portrait of the Buddha"
+          "text": "The story of Muktikā, the daughter of King of Siṃhala, and the portrait of the Buddha",
+          "segment_number": 39
         },
         {
           "tag": "p",
@@ -319,44 +358,52 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 333b"
+              "text": "A 333b",
+              "segment_number": 41
             },
             {
               "tag": "text",
-              "text": ") āhārair hārārdhahāravibhūṣitagātrī apsarā iva nandanavanavicāriṇī mañcān mañcaṃ pīṭhāt pīṭham anavatarantī adharāṃ bhūmiṃ, na cāsyā kiṃcid amanojñāṃ śabdaśravaṇam yāvad eva garbhasya paripākāya; sā aṣṭānāṃ vā navānāṃ vā māsānām atyayāt prasūtā; dārakā jātā abhirūpā darśanīyā prāsādikā; yam api divasaṃ jātā tam api divasaṃ muktāvarṣaṃ patitam; rājā saṃlakṣayati: yadi dārakāyā anubhāvān muktāvarṣaṃ nipatitam asyā eva muktā bhavantu iti; tena tasyā ("
+              "text": ") āhārair hārārdhahāravibhūṣitagātrī apsarā iva nandanavanavicāriṇī mañcān mañcaṃ pīṭhāt pīṭham anavatarantī adharāṃ bhūmiṃ, na cāsyā kiṃcid amanojñāṃ śabdaśravaṇam yāvad eva garbhasya paripākāya; sā aṣṭānāṃ vā navānāṃ vā māsānām atyayāt prasūtā; dārakā jātā abhirūpā darśanīyā prāsādikā; yam api divasaṃ jātā tam api divasaṃ muktāvarṣaṃ patitam; rājā saṃlakṣayati: yadi dārakāyā anubhāvān muktāvarṣaṃ nipatitam asyā eva muktā bhavantu iti; tena tasyā (",
+              "segment_number": 42
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 64"
+              "text": "Adhik-v 64",
+              "segment_number": 43
             },
             {
               "tag": "text",
-              "text": ") eva pratipāditāḥ; tataḥ trīṇi saptakāny ekaviṃśatidivasān vistareṇa jātimahaṃ kṛtvā nāmadheyṃ vyavasthāpyate: kiṃ bhavatu dārikāyā nāma iti; amātyā kathayanti: yasmād asyāḥ puṇyānubhāvena muktāvarṣaṃ patitaṃ tasmād bhavatu dārikāyā muktā iti nāma iti; tasyā muktā iti nāmadheyaṃ vyavasthāpitam; muktā dārikā aṣṭābhyo dhātrībhyo dattā, dvābhyam aṃsadhātrībhyām, dvābhyaṃ kṣīradhātrībhyām, dvābhyāṃ maladhātrībhyām, dvābhyāṃ krīḍanikādhātrībhyam; sā aṣṭābhir dhātrībhir unnīyate vardhyate kṣireṇa dadhnā navanītena sarpiṣā sarpirmaṇḍena anyaiś cottaptottaptair upakaraṇaviśeṣair āśu vardhate hradastham iva paṅkajam; yasā mahatī saṃvṛttā tadā svakulavaṃśānurūpeṇācāravihāreṇa sāntarjanasya rājñaḥ atyarthaṃ bahumatā saṃvṛttā; yāvad apareṇa samayena śrāvasteyā vaṇijaḥ sāmudraṃ yānapātraṃ pratipādya mahāsamudram avatīrṇā dhanahārakāḥ; te saṃsiddhayānapātrā vāyuvaśāt siṃhaladvīpam anuprāptāḥ;\ntato bhāṇḍaṃ pratiśāmya rājakulasya nātidūre āvasitāḥ; te rātryāḥ pratyuṣasamaye udānān pārāyaṇān satyadṛśaḥ sthaviragāthāḥ sthavirīgāthāḥ śailagāthā munigāthā arthavargīyāṇi vistareṇa svādhyāyitum ārabdhāḥ; muktikayā bhavanāvasthayā vātāyanena śrutam; tatas tayā rājñe niveditam: deva, madhyadeśābhyāgatā vaṇijaḥ śobhanam gāyante iti; rājñā amātyānām ājñā dattā: bhavanta āhūyatāṃ gāyanakāḥ iti; te āhūyata; muktikā kathatati: gāyantu bhavantaḥ, śṛṇumaḥ kīdṛśaṃ madhyadeśe gāndharvam iti; te kathayanti: devi, na vayaṃ gāndharvikāḥ, vaṇijo vayaṃ śrāvasteyā vāyuvaśād ihāgatāḥ, asmābhi rātryāḥ pratyuṣasamaye budddhavacanaṃ paṭhitam iti; muktikayā buddha iti aśrutapūrvaṃ ghoṣaṃ śrutvā sarvaromakūpāny āhṛṣṭāni; sā kutūhalajātā pṛcchati: bhavantaḥ ko 'yaṃ buddho nāma iti; te vistareṇa buddhamāhātmyaṃ varṇayitum ārabdhāḥ: devi, śākyānaṃ kumāra utpannaḥ anuhimatpārśve ("
+              "text": ") eva pratipāditāḥ; tataḥ trīṇi saptakāny ekaviṃśatidivasān vistareṇa jātimahaṃ kṛtvā nāmadheyṃ vyavasthāpyate: kiṃ bhavatu dārikāyā nāma iti; amātyā kathayanti: yasmād asyāḥ puṇyānubhāvena muktāvarṣaṃ patitaṃ tasmād bhavatu dārikāyā muktā iti nāma iti; tasyā muktā iti nāmadheyaṃ vyavasthāpitam; muktā dārikā aṣṭābhyo dhātrībhyo dattā, dvābhyam aṃsadhātrībhyām, dvābhyaṃ kṣīradhātrībhyām, dvābhyāṃ maladhātrībhyām, dvābhyāṃ krīḍanikādhātrībhyam; sā aṣṭābhir dhātrībhir unnīyate vardhyate kṣireṇa dadhnā navanītena sarpiṣā sarpirmaṇḍena anyaiś cottaptottaptair upakaraṇaviśeṣair āśu vardhate hradastham iva paṅkajam; yasā mahatī saṃvṛttā tadā svakulavaṃśānurūpeṇācāravihāreṇa sāntarjanasya rājñaḥ atyarthaṃ bahumatā saṃvṛttā; yāvad apareṇa samayena śrāvasteyā vaṇijaḥ sāmudraṃ yānapātraṃ pratipādya mahāsamudram avatīrṇā dhanahārakāḥ; te saṃsiddhayānapātrā vāyuvaśāt siṃhaladvīpam anuprāptāḥ;\ntato bhāṇḍaṃ pratiśāmya rājakulasya nātidūre āvasitāḥ; te rātryāḥ pratyuṣasamaye udānān pārāyaṇān satyadṛśaḥ sthaviragāthāḥ sthavirīgāthāḥ śailagāthā munigāthā arthavargīyāṇi vistareṇa svādhyāyitum ārabdhāḥ; muktikayā bhavanāvasthayā vātāyanena śrutam; tatas tayā rājñe niveditam: deva, madhyadeśābhyāgatā vaṇijaḥ śobhanam gāyante iti; rājñā amātyānām ājñā dattā: bhavanta āhūyatāṃ gāyanakāḥ iti; te āhūyata; muktikā kathatati: gāyantu bhavantaḥ, śṛṇumaḥ kīdṛśaṃ madhyadeśe gāndharvam iti; te kathayanti: devi, na vayaṃ gāndharvikāḥ, vaṇijo vayaṃ śrāvasteyā vāyuvaśād ihāgatāḥ, asmābhi rātryāḥ pratyuṣasamaye budddhavacanaṃ paṭhitam iti; muktikayā buddha iti aśrutapūrvaṃ ghoṣaṃ śrutvā sarvaromakūpāny āhṛṣṭāni; sā kutūhalajātā pṛcchati: bhavantaḥ ko 'yaṃ buddho nāma iti; te vistareṇa buddhamāhātmyaṃ varṇayitum ārabdhāḥ: devi, śākyānaṃ kumāra utpannaḥ anuhimatpārśve (",
+              "segment_number": 44
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 65"
+              "text": "Adhik-v 65",
+              "segment_number": 45
             },
             {
               "tag": "text",
-              "text": ") nadyā bhagīrathyās tīre kapilasya ṛṣer āśramapadasya nātidūre; sa brāhmaṇair naimittikair vipañcanakair vyākṛtaḥ, saced gṛhī āgāram adhyāvatsyati rājā bhaviṣyati cakravartī cāturantāṃ vijetā dharmiko dharmarājā saptaratnasamanvāgataḥ; tasya imāny evaṃrūpāṇi saptaratnāni bhaviṣyanti tadyathā cakraratnaṃ hastiratnaṃ ("
+              "text": ") nadyā bhagīrathyās tīre kapilasya ṛṣer āśramapadasya nātidūre; sa brāhmaṇair naimittikair vipañcanakair vyākṛtaḥ, saced gṛhī āgāram adhyāvatsyati rājā bhaviṣyati cakravartī cāturantāṃ vijetā dharmiko dharmarājā saptaratnasamanvāgataḥ; tasya imāny evaṃrūpāṇi saptaratnāni bhaviṣyanti tadyathā cakraratnaṃ hastiratnaṃ (",
+              "segment_number": 46
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 334a"
+              "text": "A 334a",
+              "segment_number": 47
             },
             {
               "tag": "text",
-              "text": ") aśvaratnaṃ maṇiratnaṃ strīratnaṃ ḥgṛhapatiratnaṃḥ pariṇāyakaratnam eva saptamam; pūrṇaṃ cāsya bhaviṣyati sahasraṃ putrāṇāṃ śūrāṇāṃ vīrāṇāṃ varāṅgarūpiṇāṃ parasainyapramardakānām; sa imām eva samudraparyantāṃ mahāpṛthivīm akhilām akaṇṭakām anutpātām adaṇḍenāśastreṇa dharmeṇa samenābhinirjityādhyāvatsyati; sacet keśaśmaśrū avatārya kāṣāyāṇi vastrāṇy ācchādya samyag eva śraddhayā agārād anagārikāṃ pravrajiṣyati tathāgato bhaviṣyaty arhan samyaksaṃbuddho vighuṣṭaśabdo loke; sa eva buddho nāma iti; muktikā kathayati: yadā yuṣmākaṃ gamanadeśakālas tadā mama nivedayiṣyatha; te kathayanti: evaṃ devi bhavatu, nivedayiṣyāmaḥ; yāvat teṣāṃ gamanadeśakālaḥ pratyupasthitaḥ; tair muktikāyā\nniveditam; tayā bhagavati lekho likhitaḥ:"
+              "text": ") aśvaratnaṃ maṇiratnaṃ strīratnaṃ ḥgṛhapatiratnaṃḥ pariṇāyakaratnam eva saptamam; pūrṇaṃ cāsya bhaviṣyati sahasraṃ putrāṇāṃ śūrāṇāṃ vīrāṇāṃ varāṅgarūpiṇāṃ parasainyapramardakānām; sa imām eva samudraparyantāṃ mahāpṛthivīm akhilām akaṇṭakām anutpātām adaṇḍenāśastreṇa dharmeṇa samenābhinirjityādhyāvatsyati; sacet keśaśmaśrū avatārya kāṣāyāṇi vastrāṇy ācchādya samyag eva śraddhayā agārād anagārikāṃ pravrajiṣyati tathāgato bhaviṣyaty arhan samyaksaṃbuddho vighuṣṭaśabdo loke; sa eva buddho nāma iti; muktikā kathayati: yadā yuṣmākaṃ gamanadeśakālas tadā mama nivedayiṣyatha; te kathayanti: evaṃ devi bhavatu, nivedayiṣyāmaḥ; yāvat teṣāṃ gamanadeśakālaḥ pratyupasthitaḥ; tair muktikāyā\nniveditam; tayā bhagavati lekho likhitaḥ:",
+              "segment_number": 48
             },
             {
               "tag": "lg",
@@ -365,26 +412,31 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "asuradevamanuṣyanamaḥkṛta"
+                  "text": "asuradevamanuṣyanamaḥkṛta",
+                  "segment_number": 49
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "jananarogabhayād abhiniḥsṛta /"
+                  "text": "jananarogabhayād abhiniḥsṛta /",
+                  "segment_number": 50
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "vipulakīrtiyaśaḥprasṛta prabho"
+                  "text": "vipulakīrtiyaśaḥprasṛta prabho",
+                  "segment_number": 51
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "amṛtabhāgam rṣe atulaṃ dada //"
+                  "text": "amṛtabhāgam rṣe atulaṃ dada //",
+                  "segment_number": 52
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 40
         },
         {
           "tag": "p",
@@ -396,11 +448,13 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 66"
+              "text": "Adhik-v 66",
+              "segment_number": 54
             },
             {
               "tag": "text",
-              "text": ") buddhapratimāṃ likhitum; na śaknuvanti bhagavataś citrakarā anekapuṇyaśatanirjātaṃ tathāgatapratibimbakam abhinirvartitum; bhagavān āha: upanāmayata pāṭam, prabhām utsṛjāmi iti; taiḥ paṭa upanāmitaḥ, bhagavatā prabhā utsṛṣṭā; citrakarair nānāraṅgaiḥ pūritā; tato bhagavatā pratimāyā adhastāt trīṇi śaraṇagamanāni pañca śikṣāpadāni dvādaśāṅgaḥ pratītyasamutpādaḥ amulomapratilomaḥ āryāṣṭāṅgaś ca mārgo likhitaḥ, upariṣṭād dve gāthe"
+              "text": ") buddhapratimāṃ likhitum; na śaknuvanti bhagavataś citrakarā anekapuṇyaśatanirjātaṃ tathāgatapratibimbakam abhinirvartitum; bhagavān āha: upanāmayata pāṭam, prabhām utsṛjāmi iti; taiḥ paṭa upanāmitaḥ, bhagavatā prabhā utsṛṣṭā; citrakarair nānāraṅgaiḥ pūritā; tato bhagavatā pratimāyā adhastāt trīṇi śaraṇagamanāni pañca śikṣāpadāni dvādaśāṅgaḥ pratītyasamutpādaḥ amulomapratilomaḥ āryāṣṭāṅgaś ca mārgo likhitaḥ, upariṣṭād dve gāthe",
+              "segment_number": 55
             },
             {
               "tag": "lg",
@@ -409,16 +463,19 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "ārabhadhvaṃ niṣkrāmata yujyadhvaṃ buddhaśāsane /"
+                  "text": "ārabhadhvaṃ niṣkrāmata yujyadhvaṃ buddhaśāsane /",
+                  "segment_number": 56
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "dhunīta mṛtyunaḥ sainyaṃ naḍāgāram iva kuñjaraḥ //"
+                  "text": "dhunīta mṛtyunaḥ sainyaṃ naḍāgāram iva kuñjaraḥ //",
+                  "segment_number": 57
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 53
         },
         {
           "tag": "lg",
@@ -427,12 +484,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "yo hy asmin dharmavinaye 'pramattaś cariṣyati /"
+              "text": "yo hy asmin dharmavinaye 'pramattaś cariṣyati /",
+              "segment_number": 58
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "prahāya jātisaṃsāraṃ duḥkhasyāntaṃ kariṣyati //"
+              "text": "prahāya jātisaṃsāraṃ duḥkhasyāntaṃ kariṣyati //",
+              "segment_number": 59
             }
           ]
         },
@@ -446,22 +505,26 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 334b"
+              "text": "A 334b",
+              "segment_number": 61
             },
             {
               "tag": "text",
-              "text": ") paṭa udghāṭayitavyaḥ; te ca vaṇijaḥ saṃdiṣṭāḥ; yadi muktikā pṛcchati kim idam iti vaktavyā ayaṃ tasya bhagavato rūpakāya iti; yadi pṛcchati; idam adhastāt kim idam iti vaktavyā: imāni trīṇi śaraṇagamanāni pañca śikṣāpadāni anulomapratilomaḥ pratītyasamutpādo jagataḥ pravṛttir ḥnivṛttiś caḥ; ayam asyādhigama āryāṣṭāṅgo mārgaḥ iti; yadi kathayati: idam upariṣṭāt kim idam iti vaktavyā: utsāhaya, śaraṇagamanaśikṣāpadāni gṛhītvā imam anulomapratilomaṃ dvādaśāṅgapratītyasamutpādaṃ vyavalokya vīryam ārabhate; sa amṛtādhigamaṃ mārgam avāpya sarvaduḥkhād vimucyate iti; evaṃ bhadanta iti te vaṇijo bhagavataḥ pratiśrutya bhagavato 'ntikāt prakrāntāḥ; tataḥ kṛtakutūhalamaṅgalasvastyayanāḥ siṃhaladvīpagamanīyaṃ paṇyam ādāya anupūrveṇa siṃhaladvīpam anuprāptāḥ; margaśramaṃ prativinodya rājñaḥ sakāśam ("
+              "text": ") paṭa udghāṭayitavyaḥ; te ca vaṇijaḥ saṃdiṣṭāḥ; yadi muktikā pṛcchati kim idam iti vaktavyā ayaṃ tasya bhagavato rūpakāya iti; yadi pṛcchati; idam adhastāt kim idam iti vaktavyā: imāni trīṇi śaraṇagamanāni pañca śikṣāpadāni anulomapratilomaḥ pratītyasamutpādo jagataḥ pravṛttir ḥnivṛttiś caḥ; ayam asyādhigama āryāṣṭāṅgo mārgaḥ iti; yadi kathayati: idam upariṣṭāt kim idam iti vaktavyā: utsāhaya, śaraṇagamanaśikṣāpadāni gṛhītvā imam anulomapratilomaṃ dvādaśāṅgapratītyasamutpādaṃ vyavalokya vīryam ārabhate; sa amṛtādhigamaṃ mārgam avāpya sarvaduḥkhād vimucyate iti; evaṃ bhadanta iti te vaṇijo bhagavataḥ pratiśrutya bhagavato 'ntikāt prakrāntāḥ; tataḥ kṛtakutūhalamaṅgalasvastyayanāḥ siṃhaladvīpagamanīyaṃ paṇyam ādāya anupūrveṇa siṃhaladvīpam anuprāptāḥ; margaśramaṃ prativinodya rājñaḥ sakāśam (",
+              "segment_number": 62
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 67"
+              "text": "Adhik-v 67",
+              "segment_number": 63
             },
             {
               "tag": "text",
-              "text": ") upasaṃkrāntāḥ; pādayor nipatya lekhaṃ samarpitavantaḥ; rājñā lekho vācitaḥ; vācayitvā tan nagaram apagatapāṣāṇaśarkarakaṭhallakaṃ vyavasthāpitaṃ candanavāripariṣiktaṃ ucchritadhvajapatākam āmuktapaṭṭadāmakalāpaṃ surabhidhūpaghaṭikopanibaddhaṃ nānāpuṣpāvakīrṇam; simhaladvīpanivāsī janakāyaḥ saṃnipatitaḥ; tato mahatā satkāreṇa nagaramadhye catūratnamayaṃ siṃhāsanaṃ prajñapya paṭa udghāṭitaḥ; mahājanakāyena namo buddhāya namo buddhāya ity uccair nādo muktaḥ; tato muktikā rājakumārī tīvraprasādāvarjitahṛdayā āhṛṣṭaromakūpā aśruparyākulekṣaṇā pādayor nipatya tān vaṇijaḥ pṛcchati;"
+              "text": ") upasaṃkrāntāḥ; pādayor nipatya lekhaṃ samarpitavantaḥ; rājñā lekho vācitaḥ; vācayitvā tan nagaram apagatapāṣāṇaśarkarakaṭhallakaṃ vyavasthāpitaṃ candanavāripariṣiktaṃ ucchritadhvajapatākam āmuktapaṭṭadāmakalāpaṃ surabhidhūpaghaṭikopanibaddhaṃ nānāpuṣpāvakīrṇam; simhaladvīpanivāsī janakāyaḥ saṃnipatitaḥ; tato mahatā satkāreṇa nagaramadhye catūratnamayaṃ siṃhāsanaṃ prajñapya paṭa udghāṭitaḥ; mahājanakāyena namo buddhāya namo buddhāya ity uccair nādo muktaḥ; tato muktikā rājakumārī tīvraprasādāvarjitahṛdayā āhṛṣṭaromakūpā aśruparyākulekṣaṇā pādayor nipatya tān vaṇijaḥ pṛcchati;",
+              "segment_number": 64
             },
             {
               "tag": "lg",
@@ -470,16 +533,19 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "bhavantaḥ kim idam? te ākhyātum ārabdhāḥ: idaṃ tasya bhagavato rūpakāyaḥ; idam adhastāt kim? trīṇi śaraṇagamanāni pañca śikṣāpadāni idam, anulomapratilomaḥ pratītyasamutpādo jagataḥ pravṛttiś ca nivṛttiś ca; ayam amṛtādhigama āryāṣṭāṅgo mārgaḥ; idam upariṣṭāt kim: abhyutsāhaya, śaraṇagamanaśikṣāpadāni gṛhītvā imam anulomapratilomaṃ dvādaśāṅgapratītyasamutpādaṃ vyavalokya vīryam ārabhate, sa amṛtādhigamaṃ mārgam avāpya sarvaduḥkhād vimucyate iti; tato muktikā dvādśāṅgaṃ pratītyasamutpādaṃ anulomapratilomam cintayitum ārabdhā yāvat triparivartaṃ na karoti; tāvat tayā viṃśatiśikharasamudgataṃ satkāyadṛṣṭiśailaṃ jñānavrajeṇa bhitvā srotaāpattiphalaṃ sākṣātkṛtam; sā dṛṣṭasatyā gāthā bhāṣate dūrasthitena buddhena prajñācakṣur viśodhitaḥ /"
+                  "text": "bhavantaḥ kim idam? te ākhyātum ārabdhāḥ: idaṃ tasya bhagavato rūpakāyaḥ; idam adhastāt kim? trīṇi śaraṇagamanāni pañca śikṣāpadāni idam, anulomapratilomaḥ pratītyasamutpādo jagataḥ pravṛttiś ca nivṛttiś ca; ayam amṛtādhigama āryāṣṭāṅgo mārgaḥ; idam upariṣṭāt kim: abhyutsāhaya, śaraṇagamanaśikṣāpadāni gṛhītvā imam anulomapratilomaṃ dvādaśāṅgapratītyasamutpādaṃ vyavalokya vīryam ārabhate, sa amṛtādhigamaṃ mārgam avāpya sarvaduḥkhād vimucyate iti; tato muktikā dvādśāṅgaṃ pratītyasamutpādaṃ anulomapratilomam cintayitum ārabdhā yāvat triparivartaṃ na karoti; tāvat tayā viṃśatiśikharasamudgataṃ satkāyadṛṣṭiśailaṃ jñānavrajeṇa bhitvā srotaāpattiphalaṃ sākṣātkṛtam; sā dṛṣṭasatyā gāthā bhāṣate dūrasthitena buddhena prajñācakṣur viśodhitaḥ /",
+                  "segment_number": 65
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "namas tasmai suvaidyāya cikitsā yasyedṛśī //"
+                  "text": "namas tasmai suvaidyāya cikitsā yasyedṛśī //",
+                  "segment_number": 66
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 60
         },
         {
           "tag": "lg",
@@ -488,12 +554,14 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "dūrasthitena buddhena dṛṣṭiśalyaḥ samuddhṛtaḥ /"
+              "text": "dūrasthitena buddhena dṛṣṭiśalyaḥ samuddhṛtaḥ /",
+              "segment_number": 67
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "namas tasmai suvaidyāya dṛṣṭiśalyāpahāriṇe //"
+              "text": "namas tasmai suvaidyāya dṛṣṭiśalyāpahāriṇe //",
+              "segment_number": 68
             }
           ]
         },
@@ -507,33 +575,39 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 335a"
+              "text": "A 335a",
+              "segment_number": 70
             },
             {
               "tag": "text",
-              "text": ") devi, vayaṃ saṃprasthitāḥ, ājñāpaya kim asmābhiḥ karaṇīyam iti; sā kathayati; mama vacanena bhagavataḥ pādau śirasā vanditavyau alpābādhatāṃ ca praṣṭavyo 'lpātaṅkatāṃ ca laghūtthānatāṃ ca yātrām ca balaṃ ca sukhaṃ cānavadyatāṃ ca sparśavihāratāṃ ca; ("
+              "text": ") devi, vayaṃ saṃprasthitāḥ, ājñāpaya kim asmābhiḥ karaṇīyam iti; sā kathayati; mama vacanena bhagavataḥ pādau śirasā vanditavyau alpābādhatāṃ ca praṣṭavyo 'lpātaṅkatāṃ ca laghūtthānatāṃ ca yātrām ca balaṃ ca sukhaṃ cānavadyatāṃ ca sparśavihāratāṃ ca; (",
+              "segment_number": 71
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 68"
+              "text": "Adhik-v 68",
+              "segment_number": 72
             },
             {
               "tag": "text",
-              "text": ") evaṃ ca vaktavyo: yad bhadanta kalyāṇamitreṇa karaṇīyam bhagavatā tat kṛtam; mayā bhagavantaṃ kalyāṇamitram āgamyoddhṛto narakatiryakpretebhyaḥ pādaḥ, pratiṣṭhito devamanuṣyeṣu, paryantīkṛtaḥ saṃsāraḥ, ucchoṣitā rudhirāśrusamudrāḥ, laṅghitā asthiparvatāḥ, anādikālopacitam satkāyadṛṣṭiśailaṃ jñānavrajeṇa bhitvā srotaāpattiphalaṃ sākṣātkṛtam; abhikrāntāhaṃ bhadanta abhikrāntā; eṣāhaṃ bhagavantaṃ śaraṇaṃ gacchāmi dharmaṃ ca bhikṣusaṅghaṃ ca; upāsikāṃ ca saṃdhāraya adyāgreṇa yāvajjīvaṃ prāṇopetāṃ śaraṇāgatām abhiprasannām iti; idaṃ ca muktāprasthatrayaṃ nayata ekaṃ bhddhāya ekaṃ dharmāya ekaṃ saṃghāya iti; tatas te vaṇijaḥ paṇyādānam saṃdeśaṃ cādāya saṃprasthitāḥ; anupūrveṇa śrāvastīm anuprāptāḥ; mārgaśramaṃ prativinodya bhagavatsakāśam upasaṃkrāntāḥ; pādayor nipatya yathāsaṃdiṣṭaṃ samākhyāya bhagavantam idam avocan: idaṃ bhadanta muktāprasthatrayaṃ muktikayā preṣitam, ekaṃ buddhāya ekaṃ dharmāya ekaṃ saṃghāya iti; āyuṣman ānando bhagavantaṃ pṛcchati: kutra bhadanta prābhṛtam āgatam; bhagavān āha: dṛṣṭā tvayā ānanda mahānāmnaḥ śākyasya preṣyadārikā rohikā nāma mamāntikāt dharmaṃ śrutvā prakrāntā; antarmārge ca gavā taruṇavatsayā jīvitād vyaparopitā? dṛṣṭā, bhadanta; sā mamāntike cittam abhiprasādya kālagatā; siṃhaladvīpe siṃhalarājasya duhitā saṃvṛttā muktikā nāma; dṛṣṭasatyayā tayā etat prābhṛtam anupreṣitam; ato yo buddhasya bhāgas tena gandhakuṭyāṃ pralepaṃ dadata; yo dharmasya sa dharmadharāṇāṃ pudgalānām; yaḥ saṃghasya taṃ samagraḥ saṃgho bhajayatu\n  bhikṣavaḥ saṃśayajātāḥ sarvasaṃśayacchettāraṃ buddhaṃ bhagavantaṃ papracchuḥ: kiṃ bhadanta muktikā karma kṛtaṃ yena dāsī saṃvṛttā, kiṃ karma kṛtaṃ yena āḍhye rājakule pratyājātā, satyadarśanaṃ ca kṛtam? iti; bhagavān āha: muktikayaiva bhikṣavaḥ karmāṇi kṛtāny upacitāni labdhasaṃbhāraṇi pariṇatapratyayāny oghavat pratyupasthitāni avaśyabhāvīnīti muktikayā karmāṇi kṛtāny upacitāni ko 'nyaḥ pratyanubhaviṣyati? na bhikṣavaḥ karmāṇi kṛtāny upacitāni bāhye pṛthivīdhātau vipacyante nābdhātau ḥna tejodhātāuḥ na vāyudhātāv api tūpātteṣu skandhadhātvāyataneṣu karmāṇi kṛtāni vipacyante śubhāny aśubhāni ca ("
+              "text": ") evaṃ ca vaktavyo: yad bhadanta kalyāṇamitreṇa karaṇīyam bhagavatā tat kṛtam; mayā bhagavantaṃ kalyāṇamitram āgamyoddhṛto narakatiryakpretebhyaḥ pādaḥ, pratiṣṭhito devamanuṣyeṣu, paryantīkṛtaḥ saṃsāraḥ, ucchoṣitā rudhirāśrusamudrāḥ, laṅghitā asthiparvatāḥ, anādikālopacitam satkāyadṛṣṭiśailaṃ jñānavrajeṇa bhitvā srotaāpattiphalaṃ sākṣātkṛtam; abhikrāntāhaṃ bhadanta abhikrāntā; eṣāhaṃ bhagavantaṃ śaraṇaṃ gacchāmi dharmaṃ ca bhikṣusaṅghaṃ ca; upāsikāṃ ca saṃdhāraya adyāgreṇa yāvajjīvaṃ prāṇopetāṃ śaraṇāgatām abhiprasannām iti; idaṃ ca muktāprasthatrayaṃ nayata ekaṃ bhddhāya ekaṃ dharmāya ekaṃ saṃghāya iti; tatas te vaṇijaḥ paṇyādānam saṃdeśaṃ cādāya saṃprasthitāḥ; anupūrveṇa śrāvastīm anuprāptāḥ; mārgaśramaṃ prativinodya bhagavatsakāśam upasaṃkrāntāḥ; pādayor nipatya yathāsaṃdiṣṭaṃ samākhyāya bhagavantam idam avocan: idaṃ bhadanta muktāprasthatrayaṃ muktikayā preṣitam, ekaṃ buddhāya ekaṃ dharmāya ekaṃ saṃghāya iti; āyuṣman ānando bhagavantaṃ pṛcchati: kutra bhadanta prābhṛtam āgatam; bhagavān āha: dṛṣṭā tvayā ānanda mahānāmnaḥ śākyasya preṣyadārikā rohikā nāma mamāntikāt dharmaṃ śrutvā prakrāntā; antarmārge ca gavā taruṇavatsayā jīvitād vyaparopitā? dṛṣṭā, bhadanta; sā mamāntike cittam abhiprasādya kālagatā; siṃhaladvīpe siṃhalarājasya duhitā saṃvṛttā muktikā nāma; dṛṣṭasatyayā tayā etat prābhṛtam anupreṣitam; ato yo buddhasya bhāgas tena gandhakuṭyāṃ pralepaṃ dadata; yo dharmasya sa dharmadharāṇāṃ pudgalānām; yaḥ saṃghasya taṃ samagraḥ saṃgho bhajayatu\n  bhikṣavaḥ saṃśayajātāḥ sarvasaṃśayacchettāraṃ buddhaṃ bhagavantaṃ papracchuḥ: kiṃ bhadanta muktikā karma kṛtaṃ yena dāsī saṃvṛttā, kiṃ karma kṛtaṃ yena āḍhye rājakule pratyājātā, satyadarśanaṃ ca kṛtam? iti; bhagavān āha: muktikayaiva bhikṣavaḥ karmāṇi kṛtāny upacitāni labdhasaṃbhāraṇi pariṇatapratyayāny oghavat pratyupasthitāni avaśyabhāvīnīti muktikayā karmāṇi kṛtāny upacitāni ko 'nyaḥ pratyanubhaviṣyati? na bhikṣavaḥ karmāṇi kṛtāny upacitāni bāhye pṛthivīdhātau vipacyante nābdhātau ḥna tejodhātāuḥ na vāyudhātāv api tūpātteṣu skandhadhātvāyataneṣu karmāṇi kṛtāni vipacyante śubhāny aśubhāni ca (",
+              "segment_number": 73
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 69"
+              "text": "Adhik-v 69",
+              "segment_number": 74
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 75
             },
             {
               "tag": "lg",
@@ -542,16 +616,19 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "na praṇaśyanti karmāṇy api kalpaśatair api /"
+                  "text": "na praṇaśyanti karmāṇy api kalpaśatair api /",
+                  "segment_number": 76
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "sāmagrīṃ prāpya kālaṃ ca phalanti khalu dehināṃ //"
+                  "text": "sāmagrīṃ prāpya kālaṃ ca phalanti khalu dehināṃ //",
+                  "segment_number": 77
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 69
         }
       ]
     },
@@ -562,7 +639,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The story of the wife of the guild-leader\n  (concerning a previous life of Muktikā)"
+          "text": "The story of the wife of the guild-leader\n  (concerning a previous life of Muktikā)",
+          "segment_number": 78
         },
         {
           "tag": "p",
@@ -574,46 +652,55 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 335b"
+              "text": "A 335b",
+              "segment_number": 80
             },
             {
               "tag": "text",
-              "text": ") lokavid anuttaraḥ puruṣadāmyasārathiḥ śāstā devamanuṣyāṇāṃ buddho bhagavān; sakalaṃ buddhakāryaṃ kṛtvā indhanakṣayād ivāgnir vārāṇasyāṃ nirupadhiśeṣe nirvāṇadhātau parinirvṛtaḥ; tasya kṛkiṇā rājñā sarvagandhakāṣṭhaiś citāṃ citvā mahatā satkāreṇa dhyāpitaḥ; sā citā kṣīreṇa nirvāpitā; tāny asthīni sauvarṇe kumbhe prakṣipya caturmahāpathe catūratnamayaḥ stūpaḥ pratiṣṭhāpitaḥ yojanasāmantakenārdhayojanam uccatvena mahāmahaś ca pratisthāpitam\n  vārāṇasyām anyataraḥ śreṣṭḥī mahādhano mahābhogo vistīrṇaviśālaparigraho vaiśravaṇadhanasamudito vaiśravaṇadhanapratispardhī; tena sadṛśāt kulāt kalatram ānītam; sa tayā sārdhaṃ krīḍati ramate paricārayati; tasya krīḍato ramamāṇasya paricārayataḥ na putro na duhitā; sa kare kapolaṃ datvā cintāparo vyavasthitaḥ: anekadhanasamuditaṃ me gṛham, na me putro na duhitā; mamātyayāt sarvasvāpateyam aputraka iti kṛtvā rājavidheyaṃ bhaviṣyati iti; sa śramaṇabrāhmaṇasuhṛtsaṃbandhibāndhavanaimittikair ucyate: devatārādhaṃ kuruṣva, putras te bhaviṣyati iti; so 'putraḥ putrābhinandī śivavaruṇakuberaśakrabrahmādīn ḥanyān caḥ devatāviśeṣān āyācate, tadyathā ārāmadevatā vanadevatāś catvaradevatāḥ śṛṅgāṭakadevatā balipratigrāhikā devatā sahajā sahadharmikā nityānubaddhā api devatā āyācae; asti caiṣa loke pravādaḥ yad āyācanahetoḥ putrā jāyante duhitaraś ceti; tac ca naivam; yady evam abhaviṣyad ekaikasya putrasahasram abhaviṣyat tadyathā rājñaḥ cakravartinaḥ; api trayāṇāṃ sthānānām saṃmukhībhāvāt putrā jāyante duhitaraś ca; katameṣāṃ ("
+              "text": ") lokavid anuttaraḥ puruṣadāmyasārathiḥ śāstā devamanuṣyāṇāṃ buddho bhagavān; sakalaṃ buddhakāryaṃ kṛtvā indhanakṣayād ivāgnir vārāṇasyāṃ nirupadhiśeṣe nirvāṇadhātau parinirvṛtaḥ; tasya kṛkiṇā rājñā sarvagandhakāṣṭhaiś citāṃ citvā mahatā satkāreṇa dhyāpitaḥ; sā citā kṣīreṇa nirvāpitā; tāny asthīni sauvarṇe kumbhe prakṣipya caturmahāpathe catūratnamayaḥ stūpaḥ pratiṣṭhāpitaḥ yojanasāmantakenārdhayojanam uccatvena mahāmahaś ca pratisthāpitam\n  vārāṇasyām anyataraḥ śreṣṭḥī mahādhano mahābhogo vistīrṇaviśālaparigraho vaiśravaṇadhanasamudito vaiśravaṇadhanapratispardhī; tena sadṛśāt kulāt kalatram ānītam; sa tayā sārdhaṃ krīḍati ramate paricārayati; tasya krīḍato ramamāṇasya paricārayataḥ na putro na duhitā; sa kare kapolaṃ datvā cintāparo vyavasthitaḥ: anekadhanasamuditaṃ me gṛham, na me putro na duhitā; mamātyayāt sarvasvāpateyam aputraka iti kṛtvā rājavidheyaṃ bhaviṣyati iti; sa śramaṇabrāhmaṇasuhṛtsaṃbandhibāndhavanaimittikair ucyate: devatārādhaṃ kuruṣva, putras te bhaviṣyati iti; so 'putraḥ putrābhinandī śivavaruṇakuberaśakrabrahmādīn ḥanyān caḥ devatāviśeṣān āyācate, tadyathā ārāmadevatā vanadevatāś catvaradevatāḥ śṛṅgāṭakadevatā balipratigrāhikā devatā sahajā sahadharmikā nityānubaddhā api devatā āyācae; asti caiṣa loke pravādaḥ yad āyācanahetoḥ putrā jāyante duhitaraś ceti; tac ca naivam; yady evam abhaviṣyad ekaikasya putrasahasram abhaviṣyat tadyathā rājñaḥ cakravartinaḥ; api trayāṇāṃ sthānānām saṃmukhībhāvāt putrā jāyante duhitaraś ca; katameṣāṃ (",
+              "segment_number": 81
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 70"
+              "text": "Adhik-v 70",
+              "segment_number": 82
             },
             {
               "tag": "text",
-              "text": ") trayāṇām? mātāpitarau raktau bhavataḥ saṃnipatitau, mātā ca kalyā bhavati ṛtumatī gandharvaś ca pratyupasthito bhavati; eṣāṃ trayāṇām sthānānāṃ saṃmukhībhāvāt putrā jāyante duhitaraś ca; tena putrasaṃvartanīyaṃ karma na kṛtam; tenāsya na putro na duhitā; yāvad asau glānye nipatitaḥ; sa upasthīyate mūlagaṇḍapatrapuṣpaphalabhaiṣajyaiḥ; na cāsau vyādhir upaśamaṃ gacchati; tato 'sya patnī saṃlakṣayati: anekadhanasamuditaṃ me gṛham, na me putro na duhitā, ayaṃ ca me svāmī kālaṃ kariṣyati; tad idānīṃ yadi pāralaukikaṃ pathyadanam na gṛhṇāti sarvaṃ me tad dhanajātam aputraka iti kṛtvā rājavidheyaṃ bhaviṣyati iti; tasyā śatasahasraṃ muktāhāraṃ karṇāvasaktam; tayā kāśyapasya samyaksaṃbuddhasya gandhamālyavilepanaiḥ pūjāṃ kṛtvā tasmin stūpe samāropitam, tīvreṇa ca prasādena pādayor nipatya\npraṇidhānaṃ kṛtam: anenāhaṃ kuśalamūlena cittotpādena deyadharmaparityāgena ca āḍhye mahākule jāyeyam evaṃvidhānāṃ ca guṇānāṃ lābhī syām evaṃvidhaṃ ca śāstāram ārāgayeyaṃ mā virāgayeyam iti\n  kiṃ manyadhve bhikṣavaḥ? yāsau śreṣṭhībhāryā eṣaivāsau ("
+              "text": ") trayāṇām? mātāpitarau raktau bhavataḥ saṃnipatitau, mātā ca kalyā bhavati ṛtumatī gandharvaś ca pratyupasthito bhavati; eṣāṃ trayāṇām sthānānāṃ saṃmukhībhāvāt putrā jāyante duhitaraś ca; tena putrasaṃvartanīyaṃ karma na kṛtam; tenāsya na putro na duhitā; yāvad asau glānye nipatitaḥ; sa upasthīyate mūlagaṇḍapatrapuṣpaphalabhaiṣajyaiḥ; na cāsau vyādhir upaśamaṃ gacchati; tato 'sya patnī saṃlakṣayati: anekadhanasamuditaṃ me gṛham, na me putro na duhitā, ayaṃ ca me svāmī kālaṃ kariṣyati; tad idānīṃ yadi pāralaukikaṃ pathyadanam na gṛhṇāti sarvaṃ me tad dhanajātam aputraka iti kṛtvā rājavidheyaṃ bhaviṣyati iti; tasyā śatasahasraṃ muktāhāraṃ karṇāvasaktam; tayā kāśyapasya samyaksaṃbuddhasya gandhamālyavilepanaiḥ pūjāṃ kṛtvā tasmin stūpe samāropitam, tīvreṇa ca prasādena pādayor nipatya\npraṇidhānaṃ kṛtam: anenāhaṃ kuśalamūlena cittotpādena deyadharmaparityāgena ca āḍhye mahākule jāyeyam evaṃvidhānāṃ ca guṇānāṃ lābhī syām evaṃvidhaṃ ca śāstāram ārāgayeyaṃ mā virāgayeyam iti\n  kiṃ manyadhve bhikṣavaḥ? yāsau śreṣṭhībhāryā eṣaivāsau (",
+              "segment_number": 83
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 336a"
+              "text": "A 336a",
+              "segment_number": 84
             },
             {
               "tag": "text",
-              "text": ") muktikā tena kālena tena samayena; yad anayā kāśyapasya samyaksaṃbuddhasya stūpe kārān kṛtvā praṇidhānaṃ kṛtaṃ tasya karmaṇo vipākena āḍhye kule jātā janmani cāsyā muktāvarṣaṃ patitam mama ca śāsane prasādam utpādya viṃśatiśikharasamudgataṃ satkāyadṛṣṭiśailaṃ jñānavrajeṇa bhitvā srotaāpattiphalaṃ sākṣātkṛtam; bhūyo 'py anekadhanasamuditasya śreṣṭhino bhāryā babhūva; tatrānayā aiśvaryamadamattayā sarva eva gocaraprāpto loko dāsīvādena samudācaritaḥ; tasya karmaṇo vipākena dāsī saṃvṛttā\n  iti hi bhikṣavaḥ ekāntakṛṣṇānām karmaṇām ekāntakṛṣṇo vipākaḥ ekāntaśuklānām ekāntaśuklo vipākaḥ vyatimiśrāṇāṃ vyatimiśraḥ; tasmāt tarhi bhikṣavaḥ ekāntakṛṣṇāṇi karmāṇy apāsya vyatimiśrāṇi ca ekāntaśukleṣv eva karmasv ābhogaḥ karaṇīyaḥ ity evaṃ vo bhikṣavaḥ śikṣitavyam ("
+              "text": ") muktikā tena kālena tena samayena; yad anayā kāśyapasya samyaksaṃbuddhasya stūpe kārān kṛtvā praṇidhānaṃ kṛtaṃ tasya karmaṇo vipākena āḍhye kule jātā janmani cāsyā muktāvarṣaṃ patitam mama ca śāsane prasādam utpādya viṃśatiśikharasamudgataṃ satkāyadṛṣṭiśailaṃ jñānavrajeṇa bhitvā srotaāpattiphalaṃ sākṣātkṛtam; bhūyo 'py anekadhanasamuditasya śreṣṭhino bhāryā babhūva; tatrānayā aiśvaryamadamattayā sarva eva gocaraprāpto loko dāsīvādena samudācaritaḥ; tasya karmaṇo vipākena dāsī saṃvṛttā\n  iti hi bhikṣavaḥ ekāntakṛṣṇānām karmaṇām ekāntakṛṣṇo vipākaḥ ekāntaśuklānām ekāntaśuklo vipākaḥ vyatimiśrāṇāṃ vyatimiśraḥ; tasmāt tarhi bhikṣavaḥ ekāntakṛṣṇāṇi karmāṇy apāsya vyatimiśrāṇi ca ekāntaśukleṣv eva karmasv ābhogaḥ karaṇīyaḥ ity evaṃ vo bhikṣavaḥ śikṣitavyam (",
+              "segment_number": 85
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 70"
+              "text": "Adhik-v 70",
+              "segment_number": 86
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 87
             }
-          ]
+          ],
+          "segment_number": 79
         }
       ]
     },
@@ -624,7 +711,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The four classes of disputes"
+          "text": "The four classes of disputes",
+          "segment_number": 88
         },
         {
           "tag": "p",
@@ -636,13 +724,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 72"
+              "text": "Adhik-v 72",
+              "segment_number": 90
             },
             {
               "tag": "text",
-              "text": ")\n  kṛtyādhikaraṇaṃ katamam? yā saṃghasya kriyājñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yāḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam ucyate kṛtyādhikaraṇam"
+              "text": ")\n  kṛtyādhikaraṇaṃ katamam? yā saṃghasya kriyājñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yāḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam ucyate kṛtyādhikaraṇam",
+              "segment_number": 91
             }
-          ]
+          ],
+          "segment_number": 89
         }
       ]
     },
@@ -653,7 +744,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The vivādādhikaraṇam"
+          "text": "The vivādādhikaraṇam",
+          "segment_number": 92
         },
         {
           "tag": "p",
@@ -665,46 +757,55 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 336b"
+              "text": "A 336b",
+              "segment_number": 94
             },
             {
               "tag": "text",
-              "text": ") ṣaḍ vivādamūlāni katamāni? yathāpīhaikaḥ krodhano bhavati upanāhī; yo 'sau krodhano bhavaty upanāhī śāstāraṃ na satkaroti na gurukaroti na mānayati na pūjayati; śāstāram asatkurvann agurukurvann amānayann apūjayan dharmaṃ na pāśyati; dharmam apaśyan śrāmaṇyanirapekṣo bhavati; śrāmaṇyanirapekṣaḥ saṃghe tadrūpaṃ raṇam utpādayati kalahabhaṇḍanavigrahavivādam; yaḥ syāt kalahabhaṇḍanavigrahavivādo bahujanānarthāya bahujanāhitāya bhahujanaduḥkhāya anarthāyāhitāya duḥkhāya devamanuṣyāṇām; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ bahirdhā vāprahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānaiḥ tīvrachando vīryaṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīya yāvad etasyaiva vivādamūlasyotpannasya prahāṇāya; evaṃ ca tad vivādamūlaṃ prahāsyati; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ bahirdhā vā prahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānais tīvrachando vīryaṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīya yāvad etasyaiva vivādamūlasya prahīṇasyāyatyām anavāsravāya; evaṃ vas ("
+              "text": ") ṣaḍ vivādamūlāni katamāni? yathāpīhaikaḥ krodhano bhavati upanāhī; yo 'sau krodhano bhavaty upanāhī śāstāraṃ na satkaroti na gurukaroti na mānayati na pūjayati; śāstāram asatkurvann agurukurvann amānayann apūjayan dharmaṃ na pāśyati; dharmam apaśyan śrāmaṇyanirapekṣo bhavati; śrāmaṇyanirapekṣaḥ saṃghe tadrūpaṃ raṇam utpādayati kalahabhaṇḍanavigrahavivādam; yaḥ syāt kalahabhaṇḍanavigrahavivādo bahujanānarthāya bahujanāhitāya bhahujanaduḥkhāya anarthāyāhitāya duḥkhāya devamanuṣyāṇām; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ bahirdhā vāprahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānaiḥ tīvrachando vīryaṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīya yāvad etasyaiva vivādamūlasyotpannasya prahāṇāya; evaṃ ca tad vivādamūlaṃ prahāsyati; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ bahirdhā vā prahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānais tīvrachando vīryaṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīya yāvad etasyaiva vivādamūlasya prahīṇasyāyatyām anavāsravāya; evaṃ vas (",
+              "segment_number": 95
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 73"
+              "text": "Adhik-v 73",
+              "segment_number": 96
             },
             {
               "tag": "text",
-              "text": ") tad vivādamūlaṃ samyaksusamavahitam āyatyāṃ notpatsyate; yathā krodhana upanāhī mrakṣaḥ pradāsi īrṣyako matsarī śaṭho māyāvī ahrīyamāṇo 'napatrāpī pāpeccho mithyādṛṣṭikaḥ; punar aparam ihaikaḥ svayaṃ dṛṣṭiparāmarśī bhavaty asamañjasagrāhī duṣpratiniḥsargamantrī; yaḥ svayaṃ dṛṣṭiparāmarśī bhavati duṣprajñaniḥsargamantrī sa śāstāraṃ na satkaroti na gurukaroti na mānayati na pūjayai; śāstāram asatkurvann agurukurvann amānayann apūjayan dharmaṃ na paśyati; dharmam apaśyan śrāmaṇyanirapekṣo bhavati; śrāmaṇyanirapekṣaḥ sa saṃghe tadrūpaṃ raṇam utpādayati kalahabhaṇḍanavigrahavivādam; yaḥ syāt kalahabhaṇḍanavigrahavivādo bahujanānarthāya bahujanāhitāya bahujanaduḥkhāya anarthāyāhitāya ḥduḥkhāyaḥ devamanuṣyāṇām; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ vā bahirdhā vā aprahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānais tīvracchando vīryavṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīyo yāvad etasyaiva vivādamūlasya utpannasya prahāṇāya; evaṃ vas tad vivādamūlam\nprahāsyati; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ vā bahirdhā vā prahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānais tīvracchando vīryaṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīyo yāvad etasyaiva vivādamūlasya ("
+              "text": ") tad vivādamūlaṃ samyaksusamavahitam āyatyāṃ notpatsyate; yathā krodhana upanāhī mrakṣaḥ pradāsi īrṣyako matsarī śaṭho māyāvī ahrīyamāṇo 'napatrāpī pāpeccho mithyādṛṣṭikaḥ; punar aparam ihaikaḥ svayaṃ dṛṣṭiparāmarśī bhavaty asamañjasagrāhī duṣpratiniḥsargamantrī; yaḥ svayaṃ dṛṣṭiparāmarśī bhavati duṣprajñaniḥsargamantrī sa śāstāraṃ na satkaroti na gurukaroti na mānayati na pūjayai; śāstāram asatkurvann agurukurvann amānayann apūjayan dharmaṃ na paśyati; dharmam apaśyan śrāmaṇyanirapekṣo bhavati; śrāmaṇyanirapekṣaḥ sa saṃghe tadrūpaṃ raṇam utpādayati kalahabhaṇḍanavigrahavivādam; yaḥ syāt kalahabhaṇḍanavigrahavivādo bahujanānarthāya bahujanāhitāya bahujanaduḥkhāya anarthāyāhitāya ḥduḥkhāyaḥ devamanuṣyāṇām; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ vā bahirdhā vā aprahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānais tīvracchando vīryavṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīyo yāvad etasyaiva vivādamūlasya utpannasya prahāṇāya; evaṃ vas tad vivādamūlam\nprahāsyati; evaṃrūpaṃ saced yūyaṃ bhikṣavo vivādamūlam adhyātmaṃ vā bahirdhā vā prahīṇaṃ samanupaśyatha tatra vaḥ sahitaiḥ samagraiḥ saṃmodamānair avivādamānais tīvracchando vīryaṃ vyāyāma utsāha utsūḍhir aprativāṇismṛtyā saṃprajanye yogaḥ karaṇīyo yāvad etasyaiva vivādamūlasya (",
+              "segment_number": 97
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 337a"
+              "text": "A 337a",
+              "segment_number": 98
             },
             {
               "tag": "text",
-              "text": ") prahīṇasyāyatyām anavāsravāya; evaṃ vas tadvivādamūlaṃ samyak susamāhitam āyatyāṃ notpatsyate; imāny ucyante ṣaḍvivādamūlāni\n  caturdaśa bhedakaraṇāni vastūni katamāni? yad uta dharmam iti vā adharmam iti vā, vinaya iti vā avinaya iti vā, āpattir iti vā anāpattir iti vā, gurv iti vā laghv iti vā, sāvaśeṣa iti vā niravaśeṣa iti vā, deśanākaraṇīya iti vā saṃvarakaraṇīya iti vā durbhāṣitagaminīti vā subhāṣitagaminīti vā; imāny ucyante caturdaśa bhedakarāṇi vastūni; ("
+              "text": ") prahīṇasyāyatyām anavāsravāya; evaṃ vas tadvivādamūlaṃ samyak susamāhitam āyatyāṃ notpatsyate; imāny ucyante ṣaḍvivādamūlāni\n  caturdaśa bhedakaraṇāni vastūni katamāni? yad uta dharmam iti vā adharmam iti vā, vinaya iti vā avinaya iti vā, āpattir iti vā anāpattir iti vā, gurv iti vā laghv iti vā, sāvaśeṣa iti vā niravaśeṣa iti vā, deśanākaraṇīya iti vā saṃvarakaraṇīya iti vā durbhāṣitagaminīti vā subhāṣitagaminīti vā; imāny ucyante caturdaśa bhedakarāṇi vastūni; (",
+              "segment_number": 99
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 74"
+              "text": "Adhik-v 74",
+              "segment_number": 100
             },
             {
               "tag": "text",
-              "text": ") idaṃmūlaṃ bhikṣavo vivādādhikaraṇam idaṃ vivādādhikaraṇasya mūlam"
+              "text": ") idaṃmūlaṃ bhikṣavo vivādādhikaraṇam idaṃ vivādādhikaraṇasya mūlam",
+              "segment_number": 101
             }
-          ]
+          ],
+          "segment_number": 93
         }
       ]
     },
@@ -715,12 +816,14 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The anavavādādhikaraṇam"
+          "text": "The anavavādādhikaraṇam",
+          "segment_number": 102
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "kiṃmūlaṃ bhikṣavo anavavādādhikaraṇaṃ kim anavavādādhikaraṇasya mūlam? yaḥ saṃghasya anavavādaḥ anavavādanam anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idaṃmūlakaṃ bhikṣavaḥ anavavādādhikaraṇam idam anavavādādhikaraṇasya mūlam"
+          "text": "kiṃmūlaṃ bhikṣavo anavavādādhikaraṇaṃ kim anavavādādhikaraṇasya mūlam? yaḥ saṃghasya anavavādaḥ anavavādanam anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idaṃmūlakaṃ bhikṣavaḥ anavavādādhikaraṇam idam anavavādādhikaraṇasya mūlam",
+          "segment_number": 103
         }
       ]
     },
@@ -731,7 +834,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The āpattyadhikaraṇam"
+          "text": "The āpattyadhikaraṇam",
+          "segment_number": 104
         },
         {
           "tag": "p",
@@ -743,24 +847,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 75"
+              "text": "Adhik-v 75",
+              "segment_number": 106
             },
             {
               "tag": "text",
-              "text": ") āha: evaṃ hi prāṇi jīvitād vyaparopayitavyaḥ; yathā mayā vyaparopitaḥ evaṃ punar vyaparopayitavyaḥ; ḥvyaparopitaḥḥ suvyaparopito bhavatīti; adattam ādadat kāmeṣu mithyā caran madyapānaṃ piban naivam āha: evaṃ madyapānaṃ pātavyam; yathā mayā pītam evaṃ ca punar madyapānaṃ ḥpātavyamḥ; pītaṃ supītaṃ bhavatīti; idam āpattiḥ kāyikī caitasikī na vācikī\n  katamā āpattir vācikī caitasikī na kāyikī? yathāpitad bhikṣur mātṛgrāmasya pañcabhiḥ padair dharmaṃ deśayan saṃcintya ṣaṣṭaṃ padam atikrāmati ṣaḍbhir vā padair deśayan saptamaṃ padam atikrāmati, iyam āpattir vācikī caitasikī ("
+              "text": ") āha: evaṃ hi prāṇi jīvitād vyaparopayitavyaḥ; yathā mayā vyaparopitaḥ evaṃ punar vyaparopayitavyaḥ; ḥvyaparopitaḥḥ suvyaparopito bhavatīti; adattam ādadat kāmeṣu mithyā caran madyapānaṃ piban naivam āha: evaṃ madyapānaṃ pātavyam; yathā mayā pītam evaṃ ca punar madyapānaṃ ḥpātavyamḥ; pītaṃ supītaṃ bhavatīti; idam āpattiḥ kāyikī caitasikī na vācikī\n  katamā āpattir vācikī caitasikī na kāyikī? yathāpitad bhikṣur mātṛgrāmasya pañcabhiḥ padair dharmaṃ deśayan saṃcintya ṣaṣṭaṃ padam atikrāmati ṣaḍbhir vā padair deśayan saptamaṃ padam atikrāmati, iyam āpattir vācikī caitasikī (",
+              "segment_number": 107
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 337b"
+              "text": "A 337b",
+              "segment_number": 108
             },
             {
               "tag": "text",
-              "text": ") na kāyikī\n  katamā āpattiḥ kāyikī vācikī caitasikī ca? yathāpitad bhikṣuḥ saṃcintya tiryagyonigataṃ prāṇinaṃ jīvitād vyaparopayann evam āha: evaṃ prāṇī jīvitād vyaparopayitavyaḥ; yathā mayā vyaparopitaḥ evaṃ ca punar vyaparopitaḥ suvyaparopito bhaviṣyatīti; adattam ādadat kāmeṣu mithyā caran madyapānam pibann evam āha: evaṃ hi madyapānaṃ pātavyam; yathā mayā pītam evaṃ ca punaḥ pītaṃ supītaṃ bhavatīti; iyam āpattiḥ kāyikī vācikī caitasikī ca; idaṃmūlakaṃ bikṣavaḥ āpattyadhikaraṇam, idam āpattyadhikaraṇasya mūlam"
+              "text": ") na kāyikī\n  katamā āpattiḥ kāyikī vācikī caitasikī ca? yathāpitad bhikṣuḥ saṃcintya tiryagyonigataṃ prāṇinaṃ jīvitād vyaparopayann evam āha: evaṃ prāṇī jīvitād vyaparopayitavyaḥ; yathā mayā vyaparopitaḥ evaṃ ca punar vyaparopitaḥ suvyaparopito bhaviṣyatīti; adattam ādadat kāmeṣu mithyā caran madyapānam pibann evam āha: evaṃ hi madyapānaṃ pātavyam; yathā mayā pītam evaṃ ca punaḥ pītaṃ supītaṃ bhavatīti; iyam āpattiḥ kāyikī vācikī caitasikī ca; idaṃmūlakaṃ bikṣavaḥ āpattyadhikaraṇam, idam āpattyadhikaraṇasya mūlam",
+              "segment_number": 109
             }
-          ]
+          ],
+          "segment_number": 105
         }
       ]
     },
@@ -771,12 +880,14 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The kṛtyādhikaraṇam"
+          "text": "The kṛtyādhikaraṇam",
+          "segment_number": 110
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "kiṃḥmūlaṃḥ bhikṣavaḥ kṛtyādhikaraṇam, kiṃ kṛtyādhikaraṇasya mūlam? yā saṃghasya kriyājñaptiḥ jñaptidvitīyaṃ jñapticaturthaṃ karma idaṃmūlakaṃ bhikṣavaḥ kṛtyādhikaraṇam idam kṛtyādhikaraṇasya mūlam"
+          "text": "kiṃḥmūlaṃḥ bhikṣavaḥ kṛtyādhikaraṇam, kiṃ kṛtyādhikaraṇasya mūlam? yā saṃghasya kriyājñaptiḥ jñaptidvitīyaṃ jñapticaturthaṃ karma idaṃmūlakaṃ bhikṣavaḥ kṛtyādhikaraṇam idam kṛtyādhikaraṇasya mūlam",
+          "segment_number": 111
         }
       ]
     },
@@ -787,7 +898,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The three kinds of vivādādhikaraṇam"
+          "text": "The three kinds of vivādādhikaraṇam",
+          "segment_number": 112
         },
         {
           "tag": "p",
@@ -799,13 +911,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 76"
+              "text": "Adhik-v 76",
+              "segment_number": 114
             },
             {
               "tag": "text",
-              "text": ") vivādo vipratyanīkavādaḥḥ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idaṃ kuśalam; katamad akuśalam? yaḥ saṃghasyānarthinaḥ anarthābhiprāyasyākuśalārthinaḥ akuśalābhiprāyasya nānāvādo vivādo vipratyanīkavādaḥ tad upādāya kalaho bhaṇḍanaṃ vigraho vivādaḥ idam akuśalam; katamad avyākṛtam? yat saṃghasya naivārthino ḥnaivānarthinoḥ naivārthābhiprāyasya ḥnaivānarthābhiprāyasyaḥ na kuśalārthino ḥnākuśalārthinaḥ na kuśalābhiprāyasya nākuśalābhiprāyasyaḥ nānāvādo vivādo vipratyanīkavādaḥ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam avyākṛtam"
+              "text": ") vivādo vipratyanīkavādaḥḥ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idaṃ kuśalam; katamad akuśalam? yaḥ saṃghasyānarthinaḥ anarthābhiprāyasyākuśalārthinaḥ akuśalābhiprāyasya nānāvādo vivādo vipratyanīkavādaḥ tad upādāya kalaho bhaṇḍanaṃ vigraho vivādaḥ idam akuśalam; katamad avyākṛtam? yat saṃghasya naivārthino ḥnaivānarthinoḥ naivārthābhiprāyasya ḥnaivānarthābhiprāyasyaḥ na kuśalārthino ḥnākuśalārthinaḥ na kuśalābhiprāyasya nākuśalābhiprāyasyaḥ nānāvādo vivādo vipratyanīkavādaḥ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam avyākṛtam",
+              "segment_number": 115
             }
-          ]
+          ],
+          "segment_number": 113
         }
       ]
     },
@@ -816,12 +931,14 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The three kinds of anavavāddhikaraṇam"
+          "text": "The three kinds of anavavāddhikaraṇam",
+          "segment_number": 116
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "anavavādādhikaraṇaṃ kuśalaṃ vaktavyam akuśalam vaktavyam avyākṛtaṃ vaktavyam; katarat kuśalam? yat saṃghasya arthinaḥ arthābhiprāyasya kuśalārthinaḥ kuśalārthābhiprāyasya anavavāda anavavādanam anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idaṃ kuśalam; katarad akuśalam? yat saṃghasya anarthinaḥ anarthābhiprāyasya akuśālārthinaḥ akuśalābhiprāyasya anavavādaḥ anavavādanaṃ anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam ḥakuṣalam; kataradḥ avyākṛtam? ḥyat saṃghasya naivārthino naivānarthino naivārthābhiprāyasya naivānarthābhiprāyasya na kuśalārthino nākuśalārthinaḥ na kuśalābhiprāyasya nākuśalābhiprāyasya anavavāda anavavādanam anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam avyākṛtamḥ"
+          "text": "anavavādādhikaraṇaṃ kuśalaṃ vaktavyam akuśalam vaktavyam avyākṛtaṃ vaktavyam; katarat kuśalam? yat saṃghasya arthinaḥ arthābhiprāyasya kuśalārthinaḥ kuśalārthābhiprāyasya anavavāda anavavādanam anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idaṃ kuśalam; katarad akuśalam? yat saṃghasya anarthinaḥ anarthābhiprāyasya akuśālārthinaḥ akuśalābhiprāyasya anavavādaḥ anavavādanaṃ anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam ḥakuṣalam; kataradḥ avyākṛtam? ḥyat saṃghasya naivārthino naivānarthino naivārthābhiprāyasya naivānarthābhiprāyasya na kuśalārthino nākuśalārthinaḥ na kuśalābhiprāyasya nākuśalābhiprāyasya anavavāda anavavādanam anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam avyākṛtamḥ",
+          "segment_number": 117
         }
       ]
     },
@@ -832,7 +949,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The two kinds of āpattyadhikaraṇam"
+          "text": "The two kinds of āpattyadhikaraṇam",
+          "segment_number": 118
         },
         {
           "tag": "p",
@@ -844,13 +962,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 77"
+              "text": "Adhik-v 77",
+              "segment_number": 120
             },
             {
               "tag": "text",
-              "text": ") avyākṛtam? yo buddhaprajñaptāyāṃ śikṣāyāṃ saṃghaprajñaptāyāṃ ca kriyāyām asaṃcintya vyatikramaḥ idam avyākṛtaṃ"
+              "text": ") avyākṛtam? yo buddhaprajñaptāyāṃ śikṣāyāṃ saṃghaprajñaptāyāṃ ca kriyāyām asaṃcintya vyatikramaḥ idam avyākṛtaṃ",
+              "segment_number": 121
             }
-          ]
+          ],
+          "segment_number": 119
         }
       ]
     },
@@ -861,7 +982,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The three kinds of kṛtyādhikaraṇam"
+          "text": "The three kinds of kṛtyādhikaraṇam",
+          "segment_number": 122
         },
         {
           "tag": "p",
@@ -873,13 +995,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 338a"
+              "text": "A 338a",
+              "segment_number": 124
             },
             {
               "tag": "text",
-              "text": ") arthābhiprāyasya kuśalārthinaḥ kuśalābhiiprāyasya jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yaḥ kalaho bhaṇḍanam vigraho vivādaḥ idaṃ kuśalam; katarad akuśalam? yat saṃghasyānarthinaḥ anarthābhiprāyasya akuśalārthinaḥ akuśalābhiprāyasya jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam akuśalam; katarad avyākṛtam? yat saṃghasya naivārthino ḥnaivānarthinoḥ naivārthābhiprāyasya ḥnaivānarthābhiprāyasyaḥ na kuśalārthino ḥnākuśalārthinoḥ na kuśalābhiprāyasya ḥnākuśalābhiprāyasyaḥ jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya kalaho bhaṇḍanam vigraho vivādaḥ idam avyākṛtam"
+              "text": ") arthābhiprāyasya kuśalārthinaḥ kuśalābhiiprāyasya jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yaḥ kalaho bhaṇḍanam vigraho vivādaḥ idaṃ kuśalam; katarad akuśalam? yat saṃghasyānarthinaḥ anarthābhiprāyasya akuśalārthinaḥ akuśalābhiprāyasya jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ idam akuśalam; katarad avyākṛtam? yat saṃghasya naivārthino ḥnaivānarthinoḥ naivārthābhiprāyasya ḥnaivānarthābhiprāyasyaḥ na kuśalārthino ḥnākuśalārthinoḥ na kuśalābhiprāyasya ḥnākuśalābhiprāyasyaḥ jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya kalaho bhaṇḍanam vigraho vivādaḥ idam avyākṛtam",
+              "segment_number": 125
             }
-          ]
+          ],
+          "segment_number": 123
         }
       ]
     },
@@ -890,7 +1015,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Not all kinds of vivāda, etc., are a source of adhikaraṇa"
+          "text": "Not all kinds of vivāda, etc., are a source of adhikaraṇa",
+          "segment_number": 126
         },
         {
           "tag": "p",
@@ -902,35 +1028,42 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 78"
+              "text": "Adhik-v 78",
+              "segment_number": 128
             },
             {
               "tag": "text",
-              "text": ")\n  yo 'navavādas tad adhikaraṇaṃ yad vā adhikaraṇaṃ so 'navavādaḥ? āha: syād anavavādo nādhikaraṇam; syād adhikaraṇam nānavavādaḥ; syād anavavādaś cādhikaraṇaṃ ca; syād naivānavavādo nādhikaraṇam; 1) anavavādas tāvan nādhikaraṇam; yaḥ saṃghasya anavavādaḥ anavavādanaṃ anavavādaprasthāpanam; 2) adhikaraṇam nānavavādaḥ, trīṇy adhikaraṇāni vivādādhikaraṇam āpattyadhikaraṇaṃ kṛtyādhikaraṇaṃ ca; 3) anavavādaś cādhikaraṇaṃ ca, yaḥ saṃghasyānavavādaḥ anavavādaṃ anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ; 4) naivānavavādo nādhikaraṇam, etān ākārān sthāpayitvā\n  yā āpattis tad adhikaraṇaṃ yad vā adhikaraṇaṃ sā āpattiḥ? āha: syād āpattiḥ nādhikaraṇam; syād adhikaraṇaṃ nāpattiḥ; syād āpttiś cādhikaraṇaṃ ḥcaḥ; syān naivāpattir nādhikaraṇam; 1) āpattis tāvan nādhikaraṇaṃ pañcāpattijātayaḥ āpattinikāyā āpattiskandha ity ucyate pārājikāḥ saṃghāvaśeṣāḥ pāyattikā pratideśanikā duṣkṛtāś ca; 2) adhikaraṇaṃ nāpattiḥ, trīṇy adhikarāṇāni vivādādhikaraṇam anavavādādhikaraṇaṃ kṛtyādhikaraṇaṃ ca; 3) āpattiś cādhikaraṇaṃ ca, pañcāpattijātayaḥ āpattinikāyā āpattiskandha ity ucyate, pārājikā saṃghāvaśeṣā pāyattikā pratideśanikā duṣkṛtāś ca; tad upādāya ("
+              "text": ")\n  yo 'navavādas tad adhikaraṇaṃ yad vā adhikaraṇaṃ so 'navavādaḥ? āha: syād anavavādo nādhikaraṇam; syād adhikaraṇam nānavavādaḥ; syād anavavādaś cādhikaraṇaṃ ca; syād naivānavavādo nādhikaraṇam; 1) anavavādas tāvan nādhikaraṇam; yaḥ saṃghasya anavavādaḥ anavavādanaṃ anavavādaprasthāpanam; 2) adhikaraṇam nānavavādaḥ, trīṇy adhikaraṇāni vivādādhikaraṇam āpattyadhikaraṇaṃ kṛtyādhikaraṇaṃ ca; 3) anavavādaś cādhikaraṇaṃ ca, yaḥ saṃghasyānavavādaḥ anavavādaṃ anavavādaprasthāpanaṃ tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho vivādaḥ; 4) naivānavavādo nādhikaraṇam, etān ākārān sthāpayitvā\n  yā āpattis tad adhikaraṇaṃ yad vā adhikaraṇaṃ sā āpattiḥ? āha: syād āpattiḥ nādhikaraṇam; syād adhikaraṇaṃ nāpattiḥ; syād āpttiś cādhikaraṇaṃ ḥcaḥ; syān naivāpattir nādhikaraṇam; 1) āpattis tāvan nādhikaraṇaṃ pañcāpattijātayaḥ āpattinikāyā āpattiskandha ity ucyate pārājikāḥ saṃghāvaśeṣāḥ pāyattikā pratideśanikā duṣkṛtāś ca; 2) adhikaraṇaṃ nāpattiḥ, trīṇy adhikarāṇāni vivādādhikaraṇam anavavādādhikaraṇaṃ kṛtyādhikaraṇaṃ ca; 3) āpattiś cādhikaraṇaṃ ca, pañcāpattijātayaḥ āpattinikāyā āpattiskandha ity ucyate, pārājikā saṃghāvaśeṣā pāyattikā pratideśanikā duṣkṛtāś ca; tad upādāya (",
+              "segment_number": 129
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 338b"
+              "text": "A 338b",
+              "segment_number": 130
             },
             {
               "tag": "text",
-              "text": ") kalaho bhaṇḍanaṃ vigraho vivādaḥ; 4) naivāpattir nādhikaraṇam, etān ākārān sthāpayitvā\n  yat kṛtyaṃ tad adhikaraṇaṃ yad vā adhikaraṇaṃ tat kṛtyam? āha: syāt kṛtyaṃ nādhikaraṇam, syād adikaraṇaṃ ḥnaḥ kṛtyam, syāt kṛtyaṃ cādhikaraṇaṃ ca, syān naiva kṛtyaṃ nādhikaraṇaṃ; 1) kṛtyaṃ tāvan nādhikaraṇam, yaḥ saṃghasya jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma; 2) adhikaraṇaṃ na kṛtyam, trīṇy adhikaraṇāni vivādādhikaraṇaṃ anavavādādhikaraṇam āpattyadhikaraṇaṃ ca; 3) kṛtyaṃ cādhikaraṇaṃ ca, yā saṃghasya kriyājñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho ḥvivādaḥḥ; 4) naiva kṛtyaṃ nādhikaraṇaṃ, etān ākārān sthāpayitvā ("
+              "text": ") kalaho bhaṇḍanaṃ vigraho vivādaḥ; 4) naivāpattir nādhikaraṇam, etān ākārān sthāpayitvā\n  yat kṛtyaṃ tad adhikaraṇaṃ yad vā adhikaraṇaṃ tat kṛtyam? āha: syāt kṛtyaṃ nādhikaraṇam, syād adikaraṇaṃ ḥnaḥ kṛtyam, syāt kṛtyaṃ cādhikaraṇaṃ ca, syān naiva kṛtyaṃ nādhikaraṇaṃ; 1) kṛtyaṃ tāvan nādhikaraṇam, yaḥ saṃghasya jñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma; 2) adhikaraṇaṃ na kṛtyam, trīṇy adhikaraṇāni vivādādhikaraṇaṃ anavavādādhikaraṇam āpattyadhikaraṇaṃ ca; 3) kṛtyaṃ cādhikaraṇaṃ ca, yā saṃghasya kriyājñaptir jñaptidvitīyaṃ jñapticaturthaṃ karma tad upādāya yaḥ kalaho bhaṇḍanaṃ vigraho ḥvivādaḥḥ; 4) naiva kṛtyaṃ nādhikaraṇaṃ, etān ākārān sthāpayitvā (",
+              "segment_number": 131
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 79"
+              "text": "Adhik-v 79",
+              "segment_number": 132
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 133
             }
-          ]
+          ],
+          "segment_number": 127
         }
       ]
     },
@@ -941,7 +1074,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The settlement of disputes; Śāriputra and Maudgalyāyana settle a dispute"
+          "text": "The settlement of disputes; Śāriputra and Maudgalyāyana settle a dispute",
+          "segment_number": 134
         },
         {
           "tag": "p",
@@ -953,13 +1087,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 80"
+              "text": "Adhik-v 80",
+              "segment_number": 136
             },
             {
               "tag": "text",
-              "text": ") upanikṣiptam; tābhyaṃ tad adhikaraṇaṃ vyupaśamitaṃ dharmeṇa vinayena śāstuḥ śāsanena ca"
+              "text": ") upanikṣiptam; tābhyaṃ tad adhikaraṇaṃ vyupaśamitaṃ dharmeṇa vinayena śāstuḥ śāsanena ca",
+              "segment_number": 137
             }
-          ]
+          ],
+          "segment_number": 135
         }
       ]
     },
@@ -970,7 +1107,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The sthalastha monks"
+          "text": "The sthalastha monks",
+          "segment_number": 138
         },
         {
           "tag": "p",
@@ -982,46 +1120,55 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 339a"
+              "text": "A 339a",
+              "segment_number": 140
             },
             {
               "tag": "text",
-              "text": ") āha: sādhv āyuṣmanta idam adhikaraṇam sūdgṛhītaṃ na durgṛhītaṃ susaṃprayuktam na duṣprayuktam suparāmṛṣṭaṃ na duṣparāmṛṭam idaṃ ca idaṃ ca vadata idaṃ ca idaṃ ca mā vakṣyatha; abhimardantām āyuṣmantaḥ parān, mā ca paro abhimardatām; vayam āyuṣmatām pakṣo balaṃ sahāyakā iti; ayaṃ sthalasthaḥ na kāyena saṃvṛto na vācā; katamaḥ sthalasthaḥ kāyena saṃvṛto na vācā? yathāpitat sthalasthaḥ bhikṣūṇāṃ kalahajātānāṃ bhaṇḍanajātānāṃ ("
+              "text": ") āha: sādhv āyuṣmanta idam adhikaraṇam sūdgṛhītaṃ na durgṛhītaṃ susaṃprayuktam na duṣprayuktam suparāmṛṣṭaṃ na duṣparāmṛṭam idaṃ ca idaṃ ca vadata idaṃ ca idaṃ ca mā vakṣyatha; abhimardantām āyuṣmantaḥ parān, mā ca paro abhimardatām; vayam āyuṣmatām pakṣo balaṃ sahāyakā iti; ayaṃ sthalasthaḥ na kāyena saṃvṛto na vācā; katamaḥ sthalasthaḥ kāyena saṃvṛto na vācā? yathāpitat sthalasthaḥ bhikṣūṇāṃ kalahajātānāṃ bhaṇḍanajātānāṃ (",
+              "segment_number": 141
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 81"
+              "text": "Adhik-v 81",
+              "segment_number": 142
             },
             {
               "tag": "text",
-              "text": ") vigṛhītānāṃ vivādam āpannānāṃ pakṣāparapakṣavyavasthitānām ekasmin pakṣe nātmanā upasaṃkrāmati api tu dūtam anupreṣayati: sādhv āyuṣmanta etad adhikaraṇaṃ sūdgṛhītaṃ na durgṛhītaṃ susaṃprayuktaṃ na duṣprayuktaṃ suparāmṛṣṭaṃ na duṣparāmṛṣṭam; idaṃ cedaṃ ca vadata idaṃ cedaṃ ca mā vakṣayatha, abhimardantām āyuṣmantaḥ parān, mā ca paro abhimardatām, vayam āyuṣmatāṃ pakṣo bala sahāyakā iti; ḥdvitīye 'pi pakṣe nātmanopasaṃkrāmati, api tu dūtam anupreṣayati sādhv āyuṣmantaḥ etad adhikaraṇaṃ sūdgṛhītaṃ na durgṛhītaṃ susaṃprayuktaṃ na duṣprayuktaṃ suparāmṛṣṭaṃ na duṣparāmṛṣṭam; idaṃ cedaṃ ca vadata idaṃ cedaṃ ca mā vakṣyatha, abhimardantām āyuṣmantaḥ parān, mā ca paro abhimardatām,\nvayam āyuṣmatām pakṣo balaṃ sahāyakā iti;ḥ ayaṃ sthalasthaḥ kāyena saṃvṛto na vācā; katamaḥ sthalasthaḥ kāyena saṃvṛto vācā ca; yathāpitat sthalastho bhikṣūṇāṃ kalahajātānāṃ bhaṇḍanajātānāṃ vigṛhītānāṃ vivādam āpannānāṃ pakṣāparapakṣavyavasthitānām ekasmin pakṣe nātmanā upasaṃkrāmati nāpi dūtam anupreṣayati, dvitīyam api nātmanopasaṃkrāmati nāpi dūtam anupreṣayati\n  tatra yo 'yaṃ sthalastho na kāyena saṃvṛto na vācā ca evaṃrūpaḥ sthalasthaḥ asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; ("
+              "text": ") vigṛhītānāṃ vivādam āpannānāṃ pakṣāparapakṣavyavasthitānām ekasmin pakṣe nātmanā upasaṃkrāmati api tu dūtam anupreṣayati: sādhv āyuṣmanta etad adhikaraṇaṃ sūdgṛhītaṃ na durgṛhītaṃ susaṃprayuktaṃ na duṣprayuktaṃ suparāmṛṣṭaṃ na duṣparāmṛṣṭam; idaṃ cedaṃ ca vadata idaṃ cedaṃ ca mā vakṣayatha, abhimardantām āyuṣmantaḥ parān, mā ca paro abhimardatām, vayam āyuṣmatāṃ pakṣo bala sahāyakā iti; ḥdvitīye 'pi pakṣe nātmanopasaṃkrāmati, api tu dūtam anupreṣayati sādhv āyuṣmantaḥ etad adhikaraṇaṃ sūdgṛhītaṃ na durgṛhītaṃ susaṃprayuktaṃ na duṣprayuktaṃ suparāmṛṣṭaṃ na duṣparāmṛṣṭam; idaṃ cedaṃ ca vadata idaṃ cedaṃ ca mā vakṣyatha, abhimardantām āyuṣmantaḥ parān, mā ca paro abhimardatām,\nvayam āyuṣmatām pakṣo balaṃ sahāyakā iti;ḥ ayaṃ sthalasthaḥ kāyena saṃvṛto na vācā; katamaḥ sthalasthaḥ kāyena saṃvṛto vācā ca; yathāpitat sthalastho bhikṣūṇāṃ kalahajātānāṃ bhaṇḍanajātānāṃ vigṛhītānāṃ vivādam āpannānāṃ pakṣāparapakṣavyavasthitānām ekasmin pakṣe nātmanā upasaṃkrāmati nāpi dūtam anupreṣayati, dvitīyam api nātmanopasaṃkrāmati nāpi dūtam anupreṣayati\n  tatra yo 'yaṃ sthalastho na kāyena saṃvṛto na vācā ca evaṃrūpaḥ sthalasthaḥ asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; (",
+              "segment_number": 143
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 339b"
+              "text": "A 339b",
+              "segment_number": 144
             },
             {
               "tag": "text",
-              "text": ") tat kasya hetoḥ? evaṃrūpaṃ hi sthalastham āgamya saṃghe 'nutpannāni cādhikaraṇāny utpadyante utpannāni ca na kṣipraṃ vyupaśamaṃ gacchanti dharmeṇa vinayena śāstuḥ śāsanena; tatra yo 'yaṃ sthalasthaḥ kāyena saṃvṛto na vācā ca evaṃrūpaḥ sthalasthaḥ asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśāyitavyah; tat kasya tetoḥ? evaṃrūpam api sthalastham āgamya saṃghe 'nutpannāny adhikaraṇāny utpadyante utpannāni ca kṣipraṃ ḥnaḥ vyupaśamaṃ gacchanti dharmeṇa vinayena śāstuḥ śāsanena; tatra yo 'yaṃ sthalasthaḥ kāyena saṃvṛto vācā ca evaṃrūpaḥ sthalasthaḥ asaṃmataḥ saṃmantavyaḥ saṃmataś nāvakāśayitavyaḥ; tat kasya hetoḥ? evaṃrūpaṃ sthalastham āgamya saṃghe 'nutpannāny adhikaraṇāni notpadyante utpannāni ca kṣipram ("
+              "text": ") tat kasya hetoḥ? evaṃrūpaṃ hi sthalastham āgamya saṃghe 'nutpannāni cādhikaraṇāny utpadyante utpannāni ca na kṣipraṃ vyupaśamaṃ gacchanti dharmeṇa vinayena śāstuḥ śāsanena; tatra yo 'yaṃ sthalasthaḥ kāyena saṃvṛto na vācā ca evaṃrūpaḥ sthalasthaḥ asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśāyitavyah; tat kasya tetoḥ? evaṃrūpam api sthalastham āgamya saṃghe 'nutpannāny adhikaraṇāny utpadyante utpannāni ca kṣipraṃ ḥnaḥ vyupaśamaṃ gacchanti dharmeṇa vinayena śāstuḥ śāsanena; tatra yo 'yaṃ sthalasthaḥ kāyena saṃvṛto vācā ca evaṃrūpaḥ sthalasthaḥ asaṃmataḥ saṃmantavyaḥ saṃmataś nāvakāśayitavyaḥ; tat kasya hetoḥ? evaṃrūpaṃ sthalastham āgamya saṃghe 'nutpannāny adhikaraṇāni notpadyante utpannāni ca kṣipram (",
+              "segment_number": 145
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 82"
+              "text": "Adhik-v 82",
+              "segment_number": 146
             },
             {
               "tag": "text",
-              "text": ") eva upaśamaṃ gacchanti dharmeṇa vinyena śāstuḥ śāsanena; evaṃrūpo bhikṣavaḥ sthalasthaḥ adhikaraṇavyupaśamayitā nānye; evaṃrūpaiḥ sthalasthair utpannotpannāny adhikaraṇāni vyupaśamayitavyāni, evaṃrūpaiḥ sthalasthair adhikaraṇāni vyupaśamayitāni"
+              "text": ") eva upaśamaṃ gacchanti dharmeṇa vinyena śāstuḥ śāsanena; evaṃrūpo bhikṣavaḥ sthalasthaḥ adhikaraṇavyupaśamayitā nānye; evaṃrūpaiḥ sthalasthair utpannotpannāny adhikaraṇāni vyupaśamayitavyāni, evaṃrūpaiḥ sthalasthair adhikaraṇāni vyupaśamayitāni",
+              "segment_number": 147
             }
-          ]
+          ],
+          "segment_number": 139
         }
       ]
     },
@@ -1032,12 +1179,14 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Two presences: pudgala and dharma"
+          "text": "Two presences: pudgala and dharma",
+          "segment_number": 148
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "śuddhakaṃ saṃmukham; kim atra saṃmukham? dve saṃmukhe, pudgalasaṃmukhaṃ dharmasaṃmukhaṃ ca; pudgalasaṃmukhaṃ katamat? ye tad adhikaraṇam vyupaśamayanti; yathā ca tad adhikaraṇaṃ vyupaśāmyati sarve te samavahitā bhavanti saṃmukhībhūtāḥ, idam ucyate pudgalasaṃmukham; dharmasaṃmukhaṃ katamat? yena dharmeṇa yena vinayena ḥyenaḥ śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśāmyati tena dharmeṇa tena vinayena tena śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśamayanti; idam ucyate dharmasaṃmukham\n  sacet sthalasthā bhikṣavaḥ tad adhikaraṇaṃ na śaknuvanti vyupaśamayituṃ tais tad adhikaraṇaṃ saṃghe upanikṣeptavyam, saṃghena tad adhikaraṇaṃ vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; saṃghena tad adhikaraṇaṃ vyupaśāntaṃ dharmeṇa vinayena śāstuḥ śāsanena suvyupaśāntam"
+          "text": "śuddhakaṃ saṃmukham; kim atra saṃmukham? dve saṃmukhe, pudgalasaṃmukhaṃ dharmasaṃmukhaṃ ca; pudgalasaṃmukhaṃ katamat? ye tad adhikaraṇam vyupaśamayanti; yathā ca tad adhikaraṇaṃ vyupaśāmyati sarve te samavahitā bhavanti saṃmukhībhūtāḥ, idam ucyate pudgalasaṃmukham; dharmasaṃmukhaṃ katamat? yena dharmeṇa yena vinayena ḥyenaḥ śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśāmyati tena dharmeṇa tena vinayena tena śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśamayanti; idam ucyate dharmasaṃmukham\n  sacet sthalasthā bhikṣavaḥ tad adhikaraṇaṃ na śaknuvanti vyupaśamayituṃ tais tad adhikaraṇaṃ saṃghe upanikṣeptavyam, saṃghena tad adhikaraṇaṃ vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; saṃghena tad adhikaraṇaṃ vyupaśāntaṃ dharmeṇa vinayena śāstuḥ śāsanena suvyupaśāntam",
+          "segment_number": 149
         }
       ]
     },
@@ -1048,7 +1197,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Three presences: saṅgha, pudgala and dharma"
+          "text": "Three presences: saṅgha, pudgala and dharma",
+          "segment_number": 150
         },
         {
           "tag": "p",
@@ -1060,35 +1210,42 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 83"
+              "text": "Adhik-v 83",
+              "segment_number": 152
             },
             {
               "tag": "text",
-              "text": ") pudgalasaṃmukhaṃ katamat? ye tad adhikaraṇaṃ vyupaśamayanti yeṣāṃ ca tad adhikaraṇaṃ vyupaśāmyati te sarve samavahitā bhavanti saṃmukhībhūtā; idam ucyate pudgalasaṃmukham; dharmasaṃmukhaṃ katamat? yena dharmeṇa yena vinayena ḥyenaḥ śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśāmyati tena dharmeṇa tena vinayena ḥtenaḥ śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśamayanti, idam ucyate dharmasaṃmukham; ("
+              "text": ") pudgalasaṃmukhaṃ katamat? ye tad adhikaraṇaṃ vyupaśamayanti yeṣāṃ ca tad adhikaraṇaṃ vyupaśāmyati te sarve samavahitā bhavanti saṃmukhībhūtā; idam ucyate pudgalasaṃmukham; dharmasaṃmukhaṃ katamat? yena dharmeṇa yena vinayena ḥyenaḥ śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśāmyati tena dharmeṇa tena vinayena ḥtenaḥ śāstuḥ śāsanena tad adhikaraṇaṃ vyupaśamayanti, idam ucyate dharmasaṃmukham; (",
+              "segment_number": 153
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 340a"
+              "text": "A 340a",
+              "segment_number": 154
             },
             {
               "tag": "text",
-              "text": ") sacet saṃghaḥ na śaknoti tad adhikaraṇaṃ vyupaśamayituṃ tataḥ ḥpaścātḥ saṃghena vyūḍhakā bhikṣavaḥ saṃmantavyāḥ daśa vā pañca vā; evaṃ ca punaḥ saṃmantavyāḥ: śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭhavācikayā bhikṣūn samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite pūrvaṃ tāvad utsāhayitavyāḥ: utsahadhve yūyaṃ buddharakṣitadharmadattasaṃghasenā vyūḍhakāḥ santo bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇaṃ vyupaśamayitum iti; saced utsahante tair vaktavyam utsahayāma iti; tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyaṃ: śṛṇotu bhadantāḥ saṃgha ime buddharakṣitadharmaḥdattaḥsaṃghasenā vyūḍhakāḥ utsahante bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayitum; sacet saṃghasya prāptakālaṃ kṣameta anujānīyāt saṃgho yat saṅgho buddharakṣitadharmadattasaṃghasenān vyūḍhakān saṃmanyeta; buddharakṣitadharmadattasaṃghasasenā vyūḍhakā utsahante saṃghasya bahiḥ sīmāṃ gatvā adhikaraṇāni vyupaśamayitum; eṣā jñaptiḥ, tataḥ karma kartavyam; śṛṇotu bhadantāḥ saṃgha ime buddharakṣitadharmadattasaṃghasenā vyūḍhakā utsahante bahiḥ sīkmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayitum; tat saṃgho ḥbuddharakṣitadharmadattasaṃghasenān vyūḍhakān saṃmanyeta; buddharakṣitadharmadattasaṃghasenāḥ vyūḍhakā bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayiṣyanti; yeṣām āyuṣmatāṃ kṣamate buddharakṣitadharmadattasaṃghasenān vyūḍhakān saṃmantum: buddharakṣitadharmadattasaṃghasenā vyūḍhakāḥ bahiḥ simāṃ gatvā saṃghasyādikaraṇāni\nvyupaśamayiṣyanti, te tūṣṇīm; na kṣamate, bhāṣantām; saṃmatā saṃghena buddharakṣitadharmadattasaṃghasenā vyūḍhakāḥ; ("
+              "text": ") sacet saṃghaḥ na śaknoti tad adhikaraṇaṃ vyupaśamayituṃ tataḥ ḥpaścātḥ saṃghena vyūḍhakā bhikṣavaḥ saṃmantavyāḥ daśa vā pañca vā; evaṃ ca punaḥ saṃmantavyāḥ: śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭhavācikayā bhikṣūn samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite pūrvaṃ tāvad utsāhayitavyāḥ: utsahadhve yūyaṃ buddharakṣitadharmadattasaṃghasenā vyūḍhakāḥ santo bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇaṃ vyupaśamayitum iti; saced utsahante tair vaktavyam utsahayāma iti; tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyaṃ: śṛṇotu bhadantāḥ saṃgha ime buddharakṣitadharmaḥdattaḥsaṃghasenā vyūḍhakāḥ utsahante bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayitum; sacet saṃghasya prāptakālaṃ kṣameta anujānīyāt saṃgho yat saṅgho buddharakṣitadharmadattasaṃghasenān vyūḍhakān saṃmanyeta; buddharakṣitadharmadattasaṃghasasenā vyūḍhakā utsahante saṃghasya bahiḥ sīmāṃ gatvā adhikaraṇāni vyupaśamayitum; eṣā jñaptiḥ, tataḥ karma kartavyam; śṛṇotu bhadantāḥ saṃgha ime buddharakṣitadharmadattasaṃghasenā vyūḍhakā utsahante bahiḥ sīkmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayitum; tat saṃgho ḥbuddharakṣitadharmadattasaṃghasenān vyūḍhakān saṃmanyeta; buddharakṣitadharmadattasaṃghasenāḥ vyūḍhakā bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayiṣyanti; yeṣām āyuṣmatāṃ kṣamate buddharakṣitadharmadattasaṃghasenān vyūḍhakān saṃmantum: buddharakṣitadharmadattasaṃghasenā vyūḍhakāḥ bahiḥ simāṃ gatvā saṃghasyādikaraṇāni\nvyupaśamayiṣyanti, te tūṣṇīm; na kṣamate, bhāṣantām; saṃmatā saṃghena buddharakṣitadharmadattasaṃghasenā vyūḍhakāḥ; (",
+              "segment_number": 155
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 84"
+              "text": "Adhik-v 84",
+              "segment_number": 156
             },
             {
               "tag": "text",
-              "text": "te ca bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayiṣyanti; kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm; evam etad dhārayāmi vyūḍhakais tad adhikaraṇaṃ vyupaśamayitavam dharmeṇa vinayena śāstuḥ śāsanena; vyūḍhakais tad adhikaraṇaṃ vyupaśāntaṃ ḥsuḥvyupaśamitaṃ vaktavyaṃ dharmeṇa śāstuḥ śāsanena"
+              "text": "te ca bahiḥ sīmāṃ gatvā saṃghasyādhikaraṇāni vyupaśamayiṣyanti; kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm; evam etad dhārayāmi vyūḍhakais tad adhikaraṇaṃ vyupaśamayitavam dharmeṇa vinayena śāstuḥ śāsanena; vyūḍhakais tad adhikaraṇaṃ vyupaśāntaṃ ḥsuḥvyupaśamitaṃ vaktavyaṃ dharmeṇa śāstuḥ śāsanena",
+              "segment_number": 157
             }
-          ]
+          ],
+          "segment_number": 151
         }
       ]
     },
@@ -1106,46 +1263,55 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 340b"
+              "text": "A 340b",
+              "segment_number": 159
             },
             {
               "tag": "text",
-              "text": ") adhikaraṇaṃ vyupaśamayanti; idam ucyate dharmasaṃmukham; saced vyūḍhakā bhikṣavaḥ na śaknuvanti tad adhikaraṇaṃ vyupaśamayitum, tair vyūḍhakavyūḍhakā bhikṣavaḥ saṃmantavyā aṣṭau vā nava vā; vyūḍhavyūḍhakais tad adhikaraṇaṃ vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; vyūḍhakavyūḍhakais tad adhikaraṇam vyupaśamitaṃ suvyupaśamitaṃ vaktavyam; saced vyūḍhakavyūdhakā bhikṣavaḥ tad adhikaraṇaṃ na śaknuvanti vyupaśamayituṃ tais tad adhikaraṇaṃ saṃghe upanikṣeptavyam; tataḥ saṃghenādhikaraṇasaṃcārako bhikṣuḥ saṃmantavyaḥ pañcabhir dharmaiḥ samanvāgataḥ; adhikaraṇasaṃcārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; katamaiḥ pañcabhiḥ? chandād gacchati dveṣān mohād bhayād gacchati saṃcāritāsaṃcāritaṃ cādhikaraṇaṃ na jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ adhikaraṇasaṃcārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; pañcabhis tu dharmaiḥ samanvāgataḥ adhikaraṇasaṃcārako bhikṣur asaṃmataś ca saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ; katamaiḥ pañcabhiḥ? na chandād gacchati na dveṣān na mohān na bhayād gacchati; ("
+              "text": ") adhikaraṇaṃ vyupaśamayanti; idam ucyate dharmasaṃmukham; saced vyūḍhakā bhikṣavaḥ na śaknuvanti tad adhikaraṇaṃ vyupaśamayitum, tair vyūḍhakavyūḍhakā bhikṣavaḥ saṃmantavyā aṣṭau vā nava vā; vyūḍhavyūḍhakais tad adhikaraṇaṃ vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; vyūḍhakavyūḍhakais tad adhikaraṇam vyupaśamitaṃ suvyupaśamitaṃ vaktavyam; saced vyūḍhakavyūdhakā bhikṣavaḥ tad adhikaraṇaṃ na śaknuvanti vyupaśamayituṃ tais tad adhikaraṇaṃ saṃghe upanikṣeptavyam; tataḥ saṃghenādhikaraṇasaṃcārako bhikṣuḥ saṃmantavyaḥ pañcabhir dharmaiḥ samanvāgataḥ; adhikaraṇasaṃcārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; katamaiḥ pañcabhiḥ? chandād gacchati dveṣān mohād bhayād gacchati saṃcāritāsaṃcāritaṃ cādhikaraṇaṃ na jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ adhikaraṇasaṃcārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; pañcabhis tu dharmaiḥ samanvāgataḥ adhikaraṇasaṃcārako bhikṣur asaṃmataś ca saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ; katamaiḥ pañcabhiḥ? na chandād gacchati na dveṣān na mohān na bhayād gacchati; (",
+              "segment_number": 160
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 85"
+              "text": "Adhik-v 85",
+              "segment_number": 161
             },
             {
               "tag": "text",
-              "text": ") saṃcāritāsaṃcāritaṃ cādhikaraṇaṃ jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ adhikaraṇasaṃcārako bhikṣur asaṃmataś ca saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ; evaṃ ca punaḥ saṃmantavyaḥ: śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭhavācikayā bhikṣūn smanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite ḥpūrvaṃ tāvad utsāhayitavyāḥ: utsahadhve āyuṣmantaḥ saṃghasyādhikaraṇaṃ saṃcārayitum; saced utsahante tair vaktavyam utsahayāma iti; tataḥ paścādḥ ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam: śrṇotu bhadantāḥ saṃgha ayam evaṃnāmā adhikaraṇasaṃcārako bhikṣur utsahate saṃghasyādhikaraṇaṃ saṃcārayitum; sacet saṃghasya prāptakālaṃ kṣameta anujānīyāt saṃgho yat saṃgha evaṃnāmānam adhikaraṇasaṃcārakaṃ bhikṣuṃ saṃmanyeta, evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃghasyādhikaraṇaṃ saṃcārayiṣyati;\neṣā jñaptiḥ; karma kartavyam; śrṇotu bhadantāḥ saṃghaḥ, ayam evaṃnāmā adhikaraṇasaṃcārako bhikṣur utsahate saṃghasyādhikaraṇaṃ saṃcārayitum; tat saṃgha evaṃnāmānam adhikaraṇasaṃcārakaṃ bhikṣuṃ saṃmanyeta evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃghasyādhikaraṇaṃ saṃcārayiṣyati; yeṣām āyuṣmatāṃ kṣamate evaṃnāmānam adhikaraṇasaṃcārakaṃ bhikṣum saṃmantum, evamnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃghasyādhikaraṇaṃ saṃcārayiṣyati; te ṭūṣṇīm; na kṣamate, bhāṣantām; saṃmataḥ saṃghena evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ; so 'yaṃ ("
+              "text": ") saṃcāritāsaṃcāritaṃ cādhikaraṇaṃ jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ adhikaraṇasaṃcārako bhikṣur asaṃmataś ca saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ; evaṃ ca punaḥ saṃmantavyaḥ: śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭhavācikayā bhikṣūn smanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite ḥpūrvaṃ tāvad utsāhayitavyāḥ: utsahadhve āyuṣmantaḥ saṃghasyādhikaraṇaṃ saṃcārayitum; saced utsahante tair vaktavyam utsahayāma iti; tataḥ paścādḥ ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam: śrṇotu bhadantāḥ saṃgha ayam evaṃnāmā adhikaraṇasaṃcārako bhikṣur utsahate saṃghasyādhikaraṇaṃ saṃcārayitum; sacet saṃghasya prāptakālaṃ kṣameta anujānīyāt saṃgho yat saṃgha evaṃnāmānam adhikaraṇasaṃcārakaṃ bhikṣuṃ saṃmanyeta, evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃghasyādhikaraṇaṃ saṃcārayiṣyati;\neṣā jñaptiḥ; karma kartavyam; śrṇotu bhadantāḥ saṃghaḥ, ayam evaṃnāmā adhikaraṇasaṃcārako bhikṣur utsahate saṃghasyādhikaraṇaṃ saṃcārayitum; tat saṃgha evaṃnāmānam adhikaraṇasaṃcārakaṃ bhikṣuṃ saṃmanyeta evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃghasyādhikaraṇaṃ saṃcārayiṣyati; yeṣām āyuṣmatāṃ kṣamate evaṃnāmānam adhikaraṇasaṃcārakaṃ bhikṣum saṃmantum, evamnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃghasyādhikaraṇaṃ saṃcārayiṣyati; te ṭūṣṇīm; na kṣamate, bhāṣantām; saṃmataḥ saṃghena evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ; so 'yaṃ (",
+              "segment_number": 162
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 341a"
+              "text": "A 341a",
+              "segment_number": 163
             },
             {
               "tag": "text",
-              "text": ") saṃghasyādhikaraṇaṃ saṃcārayiṣyati; kṣāntam, anujñātaṃ saṃghena yasmāt tūṣṇīm; etad dhārayāmi adhikaraṇasaṃcārakasyāhaṃ bhikṣor āsamudācarikān dharmān prajñāpayāmi; adhikaraṇasaṃcārakeṇa bhikṣuṇā idam adhikaraṇam sasthavire saprātimokṣe saṃghe upanikṣeptavyaṃ yathāvṛttaṃ cārocayitavyam; śṛṇotu bhadantāḥ saṃghaḥ, idam adhikaraṇam amuṣminn āvāse iyaccirakālasamutpannam asmin vastuni; tad adhikaraṇam sthalasthair bhikṣubhir na śakyaṃ vyupaśamayitum; taiḥ saṃghe upanikṣiptam; saṃghenāpi na śaktam; tena vyūḍhakā bhikṣavaḥ saṃmatāḥ; vyūḍhakair api bhikṣubhir na śaktam; tair api vyūḍhakavyūḍhakā bhikṣavaḥ saṃmatāḥ; vyūḍhakavyūḍhakair api saṃghe upanikṣiptam; saṃghenāpy ("
+              "text": ") saṃghasyādhikaraṇaṃ saṃcārayiṣyati; kṣāntam, anujñātaṃ saṃghena yasmāt tūṣṇīm; etad dhārayāmi adhikaraṇasaṃcārakasyāhaṃ bhikṣor āsamudācarikān dharmān prajñāpayāmi; adhikaraṇasaṃcārakeṇa bhikṣuṇā idam adhikaraṇam sasthavire saprātimokṣe saṃghe upanikṣeptavyaṃ yathāvṛttaṃ cārocayitavyam; śṛṇotu bhadantāḥ saṃghaḥ, idam adhikaraṇam amuṣminn āvāse iyaccirakālasamutpannam asmin vastuni; tad adhikaraṇam sthalasthair bhikṣubhir na śakyaṃ vyupaśamayitum; taiḥ saṃghe upanikṣiptam; saṃghenāpi na śaktam; tena vyūḍhakā bhikṣavaḥ saṃmatāḥ; vyūḍhakair api bhikṣubhir na śaktam; tair api vyūḍhakavyūḍhakā bhikṣavaḥ saṃmatāḥ; vyūḍhakavyūḍhakair api saṃghe upanikṣiptam; saṃghenāpy (",
+              "segment_number": 164
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 86"
+              "text": "Adhik-v 86",
+              "segment_number": 165
             },
             {
               "tag": "text",
-              "text": ") aham evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃmataḥ, so 'ham evaṃnāmā adhikaraṇasaṃcārako bhikṣur idam adhikaraṇaṃ sasthavire saprātimokṣe saṃghe upanikṣipāmi ity upaśamayatu bhadantāḥ saṃgha idam adhikaraṇam; yāvat ṣaṇmāsaparyantam upādāya sasthavireṇa saprātimokṣeṇa saṃghena tad adhikaraṇaṃ vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; sasthavireṇa saprātimokṣeṇa saṃghena tad adhikaraṇaṃ vyupaśamitaṃ vaktavyaṃ dharmeṇa vinayena śāstuḥ śāsanena"
+              "text": ") aham evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃmataḥ, so 'ham evaṃnāmā adhikaraṇasaṃcārako bhikṣur idam adhikaraṇaṃ sasthavire saprātimokṣe saṃghe upanikṣipāmi ity upaśamayatu bhadantāḥ saṃgha idam adhikaraṇam; yāvat ṣaṇmāsaparyantam upādāya sasthavireṇa saprātimokṣeṇa saṃghena tad adhikaraṇaṃ vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; sasthavireṇa saprātimokṣeṇa saṃghena tad adhikaraṇaṃ vyupaśamitaṃ vaktavyaṃ dharmeṇa vinayena śāstuḥ śāsanena",
+              "segment_number": 166
             }
-          ]
+          ],
+          "segment_number": 158
         }
       ]
     },
@@ -1156,7 +1322,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Three presences: saṃgha, pudgala, dharma"
+          "text": "Three presences: saṃgha, pudgala, dharma",
+          "segment_number": 167
         },
         {
           "tag": "p",
@@ -1168,24 +1335,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 341b"
+              "text": "A 341b",
+              "segment_number": 169
             },
             {
               "tag": "text",
-              "text": ") idam adhikaraṇam amuṣmin āvāse iyaccirakālasamutpannam asmin vastuni; tad adhikaraṇaṃ sthalasthair bhikṣubhir na śaktaṃ vyupaśamayitum; taiḥ saṃghe upanikṣiptam; saṃghenāpi na śaktam; tenāpi vyūḍhakā bhikṣavaḥ saṃmatāḥ; vyūḍhakair api bhikṣubhir na śaktam; tair api vyūḍhakavyūḍhakā bhikṣavaḥ saṃmatāh; vyūḍhakavyūḍhakair api bhikṣubhir na śaktam; tair api ("
+              "text": ") idam adhikaraṇam amuṣmin āvāse iyaccirakālasamutpannam asmin vastuni; tad adhikaraṇaṃ sthalasthair bhikṣubhir na śaktaṃ vyupaśamayitum; taiḥ saṃghe upanikṣiptam; saṃghenāpi na śaktam; tenāpi vyūḍhakā bhikṣavaḥ saṃmatāḥ; vyūḍhakair api bhikṣubhir na śaktam; tair api vyūḍhakavyūḍhakā bhikṣavaḥ saṃmatāh; vyūḍhakavyūḍhakair api bhikṣubhir na śaktam; tair api (",
+              "segment_number": 170
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 87"
+              "text": "Adhik-v 87",
+              "segment_number": 171
             },
             {
               "tag": "text",
-              "text": ") saṃghe upanikṣiptam; saṃghenāpy aham evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃmataḥ, tena mayā evaṃnāmnā adhikaraṇasaṃcarakeṇa bhikṣuṇā idam adhikaraṇam sasthavire saprātimokṣe saṃghe upanikṣiptaṃ; sasthavireṇāpi saprātimokṣeṇa saṃghena mamaivaṃnāmno 'dhikaraṇasaṃcārakasya bhikṣor upanikṣiptam,\nso 'ham evaṃnāmā adhikaraṇasaṃcarako bhikṣur idam adhikaraṇaṃ sūtravinayamātṛkādharāṇāṃ bhikṣūṇām upanikṣipāmi vyupaśamayantu bhavantaḥ sūtravinayamātṛkādharā bhikṣavaḥ idam adhikaraṇam yāvat saṃvatsaram upādāya; sūtravinayamātṛkādharair bhikṣubhiḥ tad adhikaraṇaṃ vyupaśamayitavyam dharmeṇa vinayena śāstuḥ śāsanena; sūtravinayamātṛkādharair bhikṣubhiḥ tad adhikaraṇaṃ vyupaśamitaṃ suvyupaśamitaṃ vaktavyam"
+              "text": ") saṃghe upanikṣiptam; saṃghenāpy aham evaṃnāmā adhikaraṇasaṃcārako bhikṣuḥ saṃmataḥ, tena mayā evaṃnāmnā adhikaraṇasaṃcarakeṇa bhikṣuṇā idam adhikaraṇam sasthavire saprātimokṣe saṃghe upanikṣiptaṃ; sasthavireṇāpi saprātimokṣeṇa saṃghena mamaivaṃnāmno 'dhikaraṇasaṃcārakasya bhikṣor upanikṣiptam,\nso 'ham evaṃnāmā adhikaraṇasaṃcarako bhikṣur idam adhikaraṇaṃ sūtravinayamātṛkādharāṇāṃ bhikṣūṇām upanikṣipāmi vyupaśamayantu bhavantaḥ sūtravinayamātṛkādharā bhikṣavaḥ idam adhikaraṇam yāvat saṃvatsaram upādāya; sūtravinayamātṛkādharair bhikṣubhiḥ tad adhikaraṇaṃ vyupaśamayitavyam dharmeṇa vinayena śāstuḥ śāsanena; sūtravinayamātṛkādharair bhikṣubhiḥ tad adhikaraṇaṃ vyupaśamitaṃ suvyupaśamitaṃ vaktavyam",
+              "segment_number": 172
             }
-          ]
+          ],
+          "segment_number": 168
         }
       ]
     },
@@ -1196,7 +1368,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Two presences: pudgala, dharma"
+          "text": "Two presences: pudgala, dharma",
+          "segment_number": 173
         },
         {
           "tag": "p",
@@ -1208,13 +1381,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 88"
+              "text": "Adhik-v 88",
+              "segment_number": 175
             },
             {
               "tag": "text",
-              "text": ") mayā evaṃnāmnā adhikaraṇasaṃcārakeṇa bhikṣuṇā idam adhikaraṇam sasthavire saprātimokṣe upanikṣiptam; sasthavireṇa saprātimokṣeṇa saṃghena na śaktaṃ vyupaśamayitum; tenāpi mamaivaṃnāmna adhikaraṇasaṃcārikasya bhikṣor upanikṣiptam; tena mayaivaṃnāmnā adhikaraṇasaṃcārakeṇa bhikṣuṇā tad adhikaraṇaṃ sūtravinayamātṛkādharāṇāṃ bhikṣūṇām upanikṣiptam; sūtravinayamātṛkādharair api na śaktam; tair api mamavaṃnāmno adhikaraṇasaṃcārakasya bhikṣor upanikṣiptam;\nso 'ham vaṃnāmā adhikaraṇasaṃcārako bhikṣur idam adhikaraṇaṃ sthavirasyopanikṣipāmi, vyupaśamayitu sthavira idam adhikaraṇaṃ yāvat paryantam upādāya; sthavirasyāhaṃ bhikṣor āsamudācārikān dharmān prajñāpayāmi; sthavireṇa bhikṣuṇā arthipratyarthikānāṃ bhikṣūṇām antikān na dantakāṣṭhopasaṃhāraḥ svīkartavyo na gomayopasaṃhāro no pātrakopasaṃhāraḥ na svādyāyanikā na paripṛcchānikā dātavyā nānyatra purataḥ pṛṣṭhataḥ; idaṃ syur vacanīyā āyuṣmanta mā kalaho mā bhaṇḍanaṃ mā vigraho mā vivādaḥ; tat kasya hetoḥ? nāsty āyuṣmantaḥ dvayor vivadamānayor jayaḥ, api tv ekasya jayaḥ, ekasya parājayaḥ; nāsti dvayor yudhyamānayor jayaḥ, api tv ekasya jayaḥ, ekasya parājayaḥ iti sthavireṇa bhikṣuṇā tad adhikaraṇam vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; sthavireṇa bhikṣuṇā tad adhikaraṇaṃ vyupaśamitaṃ suvyupaśamitaṃ vaktavyam; evaṃ hi bhikṣavaḥ saṃmukhavinaya adhikaraṇaśamatho bhavati; evaṃ ca punar ekeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca, yad uta saṃmukhavinayenādhikaraṇaśamathena"
+              "text": ") mayā evaṃnāmnā adhikaraṇasaṃcārakeṇa bhikṣuṇā idam adhikaraṇam sasthavire saprātimokṣe upanikṣiptam; sasthavireṇa saprātimokṣeṇa saṃghena na śaktaṃ vyupaśamayitum; tenāpi mamaivaṃnāmna adhikaraṇasaṃcārikasya bhikṣor upanikṣiptam; tena mayaivaṃnāmnā adhikaraṇasaṃcārakeṇa bhikṣuṇā tad adhikaraṇaṃ sūtravinayamātṛkādharāṇāṃ bhikṣūṇām upanikṣiptam; sūtravinayamātṛkādharair api na śaktam; tair api mamavaṃnāmno adhikaraṇasaṃcārakasya bhikṣor upanikṣiptam;\nso 'ham vaṃnāmā adhikaraṇasaṃcārako bhikṣur idam adhikaraṇaṃ sthavirasyopanikṣipāmi, vyupaśamayitu sthavira idam adhikaraṇaṃ yāvat paryantam upādāya; sthavirasyāhaṃ bhikṣor āsamudācārikān dharmān prajñāpayāmi; sthavireṇa bhikṣuṇā arthipratyarthikānāṃ bhikṣūṇām antikān na dantakāṣṭhopasaṃhāraḥ svīkartavyo na gomayopasaṃhāro no pātrakopasaṃhāraḥ na svādyāyanikā na paripṛcchānikā dātavyā nānyatra purataḥ pṛṣṭhataḥ; idaṃ syur vacanīyā āyuṣmanta mā kalaho mā bhaṇḍanaṃ mā vigraho mā vivādaḥ; tat kasya hetoḥ? nāsty āyuṣmantaḥ dvayor vivadamānayor jayaḥ, api tv ekasya jayaḥ, ekasya parājayaḥ; nāsti dvayor yudhyamānayor jayaḥ, api tv ekasya jayaḥ, ekasya parājayaḥ iti sthavireṇa bhikṣuṇā tad adhikaraṇam vyupaśamayitavyaṃ dharmeṇa vinayena śāstuḥ śāsanena; sthavireṇa bhikṣuṇā tad adhikaraṇaṃ vyupaśamitaṃ suvyupaśamitaṃ vaktavyam; evaṃ hi bhikṣavaḥ saṃmukhavinaya adhikaraṇaśamatho bhavati; evaṃ ca punar ekeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca, yad uta saṃmukhavinayenādhikaraṇaśamathena",
+              "segment_number": 176
             }
-          ]
+          ],
+          "segment_number": 174
         }
       ]
     },
@@ -1225,7 +1401,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The settlement of legal questions by the vote of the majority"
+          "text": "The settlement of legal questions by the vote of the majority",
+          "segment_number": 177
         },
         {
           "tag": "p",
@@ -1237,35 +1414,42 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 89"
+              "text": "Adhik-v 89",
+              "segment_number": 179
             },
             {
               "tag": "text",
-              "text": ") tena tad adhikaraṇaṃ tasyaivādhikaraṇasaṃcārakasya bhikṣor upanikṣeptavyam; tenāpi ("
+              "text": ") tena tad adhikaraṇaṃ tasyaivādhikaraṇasaṃcārakasya bhikṣor upanikṣeptavyam; tenāpi (",
+              "segment_number": 180
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 342b"
+              "text": "A 342b",
+              "segment_number": 181
             },
             {
               "tag": "text",
-              "text": ") tad adhikaraṇaṃ saṃghe upanikṣeptavyaṃ; saṃghena tad adhikaraṇaṃ yadbhūyaiṣīyaśalākāgrahaṇenādhikaraṇaśamathena vyupaśamayitavyam; pañcabhiḥ kāraṇair yadbhūyaiśīkaśalākāgrahaṇam adhikaraṇaśamathaḥ kharaś ca bhavati vyāḍaś ca pragāḍhaś ca bhedāśaṅkī cāparāvṛttaprayogī ca; kathaṃ ca kharo bhavati? arthipratyarthikair bhikṣubhiḥ kharaṃ pragṛhīto bhavati, evaṃ kharo bhavati; kathaṃ vyāḍo bhavati? arthipratyarthikā bhikṣavo vyāḍā bhavanti vikrāntāḥ, evaṃ vyāḍo bhavati; kathaṃ pragāḍho bhavati? arthipratyarthikair bhikṣubhir pragāḍhaṃ gṛhīto bhavati; evaṃ pragāḍho bhavati; kathaṃ bhedāśaṅkī bhavati? caturdaśānāṃ bhedakarāṇāṃ vastūnām anyatarānyatarat bhedakaraṃ vastu sādhu ca suṣṭhu ca sūdgṛhītaṃ bhavati, evaṃ bhedāśaṅkī bhavati; katham aparāvṛttaprayogī bhavati? sthalasthān upādāya yāvat sthaviraḥ, evam aparāvṛttaprayogī bhavati; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ yadbhūyaiṣīkaśalākāgrahaṇaśamathaḥ kharaś ca bhavati vyāḍaś ca pragāḍhaś ca bhedāśaṅkī cāparāvṛttaprayogī ca; tataḥ śalākācārako bhikṣuḥ saṃmantavyaḥ; pañcabhir dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; katamaiḥ pañcabhih? chandād gacchati dveṣān mohād bhayād gacchati cāritācāritaṃ ca śalākāṃ na jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; pañcabhis tu dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmataḥ saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ; katamaiḥ pañcabhiṛ? na chandād gacchati na dveṣān mohād bhayād gacchati cāritācāritaṃ\nca śalākāṃ jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmataḥ saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ ("
+              "text": ") tad adhikaraṇaṃ saṃghe upanikṣeptavyaṃ; saṃghena tad adhikaraṇaṃ yadbhūyaiṣīyaśalākāgrahaṇenādhikaraṇaśamathena vyupaśamayitavyam; pañcabhiḥ kāraṇair yadbhūyaiśīkaśalākāgrahaṇam adhikaraṇaśamathaḥ kharaś ca bhavati vyāḍaś ca pragāḍhaś ca bhedāśaṅkī cāparāvṛttaprayogī ca; kathaṃ ca kharo bhavati? arthipratyarthikair bhikṣubhiḥ kharaṃ pragṛhīto bhavati, evaṃ kharo bhavati; kathaṃ vyāḍo bhavati? arthipratyarthikā bhikṣavo vyāḍā bhavanti vikrāntāḥ, evaṃ vyāḍo bhavati; kathaṃ pragāḍho bhavati? arthipratyarthikair bhikṣubhir pragāḍhaṃ gṛhīto bhavati; evaṃ pragāḍho bhavati; kathaṃ bhedāśaṅkī bhavati? caturdaśānāṃ bhedakarāṇāṃ vastūnām anyatarānyatarat bhedakaraṃ vastu sādhu ca suṣṭhu ca sūdgṛhītaṃ bhavati, evaṃ bhedāśaṅkī bhavati; katham aparāvṛttaprayogī bhavati? sthalasthān upādāya yāvat sthaviraḥ, evam aparāvṛttaprayogī bhavati; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ yadbhūyaiṣīkaśalākāgrahaṇaśamathaḥ kharaś ca bhavati vyāḍaś ca pragāḍhaś ca bhedāśaṅkī cāparāvṛttaprayogī ca; tataḥ śalākācārako bhikṣuḥ saṃmantavyaḥ; pañcabhir dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; katamaiḥ pañcabhih? chandād gacchati dveṣān mohād bhayād gacchati cāritācāritaṃ ca śalākāṃ na jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ; pañcabhis tu dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmataḥ saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ; katamaiḥ pañcabhiṛ? na chandād gacchati na dveṣān mohād bhayād gacchati cāritācāritaṃ\nca śalākāṃ jānāti; ebhiḥ pañcabhir dharmaiḥ samanvāgataḥ śalākācārako bhikṣur asaṃmataḥ saṃmantavyaḥ saṃmataś ca nāvakāśayitavyaḥ (",
+              "segment_number": 182
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 90"
+              "text": "Adhik-v 90",
+              "segment_number": 183
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 184
             }
-          ]
+          ],
+          "segment_number": 178
         }
       ]
     },
@@ -1276,7 +1460,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The four methods of votation"
+          "text": "The four methods of votation",
+          "segment_number": 185
         },
         {
           "tag": "p",
@@ -1288,24 +1473,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 343a"
+              "text": "A 343a",
+              "segment_number": 187
             },
             {
               "tag": "text",
-              "text": ") ḥvivṛtaṃ śalākācāraṇaṃ katamat?ḥ yathāpitat śalākācārakasya bhikṣor evaṃ bhavati, asminn āvāse prabhūtāḥ sthavirā bhikṣavo dharmavādinaḥ alpās tu navakā bhikṣavaḥ adharmavādinaḥ; ahaṃ cec channe śalākāṃ cārayeyaṃ sthānam etad vidyate yan navakā bhikṣavaḥ adharmaśalākāṃ gṛhṇīyuḥ; yanv aham vivṛte śalākāṃ cārayeyam; vivṛte śalākāṃ cārayataḥ sthānam etad vidyate yan navakā bhikṣavaḥ sthavirāṇāṃ bhikṣūṇām anuvidhīyamānāḥ prabhūtaṃ dharmaśalākāṃ gṛhṇīyuḥ iti; sa vivṛte śalākāṃ cārayati, idam ucyate vivṛtaṃ śalākācāraṇam; sakarṇatuntunakaṃ śalākācāraṇaṃ katamat? yathāpitac chalākācārako bhikṣuḥ karṇamūle gatvā tuntunāyate, āyuṣmann upādhyāyena te dharmaśalākā gṛhītā, tvam api dharmaśalākāṃ gṛhāṇa, ācāryeṇa samānopādhyāyena samānācāryeṇa ālaptakena saṃlaptakena saṃstutakena sapremakena te dharmaśalākā gṛhītā, tvam api dharmaśalākāṃ gṛhāṇa iti; idam ucyate sakarṇatuntunakaṃ śalākācāraṇam; sarvasāṃghikaṃ śalākācāraṇaṃ katamat? yathāpitac chalākācārakasya bhikṣor evaṃ bhavati, asminn āvāse prabhūtā bhikṣavo glānāḥ, ahaṃ ced ḥasaṃniṣaṇṇeḥ asaṃnipatite sarvasaṃghe śalākāṃ cārayeyaṃ sthānam etad vidyate prabhūtā bhikṣavaḥ adharmaśālākāṃ gṛhṇiyuḥ na tv ahaṃ sarvasaṃghe saṃniṣaṇṇe saṃnipatite śalākāṃ cārayeyam iti sa sarvasaṃghe saṃniṣaṇṇe saṃnipatite śalākāṃ cārayati,\nidam ucyate sarvasāṃghikaṃ śalākācāraṇam ("
+              "text": ") ḥvivṛtaṃ śalākācāraṇaṃ katamat?ḥ yathāpitat śalākācārakasya bhikṣor evaṃ bhavati, asminn āvāse prabhūtāḥ sthavirā bhikṣavo dharmavādinaḥ alpās tu navakā bhikṣavaḥ adharmavādinaḥ; ahaṃ cec channe śalākāṃ cārayeyaṃ sthānam etad vidyate yan navakā bhikṣavaḥ adharmaśalākāṃ gṛhṇīyuḥ; yanv aham vivṛte śalākāṃ cārayeyam; vivṛte śalākāṃ cārayataḥ sthānam etad vidyate yan navakā bhikṣavaḥ sthavirāṇāṃ bhikṣūṇām anuvidhīyamānāḥ prabhūtaṃ dharmaśalākāṃ gṛhṇīyuḥ iti; sa vivṛte śalākāṃ cārayati, idam ucyate vivṛtaṃ śalākācāraṇam; sakarṇatuntunakaṃ śalākācāraṇaṃ katamat? yathāpitac chalākācārako bhikṣuḥ karṇamūle gatvā tuntunāyate, āyuṣmann upādhyāyena te dharmaśalākā gṛhītā, tvam api dharmaśalākāṃ gṛhāṇa, ācāryeṇa samānopādhyāyena samānācāryeṇa ālaptakena saṃlaptakena saṃstutakena sapremakena te dharmaśalākā gṛhītā, tvam api dharmaśalākāṃ gṛhāṇa iti; idam ucyate sakarṇatuntunakaṃ śalākācāraṇam; sarvasāṃghikaṃ śalākācāraṇaṃ katamat? yathāpitac chalākācārakasya bhikṣor evaṃ bhavati, asminn āvāse prabhūtā bhikṣavo glānāḥ, ahaṃ ced ḥasaṃniṣaṇṇeḥ asaṃnipatite sarvasaṃghe śalākāṃ cārayeyaṃ sthānam etad vidyate prabhūtā bhikṣavaḥ adharmaśālākāṃ gṛhṇiyuḥ na tv ahaṃ sarvasaṃghe saṃniṣaṇṇe saṃnipatite śalākāṃ cārayeyam iti sa sarvasaṃghe saṃniṣaṇṇe saṃnipatite śalākāṃ cārayati,\nidam ucyate sarvasāṃghikaṃ śalākācāraṇam (",
+              "segment_number": 188
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 91"
+              "text": "Adhik-v 91",
+              "segment_number": 189
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 190
             }
-          ]
+          ],
+          "segment_number": 186
         }
       ]
     },
@@ -1316,7 +1506,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The ten distributions of voting tickets that are not legally valid"
+          "text": "The ten distributions of voting tickets that are not legally valid",
+          "segment_number": 191
         },
         {
           "tag": "p",
@@ -1328,24 +1519,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 343b"
+              "text": "A 343b",
+              "segment_number": 193
             },
             {
               "tag": "text",
-              "text": ") śalākāṃ gṛhṇanti? saṃvarakaraṇīyaṃ deśanākaraṇīyam iti viditvā śalākāṃ gṛhṇanti, evam alpamātrāvaramātrakeṇa śalākāṃ gṛhṇanti; kathaṃ bhedāśaṅkinaḥ śalākāṃ gṛhṇanti? caturdaśānāṃ bhedakarāṇāṃ vastūnām anyatamānyatamad bhedakaraṃ vastu sādhu ca suṣṭhu ca sūdgṛhītaṃ bhavati, evaṃ bhedāśaṃkinaḥ śalākāṃ gṛhṇanti; kathaṃ aparāvṛttaprayogena śalākāṃ gṛhṇanti? na sthalasthān upādāya yāvan na sthaviraḥ; evam aparāvṛttaprayogena śalākāṃ gṛhṇanti; kathaṃ na gatiṃgatisārathitayā śalākāṃ gṛhṇanti? ye te bhikṣavo bhavanti sūtradharā vinayadharā mātṛkādharās tasmin dharmavinaye gataya ucyante; sārathayas tān avalokya śalākām gṛhṇanti; evaṃ na gatiṃgatisārathitayā śalākāṃ gṛhṇanti; katham apy eva śalākāgrahaṇena saṃgho bhetsyatīti śalākāṃ gṛhnanti? apy eva śalākāgrahaṇena ("
+              "text": ") śalākāṃ gṛhṇanti? saṃvarakaraṇīyaṃ deśanākaraṇīyam iti viditvā śalākāṃ gṛhṇanti, evam alpamātrāvaramātrakeṇa śalākāṃ gṛhṇanti; kathaṃ bhedāśaṅkinaḥ śalākāṃ gṛhṇanti? caturdaśānāṃ bhedakarāṇāṃ vastūnām anyatamānyatamad bhedakaraṃ vastu sādhu ca suṣṭhu ca sūdgṛhītaṃ bhavati, evaṃ bhedāśaṃkinaḥ śalākāṃ gṛhṇanti; kathaṃ aparāvṛttaprayogena śalākāṃ gṛhṇanti? na sthalasthān upādāya yāvan na sthaviraḥ; evam aparāvṛttaprayogena śalākāṃ gṛhṇanti; kathaṃ na gatiṃgatisārathitayā śalākāṃ gṛhṇanti? ye te bhikṣavo bhavanti sūtradharā vinayadharā mātṛkādharās tasmin dharmavinaye gataya ucyante; sārathayas tān avalokya śalākām gṛhṇanti; evaṃ na gatiṃgatisārathitayā śalākāṃ gṛhṇanti; katham apy eva śalākāgrahaṇena saṃgho bhetsyatīti śalākāṃ gṛhnanti? apy eva śalākāgrahaṇena (",
+              "segment_number": 194
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 92"
+              "text": "Adhik-v 92",
+              "segment_number": 195
             },
             {
               "tag": "text",
-              "text": ") saṃgho ḥbhedaṃ gamiṣyatīty evaṃcittāḥ śalākāṃ gṛhṇanti; evam apy eva śalākāgrahaneṇa saṃghoḥ bhetsyatīti śalākāṃ gṛhṇanti; katham apy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti? apy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmaṃ samādāya vartiṣyante iti śalākāṃ gṛhṇanti; evam apy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; kathaṃ jānan śalākāgrahaṇena saṃgho bhetsyati iti śalākāṃ gṛhṇanti; jānan śalākāgrahaṇena saṃgho bhedaṃ gamiṣyati ity evaṃcittā śalākāṃ gṛhṇanti; evaṃ jānan śalākāgrahaṇena saṃgho bhetsyati iti śalākāṃ gṛhṇanti; kathaṃ jānan śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādina bhaviṣyanti iti\nśalākāṃ gṛhṇanti; jānan śalākāgrahaṇena prabhūtatārā bhikṣavaḥ adharmaṃ samādāya vartiṣyanta ity evaṃcittāḥ śalākāṃ gṛhṇanti; evaṃ jānan śalākāgrahaṇena prabhūtatarā bhikṣavo adharmavādino bhaviṣyanti iti śalākāṃ gṛhṇanti; imāni daśa adhārmikāṇi śalākāgrahaṇāni"
+              "text": ") saṃgho ḥbhedaṃ gamiṣyatīty evaṃcittāḥ śalākāṃ gṛhṇanti; evam apy eva śalākāgrahaneṇa saṃghoḥ bhetsyatīti śalākāṃ gṛhṇanti; katham apy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti? apy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmaṃ samādāya vartiṣyante iti śalākāṃ gṛhṇanti; evam apy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; kathaṃ jānan śalākāgrahaṇena saṃgho bhetsyati iti śalākāṃ gṛhṇanti; jānan śalākāgrahaṇena saṃgho bhedaṃ gamiṣyati ity evaṃcittā śalākāṃ gṛhṇanti; evaṃ jānan śalākāgrahaṇena saṃgho bhetsyati iti śalākāṃ gṛhṇanti; kathaṃ jānan śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādina bhaviṣyanti iti\nśalākāṃ gṛhṇanti; jānan śalākāgrahaṇena prabhūtatārā bhikṣavaḥ adharmaṃ samādāya vartiṣyanta ity evaṃcittāḥ śalākāṃ gṛhṇanti; evaṃ jānan śalākāgrahaṇena prabhūtatarā bhikṣavo adharmavādino bhaviṣyanti iti śalākāṃ gṛhṇanti; imāni daśa adhārmikāṇi śalākāgrahaṇāni",
+              "segment_number": 196
             }
-          ]
+          ],
+          "segment_number": 192
         }
       ]
     },
@@ -1356,7 +1552,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The ten distributions of voting tickets that are legally valid"
+          "text": "The ten distributions of voting tickets that are legally valid",
+          "segment_number": 197
         },
         {
           "tag": "p",
@@ -1368,24 +1565,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 344a"
+              "text": "A 344a",
+              "segment_number": 199
             },
             {
               "tag": "text",
-              "text": ") nāpy eva jānaṃ chalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhānti?\n  kathaṃ dharmeṇa śalākāṃ gṛhṇanti? vinayānulomena śalākāṃ gṛhṇanti, evaṃ dharmeṇa śalākāṃ gṛhṇanti; kathaṃ samagrāḥ śalākāṃ gṛhṇanti? saṃghasāmagryā śalākāṃ gṛhṇanti; kathaṃ nālpāvaramātrakeṇa ("
+              "text": ") nāpy eva jānaṃ chalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhānti?\n  kathaṃ dharmeṇa śalākāṃ gṛhṇanti? vinayānulomena śalākāṃ gṛhṇanti, evaṃ dharmeṇa śalākāṃ gṛhṇanti; kathaṃ samagrāḥ śalākāṃ gṛhṇanti? saṃghasāmagryā śalākāṃ gṛhṇanti; kathaṃ nālpāvaramātrakeṇa (",
+              "segment_number": 200
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 93"
+              "text": "Adhik-v 93",
+              "segment_number": 201
             },
             {
               "tag": "text",
-              "text": ") śalākāṃ gṛhṇanti? na saṃvarakaraṇīyaṃ na deśanākaraṇīyam iti kṛtvā śalākāṃ gṛhṇanti; evaṃ nālpāmātrāvaramātrakeṇa śalākāṃ gṛhṇanti; kathaṃ na bhedāśaṅkinaḥ śalākāṃ gṛhṇanti? caturdaśānāṃ bhedakarāṇāṃ vastūnām anyatamānyatamad bhedakaraṃ vastu sādhu ca suṣṭhu ca sūdgṛhītaṃ bhavati; evaṃ na bhedāśaṅkinaḥ śalākāṃ gṛhṇanti; kathaṃ na parāvṛttaprayogena śalākāṃ gṛhṇanti? sthalasthān upādāya yāvat sthaviraḥ; evaṃ na parāvṛttaprayogena śalākāṃ gṛhṇanti; kathaṃ gatiṃgatisārathitayā śalākāṃ gṛhṇanti? ye te bhikṣavo bhavanti sūtradharā vinayadharāḥ mātṛkādharās tasmin dharmavinaye gataya ucyante; sārathayas tān avalokya śalākāṃ gṛhnanti; evaṃ gatiṃgatisārathitayaiva śalākāṃ gṛhṇanti; kathaṃ nāpi śalākāgrahaṇena saṃgho ḥbhetsyatīti śalākāṃ gṛhnanti; nāpy eva śalākāgrahaṇena saṃghoḥ bhedaṃ gamiṣyatīty evaṃcittāḥ śalākāṃ gṛhṇanti; evaṃ nāpy eva śalākāgrahaṇena saṃgho bhetsyatīti śalākāṃ gṛhṇanti; kathaṃ nāpy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; nāpy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmaṃ samādāya vartiṣyante iti śalākāṃ gṛhṇanti; evaṃ nāpy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; kathaṃ ḥnaḥ jānaṃś śalākāgrahaṇena saṃgho bhetsyatīti śalākāṃ gṛhṇanti; na jānan śalākāgrahaṇena saṃgho bhedaṃ gamiṣyatīti evaṃcittā śalākāṃ gṛhṇanti; evaṃ na jānan ḥśalākāgrahaṇena saṃgho bhetsyatīti śalakāṃ gṛhṇanti; kathaṃ na jānanḥ śalākāgrahaṇena prabhūtatarā bhikṣavaḥ śalākāgrahaṇena adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; na jānan śalākāgrahaṇena prabhūtatarā bhikṣavaḥ\nadharmaṃ samādāya vartiṣyante ity evaṃcittā śalākāṃ gṛhṇanti; evaṃ ḥnaḥ jānan śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; imāni daśa dhārmikāṇi śalākāgrahaṇāni; śalākācārakasya bhikṣor āsamudācārikān dharmān prajñāpayāmi"
+              "text": ") śalākāṃ gṛhṇanti? na saṃvarakaraṇīyaṃ na deśanākaraṇīyam iti kṛtvā śalākāṃ gṛhṇanti; evaṃ nālpāmātrāvaramātrakeṇa śalākāṃ gṛhṇanti; kathaṃ na bhedāśaṅkinaḥ śalākāṃ gṛhṇanti? caturdaśānāṃ bhedakarāṇāṃ vastūnām anyatamānyatamad bhedakaraṃ vastu sādhu ca suṣṭhu ca sūdgṛhītaṃ bhavati; evaṃ na bhedāśaṅkinaḥ śalākāṃ gṛhṇanti; kathaṃ na parāvṛttaprayogena śalākāṃ gṛhṇanti? sthalasthān upādāya yāvat sthaviraḥ; evaṃ na parāvṛttaprayogena śalākāṃ gṛhṇanti; kathaṃ gatiṃgatisārathitayā śalākāṃ gṛhṇanti? ye te bhikṣavo bhavanti sūtradharā vinayadharāḥ mātṛkādharās tasmin dharmavinaye gataya ucyante; sārathayas tān avalokya śalākāṃ gṛhnanti; evaṃ gatiṃgatisārathitayaiva śalākāṃ gṛhṇanti; kathaṃ nāpi śalākāgrahaṇena saṃgho ḥbhetsyatīti śalākāṃ gṛhnanti; nāpy eva śalākāgrahaṇena saṃghoḥ bhedaṃ gamiṣyatīty evaṃcittāḥ śalākāṃ gṛhṇanti; evaṃ nāpy eva śalākāgrahaṇena saṃgho bhetsyatīti śalākāṃ gṛhṇanti; kathaṃ nāpy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; nāpy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmaṃ samādāya vartiṣyante iti śalākāṃ gṛhṇanti; evaṃ nāpy eva śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; kathaṃ ḥnaḥ jānaṃś śalākāgrahaṇena saṃgho bhetsyatīti śalākāṃ gṛhṇanti; na jānan śalākāgrahaṇena saṃgho bhedaṃ gamiṣyatīti evaṃcittā śalākāṃ gṛhṇanti; evaṃ na jānan ḥśalākāgrahaṇena saṃgho bhetsyatīti śalakāṃ gṛhṇanti; kathaṃ na jānanḥ śalākāgrahaṇena prabhūtatarā bhikṣavaḥ śalākāgrahaṇena adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; na jānan śalākāgrahaṇena prabhūtatarā bhikṣavaḥ\nadharmaṃ samādāya vartiṣyante ity evaṃcittā śalākāṃ gṛhṇanti; evaṃ ḥnaḥ jānan śalākāgrahaṇena prabhūtatarā bhikṣavaḥ adharmavādino bhaviṣyantīti śalākāṃ gṛhṇanti; imāni daśa dhārmikāṇi śalākāgrahaṇāni; śalākācārakasya bhikṣor āsamudācārikān dharmān prajñāpayāmi",
+              "segment_number": 202
             }
-          ]
+          ],
+          "segment_number": 198
         }
       ]
     },
@@ -1396,7 +1598,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Methods fo votation"
+          "text": "Methods fo votation",
+          "segment_number": 203
         },
         {
           "tag": "p",
@@ -1408,35 +1611,42 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 344b"
+              "text": "A 344b",
+              "segment_number": 205
             },
             {
               "tag": "text",
-              "text": ") śalākā upasthāpayitavyā, dharmaśalākā adharmaśalākā ca; dharmaśalākā ajihmā avakrā ("
+              "text": ") śalākā upasthāpayitavyā, dharmaśalākā adharmaśalākā ca; dharmaśalākā ajihmā avakrā (",
+              "segment_number": 206
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 94"
+              "text": "Adhik-v 94",
+              "segment_number": 207
             },
             {
               "tag": "text",
-              "text": ") akuṭilā ḥsuvarṇāḥ sukhasaṃsparśā ca; adharmaśalākā jihmā vakrāḥ kuṭilā durvarṇā duḥkhasaṃsparśā ca; tataḥ śalākācārakeṇa bhikṣuṇā dakṣiṇena pāṇinā dharmaśalākā gṛhītvā vāmena cādharmaśalākā saṃghasthavirasya purastāt sthitvā dharmaśalākānāṃ varṇo bhāṣitavyaḥ, adharmaśalākānāṃ cāvarṇaḥ, sthavira imā dharmaśalākā ajihmā avakrā akuṭilāḥ suvarṇāḥ sukhasaṃsparśāś ca gṛhāṇa, imās tv adharmaśalākā jihmā vakrā kuṭilā durvarṇā duḥkhasaṃsparśāś ca gṛhāṇa; ḥyadiḥ yenādharmaśalākā tena hastaṃ ḥpraḥsārayati, prathamāyāṃ vāci na dātavyā, dvitīyāyāṃ na dātavyā, tṛtīyāyāṃ dātavyā; saṃghasthavireṇa vinayātisāriṇī duṣkṛtā āpattiḥ deśayitavyā; evaṃ yāvat saṃghanavakasya purataḥ sthitvā dharmaśalākānāṃ varṇo bhāṣitavyaḥ adharmaśalākānāṃ cāvarṇaḥ, imā dharmaśalākā ajihmā avakrā ḥakuṭilāḥḥ suvarṇāḥ sukhasaṃsparśāś ca gṛhāṇa, imās tv adharmaśalākā jihmā vakrāḥ kuṭilā durvarṇā duḥsaṃsparśā gṛhāṇa; yadi yena adharmaśalākās ḥtenaḥ hastaṃ prasārayati prathamāyāṃ vāci na dātavyā, dvitīyāyāṃ na dātavyā, ḥtṛtīyāyāṃ dātavyāḥ; evaṃ saṃghanavakena vinayātisāriṇī duṣkṛtā āpattir deśayitavyā; yadi dharmaśalākā nyūnā bhavati, ajñātakauṇḍinyasya śalākā grahītavyā; yady ekaśalākā adhikā bhavati evaṃ ḥtad adhikaraṇaṃḥ vyupaśāntaṃ yaduta dharmeṇa; evaṃ tasminn adhikaraṇe vyupaśānte sacet kaścit khoṭayati āpadyate duṣkṛtām; evaṃ yady ekāpy adharmaśalākā adhikā bhavati evam api tad adhikaraṇaṃ vyupaśāntaṃ yaduta adharmeṇa; evaṃ tasminn adhikaraṇe vyupaśānte kaścit khoṭayati āpadyate duṣkṛtām; evaṃ yadbhūyaiṣīkaśalākāgrahaṇādhikaraṇaśamatho bhavati; ḥevamḥ ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca ("
+              "text": ") akuṭilā ḥsuvarṇāḥ sukhasaṃsparśā ca; adharmaśalākā jihmā vakrāḥ kuṭilā durvarṇā duḥkhasaṃsparśā ca; tataḥ śalākācārakeṇa bhikṣuṇā dakṣiṇena pāṇinā dharmaśalākā gṛhītvā vāmena cādharmaśalākā saṃghasthavirasya purastāt sthitvā dharmaśalākānāṃ varṇo bhāṣitavyaḥ, adharmaśalākānāṃ cāvarṇaḥ, sthavira imā dharmaśalākā ajihmā avakrā akuṭilāḥ suvarṇāḥ sukhasaṃsparśāś ca gṛhāṇa, imās tv adharmaśalākā jihmā vakrā kuṭilā durvarṇā duḥkhasaṃsparśāś ca gṛhāṇa; ḥyadiḥ yenādharmaśalākā tena hastaṃ ḥpraḥsārayati, prathamāyāṃ vāci na dātavyā, dvitīyāyāṃ na dātavyā, tṛtīyāyāṃ dātavyā; saṃghasthavireṇa vinayātisāriṇī duṣkṛtā āpattiḥ deśayitavyā; evaṃ yāvat saṃghanavakasya purataḥ sthitvā dharmaśalākānāṃ varṇo bhāṣitavyaḥ adharmaśalākānāṃ cāvarṇaḥ, imā dharmaśalākā ajihmā avakrā ḥakuṭilāḥḥ suvarṇāḥ sukhasaṃsparśāś ca gṛhāṇa, imās tv adharmaśalākā jihmā vakrāḥ kuṭilā durvarṇā duḥsaṃsparśā gṛhāṇa; yadi yena adharmaśalākās ḥtenaḥ hastaṃ prasārayati prathamāyāṃ vāci na dātavyā, dvitīyāyāṃ na dātavyā, ḥtṛtīyāyāṃ dātavyāḥ; evaṃ saṃghanavakena vinayātisāriṇī duṣkṛtā āpattir deśayitavyā; yadi dharmaśalākā nyūnā bhavati, ajñātakauṇḍinyasya śalākā grahītavyā; yady ekaśalākā adhikā bhavati evaṃ ḥtad adhikaraṇaṃḥ vyupaśāntaṃ yaduta dharmeṇa; evaṃ tasminn adhikaraṇe vyupaśānte sacet kaścit khoṭayati āpadyate duṣkṛtām; evaṃ yady ekāpy adharmaśalākā adhikā bhavati evam api tad adhikaraṇaṃ vyupaśāntaṃ yaduta adharmeṇa; evaṃ tasminn adhikaraṇe vyupaśānte kaścit khoṭayati āpadyate duṣkṛtām; evaṃ yadbhūyaiṣīkaśalākāgrahaṇādhikaraṇaśamatho bhavati; ḥevamḥ ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca (",
+              "segment_number": 208
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 95"
+              "text": "Adhik-v 95",
+              "segment_number": 209
             },
             {
               "tag": "text",
-              "text": ") vyupaśamaś ca yaduta yadbhūyaiṣīkaśalākāgrahaṇena adhikaraṇaśamathena"
+              "text": ") vyupaśamaś ca yaduta yadbhūyaiṣīkaśalākāgrahaṇena adhikaraṇaśamathena",
+              "segment_number": 210
             }
-          ]
+          ],
+          "segment_number": 204
         }
       ]
     },
@@ -1447,7 +1657,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The legal question arising from vivāda and anavavāda can be settled in two and three ways respectively. The smṛtivinaya."
+          "text": "The legal question arising from vivāda and anavavāda can be settled in two and three ways respectively. The smṛtivinaya.",
+          "segment_number": 211
         },
         {
           "tag": "p",
@@ -1459,24 +1670,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 345a"
+              "text": "A 345a",
+              "segment_number": 213
             },
             {
               "tag": "text",
-              "text": ") adhikaraṇaśamatho bhavati; evaṃ punar ikaikeṣām adhikaraṇaśamathānāṃ damaś ca bhavati ḥśamaś caḥ vyupaśamaś ca yaduta saṃmukhavinayenādhikaraṇaḥśamathenaḥ; kathaṃ ca bhikṣavaḥ smṛtivinaya adhikaraṇaśamatho bhavati? kathaṃ ca punaḥ ihaikeṣām adhikaraṇaśamathānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta smṛtivinayenādhikaraṇaḥśamathenaḥ? yathāpitad āyuṣmān dravyo mallaputraḥ mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; sa tena vastunā ḥcodyamānoḥ jihreti; etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti; bhagavān āha: dadata bhikṣavo dravyasya mallaputrasya smṛtivinayam iti punar anyo 'py evaṃjātīya evaṃ ca punar dātavyaḥ; śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭhavācikayā bhikṣūn samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite ("
+              "text": ") adhikaraṇaśamatho bhavati; evaṃ punar ikaikeṣām adhikaraṇaśamathānāṃ damaś ca bhavati ḥśamaś caḥ vyupaśamaś ca yaduta saṃmukhavinayenādhikaraṇaḥśamathenaḥ; kathaṃ ca bhikṣavaḥ smṛtivinaya adhikaraṇaśamatho bhavati? kathaṃ ca punaḥ ihaikeṣām adhikaraṇaśamathānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta smṛtivinayenādhikaraṇaḥśamathenaḥ? yathāpitad āyuṣmān dravyo mallaputraḥ mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; sa tena vastunā ḥcodyamānoḥ jihreti; etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti; bhagavān āha: dadata bhikṣavo dravyasya mallaputrasya smṛtivinayam iti punar anyo 'py evaṃjātīya evaṃ ca punar dātavyaḥ; śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭhavācikayā bhikṣūn samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite (",
+              "segment_number": 214
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 96"
+              "text": "Adhik-v 96",
+              "segment_number": 215
             },
             {
               "tag": "text",
-              "text": ") dravyeṇa mallaputreṇa ekāṃśam uttarāsaṅgaṃ kṛtvā utkuṭukena sthitvā añjaliṃ pragṛhya idaṃ syād vedanīyam: śrṇotu bhadantāḥ saṃghaḥ, ahaṃ dravyo mallaputro mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; taṃ māṃ bhikṣavas tena vastunā codayanti; so 'haṃ tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yāce; dadātu bhadantāḥ saṃghaḥ mama dravyasya mallaputrasya smṛtivinayam anukampām upādāya; evaṃ dvir apy evaṃ trir api; tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam; śrṇotu bhadantāḥ saṃghaḥ, ayaṃ dravyo mallaputro\nmitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghān smṛtivinayaṃ yācate; sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ dravyasya mallaputrasya smṛtivinayaṃ dadyāt ity eṣā jñaptiḥ; karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, ayaṃ dravyo mallaputro mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tat saṃgho dravyasya mallaputrasya smṛtivinayaṃ dadāti; yeṣām āyuṣmatāṃ kṣamate dravyasya mallaputrasya smṛtivinayaṃ dātuṃ te tūṣṇīm; na kṣamate, bhāśantām; ḥiyam prathamā karmavācanā; evaṃ dvitīyā tṛtīyā karmavācanā kartavyāḥ; dattaḥ saṃghena dravyasya mallaputrasya smṛtivinayaḥ; kṣāntam anujñātaṃ saṃgheḥnaḥ yasmāt tūṣṇīm; evam etad dhārayāmi"
+              "text": ") dravyeṇa mallaputreṇa ekāṃśam uttarāsaṅgaṃ kṛtvā utkuṭukena sthitvā añjaliṃ pragṛhya idaṃ syād vedanīyam: śrṇotu bhadantāḥ saṃghaḥ, ahaṃ dravyo mallaputro mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; taṃ māṃ bhikṣavas tena vastunā codayanti; so 'haṃ tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yāce; dadātu bhadantāḥ saṃghaḥ mama dravyasya mallaputrasya smṛtivinayam anukampām upādāya; evaṃ dvir apy evaṃ trir api; tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam; śrṇotu bhadantāḥ saṃghaḥ, ayaṃ dravyo mallaputro\nmitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghān smṛtivinayaṃ yācate; sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ dravyasya mallaputrasya smṛtivinayaṃ dadyāt ity eṣā jñaptiḥ; karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, ayaṃ dravyo mallaputro mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tat saṃgho dravyasya mallaputrasya smṛtivinayaṃ dadāti; yeṣām āyuṣmatāṃ kṣamate dravyasya mallaputrasya smṛtivinayaṃ dātuṃ te tūṣṇīm; na kṣamate, bhāśantām; ḥiyam prathamā karmavācanā; evaṃ dvitīyā tṛtīyā karmavācanā kartavyāḥ; dattaḥ saṃghena dravyasya mallaputrasya smṛtivinayaḥ; kṣāntam anujñātaṃ saṃgheḥnaḥ yasmāt tūṣṇīm; evam etad dhārayāmi",
+              "segment_number": 216
             }
-          ]
+          ],
+          "segment_number": 212
         }
       ]
     },
@@ -1487,7 +1703,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Three forms of smṛtivinaya not legally valid"
+          "text": "Three forms of smṛtivinaya not legally valid",
+          "segment_number": 217
         },
         {
           "tag": "p",
@@ -1499,35 +1716,42 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 97"
+              "text": "Adhik-v 97",
+              "segment_number": 219
             },
             {
               "tag": "text",
-              "text": ") tasya saṃghaḥ smṛtivinayaṃ dadyāt; adhārmikaṃ smṛtivinayadānam; tat kasya ketoḥ? nāśanārhaḥ sa; yathāpitad bhikṣuḥ saṃghāvaśeṣāṃ pāyattikāṃ pratideśanikāṃ duṣkṛtām āpattim apannaḥ tam ("
+              "text": ") tasya saṃghaḥ smṛtivinayaṃ dadyāt; adhārmikaṃ smṛtivinayadānam; tat kasya ketoḥ? nāśanārhaḥ sa; yathāpitad bhikṣuḥ saṃghāvaśeṣāṃ pāyattikāṃ pratideśanikāṃ duṣkṛtām āpattim apannaḥ tam (",
+              "segment_number": 220
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 345b"
+              "text": "A 345b",
+              "segment_number": 221
             },
             {
               "tag": "text",
-              "text": ") enaṃ bhikṣavas tena vastunā codayanti; sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tasya saṃghaḥ smṛtivinayaṃ dadāti, adhārmikaṃ smṛtivinayadānaṃ; tat kasya hetoḥ? deśanārhaḥ sa; yathāpitat sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritaṃ bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī visphārite, mukhaṃ vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; tena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti, ḥsa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācateḥ; saṃghaḥ smṛtivinayaṃ dadāti; adhārmikaṃ smṛtivinayadānam; tat kasya hetoḥ? amūḍhavinayārhaḥ sa; yathāpitad vastuko bhikṣuḥ saṃghamadhye āpattim avajānāti, avajñāya pratijānāti, pratijñāya punar apy avajānāti, ḥtasya bhikṣavaḥ smṛtivinayaṃ dadati, adhārmikaṃ smṛtivinayadānam; tat kasya hetoḥ?ḥ tatsvabhāvaiṣīyārhaḥ sa; itīmāmi trīṇy adhārmikāṇi smṛtivinayadānāni ("
+              "text": ") enaṃ bhikṣavas tena vastunā codayanti; sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tasya saṃghaḥ smṛtivinayaṃ dadāti, adhārmikaṃ smṛtivinayadānaṃ; tat kasya hetoḥ? deśanārhaḥ sa; yathāpitat sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritaṃ bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī visphārite, mukhaṃ vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; tena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti, ḥsa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācateḥ; saṃghaḥ smṛtivinayaṃ dadāti; adhārmikaṃ smṛtivinayadānam; tat kasya hetoḥ? amūḍhavinayārhaḥ sa; yathāpitad vastuko bhikṣuḥ saṃghamadhye āpattim avajānāti, avajñāya pratijānāti, pratijñāya punar apy avajānāti, ḥtasya bhikṣavaḥ smṛtivinayaṃ dadati, adhārmikaṃ smṛtivinayadānam; tat kasya hetoḥ?ḥ tatsvabhāvaiṣīyārhaḥ sa; itīmāmi trīṇy adhārmikāṇi smṛtivinayadānāni (",
+              "segment_number": 222
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 98"
+              "text": "Adhik-v 98",
+              "segment_number": 223
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 224
             }
-          ]
+          ],
+          "segment_number": 218
         }
       ]
     },
@@ -1538,12 +1762,14 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Three forms of smṛtivinaya legally valid"
+          "text": "Three forms of smṛtivinaya legally valid",
+          "segment_number": 225
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "ḥtrīṇi dhārmikāṇi smṛtivinayadānāni katamāni?ḥ yathāpitad dravyo mallaputro mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tasya saṃghaḥ smṛtivinayaṃ dadāti; dhārmikaṃ smṛtivinayadānam; yathāpitad bhikṣur anyām evāpattim āpanno bhavati; tam enaṃ bhikṣavo 'nyena vastunā codayanti; sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tasya saṃghaḥ smṛtivinayaṃ dadāti; dhārmikaṃ smṛtivinayadānam; yathāpitad bhikṣur āpattim āpanno bhavati; sā tena bhikṣoḥ purastād deśitā bhavati pratikṛtā vā; tam enam bhikṣavas tena vastunā codayanti, sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate, tasya saṃghaḥ smṛtivinayaṃ dadāti, dhārmikaṃ smṛtivinayadānam; itīmāni trīṇi dhārmikāṇi smṛtivinayadānāni; evaṃ hi bhikṣavaḥ smṛtivinaya adhikaraṇaśamatho bhavati; evam ihaikeṣām adhikaraṇānāṃ damaś ca bhavati ḥśamaś caḥ vyupaśamaś ca yaduta smṛtivinayenādhikaraṇaśamathena"
+          "text": "ḥtrīṇi dhārmikāṇi smṛtivinayadānāni katamāni?ḥ yathāpitad dravyo mallaputro mitrayā bhikṣuṇyā abhūtenābhyākhyātaḥ; tam enaṃ bhikṣavas tena vastunā codayanti; sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tasya saṃghaḥ smṛtivinayaṃ dadāti; dhārmikaṃ smṛtivinayadānam; yathāpitad bhikṣur anyām evāpattim āpanno bhavati; tam enaṃ bhikṣavo 'nyena vastunā codayanti; sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate; tasya saṃghaḥ smṛtivinayaṃ dadāti; dhārmikaṃ smṛtivinayadānam; yathāpitad bhikṣur āpattim āpanno bhavati; sā tena bhikṣoḥ purastād deśitā bhavati pratikṛtā vā; tam enam bhikṣavas tena vastunā codayanti, sa tena vastunā codyamānaḥ saṃghāt smṛtivinayaṃ yācate, tasya saṃghaḥ smṛtivinayaṃ dadāti, dhārmikaṃ smṛtivinayadānam; itīmāni trīṇi dhārmikāṇi smṛtivinayadānāni; evaṃ hi bhikṣavaḥ smṛtivinaya adhikaraṇaśamatho bhavati; evam ihaikeṣām adhikaraṇānāṃ damaś ca bhavati ḥśamaś caḥ vyupaśamaś ca yaduta smṛtivinayenādhikaraṇaśamathena",
+          "segment_number": 226
         }
       ]
     },
@@ -1554,7 +1780,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The amūḍhavinaya"
+          "text": "The amūḍhavinaya",
+          "segment_number": 227
         },
         {
           "tag": "p",
@@ -1566,35 +1793,42 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 346a"
+              "text": "A 346a",
+              "segment_number": 229
             },
             {
               "tag": "text",
-              "text": ") dadata yūyaṃ bhikṣavaḥ ("
+              "text": ") dadata yūyaṃ bhikṣavaḥ (",
+              "segment_number": 230
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 99"
+              "text": "Adhik-v 99",
+              "segment_number": 231
             },
             {
               "tag": "text",
-              "text": ") sekatasya bhikṣor amūḍhavinayam iti; yo vā punar anyo 'py evaṃjātīyaḥ evaṃ punar dātavyaḥ; śayanāsaprajñaptiṃ kṛtvā gaṇdīm ākoṭya pṛṣṭhavācikayā samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite sekatena bhikṣuṇā ekāṃśam uttarāsaṅgaṃ kṛtvā yathāvṛddhikayā sāmīcīṃ kṛtvā utkuṭukena sthitvā idaṃ syād vacanīyam: śṛṇotu bhadantāḥ saṃgho mayā sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam ḥanānulomikamḥ ācaritam bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī saṃparivartite, mukhaṃ ca vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; tena ca mayāpareṇa samayena svacittaṃ pratilabdham; taṃ māṃ bhikṣavas tena vastunā codayanti; so 'haṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yāce, dadātu bhadantāḥ saṃgho me sekatasya bhikṣor amūḍhavinayam anukampām upādāya; evaṃ dvir apy evaṃ trir api; tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, anena sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritam bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī\nsaṃparivartite, mukhaṃ ca vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; anena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yācate; sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ sekatasya bhikṣor amūḍhavinayaṃ dadyād ity eṣā jñaptiḥ; karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, anena sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritam, bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī saṃparivartite, mukhaṃ ca vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; anena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yācate; tat saṃghaḥ sekatasya bhikṣor amūḍhavinayaṃ dadāti; yeṣām āyuṣmatāṃ kṣamate sekatasya bhikṣor amūḍhavinayaṃ dātum, te tūṣṇīm, na kṣamate, bhāṣantām; ḥiyaṃ prathamā karmavācanā; evaṃ dvitīya tṛtīyā karmavācanā kartavyā;ḥ dattaḥ saṃghena sekatasya bhikṣor amūḍhavinayaḥ; kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm; evam etad dhārayāmi ("
+              "text": ") sekatasya bhikṣor amūḍhavinayam iti; yo vā punar anyo 'py evaṃjātīyaḥ evaṃ punar dātavyaḥ; śayanāsaprajñaptiṃ kṛtvā gaṇdīm ākoṭya pṛṣṭhavācikayā samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite sekatena bhikṣuṇā ekāṃśam uttarāsaṅgaṃ kṛtvā yathāvṛddhikayā sāmīcīṃ kṛtvā utkuṭukena sthitvā idaṃ syād vacanīyam: śṛṇotu bhadantāḥ saṃgho mayā sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam ḥanānulomikamḥ ācaritam bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī saṃparivartite, mukhaṃ ca vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; tena ca mayāpareṇa samayena svacittaṃ pratilabdham; taṃ māṃ bhikṣavas tena vastunā codayanti; so 'haṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yāce, dadātu bhadantāḥ saṃgho me sekatasya bhikṣor amūḍhavinayam anukampām upādāya; evaṃ dvir apy evaṃ trir api; tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, anena sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritam bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī\nsaṃparivartite, mukhaṃ ca vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; anena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yācate; sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ sekatasya bhikṣor amūḍhavinayaṃ dadyād ity eṣā jñaptiḥ; karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, anena sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritam, bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī saṃparivartite, mukhaṃ ca vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena pravyāhṛta iti matam; anena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yācate; tat saṃghaḥ sekatasya bhikṣor amūḍhavinayaṃ dadāti; yeṣām āyuṣmatāṃ kṣamate sekatasya bhikṣor amūḍhavinayaṃ dātum, te tūṣṇīm, na kṣamate, bhāṣantām; ḥiyaṃ prathamā karmavācanā; evaṃ dvitīya tṛtīyā karmavācanā kartavyā;ḥ dattaḥ saṃghena sekatasya bhikṣor amūḍhavinayaḥ; kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm; evam etad dhārayāmi (",
+              "segment_number": 232
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 100"
+              "text": "Adhik-v 100",
+              "segment_number": 233
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 234
             }
-          ]
+          ],
+          "segment_number": 228
         }
       ]
     },
@@ -1605,7 +1839,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Two forms of amūḍhavinaya respectively not legally valid and legally valid"
+          "text": "Two forms of amūḍhavinaya respectively not legally valid and legally valid",
+          "segment_number": 235
         },
         {
           "tag": "p",
@@ -1617,13 +1852,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 346b"
+              "text": "A 346b",
+              "segment_number": 237
             },
             {
               "tag": "text",
-              "text": ") amūḍhavinayadānam; idam ekam adhārmikam; dhārmikaṃ katamat? yathāpitat sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritaṃ bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī saṃparivartite, mukhaṃ vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena ḥpravyāhṛtaḥ iti matam; tena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yācate; tasya saṃgha amūḍhavinayaṃ dadāti; dhārmikam amūḍhavinayadānam; idam ekam dhārmikam; evaṃ hi bhikṣavaḥ amūḍhavinayaḥ adhikaraṇaśamatho bhavati; evaṃ ca punar ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca; anavavādādhikaraṇaṃ bhikṣavaḥ ebhis tribhir adhikaraṇaśamathair dharmair damayitavyaṃ śamayitavyaṃ vyupaśamayitavyam, yaduta saṃmukhavinayena smṛtivinayena amūḍhavinayena ca"
+              "text": ") amūḍhavinayadānam; idam ekam adhārmikam; dhārmikaṃ katamat? yathāpitat sekatena bhikṣuṇā nagnenonmattakena kṣiptacittena vedanābhinunnena bahv aśrāmaṇakam anānulomikam ācaritaṃ bhāṣitaṃ parākrāntam, lālā vāhitā, akṣiṇī saṃparivartite, mukhaṃ vibhaṇḍitam, asuptena supta iti matam, parair apravyāhṛtena ḥpravyāhṛtaḥ iti matam; tena cāpareṇa samayena svacittaṃ pratilabdham; tam enaṃ bhikṣavas tena vastunā codayanti; so 'yaṃ tena vastunā codyamānaḥ saṃghād amūḍhavinayaṃ yācate; tasya saṃgha amūḍhavinayaṃ dadāti; dhārmikam amūḍhavinayadānam; idam ekam dhārmikam; evaṃ hi bhikṣavaḥ amūḍhavinayaḥ adhikaraṇaśamatho bhavati; evaṃ ca punar ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca; anavavādādhikaraṇaṃ bhikṣavaḥ ebhis tribhir adhikaraṇaśamathair dharmair damayitavyaṃ śamayitavyaṃ vyupaśamayitavyam, yaduta saṃmukhavinayena smṛtivinayena amūḍhavinayena ca",
+              "segment_number": 238
             }
-          ]
+          ],
+          "segment_number": 236
         }
       ]
     },
@@ -1634,7 +1872,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The legal questions arising from āpatti can be settled in four ways. The pratijñākāraka"
+          "text": "The legal questions arising from āpatti can be settled in four ways. The pratijñākāraka",
+          "segment_number": 239
         },
         {
           "tag": "p",
@@ -1646,13 +1885,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 101"
+              "text": "Adhik-v 101",
+              "segment_number": 241
             },
             {
               "tag": "text",
-              "text": ") sa tena ḥvastunāḥ codito vā ḥacodito vāḥ smārito vā asmārito vā bhikṣoḥ purataḥ sthitvā evam āha: samanvāharāyuṣmann aham evaṃnāmā evaṃrūpāṃ cāpattim āpannaḥ; tām aham āyuṣmataḥ purastād deśayāmi āviṣkaromi; deśayitvā me āviṣkṛtya sparśo bhavati nādeśayitvā nānāviṣkṛtya; tena vaktavyaṃ paśyasi āpattim iti; tenāpi vaktavyaṃ paśyāmi iti; pūrvakeṇa vaktavyam āyatyām saṃvaram āpatsyase iti; paścimakena vaktavyam āpatsya iti; iti iyaṃ pratijñā"
+              "text": ") sa tena ḥvastunāḥ codito vā ḥacodito vāḥ smārito vā asmārito vā bhikṣoḥ purataḥ sthitvā evam āha: samanvāharāyuṣmann aham evaṃnāmā evaṃrūpāṃ cāpattim āpannaḥ; tām aham āyuṣmataḥ purastād deśayāmi āviṣkaromi; deśayitvā me āviṣkṛtya sparśo bhavati nādeśayitvā nānāviṣkṛtya; tena vaktavyaṃ paśyasi āpattim iti; tenāpi vaktavyaṃ paśyāmi iti; pūrvakeṇa vaktavyam āyatyām saṃvaram āpatsyase iti; paścimakena vaktavyam āpatsya iti; iti iyaṃ pratijñā",
+              "segment_number": 242
             }
-          ]
+          ],
+          "segment_number": 240
         }
       ]
     },
@@ -1663,7 +1905,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Ten and ten ways of applying pratijñākāraka respectively not legally valid and legally valid"
+          "text": "Ten and ten ways of applying pratijñākāraka respectively not legally valid and legally valid",
+          "segment_number": 243
         },
         {
           "tag": "p",
@@ -1675,24 +1918,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 347a"
+              "text": "A 347a",
+              "segment_number": 245
             },
             {
               "tag": "text",
-              "text": ") pratijānāti, tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; saṃghāvaśeṣāṃ pāyattikāṃ pratideśanikāṃ duṣkṛtām āpattim āpannaḥ āpanno 'smīti pratijānāti, tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; yathāpitad bhikṣuḥ pārajikām āpattim anāpannaḥ anāpanno 'smīti pratijānāti tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; saṃghāvaśeṣāṃ pāyattikāṃ pratideśanikāṃ duṣkṛtām āpattim anāpano 'smīti pratijānāti tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; imāni dāśa dhārmikāṇi pratijñādānāni; ("
+              "text": ") pratijānāti, tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; saṃghāvaśeṣāṃ pāyattikāṃ pratideśanikāṃ duṣkṛtām āpattim āpannaḥ āpanno 'smīti pratijānāti, tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; yathāpitad bhikṣuḥ pārajikām āpattim anāpannaḥ anāpanno 'smīti pratijānāti tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; saṃghāvaśeṣāṃ pāyattikāṃ pratideśanikāṃ duṣkṛtām āpattim anāpano 'smīti pratijānāti tasya saṃghaḥ pratijñāṃ kārayati, dhārmikaṃ pratijñādānam; imāni dāśa dhārmikāṇi pratijñādānāni; (",
+              "segment_number": 246
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 102"
+              "text": "Adhik-v 102",
+              "segment_number": 247
             },
             {
               "tag": "text",
-              "text": ") evaṃ hi\nbhikṣavaḥ pratijñākāraka adhikaraṇaśamatho bhavati; evam ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta pratijñākārakeṇa adhikaraṇaśamathena"
+              "text": ") evaṃ hi\nbhikṣavaḥ pratijñākāraka adhikaraṇaśamatho bhavati; evam ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta pratijñākārakeṇa adhikaraṇaśamathena",
+              "segment_number": 248
             }
-          ]
+          ],
+          "segment_number": 244
         }
       ]
     },
@@ -1703,7 +1951,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The Buddha absolves the monk Kālo Mṛgāraputra from a false accusation"
+          "text": "The Buddha absolves the monk Kālo Mṛgāraputra from a false accusation",
+          "segment_number": 249
         },
         {
           "tag": "p",
@@ -1715,46 +1964,55 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 103"
+              "text": "Adhik-v 103",
+              "segment_number": 251
             },
             {
               "tag": "text",
-              "text": ") upādhyāyenāsmin pradeśe cīvarakāṇi sthāpitāni; tena vyatyāsena nītāni bhaveyuh; gacchāmi tāvad upādhyāyaṃ paśyāmīti; sa upādhyāyasya sakāśaṃ gataḥ; kathayati: upādhyāya santakāni ("
+              "text": ") upādhyāyenāsmin pradeśe cīvarakāṇi sthāpitāni; tena vyatyāsena nītāni bhaveyuh; gacchāmi tāvad upādhyāyaṃ paśyāmīti; sa upādhyāyasya sakāśaṃ gataḥ; kathayati: upādhyāya santakāni (",
+              "segment_number": 252
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 347ba"
+              "text": "A 347ba",
+              "segment_number": 253
             },
             {
               "tag": "text",
-              "text": ") tvayā cīvarāṇy ānītāni? sa kathayati, putra mama santakāni, kasyānyasya santakāni? upādhyāya amukena bhikṣuṇā tasminn eva pradeśe cīvarakāṇi sthāpitāni; so 'vadhyāyati; putra yady evam ānaya, tāni cīvarāṇi paśyāmi iti; sa tāny ādāyāgataḥ; upādhyāya imāni tāni\ncīvarāṇi pratyabhijānīhi? tena pratyabhijñātāni; putra vyatyāsena mayānītāni, naya tasya bhikṣor imāmi tāni; sa tāny ādāya tasya bhikṣoḥ sakāśaṃ gataḥ kathayati: āyuṣmann imāni tāni cīvarāny upādhyāyena vyatyāsena nītāni; sa kathayati: pārājikām evāpattim apannaḥ steyacittena tena nītāni; tatas tair avatāraprekṣibhir bhikṣubhis tasyācodayitvā asmārayitvā balād utkṣepaṇīyaṃ karma kṛtam; āyuṣmān kālo mṛgāraputraḥ saṃlakṣayati: duḥkhaṃ brāhmaṇagṛhapatayaḥ prasādyante, sukham aprasādyante; yadi sthāsyāmi niyataṃ vaiśālakā licchavayo ḥnaḥ prasādaṃ pravedayiṣyante; sarvathā śrāvastīm eva gamiṣyāmi iti sa na vyavalokya vaiśalakān licchavīn samādāya pātracīvaraṃ yena śrāvastī tena cārikāṃ prakrāntaḥ; anupūrveṇa caran śrāvastīm anuprāptaḥ; sa bhikṣubhir dṛṣṭaḥ; uktaḥ: svāgataṃ svāgatam āyuṣman kāla prītā vayaṃ tvaddarśanena no tv āgamanena; kiṃ kāraṇam? yasmāt tvām āgamya vaiśālakā licchavayaḥ buddhe 'bhiprasannā ḥdharmeḥ saṃghe 'bhiprasannā atyarthaṃ buddhadharmasaṃgheṣu kārān kurvanti iti; sa kathayati: asty etad evam, api tu vaiśālikair bhikṣubhir acodayitvā asmārayitvā balād utkṣepaṇīyaṃ karma kṛtam iti; etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti; bhagavān āha: tiṣṭha bhikṣu ahaṃ tvāṃ dharmeṇa ḥosārayāmi; tato bhagavatā ("
+              "text": ") tvayā cīvarāṇy ānītāni? sa kathayati, putra mama santakāni, kasyānyasya santakāni? upādhyāya amukena bhikṣuṇā tasminn eva pradeśe cīvarakāṇi sthāpitāni; so 'vadhyāyati; putra yady evam ānaya, tāni cīvarāṇi paśyāmi iti; sa tāny ādāyāgataḥ; upādhyāya imāni tāni\ncīvarāṇi pratyabhijānīhi? tena pratyabhijñātāni; putra vyatyāsena mayānītāni, naya tasya bhikṣor imāmi tāni; sa tāny ādāya tasya bhikṣoḥ sakāśaṃ gataḥ kathayati: āyuṣmann imāni tāni cīvarāny upādhyāyena vyatyāsena nītāni; sa kathayati: pārājikām evāpattim apannaḥ steyacittena tena nītāni; tatas tair avatāraprekṣibhir bhikṣubhis tasyācodayitvā asmārayitvā balād utkṣepaṇīyaṃ karma kṛtam; āyuṣmān kālo mṛgāraputraḥ saṃlakṣayati: duḥkhaṃ brāhmaṇagṛhapatayaḥ prasādyante, sukham aprasādyante; yadi sthāsyāmi niyataṃ vaiśālakā licchavayo ḥnaḥ prasādaṃ pravedayiṣyante; sarvathā śrāvastīm eva gamiṣyāmi iti sa na vyavalokya vaiśalakān licchavīn samādāya pātracīvaraṃ yena śrāvastī tena cārikāṃ prakrāntaḥ; anupūrveṇa caran śrāvastīm anuprāptaḥ; sa bhikṣubhir dṛṣṭaḥ; uktaḥ: svāgataṃ svāgatam āyuṣman kāla prītā vayaṃ tvaddarśanena no tv āgamanena; kiṃ kāraṇam? yasmāt tvām āgamya vaiśālakā licchavayaḥ buddhe 'bhiprasannā ḥdharmeḥ saṃghe 'bhiprasannā atyarthaṃ buddhadharmasaṃgheṣu kārān kurvanti iti; sa kathayati: asty etad evam, api tu vaiśālikair bhikṣubhir acodayitvā asmārayitvā balād utkṣepaṇīyaṃ karma kṛtam iti; etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti; bhagavān āha: tiṣṭha bhikṣu ahaṃ tvāṃ dharmeṇa ḥosārayāmi; tato bhagavatā (",
+              "segment_number": 254
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 104"
+              "text": "Adhik-v 104",
+              "segment_number": 255
             },
             {
               "tag": "text",
-              "text": ") dharmeṇaḥ osāritaḥ; vaiśālikānāṃ vipratisāro jātaḥ, na śobhanam asmābhiḥ kṛtaṃ yat kālasya bhikṣor adūṣiṇo 'napakāriṇo balād utkṣepaṇīyaṃ karma kṛtam iti; te samādāya pātracīvaraṃ yena śrāvastī tena cārikāṃ prakrāntāḥ; tair antarmārgair bhikṣur dṛṣṭa uktaś ca, kutas tvam āyuṣmann āgacchasi? śrāvastyāḥ; dṛṣṭas tvayā kālo mṛgāraputraḥ? dṛṣṭaḥ, kiṃ tasya? asmābhiḥ tasyādūṣiṇo 'napakāriṇaḥ acodayitvāsmārayitvā balād utkṣepaṇīyaṃ karma kṛtam; osāritam; kena? bhagavatā;\ntatra eka evam āhur anosāritaṃ dūrosāritam, yasmāt tasyāsmābhir utkṣepaṇīyaṃ karma kṛtam asmāsv asaṃmukhībhūteṣu tasyausāraṇaṃ na yuktam ("
+              "text": ") dharmeṇaḥ osāritaḥ; vaiśālikānāṃ vipratisāro jātaḥ, na śobhanam asmābhiḥ kṛtaṃ yat kālasya bhikṣor adūṣiṇo 'napakāriṇo balād utkṣepaṇīyaṃ karma kṛtam iti; te samādāya pātracīvaraṃ yena śrāvastī tena cārikāṃ prakrāntāḥ; tair antarmārgair bhikṣur dṛṣṭa uktaś ca, kutas tvam āyuṣmann āgacchasi? śrāvastyāḥ; dṛṣṭas tvayā kālo mṛgāraputraḥ? dṛṣṭaḥ, kiṃ tasya? asmābhiḥ tasyādūṣiṇo 'napakāriṇaḥ acodayitvāsmārayitvā balād utkṣepaṇīyaṃ karma kṛtam; osāritam; kena? bhagavatā;\ntatra eka evam āhur anosāritaṃ dūrosāritam, yasmāt tasyāsmābhir utkṣepaṇīyaṃ karma kṛtam asmāsv asaṃmukhībhūteṣu tasyausāraṇaṃ na yuktam (",
+              "segment_number": 256
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 348a"
+              "text": "A 348a",
+              "segment_number": 257
             },
             {
               "tag": "text",
-              "text": ") iti; apare tv evam āhuḥ: dharmasvāmī bhagavān, dharmasvāmī sugataḥ, yasyausāritaḥ svosāritaḥ; te anupūrveṇa śrāvastīm anuprāptāḥ patracīvaraṃ pratiśamayya pādau prakṣālya yena bhagavāṃs tenopasaṃkrāntāḥ; upasaṃkramya bhagavataḥ pādau śirasā vanditva ekānte niṣaṇṇāḥ; ekāntaniṣaṇṇā vaiśālikā bhikṣavo bhagavantam idam avocan: asmābhir bhadanta bālair mūḍhair avyaktair akuśalaiḥ kālasya mṛgāraputrasyādūṣiṇo 'napakāriṇaḥ acodayitvā asmārayitvā balād utkṣepaṇīyaṃ karma kṛtam; te vayaṃ vipratisārajātaḥ kālaṃ mṛgāraputraṃ kṣamayitum ihāgatāḥ iti; bhagavān āha: osāritaṃ bhikṣavas tad adhikaraṇaṃ tathāgatena yaduta dharmeṇa; śrutam asmābhir bhadanta bhikṣoḥ sakāśād antarmārgeṇa osāritaṃ bhagavatā yaduta dharmeṇa iti; api tv ḥekeḥ asmākam evam āhuḥ: anosāritaṃ dūrosāritam, yasmād vayaṃ tatra na saṃmukhībhūtā iti; apare tv evam āhuḥ: dharmasvāmī bhagavān dharmasvāmī sugataḥ yasyausāritaṃ svosāritam iti"
+              "text": ") iti; apare tv evam āhuḥ: dharmasvāmī bhagavān, dharmasvāmī sugataḥ, yasyausāritaḥ svosāritaḥ; te anupūrveṇa śrāvastīm anuprāptāḥ patracīvaraṃ pratiśamayya pādau prakṣālya yena bhagavāṃs tenopasaṃkrāntāḥ; upasaṃkramya bhagavataḥ pādau śirasā vanditva ekānte niṣaṇṇāḥ; ekāntaniṣaṇṇā vaiśālikā bhikṣavo bhagavantam idam avocan: asmābhir bhadanta bālair mūḍhair avyaktair akuśalaiḥ kālasya mṛgāraputrasyādūṣiṇo 'napakāriṇaḥ acodayitvā asmārayitvā balād utkṣepaṇīyaṃ karma kṛtam; te vayaṃ vipratisārajātaḥ kālaṃ mṛgāraputraṃ kṣamayitum ihāgatāḥ iti; bhagavān āha: osāritaṃ bhikṣavas tad adhikaraṇaṃ tathāgatena yaduta dharmeṇa; śrutam asmābhir bhadanta bhikṣoḥ sakāśād antarmārgeṇa osāritaṃ bhagavatā yaduta dharmeṇa iti; api tv ḥekeḥ asmākam evam āhuḥ: anosāritaṃ dūrosāritam, yasmād vayaṃ tatra na saṃmukhībhūtā iti; apare tv evam āhuḥ: dharmasvāmī bhagavān dharmasvāmī sugataḥ yasyausāritaṃ svosāritam iti",
+              "segment_number": 258
             }
-          ]
+          ],
+          "segment_number": 250
         }
       ]
     },
@@ -1765,7 +2023,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Various forms of accusations"
+          "text": "Various forms of accusations",
+          "segment_number": 259
         },
         {
           "tag": "p",
@@ -1777,13 +2036,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 104"
+              "text": "Adhik-v 104",
+              "segment_number": 261
             },
             {
               "tag": "text",
-              "text": ") caturakṣam; 2) dvau saṃbahulān saṃghaṃ codayataḥ dharmeṇa vinayena saṃmukhaṃ caturakṣaṃ; 3) dvau pudgalau pudgalaṃ codayataḥ dharmeṇa vinayena saṃmukaṃ caturakṣaṃ; 4) dvau pudgalau codayataḥ ḥdvauḥ saṃbahulān saṃghaṃ dharmeṇa vinayena ḥsaṃmukhaṃḥ caturakṣam; 5) saṃbahulāḥ pudgalāḥ pudgalaṃ codayanti dharmeṇa vinayena saṃmukhaṃ caturakṣaṃ; 6) saṃbahulāḥ pudgalāḥ ḥdvau saṃbahulānḥ saṃghaṃ codayanti dharmeṇa vinayena saṃmukhaṃ caturakṣam; 7) saṃghaḥ pudgalaṃ codayati dharmeṇa vinayena saṃmukhaṃ caturakṣam; 8) ḥsaṅghoḥ dvau saṃbahulān saṃghaṃ codayati dharmeṇa vinayena caturakṣam"
+              "text": ") caturakṣam; 2) dvau saṃbahulān saṃghaṃ codayataḥ dharmeṇa vinayena saṃmukhaṃ caturakṣaṃ; 3) dvau pudgalau pudgalaṃ codayataḥ dharmeṇa vinayena saṃmukaṃ caturakṣaṃ; 4) dvau pudgalau codayataḥ ḥdvauḥ saṃbahulān saṃghaṃ dharmeṇa vinayena ḥsaṃmukhaṃḥ caturakṣam; 5) saṃbahulāḥ pudgalāḥ pudgalaṃ codayanti dharmeṇa vinayena saṃmukhaṃ caturakṣaṃ; 6) saṃbahulāḥ pudgalāḥ ḥdvau saṃbahulānḥ saṃghaṃ codayanti dharmeṇa vinayena saṃmukhaṃ caturakṣam; 7) saṃghaḥ pudgalaṃ codayati dharmeṇa vinayena saṃmukhaṃ caturakṣam; 8) ḥsaṅghoḥ dvau saṃbahulān saṃghaṃ codayati dharmeṇa vinayena caturakṣam",
+              "segment_number": 262
             }
-          ]
+          ],
+          "segment_number": 260
         }
       ]
     },
@@ -1794,7 +2056,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Sixteen and sixteen ways of applying saṃmukhavinaya respectively not legally valid and legally valid"
+          "text": "Sixteen and sixteen ways of applying saṃmukhavinaya respectively not legally valid and legally valid",
+          "segment_number": 263
         },
         {
           "tag": "p",
@@ -1806,24 +2069,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 348b"
+              "text": "A 348b",
+              "segment_number": 265
             },
             {
               "tag": "text",
-              "text": ") adhārmikau saṃghaḥ dhārmikaḥ; 9) saṃbahulāḥ pudgalāḥ adhārmikāḥ pudgalaḥ dhārmikaḥ; 10) saṃbahulāḥ pudgalā adhārmikāḥ dvau pudgalau dhārmikau; 11) sambahulāḥ pudgalāḥ adhārmikāḥ, saṃbahulāḥ pudgalā dhārmikā; 12) saṃbahulāḥ pudgalāḥ adhārmikāḥ saṃgho dhārmikaḥ; 13) saṃgho adhārmikaḥ pudgalaḥ dhārmikaḥ; 14) saṃgho adhārmikaḥ dvau pudgalau dhārmikau; 15) saṃgha adhārmikaḥ sambahulāḥ pudgalā dhārmikāḥ; 16) saṃgha adhārmikaḥ saṃgho dhārmikaḥ iti imāmi ṣoḍaśa adhārmikāṇi saṃmukhavinayadānāni\n  ṣoḍaśa dhārmikāni saṃmukhavinayadānāni katamāni? 1) pudgalaḥ dhārmikaḥ pudgalaḥ adhārmikaḥ; 2) ḥpudgalaḥ dhārmikaḥḥ dvau pudgalau adhārmikau; 3) pudgalaḥ dhārmikaḥ, saṃbahulāḥ pudgalā adhārmikāḥ; 4) pudgalaḥ dhārmikaḥ saṃgha adhārmikaḥ; 5) dvau pudgalau dhārmikau, pudgalaḥ adhārmikaḥ; 6) dvau pudgalau dhārmikau, dvau adhārmikau; 7) dvau pudgalau dhārmikau, saṃbahulāḥ ("
+              "text": ") adhārmikau saṃghaḥ dhārmikaḥ; 9) saṃbahulāḥ pudgalāḥ adhārmikāḥ pudgalaḥ dhārmikaḥ; 10) saṃbahulāḥ pudgalā adhārmikāḥ dvau pudgalau dhārmikau; 11) sambahulāḥ pudgalāḥ adhārmikāḥ, saṃbahulāḥ pudgalā dhārmikā; 12) saṃbahulāḥ pudgalāḥ adhārmikāḥ saṃgho dhārmikaḥ; 13) saṃgho adhārmikaḥ pudgalaḥ dhārmikaḥ; 14) saṃgho adhārmikaḥ dvau pudgalau dhārmikau; 15) saṃgha adhārmikaḥ sambahulāḥ pudgalā dhārmikāḥ; 16) saṃgha adhārmikaḥ saṃgho dhārmikaḥ iti imāmi ṣoḍaśa adhārmikāṇi saṃmukhavinayadānāni\n  ṣoḍaśa dhārmikāni saṃmukhavinayadānāni katamāni? 1) pudgalaḥ dhārmikaḥ pudgalaḥ adhārmikaḥ; 2) ḥpudgalaḥ dhārmikaḥḥ dvau pudgalau adhārmikau; 3) pudgalaḥ dhārmikaḥ, saṃbahulāḥ pudgalā adhārmikāḥ; 4) pudgalaḥ dhārmikaḥ saṃgha adhārmikaḥ; 5) dvau pudgalau dhārmikau, pudgalaḥ adhārmikaḥ; 6) dvau pudgalau dhārmikau, dvau adhārmikau; 7) dvau pudgalau dhārmikau, saṃbahulāḥ (",
+              "segment_number": 266
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 106"
+              "text": "Adhik-v 106",
+              "segment_number": 267
             },
             {
               "tag": "text",
-              "text": ") pudgalā adhārmikāḥ; 8) dvau ḥpudgalauḥ dhārmikau, saṃgha adhārmikaḥ; 9) saṃbahulāḥ pudgalāḥ dhārmikāḥ pudgalaḥ adhārmikaḥ; 10) sambahulāḥ pudgalā dhārmikā dvau pudgalu adhārmikau; 11) sambahulā pudgalā dhārmikāḥ sambahulāḥ pudgalā adhārmikāḥ; 12) saṃbahulā pudgalā dhārmikāḥ saṃgha adhārmikaḥ; 13) saṃgho dhārmikaḥ pudgala adhārmikaḥ; 14) ḥsaṅgho dhārmikaḥḥ dvau pudgalau adhārmikau; 15) saṃgho dhārmikaḥ pudgalā adhārmikāḥ; 16) saṃgho dhārmikaḥ saṃgha adhārmikaḥ iti imāni ṣoḍaśa dhārmikāṇi saṃmukhavinayadānāni; evaṃ hi bhikṣavaḥ saṃmukhavinaya adhikaraṇaśamatho bhavati; evaṃ ca punar ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta saṃmukhavinayenādhikaraṇaśamathena"
+              "text": ") pudgalā adhārmikāḥ; 8) dvau ḥpudgalauḥ dhārmikau, saṃgha adhārmikaḥ; 9) saṃbahulāḥ pudgalāḥ dhārmikāḥ pudgalaḥ adhārmikaḥ; 10) sambahulāḥ pudgalā dhārmikā dvau pudgalu adhārmikau; 11) sambahulā pudgalā dhārmikāḥ sambahulāḥ pudgalā adhārmikāḥ; 12) saṃbahulā pudgalā dhārmikāḥ saṃgha adhārmikaḥ; 13) saṃgho dhārmikaḥ pudgala adhārmikaḥ; 14) ḥsaṅgho dhārmikaḥḥ dvau pudgalau adhārmikau; 15) saṃgho dhārmikaḥ pudgalā adhārmikāḥ; 16) saṃgho dhārmikaḥ saṃgha adhārmikaḥ iti imāni ṣoḍaśa dhārmikāṇi saṃmukhavinayadānāni; evaṃ hi bhikṣavaḥ saṃmukhavinaya adhikaraṇaśamatho bhavati; evaṃ ca punar ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta saṃmukhavinayenādhikaraṇaśamathena",
+              "segment_number": 268
             }
-          ]
+          ],
+          "segment_number": 264
         }
       ]
     },
@@ -1834,7 +2102,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The settlement of legal question by the satsvabhāvaiṣīya method"
+          "text": "The settlement of legal question by the satsvabhāvaiṣīya method",
+          "segment_number": 269
         },
         {
           "tag": "p",
@@ -1846,24 +2115,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 107"
+              "text": "Adhik-v 107",
+              "segment_number": 271
             },
             {
               "tag": "text",
-              "text": ") pratijñāya punar apy avajānāti; ḥayaṃ hastako bhikṣuḥ saṃghāt tatsvabhāvaiṣīyaṃ yācate; sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ hastakasya bhikṣoḥ tatsvabhāvaiṣīyaṃ dadyād ity eṣā jñaptiḥ; karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, so 'yaṃ hastako bhikṣuḥ saṃghamadhye āpattim avajānāti, avajñāya pratijānāti, pratijñāya punar apy avajānātiḥ; tat saṃgho hastakasya bhikṣos tatsvabhavaiṣīyaṃ dadāti; yeṣām āyuṣmatāṃ kṣamate hastakasya bhikṣos tatsvabhāvaiṣīyaṃ dātuṃ te tūṣṇīm; na kṣamate bhāṣantām; iyaṃ prathamā karmavācanā; ḥevaṃḥ dvitīyā ḥtīrīyāḥ karmavācanā ḥkartavyāḥ; dattaḥ saṃghena hastakasya bhikṣos tatsvabhāvaiṣīyaḥ; kṣāntam anujñātam saṃghena yasmāt tūṣṇīm; evam etad dhārayāmi\n  tatsvabhāvaiṣīyadattakasyāhaṃ bhikṣor āsamudācārikān dharmān prajñāpayāmi; tatsvabhāvaiṣīyadattakena bhikṣuṇā na pravrājayitavyaṃ nopasaṃpādayitavyaṃ na niśrayo deyo na śramaṇoddeśa upasthāpayitavyaḥ nānena karma kartavyam, na karmakārakaḥ saṃmantavyaḥ, nānena bhikṣuṇyo 'vavaditavyāḥ; na bhikṣuṇyā ḥaḥvavādakaḥ saṃmantavyaḥ; na pūrvasaṃmatena bhikṣuṇyo 'vavaditavyāḥ; nānena bhikṣuś codayitavyaḥ smārayitavyaḥ śīlavipattyā dṛṣṭivipattyā ācāravipattyā ājīvavipattyā; nānenāvavādaḥ sthāpayitavyaḥ, na poṣadhe, na pravāraṇe, na jñaptidvitīye na jñapticaturthe karmaṇi; nāpi saṃghamadhye vinayo moktavyaḥ satsv anyeṣu vinayadhareṣu pudgaleṣu; tatsvabhāvaiṣīyadattako bhikṣur yathāprajñaptān āsamudācārikān dharmān asamādāya vartate, sātisāro bhavati\n  ekam adhārmikaṃ tatsvabhāvaiṣīyaṃ dānaṃ, ekaṃ dhārmikam; ekam adhārmikam katamat? yathāpitat hastako bhikṣuḥ saṃghamadhye āpattiṃ pratijānāti pratijñāya avajānāti avajñāya punar api pratijānāti, tasya saṃghaḥ svabhāvaiṣīyaṃ dadāti adhārmikaṃ tatsvabhāvaiṣīyadānam; idam ekam adhārmikam; ekaṃ dhārmikam katamat? yathāpitat hastako bhikṣuḥ saṃghamadhye āpattim avajānāti avajñāya pratijānāti pratijñāya punar apy avajānāti tasya saṃghas ("
+              "text": ") pratijñāya punar apy avajānāti; ḥayaṃ hastako bhikṣuḥ saṃghāt tatsvabhāvaiṣīyaṃ yācate; sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ hastakasya bhikṣoḥ tatsvabhāvaiṣīyaṃ dadyād ity eṣā jñaptiḥ; karma kartavyam; śṛṇotu bhadantāḥ saṃghaḥ, so 'yaṃ hastako bhikṣuḥ saṃghamadhye āpattim avajānāti, avajñāya pratijānāti, pratijñāya punar apy avajānātiḥ; tat saṃgho hastakasya bhikṣos tatsvabhavaiṣīyaṃ dadāti; yeṣām āyuṣmatāṃ kṣamate hastakasya bhikṣos tatsvabhāvaiṣīyaṃ dātuṃ te tūṣṇīm; na kṣamate bhāṣantām; iyaṃ prathamā karmavācanā; ḥevaṃḥ dvitīyā ḥtīrīyāḥ karmavācanā ḥkartavyāḥ; dattaḥ saṃghena hastakasya bhikṣos tatsvabhāvaiṣīyaḥ; kṣāntam anujñātam saṃghena yasmāt tūṣṇīm; evam etad dhārayāmi\n  tatsvabhāvaiṣīyadattakasyāhaṃ bhikṣor āsamudācārikān dharmān prajñāpayāmi; tatsvabhāvaiṣīyadattakena bhikṣuṇā na pravrājayitavyaṃ nopasaṃpādayitavyaṃ na niśrayo deyo na śramaṇoddeśa upasthāpayitavyaḥ nānena karma kartavyam, na karmakārakaḥ saṃmantavyaḥ, nānena bhikṣuṇyo 'vavaditavyāḥ; na bhikṣuṇyā ḥaḥvavādakaḥ saṃmantavyaḥ; na pūrvasaṃmatena bhikṣuṇyo 'vavaditavyāḥ; nānena bhikṣuś codayitavyaḥ smārayitavyaḥ śīlavipattyā dṛṣṭivipattyā ācāravipattyā ājīvavipattyā; nānenāvavādaḥ sthāpayitavyaḥ, na poṣadhe, na pravāraṇe, na jñaptidvitīye na jñapticaturthe karmaṇi; nāpi saṃghamadhye vinayo moktavyaḥ satsv anyeṣu vinayadhareṣu pudgaleṣu; tatsvabhāvaiṣīyadattako bhikṣur yathāprajñaptān āsamudācārikān dharmān asamādāya vartate, sātisāro bhavati\n  ekam adhārmikaṃ tatsvabhāvaiṣīyaṃ dānaṃ, ekaṃ dhārmikam; ekam adhārmikam katamat? yathāpitat hastako bhikṣuḥ saṃghamadhye āpattiṃ pratijānāti pratijñāya avajānāti avajñāya punar api pratijānāti, tasya saṃghaḥ svabhāvaiṣīyaṃ dadāti adhārmikaṃ tatsvabhāvaiṣīyadānam; idam ekam adhārmikam; ekaṃ dhārmikam katamat? yathāpitat hastako bhikṣuḥ saṃghamadhye āpattim avajānāti avajñāya pratijānāti pratijñāya punar apy avajānāti tasya saṃghas (",
+              "segment_number": 272
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 108"
+              "text": "Adhik-v 108",
+              "segment_number": 273
             },
             {
               "tag": "text",
-              "text": ") tatsvabhāvaiṣīyaṃ dadāti, dhārmikaṃ tasvabhāvaiṣīyadānam; idam ekaṃ dhārmikam\n  evaṃ hi bhikṣavaḥ tatsvabhāvaiṣīya adhikaraṇaśamatho bhavati; evaṃ ca punar ihaikekeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta tatsvabhāvaiṣīyenādhikaraṇaśamathena"
+              "text": ") tatsvabhāvaiṣīyaṃ dadāti, dhārmikaṃ tasvabhāvaiṣīyadānam; idam ekaṃ dhārmikam\n  evaṃ hi bhikṣavaḥ tatsvabhāvaiṣīya adhikaraṇaśamatho bhavati; evaṃ ca punar ihaikekeṣām adhikaraṇānāṃ damaś ca bhavati śamaś ca vyupaśamaś ca yaduta tatsvabhāvaiṣīyenādhikaraṇaśamathena",
+              "segment_number": 274
             }
-          ]
+          ],
+          "segment_number": 270
         }
       ]
     },
@@ -1874,7 +2148,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "The settling of legal questions by the trṇaprastāraka method"
+          "text": "The settling of legal questions by the trṇaprastāraka method",
+          "segment_number": 275
         },
         {
           "tag": "p",
@@ -1886,44 +2161,52 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 349b"
+              "text": "A 349b",
+              "segment_number": 277
             },
             {
               "tag": "text",
-              "text": ") sthaviraḥ sthavirānyatamaḥ jñāto jñātānyatamaḥ pramukaḥ pramukhānyatamaḥ tena svapakṣe upasaṃkramya idaṃ syād vacanīyam: teṣām asmākam āyuṣmantaḥ alābhā na lābhāḥ durlabdhā na sulabdhāḥ, ye vayaṃ svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannāḥ; yāṃ cāham āyuṣmanto 'smin vastuni āpattim āpanno yāṃ ca yūyam, sthāpayitvā sthūlāvadyaṃ vā gṛhasthapratiśaraṇaṃ vā, utsahe 'ham ātmanaḥ karaṇīyena yuṣmākāṃ ca teṣām āyuṣmatām antike deśayitum āviṣkartuṃ na praticchādayitum iti; sacet tasya bhikṣoḥ svapakṣād ekabhikṣur api bhāṣitaṃ na prativahati na pratikrośati, tatas tena bhikṣuṇā dvitīyaṃ pakṣam upasaṃkramyaikāṃśam uttarāsaṅgam kṛtvā yathāvṛddhikayā sāmīcīṃ kṛtvā utkuṭukena sthitvā idaṃ syād vacanīyam: teṣām asmākam āyuṣmanta alābhā na lābhāḥ durlabdhā na sulabdhāḥ, ye vayam svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannāḥ; yāṃ cāham asmin vastuny āpattim āpanno yāṃ ca te āyuṣmantaḥ, sthāpayitvā sthūlāvadyaṃ vā gṛhapatipratiśaraṇaṃ ("
+              "text": ") sthaviraḥ sthavirānyatamaḥ jñāto jñātānyatamaḥ pramukaḥ pramukhānyatamaḥ tena svapakṣe upasaṃkramya idaṃ syād vacanīyam: teṣām asmākam āyuṣmantaḥ alābhā na lābhāḥ durlabdhā na sulabdhāḥ, ye vayaṃ svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannāḥ; yāṃ cāham āyuṣmanto 'smin vastuni āpattim āpanno yāṃ ca yūyam, sthāpayitvā sthūlāvadyaṃ vā gṛhasthapratiśaraṇaṃ vā, utsahe 'ham ātmanaḥ karaṇīyena yuṣmākāṃ ca teṣām āyuṣmatām antike deśayitum āviṣkartuṃ na praticchādayitum iti; sacet tasya bhikṣoḥ svapakṣād ekabhikṣur api bhāṣitaṃ na prativahati na pratikrośati, tatas tena bhikṣuṇā dvitīyaṃ pakṣam upasaṃkramyaikāṃśam uttarāsaṅgam kṛtvā yathāvṛddhikayā sāmīcīṃ kṛtvā utkuṭukena sthitvā idaṃ syād vacanīyam: teṣām asmākam āyuṣmanta alābhā na lābhāḥ durlabdhā na sulabdhāḥ, ye vayam svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannāḥ; yāṃ cāham asmin vastuny āpattim āpanno yāṃ ca te āyuṣmantaḥ, sthāpayitvā sthūlāvadyaṃ vā gṛhapatipratiśaraṇaṃ (",
+              "segment_number": 278
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 109"
+              "text": "Adhik-v 109",
+              "segment_number": 279
             },
             {
               "tag": "text",
-              "text": ") vā, utsahe 'ham ātmanaḥ karaṇīyena teṣām āyuṣmatāṃ ḥcaḥ yuṣmākam antike deśayitum āviṣkartuṃ na praticchādayitum iti; dvitīye pakṣe ḥyoḥ bhikṣuḥ sthaviraḥ sthavirānyatamaḥ jñāto jñātānyatamaḥ pramukhaḥ pramukhānyatamaḥ tenāpi svapakṣa upasaṃkramya idaṃ syād vacanīyam: asmākam āyuṣmantaḥ teṣāṃ ca alābhā na lābhā durlabdhā na sulabdhāḥ, ye vayaṃ svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannaḥ; yāṃ cāham āyuṣmanto 'smin vastuny āpattim āpanno yāṃ ca yūyam, sthāpayitvā sthūlāvadyaṃ gṛhasthapratiśarāṇaṃ vā, utsahe 'ham ātmanaḥ karaṇīyena yuṣmākaṃ ca teṣām ḥāyuṣmatāmḥ antike deśayitum āviṣkartuṃ na praticchādayitum iti; sacet tasya bhikṣor ḥsvapakṣād ekabhikṣurḥ api bhāṣitaṃ\nna prativahati na pratikrośati tatas tena bhikṣuṇā dvitīyaṃ pakṣam upasaṃkramyaikāṃśam uttarāsaṅgam kṛtvā yathāvṛddhikayā sāmīcīṃ kṛtvā utkuṭukena sthitvā idaṃ syād vacanīyam: teṣām asmākam āyuṣmanta alābhā na lābhā durlabdhā na sulabdhāḥ, ye vayaṃ svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannāḥ; yāṃ cāham asmin vastuny āpattim apanno yāṃ ca te āyuṣmantaḥ, sthāpayitvā sthūlāvadyam vā gṛhasthapratiśaraṇam vā, utsahe 'ham ātmanaḥ karaṇīyena teṣāṃ cāyuṣmatāṃ yuṣmākam antike deśayitum āviṣkartuṃ na praticchādayitum iti; yadā ekapakṣo ḥdvitīyeḥ romaṃ pātayati niḥsaraṇaṃ pravartayati sāmicīṃ pravartayati dvitīyo vā dvitīye, na cānyonyam āpattiparikīrtanena pravartayanti, evaṃ tadadhikaraṇaṃ ("
+              "text": ") vā, utsahe 'ham ātmanaḥ karaṇīyena teṣām āyuṣmatāṃ ḥcaḥ yuṣmākam antike deśayitum āviṣkartuṃ na praticchādayitum iti; dvitīye pakṣe ḥyoḥ bhikṣuḥ sthaviraḥ sthavirānyatamaḥ jñāto jñātānyatamaḥ pramukhaḥ pramukhānyatamaḥ tenāpi svapakṣa upasaṃkramya idaṃ syād vacanīyam: asmākam āyuṣmantaḥ teṣāṃ ca alābhā na lābhā durlabdhā na sulabdhāḥ, ye vayaṃ svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannaḥ; yāṃ cāham āyuṣmanto 'smin vastuny āpattim āpanno yāṃ ca yūyam, sthāpayitvā sthūlāvadyaṃ gṛhasthapratiśarāṇaṃ vā, utsahe 'ham ātmanaḥ karaṇīyena yuṣmākaṃ ca teṣām ḥāyuṣmatāmḥ antike deśayitum āviṣkartuṃ na praticchādayitum iti; sacet tasya bhikṣor ḥsvapakṣād ekabhikṣurḥ api bhāṣitaṃ\nna prativahati na pratikrośati tatas tena bhikṣuṇā dvitīyaṃ pakṣam upasaṃkramyaikāṃśam uttarāsaṅgam kṛtvā yathāvṛddhikayā sāmīcīṃ kṛtvā utkuṭukena sthitvā idaṃ syād vacanīyam: teṣām asmākam āyuṣmanta alābhā na lābhā durlabdhā na sulabdhāḥ, ye vayaṃ svākhyāte dharmavinaye pravrajya kalahajātā viharāmo bhaṇḍanajātā vigṛhītā vivādam āpannāḥ; yāṃ cāham asmin vastuny āpattim apanno yāṃ ca te āyuṣmantaḥ, sthāpayitvā sthūlāvadyam vā gṛhasthapratiśaraṇam vā, utsahe 'ham ātmanaḥ karaṇīyena teṣāṃ cāyuṣmatāṃ yuṣmākam antike deśayitum āviṣkartuṃ na praticchādayitum iti; yadā ekapakṣo ḥdvitīyeḥ romaṃ pātayati niḥsaraṇaṃ pravartayati sāmicīṃ pravartayati dvitīyo vā dvitīye, na cānyonyam āpattiparikīrtanena pravartayanti, evaṃ tadadhikaraṇaṃ (",
+              "segment_number": 280
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "A 350a"
+              "text": "A 350a",
+              "segment_number": 281
             },
             {
               "tag": "text",
-              "text": ") vyupaśāntaṃ yaduta tṛṇaprastārakeṇādhikaraṇaśamathena; evaṃ hi bhikṣavaḥ tṛṇaprastāraka adhikaraṇaśamatho ("
+              "text": ") vyupaśāntaṃ yaduta tṛṇaprastārakeṇādhikaraṇaśamathena; evaṃ hi bhikṣavaḥ tṛṇaprastāraka adhikaraṇaśamatho (",
+              "segment_number": 282
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "Adhik-v 110"
+              "text": "Adhik-v 110",
+              "segment_number": 283
             },
             {
               "tag": "text",
-              "text": ") bhavati; evaṃ ca punar ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamāś ca vyupaśamaś ca yaduta tṛṇaprastārakeṇa ḥadhikaraṇaḥśamathena\n  āpattyādhikaraṇaṃ bhikṣavaḥ ebhiś caturbhir adhikaraṇaśamathair dharmair damayitavyaṃ śamayitavyaṃ vyupaśamayitavyam, yaduta pratijñākārakeṇa saṃmukhavinayena tatsvabhāvaiṣīyena tṛṇaprastārakeṇa; kṛtyādhikaraṇaṃ tu bhikṣavaḥ samagreṇa saṃghena vyupaśamayitavyam"
+              "text": ") bhavati; evaṃ ca punar ihaikeṣām adhikaraṇānāṃ damaś ca bhavati śamāś ca vyupaśamaś ca yaduta tṛṇaprastārakeṇa ḥadhikaraṇaḥśamathena\n  āpattyādhikaraṇaṃ bhikṣavaḥ ebhiś caturbhir adhikaraṇaśamathair dharmair damayitavyaṃ śamayitavyaṃ vyupaśamayitavyam, yaduta pratijñākārakeṇa saṃmukhavinayena tatsvabhāvaiṣīyena tṛṇaprastārakeṇa; kṛtyādhikaraṇaṃ tu bhikṣavaḥ samagreṇa saṃghena vyupaśamayitavyam",
+              "segment_number": 284
             },
             {
               "tag": "lg",
@@ -1932,41 +2215,49 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "yasmin bhikṣavaḥ āvāse eko bihikṣuḥ prativasati tatra na kalaho bhaṇḍanaṃ vigraho vivādaḥ; yasmin dvau tatrāpi na kalaho bhaṇḍanaṃ ḥvigrahoḥ vivādaḥ; ḥyasmin trayaḥ tatrāpi na kalaho bhaṇḍanaṃ vigraho vivādaḥ;ḥ yasmin tu catvāro bhikṣavaḥ prativasanti uttare vā tatra kalaho bhaṇḍanaṃ vigraho vivādaś ca; yathāpi bhikṣavaḥ"
+                  "text": "yasmin bhikṣavaḥ āvāse eko bihikṣuḥ prativasati tatra na kalaho bhaṇḍanaṃ vigraho vivādaḥ; yasmin dvau tatrāpi na kalaho bhaṇḍanaṃ ḥvigrahoḥ vivādaḥ; ḥyasmin trayaḥ tatrāpi na kalaho bhaṇḍanaṃ vigraho vivādaḥ;ḥ yasmin tu catvāro bhikṣavaḥ prativasanti uttare vā tatra kalaho bhaṇḍanaṃ vigraho vivādaś ca; yathāpi bhikṣavaḥ",
+                  "segment_number": 285
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "ekas tathā yathā brahmā yathā śakras tathā dvayam /"
+                  "text": "ekas tathā yathā brahmā yathā śakras tathā dvayam /",
+                  "segment_number": 286
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "yathā trayaṃ tathā rājā kolāhalam ataḥ param //"
+                  "text": "yathā trayaṃ tathā rājā kolāhalam ataḥ param //",
+                  "segment_number": 287
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 276
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "tasmāt tarhi bhikṣavo 'nujānāmi, ya ekām api catuṣpadikāṃ gāthāṃ dhārayati tasya dharmasantako lābho deyaḥ, tenāpi paribhoktavyaḥ; nātra kaukṛtyaṃ karaṇīyam"
+          "text": "tasmāt tarhi bhikṣavo 'nujānāmi, ya ekām api catuṣpadikāṃ gāthāṃ dhārayati tasya dharmasantako lābho deyaḥ, tenāpi paribhoktavyaḥ; nātra kaukṛtyaṃ karaṇīyam",
+          "segment_number": 288
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "śrīḥ\n  adhikaraṇavastu samāptam"
+          "text": "śrīḥ\n  adhikaraṇavastu samāptam",
+          "segment_number": 289
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "p.111f.: Appendix: This is a fragmentary leaf from the Bhaiṣajyavastu, corresponding, withsome variants, to the text edited by prof. N. Dutt, III, 1, pp. 241-43.\nnew edition see:\nK. Wille: Die handschriftliche Überlieferung des Vinayavastu der Mūlasarvāstivādin, Stuttgart 1990 (Verzeichnis der orientalischen Handschriften in Deutschland, Suppl.-Bd. 30) [= Diss., 1987], pp. 111ff."
+          "text": "p.111f.: Appendix: This is a fragmentary leaf from the Bhaiṣajyavastu, corresponding, withsome variants, to the text edited by prof. N. Dutt, III, 1, pp. 241-43.\nnew edition see:\nK. Wille: Die handschriftliche Überlieferung des Vinayavastu der Mūlasarvāstivādin, Stuttgart 1990 (Verzeichnis der orientalischen Handschriften in Deutschland, Suppl.-Bd. 30) [= Diss., 1987], pp. 111ff.",
+          "segment_number": 290
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "Bhaiṣajyavastu Fragment\n  1------kariṇyā chorayitvā āgacchati/ sa pavanabalavegavāhinā javena śrāvastīm āgamya jeta------\n  2.....dā muktaḥ tataḥ sā hastinī santrastā mūtrapurīṣam utsṛjantī kalabhaṃ chorayitvā pra.....\n  3.....ka iti saṃjñā/apare paṭhanti rājñā prasenajitā rājñā prasenajitā rājño bimbisVara.....\n  4.....putre aparāṇi saṅghe caritāni / tathā avaśiṣṭam ta.....\n5.....bhavanto mānuṣāṇāṃ divyāni visāni tasmād anujāmi durlabhāni divyāni visānīti.....\n6.....ko gṛhapatiḥ miṇḍakapatnī miṇḍakaputraḥ miṇḍakasnuṣā miṇḍakadāso miṇḍakapatnī.....\n7 ..... ḥ kthaṃ miṇdakpatnī sā ekasyārthāya sthālīṃ sādhayati ṣatāni\nsahasrāṇi ca paribhuñjate evaṃ miṇḍaka .....\n8.....evaṃ miṇḍakaputraḥ miṇḍakasnuṣā ekasyārthāya gatvā saṃpādayati śatasya sahasrasya ca paryāptaṃ bhavati .....\n9 .....yadā ekāṃ mātrāṃ pratijāgarti tadā sapta mātrās sampadyante/ evaṃ miṇḍakadāsī mahāpuṇyā/bha.....\n10 .....yuṣmākam utsahate tathāgatena sārdhaṃ janapadacārikayā bhadrakaṃ nagaraṃ gantuṃ sa cī .....\n1 .....yuṣmākam utsahate bhagavatā sārdham janapadacārikayā bhadrakaṃ nagaraṃ gantuṃ sa cīvara .....\n2 .....napadacārikāṃ caraṃ bhadraṃ nagaraṃ samprasthitaḥ yadā bhagavatā śrāvastyāṃ mahāpratihāryaṃ vi.....\n3.....maṇena gautamena madhyadeśān nirvāsitāḥ sa yadīhāgamiṣyati niścayenāsmān ito'pi nirvā .....\n4 ..... ḥ gamiṣyāmaḥ kasyārthāya/ dṛśṭsmābhir yuṣmākaṃ saṃpattir yāvad vipattin na paśyāmas tāvad gacchāmaḥ ārya .....\n5.....tavyaṃ tasmin eva kāle smākaṃ parityāgaḥ kriyate/ tiṣṭhadha na gantavyam iti/ te kathayanti /kiṃ .....\n6 .....raṃ nagaraṃ praveśayataḥ śādvalāni kṛṣataḥ sthaṇḍilāni pātayataḥ puṣpaphalavṛkṣāṃs che.....\n7 .....praveśitaḥ śādvalāni kṛṣṭāni sthaṇḍilāni pātitāni puṣpavṛkāś chinnāḥ pānīyāni vi .....\n8 ..... ś ca duṣkaraśatasahasraḥ ṣaṭpāramitvāḥ paripūryānuttaraṃ jñānam ājñā dattā / gacchata viṣapānīyāni śoṣayateti/ varṣabala .....\n9 ..... putrāṇam ājñā dattā / gacchata viṣadūsṣitāni śoṣayaeti / varṣabala .....\n10.....to vātabalāhakair devaputrair viṣadūṣitāni pānīyāni śoṣitāni varṣa ....."
+          "text": "Bhaiṣajyavastu Fragment\n  1------kariṇyā chorayitvā āgacchati/ sa pavanabalavegavāhinā javena śrāvastīm āgamya jeta------\n  2.....dā muktaḥ tataḥ sā hastinī santrastā mūtrapurīṣam utsṛjantī kalabhaṃ chorayitvā pra.....\n  3.....ka iti saṃjñā/apare paṭhanti rājñā prasenajitā rājñā prasenajitā rājño bimbisVara.....\n  4.....putre aparāṇi saṅghe caritāni / tathā avaśiṣṭam ta.....\n5.....bhavanto mānuṣāṇāṃ divyāni visāni tasmād anujāmi durlabhāni divyāni visānīti.....\n6.....ko gṛhapatiḥ miṇḍakapatnī miṇḍakaputraḥ miṇḍakasnuṣā miṇḍakadāso miṇḍakapatnī.....\n7 ..... ḥ kthaṃ miṇdakpatnī sā ekasyārthāya sthālīṃ sādhayati ṣatāni\nsahasrāṇi ca paribhuñjate evaṃ miṇḍaka .....\n8.....evaṃ miṇḍakaputraḥ miṇḍakasnuṣā ekasyārthāya gatvā saṃpādayati śatasya sahasrasya ca paryāptaṃ bhavati .....\n9 .....yadā ekāṃ mātrāṃ pratijāgarti tadā sapta mātrās sampadyante/ evaṃ miṇḍakadāsī mahāpuṇyā/bha.....\n10 .....yuṣmākam utsahate tathāgatena sārdhaṃ janapadacārikayā bhadrakaṃ nagaraṃ gantuṃ sa cī .....\n1 .....yuṣmākam utsahate bhagavatā sārdham janapadacārikayā bhadrakaṃ nagaraṃ gantuṃ sa cīvara .....\n2 .....napadacārikāṃ caraṃ bhadraṃ nagaraṃ samprasthitaḥ yadā bhagavatā śrāvastyāṃ mahāpratihāryaṃ vi.....\n3.....maṇena gautamena madhyadeśān nirvāsitāḥ sa yadīhāgamiṣyati niścayenāsmān ito'pi nirvā .....\n4 ..... ḥ gamiṣyāmaḥ kasyārthāya/ dṛśṭsmābhir yuṣmākaṃ saṃpattir yāvad vipattin na paśyāmas tāvad gacchāmaḥ ārya .....\n5.....tavyaṃ tasmin eva kāle smākaṃ parityāgaḥ kriyate/ tiṣṭhadha na gantavyam iti/ te kathayanti /kiṃ .....\n6 .....raṃ nagaraṃ praveśayataḥ śādvalāni kṛṣataḥ sthaṇḍilāni pātayataḥ puṣpaphalavṛkṣāṃs che.....\n7 .....praveśitaḥ śādvalāni kṛṣṭāni sthaṇḍilāni pātitāni puṣpavṛkāś chinnāḥ pānīyāni vi .....\n8 ..... ś ca duṣkaraśatasahasraḥ ṣaṭpāramitvāḥ paripūryānuttaraṃ jñānam ājñā dattā / gacchata viṣapānīyāni śoṣayateti/ varṣabala .....\n9 ..... putrāṇam ājñā dattā / gacchata viṣadūsṣitāni śoṣayaeti / varṣabala .....\n10.....to vātabalāhakair devaputrair viṣadūṣitāni pānīyāni śoṣitāni varṣa .....",
+          "segment_number": 291
         }
       ]
     },
@@ -1977,7 +2268,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Index of the English titles in the Adhikaraṇavastu:\nThe Buddha at Kapilavastu. King śuddhodana listens to Buddha's sermons\nBuddha's doctrine is addressed also to women. The queen Mahāprajāvatī asks to king śuddhodana to permit to śākya women to listen to the doctrine\nInstances of female vanity and the story of the Maid-servant Rohikā\nThe story of Muktikā ,the daughter of the King of Siṃhala, and the portrait of the Buddha\nThe story fo the wife of the guild-leader(concerning a previous life of Muktikā)\nThe four of classes of disputes\nThe vivādhādhikaraṇam\nThe anavavādādhikaraṇam\nThe āpattyadhikaraṇam\nThe kṛtyādhikaraṇam\nThe three kinds of vivādādhikaraṇam\nThe two kinds of āpattyadhikaraṇam\nThe three kinds of kṛtyādhikaraṇam\nNot all kinds of vivāda, etc., are a source of adhikaraṇam\nThe settlement of disputes. śāriputra and Maudgalyāyana settle a dispute\nThe sthalastha monks\nTwo presences: pudgala and dharma\nThree presences: saṅgha, pudgala and dharma\nTwo presences: pudgala and dharma\nThree presences: saṅgha, pudgala and dharma\nTwo presences: pudgala and dharma\nThe settlement of legal questions by the vote of the majority\nThe four methods of votation\nThe ten distributions of voting tickets that are not legally valid\nThe ten distributions of voting tickets that are legally valid\nMethods of votation\nThe legal questions arising from vivāda and anavavāda can be settled in two and three ways respectively. The smṛtivinaya\nThree forms of smṛtivinaya legally valid\nThe amūḍhavinaya\nTwo forms of amūḍhavinaya respectively not legally valid and legally valid\nThe legal questions arising from āpatti can be settled in four ways. The pratijñākāraka\nTen and ten ways of applying pratijñākāraka respectively not legally valid and legally valid\nThe Buddha absolves the monk Kālo Mṛgāraputra from a false accusation\nVarious forms of accusations\nSixteen and sixteen ways of applying saṃmukhavinaya respectively not legally valid and legally valid\nThe settlement of legal questions by the satsvabhāvaiṣīya method\nThe settling of legal questions by the trṇaprastāraka method\nAppendix\nNote to the piṇḍoddānam, p.3"
+          "text": "Index of the English titles in the Adhikaraṇavastu:\nThe Buddha at Kapilavastu. King śuddhodana listens to Buddha's sermons\nBuddha's doctrine is addressed also to women. The queen Mahāprajāvatī asks to king śuddhodana to permit to śākya women to listen to the doctrine\nInstances of female vanity and the story of the Maid-servant Rohikā\nThe story of Muktikā ,the daughter of the King of Siṃhala, and the portrait of the Buddha\nThe story fo the wife of the guild-leader(concerning a previous life of Muktikā)\nThe four of classes of disputes\nThe vivādhādhikaraṇam\nThe anavavādādhikaraṇam\nThe āpattyadhikaraṇam\nThe kṛtyādhikaraṇam\nThe three kinds of vivādādhikaraṇam\nThe two kinds of āpattyadhikaraṇam\nThe three kinds of kṛtyādhikaraṇam\nNot all kinds of vivāda, etc., are a source of adhikaraṇam\nThe settlement of disputes. śāriputra and Maudgalyāyana settle a dispute\nThe sthalastha monks\nTwo presences: pudgala and dharma\nThree presences: saṅgha, pudgala and dharma\nTwo presences: pudgala and dharma\nThree presences: saṅgha, pudgala and dharma\nTwo presences: pudgala and dharma\nThe settlement of legal questions by the vote of the majority\nThe four methods of votation\nThe ten distributions of voting tickets that are not legally valid\nThe ten distributions of voting tickets that are legally valid\nMethods of votation\nThe legal questions arising from vivāda and anavavāda can be settled in two and three ways respectively. The smṛtivinaya\nThree forms of smṛtivinaya legally valid\nThe amūḍhavinaya\nTwo forms of amūḍhavinaya respectively not legally valid and legally valid\nThe legal questions arising from āpatti can be settled in four ways. The pratijñākāraka\nTen and ten ways of applying pratijñākāraka respectively not legally valid and legally valid\nThe Buddha absolves the monk Kālo Mṛgāraputra from a false accusation\nVarious forms of accusations\nSixteen and sixteen ways of applying saṃmukhavinaya respectively not legally valid and legally valid\nThe settlement of legal questions by the satsvabhāvaiṣīya method\nThe settling of legal questions by the trṇaprastāraka method\nAppendix\nNote to the piṇḍoddānam, p.3",
+          "segment_number": 292
         }
       ]
     }

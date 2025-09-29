@@ -597,7 +597,8 @@
         },
         {
           "tag": "head",
-          "text": "*Īśvaravādimataparīkṣā"
+          "text": "*Īśvaravādimataparīkṣā",
+          "segment_number": 1
         },
         {
           "tag": "lb",
@@ -702,7 +703,8 @@
             },
             {
               "t": "text",
-              "text": "idānīm īśvaravādimataṃ parīkṣyate |"
+              "text": "idānīm īśvaravādimataṃ parīkṣyate |",
+              "segment_number": 2
             },
             {
               "tag": "lb",
@@ -712,7 +714,8 @@
             },
             {
               "t": "text",
-              "text": "ihāmī naiyāyikādayas tarvādikam"
+              "text": "ihāmī naiyāyikādayas tarvādikam",
+              "segment_number": 3
             },
             {
               "tag": "note",
@@ -752,7 +755,8 @@
             },
             {
               "t": "text",
-              "text": "akhilaṃ kāryam Īśvarakṛtam"
+              "text": "akhilaṃ kāryam Īśvarakṛtam",
+              "segment_number": 4
             },
             {
               "tag": "lb",
@@ -762,7 +766,8 @@
             },
             {
               "t": "text",
-              "text": "ācakṣate |"
+              "text": "ācakṣate |",
+              "segment_number": 5
             },
             {
               "tag": "lb",
@@ -772,18 +777,21 @@
             },
             {
               "t": "text",
-              "text": "kiṃ punaḥ tatra teṣāṃ pramāṇam"
+              "text": "kiṃ punaḥ tatra teṣāṃ pramāṇam",
+              "segment_number": 6
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 7
             },
             {
               "t": "text",
-              "text": "anumānam | tathā hi"
+              "text": "anumānam | tathā hi",
+              "segment_number": 8
             },
             {
               "tag": "lb",
@@ -793,14 +801,16 @@
             },
             {
               "t": "text",
-              "text": "yat kāryaṃ tat kartṛnāntarīyakaṃ dṛṣṭaṃ"
+              "text": "yat kāryaṃ tat kartṛnāntarīyakaṃ dṛṣṭaṃ",
+              "segment_number": 9
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 10
             },
             {
               "tag": "lb",
@@ -810,14 +820,16 @@
             },
             {
               "t": "text",
-              "text": "tad yathā kalaśādikāryaṃ"
+              "text": "tad yathā kalaśādikāryaṃ",
+              "segment_number": 11
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 12
             },
             {
               "tag": "lb",
@@ -830,11 +842,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "tathā"
+              "text": "tathā",
+              "segment_number": 13
             },
             {
               "t": "text",
-              "text": "ca vivādāspadībhūtatarvādīti"
+              "text": "ca vivādāspadībhūtatarvādīti",
+              "segment_number": 14
             },
             {
               "tag": "note",
@@ -867,7 +881,8 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 15
             },
             {
               "tag": "lb",
@@ -877,7 +892,8 @@
             },
             {
               "t": "text",
-              "text": "yaś cāsau kartā sa bhagavān Īśvara iti |"
+              "text": "yaś cāsau kartā sa bhagavān Īśvara iti |",
+              "segment_number": 16
             }
           ]
         },
@@ -900,7 +916,8 @@
             },
             {
               "t": "text",
-              "text": "siddhavyāptikaṃ"
+              "text": "siddhavyāptikaṃ",
+              "segment_number": 18
             },
             {
               "tag": "note",
@@ -933,18 +950,21 @@
             },
             {
               "t": "text",
-              "text": "bhavet"
+              "text": "bhavet",
+              "segment_number": 19
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 20
             },
             {
               "t": "text",
-              "text": "bhavet kāryatādarśanāt tarvādīnāṃ"
+              "text": "bhavet kāryatādarśanāt tarvādīnāṃ",
+              "segment_number": 21
             },
             {
               "tag": "note",
@@ -990,7 +1010,8 @@
             },
             {
               "t": "text",
-              "text": "buddhimaddhetukatvānumānam"
+              "text": "buddhimaddhetukatvānumānam",
+              "segment_number": 22
             },
             {
               "tag": "note",
@@ -1023,7 +1044,8 @@
             },
             {
               "t": "text",
-              "text": "| kevalam iyam eva vyāptir aśakyā"
+              "text": "| kevalam iyam eva vyāptir aśakyā",
+              "segment_number": 23
             },
             {
               "tag": "lb",
@@ -1033,7 +1055,8 @@
             },
             {
               "t": "text",
-              "text": "pratipattuṃ"
+              "text": "pratipattuṃ",
+              "segment_number": 24
             },
             {
               "tag": "note",
@@ -1069,11 +1092,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 25
             },
             {
               "t": "text",
-              "text": "tathā hi puruṣasya vyāpāram antareṇāpy upa"
+              "text": "tathā hi puruṣasya vyāpāram antareṇāpy upa",
+              "segment_number": 26
             },
             {
               "tag": "lb",
@@ -1084,7 +1109,8 @@
             },
             {
               "t": "text",
-              "text": "jāyamānās tṛṇādayaḥ"
+              "text": "jāyamānās tṛṇādayaḥ",
+              "segment_number": 27
             },
             {
               "tag": "note",
@@ -1120,11 +1146,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 28
             },
             {
               "t": "text",
-              "text": "padārthā dṛśyante | tat kathaṃ prekṣā"
+              "text": "padārthā dṛśyante | tat kathaṃ prekṣā",
+              "segment_number": 29
             },
             {
               "tag": "lb",
@@ -1135,9 +1163,11 @@
             },
             {
               "t": "text",
-              "text": "pūrvakāriṇā sarvaṃ kāryaṃ pauruṣeyam iti niścīyeta |"
+              "text": "pūrvakāriṇā sarvaṃ kāryaṃ pauruṣeyam iti niścīyeta |",
+              "segment_number": 30
             }
-          ]
+          ],
+          "segment_number": 17
         },
         {
           "tag": "lb",
@@ -1158,18 +1188,21 @@
             },
             {
               "t": "text",
-              "text": "ṇotpatti"
+              "text": "ṇotpatti",
+              "segment_number": 32
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "r"
+              "text": "r",
+              "segment_number": 33
             },
             {
               "t": "text",
-              "text": "dṛśya"
+              "text": "dṛśya",
+              "segment_number": 34
             },
             {
               "tag": "lb",
@@ -1180,18 +1213,21 @@
             },
             {
               "t": "text",
-              "text": "te"
+              "text": "te",
+              "segment_number": 35
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 36
             },
             {
               "t": "text",
-              "text": "yeṣāṃ cotpattir dṛśyate"
+              "text": "yeṣāṃ cotpattir dṛśyate",
+              "segment_number": 37
             },
             {
               "tag": "note",
@@ -1224,7 +1260,8 @@
             },
             {
               "t": "text",
-              "text": "kāryāṇāṃ"
+              "text": "kāryāṇāṃ",
+              "segment_number": 38
             },
             {
               "tag": "note",
@@ -1257,7 +1294,8 @@
             },
             {
               "t": "text",
-              "text": "te sarve tṛṇādayo"
+              "text": "te sarve tṛṇādayo",
+              "segment_number": 39
             },
             {
               "tag": "lb",
@@ -1267,7 +1305,8 @@
             },
             {
               "t": "text",
-              "text": "bhūdharādayaś"
+              "text": "bhūdharādayaś",
+              "segment_number": 40
             },
             {
               "tag": "note",
@@ -1300,7 +1339,8 @@
             },
             {
               "t": "text",
-              "text": "ca pakṣīkṛtā eva | na ca pakṣīkṛte vyāpti"
+              "text": "ca pakṣīkṛtā eva | na ca pakṣīkṛte vyāpti",
+              "segment_number": 41
             },
             {
               "tag": "lb",
@@ -1311,7 +1351,8 @@
             },
             {
               "t": "text",
-              "text": "grahaṇam"
+              "text": "grahaṇam",
+              "segment_number": 42
             },
             {
               "tag": "note",
@@ -1344,18 +1385,21 @@
             },
             {
               "t": "text",
-              "text": "upapadyate | kvacit"
+              "text": "upapadyate | kvacit",
+              "segment_number": 43
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 44
             },
             {
               "t": "text",
-              "text": "parokṣatayā vyāpakasya"
+              "text": "parokṣatayā vyāpakasya",
+              "segment_number": 45
             },
             {
               "tag": "lb",
@@ -1365,7 +1409,8 @@
             },
             {
               "t": "text",
-              "text": "vyāpter grahītum aśakyatvāt kvacic ca vyāptigrāhiṇa eva pra"
+              "text": "vyāpter grahītum aśakyatvāt kvacic ca vyāptigrāhiṇa eva pra",
+              "segment_number": 46
             },
             {
               "tag": "lb",
@@ -1376,7 +1421,8 @@
             },
             {
               "t": "text",
-              "text": "māṇasyāpy"
+              "text": "māṇasyāpy",
+              "segment_number": 47
             },
             {
               "tag": "note",
@@ -1409,7 +1455,8 @@
             },
             {
               "t": "text",
-              "text": "asiddher anumānānavatāraprasaṅgāt"
+              "text": "asiddher anumānānavatāraprasaṅgāt",
+              "segment_number": 48
             },
             {
               "tag": "note",
@@ -1442,7 +1489,8 @@
             },
             {
               "t": "text",
-              "text": "| tasmād yathā"
+              "text": "| tasmād yathā",
+              "segment_number": 49
             },
             {
               "tag": "lb",
@@ -1452,18 +1500,21 @@
             },
             {
               "t": "text",
-              "text": "mahānasādau dhūmasya vahninā vyāptiḥ pratīyate"
+              "text": "mahānasādau dhūmasya vahninā vyāptiḥ pratīyate",
+              "segment_number": 50
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 51
             },
             {
               "t": "text",
-              "text": "tathehāpi"
+              "text": "tathehāpi",
+              "segment_number": 52
             },
             {
               "tag": "lb",
@@ -1473,7 +1524,8 @@
             },
             {
               "t": "text",
-              "text": "ghaṭādau kāryasya buddhimaddhetukatvena vyāptiḥ pratīyate |"
+              "text": "ghaṭādau kāryasya buddhimaddhetukatvena vyāptiḥ pratīyate |",
+              "segment_number": 53
             },
             {
               "tag": "lb",
@@ -1483,7 +1535,8 @@
             },
             {
               "t": "text",
-              "text": "yathā vānyatra gṛhītavyāptikaḥ puruṣaḥ parvatādau dhūmadarśa"
+              "text": "yathā vānyatra gṛhītavyāptikaḥ puruṣaḥ parvatādau dhūmadarśa",
+              "segment_number": 54
             },
             {
               "tag": "lb",
@@ -1494,29 +1547,34 @@
             },
             {
               "t": "text",
-              "text": "nā"
+              "text": "nā",
+              "segment_number": 55
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "d"
+              "text": "d",
+              "segment_number": 56
             },
             {
               "t": "text",
-              "text": "vahnim anumimīte"
+              "text": "vahnim anumimīte",
+              "segment_number": 57
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 58
             },
             {
               "t": "text",
-              "text": "tathā tṛṇādau kāryatādarśanāt ka"
+              "text": "tathā tṛṇādau kāryatādarśanāt ka",
+              "segment_number": 59
             },
             {
               "tag": "lb",
@@ -1527,9 +1585,11 @@
             },
             {
               "t": "text",
-              "text": "rtāram anumimīta iti na kiṃcid anupapannaṃ nāma |"
+              "text": "rtāram anumimīta iti na kiṃcid anupapannaṃ nāma |",
+              "segment_number": 60
             }
-          ]
+          ],
+          "segment_number": 31
         },
         {
           "tag": "lb",
@@ -1556,7 +1616,8 @@
             },
             {
               "t": "text",
-              "text": "udayamānān avalokayaṃl"
+              "text": "udayamānān avalokayaṃl",
+              "segment_number": 62
             },
             {
               "tag": "note",
@@ -1589,7 +1650,8 @@
             },
             {
               "t": "text",
-              "text": "lokaḥ kāryamātraṃ puruṣapūrvakam iti"
+              "text": "lokaḥ kāryamātraṃ puruṣapūrvakam iti",
+              "segment_number": 63
             },
             {
               "tag": "lb",
@@ -1599,7 +1661,8 @@
             },
             {
               "t": "text",
-              "text": "vyāptim eva na"
+              "text": "vyāptim eva na",
+              "segment_number": 64
             },
             {
               "tag": "pb",
@@ -1610,7 +1673,8 @@
             },
             {
               "t": "text",
-              "text": "pratipadyata iti proktam"
+              "text": "pratipadyata iti proktam",
+              "segment_number": 65
             },
             {
               "tag": "note",
@@ -1647,7 +1711,8 @@
             },
             {
               "t": "text",
-              "text": "| tatrānenā"
+              "text": "| tatrānenā",
+              "segment_number": 66
             },
             {
               "tag": "lb",
@@ -1658,7 +1723,8 @@
             },
             {
               "t": "text",
-              "text": "karṇahṛdayena tṛṇādayo 'smābhiḥ sarva eva pakṣīkṛtā iti bru"
+              "text": "karṇahṛdayena tṛṇādayo 'smābhiḥ sarva eva pakṣīkṛtā iti bru",
+              "segment_number": 67
             },
             {
               "tag": "lb",
@@ -1669,7 +1735,8 @@
             },
             {
               "t": "text",
-              "text": "vatā kiṃ nāma samādhānaṃ dattam iti na pratīmaḥ | yadi hi dhūmo"
+              "text": "vatā kiṃ nāma samādhānaṃ dattam iti na pratīmaḥ | yadi hi dhūmo",
+              "segment_number": 68
             },
             {
               "tag": "lb",
@@ -1679,7 +1746,8 @@
             },
             {
               "t": "text",
-              "text": "vahnim antareṇāpy upajāyamāno dṛśyeta kiṃ tasya kaścit tato"
+              "text": "vahnim antareṇāpy upajāyamāno dṛśyeta kiṃ tasya kaścit tato",
+              "segment_number": 69
             },
             {
               "tag": "lb",
@@ -1689,7 +1757,8 @@
             },
             {
               "t": "text",
-              "text": "vyāptiṃ pratipadyeta"
+              "text": "vyāptiṃ pratipadyeta",
+              "segment_number": 70
             },
             {
               "tag": "note",
@@ -1722,9 +1791,11 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 71
             }
-          ]
+          ],
+          "segment_number": 61
         },
         {
           "tag": "lb",
@@ -1741,11 +1812,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ma"
+              "text": "ma",
+              "segment_number": 73
             },
             {
               "t": "text",
-              "text": "tam | adṛśyo 'sāv atīndriyaḥ"
+              "text": "tam | adṛśyo 'sāv atīndriyaḥ",
+              "segment_number": 74
             },
             {
               "tag": "note",
@@ -1778,14 +1851,16 @@
             },
             {
               "t": "text",
-              "text": "puruṣaviśeṣas"
+              "text": "puruṣaviśeṣas",
+              "segment_number": 75
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 76
             },
             {
               "tag": "lb",
@@ -1795,7 +1870,8 @@
             },
             {
               "t": "text",
-              "text": "tena tadvyāpārapuraḥsaraprasūtir"
+              "text": "tena tadvyāpārapuraḥsaraprasūtir",
+              "segment_number": 77
             },
             {
               "tag": "note",
@@ -1828,7 +1904,8 @@
             },
             {
               "t": "text",
-              "text": "api tṛṇādis tathātvena na"
+              "text": "api tṛṇādis tathātvena na",
+              "segment_number": 78
             },
             {
               "tag": "lb",
@@ -1838,7 +1915,8 @@
             },
             {
               "t": "text",
-              "text": "pratīyate | na cādṛśyānupalambho 'rthābhāvaṃ sādhayati | tato"
+              "text": "pratīyate | na cādṛśyānupalambho 'rthābhāvaṃ sādhayati | tato",
+              "segment_number": 79
             },
             {
               "tag": "lb",
@@ -1848,7 +1926,8 @@
             },
             {
               "t": "text",
-              "text": "yady api tṛṇādayaḥ puruṣapūrvakā na pratīyante tathāpi na teṣām"
+              "text": "yady api tṛṇādayaḥ puruṣapūrvakā na pratīyante tathāpi na teṣām",
+              "segment_number": 80
             },
             {
               "tag": "lb",
@@ -1858,9 +1937,11 @@
             },
             {
               "t": "text",
-              "text": "apauruṣeyataiva yato vyāpter agrahaṇaṃ syāt |"
+              "text": "apauruṣeyataiva yato vyāpter agrahaṇaṃ syāt |",
+              "segment_number": 81
             }
-          ]
+          ],
+          "segment_number": 72
         },
         {
           "tag": "lb",
@@ -1880,7 +1961,8 @@
             },
             {
               "t": "text",
-              "text": "pratīyate tṛṇādīnām | sā ca puruṣasyādṛśyatvād"
+              "text": "pratīyate tṛṇādīnām | sā ca puruṣasyādṛśyatvād",
+              "segment_number": 83
             },
             {
               "tag": "note",
@@ -1913,7 +1995,8 @@
             },
             {
               "t": "text",
-              "text": "asattvād vā"
+              "text": "asattvād vā",
+              "segment_number": 84
             },
             {
               "tag": "lb",
@@ -1923,18 +2006,21 @@
             },
             {
               "t": "text",
-              "text": "na pratīyatāṃ"
+              "text": "na pratīyatāṃ",
+              "segment_number": 85
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 86
             },
             {
               "t": "text",
-              "text": "kim anena vicāritena"
+              "text": "kim anena vicāritena",
+              "segment_number": 87
             },
             {
               "tag": "note",
@@ -1970,11 +2056,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 88
             },
             {
               "t": "text",
-              "text": "sarvathā kiṃcit"
+              "text": "sarvathā kiṃcit",
+              "segment_number": 89
             },
             {
               "tag": "lb",
@@ -1984,14 +2072,16 @@
             },
             {
               "t": "text",
-              "text": "kāryaṃ puruṣapūrvakam apaśyann avyāptim"
+              "text": "kāryaṃ puruṣapūrvakam apaśyann avyāptim",
+              "segment_number": 90
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 91
             },
             {
               "tag": "pb",
@@ -2002,7 +2092,8 @@
             },
             {
               "t": "text",
-              "text": "kāryamātrasya"
+              "text": "kāryamātrasya",
+              "segment_number": 92
             },
             {
               "tag": "lb",
@@ -2012,7 +2103,8 @@
             },
             {
               "t": "text",
-              "text": "puruṣeṇa kaścid avagacchati | vyāpter anavagame"
+              "text": "puruṣeṇa kaścid avagacchati | vyāpter anavagame",
+              "segment_number": 93
             },
             {
               "tag": "note",
@@ -2045,7 +2137,8 @@
             },
             {
               "t": "text",
-              "text": "ca kuto 'nu"
+              "text": "ca kuto 'nu",
+              "segment_number": 94
             },
             {
               "tag": "lb",
@@ -2056,7 +2149,8 @@
             },
             {
               "t": "text",
-              "text": "mānavārtāpi"
+              "text": "mānavārtāpi",
+              "segment_number": 95
             },
             {
               "tag": "note",
@@ -2092,9 +2186,11 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 96
             }
-          ]
+          ],
+          "segment_number": 82
         },
         {
           "tag": "lb",
@@ -2114,7 +2210,8 @@
             },
             {
               "t": "text",
-              "text": "api tathābhūtaṃ na syāt | akāraṇāt sakṛd apy anutpatteḥ |"
+              "text": "api tathābhūtaṃ na syāt | akāraṇāt sakṛd apy anutpatteḥ |",
+              "segment_number": 98
             },
             {
               "tag": "lb",
@@ -2124,7 +2221,8 @@
             },
             {
               "t": "text",
-              "text": "tasmād ekam api kāryaṃ puruṣakāraṇakaṃ pratiyan viśeṣābhā"
+              "text": "tasmād ekam api kāryaṃ puruṣakāraṇakaṃ pratiyan viśeṣābhā",
+              "segment_number": 99
             },
             {
               "tag": "lb",
@@ -2135,18 +2233,21 @@
             },
             {
               "t": "text",
-              "text": "vāt"
+              "text": "vāt",
+              "segment_number": 100
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 101
             },
             {
               "t": "text",
-              "text": "sarvam eva kāryaṃ buddhimatpūrvakatvena pratipadyate |"
+              "text": "sarvam eva kāryaṃ buddhimatpūrvakatvena pratipadyate |",
+              "segment_number": 102
             },
             {
               "tag": "lb",
@@ -2156,7 +2257,8 @@
             },
             {
               "t": "text",
-              "text": "yathā mahānase vahnihetukaṃ dhūmam upalabhamānaḥ sarvam eva"
+              "text": "yathā mahānase vahnihetukaṃ dhūmam upalabhamānaḥ sarvam eva",
+              "segment_number": 103
             },
             {
               "tag": "lb",
@@ -2166,9 +2268,11 @@
             },
             {
               "t": "text",
-              "text": "dhūmaṃ taddhetukam ākalayati |"
+              "text": "dhūmaṃ taddhetukam ākalayati |",
+              "segment_number": 104
             }
-          ]
+          ],
+          "segment_number": 97
         },
         {
           "tag": "lb",
@@ -2214,11 +2318,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 106
             },
             {
               "t": "text",
-              "text": "anyā"
+              "text": "anyā",
+              "segment_number": 107
             },
             {
               "tag": "lb",
@@ -2229,18 +2335,21 @@
             },
             {
               "t": "text",
-              "text": "dṛśam eva hi kārya"
+              "text": "dṛśam eva hi kārya",
+              "segment_number": 108
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 109
             },
             {
               "t": "text",
-              "text": "puruṣanibandhanaṃ ghaṭādi dṛṣṭam |"
+              "text": "puruṣanibandhanaṃ ghaṭādi dṛṣṭam |",
+              "segment_number": 110
             },
             {
               "tag": "lb",
@@ -2250,18 +2359,21 @@
             },
             {
               "t": "text",
-              "text": "anyādṛśaṃ cedam"
+              "text": "anyādṛśaṃ cedam",
+              "segment_number": 111
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 112
             },
             {
               "t": "text",
-              "text": "tanutaruprabhṛti | kāryam iti abhidhānam"
+              "text": "tanutaruprabhṛti | kāryam iti abhidhānam",
+              "segment_number": 113
             },
             {
               "tag": "lb",
@@ -2278,7 +2390,8 @@
             },
             {
               "t": "text",
-              "text": "eva samānaṃ pralāpaḥ | tato vyāptipratītikāle pratikṣiptam"
+              "text": "eva samānaṃ pralāpaḥ | tato vyāptipratītikāle pratikṣiptam",
+              "segment_number": 114
             },
             {
               "tag": "lb",
@@ -2288,25 +2401,29 @@
             },
             {
               "t": "text",
-              "text": "evedṛśam | na hi vahnivyāptaṃ dhūmaṃ pratipadyamāna"
+              "text": "evedṛśam | na hi vahnivyāptaṃ dhūmaṃ pratipadyamāna",
+              "segment_number": 115
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ḥ"
+              "text": "ḥ",
+              "segment_number": 116
             },
             {
               "t": "text",
-              "text": "kaś"
+              "text": "kaś",
+              "segment_number": 117
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "cic"
+              "text": "cic",
+              "segment_number": 118
             },
             {
               "tag": "lb",
@@ -2316,7 +2433,8 @@
             },
             {
               "t": "text",
-              "text": "citranyastam api dhūmaṃ dhūmaśabdābhidheyatāmā"
+              "text": "citranyastam api dhūmaṃ dhūmaśabdābhidheyatāmā",
+              "segment_number": 119
             },
             {
               "tag": "pb",
@@ -2327,7 +2445,8 @@
             },
             {
               "t": "text",
-              "text": "trasāmyād"
+              "text": "trasāmyād",
+              "segment_number": 120
             },
             {
               "tag": "lb",
@@ -2337,9 +2456,11 @@
             },
             {
               "t": "text",
-              "text": "vahnivyāptaṃ pratipadyate |"
+              "text": "vahnivyāptaṃ pratipadyate |",
+              "segment_number": 121
             }
-          ]
+          ],
+          "segment_number": 105
         },
         {
           "tag": "lb",
@@ -2356,11 +2477,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 123
             },
             {
               "t": "text",
-              "text": "kāryam ity"
+              "text": "kāryam ity",
+              "segment_number": 124
             },
             {
               "tag": "lb",
@@ -2370,7 +2493,8 @@
             },
             {
               "t": "text",
-              "text": "ucyate | tarvādikam api sati kāraṇe bhavat kāryavyavahārayogyam"
+              "text": "ucyate | tarvādikam api sati kāraṇe bhavat kāryavyavahārayogyam",
+              "segment_number": 125
             },
             {
               "tag": "lb",
@@ -2380,7 +2504,8 @@
             },
             {
               "t": "text",
-              "text": "iti kāryatvena vivādāspadībhūtetarayor aviśeṣād ekatra buddhi"
+              "text": "iti kāryatvena vivādāspadībhūtetarayor aviśeṣād ekatra buddhi",
+              "segment_number": 126
             },
             {
               "tag": "lb",
@@ -2391,7 +2516,8 @@
             },
             {
               "t": "text",
-              "text": "matpūrvakatāpratipādyaḥ"
+              "text": "matpūrvakatāpratipādyaḥ",
+              "segment_number": 127
             },
             {
               "tag": "note",
@@ -2424,9 +2550,11 @@
             },
             {
               "t": "text",
-              "text": "sarvatra tathābhāvaḥ pratīyate |"
+              "text": "sarvatra tathābhāvaḥ pratīyate |",
+              "segment_number": 128
             }
-          ]
+          ],
+          "segment_number": 122
         },
         {
           "tag": "lb",
@@ -2447,7 +2575,8 @@
             },
             {
               "t": "text",
-              "text": "kāryasya hutāśanahetukatāpratītyā"
+              "text": "kāryasya hutāśanahetukatāpratītyā",
+              "segment_number": 130
             },
             {
               "tag": "note",
@@ -2480,7 +2609,8 @@
             },
             {
               "t": "text",
-              "text": "sarvasya kāryasya taddhe"
+              "text": "sarvasya kāryasya taddhe",
+              "segment_number": 131
             },
             {
               "tag": "lb",
@@ -2491,20 +2621,24 @@
             },
             {
               "t": "text",
-              "text": "tukatānumānam apy evaṃvādi"
+              "text": "tukatānumānam apy evaṃvādi",
+              "segment_number": 132
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "rī"
+              "text": "rī",
+              "segment_number": 133
             },
             {
               "t": "text",
-              "text": "tyā devānāṃpriyasya prasajyate |"
+              "text": "tyā devānāṃpriyasya prasajyate |",
+              "segment_number": 134
             }
-          ]
+          ],
+          "segment_number": 129
         },
         {
           "tag": "lb",
@@ -2524,7 +2658,8 @@
             },
             {
               "t": "text",
-              "text": "kiṃ tu kāryaviśeṣo dhūma iti tata eva tasyānumānaṃ na kārya"
+              "text": "kiṃ tu kāryaviśeṣo dhūma iti tata eva tasyānumānaṃ na kārya",
+              "segment_number": 136
             },
             {
               "tag": "lb",
@@ -2535,9 +2670,11 @@
             },
             {
               "t": "text",
-              "text": "mātrād iti |"
+              "text": "mātrād iti |",
+              "segment_number": 137
             }
-          ]
+          ],
+          "segment_number": 135
         },
         {
           "tag": "lb",
@@ -2554,11 +2691,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 139
             },
             {
               "t": "text",
-              "text": "puruṣavyāptam ivāgnivyāptam"
+              "text": "puruṣavyāptam ivāgnivyāptam",
+              "segment_number": 140
             },
             {
               "tag": "lb",
@@ -2568,7 +2707,8 @@
             },
             {
               "t": "text",
-              "text": "api na pratīyata ity etad evocyate | tatrāpi hi śakyam etad"
+              "text": "api na pratīyata ity etad evocyate | tatrāpi hi śakyam etad",
+              "segment_number": 141
             },
             {
               "tag": "lb",
@@ -2578,18 +2718,21 @@
             },
             {
               "t": "text",
-              "text": "abhidhātum"
+              "text": "abhidhātum",
+              "segment_number": 142
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 143
             },
             {
               "t": "text",
-              "text": "yadi kiṃcid"
+              "text": "yadi kiṃcid",
+              "segment_number": 144
             },
             {
               "tag": "note",
@@ -2622,7 +2765,8 @@
             },
             {
               "t": "text",
-              "text": "kāryam agnipūrva"
+              "text": "kāryam agnipūrva",
+              "segment_number": 145
             },
             {
               "tag": "pb",
@@ -2633,7 +2777,8 @@
             },
             {
               "t": "text",
-              "text": "kaṃ na"
+              "text": "kaṃ na",
+              "segment_number": 146
             },
             {
               "tag": "lb",
@@ -2643,18 +2788,21 @@
             },
             {
               "t": "text",
-              "text": "syāt"
+              "text": "syāt",
+              "segment_number": 147
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 148
             },
             {
               "t": "text",
-              "text": "dhūmo 'py agnipūrvako na syāt | akāraṇasya sakṛd apy"
+              "text": "dhūmo 'py agnipūrvako na syāt | akāraṇasya sakṛd apy",
+              "segment_number": 149
             },
             {
               "tag": "lb",
@@ -2664,9 +2812,11 @@
             },
             {
               "t": "text",
-              "text": "ajanakatvād iti |"
+              "text": "ajanakatvād iti |",
+              "segment_number": 150
             }
-          ]
+          ],
+          "segment_number": 138
         },
         {
           "tag": "lb",
@@ -2686,9 +2836,11 @@
             },
             {
               "t": "text",
-              "text": "kāryamātrasyāgninā vyāptir iti |"
+              "text": "kāryamātrasyāgninā vyāptir iti |",
+              "segment_number": 152
             }
-          ]
+          ],
+          "segment_number": 151
         },
         {
           "tag": "lb",
@@ -2731,7 +2883,8 @@
             },
             {
               "t": "text",
-              "text": "tṛṇādikam api puruṣam antareṇa jāyamānaṃ dṛṣṭam"
+              "text": "tṛṇādikam api puruṣam antareṇa jāyamānaṃ dṛṣṭam",
+              "segment_number": 154
             },
             {
               "tag": "lb",
@@ -2741,20 +2894,24 @@
             },
             {
               "t": "text",
-              "text": "iti"
+              "text": "iti",
+              "segment_number": 155
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 156
             },
             {
               "t": "text",
-              "text": "na kāryamātrasya puruṣavyāptatā pratyetuṃ śakyā |"
+              "text": "na kāryamātrasya puruṣavyāptatā pratyetuṃ śakyā |",
+              "segment_number": 157
             }
-          ]
+          ],
+          "segment_number": 153
         },
         {
           "tag": "lb",
@@ -2771,7 +2928,8 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "tatpūrvakam"
+              "text": "tatpūrvakam",
+              "segment_number": 159
             },
             {
               "tag": "note",
@@ -2820,7 +2978,8 @@
             },
             {
               "t": "text",
-              "text": "upalabhyate tādṛśam eva tadvyāptam avadhāryata iti kāryamātrād"
+              "text": "upalabhyate tādṛśam eva tadvyāptam avadhāryata iti kāryamātrād",
+              "segment_number": 160
             },
             {
               "tag": "note",
@@ -2859,9 +3018,11 @@
             },
             {
               "t": "text",
-              "text": "eṣyam anumānam |"
+              "text": "eṣyam anumānam |",
+              "segment_number": 161
             }
-          ]
+          ],
+          "segment_number": 158
         },
         {
           "tag": "lb",
@@ -2878,11 +3039,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 163
             },
             {
               "t": "text",
-              "text": "pu"
+              "text": "pu",
+              "segment_number": 164
             },
             {
               "tag": "lb",
@@ -2893,7 +3056,8 @@
             },
             {
               "t": "text",
-              "text": "ruṣapūrvakam upalabhyate tādṛśam eva tadvyāptam avadhāryata"
+              "text": "ruṣapūrvakam upalabhyate tādṛśam eva tadvyāptam avadhāryata",
+              "segment_number": 165
             },
             {
               "tag": "lb",
@@ -2910,29 +3074,34 @@
             },
             {
               "t": "text",
-              "text": "i"
+              "text": "i",
+              "segment_number": 166
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ti"
+              "text": "ti",
+              "segment_number": 167
             },
             {
               "t": "text",
-              "text": "na kāryamātrāt puruṣānumānam"
+              "text": "na kāryamātrāt puruṣānumānam",
+              "segment_number": 168
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 169
             },
             {
               "t": "text",
-              "text": "anyādṛśam eva ca kāryaṃ"
+              "text": "anyādṛśam eva ca kāryaṃ",
+              "segment_number": 170
             },
             {
               "tag": "lb",
@@ -2942,7 +3111,8 @@
             },
             {
               "t": "text",
-              "text": "ghaṭādi puruṣānvayavyatirekānuvidhāyi"
+              "text": "ghaṭādi puruṣānvayavyatirekānuvidhāyi",
+              "segment_number": 171
             },
             {
               "tag": "note",
@@ -2975,7 +3145,8 @@
             },
             {
               "t": "text",
-              "text": "pratipannam ity akāme"
+              "text": "pratipannam ity akāme",
+              "segment_number": 172
             },
             {
               "tag": "lb",
@@ -2986,7 +3157,8 @@
             },
             {
               "t": "text",
-              "text": "nāpi pareṇābhyupagantavyaṃ..."
+              "text": "nāpi pareṇābhyupagantavyaṃ...",
+              "segment_number": 173
             },
             {
               "tag": "note",
@@ -3010,7 +3182,8 @@
             },
             {
               "t": "text",
-              "text": "dibhyo akriyā"
+              "text": "dibhyo akriyā",
+              "segment_number": 174
             },
             {
               "tag": "lb",
@@ -3021,7 +3194,8 @@
             },
             {
               "t": "text",
-              "text": "darśino 'pi kṛtabuddhijanakebhyo vṛkṣādīnāṃ vaisādṛśyam"
+              "text": "darśino 'pi kṛtabuddhijanakebhyo vṛkṣādīnāṃ vaisādṛśyam",
+              "segment_number": 175
             },
             {
               "tag": "note",
@@ -3054,7 +3228,8 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 176
             },
             {
               "tag": "lb",
@@ -3064,7 +3239,8 @@
             },
             {
               "t": "text",
-              "text": "asati ca vivādāspadībhūtetaratvād"
+              "text": "asati ca vivādāspadībhūtetaratvād",
+              "segment_number": 177
             },
             {
               "tag": "note",
@@ -3097,7 +3273,8 @@
             },
             {
               "t": "text",
-              "text": "anyādṛśatve śūnyanagara"
+              "text": "anyādṛśatve śūnyanagara",
+              "segment_number": 178
             },
             {
               "tag": "lb",
@@ -3108,7 +3285,8 @@
             },
             {
               "t": "text",
-              "text": "dṛṣṭasya devakulāder iva vṛkṣāder api nāsmadādivilakṣaṇakartṛ"
+              "text": "dṛṣṭasya devakulāder iva vṛkṣāder api nāsmadādivilakṣaṇakartṛ",
+              "segment_number": 179
             },
             {
               "tag": "lb",
@@ -3119,7 +3297,8 @@
             },
             {
               "t": "text",
-              "text": "pūrvakānumānam"
+              "text": "pūrvakānumānam",
+              "segment_number": 180
             },
             {
               "tag": "note",
@@ -3176,9 +3355,11 @@
             },
             {
               "t": "text",
-              "text": "anavaśyaṃ syāt |"
+              "text": "anavaśyaṃ syāt |",
+              "segment_number": 181
             }
-          ]
+          ],
+          "segment_number": 162
         },
         {
           "tag": "lb",
@@ -3198,7 +3379,8 @@
             },
             {
               "t": "text",
-              "text": "abhidhīyate"
+              "text": "abhidhīyate",
+              "segment_number": 183
             },
             {
               "tag": "note",
@@ -3231,9 +3413,11 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 184
             }
-          ]
+          ],
+          "segment_number": 182
         },
         {
           "tag": "lb",
@@ -3279,11 +3463,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 186
             },
             {
               "t": "text",
-              "text": "na hi ghaṭaviṭapikāraṇayor"
+              "text": "na hi ghaṭaviṭapikāraṇayor",
+              "segment_number": 187
             },
             {
               "tag": "note",
@@ -3316,7 +3502,8 @@
             },
             {
               "t": "text",
-              "text": "dṛśyā"
+              "text": "dṛśyā",
+              "segment_number": 188
             },
             {
               "tag": "lb",
@@ -3327,7 +3514,8 @@
             },
             {
               "t": "text",
-              "text": "dṛśyatāmātreṇa vailakṣaṇyam īśvarakāraṇavādinām"
+              "text": "dṛśyatāmātreṇa vailakṣaṇyam īśvarakāraṇavādinām",
+              "segment_number": 189
             },
             {
               "tag": "note",
@@ -3360,7 +3548,8 @@
             },
             {
               "t": "text",
-              "text": "iṣṭam | pi"
+              "text": "iṣṭam | pi",
+              "segment_number": 190
             },
             {
               "tag": "lb",
@@ -3371,7 +3560,8 @@
             },
             {
               "t": "text",
-              "text": "śācāder adṛśyasya saṃbhavāt | na ca ya eva vṛkṣādikārī puruṣo"
+              "text": "śācāder adṛśyasya saṃbhavāt | na ca ya eva vṛkṣādikārī puruṣo",
+              "segment_number": 191
             },
             {
               "tag": "lb",
@@ -3381,18 +3571,21 @@
             },
             {
               "t": "text",
-              "text": "'smadādīnām adṛśyaḥ sa eveśvara iti"
+              "text": "'smadādīnām adṛśyaḥ sa eveśvara iti",
+              "segment_number": 192
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 193
             },
             {
               "t": "text",
-              "text": "śakyate vaktum"
+              "text": "śakyate vaktum",
+              "segment_number": 194
             },
             {
               "tag": "note",
@@ -3453,7 +3646,8 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 195
             },
             {
               "tag": "lb",
@@ -3463,7 +3657,8 @@
             },
             {
               "t": "text",
-              "text": "ka eva hi viśvanirmāṇapravīṇaḥ"
+              "text": "ka eva hi viśvanirmāṇapravīṇaḥ",
+              "segment_number": 196
             },
             {
               "tag": "note",
@@ -3496,7 +3691,8 @@
             },
             {
               "t": "text",
-              "text": "sarvapadārthaparamārthajñaḥ"
+              "text": "sarvapadārthaparamārthajñaḥ",
+              "segment_number": 197
             },
             {
               "tag": "lb",
@@ -3506,7 +3702,8 @@
             },
             {
               "t": "text",
-              "text": "puruṣaviśeṣo maheśvara iti teṣām"
+              "text": "puruṣaviśeṣo maheśvara iti teṣām",
+              "segment_number": 198
             },
             {
               "tag": "note",
@@ -3539,7 +3736,8 @@
             },
             {
               "t": "text",
-              "text": "abhipretam | na cādṛśya"
+              "text": "abhipretam | na cādṛśya",
+              "segment_number": 199
             },
             {
               "tag": "lb",
@@ -3550,7 +3748,8 @@
             },
             {
               "t": "text",
-              "text": "kartṛkapūrvakatāprasiddhāv api sajātīyānām api ta"
+              "text": "kartṛkapūrvakatāprasiddhāv api sajātīyānām api ta",
+              "segment_number": 200
             },
             {
               "tag": "pb",
@@ -3561,7 +3760,8 @@
             },
             {
               "t": "text",
-              "text": "rūṇām"
+              "text": "rūṇām",
+              "segment_number": 201
             },
             {
               "tag": "lb",
@@ -3571,7 +3771,8 @@
             },
             {
               "t": "text",
-              "text": "ekakartṛkatā sidhyati | prāg eva nagaranadīparvatādīnām ekā"
+              "text": "ekakartṛkatā sidhyati | prāg eva nagaranadīparvatādīnām ekā",
+              "segment_number": 202
             },
             {
               "tag": "lb",
@@ -3582,7 +3783,8 @@
             },
             {
               "t": "text",
-              "text": "ntena parasparavijātīyānāṃ"
+              "text": "ntena parasparavijātīyānāṃ",
+              "segment_number": 203
             },
             {
               "tag": "note",
@@ -3618,11 +3820,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 204
             },
             {
               "t": "text",
-              "text": "na hi dṛśyakartṛpūrvakāṇām"
+              "text": "na hi dṛśyakartṛpūrvakāṇām",
+              "segment_number": 205
             },
             {
               "tag": "lb",
@@ -3632,20 +3836,24 @@
             },
             {
               "t": "text",
-              "text": "api ghaṭādīnām e"
+              "text": "api ghaṭādīnām e",
+              "segment_number": 206
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ka"
+              "text": "ka",
+              "segment_number": 207
             },
             {
               "t": "text",
-              "text": "kartṛkatā pratīyate |"
+              "text": "kartṛkatā pratīyate |",
+              "segment_number": 208
             }
-          ]
+          ],
+          "segment_number": 185
         },
         {
           "tag": "lb",
@@ -3662,11 +3870,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 210
             },
             {
               "t": "text",
-              "text": "jānīma eva vayam ātmātmamānānāṃ sāmarthya"
+              "text": "jānīma eva vayam ātmātmamānānāṃ sāmarthya",
+              "segment_number": 211
             },
             {
               "tag": "lb",
@@ -3677,7 +3887,8 @@
             },
             {
               "t": "text",
-              "text": "gocaram | na cāsmadādijanena śaktenāpi"
+              "text": "gocaram | na cāsmadādijanena śaktenāpi",
+              "segment_number": 212
             },
             {
               "tag": "note",
@@ -3710,7 +3921,8 @@
             },
             {
               "t": "text",
-              "text": "nirmātum amī pāryante"
+              "text": "nirmātum amī pāryante",
+              "segment_number": 213
             },
             {
               "tag": "lb",
@@ -3720,7 +3932,8 @@
             },
             {
               "t": "text",
-              "text": "parvatādayaḥ | tataḥ parvatādīnāṃ racayitā"
+              "text": "parvatādayaḥ | tataḥ parvatādīnāṃ racayitā",
+              "segment_number": 214
             },
             {
               "tag": "note",
@@ -3753,7 +3966,8 @@
             },
             {
               "t": "text",
-              "text": "sidhyann asmadādi"
+              "text": "sidhyann asmadādi",
+              "segment_number": 215
             },
             {
               "tag": "lb",
@@ -3764,16 +3978,19 @@
             },
             {
               "t": "text",
-              "text": "vilakṣaṇa eva sidhyatīti"
+              "text": "vilakṣaṇa eva sidhyatīti",
+              "segment_number": 216
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 217
             }
-          ]
+          ],
+          "segment_number": 209
         },
         {
           "tag": "lb",
@@ -3816,7 +4033,8 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 219
             },
             {
               "tag": "lb",
@@ -3826,7 +4044,8 @@
             },
             {
               "t": "text",
-              "text": "tathā hīdam"
+              "text": "tathā hīdam",
+              "segment_number": 220
             },
             {
               "tag": "note",
@@ -3859,7 +4078,8 @@
             },
             {
               "t": "text",
-              "text": "atra prakṛtam | Īśvaravādināpi vṛkṣādīnāṃ gha"
+              "text": "atra prakṛtam | Īśvaravādināpi vṛkṣādīnāṃ gha",
+              "segment_number": 221
             },
             {
               "tag": "lb",
@@ -3870,7 +4090,8 @@
             },
             {
               "t": "text",
-              "text": "ṭādibhyo vailakṣaṇyaṃ"
+              "text": "ṭādibhyo vailakṣaṇyaṃ",
+              "segment_number": 222
             },
             {
               "tag": "note",
@@ -3903,7 +4124,8 @@
             },
             {
               "t": "text",
-              "text": "niyamenābhyupagantavyam | anyapuruṣa"
+              "text": "niyamenābhyupagantavyam | anyapuruṣa",
+              "segment_number": 223
             },
             {
               "tag": "lb",
@@ -3914,7 +4136,8 @@
             },
             {
               "t": "text",
-              "text": "kāryebhyo viśeṣam anubhavantaḥ katham amī tadvilakṣaṇena kartrā"
+              "text": "kāryebhyo viśeṣam anubhavantaḥ katham amī tadvilakṣaṇena kartrā",
+              "segment_number": 224
             },
             {
               "tag": "lb",
@@ -3937,7 +4160,8 @@
             },
             {
               "t": "text",
-              "text": "kṛtāḥ sādhyerann iti | tato yady ayam idānīm asmadādyatiśā"
+              "text": "kṛtāḥ sādhyerann iti | tato yady ayam idānīm asmadādyatiśā",
+              "segment_number": 225
             },
             {
               "tag": "lb",
@@ -3948,7 +4172,8 @@
             },
             {
               "t": "text",
-              "text": "yipuruṣaprasiddhipratyāśayā asmadādyaśakyakri"
+              "text": "yipuruṣaprasiddhipratyāśayā asmadādyaśakyakri",
+              "segment_number": 226
             },
             {
               "tag": "pb",
@@ -3959,7 +4184,8 @@
             },
             {
               "t": "text",
-              "text": "yatayā"
+              "text": "yatayā",
+              "segment_number": 227
             },
             {
               "tag": "lb",
@@ -3969,7 +4195,8 @@
             },
             {
               "t": "text",
-              "text": "asmadādikāryebhyo vṛkṣādīnāṃ vailakṣaṇyam ācakṣīta"
+              "text": "asmadādikāryebhyo vṛkṣādīnāṃ vailakṣaṇyam ācakṣīta",
+              "segment_number": 228
             },
             {
               "tag": "note",
@@ -4005,11 +4232,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 229
             },
             {
               "t": "text",
-              "text": "tadā"
+              "text": "tadā",
+              "segment_number": 230
             },
             {
               "tag": "lb",
@@ -4019,7 +4248,8 @@
             },
             {
               "t": "text",
-              "text": "siddham eṣām anyādṛśatvam | siddhe cānyādṛśatve na ghaṭādīnāṃ"
+              "text": "siddham eṣām anyādṛśatvam | siddhe cānyādṛśatve na ghaṭādīnāṃ",
+              "segment_number": 231
             },
             {
               "tag": "lb",
@@ -4029,7 +4259,8 @@
             },
             {
               "t": "text",
-              "text": "kāryāṇāṃ pauruṣeyatvaprasiddhā sarvasya kāryasya pauruṣeyatā"
+              "text": "kāryāṇāṃ pauruṣeyatvaprasiddhā sarvasya kāryasya pauruṣeyatā",
+              "segment_number": 232
             },
             {
               "tag": "lb",
@@ -4040,7 +4271,8 @@
             },
             {
               "t": "text",
-              "text": "vyāptiḥ"
+              "text": "vyāptiḥ",
+              "segment_number": 233
             },
             {
               "tag": "note",
@@ -4073,9 +4305,11 @@
             },
             {
               "t": "text",
-              "text": "sidhyatīti salilāñjalir īśvarasiddhaye deyaḥ |"
+              "text": "sidhyatīti salilāñjalir īśvarasiddhaye deyaḥ |",
+              "segment_number": 234
             }
-          ]
+          ],
+          "segment_number": 218
         },
         {
           "tag": "lb",
@@ -4118,7 +4352,8 @@
             },
             {
               "t": "text",
-              "text": "pra"
+              "text": "pra",
+              "segment_number": 236
             },
             {
               "tag": "lb",
@@ -4129,29 +4364,34 @@
             },
             {
               "t": "text",
-              "text": "tīyate"
+              "text": "tīyate",
+              "segment_number": 237
             },
             {
               "tag": "surplus",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 238
             },
             {
               "t": "text",
-              "text": "puruṣeṇa vyāptiḥ punar adṛśyatvāt"
+              "text": "puruṣeṇa vyāptiḥ punar adṛśyatvāt",
+              "segment_number": 239
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "t"
+              "text": "t",
+              "segment_number": 240
             },
             {
               "t": "text",
-              "text": "asya na pra"
+              "text": "asya na pra",
+              "segment_number": 241
             },
             {
               "tag": "lb",
@@ -4162,18 +4402,21 @@
             },
             {
               "t": "text",
-              "text": "tyakṣeṇa bādhyate tṛṇādau"
+              "text": "tyakṣeṇa bādhyate tṛṇādau",
+              "segment_number": 242
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 243
             },
             {
               "t": "text",
-              "text": "tad etad api nyāyācāryasya"
+              "text": "tad etad api nyāyācāryasya",
+              "segment_number": 244
             },
             {
               "tag": "note",
@@ -4206,7 +4449,8 @@
             },
             {
               "t": "text",
-              "text": "bhā"
+              "text": "bhā",
+              "segment_number": 245
             },
             {
               "tag": "lb",
@@ -4217,9 +4461,11 @@
             },
             {
               "t": "text",
-              "text": "ṣitam |"
+              "text": "ṣitam |",
+              "segment_number": 246
             }
-          ]
+          ],
+          "segment_number": 235
         },
         {
           "tag": "lb",
@@ -4262,7 +4508,8 @@
             },
             {
               "t": "text",
-              "text": "yad agnivyāptiṃ kārya"
+              "text": "yad agnivyāptiṃ kārya",
+              "segment_number": 248
             },
             {
               "tag": "lb",
@@ -4273,7 +4520,8 @@
             },
             {
               "t": "text",
-              "text": "sya gṛhṇāti tat pratyakṣaṃ pramāṇam"
+              "text": "sya gṛhṇāti tat pratyakṣaṃ pramāṇam",
+              "segment_number": 249
             },
             {
               "tag": "note",
@@ -4306,7 +4554,8 @@
             },
             {
               "t": "text",
-              "text": "apramāṇaṃ vā syāt | yadi"
+              "text": "apramāṇaṃ vā syāt | yadi",
+              "segment_number": 250
             },
             {
               "tag": "lb",
@@ -4316,18 +4565,21 @@
             },
             {
               "t": "text",
-              "text": "tāvat tat pramāṇaṃ kathaṃ tasya pramā"
+              "text": "tāvat tat pramāṇaṃ kathaṃ tasya pramā",
+              "segment_number": 251
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ṇā"
+              "text": "ṇā",
+              "segment_number": 252
             },
             {
               "t": "text",
-              "text": "ntareṇa bādhaḥ"
+              "text": "ntareṇa bādhaḥ",
+              "segment_number": 253
             },
             {
               "tag": "note",
@@ -4360,7 +4612,8 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 254
             },
             {
               "tag": "lb",
@@ -4370,14 +4623,16 @@
             },
             {
               "t": "text",
-              "text": "athāpramāṇaṃ dhūmasyāpi tena vahnivyāptir aśakyā sādhayitum"
+              "text": "athāpramāṇaṃ dhūmasyāpi tena vahnivyāptir aśakyā sādhayitum",
+              "segment_number": 255
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 256
             },
             {
               "tag": "lb",
@@ -4387,7 +4642,8 @@
             },
             {
               "t": "text",
-              "text": "atha dhūmakāryasya vahnivyāptiṃ sādhayati kāryatvenāviśeṣād"
+              "text": "atha dhūmakāryasya vahnivyāptiṃ sādhayati kāryatvenāviśeṣād",
+              "segment_number": 257
             },
             {
               "tag": "lb",
@@ -4397,7 +4653,8 @@
             },
             {
               "t": "text",
-              "text": "anyasyāpi kiṃ na sādhayatīti dustaravyasanaśaṃkāpraveśaḥ"
+              "text": "anyasyāpi kiṃ na sādhayatīti dustaravyasanaśaṃkāpraveśaḥ",
+              "segment_number": 258
             },
             {
               "tag": "note",
@@ -4430,9 +4687,11 @@
             },
             {
               "t": "text",
-              "text": "|"
+              "text": "|",
+              "segment_number": 259
             }
-          ]
+          ],
+          "segment_number": 247
         },
         {
           "tag": "lb",
@@ -4452,7 +4711,8 @@
             },
             {
               "t": "text",
-              "text": "atha viśiṣṭam"
+              "text": "atha viśiṣṭam",
+              "segment_number": 260
             },
             {
               "tag": "note",
@@ -4485,7 +4745,8 @@
             },
             {
               "t": "text",
-              "text": "eva kāryaṃ"
+              "text": "eva kāryaṃ",
+              "segment_number": 261
             },
             {
               "tag": "note",
@@ -4518,7 +4779,8 @@
             },
             {
               "t": "text",
-              "text": "vahnināntarīyakam iti"
+              "text": "vahnināntarīyakam iti",
+              "segment_number": 262
             },
             {
               "tag": "lb",
@@ -4531,11 +4793,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "na"
+              "text": "na",
+              "segment_number": 263
             },
             {
               "t": "text",
-              "text": "tadvijātīyasya"
+              "text": "tadvijātīyasya",
+              "segment_number": 264
             },
             {
               "tag": "note",
@@ -4568,7 +4832,8 @@
             },
             {
               "t": "text",
-              "text": "kāryasya vahnivyāptatvāvasāyaḥ |"
+              "text": "kāryasya vahnivyāptatvāvasāyaḥ |",
+              "segment_number": 265
             }
           ]
         },
@@ -4587,11 +4852,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 267
             },
             {
               "t": "text",
-              "text": "puruṣanāntarīyakam iti na"
+              "text": "puruṣanāntarīyakam iti na",
+              "segment_number": 268
             },
             {
               "tag": "lb",
@@ -4601,7 +4868,8 @@
             },
             {
               "t": "text",
-              "text": "tadvijātīyasya puruṣavyāptatvāvasāya iti na pratyakṣabādhābā"
+              "text": "tadvijātīyasya puruṣavyāptatvāvasāya iti na pratyakṣabādhābā",
+              "segment_number": 269
             },
             {
               "tag": "lb",
@@ -4612,7 +4880,8 @@
             },
             {
               "t": "text",
-              "text": "dhayor upakṣepaḥ"
+              "text": "dhayor upakṣepaḥ",
+              "segment_number": 270
             },
             {
               "tag": "note",
@@ -4645,7 +4914,8 @@
             },
             {
               "t": "text",
-              "text": "sādhīyān | asmadādyasāmarthyam"
+              "text": "sādhīyān | asmadādyasāmarthyam",
+              "segment_number": 271
             },
             {
               "tag": "note",
@@ -4678,7 +4948,8 @@
             },
             {
               "t": "text",
-              "text": "atattvam |"
+              "text": "atattvam |",
+              "segment_number": 272
             },
             {
               "tag": "lb",
@@ -4688,7 +4959,8 @@
             },
             {
               "t": "text",
-              "text": "yadi bhaved darśanādarśanābhyāṃ vyāptiḥ"
+              "text": "yadi bhaved darśanādarśanābhyāṃ vyāptiḥ",
+              "segment_number": 273
             },
             {
               "tag": "note",
@@ -4724,11 +4996,13 @@
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 274
             },
             {
               "t": "text",
-              "text": "sādhyasādhanayor"
+              "text": "sādhyasādhanayor",
+              "segment_number": 275
             },
             {
               "tag": "lb",
@@ -4738,7 +5012,8 @@
             },
             {
               "t": "text",
-              "text": "apratibandhavatāṃ"
+              "text": "apratibandhavatāṃ",
+              "segment_number": 276
             },
             {
               "tag": "note",
@@ -4771,7 +5046,8 @@
             },
             {
               "t": "text",
-              "text": "tadā na kāryamātrasya puruṣapūrvakatayā"
+              "text": "tadā na kāryamātrasya puruṣapūrvakatayā",
+              "segment_number": 277
             },
             {
               "tag": "lb",
@@ -4781,18 +5057,21 @@
             },
             {
               "t": "text",
-              "text": "vyāptir upavarṇayitu"
+              "text": "vyāptir upavarṇayitu",
+              "segment_number": 278
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#imp-bue"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 279
             },
             {
               "t": "text",
-              "text": "yuktā | puruṣavyāpārādarśane 'pi tṛṇā"
+              "text": "yuktā | puruṣavyāpārādarśane 'pi tṛṇā",
+              "segment_number": 280
             },
             {
               "tag": "lb",
@@ -4803,7 +5082,8 @@
             },
             {
               "t": "text",
-              "text": "dīnām udayamānānām"
+              "text": "dīnām udayamānānām",
+              "segment_number": 281
             },
             {
               "tag": "note",
@@ -4836,7 +5116,8 @@
             },
             {
               "t": "text",
-              "text": "upalambhāt | atha pratibandhanibandhanā"
+              "text": "upalambhāt | atha pratibandhanibandhanā",
+              "segment_number": 282
             },
             {
               "tag": "note",
@@ -4875,7 +5156,8 @@
             },
             {
               "t": "text",
-              "text": "tadāpi na kāryamātrasya puruṣapūrvakatayā vyāptir upavarṇa"
+              "text": "tadāpi na kāryamātrasya puruṣapūrvakatayā vyāptir upavarṇa",
+              "segment_number": 283
             },
             {
               "tag": "lb",
@@ -4886,7 +5168,8 @@
             },
             {
               "t": "text",
-              "text": "yituṃ yuktā | tasyaiva pratibandhasiddher asiddher ity alaṃ"
+              "text": "yituṃ yuktā | tasyaiva pratibandhasiddher asiddher ity alaṃ",
+              "segment_number": 284
             },
             {
               "tag": "lb",
@@ -4896,7 +5179,8 @@
             },
             {
               "t": "text",
-              "text": "bahubhāṣitayā |"
+              "text": "bahubhāṣitayā |",
+              "segment_number": 285
             },
             {
               "tag": "lb",
@@ -4906,7 +5190,8 @@
             },
             {
               "t": "text",
-              "text": "tasmād avasthitam etat | akartṛkam idam ||"
+              "text": "tasmād avasthitam etat | akartṛkam idam ||",
+              "segment_number": 286
             },
             {
               "tag": "note",
@@ -4921,7 +5206,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 266
         },
         {
           "tag": "lb",

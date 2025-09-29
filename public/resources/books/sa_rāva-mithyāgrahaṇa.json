@@ -44,9 +44,11 @@
             },
             {
               "tag": "text",
-              "text": "Mithyāgrahaṇam"
+              "text": "Mithyāgrahaṇam",
+              "segment_number": 2
             }
-          ]
+          ],
+          "segment_number": 1
         },
         {
           "tag": "pb",
@@ -66,14 +68,16 @@
               "attributes": {
                 "n": "24-01"
               },
-              "text": "Caitramāsasya sāyaṃ samayaḥ."
+              "text": "Caitramāsasya sāyaṃ samayaḥ.",
+              "segment_number": 3
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-02"
               },
-              "text": "Mohamayyā mājhagāvanāmani sthāne kasyacic chrīlasya gehe kanyāyā vivāhasya maṇḍapamaṇḍanādiprāthamikasaṃbhāro 'nuṣṭhīyate sma."
+              "text": "Mohamayyā mājhagāvanāmani sthāne kasyacic chrīlasya gehe kanyāyā vivāhasya maṇḍapamaṇḍanādiprāthamikasaṃbhāro 'nuṣṭhīyate sma.",
+              "segment_number": 4
             },
             {
               "tag": "s",
@@ -85,47 +89,57 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 6
                 },
                 {
                   "tag": "text",
-                  "text": "kaṭhinamaṇikuṭṭimasya nikhananaracanena"
+                  "text": "kaṭhinamaṇikuṭṭimasya nikhananaracanena",
+                  "segment_number": 7
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 8
                 },
                 {
                   "tag": "text",
-                  "text": "kvacit karmakarāṇāṃ kalakalena"
+                  "text": "kvacit karmakarāṇāṃ kalakalena",
+                  "segment_number": 9
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 10
                 },
                 {
                   "tag": "text",
-                  "text": "saṃcarajjanacaraṇavikṣepaṇadhvaninā"
+                  "text": "saṃcarajjanacaraṇavikṣepaṇadhvaninā",
+                  "segment_number": 11
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 12
                 },
                 {
                   "tag": "text",
-                  "text": "kṣubhitam iva bhavanam etad abhavat."
+                  "text": "kṣubhitam iva bhavanam etad abhavat.",
+                  "segment_number": 13
                 }
-              ]
+              ],
+              "segment_number": 5
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-04"
               },
-              "text": "Paredyur hi kenacid dhanāḍhyena saha vatsāyā udvāho niścita āsīt."
+              "text": "Paredyur hi kenacid dhanāḍhyena saha vatsāyā udvāho niścita āsīt.",
+              "segment_number": 14
             },
             {
               "tag": "s",
@@ -137,36 +151,43 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 16
                 },
                 {
                   "tag": "text",
-                  "text": "gauravarṇāpi nātirūpavaiśiṣṭyasaṃpannā"
+                  "text": "gauravarṇāpi nātirūpavaiśiṣṭyasaṃpannā",
+                  "segment_number": 17
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 18
                 },
                 {
                   "tag": "text",
-                  "text": "Amīnābhidhāpi Mīnākṣī saha sakhyā Saralābhidhayā saralasvabhāvayā gaganatalacaramārdhavartini bhagavati divasādhināyake rasālādivṛkṣabhūṣitāyāṃ vāṭikāyāṃ svapitur mandirapakṣadvārasamīpasthāyāṃ vijanakoṇe bakulataror ekasyādhaḥ saṃlāpaṃ kurvaty āsīt."
+                  "text": "Amīnābhidhāpi Mīnākṣī saha sakhyā Saralābhidhayā saralasvabhāvayā gaganatalacaramārdhavartini bhagavati divasādhināyake rasālādivṛkṣabhūṣitāyāṃ vāṭikāyāṃ svapitur mandirapakṣadvārasamīpasthāyāṃ vijanakoṇe bakulataror ekasyādhaḥ saṃlāpaṃ kurvaty āsīt.",
+                  "segment_number": 19
                 }
-              ]
+              ],
+              "segment_number": 15
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-06"
               },
-              "text": "Patatriṇāṃ kilakilaravo 'staṃ gataḥ."
+              "text": "Patatriṇāṃ kilakilaravo 'staṃ gataḥ.",
+              "segment_number": 20
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-07"
               },
-              "text": "Ālolamālatīpuṣpasamūhād utpatyālikadambakāni tūṣṇīkāṃ bhejire."
+              "text": "Ālolamālatīpuṣpasamūhād utpatyālikadambakāni tūṣṇīkāṃ bhejire.",
+              "segment_number": 21
             }
           ]
         },
@@ -186,20 +207,24 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 23
                 },
                 {
                   "tag": "text",
-                  "text": "vivāhamaṅgalavidhis te kasmin muhūrte niścito 'sti śvaḥ?"
+                  "text": "vivāhamaṅgalavidhis te kasmin muhūrte niścito 'sti śvaḥ?",
+                  "segment_number": 24
                 }
-              ]
+              ],
+              "segment_number": 22
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-09"
               },
-              "text": "Amīnā: Astaṅgamanasamaye bhagavataḥ savituḥ."
+              "text": "Amīnā: Astaṅgamanasamaye bhagavataḥ savituḥ.",
+              "segment_number": 25
             },
             {
               "tag": "s",
@@ -211,27 +236,32 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 27
                 },
                 {
                   "tag": "text",
-                  "text": "varam adṛṣṭvā tatpāṇigrahaṇaṃ kathaṃ nāma pratipadyate tvayā?"
+                  "text": "varam adṛṣṭvā tatpāṇigrahaṇaṃ kathaṃ nāma pratipadyate tvayā?",
+                  "segment_number": 28
                 }
-              ]
+              ],
+              "segment_number": 26
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-11"
               },
-              "text": "Amīnā: Taddarśanena kim?"
+              "text": "Amīnā: Taddarśanena kim?",
+              "segment_number": 29
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-12"
               },
-              "text": "Bhāratavarṣe bhūyiṣṭhānāṃ kanyānāṃ varasya darśanāt prāg eva vivāho bhavati."
+              "text": "Bhāratavarṣe bhūyiṣṭhānāṃ kanyānāṃ varasya darśanāt prāg eva vivāho bhavati.",
+              "segment_number": 30
             },
             {
               "tag": "s",
@@ -245,76 +275,88 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "ā"
+                  "text": "ā",
+                  "segment_number": 32
                 },
                 {
                   "tag": "text",
-                  "text": "labdhvāpi saha tair vastum agamat."
+                  "text": "labdhvāpi saha tair vastum agamat.",
+                  "segment_number": 33
                 }
-              ]
+              ],
+              "segment_number": 31
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-14"
               },
-              "text": "Ahaṃ tu viṃśativarṣīyāsmi."
+              "text": "Ahaṃ tu viṃśativarṣīyāsmi.",
+              "segment_number": 34
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-15"
               },
-              "text": "Mātāpitarāv avalambamānā tayor ājñāṃ śirasāṅgīkṛtya niḥśaṅkaṃ niścitavarasya pāṇigrahaṇaṃ mudā kariṣye."
+              "text": "Mātāpitarāv avalambamānā tayor ājñāṃ śirasāṅgīkṛtya niḥśaṅkaṃ niścitavarasya pāṇigrahaṇaṃ mudā kariṣye.",
+              "segment_number": 35
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-16"
               },
-              "text": "Saralā: Paraṃ yadi kumāro vivāhāt prāk paricitaḥ syāt tadā nijabhāvisukhāprāptau pratītā bhavet kumārī."
+              "text": "Saralā: Paraṃ yadi kumāro vivāhāt prāk paricitaḥ syāt tadā nijabhāvisukhāprāptau pratītā bhavet kumārī.",
+              "segment_number": 36
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-17"
               },
-              "text": "Ittham abhidhāya Saralā kiñcin natvā bhūtale vistāritabakulapuṣpanikarāt kānicid vicitya tadāmodam āsvādayat."
+              "text": "Ittham abhidhāya Saralā kiñcin natvā bhūtale vistāritabakulapuṣpanikarāt kānicid vicitya tadāmodam āsvādayat.",
+              "segment_number": 37
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-18"
               },
-              "text": "Amīnā: Hum! Pāścātyadeśīyānām evānukūlā prītivivāhādikalpanā."
+              "text": "Amīnā: Hum! Pāścātyadeśīyānām evānukūlā prītivivāhādikalpanā.",
+              "segment_number": 38
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-19"
               },
-              "text": "Kṛtapraṇayavivāhānām api vadhūvarāṇāṃ vyabhicāraparasparasvabhāvā saṅgatyādikāraṇebhyaḥ pāścātyadeśeṣu vivāhaviśleṣasya vṛttaparamparā kriyāsamabhihāreṇa śrūyate."
+              "text": "Kṛtapraṇayavivāhānām api vadhūvarāṇāṃ vyabhicāraparasparasvabhāvā saṅgatyādikāraṇebhyaḥ pāścātyadeśeṣu vivāhaviśleṣasya vṛttaparamparā kriyāsamabhihāreṇa śrūyate.",
+              "segment_number": 39
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-20"
               },
-              "text": "Param asmadīyadeśe viralaḥ khalu vyatikaras tādṛśaḥ."
+              "text": "Param asmadīyadeśe viralaḥ khalu vyatikaras tādṛśaḥ.",
+              "segment_number": 40
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-21"
               },
-              "text": "Ity Amīnā svapitur asakṛd uktaṃ vākyam udīrya kasyacit praphullagulamohorākhyadrumaviśeṣasyādho marakatopalakalpitāsandīṃ prati sakhīm anayat."
+              "text": "Ity Amīnā svapitur asakṛd uktaṃ vākyam udīrya kasyacit praphullagulamohorākhyadrumaviśeṣasyādho marakatopalakalpitāsandīṃ prati sakhīm anayat.",
+              "segment_number": 41
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "24-22"
               },
-              "text": "Amīnā: Sarale! Jānāsi tvaṃ yac chakuntalāduṣyantayor anurāgabaddhayor gāndharvavidhinā svairaṃ pariṇītayor api katipayakālottaraṃ vicchinnaprāyo 'bhūd vivāhaḥ."
+              "text": "Amīnā: Sarale! Jānāsi tvaṃ yac chakuntalāduṣyantayor anurāgabaddhayor gāndharvavidhinā svairaṃ pariṇītayor api katipayakālottaraṃ vicchinnaprāyo 'bhūd vivāhaḥ.",
+              "segment_number": 42
             },
             {
               "tag": "pb",
@@ -335,13 +377,16 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "Durvāsa"
+                  "text": "Durvāsa",
+                  "segment_number": 44
                 },
                 {
                   "tag": "text",
-                  "text": "munes tat saṃvṛttaṃ na tu tayor doṣāt."
+                  "text": "munes tat saṃvṛttaṃ na tu tayor doṣāt.",
+                  "segment_number": 45
                 }
-              ]
+              ],
+              "segment_number": 43
             }
           ]
         },
@@ -356,7 +401,8 @@
               "attributes": {
                 "n": "25-02"
               },
-              "text": "Kumāryāv ime āśaiśavāt prativeśinyāv āstām."
+              "text": "Kumāryāv ime āśaiśavāt prativeśinyāv āstām.",
+              "segment_number": 46
             },
             {
               "tag": "s",
@@ -368,48 +414,56 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 48
                 },
                 {
                   "tag": "text",
-                  "text": "bhinnabhinne ca dharmamate abhūtāṃ tayos tad apīme parasparaṃ pratibaddhadṛḍhasakhye ciraṃ sthitavatyau."
+                  "text": "bhinnabhinne ca dharmamate abhūtāṃ tayos tad apīme parasparaṃ pratibaddhadṛḍhasakhye ciraṃ sthitavatyau.",
+                  "segment_number": 49
                 }
-              ]
+              ],
+              "segment_number": 47
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-04"
               },
-              "text": "Amīnā hi kanyāśālāyām adhyāpitāpi svātantryasukhaṃ nānvabhavat."
+              "text": "Amīnā hi kanyāśālāyām adhyāpitāpi svātantryasukhaṃ nānvabhavat.",
+              "segment_number": 50
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-05"
               },
-              "text": "Seyaṃ vyaktitvavihīnā bhāvanāvarjitā vaivāhikaviṣaye na kam api pakṣam avālambata."
+              "text": "Seyaṃ vyaktitvavihīnā bhāvanāvarjitā vaivāhikaviṣaye na kam api pakṣam avālambata.",
+              "segment_number": 51
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-06"
               },
-              "text": "Tasyā vivāhavāṅniścayo Hamidanāmnā kenacid dhanāḍhyena śilpayantrasvāminā saha pitṛbhyāṃ vyadhāyi."
+              "text": "Tasyā vivāhavāṅniścayo Hamidanāmnā kenacid dhanāḍhyena śilpayantrasvāminā saha pitṛbhyāṃ vyadhāyi.",
+              "segment_number": 52
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-07"
               },
-              "text": "So 'yaṃ taruṇo mohamayyāṃ eva kṛtavāso 'bhūt."
+              "text": "So 'yaṃ taruṇo mohamayyāṃ eva kṛtavāso 'bhūt.",
+              "segment_number": 53
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-08"
               },
-              "text": "Vastutaḥ pitur ājñayā kasyāpi kumārasya pāṇigrahaṇaṃ mugdheyam aṅgyakariṣyat."
+              "text": "Vastutaḥ pitur ājñayā kasyāpi kumārasya pāṇigrahaṇaṃ mugdheyam aṅgyakariṣyat.",
+              "segment_number": 54
             }
           ]
         },
@@ -424,35 +478,40 @@
               "attributes": {
                 "n": "25-09"
               },
-              "text": "Atha paredyuḥ samāhitanānāvidhasaṃskāram Amīnāyāḥ pitur mandiraṃ mahotsavamayaṃ saṅgītanṛtyādidhvanimayaṃ divyamandiram iva vyabhāsiṣṭa."
+              "text": "Atha paredyuḥ samāhitanānāvidhasaṃskāram Amīnāyāḥ pitur mandiraṃ mahotsavamayaṃ saṅgītanṛtyādidhvanimayaṃ divyamandiram iva vyabhāsiṣṭa.",
+              "segment_number": 55
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-10"
               },
-              "text": "Krameṇa samupatiṣṭhadbhiḥ prāghuṇikaiḥ sadanam etad vyarājata."
+              "text": "Krameṇa samupatiṣṭhadbhiḥ prāghuṇikaiḥ sadanam etad vyarājata.",
+              "segment_number": 56
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-11"
               },
-              "text": "Āmadhyarātraṃ ca samucitabhojanaiḥ satkṛtaḥ prāghuṇikasamūho vārāṅganānṛtyasaṅgītādibhiḥ prāpitavinodaḥ śrīlasyālaye sukhaṃ kālam ayāpayat."
+              "text": "Āmadhyarātraṃ ca samucitabhojanaiḥ satkṛtaḥ prāghuṇikasamūho vārāṅganānṛtyasaṅgītādibhiḥ prāpitavinodaḥ śrīlasyālaye sukhaṃ kālam ayāpayat.",
+              "segment_number": 57
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-12"
               },
-              "text": "Nirvartitavivāhā prātastarāṃ ca vadhūr mṛgamadakarpūrādinā surabhidravyeṇānuliptasarvāṅgī dhautadukūlavasanā dhavalapuṣpamaṇḍitaśirā ratnakhacitakaṇṭhahārakuṇḍalakaṅkaṇābharaṇabhūṣitā patyur geham ayāt."
+              "text": "Nirvartitavivāhā prātastarāṃ ca vadhūr mṛgamadakarpūrādinā surabhidravyeṇānuliptasarvāṅgī dhautadukūlavasanā dhavalapuṣpamaṇḍitaśirā ratnakhacitakaṇṭhahārakuṇḍalakaṅkaṇābharaṇabhūṣitā patyur geham ayāt.",
+              "segment_number": 58
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-13"
               },
-              "text": "Bālasakhīṃ Saralāṃ visraṣṭum asahamānā navoḍheyaṃ pitur gehān nigamanāt prāg yathā pratiśrutaṃ pratidinaṃ vāhakena sārdhaṃ premodrekasaṃbhṛtaṃ patraṃ prāhiṇot."
+              "text": "Bālasakhīṃ Saralāṃ visraṣṭum asahamānā navoḍheyaṃ pitur gehān nigamanāt prāg yathā pratiśrutaṃ pratidinaṃ vāhakena sārdhaṃ premodrekasaṃbhṛtaṃ patraṃ prāhiṇot.",
+              "segment_number": 59
             },
             {
               "tag": "s",
@@ -464,49 +523,60 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 61
                 },
                 {
                   "tag": "text",
-                  "text": "samudbhāsamānaṃ saṃkhyātigāminā caturaviśiṣṭaveṣadhāriṇā paricchadena samanvitaṃ"
+                  "text": "samudbhāsamānaṃ saṃkhyātigāminā caturaviśiṣṭaveṣadhāriṇā paricchadena samanvitaṃ",
+                  "segment_number": 62
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 63
                 },
                 {
                   "tag": "text",
-                  "text": "nānāvidhapuṣpāmodasurabhitāntaḥpuraṃ"
+                  "text": "nānāvidhapuṣpāmodasurabhitāntaḥpuraṃ",
+                  "segment_number": 64
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 65
                 },
                 {
                   "tag": "text",
-                  "text": "nijāmūlyaratnakhacitābharaṇajātaṃ"
+                  "text": "nijāmūlyaratnakhacitābharaṇajātaṃ",
+                  "segment_number": 66
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 67
                 },
                 {
                   "tag": "text",
-                  "text": "payonidher madhuramarmarormimālā yās tasyā mārtaṇḍatāpaklāntiṃ mantharīkurvanti sma divā"
+                  "text": "payonidher madhuramarmarormimālā yās tasyā mārtaṇḍatāpaklāntiṃ mantharīkurvanti sma divā",
+                  "segment_number": 68
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 69
                 },
                 {
                   "tag": "text",
-                  "text": "naktaṃ ca vījayantyo mandānilaṃ samacārayan."
+                  "text": "naktaṃ ca vījayantyo mandānilaṃ samacārayan.",
+                  "segment_number": 70
                 }
-              ]
+              ],
+              "segment_number": 60
             },
             {
               "tag": "s",
@@ -518,13 +588,16 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 72
                 },
                 {
                   "tag": "text",
-                  "text": "mandurā cānekavājibhiḥ saṃbhṛtā."
+                  "text": "mandurā cānekavājibhiḥ saṃbhṛtā.",
+                  "segment_number": 73
                 }
-              ]
+              ],
+              "segment_number": 71
             },
             {
               "tag": "s",
@@ -536,20 +609,24 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 75
                 },
                 {
                   "tag": "text",
-                  "text": "paraṃ svabhārtāram adhikṛtya leśamātram api na kadāpi śaṃsitam iti Saralayā lakṣitam."
+                  "text": "paraṃ svabhārtāram adhikṛtya leśamātram api na kadāpi śaṃsitam iti Saralayā lakṣitam.",
+                  "segment_number": 76
                 }
-              ]
+              ],
+              "segment_number": 74
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-17"
               },
-              "text": "Na tu tayāpi Hāmidam uddiśya kim apy anuyuktam."
+              "text": "Na tu tayāpi Hāmidam uddiśya kim apy anuyuktam.",
+              "segment_number": 77
             },
             {
               "tag": "s",
@@ -563,69 +640,80 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "drumād"
+                  "text": "drumād",
+                  "segment_number": 79
                 },
                 {
                   "tag": "text",
-                  "text": "drumam uḍḍayamānam ivātmānam akalayad Amīnā."
+                  "text": "drumam uḍḍayamānam ivātmānam akalayad Amīnā.",
+                  "segment_number": 80
                 }
-              ]
+              ],
+              "segment_number": 78
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-19"
               },
-              "text": "Nirmito 'bhūd hi prāsādo 'yaṃ nānāmūlyadurlabhopalajātena."
+              "text": "Nirmito 'bhūd hi prāsādo 'yaṃ nānāmūlyadurlabhopalajātena.",
+              "segment_number": 81
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-20"
               },
-              "text": "Aṃtarāṅgaṇe sugahanagṛhābhyantarmārgaparamparā marakatastambhāvalambitā sthitā."
+              "text": "Aṃtarāṅgaṇe sugahanagṛhābhyantarmārgaparamparā marakatastambhāvalambitā sthitā.",
+              "segment_number": 82
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-21"
               },
-              "text": "Sukhopabhājāṃ mogaladharādhipānāṃ kālād avaśiṣṭāś citritāh paṭalā viśvakarmasamaśilpikarmakauśalabhūṣitā āsan."
+              "text": "Sukhopabhājāṃ mogaladharādhipānāṃ kālād avaśiṣṭāś citritāh paṭalā viśvakarmasamaśilpikarmakauśalabhūṣitā āsan.",
+              "segment_number": 83
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-22"
               },
-              "text": "Antaḥpurasya bhūtalaṃ cotkṛṣṭapārasīkadeśīyakauśeyāstaraṇair ācchāditam abhūt."
+              "text": "Antaḥpurasya bhūtalaṃ cotkṛṣṭapārasīkadeśīyakauśeyāstaraṇair ācchāditam abhūt.",
+              "segment_number": 84
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-23"
               },
-              "text": "Bhittayo 'pi kārmikakṣaumapaṭṭair āvṛttāḥ."
+              "text": "Bhittayo 'pi kārmikakṣaumapaṭṭair āvṛttāḥ.",
+              "segment_number": 85
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-24"
               },
-              "text": "Antaḥpurasya viśālāṅgaṇaṃ parilambamānarajatapañjarakrīḍākulaṃ śukasārikākulaṃ kalaravamanoharam."
+              "text": "Antaḥpurasya viśālāṅgaṇaṃ parilambamānarajatapañjarakrīḍākulaṃ śukasārikākulaṃ kalaravamanoharam.",
+              "segment_number": 86
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-25"
               },
-              "text": "Pārśvavartiny ekasmin kāṣṭhajālālaye 'nye patatriṇo mayūrādayaḥ kujankalakalaiḥ pakṣasphuraṇaiḥ samañjīraśiñjananartanaiś cākrīḍan."
+              "text": "Pārśvavartiny ekasmin kāṣṭhajālālaye 'nye patatriṇo mayūrādayaḥ kujankalakalaiḥ pakṣasphuraṇaiḥ samañjīraśiñjananartanaiś cākrīḍan.",
+              "segment_number": 87
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "25-26"
               },
-              "text": "Vivāhāt pūrvaṃ mātugṛhe bhāvivivāhaviṣayaṃ vyacintayad Amīnā:"
+              "text": "Vivāhāt pūrvaṃ mātugṛhe bhāvivivāhaviṣayaṃ vyacintayad Amīnā:",
+              "segment_number": 88
             },
             {
               "tag": "q",
@@ -636,14 +724,16 @@
                   "attributes": {
                     "n": "25-27"
                   },
-                  "text": "Api madvivāhaḥ śrīleṇa saha Hāmidena sukhāvaho bhavitā."
+                  "text": "Api madvivāhaḥ śrīleṇa saha Hāmidena sukhāvaho bhavitā.",
+                  "segment_number": 89
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "25-28"
                   },
-                  "text": "Kathaṃ nāmaikākinī viśālasaudhe 'smin kālaṃ yāpayituṃ prabhaveyam iti.“"
+                  "text": "Kathaṃ nāmaikākinī viśālasaudhe 'smin kālaṃ yāpayituṃ prabhaveyam iti.“",
+                  "segment_number": 90
                 }
               ]
             }
@@ -667,14 +757,16 @@
               "attributes": {
                 "n": "26-01"
               },
-              "text": "Amīnā hy ādau vyavasāyābhāvāc chūnyahṛdayam ātmānam apaśyat."
+              "text": "Amīnā hy ādau vyavasāyābhāvāc chūnyahṛdayam ātmānam apaśyat.",
+              "segment_number": 91
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-02"
               },
-              "text": "Tadbhartā hi prātastarāṃ nagarāt sārdhayojanadūrasthaṃ śilpayantrakāryālayaṃ prati gṛhāt nirgatya sāyaṃ sūryāstamanasamaye nyavartata."
+              "text": "Tadbhartā hi prātastarāṃ nagarāt sārdhayojanadūrasthaṃ śilpayantrakāryālayaṃ prati gṛhāt nirgatya sāyaṃ sūryāstamanasamaye nyavartata.",
+              "segment_number": 92
             },
             {
               "tag": "s",
@@ -686,103 +778,126 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 94
                 },
                 {
                   "tag": "text",
-                  "text": "dāsībhih pādayor nipīḍyamānā"
+                  "text": "dāsībhih pādayor nipīḍyamānā",
+                  "segment_number": 95
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 96
                 },
                 {
                   "tag": "text",
-                  "text": "vidyudvyajanena cakrākāreṇa vījyamānā svabhāgyodayasopānaṃ manasi praśaṃsantī"
+                  "text": "vidyudvyajanena cakrākāreṇa vījyamānā svabhāgyodayasopānaṃ manasi praśaṃsantī",
+                  "segment_number": 97
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 98
                 },
                 {
                   "tag": "text",
-                  "text": "ajñabhṛtyetarajanasaṃparkarahitā"
+                  "text": "ajñabhṛtyetarajanasaṃparkarahitā",
+                  "segment_number": 99
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 100
                 },
                 {
                   "tag": "text",
-                  "text": "caturasakhīvirahitā"
+                  "text": "caturasakhīvirahitā",
+                  "segment_number": 101
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 102
                 },
                 {
                   "tag": "text",
-                  "text": "vividhabhūṣaṇavihitaprabalacākacakyā"
+                  "text": "vividhabhūṣaṇavihitaprabalacākacakyā",
+                  "segment_number": 103
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 104
                 },
                 {
                   "tag": "text",
-                  "text": "sugandhitailaprasādhitakeśakalāpā"
+                  "text": "sugandhitailaprasādhitakeśakalāpā",
+                  "segment_number": 105
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 106
                 },
                 {
                   "tag": "text",
-                  "text": "añjanarañjitalocanāñcalā"
+                  "text": "añjanarañjitalocanāñcalā",
+                  "segment_number": 107
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 108
                 },
                 {
                   "tag": "text",
-                  "text": "hiraṇmayasūtrāṅkitapaṭṭāmbaradharā"
+                  "text": "hiraṇmayasūtrāṅkitapaṭṭāmbaradharā",
+                  "segment_number": 109
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 110
                 },
                 {
                   "tag": "text",
-                  "text": "sāgarormimālātuṣārakaṇikāpaharaṇaśītasya samīrasya sukhasparśam anubhavantī"
+                  "text": "sāgarormimālātuṣārakaṇikāpaharaṇaśītasya samīrasya sukhasparśam anubhavantī",
+                  "segment_number": 111
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 112
                 },
                 {
                   "tag": "text",
-                  "text": "śukasārikādipakṣiṇāṃ kalakalaṃ śṛṇvatī"
+                  "text": "śukasārikādipakṣiṇāṃ kalakalaṃ śṛṇvatī",
+                  "segment_number": 113
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 114
                 },
                 {
                   "tag": "text",
-                  "text": "aṭṭālikāyā aṭṭālikām aṅganād aṅganaṃ paunaḥpunyena paryaṭantī kālam ayāpayad Amīnā yāvat prāsūta yamalau sutau."
+                  "text": "aṭṭālikāyā aṭṭālikām aṅganād aṅganaṃ paunaḥpunyena paryaṭantī kālam ayāpayad Amīnā yāvat prāsūta yamalau sutau.",
+                  "segment_number": 115
                 }
-              ]
+              ],
+              "segment_number": 93
             }
           ]
         },
@@ -797,56 +912,64 @@
               "attributes": {
                 "n": "26-04"
               },
-              "text": "Atha katipayavarṣottaraṃ tasyā bālasakhyāḥ saralāyāḥ kaścid viśvasanīya ṛjusvabhāvas taruṇaḥ pāṇim agṛḥnāt."
+              "text": "Atha katipayavarṣottaraṃ tasyā bālasakhyāḥ saralāyāḥ kaścid viśvasanīya ṛjusvabhāvas taruṇaḥ pāṇim agṛḥnāt.",
+              "segment_number": 116
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-05"
               },
-              "text": "Tayoś ca vivāho vināḍambaraṃ niravartata."
+              "text": "Tayoś ca vivāho vināḍambaraṃ niravartata.",
+              "segment_number": 117
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-06"
               },
-              "text": "Vyavasāya pravāsinaḥ Saralayāḥ patyur nāsīt sthiro nivāsaḥ kvāpi."
+              "text": "Vyavasāya pravāsinaḥ Saralayāḥ patyur nāsīt sthiro nivāsaḥ kvāpi.",
+              "segment_number": 118
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-07"
               },
-              "text": "Paraṃ svakāryārthaṃ mohamayīṃ gatāgataṃ kurvann eṣa nagarīm imām adhivastuṃ matiṃ kṛtvā Saralāyā icchām anusarann Amīnāyāḥ prasādasyādhastāt dvitraprakoṣṭātmakaṃ vasatisthānam alpiṣṭham upalabdhavān."
+              "text": "Paraṃ svakāryārthaṃ mohamayīṃ gatāgataṃ kurvann eṣa nagarīm imām adhivastuṃ matiṃ kṛtvā Saralāyā icchām anusarann Amīnāyāḥ prasādasyādhastāt dvitraprakoṣṭātmakaṃ vasatisthānam alpiṣṭham upalabdhavān.",
+              "segment_number": 119
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-08"
               },
-              "text": "Ativiśālasaudhe 'smin naikabhāṭakabhavanayukte bahutithaṃ kālam uṣitvāpi tatra nivāsino 'nyonyadṛṣṭipatham api prāyo neyuḥ."
+              "text": "Ativiśālasaudhe 'smin naikabhāṭakabhavanayukte bahutithaṃ kālam uṣitvāpi tatra nivāsino 'nyonyadṛṣṭipatham api prāyo neyuḥ.",
+              "segment_number": 120
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-09"
               },
-              "text": "Amīnāyā antaḥpuravalabhituṅgavātāyanād adho bhūtalasthasya Saralāyā gṛhasya sūkṣmakārpāsavastrācchāditavātāyanāntaḥprakoṣṭhaṃ sphuṭaṃ bahisto dṛkpatham agamat."
+              "text": "Amīnāyā antaḥpuravalabhituṅgavātāyanād adho bhūtalasthasya Saralāyā gṛhasya sūkṣmakārpāsavastrācchāditavātāyanāntaḥprakoṣṭhaṃ sphuṭaṃ bahisto dṛkpatham agamat.",
+              "segment_number": 121
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-10"
               },
-              "text": "Yadā ca Saralāyāḥ patir nagarān nirayāt tadā sā manaso dvitīyanibandhanabhūtayāḥ sadane 'mīnāyā bhūyiṣṭham aho 'nayat."
+              "text": "Yadā ca Saralāyāḥ patir nagarān nirayāt tadā sā manaso dvitīyanibandhanabhūtayāḥ sadane 'mīnāyā bhūyiṣṭham aho 'nayat.",
+              "segment_number": 122
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-11"
               },
-              "text": "Ime ca sahacaryau punaḥ saṅgamenāmandānandam anvabhūtām."
+              "text": "Ime ca sahacaryau punaḥ saṅgamenāmandānandam anvabhūtām.",
+              "segment_number": 123
             }
           ]
         },
@@ -868,13 +991,16 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "gṛhād"
+                  "text": "gṛhād",
+                  "segment_number": 125
                 },
                 {
                   "tag": "text",
-                  "text": "bahir niragāt."
+                  "text": "bahir niragāt.",
+                  "segment_number": 126
                 }
-              ]
+              ],
+              "segment_number": 124
             },
             {
               "tag": "s",
@@ -886,13 +1012,16 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": "''"
+                  "text": "''",
+                  "segment_number": 128
                 },
                 {
                   "tag": "text",
-                  "text": "sta."
+                  "text": "sta.",
+                  "segment_number": 129
                 }
-              ]
+              ],
+              "segment_number": 127
             },
             {
               "tag": "s",
@@ -904,71 +1033,83 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 131
                 },
                 {
                   "tag": "text",
-                  "text": "tadviprayogottarapratyāgamanotkaṇṭhā cobhayor ity ādiviśayam adhikṛtya samalapat"
+                  "text": "tadviprayogottarapratyāgamanotkaṇṭhā cobhayor ity ādiviśayam adhikṛtya samalapat",
+                  "segment_number": 132
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 133
                 },
                 {
                   "tag": "text",
-                  "text": "tadā tadāmīnāṃ vidūrabaddhadṛṣṭim alakṣayat sā."
+                  "text": "tadā tadāmīnāṃ vidūrabaddhadṛṣṭim alakṣayat sā.",
+                  "segment_number": 134
                 }
-              ]
+              ],
+              "segment_number": 130
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-15"
               },
-              "text": "Atha gacchati kale dṛṣṭyām Amīnayāḥ ko 'pi khedadyotako vikāro vyaloki."
+              "text": "Atha gacchati kale dṛṣṭyām Amīnayāḥ ko 'pi khedadyotako vikāro vyaloki.",
+              "segment_number": 135
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-16"
               },
-              "text": "Tayor nivāsayoḥ puraḥsthasya payonidhes taṭe saprema grathitānyonyakarau Saralāṃ tatpatiṃ ca rajanyāṃ śatapadīṃ kurvāṇā darśaṃ darśam Amīnāyāḥ viṣaṇṇatā vṛddhim agamat."
+              "text": "Tayor nivāsayoḥ puraḥsthasya payonidhes taṭe saprema grathitānyonyakarau Saralāṃ tatpatiṃ ca rajanyāṃ śatapadīṃ kurvāṇā darśaṃ darśam Amīnāyāḥ viṣaṇṇatā vṛddhim agamat.",
+              "segment_number": 136
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-17"
               },
-              "text": "Sā ca dīrghaṃ niḥśvasatī durmanāyamāneva kvacid ātmānaṃ saroṣam aprākṣīt kuto niḥśvasyate mūḍhena tvayettham iti."
+              "text": "Sā ca dīrghaṃ niḥśvasatī durmanāyamāneva kvacid ātmānaṃ saroṣam aprākṣīt kuto niḥśvasyate mūḍhena tvayettham iti.",
+              "segment_number": 137
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-18"
               },
-              "text": "Tāvan nikhile 'hani bhartur mukhadarśanānandaṃ kṣaṇikam evopalabdhavatī sā."
+              "text": "Tāvan nikhile 'hani bhartur mukhadarśanānandaṃ kṣaṇikam evopalabdhavatī sā.",
+              "segment_number": 138
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-19"
               },
-              "text": "Sahanivāsināv api tāv adhikādhikam asaṃbaddhau sthitau."
+              "text": "Sahanivāsināv api tāv adhikādhikam asaṃbaddhau sthitau.",
+              "segment_number": 139
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-20"
               },
-              "text": "So 'yaṃ hi Hamido dyutapriyo naikakrīḍāmaṇḍaleṣu pratyahaṃ vinoditātmā gehaṃ nivartituṃ dine dine 'dhikādhikaṃ vyalambata."
+              "text": "So 'yaṃ hi Hamido dyutapriyo naikakrīḍāmaṇḍaleṣu pratyahaṃ vinoditātmā gehaṃ nivartituṃ dine dine 'dhikādhikaṃ vyalambata.",
+              "segment_number": 140
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-21"
               },
-              "text": "Sā cādhīratayā patiṃ pratirātraṃ pratīkṣamāṇāsta."
+              "text": "Sā cādhīratayā patiṃ pratirātraṃ pratīkṣamāṇāsta.",
+              "segment_number": 141
             },
             {
               "tag": "s",
@@ -980,27 +1121,32 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 143
                 },
                 {
                   "tag": "text",
-                  "text": "bhojanaṃ samāpya yathākālaṃ svapihi."
+                  "text": "bhojanaṃ samāpya yathākālaṃ svapihi.",
+                  "segment_number": 144
                 }
-              ]
+              ],
+              "segment_number": 142
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-23"
               },
-              "text": "Ahaṃ hi suhṛdbhiḥ sagdhiṃ kariṣya iti Hamidas tām ajñāpayat."
+              "text": "Ahaṃ hi suhṛdbhiḥ sagdhiṃ kariṣya iti Hamidas tām ajñāpayat.",
+              "segment_number": 145
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "26-24"
               },
-              "text": "Sā ca tasya vilambasya kāraṇaṃ nitarāṃ jñātukāmāpi kutas tvayā'dya cirāyitam iti taṃ praṣṭum alaṃ dhairyaṃ na vā dṛḍhāgrahaṃ bheje."
+              "text": "Sā ca tasya vilambasya kāraṇaṃ nitarāṃ jñātukāmāpi kutas tvayā'dya cirāyitam iti taṃ praṣṭum alaṃ dhairyaṃ na vā dṛḍhāgrahaṃ bheje.",
+              "segment_number": 146
             },
             {
               "tag": "pb",
@@ -1014,14 +1160,16 @@
               "attributes": {
                 "n": "27-01"
               },
-              "text": "Evaṃ tayor vaivāhikasaṃbandhe kathāśeṣamātre saṃjāte hanta svapatiṃ sā nijasantater janaka ity evāvalokayamāsa."
+              "text": "Evaṃ tayor vaivāhikasaṃbandhe kathāśeṣamātre saṃjāte hanta svapatiṃ sā nijasantater janaka ity evāvalokayamāsa.",
+              "segment_number": 147
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-02"
               },
-              "text": "Prāyeṇa bhūyasīnāṃ dhīmatīnāṃ paristhityedṛkśocanīyayā bhāvyam iti manvānā patipremānandarase svapne 'py anāsvādite 'pi nijāvasthāṃ śocanīyāṃ nāmanyatāmīnā manāg api."
+              "text": "Prāyeṇa bhūyasīnāṃ dhīmatīnāṃ paristhityedṛkśocanīyayā bhāvyam iti manvānā patipremānandarase svapne 'py anāsvādite 'pi nijāvasthāṃ śocanīyāṃ nāmanyatāmīnā manāg api.",
+              "segment_number": 148
             }
           ]
         },
@@ -1036,49 +1184,56 @@
               "attributes": {
                 "n": "27-03"
               },
-              "text": "Athaikadeyaṃ payodhiphenapāṇḍure śayanīye kṛtapadā prasvāpasukham anubabhūva."
+              "text": "Athaikadeyaṃ payodhiphenapāṇḍure śayanīye kṛtapadā prasvāpasukham anubabhūva.",
+              "segment_number": 149
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-04"
               },
-              "text": "Samayo 'yaṃ kila grīṣmartoḥ."
+              "text": "Samayo 'yaṃ kila grīṣmartoḥ.",
+              "segment_number": 150
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-05"
               },
-              "text": "Avasare 'smin sarvato niśānāthasya saṃpūrṇakalāprāyasya dyutidugdhā dhavaladharā nicayena dhavalitam āsīd dharātalam."
+              "text": "Avasare 'smin sarvato niśānāthasya saṃpūrṇakalāprāyasya dyutidugdhā dhavaladharā nicayena dhavalitam āsīd dharātalam.",
+              "segment_number": 151
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-06"
               },
-              "text": "Jalanidher jalāni hīrakanicaya iva cākacakyaṃ bhejire."
+              "text": "Jalanidher jalāni hīrakanicaya iva cākacakyaṃ bhejire.",
+              "segment_number": 152
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-07"
               },
-              "text": "Pihiteṣu bhavanadvāreṣu svasvaprakoṣṭheṣu parijanāḥ prasuptā āsan."
+              "text": "Pihiteṣu bhavanadvāreṣu svasvaprakoṣṭheṣu parijanāḥ prasuptā āsan.",
+              "segment_number": 153
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-08"
               },
-              "text": "Amīnāpi prasvapatī kamapy atimātrāramyaṃ svapnam adrākṣīt."
+              "text": "Amīnāpi prasvapatī kamapy atimātrāramyaṃ svapnam adrākṣīt.",
+              "segment_number": 154
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-09"
               },
-              "text": "Yat tadīyabālasakhyā Saralayā tadīyasarvasvam api viluṇṭhya sā Hamidasya harmyān niṣkāsiteti."
+              "text": "Yat tadīyabālasakhyā Saralayā tadīyasarvasvam api viluṇṭhya sā Hamidasya harmyān niṣkāsiteti.",
+              "segment_number": 155
             },
             {
               "tag": "s",
@@ -1092,55 +1247,64 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "samutthāya"
+                  "text": "samutthāya",
+                  "segment_number": 157
                 },
                 {
                   "tag": "text",
-                  "text": "nayane parimṛjatī saṃbhrameṇa ruddhakaṇṭhā cakitacakiteva viśithilāṅgayaṣṭiḥ skhalatpādābhyāṃ samīpavartinaḥ saudhasyādho bhūtalasthaṃ Saralāyā nilayam avalokyantī vātāyanasamīpaṃ ciram avatasthe."
+                  "text": "nayane parimṛjatī saṃbhrameṇa ruddhakaṇṭhā cakitacakiteva viśithilāṅgayaṣṭiḥ skhalatpādābhyāṃ samīpavartinaḥ saudhasyādho bhūtalasthaṃ Saralāyā nilayam avalokyantī vātāyanasamīpaṃ ciram avatasthe.",
+                  "segment_number": 158
                 }
-              ]
+              ],
+              "segment_number": 156
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-11"
               },
-              "text": "Nitāntaviviktatayā viṣaṇṇamanā Amīnā jalābdher ūrmimālāyā mandamandamarmaraṃ śrāvaṃ śrāvaṃ parimṛditamṛṇālinīva mlānāṅgī priyajanasya kasyāpi mṛdulasparśajuṣaḥ sāntvanasyābhilāṣukābhūt."
+              "text": "Nitāntaviviktatayā viṣaṇṇamanā Amīnā jalābdher ūrmimālāyā mandamandamarmaraṃ śrāvaṃ śrāvaṃ parimṛditamṛṇālinīva mlānāṅgī priyajanasya kasyāpi mṛdulasparśajuṣaḥ sāntvanasyābhilāṣukābhūt.",
+              "segment_number": 159
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-12"
               },
-              "text": "Tāvat Saralāyāḥ śayyāgāraṃ vidyuddīpakadyotitaṃ vyaloki tayā."
+              "text": "Tāvat Saralāyāḥ śayyāgāraṃ vidyuddīpakadyotitaṃ vyaloki tayā.",
+              "segment_number": 160
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-13"
               },
-              "text": "Vātāyanasya sūkṣmanepathyasya pṛṣṭhataḥ Saralāyāḥ sukumāraśarīrayaṣṭir itas tataś calantī dṛggocaratām agād Amīnayāḥ."
+              "text": "Vātāyanasya sūkṣmanepathyasya pṛṣṭhataḥ Saralāyāḥ sukumāraśarīrayaṣṭir itas tataś calantī dṛggocaratām agād Amīnayāḥ.",
+              "segment_number": 161
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-14"
               },
-              "text": "Bhartari niryate nagarān niśīthinyāṃ kinnāma kartuṃ pravṛttā syāt Saraleti vyacintayat savismayam Amīnā."
+              "text": "Bhartari niryate nagarān niśīthinyāṃ kinnāma kartuṃ pravṛttā syāt Saraleti vyacintayat savismayam Amīnā.",
+              "segment_number": 162
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-15"
               },
-              "text": "Atha yāvat sakhīṃ samāhvayituṃ pravartate sā tāvat tasyaiva saudhasyādho gṛhapṛṣṭhabhāgato nirgacchantīṃ Hamidasyākṛtim iva kasyāpi puruṣasyākṛtiṃ vyalokayad Amīnā."
+              "text": "Atha yāvat sakhīṃ samāhvayituṃ pravartate sā tāvat tasyaiva saudhasyādho gṛhapṛṣṭhabhāgato nirgacchantīṃ Hamidasyākṛtim iva kasyāpi puruṣasyākṛtiṃ vyalokayad Amīnā.",
+              "segment_number": 163
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-16"
               },
-              "text": "Tadanu ca jhaṭiti Saralāyāḥ śayyāgṛhasya dipikā nirvāpitābhut."
+              "text": "Tadanu ca jhaṭiti Saralāyāḥ śayyāgṛhasya dipikā nirvāpitābhut.",
+              "segment_number": 164
             },
             {
               "tag": "s",
@@ -1154,27 +1318,32 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "ko 'py"
+                  "text": "ko 'py",
+                  "segment_number": 166
                 },
                 {
                   "tag": "text",
-                  "text": "anya iti pratītā'bhūt."
+                  "text": "anya iti pratītā'bhūt.",
+                  "segment_number": 167
                 }
-              ]
+              ],
+              "segment_number": 165
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-18"
               },
-              "text": "Pāṇḍuvadanā vepamānavigrahā kiṃkartavyapratipattimūḍhā sthitavatī ca."
+              "text": "Pāṇḍuvadanā vepamānavigrahā kiṃkartavyapratipattimūḍhā sthitavatī ca.",
+              "segment_number": 168
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-19"
               },
-              "text": "Prabhātaprāyaḥ samayo na cirād bhavitā."
+              "text": "Prabhātaprāyaḥ samayo na cirād bhavitā.",
+              "segment_number": 169
             },
             {
               "tag": "s",
@@ -1186,76 +1355,88 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 171
                 },
                 {
                   "tag": "text",
-                  "text": "kutaś ca Saralāyāḥ śayanagṛhaṃ madhyarātre prakāśitaṃ syād ity anekavitarkajālenākrāntā vātāyanāt parāvṛtyonnidranetryābhānūdayaṃ saṃbhrāntā'ntaḥpure gatāgatam akarod Amīnā."
+                  "text": "kutaś ca Saralāyāḥ śayanagṛhaṃ madhyarātre prakāśitaṃ syād ity anekavitarkajālenākrāntā vātāyanāt parāvṛtyonnidranetryābhānūdayaṃ saṃbhrāntā'ntaḥpure gatāgatam akarod Amīnā.",
+                  "segment_number": 172
                 }
-              ]
+              ],
+              "segment_number": 170
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-21"
               },
-              "text": "Paredyur niśīthe punar gavākṣasavidhe sā ciraṃ sthitvāpi Saralāyā nilayam andhatamasāvṛtam apaśyat."
+              "text": "Paredyur niśīthe punar gavākṣasavidhe sā ciraṃ sthitvāpi Saralāyā nilayam andhatamasāvṛtam apaśyat.",
+              "segment_number": 173
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-22"
               },
-              "text": "Bahiḥ sarvatra praśāntatādevī vyarājat."
+              "text": "Bahiḥ sarvatra praśāntatādevī vyarājat.",
+              "segment_number": 174
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-23"
               },
-              "text": "Yāminīkāminīvadanatilakabindur induś candrikāvyājenāmbaratalāt sudhādhārābhir dharātalam adhāvat."
+              "text": "Yāminīkāminīvadanatilakabindur induś candrikāvyājenāmbaratalāt sudhādhārābhir dharātalam adhāvat.",
+              "segment_number": 175
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-24"
               },
-              "text": "Antarāntarā vāridhivīcimālānāṃ mandamandaravo 'mīnāyāḥ karṇaśaṣkulīm apūrayat."
+              "text": "Antarāntarā vāridhivīcimālānāṃ mandamandaravo 'mīnāyāḥ karṇaśaṣkulīm apūrayat.",
+              "segment_number": 176
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-25"
               },
-              "text": "Atha yāvat parāvartate sā vātāyanāt tāvat pādacāradhvanim iva kasyāpy aśrauṣīt."
+              "text": "Atha yāvat parāvartate sā vātāyanāt tāvat pādacāradhvanim iva kasyāpy aśrauṣīt.",
+              "segment_number": 177
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-26"
               },
-              "text": "Dhvaninānenākṛṣṭeva gavākṣasavidhaṃ punaḥ sā yayau."
+              "text": "Dhvaninānenākṛṣṭeva gavākṣasavidhaṃ punaḥ sā yayau.",
+              "segment_number": 178
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-27"
               },
-              "text": "Na cirāc ca samīpavartinaḥ saudhasyādhastalabhāgān nirgachantī Hamidasya śarīrākṛtiḥ punas tasyā dṛkpathe nyapatat."
+              "text": "Na cirāc ca samīpavartinaḥ saudhasyādhastalabhāgān nirgachantī Hamidasya śarīrākṛtiḥ punas tasyā dṛkpathe nyapatat.",
+              "segment_number": 179
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-28"
               },
-              "text": "Himadhavalavasanopari śyāmakṣaumaprāvāro raktaturkoṣṇīṣaś ca niśākarakaranicaye vailakṣaṇyaṃ bhejāte."
+              "text": "Himadhavalavasanopari śyāmakṣaumaprāvāro raktaturkoṣṇīṣaś ca niśākarakaranicaye vailakṣaṇyaṃ bhejāte.",
+              "segment_number": 180
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "27-29"
               },
-              "text": "Tataś ca gavākṣajālaprasāritai rajatamārjanīnibhaiḥ kalānidhikaranikaraiḥ saṃśodhitāndhakāre payodhiphenasaṃdoheneva nirmite śayanīya upaviśya saṃdehakoponmathitahṛdayā mukham adhaḥ kṛtvā niḥśvasyoṣṇaṃ ca sā tūṣṇīṃ tasthau."
+              "text": "Tataś ca gavākṣajālaprasāritai rajatamārjanīnibhaiḥ kalānidhikaranikaraiḥ saṃśodhitāndhakāre payodhiphenasaṃdoheneva nirmite śayanīya upaviśya saṃdehakoponmathitahṛdayā mukham adhaḥ kṛtvā niḥśvasyoṣṇaṃ ca sā tūṣṇīṃ tasthau.",
+              "segment_number": 181
             }
           ]
         },
@@ -1277,35 +1458,40 @@
               "attributes": {
                 "n": "28-01"
               },
-              "text": "Evaṃ catasṛṣu niśāsu naiśānveṣaṇam upākramatāmīnā yāvat sā Saralāyāḥ kapaṭasya saṃjātapratyayābhūt."
+              "text": "Evaṃ catasṛṣu niśāsu naiśānveṣaṇam upākramatāmīnā yāvat sā Saralāyāḥ kapaṭasya saṃjātapratyayābhūt.",
+              "segment_number": 182
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-02"
               },
-              "text": "Saralāhamidayor madhye nibhṛtāsaktisambandhaviṣaye na ko 'pi saṃdehaleśa iti niścitamatiḥ sā samabhūt."
+              "text": "Saralāhamidayor madhye nibhṛtāsaktisambandhaviṣaye na ko 'pi saṃdehaleśa iti niścitamatiḥ sā samabhūt.",
+              "segment_number": 183
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-03"
               },
-              "text": "Pratinaktaṃ vyatikaram imaṃ pratyakṣīkṛtya lohitavadanā kopasphuradadharā jājvalyamānalocanā śayane kṛtapadā parśvadvaye muhurmuhur luṭhantī nairāśyād avātiṣṭhata."
+              "text": "Pratinaktaṃ vyatikaram imaṃ pratyakṣīkṛtya lohitavadanā kopasphuradadharā jājvalyamānalocanā śayane kṛtapadā parśvadvaye muhurmuhur luṭhantī nairāśyād avātiṣṭhata.",
+              "segment_number": 184
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-04"
               },
-              "text": "Kutarkaparavaśeyaṃ kriyāsamabhihāreṇodgacchadroṣabāṣpā krodhāgninā lulitalulitāṅgakais tāmyati sma pratidinam."
+              "text": "Kutarkaparavaśeyaṃ kriyāsamabhihāreṇodgacchadroṣabāṣpā krodhāgninā lulitalulitāṅgakais tāmyati sma pratidinam.",
+              "segment_number": 185
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-05"
               },
-              "text": "Aho kathaṃ nādyāvadhi Saralāyā gūḍhakauṭilyaṃ na tarkitaṃ mandadhiyā mayeti muhurmuhur vicintayantī bhṛśam akupyad ātmane."
+              "text": "Aho kathaṃ nādyāvadhi Saralāyā gūḍhakauṭilyaṃ na tarkitaṃ mandadhiyā mayeti muhurmuhur vicintayantī bhṛśam akupyad ātmane.",
+              "segment_number": 186
             }
           ]
         },
@@ -1325,41 +1511,48 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 188
                 },
                 {
                   "tag": "text",
-                  "text": "hāsyavivarjitā samatiṣṭhata."
+                  "text": "hāsyavivarjitā samatiṣṭhata.",
+                  "segment_number": 189
                 }
-              ]
+              ],
+              "segment_number": 187
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-07"
               },
-              "text": "Kaiścid api gṛhakāryavyavasthākleśair udvejitā syat sahacarīti Saralā tām ullāsayituṃ savinodaṃ prāyatata."
+              "text": "Kaiścid api gṛhakāryavyavasthākleśair udvejitā syat sahacarīti Saralā tām ullāsayituṃ savinodaṃ prāyatata.",
+              "segment_number": 190
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-08"
               },
-              "text": "Param adhikādhikam audāsīnyam evāvalambya vimanāyamānā sthithavaty Amīnā."
+              "text": "Param adhikādhikam audāsīnyam evāvalambya vimanāyamānā sthithavaty Amīnā.",
+              "segment_number": 191
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-09"
               },
-              "text": "Uccaiḥ pustakapaṭhanaṃ cikīrṣuṃ Saralāṃ sapadi sapadi sahastavikṣepaṃ pratyākhyāt sā."
+              "text": "Uccaiḥ pustakapaṭhanaṃ cikīrṣuṃ Saralāṃ sapadi sapadi sahastavikṣepaṃ pratyākhyāt sā.",
+              "segment_number": 192
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-10"
               },
-              "text": "Prativāraṃ yadā Saralā viśrambhālāpaṃ kartuṃ prāvartata tadā tadvacobhir bhūyo vituṣṭahṛdayam ivātmānaṃ sā prādarśayat."
+              "text": "Prativāraṃ yadā Saralā viśrambhālāpaṃ kartuṃ prāvartata tadā tadvacobhir bhūyo vituṣṭahṛdayam ivātmānaṃ sā prādarśayat.",
+              "segment_number": 193
             },
             {
               "tag": "s",
@@ -1373,34 +1566,40 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "anādaro"
+                  "text": "anādaro",
+                  "segment_number": 195
                 },
                 {
                   "tag": "text",
-                  "text": "bhavatīti vyaramad gamanāt sakhyā harmyam."
+                  "text": "bhavatīti vyaramad gamanāt sakhyā harmyam.",
+                  "segment_number": 196
                 }
-              ]
+              ],
+              "segment_number": 194
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-12"
               },
-              "text": "Amīnāyā hṛdi tāvat sahacarīṃ prati vidveṣāgnir adhikādhikaṃ samudjvalat."
+              "text": "Amīnāyā hṛdi tāvat sahacarīṃ prati vidveṣāgnir adhikādhikaṃ samudjvalat.",
+              "segment_number": 197
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-13"
               },
-              "text": "Anavarataṃ ca vyacintayat sā yadā bālyād yasyāṃ pūrṇaśo vyaśvasaṃ seyam adya katham īdṛgadharmakarmaṇi pravṛttābhūt tatrāpi nijasakhyāḥ saha vallabhena."
+              "text": "Anavarataṃ ca vyacintayat sā yadā bālyād yasyāṃ pūrṇaśo vyaśvasaṃ seyam adya katham īdṛgadharmakarmaṇi pravṛttābhūt tatrāpi nijasakhyāḥ saha vallabhena.",
+              "segment_number": 198
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-14"
               },
-              "text": "Madhuramadhuravacāṃsi matpuraḥ samudīrya parokṣaṃ mām kathaṃ sā pratāritavatī."
+              "text": "Madhuramadhuravacāṃsi matpuraḥ samudīrya parokṣaṃ mām kathaṃ sā pratāritavatī.",
+              "segment_number": 199
             },
             {
               "tag": "s",
@@ -1412,43 +1611,51 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 201
                 },
                 {
                   "tag": "text",
-                  "text": "śāradām iva viśāradāṃ"
+                  "text": "śāradām iva viśāradāṃ",
+                  "segment_number": 202
                 },
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 203
                 },
                 {
                   "tag": "text",
-                  "text": "satīm iva satīṃ svāṃ pradarṣayantī malinahṛdayā sthitavaty etāvat kālam."
+                  "text": "satīm iva satīṃ svāṃ pradarṣayantī malinahṛdayā sthitavaty etāvat kālam.",
+                  "segment_number": 204
                 }
-              ]
+              ],
+              "segment_number": 200
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-16"
               },
-              "text": "Ahaṃ ca tāṃ viśvasanīyāṃ prāṇapriyāṃ ca bhaginīm iva samabhāvayam."
+              "text": "Ahaṃ ca tāṃ viśvasanīyāṃ prāṇapriyāṃ ca bhaginīm iva samabhāvayam.",
+              "segment_number": 205
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-17"
               },
-              "text": "Api Hāmidasya vaibhavena mohitā syāt sā yat svapateḥ patnīvatsalasya parokṣa vyabhicārakarmaṇi prāvartateyam."
+              "text": "Api Hāmidasya vaibhavena mohitā syāt sā yat svapateḥ patnīvatsalasya parokṣa vyabhicārakarmaṇi prāvartateyam.",
+              "segment_number": 206
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-18"
               },
-              "text": "Kīdṛśo 'yaṃ viśvāsaghātaḥ."
+              "text": "Kīdṛśo 'yaṃ viśvāsaghātaḥ.",
+              "segment_number": 207
             },
             {
               "tag": "s",
@@ -1460,69 +1667,80 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 209
                 },
                 {
                   "tag": "text",
-                  "text": "yan matsahacaryaiva viśveṣāṃ narmapātraṃ kṛtāsmi."
+                  "text": "yan matsahacaryaiva viśveṣāṃ narmapātraṃ kṛtāsmi.",
+                  "segment_number": 210
                 }
-              ]
+              ],
+              "segment_number": 208
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-20"
               },
-              "text": "Ahaha! Kathaṃ nāma tasyā viṣayāsaktiṃ vatsareṣv eteṣu nāvidam."
+              "text": "Ahaha! Kathaṃ nāma tasyā viṣayāsaktiṃ vatsareṣv eteṣu nāvidam.",
+              "segment_number": 211
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-21"
               },
-              "text": "Kutaś ceyaṃ matgehasavidhe kṛtāvāsābhūta."
+              "text": "Kutaś ceyaṃ matgehasavidhe kṛtāvāsābhūta.",
+              "segment_number": 212
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-22"
               },
-              "text": "Api bhartuḥ parokṣe nibhṛtadurācārāya vyavasitam itthaṃ tayā."
+              "text": "Api bhartuḥ parokṣe nibhṛtadurācārāya vyavasitam itthaṃ tayā.",
+              "segment_number": 213
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-23"
               },
-              "text": "Bāhyato mugdhānanāyā vinayasaṃpannāyāś ca tasyā hṛdi kauṭilyāhiḥ katham āśritaḥ syāt."
+              "text": "Bāhyato mugdhānanāyā vinayasaṃpannāyāś ca tasyā hṛdi kauṭilyāhiḥ katham āśritaḥ syāt.",
+              "segment_number": 214
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-24"
               },
-              "text": "Sarvā api sahacarya ātmānaṃ nirāgasaṃ pradarśayantyo 'viśvasanīyāḥ syuḥ."
+              "text": "Sarvā api sahacarya ātmānaṃ nirāgasaṃ pradarśayantyo 'viśvasanīyāḥ syuḥ.",
+              "segment_number": 215
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-25"
               },
-              "text": "Itthaṃ tarkavitarkakaṇṭakanikaravyathitā sā Saralāṃ prastutaviṣayam uddiśya viśakalayya praṣṭukāmāpi svapratiṣṭhāyā alīkadarpāj joṣaṃ sthitavatī."
+              "text": "Itthaṃ tarkavitarkakaṇṭakanikaravyathitā sā Saralāṃ prastutaviṣayam uddiśya viśakalayya praṣṭukāmāpi svapratiṣṭhāyā alīkadarpāj joṣaṃ sthitavatī.",
+              "segment_number": 216
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-26"
               },
-              "text": "Saralāyāś cirasakhyaṃ tadīyamadhuravacaś ca svapna ivendrajālam iva māyādarśanam ivāmināyāḥ pratyabhād idānīm."
+              "text": "Saralāyāś cirasakhyaṃ tadīyamadhuravacaś ca svapna ivendrajālam iva māyādarśanam ivāmināyāḥ pratyabhād idānīm.",
+              "segment_number": 217
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "28-27"
               },
-              "text": "Ādhiṃ cātmano rahasi sahamānāvātiṣṭhata sā."
+              "text": "Ādhiṃ cātmano rahasi sahamānāvātiṣṭhata sā.",
+              "segment_number": 218
             }
           ]
         },
@@ -1551,52 +1769,61 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "ākarṇya"
+                  "text": "ākarṇya",
+                  "segment_number": 220
                 },
                 {
                   "tag": "text",
-                  "text": "tasya śuśrūṣāyāṃ sakhyai sahāyyaṃ praditsuḥ Saralā sānunayaṃ patradvārā tasyai"
+                  "text": "tasya śuśrūṣāyāṃ sakhyai sahāyyaṃ praditsuḥ Saralā sānunayaṃ patradvārā tasyai",
+                  "segment_number": 221
                 },
                 {
                   "tag": "corr",
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "nyavedayat"
+                  "text": "nyavedayat",
+                  "segment_number": 222
                 },
                 {
                   "tag": "text",
-                  "text": "."
+                  "text": ".",
+                  "segment_number": 223
                 }
-              ]
+              ],
+              "segment_number": 219
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-02"
               },
-              "text": "Paraṃ lekham imaṃ prāvaraṇād apasāryaiva yathāgataṃ vāhakāyād āpayad Amīnā."
+              "text": "Paraṃ lekham imaṃ prāvaraṇād apasāryaiva yathāgataṃ vāhakāyād āpayad Amīnā.",
+              "segment_number": 224
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-03"
               },
-              "text": "Anena paramodvignāpi Saralā sakhyai nādruhyan manāg api."
+              "text": "Anena paramodvignāpi Saralā sakhyai nādruhyan manāg api.",
+              "segment_number": 225
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-04"
               },
-              "text": "Rugṇārbhakasyāmīnāyāś ca vṛttaṃ svasevakamukhād upalabhya joṣaṃ sthitā."
+              "text": "Rugṇārbhakasyāmīnāyāś ca vṛttaṃ svasevakamukhād upalabhya joṣaṃ sthitā.",
+              "segment_number": 226
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-05"
               },
-              "text": "Athaikavatsarottaraṃ Hamido 'kasmāt kenāpi nirupāyarogeṇākrānto maraṇonmukhaḥ sthitaḥ."
+              "text": "Athaikavatsarottaraṃ Hamido 'kasmāt kenāpi nirupāyarogeṇākrānto maraṇonmukhaḥ sthitaḥ.",
+              "segment_number": 227
             },
             {
               "tag": "s",
@@ -1610,31 +1837,37 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "prāyo'ntakāla"
+                  "text": "prāyo'ntakāla",
+                  "segment_number": 229
                 },
                 {
                   "tag": "text",
-                  "text": "iti jñātvā Saralāyā gṛhasya diśam aṅgulyā nirdiśya muhurmuhuḥ kāpi"
+                  "text": "iti jñātvā Saralāyā gṛhasya diśam aṅgulyā nirdiśya muhurmuhuḥ kāpi",
+                  "segment_number": 230
                 },
                 {
                   "tag": "corr",
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "samāhūtayāmītīṅgitenaivāsūcayaj"
+                  "text": "samāhūtayāmītīṅgitenaivāsūcayaj",
+                  "segment_number": 231
                 },
                 {
                   "tag": "text",
-                  "text": "joṣam."
+                  "text": "joṣam.",
+                  "segment_number": 232
                 }
-              ]
+              ],
+              "segment_number": 228
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-07"
               },
-              "text": "Bhartur āśayam avagatyāpi tasya parayoṣidāsaktim anabhinandamānā tatsūcanam avāmaṃstāmīnā."
+              "text": "Bhartur āśayam avagatyāpi tasya parayoṣidāsaktim anabhinandamānā tatsūcanam avāmaṃstāmīnā.",
+              "segment_number": 233
             },
             {
               "tag": "s",
@@ -1648,20 +1881,24 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "avasthitāsīt"
+                  "text": "avasthitāsīt",
+                  "segment_number": 235
                 },
                 {
                   "tag": "text",
-                  "text": "."
+                  "text": ".",
+                  "segment_number": 236
                 }
-              ]
+              ],
+              "segment_number": 234
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-09"
               },
-              "text": "Atha pañcaṣadinottaraṃ bhagavato bhāskarasyāstamanasamaye Hamidaḥ prati paralokaṃ prasthitaḥ."
+              "text": "Atha pañcaṣadinottaraṃ bhagavato bhāskarasyāstamanasamaye Hamidaḥ prati paralokaṃ prasthitaḥ.",
+              "segment_number": 237
             },
             {
               "tag": "s",
@@ -1675,13 +1912,16 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "sarvato 'pi"
+                  "text": "sarvato 'pi",
+                  "segment_number": 239
                 },
                 {
                   "tag": "text",
-                  "text": "nagare prāsarat."
+                  "text": "nagare prāsarat.",
+                  "segment_number": 240
                 }
-              ]
+              ],
+              "segment_number": 238
             },
             {
               "tag": "s",
@@ -1693,41 +1933,48 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 242
                 },
                 {
                   "tag": "text",
-                  "text": "paraṃ tasyākasmikāntena stambhitā nijaśayanāgare niścalātiṣṭhat."
+                  "text": "paraṃ tasyākasmikāntena stambhitā nijaśayanāgare niścalātiṣṭhat.",
+                  "segment_number": 243
                 }
-              ]
+              ],
+              "segment_number": 241
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-12"
               },
-              "text": "Paricarāṇāṃ gamanāgamaninādena vṛddhasevakānām ākrośakallolena ca jāgaritā."
+              "text": "Paricarāṇāṃ gamanāgamaninādena vṛddhasevakānām ākrośakallolena ca jāgaritā.",
+              "segment_number": 244
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-13"
               },
-              "text": "Tasyā bālakāḥ saṃbhrāntāḥ saṃtrastāś cābhyadhāvan mātuḥ śayyālayam."
+              "text": "Tasyā bālakāḥ saṃbhrāntāḥ saṃtrastāś cābhyadhāvan mātuḥ śayyālayam.",
+              "segment_number": 245
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-14"
               },
-              "text": "Sā ca bālavatsalā gāḍhaṃ tān pariṣvajya mṛdulavacobhiś ca samāsvāsya nijaparyaṅke śāyitavatī."
+              "text": "Sā ca bālavatsalā gāḍhaṃ tān pariṣvajya mṛdulavacobhiś ca samāsvāsya nijaparyaṅke śāyitavatī.",
+              "segment_number": 246
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-15"
               },
-              "text": "Supteṣu teṣu Hamidasya sevako niḥśabdaṃ tām upetya nyavedayad yathāsnāpito dhūpito gandhādirūṣito vigrahaḥ svāminah."
+              "text": "Supteṣu teṣu Hamidasya sevako niḥśabdaṃ tām upetya nyavedayad yathāsnāpito dhūpito gandhādirūṣito vigrahaḥ svāminah.",
+              "segment_number": 247
             },
             {
               "tag": "s",
@@ -1739,76 +1986,88 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": ","
+                  "text": ",",
+                  "segment_number": 249
                 },
                 {
                   "tag": "text",
-                  "text": "ito neṣyanty adhaḥ svāminaḥ pūtadeham uttaravidher anuṣṭhānārtham."
+                  "text": "ito neṣyanty adhaḥ svāminaḥ pūtadeham uttaravidher anuṣṭhānārtham.",
+                  "segment_number": 250
                 }
-              ]
+              ],
+              "segment_number": 248
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-17"
               },
-              "text": "Purohitā hi samāyātāḥ."
+              "text": "Purohitā hi samāyātāḥ.",
+              "segment_number": 251
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-18"
               },
-              "text": "Ity uktayā śīghram āyāmi tāvad iti pratyuktas tayā paricārako 'pāsarat."
+              "text": "Ity uktayā śīghram āyāmi tāvad iti pratyuktas tayā paricārako 'pāsarat.",
+              "segment_number": 252
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-19"
               },
-              "text": "Patyur antimadarśanasyecchayā 'mīnāntaḥpurān nirgatya dīrghadīrghagṛhābhyantaramārgān dīpamālābhir udbhāsitān samullaṅghya prāsādasya viśālasopānasamīpasthasya Hamidasya śayyāgṛhasya saṃnidhiṃ kathaṃ katham api prāpa."
+              "text": "Patyur antimadarśanasyecchayā 'mīnāntaḥpurān nirgatya dīrghadīrghagṛhābhyantaramārgān dīpamālābhir udbhāsitān samullaṅghya prāsādasya viśālasopānasamīpasthasya Hamidasya śayyāgṛhasya saṃnidhiṃ kathaṃ katham api prāpa.",
+              "segment_number": 253
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-20"
               },
-              "text": "Atha yāvat prakoṣṭhasya dvāram udghāṭayitum sā pravartate tāvat paśyati sopānapaṅktim ārohantīṃ śanaiḥ śanaiḥ Saralām."
+              "text": "Atha yāvat prakoṣṭhasya dvāram udghāṭayitum sā pravartate tāvat paśyati sopānapaṅktim ārohantīṃ śanaiḥ śanaiḥ Saralām.",
+              "segment_number": 254
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-21"
               },
-              "text": "Niśāmyaināṃ śītaśītasamīreṇa kampamānāṅgayaṣṭir iva tasthau vidhavā."
+              "text": "Niśāmyaināṃ śītaśītasamīreṇa kampamānāṅgayaṣṭir iva tasthau vidhavā.",
+              "segment_number": 255
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-22"
               },
-              "text": "Avanatamukhī Saralā ca yāvat sahānubhūtiṃ pradarśayitum icchantī sakhīṃ saprema samāliṅgituṃ karapallavau vistārayati tāvad Amīnā tāṃ sahastavikṣepaṃ nivārya bravīti kaṭusvareṇa samāyātāsi niḥsaṃśayaṃ vallabhasyāntimadarśanāyeti."
+              "text": "Avanatamukhī Saralā ca yāvat sahānubhūtiṃ pradarśayitum icchantī sakhīṃ saprema samāliṅgituṃ karapallavau vistārayati tāvad Amīnā tāṃ sahastavikṣepaṃ nivārya bravīti kaṭusvareṇa samāyātāsi niḥsaṃśayaṃ vallabhasyāntimadarśanāyeti.",
+              "segment_number": 256
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-23"
               },
-              "text": "Naivaṃ naivam."
+              "text": "Naivaṃ naivam.",
+              "segment_number": 257
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-24"
               },
-              "text": "Āyātāsmi khalu tvatkṛta iti paścāt pracalitā vikampitaśirāḥ pratyuvāca Saralā."
+              "text": "Āyātāsmi khalu tvatkṛta iti paścāt pracalitā vikampitaśirāḥ pratyuvāca Saralā.",
+              "segment_number": 258
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-25"
               },
-              "text": "Apradattapratyuttarā ghanasaṃśayatamasāvṛtahṛdayā yāvad Amīnā bhartur āvāsadvāraṃ samudghāṭayati tāvad antaḥ kāñcana kāñcanāṅgīm aṅganāṃ dṛṣṭvā sākrośaṃ pṛṣṭhataḥ pracalitā'mīnā."
+              "text": "Apradattapratyuttarā ghanasaṃśayatamasāvṛtahṛdayā yāvad Amīnā bhartur āvāsadvāraṃ samudghāṭayati tāvad antaḥ kāñcana kāñcanāṅgīm aṅganāṃ dṛṣṭvā sākrośaṃ pṛṣṭhataḥ pracalitā'mīnā.",
+              "segment_number": 259
             },
             {
               "tag": "s",
@@ -1819,11 +2078,13 @@
                 {
                   "tag": "q",
                   "attributes": {},
-                  "text": "Kim idam? Keyam? Kuta iyam! Ahaha!"
+                  "text": "Kim idam? Keyam? Kuta iyam! Ahaha!",
+                  "segment_number": 260
                 },
                 {
                   "tag": "text",
-                  "text": "ity udīrayantī khalitasvareṇa cakitā visphāritalocanā sthambiteva sā sthitā."
+                  "text": "ity udīrayantī khalitasvareṇa cakitā visphāritalocanā sthambiteva sā sthitā.",
+                  "segment_number": 261
                 }
               ]
             },
@@ -1832,14 +2093,16 @@
               "attributes": {
                 "n": "29-27"
               },
-              "text": "Puṣpamālācchāditasya Hamidasya hi śayanasya savidhaṃ vinyastajānuḥ śyāmasūkṣmadukūlāmbaraveṣṭitāṅgayaṣṭiś cāruvadanā gauravarṇā śirīṣasukumāratanur mṛtasya pādayor nihitaśirāḥ śokajvālāvaliḍheva haridrākṣālitavadaneva niḥśabdaṃ vilapantī muktakaṇṭhaṃ kācit taruṇī vyaloki."
+              "text": "Puṣpamālācchāditasya Hamidasya hi śayanasya savidhaṃ vinyastajānuḥ śyāmasūkṣmadukūlāmbaraveṣṭitāṅgayaṣṭiś cāruvadanā gauravarṇā śirīṣasukumāratanur mṛtasya pādayor nihitaśirāḥ śokajvālāvaliḍheva haridrākṣālitavadaneva niḥśabdaṃ vilapantī muktakaṇṭhaṃ kācit taruṇī vyaloki.",
+              "segment_number": 262
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "29-28"
               },
-              "text": "Amīnayā sānuyogaṃ nirdiṣṭām enām ālokya Saralā karṇe 'japat:"
+              "text": "Amīnayā sānuyogaṃ nirdiṣṭām enām ālokya Saralā karṇe 'japat:",
+              "segment_number": 263
             },
             {
               "tag": "q",
@@ -1850,7 +2113,8 @@
                   "attributes": {
                     "n": "29-29"
                   },
-                  "text": "Sakhi sahaja evāsyāḥ śokodvegajanito vilāpo vigatāsoḥ prāṇeśvarasya kṛte."
+                  "text": "Sakhi sahaja evāsyāḥ śokodvegajanito vilāpo vigatāsoḥ prāṇeśvarasya kṛte.",
+                  "segment_number": 264
                 },
                 {
                   "tag": "pb",
@@ -1864,7 +2128,8 @@
                   "attributes": {
                     "n": "30-01"
                   },
-                  "text": "Tayor dīrghānurāgābhijñayā tvayā bhāvyam."
+                  "text": "Tayor dīrghānurāgābhijñayā tvayā bhāvyam.",
+                  "segment_number": 265
                 },
                 {
                   "tag": "s",
@@ -1878,13 +2143,16 @@
                       "attributes": {
                         "resp": "#BG"
                       },
-                      "text": "'treti"
+                      "text": "'treti",
+                      "segment_number": 267
                     },
                     {
                       "tag": "text",
-                      "text": "."
+                      "text": ".",
+                      "segment_number": 268
                     }
-                  ]
+                  ],
+                  "segment_number": 266
                 }
               ]
             },
@@ -1900,27 +2168,32 @@
                   "attributes": {
                     "resp": "#BG"
                   },
-                  "text": "mayākalitam iti"
+                  "text": "mayākalitam iti",
+                  "segment_number": 270
                 },
                 {
                   "tag": "text",
-                  "text": "prālapad Amīnā'sphuṭam."
+                  "text": "prālapad Amīnā'sphuṭam.",
+                  "segment_number": 271
                 }
-              ]
+              ],
+              "segment_number": 269
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "30-04"
               },
-              "text": "Vismitā stambhiteva vacanam Amīnāyā nāvagacchantīva kṣaṇaṃ visphāritanayanāvātiṣṭhata Saralā."
+              "text": "Vismitā stambhiteva vacanam Amīnāyā nāvagacchantīva kṣaṇaṃ visphāritanayanāvātiṣṭhata Saralā.",
+              "segment_number": 272
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "30-05"
               },
-              "text": "Tataś ca vivarṇavadanam Amīnāyā vilokya sā savegam abhāṇīt."
+              "text": "Tataś ca vivarṇavadanam Amīnāyā vilokya sā savegam abhāṇīt.",
+              "segment_number": 273
             },
             {
               "tag": "q",
@@ -1936,20 +2209,24 @@
                     {
                       "tag": "orig",
                       "attributes": {},
-                      "text": ","
+                      "text": ",",
+                      "segment_number": 275
                     },
                     {
                       "tag": "text",
-                      "text": "tathaiva tena patyuḥ premodrekasampattyaikasukhabhākkṛto 'sti jano 'yam."
+                      "text": "tathaiva tena patyuḥ premodrekasampattyaikasukhabhākkṛto 'sti jano 'yam.",
+                      "segment_number": 276
                     }
-                  ]
+                  ],
+                  "segment_number": 274
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-07"
                   },
-                  "text": "Prāṇeśvaram antareṇetarapuruṣā me bhrātṛsamānā eva."
+                  "text": "Prāṇeśvaram antareṇetarapuruṣā me bhrātṛsamānā eva.",
+                  "segment_number": 277
                 }
               ]
             },
@@ -1963,20 +2240,24 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": "''"
+                  "text": "''",
+                  "segment_number": 279
                 },
                 {
                   "tag": "text",
-                  "text": "ste Saralā tāvad Amīnā lajjayā natamukhī niḥśabdā sthitavatī."
+                  "text": "ste Saralā tāvad Amīnā lajjayā natamukhī niḥśabdā sthitavatī.",
+                  "segment_number": 280
                 }
-              ]
+              ],
+              "segment_number": 278
             },
             {
               "tag": "s",
               "attributes": {
                 "n": "30-09"
               },
-              "text": "Muhūrtottaraṃ labdhaprakṛtir uvāca Saralā punaḥ."
+              "text": "Muhūrtottaraṃ labdhaprakṛtir uvāca Saralā punaḥ.",
+              "segment_number": 281
             },
             {
               "tag": "q",
@@ -1987,35 +2268,40 @@
                   "attributes": {
                     "n": "30-10"
                   },
-                  "text": "Avagatam idānīṃ mayā tava māṃ prati durāgrahahalāhalavikārasya kāraṇam."
+                  "text": "Avagatam idānīṃ mayā tava māṃ prati durāgrahahalāhalavikārasya kāraṇam.",
+                  "segment_number": 282
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-11"
                   },
-                  "text": "Bālasakhyām anindyāyāṃ kutarkajanitaduṣṭasaṃśayapiśācabhāram āropya pañcasu varṣeṣv eteṣu tāṃ hanta dṛkpathād akāraṇaṃ niṣkāsya durmanāyamānam ātmānaṃ paryatāpayas tvaṃ vṛthā."
+                  "text": "Bālasakhyām anindyāyāṃ kutarkajanitaduṣṭasaṃśayapiśācabhāram āropya pañcasu varṣeṣv eteṣu tāṃ hanta dṛkpathād akāraṇaṃ niṣkāsya durmanāyamānam ātmānaṃ paryatāpayas tvaṃ vṛthā.",
+                  "segment_number": 283
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-12"
                   },
-                  "text": "Vākpratiṣṭhāni dehināṃ vyavahāratantrāṇi."
+                  "text": "Vākpratiṣṭhāni dehināṃ vyavahāratantrāṇi.",
+                  "segment_number": 284
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-13"
                   },
-                  "text": "Vāci khalu satyāsatyahetavo vyavasthitāḥ."
+                  "text": "Vāci khalu satyāsatyahetavo vyavasthitāḥ.",
+                  "segment_number": 285
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-14"
                   },
-                  "text": "Yadi saralavacanena mām aprakṣyas tvaṃ tarhi yāthārthyam avediṣyaḥ."
+                  "text": "Yadi saralavacanena mām aprakṣyas tvaṃ tarhi yāthārthyam avediṣyaḥ.",
+                  "segment_number": 286
                 },
                 {
                   "tag": "s",
@@ -2027,27 +2313,32 @@
                     {
                       "tag": "orig",
                       "attributes": {},
-                      "text": "''"
+                      "text": "''",
+                      "segment_number": 288
                     },
                     {
                       "tag": "text",
-                      "text": "ghrātā nibhṛtam aśrupravāhair vṛthā snātā kriyāsamabhihāreṇa māṃ hṛdi śapantī ca dīrghakālaṃ sthitāsi."
+                      "text": "ghrātā nibhṛtam aśrupravāhair vṛthā snātā kriyāsamabhihāreṇa māṃ hṛdi śapantī ca dīrghakālaṃ sthitāsi.",
+                      "segment_number": 289
                     }
-                  ]
+                  ],
+                  "segment_number": 287
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-16"
                   },
-                  "text": "Kāmaṃ tava bhartuś ceṣṭitaṃ nocitam āsīt khalu."
+                  "text": "Kāmaṃ tava bhartuś ceṣṭitaṃ nocitam āsīt khalu.",
+                  "segment_number": 290
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-17"
                   },
-                  "text": "Paraṃ yavanadharmeṇa svadāretarāyāḥ parakīyāyāḥ aṅgīkāro yathānyāyam iti pratipadyata ity api viditam āsīt te."
+                  "text": "Paraṃ yavanadharmeṇa svadāretarāyāḥ parakīyāyāḥ aṅgīkāro yathānyāyam iti pratipadyata ity api viditam āsīt te.",
+                  "segment_number": 291
                 }
               ]
             },
@@ -2061,13 +2352,16 @@
                 {
                   "tag": "orig",
                   "attributes": {},
-                  "text": "''"
+                  "text": "''",
+                  "segment_number": 293
                 },
                 {
                   "tag": "text",
-                  "text": "nana āvirbhūtavividhabhāvabhaṅgā baddhāñjalir abravīt."
+                  "text": "nana āvirbhūtavividhabhāvabhaṅgā baddhāñjalir abravīt.",
+                  "segment_number": 294
                 }
-              ]
+              ],
+              "segment_number": 292
             },
             {
               "tag": "q",
@@ -2083,41 +2377,48 @@
                     {
                       "tag": "orig",
                       "attributes": {},
-                      "text": ","
+                      "text": ",",
+                      "segment_number": 296
                     },
                     {
                       "tag": "text",
-                      "text": "kṣamyatāṃ jano 'yam."
+                      "text": "kṣamyatāṃ jano 'yam.",
+                      "segment_number": 297
                     }
-                  ]
+                  ],
+                  "segment_number": 295
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-20"
                   },
-                  "text": "Sanāthāpy ahaṃ cirāt parāṅmukhībhūte nāthe 'nāthībhūteva kathaṃ kathamapi kālam ayāpayam."
+                  "text": "Sanāthāpy ahaṃ cirāt parāṅmukhībhūte nāthe 'nāthībhūteva kathaṃ kathamapi kālam ayāpayam.",
+                  "segment_number": 298
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-21"
                   },
-                  "text": "Nāthasya nidhanenādya yathāpūrvaṃ nirviśeṣam avasthitāsmi khalu."
+                  "text": "Nāthasya nidhanenādya yathāpūrvaṃ nirviśeṣam avasthitāsmi khalu.",
+                  "segment_number": 299
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-22"
                   },
-                  "text": "Paraṃ cirād ātmanaiva niḥsāritabālasakhī daivayogāt punar mayopalabdheti madbhāgyabhāskaro 'yam iti pramuditāntaraṅgāsmīti vacaḥ punaruktir eva syāt."
+                  "text": "Paraṃ cirād ātmanaiva niḥsāritabālasakhī daivayogāt punar mayopalabdheti madbhāgyabhāskaro 'yam iti pramuditāntaraṅgāsmīti vacaḥ punaruktir eva syāt.",
+                  "segment_number": 300
                 },
                 {
                   "tag": "s",
                   "attributes": {
                     "n": "30-23.1"
                   },
-                  "text": "Hanta! Itaḥ param ājīvam āvām ubhe dṛḍhabaddhasakhye sthāsyāva"
+                  "text": "Hanta! Itaḥ param ājīvam āvām ubhe dṛḍhabaddhasakhye sthāsyāva",
+                  "segment_number": 301
                 }
               ]
             },
@@ -2126,7 +2427,8 @@
               "attributes": {
                 "n": "30-23.2"
               },
-              "text": "ity udīrya Saralāṃ gāḍham āśliṣya nijaśayanāgāram enām anayad Amīnā."
+              "text": "ity udīrya Saralāṃ gāḍham āśliṣya nijaśayanāgāram enām anayad Amīnā.",
+              "segment_number": 302
             }
           ]
         }

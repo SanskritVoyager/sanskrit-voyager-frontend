@@ -2,6 +2,7 @@ import React from 'react';
 import { TextInput, Loader, ActionIcon } from '@mantine/core';
 import { IconSearch } from '@tabler/icons-react';
 import { useState, MutableRefObject } from 'react';
+import { useRef, useEffect } from 'react'; 
 
 interface SearchInputProps {
   handleSearch: (newQuery: string) => void;
@@ -9,11 +10,27 @@ interface SearchInputProps {
   classes: any;
   setQuery: (value: string) => void;
   currentInput: MutableRefObject<string | null>;
+  autofocus?: boolean; // New prop to control auto-focus behavior
 }
 
 const SearchInputComponent = React.memo(
-  ({ handleSearch, isLoading, classes, setQuery, currentInput }: SearchInputProps) => {
+  ({ handleSearch, isLoading, classes, setQuery, currentInput, autofocus }: SearchInputProps) => {
     const [inputValue, setInputValue] = useState('');
+
+      const inputRef = useRef<HTMLInputElement>(null);
+
+      // Auto-focus effect
+      useEffect(() => {
+        if (autofocus && inputRef.current) {
+          // Small timeout to ensure the modal transition has started
+          const timeoutId = setTimeout(() => {
+            inputRef.current?.focus();
+            inputRef.current?.select(); // Optional: also select the text
+          }, 100);
+          
+          return () => clearTimeout(timeoutId);
+        }
+      }, [autofocus]);
 
     return (
       <TextInput

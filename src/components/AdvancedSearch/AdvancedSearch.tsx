@@ -58,6 +58,7 @@ interface AdvancedSearchProps {
     toggle: () => void;
   };
   setIsNavbarVisible: (value: boolean) => void;
+  isAdvancedSearchVisible: boolean;
 }
 
 function AdvancedSearch({
@@ -73,6 +74,7 @@ function AdvancedSearch({
   matchedBookSegments,
   handleAdvancedSearch,
   setIsNavbarVisible,
+  isAdvancedSearchVisible,
 }: AdvancedSearchProps) {
   const [queryType, setQueryType] = useState('stemmed');
   const [filterMode, setFilterMode] = useState('include');
@@ -96,6 +98,7 @@ function AdvancedSearch({
     value: item.text_id,
     label: item.title,
   }));
+
 
   // Transform authors for MultiSelect
   const authorOptions = filterData.authors.map((author) => ({
@@ -247,6 +250,7 @@ function AdvancedSearch({
           classes={classes}
           setQuery={setQuery}
           currentInput={currentInput}
+          
         />
 
         <Stack gap="xs">

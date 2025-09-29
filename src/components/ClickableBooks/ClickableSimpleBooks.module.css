@@ -506,7 +506,9 @@ mark:hover {
   cursor: pointer; /* Hint that interaction is possible */
 }
 
-.sic, .orig {
+/* .orig {} */
+
+.sic {
   display: inline;
   text-decoration: line-through wavy light-dark(var(--mantine-color-red-7), var(--mantine-color-red-4));
   color: light-dark(var(--mantine-color-red-7), var(--mantine-color-red-4));

@@ -108,7 +108,7 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
       nothingFoundMessage="Nothing found..."
       onChange={selectBook}
       filter={normalisedFilter}
-      style={{ width: '100%', paddingTop: 5, paddingBottom: 16 }}
+      style={{ width: '100%', paddingTop: 5, paddingBottom: 5 }}
       autoCorrect="off"
       spellCheck={false}
     />

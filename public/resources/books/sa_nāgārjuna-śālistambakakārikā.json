@@ -38,12 +38,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Nāgārjuna: Āryaśālistambakakārikā"
+      "text": "Nāgārjuna: Āryaśālistambakakārikā",
+      "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "āryamañjuśriye namaḥ"
+      "text": "āryamañjuśriye namaḥ",
+      "segment_number": 2
     },
     {
       "tag": "p",
@@ -53,7 +55,27 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "praṇipatya pravakṣyāmi śālistambakakārikām / 1 //"
+          "text": "praṇipatya pravakṣyāmi śālistambakakārikām / 1 //",
+          "segment_number": 4
+        }
+      ],
+      "segment_number": 3
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "munī rājagṛhasyaiva gṛdhranāmakaparvate /",
+          "segment_number": 5
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhikṣūṇāṃ bodhisattvānāṃ saṃghaiḥ sārdhaṃ vyavasthitaḥ // 2 //",
+          "segment_number": 6
         }
       ]
     },
@@ -64,12 +86,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "munī rājagṛhasyaiva gṛdhranāmakaparvate /"
+          "text": "hetupratyayasaṃbhūtaṃ śālistambaṃ vilokya ca /",
+          "segment_number": 7
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhikṣūṇāṃ bodhisattvānāṃ saṃghaiḥ sārdhaṃ vyavasthitaḥ // 2 //"
+          "text": "hetupratyayajaṃ tadvad dvādaśāṅkakramodgatam // 3 //",
+          "segment_number": 8
         }
       ]
     },
@@ -80,12 +104,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetupratyayasaṃbhūtaṃ śālistambaṃ vilokya ca /"
+          "text": "pratītyamiti yaḥ praśyet dharmaṃ buddhaṃ ca paśyati /",
+          "segment_number": 9
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetupratyayajaṃ tadvad dvādaśāṅkakramodgatam // 3 //"
+          "text": "ityuktvā nāyakā bhikṣūn tūṣṇībhāvamavasthitaḥ // 4 //",
+          "segment_number": 10
         }
       ]
     },
@@ -96,12 +122,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratītyamiti yaḥ praśyet dharmaṃ buddhaṃ ca paśyati /"
+          "text": "bhikṣuḥ śārisutraḥ śrutvā gatvā maitreyasannidhau /",
+          "segment_number": 11
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ityuktvā nāyakā bhikṣūn tūṣṇībhāvamavasthitaḥ // 4 //"
+          "text": "tathāgato 'dya maitreya uktyarthaṃ na vibhajya ca // 5 //",
+          "segment_number": 12
         }
       ]
     },
@@ -112,12 +140,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhikṣuḥ śārisutraḥ śrutvā gatvā maitreyasannidhau /"
+          "text": "tūṣṇīṃ bhāve sthitaścātra tadartho gamyate katham /",
+          "segment_number": 13
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tathāgato 'dya maitreya uktyarthaṃ na vibhajya ca // 5 //"
+          "text": "kiṃ pratītyaṃ ca ko dharmo buddho 'pi katamastathā // 6 //",
+          "segment_number": 14
         }
       ]
     },
@@ -128,12 +158,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tūṣṇīṃ bhāve sthitaścātra tadartho gamyate katham /"
+          "text": "pratītyaṃ tu kathaṃ dṛṣṭvā dharma buddhaṃ ca paśyati /",
+          "segment_number": 15
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kiṃ pratītyaṃ ca ko dharmo buddho 'pi katamastathā // 6 //"
+          "text": "sandeho me 'tra brūhīti ūce śārisuto 'jitam // 7 //",
+          "segment_number": 16
         }
       ]
     },
@@ -144,12 +176,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratītyaṃ tu kathaṃ dṛṣṭvā dharma buddhaṃ ca paśyati /"
+          "text": "bhāvātmikā hi maitrī syāt maitreyo 'brūt nirṇayam /",
+          "segment_number": 17
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sandeho me 'tra brūhīti ūce śārisuto 'jitam // 7 //"
+          "text": "dvādaśāṅgamavidyādi maraṇāntaṃ yathākramam // 8 //",
+          "segment_number": 18
         }
       ]
     },
@@ -160,12 +194,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhāvātmikā hi maitrī syāt maitreyo 'brūt nirṇayam /"
+          "text": "tasmāttarhibhavantyeva duḥkhaskandhā hi kevalam /",
+          "segment_number": 19
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dvādaśāṅgamavidyādi maraṇāntaṃ yathākramam // 8 //"
+          "text": "dharmaścāṣṭāṅgiko mārgaḥ phalaṃ nirvāṇamucyate // 9 //",
+          "segment_number": 20
         }
       ]
     },
@@ -176,12 +212,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasmāttarhibhavantyeva duḥkhaskandhā hi kevalam /"
+          "text": "sarvasyādhigamādevaṃ dharmajaṃ buddhameva ca /",
+          "segment_number": 21
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dharmaścāṣṭāṅgiko mārgaḥ phalaṃ nirvāṇamucyate // 9 //"
+          "text": "tathoktamāryaṃ duṣṭatvāt yaḥ paśyati sa paśyati // 10 //",
+          "segment_number": 22
         }
       ]
     },
@@ -192,12 +230,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvasyādhigamādevaṃ dharmajaṃ buddhameva ca /"
+          "text": "prāṇādirahitād yaśca vyupaśāntyantasaṃyutam /",
+          "segment_number": 23
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tathoktamāryaṃ duṣṭatvāt yaḥ paśyati sa paśyati // 10 //"
+          "text": "pratītyaṃ dharmabuddhau ca śuddhabuddhayā vi paśyati // 11 //",
+          "segment_number": 24
         }
       ]
     },
@@ -208,12 +248,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prāṇādirahitād yaśca vyupaśāntyantasaṃyutam /"
+          "text": "pratītyalakṣaṇaṃ tāvat sahetvādipadānvitam /",
+          "segment_number": 25
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratītyaṃ dharmabuddhau ca śuddhabuddhayā vi paśyati // 11 //"
+          "text": "buddhotpādo bhavenno vā sthiteyaṃ dharmatā yataḥ // 12 //",
+          "segment_number": 26
         }
       ]
     },
@@ -224,12 +266,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratītyalakṣaṇaṃ tāvat sahetvādipadānvitam /"
+          "text": "bāhya ādhyātmikaścāpi dvividho hetupratyayaḥ /",
+          "segment_number": 27
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "buddhotpādo bhavenno vā sthiteyaṃ dharmatā yataḥ // 12 //"
+          "text": "bāhyo hetustu bījādiḥ pratyayaḥ ṣaḍvidho mataḥ // 13 //",
+          "segment_number": 28
         }
       ]
     },
@@ -240,12 +284,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bāhya ādhyātmikaścāpi dvividho hetupratyayaḥ /"
+          "text": "bījāṅkuraprakāṇḍādiḥ phale yadvat pravartate /",
+          "segment_number": 29
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bāhyo hetustu bījādiḥ pratyayaḥ ṣaḍvidho mataḥ // 13 //"
+          "text": "pratyayastu pṛthivyādikālānto hi yathākramam // 14 //",
+          "segment_number": 30
         }
       ]
     },
@@ -256,12 +302,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bījāṅkuraprakāṇḍādiḥ phale yadvat pravartate /"
+          "text": "dhāraṇaṃ snehanaṃ pāko dhānyavṛddhiranāvṛtiḥ /",
+          "segment_number": 31
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratyayastu pṛthivyādikālānto hi yathākramam // 14 //"
+          "text": "pariṇāmastathā teṣāṃ kāryaṃ tadvat pravartate // 15 //",
+          "segment_number": 32
         }
       ]
     },
@@ -272,12 +320,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dhāraṇaṃ snehanaṃ pāko dhānyavṛddhiranāvṛtiḥ /"
+          "text": "no cet pratyayasāmagrī bīje bhūte 'pi nāṅkuraḥ /",
+          "segment_number": 33
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pariṇāmastathā teṣāṃ kāryaṃ tadvat pravartate // 15 //"
+          "text": "bījābhāve tu satyeva pratyayabhāvo 'pi tādṛśaḥ // 16 //",
+          "segment_number": 34
         }
       ]
     },
@@ -288,12 +338,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "no cet pratyayasāmagrī bīje bhūte 'pi nāṅkuraḥ /"
+          "text": "hetavaḥ pratyayāstadvad ātmagrāhādivarjitā /",
+          "segment_number": 35
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bījābhāve tu satyeva pratyayabhāvo 'pi tādṛśaḥ // 16 //"
+          "text": "hetupratyayasamagryā na naśyet karmaṇaḥ phalam // 17 //",
+          "segment_number": 36
         }
       ]
     },
@@ -304,40 +356,28 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetavaḥ pratyayāstadvad ātmagrāhādivarjitā /"
+          "text": "na svato parato nāpi na dvayoḥ kartṛkālataḥ /",
+          "segment_number": 37
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetupratyayasamagryā na naśyet karmaṇaḥ phalam // 17 //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "na svato parato nāpi na dvayoḥ kartṛkālataḥ /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "īśvarādikṛtaṃ naivaṃ svabhāvānnāpyahetutaḥ // 18 //"
+          "text": "īśvarādikṛtaṃ naivaṃ svabhāvānnāpyahetutaḥ // 18 //",
+          "segment_number": 38
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "hetupratyayayorvṛttirbhāsate 'nādikālataḥ //"
+      "text": "hetupratyayayorvṛttirbhāsate 'nādikālataḥ //",
+      "segment_number": 39
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "pañcabhirhetubhirbāhyaḥ pratītyotpāda iṣyate // 19 //"
+      "text": "pañcabhirhetubhirbāhyaḥ pratītyotpāda iṣyate // 19 //",
+      "segment_number": 40
     },
     {
       "tag": "lg",
@@ -346,12 +386,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śāśvatato na coccedān na saṃkranteḥ parīttataḥ /"
+          "text": "śāśvatato na coccedān na saṃkranteḥ parīttataḥ /",
+          "segment_number": 41
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "hertormahāphalāvāptiḥ sadṛśānuprabodhataḥ // 20 //"
+          "text": "hertormahāphalāvāptiḥ sadṛśānuprabodhataḥ // 20 //",
+          "segment_number": 42
         }
       ]
     },
@@ -362,12 +404,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aṅkuro bījavaneṣṭo nirheturno 'ṅkurodbhavaḥ /"
+          "text": "aṅkuro bījavaneṣṭo nirheturno 'ṅkurodbhavaḥ /",
+          "segment_number": 43
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "samo nirodha utpādastulonnāmāvanāmavat // 21 //"
+          "text": "samo nirodha utpādastulonnāmāvanāmavat // 21 //",
+          "segment_number": 44
         }
       ]
     },
@@ -378,12 +422,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tathaivādhyātmikasyāpi hetuśca pratyayo dvidhā /"
+          "text": "tathaivādhyātmikasyāpi hetuśca pratyayo dvidhā /",
+          "segment_number": 45
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ādiheturavidyāsya mṛtyurantyo yathākramam // 22 //"
+          "text": "ādiheturavidyāsya mṛtyurantyo yathākramam // 22 //",
+          "segment_number": 46
         }
       ]
     },
@@ -394,12 +440,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "samajanmakleśakarmātmā dvādaśāṅkastrikāṇḍakaḥ /"
+          "text": "samajanmakleśakarmātmā dvādaśāṅkastrikāṇḍakaḥ /",
+          "segment_number": 47
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetupratyayasambhūtaḥ kartetyādivivarjitaḥ // 23 //"
+          "text": "hetupratyayasambhūtaḥ kartetyādivivarjitaḥ // 23 //",
+          "segment_number": 48
         }
       ]
     },
@@ -410,12 +458,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "avidyā yadi nādau syādante mṛtyurna saṃbhaved /"
+          "text": "avidyā yadi nādau syādante mṛtyurna saṃbhaved /",
+          "segment_number": 49
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tebhyo bhinno na kutrāpi hyātmātmīyaśca vidyate // 24 //"
+          "text": "tebhyo bhinno na kutrāpi hyātmātmīyaśca vidyate // 24 //",
+          "segment_number": 50
         }
       ]
     },
@@ -426,12 +476,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "avidyāsaṃbhavādādāvante mṛtyuśca bhāsate /"
+          "text": "avidyāsaṃbhavādādāvante mṛtyuśca bhāsate /",
+          "segment_number": 51
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetorādhyātmikasyaivaṃ pratyayāḥ ṣaḍprakārakaḥ // 25 //"
+          "text": "hetorādhyātmikasyaivaṃ pratyayāḥ ṣaḍprakārakaḥ // 25 //",
+          "segment_number": 52
         }
       ]
     },
@@ -442,12 +494,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratyayo 'dhyātmikastvante vijñānaṃ cādike dharā /"
+          "text": "pratyayo 'dhyātmikastvante vijñānaṃ cādike dharā /",
+          "segment_number": 53
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kāṭhinyaṃ saṃgrahaḥ pākaḥ śvāsavṛddhiranāvṛtiḥ // 26 //"
+          "text": "kāṭhinyaṃ saṃgrahaḥ pākaḥ śvāsavṛddhiranāvṛtiḥ // 26 //",
+          "segment_number": 54
         }
       ]
     },
@@ -458,12 +512,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jñānarūpānuvṛttiśca pañcavijñānasaṃyutam /"
+          "text": "jñānarūpānuvṛttiśca pañcavijñānasaṃyutam /",
+          "segment_number": 55
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasmāt kliṣṭaṃ manaścāpi hīme 'dhyātmikapratyayāḥ // 27 //"
+          "text": "tasmāt kliṣṭaṃ manaścāpi hīme 'dhyātmikapratyayāḥ // 27 //",
+          "segment_number": 56
         }
       ]
     },
@@ -474,12 +530,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dhātūnāṃ sannipātādvai śarīrotpāda iṣyate /"
+          "text": "dhātūnāṃ sannipātādvai śarīrotpāda iṣyate /",
+          "segment_number": 57
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ātmātmīyavikalpānāmutpādastairna manyate // 28 //"
+          "text": "ātmātmīyavikalpānāmutpādastairna manyate // 28 //",
+          "segment_number": 58
         }
       ]
     },
@@ -490,12 +548,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "teṣu satsu samutpādasteṣvasatsu na saṃbhavaḥ /"
+          "text": "teṣu satsu samutpādasteṣvasatsu na saṃbhavaḥ /",
+          "segment_number": 59
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "naivātmādimayāste hi nāpyanyaccāpi kiñcana // 29 //"
+          "text": "naivātmādimayāste hi nāpyanyaccāpi kiñcana // 29 //",
+          "segment_number": 60
         }
       ]
     },
@@ -506,12 +566,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yaikapiṇḍādisaṃjñā sāvidyātribhavachādikā /"
+          "text": "yaikapiṇḍādisaṃjñā sāvidyātribhavachādikā /",
+          "segment_number": 61
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "rāgo dveṣaśca mohādiḥ pravṛttāḥ santyavidyayā // 30 //"
+          "text": "rāgo dveṣaśca mohādiḥ pravṛttāḥ santyavidyayā // 30 //",
+          "segment_number": 62
         }
       ]
     },
@@ -522,12 +584,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tataḥ saṃskṛtabhāvānāṃ jñaptirvijñānasaṃbhavā /"
+          "text": "tataḥ saṃskṛtabhāvānāṃ jñaptirvijñānasaṃbhavā /",
+          "segment_number": 63
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vijñānena sahodbhūtāścatuskandhā arūpiṇaḥ // 31 //"
+          "text": "vijñānena sahodbhūtāścatuskandhā arūpiṇaḥ // 31 //",
+          "segment_number": 64
         }
       ]
     },
@@ -538,12 +602,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāmarūpamupādāya cendriyāyatanodbhavaḥ /"
+          "text": "nāmarūpamupādāya cendriyāyatanodbhavaḥ /",
+          "segment_number": 65
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "viṣayenriyavijñānasaṃghātāt sparśasambhavaḥ // 32 //"
+          "text": "viṣayenriyavijñānasaṃghātāt sparśasambhavaḥ // 32 //",
+          "segment_number": 66
         }
       ]
     },
@@ -554,12 +620,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vedanā sparśajā jñeyā tṛṣṇā ca vedanodgatā /"
+          "text": "vedanā sparśajā jñeyā tṛṣṇā ca vedanodgatā /",
+          "segment_number": 67
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tṛṣṇāvṛddhirupādānam upādānodgato bhavaḥ // 33 //"
+          "text": "tṛṣṇāvṛddhirupādānam upādānodgato bhavaḥ // 33 //",
+          "segment_number": 68
         }
       ]
     },
@@ -570,12 +638,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "skandhotpādo bhavājjātirjāterevaṃ jarāpi ca /"
+          "text": "skandhotpādo bhavājjātirjāterevaṃ jarāpi ca /",
+          "segment_number": 69
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "skandhābhāvo jarāyā yaḥ sa mṛtyuścetyudīryate // 34 //"
+          "text": "skandhābhāvo jarāyā yaḥ sa mṛtyuścetyudīryate // 34 //",
+          "segment_number": 70
         }
       ]
     },
@@ -586,12 +656,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mūḍhe tu maraṇācchokaḥ satṛṣṇe dāha āntaraḥ /"
+          "text": "mūḍhe tu maraṇācchokaḥ satṛṣṇe dāha āntaraḥ /",
+          "segment_number": 71
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śokataścāpalāpo yo daurmanasyaṃ sa ucyate // 35 //"
+          "text": "śokataścāpalāpo yo daurmanasyaṃ sa ucyate // 35 //",
+          "segment_number": 72
         }
       ]
     },
@@ -602,12 +674,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "daurmanasyasamudbhūtaṃ pañcavijñānakāyikam /"
+          "text": "daurmanasyasamudbhūtaṃ pañcavijñānakāyikam /",
+          "segment_number": 73
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "āsātaduḥkhamityuktaṃ kāyasaukhyavighātakam // 36 //"
+          "text": "āsātaduḥkhamityuktaṃ kāyasaukhyavighātakam // 36 //",
+          "segment_number": 74
         }
       ]
     },
@@ -618,12 +692,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "duḥkhaṃ manasikārākhyaṃ manasastūpadhātakam /"
+          "text": "duḥkhaṃ manasikārākhyaṃ manasastūpadhātakam /",
+          "segment_number": 75
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "daurmanasyaṃ ca tajjñeyamanyopakleśahetukram // 37 //"
+          "text": "daurmanasyaṃ ca tajjñeyamanyopakleśahetukram // 37 //",
+          "segment_number": 76
         }
       ]
     },
@@ -634,12 +710,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tamo 'bhijñānāmarūpāyatasparśavittarṣataḥ /"
+          "text": "tamo 'bhijñānāmarūpāyatasparśavittarṣataḥ /",
+          "segment_number": 77
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tṛṣṇādānabhavotpāda pākanāśaviśokataḥ // 38 //"
+          "text": "tṛṣṇādānabhavotpāda pākanāśaviśokataḥ // 38 //",
+          "segment_number": 78
         }
       ]
     },
@@ -650,12 +728,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vacanādikāyasaṃpīḍācittadurmānasāstathā /"
+          "text": "vacanādikāyasaṃpīḍācittadurmānasāstathā /",
+          "segment_number": 79
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kleśādanvarthakaṃ nāma yathākramamudīritam // 39 //"
+          "text": "kleśādanvarthakaṃ nāma yathākramamudīritam // 39 //",
+          "segment_number": 80
         }
       ]
     },
@@ -666,12 +746,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "punastattvaparijñānādavidyādeśca yathākramam /"
+          "text": "punastattvaparijñānādavidyādeśca yathākramam /",
+          "segment_number": 81
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pūrvapūrvebhya utpādo 'pyākhyātaścottarottaraḥ // 40 //"
+          "text": "pūrvapūrvebhya utpādo 'pyākhyātaścottarottaraḥ // 40 //",
+          "segment_number": 82
         }
       ]
     },
@@ -682,12 +764,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dvādaśāṅgautripravṛttī nityocchedau hyanādijau /"
+          "text": "dvādaśāṅgautripravṛttī nityocchedau hyanādijau /",
+          "segment_number": 83
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pravṛtterjaladhārāvad vartate 'nādikālataḥ // 41 //"
+          "text": "pravṛtterjaladhārāvad vartate 'nādikālataḥ // 41 //",
+          "segment_number": 84
         }
       ]
     },
@@ -698,12 +782,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tathāpyete tu catvāraḥ saṃghātakarahetavaḥ /"
+          "text": "tathāpyete tu catvāraḥ saṃghātakarahetavaḥ /",
+          "segment_number": 85
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "avidyā ca tṛṣā karma vijñānaṃ kramaśo matāḥ // 42 //"
+          "text": "avidyā ca tṛṣā karma vijñānaṃ kramaśo matāḥ // 42 //",
+          "segment_number": 86
         }
       ]
     },
@@ -714,12 +800,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetorvijñānabījaṃ hi karmakṣetramudīritam /"
+          "text": "hetorvijñānabījaṃ hi karmakṣetramudīritam /",
+          "segment_number": 87
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "prathamaḥ ca tṛṣā prokte hetuḥ kleśasvabhāvataḥ // 43 //"
+          "text": "prathamaḥ ca tṛṣā prokte hetuḥ kleśasvabhāvataḥ // 43 //",
+          "segment_number": 88
         }
       ]
     },
@@ -730,12 +818,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "karmakleśāstuvijñānabījatvena vyavasthitāḥ /"
+          "text": "karmakleśāstuvijñānabījatvena vyavasthitāḥ /",
+          "segment_number": 89
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "karma vijñānabījasya kṣetrakāryaṃ karoti ca // 44 //"
+          "text": "karma vijñānabījasya kṣetrakāryaṃ karoti ca // 44 //",
+          "segment_number": 90
         }
       ]
     },
@@ -746,12 +836,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "vijñānanāmakaṃ bījaṃ tṛṣṇayā snihyate param /"
+          "text": "vijñānanāmakaṃ bījaṃ tṛṣṇayā snihyate param /",
+          "segment_number": 91
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vijñānabījaṃ cāvidyā kirati snehanena vai // 45 //"
+          "text": "vijñānabījaṃ cāvidyā kirati snehanena vai // 45 //",
+          "segment_number": 92
         }
       ]
     },
@@ -762,12 +854,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "karma tṛṣṇā tathāvidyā kṣetraṃsneho 'vakīrṇanam /"
+          "text": "karma tṛṣṇā tathāvidyā kṣetraṃsneho 'vakīrṇanam /",
+          "segment_number": 93
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vijñāne na karomīdaṃ na vijñānamito matam // 46 //"
+          "text": "vijñāne na karomīdaṃ na vijñānamito matam // 46 //",
+          "segment_number": 94
         }
       ]
     },
@@ -778,12 +872,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tathāpi bījavijñāneṃ karmakleśapratiṣṭhite /"
+          "text": "tathāpi bījavijñāneṃ karmakleśapratiṣṭhite /",
+          "segment_number": 95
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vijñānaṃ bījamityuktaṃ kīrṇe 'vidyāsvavaskare // 47 //"
+          "text": "vijñānaṃ bījamityuktaṃ kīrṇe 'vidyāsvavaskare // 47 //",
+          "segment_number": 96
         }
       ]
     },
@@ -794,12 +890,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tṛṣṇājalena saṃsikte hetuto nāmarūpayoḥ /"
+          "text": "tṛṣṇājalena saṃsikte hetuto nāmarūpayoḥ /",
+          "segment_number": 97
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aṅkurotpādabhāso hi na svaparobhayāditaḥ // 48 //"
+          "text": "aṅkurotpādabhāso hi na svaparobhayāditaḥ // 48 //",
+          "segment_number": 98
         }
       ]
     },
@@ -810,12 +908,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāmarūpamidaṃjātaṃ piturmātuḥsamāgamāt /"
+          "text": "nāmarūpamidaṃjātaṃ piturmātuḥsamāgamāt /",
+          "segment_number": 99
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "avirodhādṛtoścāpi kiñcidāsvādavedhitam // 49 //"
+          "text": "avirodhādṛtoścāpi kiñcidāsvādavedhitam // 49 //",
+          "segment_number": 100
         }
       ]
     },
@@ -826,12 +926,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bījavijñānamityuktaṃ mātṛgarbhe kramāccayaḥ /"
+          "text": "bījavijñānamityuktaṃ mātṛgarbhe kramāccayaḥ /",
+          "segment_number": 101
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nāmarūpāṅkurotpādastvavaikalyācca pratyayaiḥ // 50 //"
+          "text": "nāmarūpāṅkurotpādastvavaikalyācca pratyayaiḥ // 50 //",
+          "segment_number": 102
         }
       ]
     },
@@ -842,12 +944,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "avirodhatvāccahetūnāṃ māyānairātmyanigrahe /"
+          "text": "avirodhatvāccahetūnāṃ māyānairātmyanigrahe /",
+          "segment_number": 103
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "utpādo 'pi na saṃbhāvyaḥ cakṣurvijñānamapyataḥ // 51 //"
+          "text": "utpādo 'pi na saṃbhāvyaḥ cakṣurvijñānamapyataḥ // 51 //",
+          "segment_number": 104
         }
       ]
     },
@@ -858,12 +962,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pañcabhirhetubhirjātaṃ cakṣūrūpāvabhāsanaiḥ /"
+          "text": "pañcabhirhetubhirjātaṃ cakṣūrūpāvabhāsanaiḥ /",
+          "segment_number": 105
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nabhastajjamanaskāraiḥ pañcavaikalyatastathā // 52 //"
+          "text": "nabhastajjamanaskāraiḥ pañcavaikalyatastathā // 52 //",
+          "segment_number": 106
         }
       ]
     },
@@ -874,12 +980,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "cakṣurvijñānamudbhūtaṃ mayā te janitā iti /"
+          "text": "cakṣurvijñānamudbhūtaṃ mayā te janitā iti /",
+          "segment_number": 107
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vikalpo na yathodeti śrotrajñānādikākhilam // 53 //"
+          "text": "vikalpo na yathodeti śrotrajñānādikākhilam // 53 //",
+          "segment_number": 108
         }
       ]
     },
@@ -890,12 +998,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "utpādasya kramaścaivaṃ hetupratyayasaṅgrahāt /"
+          "text": "utpādasya kramaścaivaṃ hetupratyayasaṅgrahāt /",
+          "segment_number": 109
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kartrādīnāṃ ca vaikalyād ahaṅkāraviyogataḥ // 54 //"
+          "text": "kartrādīnāṃ ca vaikalyād ahaṅkāraviyogataḥ // 54 //",
+          "segment_number": 110
         }
       ]
     },
@@ -906,12 +1016,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "utpādo 'pi yathāpūrva tatha cāpi pratītyajam /"
+          "text": "utpādo 'pi yathāpūrva tatha cāpi pratītyajam /",
+          "segment_number": 111
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "hetumatsaṃvijānīyād asmāllokāt paraṃ nahi // 55 //"
+          "text": "hetumatsaṃvijānīyād asmāllokāt paraṃ nahi // 55 //",
+          "segment_number": 112
         }
       ]
     },
@@ -922,12 +1034,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kaściddhamaḥ kvacid gantā hetupratyayatastathā /"
+          "text": "kaściddhamaḥ kvacid gantā hetupratyayatastathā /",
+          "segment_number": 113
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "karmaṇaḥ phalamabhyeti, yathā darśe viśodhite // 56 //"
+          "text": "karmaṇaḥ phalamabhyeti, yathā darśe viśodhite // 56 //",
+          "segment_number": 114
         }
       ]
     },
@@ -938,12 +1052,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dṛśyante mukhabimbāni darpaṇe 'pi ca bimbakam /"
+          "text": "dṛśyante mukhabimbāni darpaṇe 'pi ca bimbakam /",
+          "segment_number": 115
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "saṃkrāmitaṃ bhavetraiva tadanyonyāvikalpanam // 57 //"
+          "text": "saṃkrāmitaṃ bhavetraiva tadanyonyāvikalpanam // 57 //",
+          "segment_number": 116
         }
       ]
     },
@@ -954,12 +1070,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kartṛkriyāvihīnaṃ tat tathotpādāvabhāsanam /"
+          "text": "kartṛkriyāvihīnaṃ tat tathotpādāvabhāsanam /",
+          "segment_number": 117
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pūrvavṛddhikramācca syād dūrasthaścandramā yathā // 58 //"
+          "text": "pūrvavṛddhikramācca syād dūrasthaścandramā yathā // 58 //",
+          "segment_number": 118
         }
       ]
     },
@@ -970,12 +1088,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "parīttodakapātrānte dṛśyate na ca krāmati /"
+          "text": "parīttodakapātrānte dṛśyate na ca krāmati /",
+          "segment_number": 119
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "asti kriyā ca karmāpi tathā cāsmāccyutirna hi // 59 //"
+          "text": "asti kriyā ca karmāpi tathā cāsmāccyutirna hi // 59 //",
+          "segment_number": 120
         }
       ]
     },
@@ -986,12 +1106,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "janmābhāso 'pyasaṃlloke nopādānaṃ vinānalaḥ /"
+          "text": "janmābhāso 'pyasaṃlloke nopādānaṃ vinānalaḥ /",
+          "segment_number": 121
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "jvalet sakala ujjvālo hīnopādānahānitaḥ // 60 //"
+          "text": "jvalet sakala ujjvālo hīnopādānahānitaḥ // 60 //",
+          "segment_number": 122
         }
       ]
     },
@@ -1002,12 +1124,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "skandhatvapratisandhiḥsyāt, santi te kalpanātmakāḥ /"
+          "text": "skandhatvapratisandhiḥsyāt, santi te kalpanātmakāḥ /",
+          "segment_number": 123
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "bāhyaṃ karma kriyā heturadhyātmaparatantrataḥ // 61 //"
+          "text": "bāhyaṃ karma kriyā heturadhyātmaparatantrataḥ // 61 //",
+          "segment_number": 124
         }
       ]
     },
@@ -1018,12 +1142,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pañcavijñānasaṃbhavāḥparamārtho 'vicāryataḥ /"
+          "text": "pañcavijñānasaṃbhavāḥparamārtho 'vicāryataḥ /",
+          "segment_number": 125
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pariniṣpanna ākhyātaḥsahetupratyayodbhavaḥ // 62 //"
+          "text": "pariniṣpanna ākhyātaḥsahetupratyayodbhavaḥ // 62 //",
+          "segment_number": 126
         }
       ]
     },
@@ -1034,12 +1160,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvadā dvividho jñeyaḥ kartrādirahitastathā /"
+          "text": "sarvadā dvividho jñeyaḥ kartrādirahitastathā /",
+          "segment_number": 127
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tucchaśūnyāditiḥsāraḥprajñayaivaṃ ya īkṣitaḥ // 63 //"
+          "text": "tucchaśūnyāditiḥsāraḥprajñayaivaṃ ya īkṣitaḥ // 63 //",
+          "segment_number": 128
         }
       ]
     },
@@ -1050,12 +1178,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kiṃ kathaṃ vā kuto kena kalpavādādihānitaḥ /"
+          "text": "kiṃ kathaṃ vā kuto kena kalpavādādihānitaḥ /",
+          "segment_number": 129
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "udacandrasya yathā bimbaṃ tataḥ kaścicca na cyutaḥ // 64 //"
+          "text": "udacandrasya yathā bimbaṃ tataḥ kaścicca na cyutaḥ // 64 //",
+          "segment_number": 130
         }
       ]
     },
@@ -1066,12 +1196,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "loke janmāpi cābhāti yathā pādapasaṅgataḥ /"
+          "text": "loke janmāpi cābhāti yathā pādapasaṅgataḥ /",
+          "segment_number": 131
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "vahnistrotaḥ pravṛtiḥsyād hetuvaikalpatastathā // 65 //"
+          "text": "vahnistrotaḥ pravṛtiḥsyād hetuvaikalpatastathā // 65 //",
+          "segment_number": 132
         }
       ]
     },
@@ -1082,12 +1214,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nānupravartate hyagnitadvatsaṃkleśabījake /"
+          "text": "nānupravartate hyagnitadvatsaṃkleśabījake /",
+          "segment_number": 133
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dagdhe jñānāgninā hetorabhāvānnaphalaṃ tathā // 66 //"
+          "text": "dagdhe jñānāgninā hetorabhāvānnaphalaṃ tathā // 66 //",
+          "segment_number": 134
         }
       ]
     },
@@ -1098,12 +1232,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kriyā karmāpi naivāstianantācintyaguṇyakam /"
+          "text": "kriyā karmāpi naivāstianantācintyaguṇyakam /",
+          "segment_number": 135
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śāntadharmātmakaṃ kāyamādimadhyāntavarjitam // 67 //"
+          "text": "śāntadharmātmakaṃ kāyamādimadhyāntavarjitam // 67 //",
+          "segment_number": 136
         }
       ]
     },
@@ -1114,12 +1250,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "jñātvā prāpnoti buddhatvaṃ ya evaṃ tathatākṣamaḥ /"
+          "text": "jñātvā prāpnoti buddhatvaṃ ya evaṃ tathatākṣamaḥ /",
+          "segment_number": 137
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasmai vyākriyate nūnaṃ maitreyastu svayaṃ tathā // 68 //"
+          "text": "tasmai vyākriyate nūnaṃ maitreyastu svayaṃ tathā // 68 //",
+          "segment_number": 138
         }
       ]
     },
@@ -1130,12 +1268,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "uvāca śāriputrāya śālistambopamā kṛtā /"
+          "text": "uvāca śāriputrāya śālistambopamā kṛtā /",
+          "segment_number": 139
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śāriputrastu tacchruttvā devasaṃghānumoditaḥ // 69 //"
+          "text": "śāriputrastu tacchruttvā devasaṃghānumoditaḥ // 69 //",
+          "segment_number": 140
         }
       ]
     },
@@ -1146,19 +1286,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "saṃstuto dhṛtasāraśca gatvotthāya praharṣitaḥ /"
+          "text": "saṃstuto dhṛtasāraśca gatvotthāya praharṣitaḥ /",
+          "segment_number": 141
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ākhyātavāṃśca bhiksubhyaḥ // 70 //"
+          "text": "ākhyātavāṃśca bhiksubhyaḥ // 70 //",
+          "segment_number": 142
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "āryānāgārjunaviracitā āryaśālistambakasūtrakārikā samāptā /"
+      "text": "āryānāgārjunaviracitā āryaśālistambakasūtrakārikā samāptā /",
+      "segment_number": 143
     },
     {
       "tag": "lg",
@@ -1167,12 +1310,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhāvatīyopādhyāyena dharmaśrībhadreṇa mahāsaṃśodhakalokacakṣussādhumatijñānakumārābhyām cānūditaḥ /"
+          "text": "bhāvatīyopādhyāyena dharmaśrībhadreṇa mahāsaṃśodhakalokacakṣussādhumatijñānakumārābhyām cānūditaḥ /",
+          "segment_number": 144
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "paścāt śrīkuṭīrakṣitena saṃśodhya nirṇītaḥ //"
+          "text": "paścāt śrīkuṭīrakṣitena saṃśodhya nirṇītaḥ //",
+          "segment_number": 145
         }
       ]
     }

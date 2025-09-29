@@ -40,9 +40,11 @@
         },
         {
           "tag": "text",
-          "text": "tattirīyopaniṣat"
+          "text": "tattirīyopaniṣat",
+          "segment_number": 2
         }
-      ]
+      ],
+      "segment_number": 1
     },
     {
       "tag": "div",
@@ -54,7 +56,8 @@
         {
           "tag": "head",
           "attributes": {},
-          "text": "śikṣādhyāyaḥ"
+          "text": "śikṣādhyāyaḥ",
+          "segment_number": 3
         },
         {
           "tag": "note",
@@ -232,7 +235,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.1.1"
           },
-          "text": "oṃ śaṃ no mitraḥ śaṃ varuṇaḥ / śaṃ no bhavatvaryamā / śaṃ na indro bṛhaspatiḥ / śaṃ no viṣṇururukramaḥ / namo brahmaṇe / namaste vāyo / tvameva pratyakṣaṃ brahmāsi / tvāmevapratyakṣaṃ brahma vadiṣyāmi / ṛtaṃ vadiṣyāmi / satyaṃ vadiṣyāmi / tanmāmavatu / tadvaktāramavatu / avatu mām / avatu vaktāram // oṃ śāntiḥ śāntiḥ śāntiḥ // iti śikṣādhyāye prathamo 'nuvākaḥ //"
+          "text": "oṃ śaṃ no mitraḥ śaṃ varuṇaḥ / śaṃ no bhavatvaryamā / śaṃ na indro bṛhaspatiḥ / śaṃ no viṣṇururukramaḥ / namo brahmaṇe / namaste vāyo / tvameva pratyakṣaṃ brahmāsi / tvāmevapratyakṣaṃ brahma vadiṣyāmi / ṛtaṃ vadiṣyāmi / satyaṃ vadiṣyāmi / tanmāmavatu / tadvaktāramavatu / avatu mām / avatu vaktāram // oṃ śāntiḥ śāntiḥ śāntiḥ // iti śikṣādhyāye prathamo 'nuvākaḥ //",
+          "segment_number": 4
         },
         {
           "tag": "note",
@@ -259,7 +263,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.2.1"
           },
-          "text": "oṃ śīkṣāṃ vyākhyāsyāmaḥ / varṇaḥ svaraḥ / mātrā balam / sāma santānaḥ / ityuktaḥ śīkṣādhyāyaḥ // iti dvitīyo 'nuvādakaḥ //"
+          "text": "oṃ śīkṣāṃ vyākhyāsyāmaḥ / varṇaḥ svaraḥ / mātrā balam / sāma santānaḥ / ityuktaḥ śīkṣādhyāyaḥ // iti dvitīyo 'nuvādakaḥ //",
+          "segment_number": 5
         },
         {
           "tag": "note",
@@ -286,7 +291,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.1"
           },
-          "text": "saha nau yaśaḥ / saha nau brahmavarcasam / athātaḥ saṃhitāyā upaniṣidaṃ vyākhyāsyāmaḥ / pañcasvadhikaraṇeṣu / adhilokamadhijyautiṣamadhividyamadhiprajamadhyātmam / tā mahāsaṃhitāyā ityācakṣate / athādhilokam / pṛthivī pūrvarūpam / dyauruttararūpam / ākāśaḥ sandhiḥ //"
+          "text": "saha nau yaśaḥ / saha nau brahmavarcasam / athātaḥ saṃhitāyā upaniṣidaṃ vyākhyāsyāmaḥ / pañcasvadhikaraṇeṣu / adhilokamadhijyautiṣamadhividyamadhiprajamadhyātmam / tā mahāsaṃhitāyā ityācakṣate / athādhilokam / pṛthivī pūrvarūpam / dyauruttararūpam / ākāśaḥ sandhiḥ //",
+          "segment_number": 6
         },
         {
           "tag": "note",
@@ -308,26 +314,30 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.2"
           },
-          "text": "vāyuḥ sandhānam / ityadhilokam / athādhijautiṣam / agniḥ pūrvarūpam / āditya uttararūpam / āpaḥ sandhiḥ / vaidyutaḥ sandhānam / ityadhijyautiṣam / athādhividyam / ācāryaḥ pūrvarūpam //"
+          "text": "vāyuḥ sandhānam / ityadhilokam / athādhijautiṣam / agniḥ pūrvarūpam / āditya uttararūpam / āpaḥ sandhiḥ / vaidyutaḥ sandhānam / ityadhijyautiṣam / athādhividyam / ācāryaḥ pūrvarūpam //",
+          "segment_number": 7
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.3"
           },
-          "text": "antevāsyuttararūpam / vidyā sandhiḥ / pravacanaṃ sandhānam / ityadhividyam / athādhiprajam / mātā pūrvarūpam / pitottararūpam / prajā sandhiḥ / prajananaṃ sandhānam / ityadhiprajam //"
+          "text": "antevāsyuttararūpam / vidyā sandhiḥ / pravacanaṃ sandhānam / ityadhividyam / athādhiprajam / mātā pūrvarūpam / pitottararūpam / prajā sandhiḥ / prajananaṃ sandhānam / ityadhiprajam //",
+          "segment_number": 8
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.4"
           },
-          "text": "athādhyātmam / adharā hanuḥ pūrvarūpam / uttarā hanuruttara rūpam / vāksandhiḥ / jihvāsandhānam / ityadhyātmam / itīmā mahāsaṃhitāḥ / ya evametā mahāsaṃhitā vyākhyātā veda / sandhīyate prajayā paśubhiḥ / brahmavarcasenānnādyena suvargyeṇa lokena //"
+          "text": "athādhyātmam / adharā hanuḥ pūrvarūpam / uttarā hanuruttara rūpam / vāksandhiḥ / jihvāsandhānam / ityadhyātmam / itīmā mahāsaṃhitāḥ / ya evametā mahāsaṃhitā vyākhyātā veda / sandhīyate prajayā paśubhiḥ / brahmavarcasenānnādyena suvargyeṇa lokena //",
+          "segment_number": 9
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti tṛtīyo 'nuvākaḥ // 3 //"
+          "text": "iti tṛtīyo 'nuvākaḥ // 3 //",
+          "segment_number": 10
         },
         {
           "tag": "note",
@@ -378,26 +388,30 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.4.1"
           },
-          "text": "yaśchandasāmṛṣabho viśvarūpaḥ / chandobhyo 'dhyamṛtātsaṃbabhūva / sa mendro medhayā spṛṇotu / amṛtasya deva dhāraṇo bhūyāsam / śarīraṃ me vicarṣaṇam / jihvā me madhumattamā / karṇābhyāṃ bhūri viśruvam / brahmaṇaḥ kośo 'si medhayā pihitaḥ / śrutaṃ me gopāya //"
+          "text": "yaśchandasāmṛṣabho viśvarūpaḥ / chandobhyo 'dhyamṛtātsaṃbabhūva / sa mendro medhayā spṛṇotu / amṛtasya deva dhāraṇo bhūyāsam / śarīraṃ me vicarṣaṇam / jihvā me madhumattamā / karṇābhyāṃ bhūri viśruvam / brahmaṇaḥ kośo 'si medhayā pihitaḥ / śrutaṃ me gopāya //",
+          "segment_number": 11
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.4.2"
           },
-          "text": "āvahantī vitanvānā kurvāṇācīramātmanaḥ / vāsāṃsi mama gāvaśca / annapāne ca sarvadā / tato me śriyamāvaha / lomaśāṃ paśubhiḥ saha svāhā / āmāyantu brahmacāriṇaḥ svāhā / vimāyantu brahmacāriṇaḥ svāhā / pramayantu brahmacāriṇaḥ svāhā / damāyantu brahmacāriṇaḥ svāhā / śamāyantu brahmacāriṇaḥ svāhā // śāmāyantu brahmacāriṇaḥ svāhā //"
+          "text": "āvahantī vitanvānā kurvāṇācīramātmanaḥ / vāsāṃsi mama gāvaśca / annapāne ca sarvadā / tato me śriyamāvaha / lomaśāṃ paśubhiḥ saha svāhā / āmāyantu brahmacāriṇaḥ svāhā / vimāyantu brahmacāriṇaḥ svāhā / pramayantu brahmacāriṇaḥ svāhā / damāyantu brahmacāriṇaḥ svāhā / śamāyantu brahmacāriṇaḥ svāhā // śāmāyantu brahmacāriṇaḥ svāhā //",
+          "segment_number": 12
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.4.3"
           },
-          "text": "yaśo jane 'sāni svāhā / śreyān vasyaso 'sāni svāhā / taṃ tvā bhaga praviśāni svāhā / sa mā bhaga praviśa svāhā / tasmin sahasraśākhe nibhagāhaṃ tvayi mṛje svāhā / yathāpaḥ pravatā yanti yathā māsā aharjaram / evaṃ māṃ brahmacāriṇaḥ / dhātarāyantu sarvataḥ svāhā / prativeśo 'si pra mā bhāhi pra mā padyasva //"
+          "text": "yaśo jane 'sāni svāhā / śreyān vasyaso 'sāni svāhā / taṃ tvā bhaga praviśāni svāhā / sa mā bhaga praviśa svāhā / tasmin sahasraśākhe nibhagāhaṃ tvayi mṛje svāhā / yathāpaḥ pravatā yanti yathā māsā aharjaram / evaṃ māṃ brahmacāriṇaḥ / dhātarāyantu sarvataḥ svāhā / prativeśo 'si pra mā bhāhi pra mā padyasva //",
+          "segment_number": 13
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti caturtho 'nuvākaḥ // 4 //"
+          "text": "iti caturtho 'nuvākaḥ // 4 //",
+          "segment_number": 14
         },
         {
           "tag": "note",
@@ -510,26 +524,30 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.5.1"
           },
-          "text": "bhūrbhuvaḥ suvariti vā etāstisro vyāhṛtayaḥ / tāsāmu ha smaitāṃ caturthīm / māhācamasyaḥ pravedayate / maha iti / tat brahma / sa ātmā / aṅgānyanyā devatāḥ / bhūriti vā ayaṃ lokaḥ / bhuva ityantarikṣam / suvarityasau lokaḥ //"
+          "text": "bhūrbhuvaḥ suvariti vā etāstisro vyāhṛtayaḥ / tāsāmu ha smaitāṃ caturthīm / māhācamasyaḥ pravedayate / maha iti / tat brahma / sa ātmā / aṅgānyanyā devatāḥ / bhūriti vā ayaṃ lokaḥ / bhuva ityantarikṣam / suvarityasau lokaḥ //",
+          "segment_number": 15
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.5.2"
           },
-          "text": "maha ityādityaḥ / ādityena vāva sarve loka mahīyante / bhūriti vā agniḥ / bhuva iti vāyuḥ / suvarityādityaḥ / maha iti candramāḥ / candramasā vāva sarvāṇi jyotiṃṣi mahīyante / bhūriti vā ṛcaḥ / bhuva iti sāmāni / suvariti yajūṃṣi //"
+          "text": "maha ityādityaḥ / ādityena vāva sarve loka mahīyante / bhūriti vā agniḥ / bhuva iti vāyuḥ / suvarityādityaḥ / maha iti candramāḥ / candramasā vāva sarvāṇi jyotiṃṣi mahīyante / bhūriti vā ṛcaḥ / bhuva iti sāmāni / suvariti yajūṃṣi //",
+          "segment_number": 16
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.5.3"
           },
-          "text": "maha iti brahma / brahmaṇā vāva sarve vedā mahīyante / bhūriti vai prāṇaḥ / bhuva ityapānaḥ / suvariti vyānaḥ / maha ityannam / annena vāva sarve prāṇa mahīyante / tā vā etāścatasraścaturdha / catasraścatasro vyāhṛtayaḥ / tā yo veda / sa veda brahma / sarve 'smai devā balimāvahanti //"
+          "text": "maha iti brahma / brahmaṇā vāva sarve vedā mahīyante / bhūriti vai prāṇaḥ / bhuva ityapānaḥ / suvariti vyānaḥ / maha ityannam / annena vāva sarve prāṇa mahīyante / tā vā etāścatasraścaturdha / catasraścatasro vyāhṛtayaḥ / tā yo veda / sa veda brahma / sarve 'smai devā balimāvahanti //",
+          "segment_number": 17
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti pañcamo 'nuvākaḥ // 5 //"
+          "text": "iti pañcamo 'nuvākaḥ // 5 //",
+          "segment_number": 18
         },
         {
           "tag": "note",
@@ -621,7 +639,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.6.1"
           },
-          "text": "sa ya eṣo 'ntarahṛdaya ākāśaḥ / tasminnayaṃ puruṣo manomayaḥ / amṛto hiraṇmayaḥ / antareṇa tāluke / ya eṣa stana ivāvalaṃbate / sendrayoniḥ / yatrāsau keśānto vivartate / vyapohya śīrṣakapāle / bhūrityagnau pratitiṣṭhati / bhuva iti vāyau //"
+          "text": "sa ya eṣo 'ntarahṛdaya ākāśaḥ / tasminnayaṃ puruṣo manomayaḥ / amṛto hiraṇmayaḥ / antareṇa tāluke / ya eṣa stana ivāvalaṃbate / sendrayoniḥ / yatrāsau keśānto vivartate / vyapohya śīrṣakapāle / bhūrityagnau pratitiṣṭhati / bhuva iti vāyau //",
+          "segment_number": 19
         },
         {
           "tag": "note",
@@ -643,12 +662,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.6.2"
           },
-          "text": "suvarityāditye / maha iti brahmaṇi / āpnoti svārājyam / āpnoti manasaspatim / vākpatiścakṣuṣpatiḥ / śrotraptirvijñānapatiḥ / etattato bhavati / ākāśaśarīraṃ brahma / satyātma prāṇārāmaṃ mana ānandam / śānti samṛddhamamṛtam / iti prācīnayogyopāssva //"
+          "text": "suvarityāditye / maha iti brahmaṇi / āpnoti svārājyam / āpnoti manasaspatim / vākpatiścakṣuṣpatiḥ / śrotraptirvijñānapatiḥ / etattato bhavati / ākāśaśarīraṃ brahma / satyātma prāṇārāmaṃ mana ānandam / śānti samṛddhamamṛtam / iti prācīnayogyopāssva //",
+          "segment_number": 20
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //"
+          "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //",
+          "segment_number": 21
         },
         {
           "tag": "note",
@@ -713,12 +734,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.7.1"
           },
-          "text": "pṛthivyantarikṣaṃ dyaurdiśo 'vāntaradiśāḥ / agnirvāyurādityaścandramā nakṣatrāṇi / āpa oṣadhayo vanaspataya ākāśa ātmā / ityadhibhūtam / athādhyātmam / prāṇo vyāno 'pāna udānaḥ samānaḥ / cakṣuḥ śrotraṃ mano vāk tvak / carma māṃsaṃ snāvāsthi majjā / etadadhividhāya ṛṣiravocat / pāṅktaṃ vā idaṃ sarvam / pāṅktenaiva pāṅktaṃ spṛṇotīti //"
+          "text": "pṛthivyantarikṣaṃ dyaurdiśo 'vāntaradiśāḥ / agnirvāyurādityaścandramā nakṣatrāṇi / āpa oṣadhayo vanaspataya ākāśa ātmā / ityadhibhūtam / athādhyātmam / prāṇo vyāno 'pāna udānaḥ samānaḥ / cakṣuḥ śrotraṃ mano vāk tvak / carma māṃsaṃ snāvāsthi majjā / etadadhividhāya ṛṣiravocat / pāṅktaṃ vā idaṃ sarvam / pāṅktenaiva pāṅktaṃ spṛṇotīti //",
+          "segment_number": 22
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti saptamo 'nuvākaḥ // 7 //"
+          "text": "iti saptamo 'nuvākaḥ // 7 //",
+          "segment_number": 23
         },
         {
           "tag": "note",
@@ -745,12 +768,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.8.1"
           },
-          "text": "omiti brahma / omitīdaṃ sarvam / omityetadanukṛtirha sma vā apyo śrāvayetyāśrāvayanti / omiti sāmāni gāyanti / oṃśomiti śastrāṇi śaṃsanti / omityadhvaryuḥ pratigaraṃ pratigṛṇāti / omiti brahmā prasauti / omityagnihotramanujānāti / omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti / brahmaivopāpnoti //"
+          "text": "omiti brahma / omitīdaṃ sarvam / omityetadanukṛtirha sma vā apyo śrāvayetyāśrāvayanti / omiti sāmāni gāyanti / oṃśomiti śastrāṇi śaṃsanti / omityadhvaryuḥ pratigaraṃ pratigṛṇāti / omiti brahmā prasauti / omityagnihotramanujānāti / omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti / brahmaivopāpnoti //",
+          "segment_number": 24
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti aṣṭamo 'nuvākaḥ // 8 //"
+          "text": "iti aṣṭamo 'nuvākaḥ // 8 //",
+          "segment_number": 25
         },
         {
           "tag": "note",
@@ -832,12 +857,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.9.1"
           },
-          "text": "ṛtaṃ ca svādhyāyapravacane ca / satyaṃ ca svādhyāyapravacane ca / tapaśca svādhyāyapravacane ca / damaśca svādhyāyapravacane ca / śamaśca svādhyāyapravacane ca / agnayaśca svādhyāyapravacane ca / agnihotraṃ ca svādhyāyapravacane ca / atithayaśca svādhyāyapravacane ca / mānuṣaṃ ca svādhyāyapravacane ca / prajā ca svādhyāyapravacane ca / prajanaśca svādhyāyapravacane ca / prajātiśca svādhyāyapravacane ca / satyamiti satyavacā rāthītaraḥ / tapa iti taponityaḥ pauruśiṣṭiḥ / svādhyāyapravacane eveti nāko maudagalyaḥ / taddhi tapastaddhi tapaḥ //"
+          "text": "ṛtaṃ ca svādhyāyapravacane ca / satyaṃ ca svādhyāyapravacane ca / tapaśca svādhyāyapravacane ca / damaśca svādhyāyapravacane ca / śamaśca svādhyāyapravacane ca / agnayaśca svādhyāyapravacane ca / agnihotraṃ ca svādhyāyapravacane ca / atithayaśca svādhyāyapravacane ca / mānuṣaṃ ca svādhyāyapravacane ca / prajā ca svādhyāyapravacane ca / prajanaśca svādhyāyapravacane ca / prajātiśca svādhyāyapravacane ca / satyamiti satyavacā rāthītaraḥ / tapa iti taponityaḥ pauruśiṣṭiḥ / svādhyāyapravacane eveti nāko maudagalyaḥ / taddhi tapastaddhi tapaḥ //",
+          "segment_number": 26
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti navamo 'nuvākaḥ // 9 //"
+          "text": "iti navamo 'nuvākaḥ // 9 //",
+          "segment_number": 27
         },
         {
           "tag": "note",
@@ -864,12 +891,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.10.1"
           },
-          "text": "ahaṃ vṛkṣasya rerivā / kīrtiḥ pṛṣṭhaṃ gireriva / ūrdhvapavitro vājinīva svamṛtamasmi / draviṇaṃ savarcasam / sumedha amṛtokṣitaḥ / iti triśaṅkorvedānuvacanam //"
+          "text": "ahaṃ vṛkṣasya rerivā / kīrtiḥ pṛṣṭhaṃ gireriva / ūrdhvapavitro vājinīva svamṛtamasmi / draviṇaṃ savarcasam / sumedha amṛtokṣitaḥ / iti triśaṅkorvedānuvacanam //",
+          "segment_number": 28
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti daśamo 'nuvākaḥ // 10 //"
+          "text": "iti daśamo 'nuvākaḥ // 10 //",
+          "segment_number": 29
         },
         {
           "tag": "note",
@@ -907,33 +936,38 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.1"
           },
-          "text": "vedamanūcyācāryontevāsinamanuśāsti / satyaṃ vada / dharmaṃ cara / svādhyāyānmā pramadaḥ / ācāryāya priyaṃ dhanamāhṛtya prajātantuṃ mā vyavacchetsīḥ / satyānna pramaditavyam / dharmānna pramaditavyam / kuśalānna pramaditavyam / bhūtyaina pramaditavyam / svādhyāyapravacanābhyāṃ na pramaditavyam //"
+          "text": "vedamanūcyācāryontevāsinamanuśāsti / satyaṃ vada / dharmaṃ cara / svādhyāyānmā pramadaḥ / ācāryāya priyaṃ dhanamāhṛtya prajātantuṃ mā vyavacchetsīḥ / satyānna pramaditavyam / dharmānna pramaditavyam / kuśalānna pramaditavyam / bhūtyaina pramaditavyam / svādhyāyapravacanābhyāṃ na pramaditavyam //",
+          "segment_number": 30
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.2"
           },
-          "text": "devapitṛkāryābhyāṃ na pramaditavyam / mātṛdevo bhava / pitṛdevo bhava / ācāryadevo bhava / atithidevo bhava / yānyanavadyāni karmāṇi / tāni sevitavyāni / no itarāṇi / yānyasmākaṃ sucaritāni / tāni tvayopāsyāni //"
+          "text": "devapitṛkāryābhyāṃ na pramaditavyam / mātṛdevo bhava / pitṛdevo bhava / ācāryadevo bhava / atithidevo bhava / yānyanavadyāni karmāṇi / tāni sevitavyāni / no itarāṇi / yānyasmākaṃ sucaritāni / tāni tvayopāsyāni //",
+          "segment_number": 31
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.3"
           },
-          "text": "no itarāṇi / ye ke cārumacchreyāṃso brāhmaṇāḥ / teṣāṃ tvayāsanena praśvasitavyam / śraddhayā deyam / aśraddhayādeyam / śriyā deyam / hriyā deyam / bhiyā deyam / saṃvidā deyam / atha yadi te karmavicikitsā vā vṛttavicikitsā vā syāt //"
+          "text": "no itarāṇi / ye ke cārumacchreyāṃso brāhmaṇāḥ / teṣāṃ tvayāsanena praśvasitavyam / śraddhayā deyam / aśraddhayādeyam / śriyā deyam / hriyā deyam / bhiyā deyam / saṃvidā deyam / atha yadi te karmavicikitsā vā vṛttavicikitsā vā syāt //",
+          "segment_number": 32
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.4"
           },
-          "text": "ye tatra brāhmaṇāḥ saṃmarśinaḥ / yuktā āyuktāḥ / alūkṣā dharmakāmāḥ syuḥ / yathā te tatra varteran / tathā tatra vartethāḥ / athābhyākhyāteṣu / ye tatra brāhmaṇāḥ saṃmarśinaḥ / yuktā āyuktāḥ / alūkṣā dharmakāmāḥ syuḥ / yathā te teṣu varteran / tathā teṣu vartethāḥ / eṣa ādeśaḥ / eṣa upadeśaḥ / eṣā vedopaniṣat / etadanuśāsanam / evamupāsitavyam / evamu caitadupāsyam //"
+          "text": "ye tatra brāhmaṇāḥ saṃmarśinaḥ / yuktā āyuktāḥ / alūkṣā dharmakāmāḥ syuḥ / yathā te tatra varteran / tathā tatra vartethāḥ / athābhyākhyāteṣu / ye tatra brāhmaṇāḥ saṃmarśinaḥ / yuktā āyuktāḥ / alūkṣā dharmakāmāḥ syuḥ / yathā te teṣu varteran / tathā teṣu vartethāḥ / eṣa ādeśaḥ / eṣa upadeśaḥ / eṣā vedopaniṣat / etadanuśāsanam / evamupāsitavyam / evamu caitadupāsyam //",
+          "segment_number": 33
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti ekādaśo 'nuvākaḥ // 11 //"
+          "text": "iti ekādaśo 'nuvākaḥ // 11 //",
+          "segment_number": 34
         },
         {
           "tag": "note",
@@ -1617,12 +1651,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.12.1"
           },
-          "text": "śaṃ no mitraḥ śaṃ varuṇaḥ / śaṃ no bhavatvaryamā / śaṃ na indro bṛhaspatiḥ / śaṃ no viṣṇururukramaḥ / namo brahmaṇe / namaste vāyo / tvameva pratyakṣaṃ brahmāsi / tvāmeva pratyakṣaṃ brahmāvādiṣam / ṛtamavādiṣam / satyamavādiṣam / tanmāmāvīt / tadvaktāramāvīt / āvīnmām / āvīt vaktāram / oṃ śāntiḥ śāntiḥ śāntiḥ //"
+          "text": "śaṃ no mitraḥ śaṃ varuṇaḥ / śaṃ no bhavatvaryamā / śaṃ na indro bṛhaspatiḥ / śaṃ no viṣṇururukramaḥ / namo brahmaṇe / namaste vāyo / tvameva pratyakṣaṃ brahmāsi / tvāmeva pratyakṣaṃ brahmāvādiṣam / ṛtamavādiṣam / satyamavādiṣam / tanmāmāvīt / tadvaktāramāvīt / āvīnmām / āvīt vaktāram / oṃ śāntiḥ śāntiḥ śāntiḥ //",
+          "segment_number": 35
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti dvādaśo 'nuvākaḥ // 12 //"
+          "text": "iti dvādaśo 'nuvākaḥ // 12 //",
+          "segment_number": 36
         },
         {
           "tag": "note",
@@ -1661,7 +1697,8 @@
         {
           "tag": "head",
           "attributes": {},
-          "text": "brahmānandavallī"
+          "text": "brahmānandavallī",
+          "segment_number": 37
         },
         {
           "tag": "note",
@@ -1682,12 +1719,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.1.1"
           },
-          "text": "oṃ brahmavidāpnoti param / tadeṣābhuktā / satyaṃ jñānamanantaṃ brahma / yo veda nihitaṃ guhāyāṃ parame vyoman / so 'śnute sarvān kāmān saha / brahmaṇā vipaściteti / tasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ / ākāśādvāyuḥ / vāyoragniḥ / agnerāpaḥ / adabhyaḥ pṛthivī / pṛthivyā oṣadhayaḥ / oṣadhībhyonnam / annātpuruṣaḥ / sa vā eṣa puruṣo 'nnnarasamayaḥ / tasyedameva śiraḥ / ayaṃ dakṣiṇaḥ pakṣaḥ / ayamuttaraḥ pakṣaḥ / ayamātmā / idaṃ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //"
+          "text": "oṃ brahmavidāpnoti param / tadeṣābhuktā / satyaṃ jñānamanantaṃ brahma / yo veda nihitaṃ guhāyāṃ parame vyoman / so 'śnute sarvān kāmān saha / brahmaṇā vipaściteti / tasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ / ākāśādvāyuḥ / vāyoragniḥ / agnerāpaḥ / adabhyaḥ pṛthivī / pṛthivyā oṣadhayaḥ / oṣadhībhyonnam / annātpuruṣaḥ / sa vā eṣa puruṣo 'nnnarasamayaḥ / tasyedameva śiraḥ / ayaṃ dakṣiṇaḥ pakṣaḥ / ayamuttaraḥ pakṣaḥ / ayamātmā / idaṃ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
+          "segment_number": 38
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti prathamo 'nuvākaḥ // 1 //"
+          "text": "iti prathamo 'nuvākaḥ // 1 //",
+          "segment_number": 39
         },
         {
           "tag": "note",
@@ -2369,12 +2408,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.2.1"
           },
-          "text": "annādvai prajāḥ prajāyante / yāḥ kāśca pṛthivīṃśritāḥ / atho annenaiva jīvanti / athainadapi yantyantataḥ / annaṃ hi bhūtānāṃ jyeṣṭham / tasmāt sarvauṣadhamucyate / sarvaṃ vai te 'nnamāpnuvanti / ye 'nnaṃ brahmopāsate / annaṃ hi bhūtānāṃ jyeṣṭham / tasmāt sarvauṣadhamucyate / annādbhūtāni jāyante / jātānyannena vardhante / adyate 'tti ca bhūtāni / tasmādannaṃ taducyata iti / tasmādvā etasmādannarasamayāt / anyo 'ntara ātmā prāṇamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya prāṇa eva śiraḥ / vyāno dakṣiṇaḥ pakṣaḥ / apāna uttaraḥ pakṣaḥ / ākāśa ātmā / pṛthivī pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //"
+          "text": "annādvai prajāḥ prajāyante / yāḥ kāśca pṛthivīṃśritāḥ / atho annenaiva jīvanti / athainadapi yantyantataḥ / annaṃ hi bhūtānāṃ jyeṣṭham / tasmāt sarvauṣadhamucyate / sarvaṃ vai te 'nnamāpnuvanti / ye 'nnaṃ brahmopāsate / annaṃ hi bhūtānāṃ jyeṣṭham / tasmāt sarvauṣadhamucyate / annādbhūtāni jāyante / jātānyannena vardhante / adyate 'tti ca bhūtāni / tasmādannaṃ taducyata iti / tasmādvā etasmādannarasamayāt / anyo 'ntara ātmā prāṇamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya prāṇa eva śiraḥ / vyāno dakṣiṇaḥ pakṣaḥ / apāna uttaraḥ pakṣaḥ / ākāśa ātmā / pṛthivī pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
+          "segment_number": 40
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti dvitīyo 'nuvākaḥ // 2 //"
+          "text": "iti dvitīyo 'nuvākaḥ // 2 //",
+          "segment_number": 41
         },
         {
           "tag": "note",
@@ -2447,12 +2488,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.3.1"
           },
-          "text": "prāṇaṃ devā anu prāṇanti / manuṣyāḥ paśavaśca ye / prāṇo hi bhūtānāmāyuḥ / tasmāt sarvāyuṣamucyate / sarvameva ta āyuryanti / ye prāṇaṃ brahmopāsate / prāṇo hi bhūtānāmāyuḥ / tasmāt sarvāyuṣamucyata iti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmāt prāṇamayāt / anyo 'ntara ātmā manomayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya yajureva śiraḥ / ṛgdakṣiṇaḥ pakṣaḥ / sāmottaraḥ pakṣaḥ / ādeśa ātmā / atharvāṅgirasaḥ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //"
+          "text": "prāṇaṃ devā anu prāṇanti / manuṣyāḥ paśavaśca ye / prāṇo hi bhūtānāmāyuḥ / tasmāt sarvāyuṣamucyate / sarvameva ta āyuryanti / ye prāṇaṃ brahmopāsate / prāṇo hi bhūtānāmāyuḥ / tasmāt sarvāyuṣamucyata iti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmāt prāṇamayāt / anyo 'ntara ātmā manomayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya yajureva śiraḥ / ṛgdakṣiṇaḥ pakṣaḥ / sāmottaraḥ pakṣaḥ / ādeśa ātmā / atharvāṅgirasaḥ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
+          "segment_number": 42
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti tṛtīyo 'nuvākaḥ // 3 //"
+          "text": "iti tṛtīyo 'nuvākaḥ // 3 //",
+          "segment_number": 43
         },
         {
           "tag": "note",
@@ -2573,12 +2616,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.4.1"
           },
-          "text": "yato vāco nivartante / aprāpya manasā saha / ānandaṃ brahmaṇo vidvān / na bibheti kadācaneti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmānmanomayāt / anyontara ātmā vijñānamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya śraddhaiva śiraḥ / ṛtaṃ dakṣiṇaḥ pakṣaḥ / satyamuttaraḥ pakṣaḥ / yoga ātmā / mahaḥ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //"
+          "text": "yato vāco nivartante / aprāpya manasā saha / ānandaṃ brahmaṇo vidvān / na bibheti kadācaneti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmānmanomayāt / anyontara ātmā vijñānamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya śraddhaiva śiraḥ / ṛtaṃ dakṣiṇaḥ pakṣaḥ / satyamuttaraḥ pakṣaḥ / yoga ātmā / mahaḥ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
+          "segment_number": 44
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti caturtho 'nuvākaḥ // 4 //"
+          "text": "iti caturtho 'nuvākaḥ // 4 //",
+          "segment_number": 45
         },
         {
           "tag": "note",
@@ -2624,12 +2669,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.5.1"
           },
-          "text": "vijñānaṃ yajñaṃ tanute / karmāṇi tanute 'pi ca / vijñānaṃ devāḥ sarve / brahma jyeṣṭhamupāsate / vijñānaṃ brahma cedveda / tasmaccenna pramādyati / śarīre pāpmano hitvā / sarvānkāmānsamaśnuta iti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmādvijñānamayāt / anyo 'ntara ātmānandamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya priyameva śiraḥ / modo dakṣiṇaḥ pakṣaḥ / pramoda uttaraḥ pakṣaḥ / ānanda ātmā / brahma pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati // TaittU_2,5.1 //"
+          "text": "vijñānaṃ yajñaṃ tanute / karmāṇi tanute 'pi ca / vijñānaṃ devāḥ sarve / brahma jyeṣṭhamupāsate / vijñānaṃ brahma cedveda / tasmaccenna pramādyati / śarīre pāpmano hitvā / sarvānkāmānsamaśnuta iti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmādvijñānamayāt / anyo 'ntara ātmānandamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya priyameva śiraḥ / modo dakṣiṇaḥ pakṣaḥ / pramoda uttaraḥ pakṣaḥ / ānanda ātmā / brahma pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati // TaittU_2,5.1 //",
+          "segment_number": 46
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti pañcamo 'nuvākaḥ // 5 //"
+          "text": "iti pañcamo 'nuvākaḥ // 5 //",
+          "segment_number": 47
         },
         {
           "tag": "note",
@@ -2799,12 +2846,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.6.1"
           },
-          "text": "asanneva sa bhavati / asadabrahmeti veda cet / asti brahmeti cedveda / santamenaṃ tato viduriti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / athāto 'nupraśnāḥ / utāvidvānamuṃ lokaṃ pretya / kaścana gacchatī3 āho vidvānamuṃ lokaṃ pretya kaścitsamaśnutā3u / so 'kāmayata / bahu syāṃ prajāyeyeti / sa tapo 'tapyata / sa tapastaptvā / idaṃ sarvamasṛjata / yadidaṃ kiñca / tatsṛṣṭvā / tadevānuprāviśat / tadanupraviśya / sacca tyaccābhavat / niruktaṃ cāniruktaṃ ca / nilayanaṃ cānilayanaṃ ca / vijñānaṃ cāvijñānaṃ ca / satyaṃ cānṛtaṃ ca satyamabhavat / yadidaṃ kiñca / tatsatyamityācakṣate / a tadapyeṣa śloko bhavati //"
+          "text": "asanneva sa bhavati / asadabrahmeti veda cet / asti brahmeti cedveda / santamenaṃ tato viduriti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / athāto 'nupraśnāḥ / utāvidvānamuṃ lokaṃ pretya / kaścana gacchatī3 āho vidvānamuṃ lokaṃ pretya kaścitsamaśnutā3u / so 'kāmayata / bahu syāṃ prajāyeyeti / sa tapo 'tapyata / sa tapastaptvā / idaṃ sarvamasṛjata / yadidaṃ kiñca / tatsṛṣṭvā / tadevānuprāviśat / tadanupraviśya / sacca tyaccābhavat / niruktaṃ cāniruktaṃ ca / nilayanaṃ cānilayanaṃ ca / vijñānaṃ cāvijñānaṃ ca / satyaṃ cānṛtaṃ ca satyamabhavat / yadidaṃ kiñca / tatsatyamityācakṣate / a tadapyeṣa śloko bhavati //",
+          "segment_number": 48
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //"
+          "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //",
+          "segment_number": 49
         },
         {
           "tag": "note",
@@ -3111,12 +3160,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.7.1"
           },
-          "text": "asadvā idamagra āsīt / tato vai sadajāyata / tadātmānaṃ svayamakuruta / tasmāttatsukṛtamucyata iti / yadvai tat sukṛtam / raso vai saḥ / rasaṃ hyevāyaṃ labdhvānandī bhavati / ko hyevānyātkaḥ prāṇyāt / yadeṣa ākāśa ānando na syāt / eṣa hyevānandayāti / yadā hyevaiṣa etasminnadṛśye 'nātmye 'nirukte 'nilayane 'bhayaṃ pratiṣṭhāṃ vindate / atha so 'bhayaṃ gato bhavati / yadā hyevaiṣa etasminnudaramantaraṃ kurute / atha tasya bhayaṃ bhavati / tatveva bhayaṃ viduṣo 'manvānasya / tadapyeṣa śloko bhavati //"
+          "text": "asadvā idamagra āsīt / tato vai sadajāyata / tadātmānaṃ svayamakuruta / tasmāttatsukṛtamucyata iti / yadvai tat sukṛtam / raso vai saḥ / rasaṃ hyevāyaṃ labdhvānandī bhavati / ko hyevānyātkaḥ prāṇyāt / yadeṣa ākāśa ānando na syāt / eṣa hyevānandayāti / yadā hyevaiṣa etasminnadṛśye 'nātmye 'nirukte 'nilayane 'bhayaṃ pratiṣṭhāṃ vindate / atha so 'bhayaṃ gato bhavati / yadā hyevaiṣa etasminnudaramantaraṃ kurute / atha tasya bhayaṃ bhavati / tatveva bhayaṃ viduṣo 'manvānasya / tadapyeṣa śloko bhavati //",
+          "segment_number": 50
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti saptamo 'nuvākaḥ // 7 //"
+          "text": "iti saptamo 'nuvākaḥ // 7 //",
+          "segment_number": 51
         },
         {
           "tag": "note",
@@ -3162,28 +3213,32 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.1"
           },
-          "text": "bhīṣāsmādvātaḥ pavate / bhīṣodeti sūryaḥ / bhīṣāsmādagniścendraśca / mṛtyurdhāvati pañcama iti / saiṣānandasya mīmāṃsā bhavati / yuvā syātsādhuyuvādhyāyakaḥ / āśiṣṭho dṛḍhiṣṭho baliṣṭhaḥ / tasyeyaṃ pṛthivī sarvā vittasya pūrṇā syāt / sa eko mānuṣa ānandaḥ / te ye śataṃ mānuṣā ānandāḥ //"
+          "text": "bhīṣāsmādvātaḥ pavate / bhīṣodeti sūryaḥ / bhīṣāsmādagniścendraśca / mṛtyurdhāvati pañcama iti / saiṣānandasya mīmāṃsā bhavati / yuvā syātsādhuyuvādhyāyakaḥ / āśiṣṭho dṛḍhiṣṭho baliṣṭhaḥ / tasyeyaṃ pṛthivī sarvā vittasya pūrṇā syāt / sa eko mānuṣa ānandaḥ / te ye śataṃ mānuṣā ānandāḥ //",
+          "segment_number": 52
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.2"
           },
-          "text": "sa eko manuṣyagandharvāṇāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ manuṣyagandharvāṇāmānandāḥ / sa eko devagandharvāṇāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ devagandharvāṇāmānandāḥ / sa ekaḥ pitṝṇāṃ ciralokalokānāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ pitṝṇāṃ ciralokalokānāmānandāḥ / sa eka ājānajānāṃ devānāmānandaḥ //"
+          "text": "sa eko manuṣyagandharvāṇāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ manuṣyagandharvāṇāmānandāḥ / sa eko devagandharvāṇāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ devagandharvāṇāmānandāḥ / sa ekaḥ pitṝṇāṃ ciralokalokānāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ pitṝṇāṃ ciralokalokānāmānandāḥ / sa eka ājānajānāṃ devānāmānandaḥ //",
+          "segment_number": 53
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.3"
           },
-          "text": "śrotriyasya cākāmahatasya / te ye śatam ājānajānāṃ devānāmānandāḥ / sa ekaḥ karmadevānāṃ devānāmānandaḥ / ye karmaṇā devānapiyanti / śrotriyasya cākāmahatasya / te ye śataṃ karmadevānāṃ devānāmānandāḥ / sa eko devānāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ devānāmānandāḥ / sa eka indrasyānandaḥ //"
+          "text": "śrotriyasya cākāmahatasya / te ye śatam ājānajānāṃ devānāmānandāḥ / sa ekaḥ karmadevānāṃ devānāmānandaḥ / ye karmaṇā devānapiyanti / śrotriyasya cākāmahatasya / te ye śataṃ karmadevānāṃ devānāmānandāḥ / sa eko devānāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ devānāmānandāḥ / sa eka indrasyānandaḥ //",
+          "segment_number": 54
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.4"
           },
-          "text": "śrotriyasya cākāmahatasya / te ye śatamindrasyānandāḥ / sa eko bṛhaspaterānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ bṛhaspaterānandāḥ / sa ekaḥ prajāpaterānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ prajāpaterānandāḥ / sa eko brahmaṇa ānandaḥ / śrotriyasya cākāmahatasya //"
+          "text": "śrotriyasya cākāmahatasya / te ye śatamindrasyānandāḥ / sa eko bṛhaspaterānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ bṛhaspaterānandāḥ / sa ekaḥ prajāpaterānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ prajāpaterānandāḥ / sa eko brahmaṇa ānandaḥ / śrotriyasya cākāmahatasya //",
+          "segment_number": 55
         },
         {
           "tag": "note",
@@ -3229,12 +3284,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.5"
           },
-          "text": "sa yaścāyaṃ puruṣe / yaścāsāvāditye / sa ekaḥ / sa ya evaṃvit / asmāllokātpretya / etamannamayamātmānamupasaṅkrāmati / etaṃ prāṇamayamātmānamupasaṅkrāmati / etaṃ manomayamātmānamupasaṅkrāmati / etaṃ vijñānamayamātmānamupasaṅkrāmati / etamānandamayamātmānamupasaṅkrāmati / tadapyeṣa śloko bhavati //"
+          "text": "sa yaścāyaṃ puruṣe / yaścāsāvāditye / sa ekaḥ / sa ya evaṃvit / asmāllokātpretya / etamannamayamātmānamupasaṅkrāmati / etaṃ prāṇamayamātmānamupasaṅkrāmati / etaṃ manomayamātmānamupasaṅkrāmati / etaṃ vijñānamayamātmānamupasaṅkrāmati / etamānandamayamātmānamupasaṅkrāmati / tadapyeṣa śloko bhavati //",
+          "segment_number": 56
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti aṣṭamo 'nuvākaḥ // 8 //"
+          "text": "iti aṣṭamo 'nuvākaḥ // 8 //",
+          "segment_number": 57
         },
         {
           "tag": "note",
@@ -3590,17 +3647,20 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.9.1"
           },
-          "text": "yato vāco nivartante / aprāpya manasā saha / ānandaṃ brahmaṇo vidvān / na bibheti kutaścaneti / etaṃ ha vāva na tapati / kimahaṃ sādhu nākaravam / kimahaṃ pāpamakaravamiti / sa ya evaṃ vidvānete ātmānaṃ spṛṇute / ubhe hyevaiṣa ete ātmānaṃ spṛṇute / ya evaṃ veda / ityupaniṣat //"
+          "text": "yato vāco nivartante / aprāpya manasā saha / ānandaṃ brahmaṇo vidvān / na bibheti kutaścaneti / etaṃ ha vāva na tapati / kimahaṃ sādhu nākaravam / kimahaṃ pāpamakaravamiti / sa ya evaṃ vidvānete ātmānaṃ spṛṇute / ubhe hyevaiṣa ete ātmānaṃ spṛṇute / ya evaṃ veda / ityupaniṣat //",
+          "segment_number": 58
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti navamo 'nuvākaḥ // 9 //"
+          "text": "iti navamo 'nuvākaḥ // 9 //",
+          "segment_number": 59
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti brahmavallī //"
+          "text": "iti brahmavallī //",
+          "segment_number": 60
         },
         {
           "tag": "note",
@@ -3634,7 +3694,8 @@
         {
           "tag": "head",
           "attributes": {},
-          "text": "bhṛguvallī"
+          "text": "bhṛguvallī",
+          "segment_number": 61
         },
         {
           "tag": "note",
@@ -3683,12 +3744,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.1.1"
           },
-          "text": "bhṛgurvai vāruṇiḥ / varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / tasmā etatprovāca / annaṃ prāṇaṃ cakṣuḥ śrotraṃ mano vācamiti / taṃ hovāca / yato vā imāni bhūtāni jāyante / yena jātāni jīvanti / yatprayanyabhisaṃviśanti / tadvijijñāsasva / tadbrahmeti / sa tapo 'tapyata / sa tapastaptvā //"
+          "text": "bhṛgurvai vāruṇiḥ / varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / tasmā etatprovāca / annaṃ prāṇaṃ cakṣuḥ śrotraṃ mano vācamiti / taṃ hovāca / yato vā imāni bhūtāni jāyante / yena jātāni jīvanti / yatprayanyabhisaṃviśanti / tadvijijñāsasva / tadbrahmeti / sa tapo 'tapyata / sa tapastaptvā //",
+          "segment_number": 62
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti prathamo 'nuvākaḥ // 1 //"
+          "text": "iti prathamo 'nuvākaḥ // 1 //",
+          "segment_number": 63
         },
         {
           "tag": "note",
@@ -3756,12 +3819,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.2.1"
           },
-          "text": "annaṃ brahmeti vyajānāt / annādadhyeva khalvimāni bhutāni jāyante / annena jātāni jīvanti / annaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //"
+          "text": "annaṃ brahmeti vyajānāt / annādadhyeva khalvimāni bhutāni jāyante / annena jātāni jīvanti / annaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //",
+          "segment_number": 64
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti dvitīyo 'nuvākaḥ // 2 //"
+          "text": "iti dvitīyo 'nuvākaḥ // 2 //",
+          "segment_number": 65
         },
         {
           "tag": "note",
@@ -3790,48 +3855,56 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.3.1"
           },
-          "text": "prāṇo brahmeti vyajānāt / prāṇādadhyeva khalvimāni bhūtāni jāyante / prāṇena jātāni jīvanti / prāṇaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā // 1 //"
+          "text": "prāṇo brahmeti vyajānāt / prāṇādadhyeva khalvimāni bhūtāni jāyante / prāṇena jātāni jīvanti / prāṇaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā // 1 //",
+          "segment_number": 66
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti tṛtīyo 'nuvākaḥ // 3 //"
+          "text": "iti tṛtīyo 'nuvākaḥ // 3 //",
+          "segment_number": 67
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.4.1"
           },
-          "text": "mano brahmeti vyajānāt / manaso hyeva khalvimāni bhūtāni jāyante / manasā jātāni jīvanti / manaḥ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //"
+          "text": "mano brahmeti vyajānāt / manaso hyeva khalvimāni bhūtāni jāyante / manasā jātāni jīvanti / manaḥ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //",
+          "segment_number": 68
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti caturtho 'nuvākaḥ // 4 //"
+          "text": "iti caturtho 'nuvākaḥ // 4 //",
+          "segment_number": 69
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.5.1"
           },
-          "text": "vijñānaṃ brahmeti vyajānāt / vijñānādadhyeva khalvimāni bhūtāni jāyante / vijñānena jātāni jīvanti / vijñānaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //"
+          "text": "vijñānaṃ brahmeti vyajānāt / vijñānādadhyeva khalvimāni bhūtāni jāyante / vijñānena jātāni jīvanti / vijñānaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //",
+          "segment_number": 70
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti pañcamo 'nuvākaḥ // 5 //"
+          "text": "iti pañcamo 'nuvākaḥ // 5 //",
+          "segment_number": 71
         },
         {
           "tag": "p",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.6.1"
           },
-          "text": "ānando brahmeti vyajānāt / ānandādhyeva khalvimāni bhūtāni jāyante / ānandena jātāni jīvanti / ānandaṃ prayantyabhisaṃviśantīti / saiṣā bhārgavī vāruṇī vidyā / parame vyomanpratiṣṭhitā / sa ya evaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //"
+          "text": "ānando brahmeti vyajānāt / ānandādhyeva khalvimāni bhūtāni jāyante / ānandena jātāni jīvanti / ānandaṃ prayantyabhisaṃviśantīti / saiṣā bhārgavī vāruṇī vidyā / parame vyomanpratiṣṭhitā / sa ya evaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //",
+          "segment_number": 72
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //"
+          "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //",
+          "segment_number": 73
         },
         {
           "tag": "note",
@@ -3853,12 +3926,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.7.1"
           },
-          "text": "annaṃ na nindyāt / tadavratam / prāṇo vā annam / śarīramannādam / prāṇe śarīraṃ pratiṣṭhitam / śarīre prāṇaḥ pratiṣṭhitaḥ / tadetadannmanne pratiṣṭhitam / sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //"
+          "text": "annaṃ na nindyāt / tadavratam / prāṇo vā annam / śarīramannādam / prāṇe śarīraṃ pratiṣṭhitam / śarīre prāṇaḥ pratiṣṭhitaḥ / tadetadannmanne pratiṣṭhitam / sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //",
+          "segment_number": 74
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti saptamo 'nuvākaḥ // 7 //"
+          "text": "iti saptamo 'nuvākaḥ // 7 //",
+          "segment_number": 75
         },
         {
           "tag": "note",
@@ -3880,12 +3955,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.8.1"
           },
-          "text": "annaṃ na paricakṣīta / tadavratam / āpo vā annam / jyotirannādam / apsu jyotiḥ pratiṣṭhitam / jyotiṣyāpaḥ pratiṣṭhitāḥ / tadetadannamanne pratiṣṭhitam /sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //"
+          "text": "annaṃ na paricakṣīta / tadavratam / āpo vā annam / jyotirannādam / apsu jyotiḥ pratiṣṭhitam / jyotiṣyāpaḥ pratiṣṭhitāḥ / tadetadannamanne pratiṣṭhitam /sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //",
+          "segment_number": 76
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti aṣṭamo 'nuvākaḥ // 8 //"
+          "text": "iti aṣṭamo 'nuvākaḥ // 8 //",
+          "segment_number": 77
         },
         {
           "tag": "note",
@@ -3907,12 +3984,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.9.1"
           },
-          "text": "annaṃ bahu kurvīta / tadavratam / pṛthivī vā annam / ākāśo 'nnādaḥ / pṛthivyāmākāśaḥ pratiṣṭhitaḥ / ākāśe pṛthivī pratiṣṭhitā / tadetadannamanne pratiṣṭhitam / sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahānkīrtyā //"
+          "text": "annaṃ bahu kurvīta / tadavratam / pṛthivī vā annam / ākāśo 'nnādaḥ / pṛthivyāmākāśaḥ pratiṣṭhitaḥ / ākāśe pṛthivī pratiṣṭhitā / tadetadannamanne pratiṣṭhitam / sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahānkīrtyā //",
+          "segment_number": 78
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti navamo 'nuvākaḥ // 9 //"
+          "text": "iti navamo 'nuvākaḥ // 9 //",
+          "segment_number": 79
         },
         {
           "tag": "note",
@@ -3934,7 +4013,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.1"
           },
-          "text": "na kañcana vasatau pratyācakṣīta / tadavratam / tasmādyayā kayā ca vidhayā bahvannaṃ prāpnuyāt / arādhyasmā annamityācakṣate / etadvai mukhato 'naṃ rāddham / mukhato 'smā annaṃ rādhyate / etadvai madhyato 'naṃ rāddham / madhyato 'smā annaṃ rādhyate / edadvai antato 'nnaṃ rāddham / antato 'smā annaṃ rādhyate //"
+          "text": "na kañcana vasatau pratyācakṣīta / tadavratam / tasmādyayā kayā ca vidhayā bahvannaṃ prāpnuyāt / arādhyasmā annamityācakṣate / etadvai mukhato 'naṃ rāddham / mukhato 'smā annaṃ rādhyate / etadvai madhyato 'naṃ rāddham / madhyato 'smā annaṃ rādhyate / edadvai antato 'nnaṃ rāddham / antato 'smā annaṃ rādhyate //",
+          "segment_number": 80
         },
         {
           "tag": "note",
@@ -3956,7 +4036,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.2"
           },
-          "text": "kṣema iti vāci / yogakṣema iti prāṇāpānayoḥ / karmeti hastayoḥ / gatiriti pādayoḥ / vimuktiriti pāyau / iti mānuṣīḥ samājñāḥ / atha daivīḥ / tṛptiriti vṛṣṭau / balamiti vidyuti //"
+          "text": "kṣema iti vāci / yogakṣema iti prāṇāpānayoḥ / karmeti hastayoḥ / gatiriti pādayoḥ / vimuktiriti pāyau / iti mānuṣīḥ samājñāḥ / atha daivīḥ / tṛptiriti vṛṣṭau / balamiti vidyuti //",
+          "segment_number": 81
         },
         {
           "tag": "note",
@@ -3978,7 +4059,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.3"
           },
-          "text": "yaśa iti paśuṣu / jyotiriti nakṣatreṣu / prajātiramṛtamānanda ityupasthe / sarvamityākāśe / tatpratiṣṭhetyupāsīta / pratiṣṭhāvān bhavati / tanmaha ityupāsīta / mahānbhavati / tanmana ityupāsīta / mānavānbhavati //"
+          "text": "yaśa iti paśuṣu / jyotiriti nakṣatreṣu / prajātiramṛtamānanda ityupasthe / sarvamityākāśe / tatpratiṣṭhetyupāsīta / pratiṣṭhāvān bhavati / tanmaha ityupāsīta / mahānbhavati / tanmana ityupāsīta / mānavānbhavati //",
+          "segment_number": 82
         },
         {
           "tag": "note",
@@ -4024,7 +4106,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.4"
           },
-          "text": "tannama ityupāsīta / namyante 'smai kāmāḥ / tadabrahmetyupāsīta / brahmavānbhavati / tadabrahmaṇaḥ parimara ityupāsīta / paryeṇaṃ mriyante dviṣantaḥ sapatnāḥ / pari ye 'priyā bhrātṛvyāḥ / sa yaścāyaṃ puruṣe / yaścāsāvāditye / sa ekaḥ //"
+          "text": "tannama ityupāsīta / namyante 'smai kāmāḥ / tadabrahmetyupāsīta / brahmavānbhavati / tadabrahmaṇaḥ parimara ityupāsīta / paryeṇaṃ mriyante dviṣantaḥ sapatnāḥ / pari ye 'priyā bhrātṛvyāḥ / sa yaścāyaṃ puruṣe / yaścāsāvāditye / sa ekaḥ //",
+          "segment_number": 83
         },
         {
           "tag": "note",
@@ -4158,7 +4241,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.5"
           },
-          "text": "sa ya evaṃvit / asmāllokātpretya / etamannamayamātmānamupasaṅkramya /etaṃ prāṇamayamātmānamupasaṅkramya / etaṃ manomayamātmānamupasaṅkramya / etaṃ vijñānamayamātmānamupasaṅkramya / etamānandamayamātmānamupasaṅkramya / imāṃllokankāmānnī kāmarūpyanusañcaran / etat sāma gāyannāste / hā3vu hā3vu hā3vu //"
+          "text": "sa ya evaṃvit / asmāllokātpretya / etamannamayamātmānamupasaṅkramya /etaṃ prāṇamayamātmānamupasaṅkramya / etaṃ manomayamātmānamupasaṅkramya / etaṃ vijñānamayamātmānamupasaṅkramya / etamānandamayamātmānamupasaṅkramya / imāṃllokankāmānnī kāmarūpyanusañcaran / etat sāma gāyannāste / hā3vu hā3vu hā3vu //",
+          "segment_number": 84
         },
         {
           "tag": "note",
@@ -4204,12 +4288,14 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.6"
           },
-          "text": "ahamannamahamannamahamannam / ahamannādo3 'hamannādo3 'hamannādaḥ / ahaṃ ślokakṛdahaṃ ślokakṛdahaṃ ślokakṛt / ahamasmi prathamajā ṛtā3sya / pūrvaṃ devebhyo 'mṛtasya nā3bhāyi / yo mā dadāti sa ideva mā3vāḥ / ahamannamannamadantamā3dmi / ahaṃ viśvaṃ bhuvanamabhyabhavā3m / suvarna jyotiḥ / ya evaṃ veda / ityupaniṣat //"
+          "text": "ahamannamahamannamahamannam / ahamannādo3 'hamannādo3 'hamannādaḥ / ahaṃ ślokakṛdahaṃ ślokakṛdahaṃ ślokakṛt / ahamasmi prathamajā ṛtā3sya / pūrvaṃ devebhyo 'mṛtasya nā3bhāyi / yo mā dadāti sa ideva mā3vāḥ / ahamannamannamadantamā3dmi / ahaṃ viśvaṃ bhuvanamabhyabhavā3m / suvarna jyotiḥ / ya evaṃ veda / ityupaniṣat //",
+          "segment_number": 85
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "iti daśamo 'nuvākaḥ // iti bhugṛvallī // iti taittirīyopaniṣat //"
+          "text": "iti daśamo 'nuvākaḥ // iti bhugṛvallī // iti taittirīyopaniṣat //",
+          "segment_number": 86
         },
         {
           "tag": "note",

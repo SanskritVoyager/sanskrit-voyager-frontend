@@ -42,62 +42,74 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Explanatory Remarks"
+          "text": "Explanatory Remarks",
+          "segment_number": 1
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "A number of five figures at the left side indicates the location of the key word\nin the basic texts. In the case of the SV, the HB and the VN, the first three figures\nindicate the page number, and the last two indicate the line number (for example,\nSV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the\nPV and the NB, the second figure indicates the chapter number and the last three\nfigures indicate the karika or sutra number (for example, PV02232=PV, the\nPramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra 15.\nIn the case of the SP, the last two figures indicate the karika number (for example,\nSP00015=SP, v.15)."
+          "text": "A number of five figures at the left side indicates the location of the key word\nin the basic texts. In the case of the SV, the HB and the VN, the first three figures\nindicate the page number, and the last two indicate the line number (for example,\nSV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the\nPV and the NB, the second figure indicates the chapter number and the last three\nfigures indicate the karika or sutra number (for example, PV02232=PV, the\nPramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra 15.\nIn the case of the SP, the last two figures indicate the karika number (for example,\nSP00015=SP, v.15).",
+          "segment_number": 2
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3. In this database, sentences are artificially divided into word-units, although they\ninvolve a phonetic fusion or union in the basic texts. Further, compound words are\ndivided into their shortest constitutive elements (we use a hyphen to indicate that\nhyphenated elements originally form a compound word) with the following\nexceptions:"
+          "text": "3. In this database, sentences are artificially divided into word-units, although they\ninvolve a phonetic fusion or union in the basic texts. Further, compound words are\ndivided into their shortest constitutive elements (we use a hyphen to indicate that\nhyphenated elements originally form a compound word) with the following\nexceptions:",
+          "segment_number": 3
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of attachment to\nwords or compound words."
+          "text": "3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of attachment to\nwords or compound words.",
+          "segment_number": 4
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But suffixes\nmaking a possessive adjective, for example -vat, -mat, remain undivided, and terms\nsuch as a numeral+ -dha/-vidha/-prakara remain also undivided."
+          "text": "3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But suffixes\nmaking a possessive adjective, for example -vat, -mat, remain undivided, and terms\nsuch as a numeral+ -dha/-vidha/-prakara remain also undivided.",
+          "segment_number": 5
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta fundamentally\nremain undivided. For example: karyakaranabhava/-bhuta/-ta."
+          "text": "3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta fundamentally\nremain undivided. For example: karyakaranabhava/-bhuta/-ta.",
+          "segment_number": 6
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the\nwordhead fundamentally remain undivided. For example: evamjatiya, tadutpatti,\ntathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava."
+          "text": "3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the\nwordhead fundamentally remain undivided. For example: evamjatiya, tadutpatti,\ntathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.",
+          "segment_number": 7
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.5. Some compound words which are regarded as terminology remain also\nundivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,\nparamartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,\nsamtanaparinama, samanyalaksana, svabhavapratibandha."
+          "text": "3.5. Some compound words which are regarded as terminology remain also\nundivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,\nparamartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,\nsamtanaparinama, samanyalaksana, svabhavapratibandha.",
+          "segment_number": 8
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "4. Those terms whose wordhead is subject to the Sandhi rules (for example, -d\ndhetu-) are cited in their original form (for example, -d *hetu-) for the sake of\nusing this database to make an KWIC index."
+          "text": "4. Those terms whose wordhead is subject to the Sandhi rules (for example, -d\ndhetu-) are cited in their original form (for example, -d *hetu-) for the sake of\nusing this database to make an KWIC index.",
+          "segment_number": 9
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "1. August. 1997 / Tsukuba\nMotoi ONO"
+          "text": "1. August. 1997 / Tsukuba\nMotoi ONO",
+          "segment_number": 10
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "Note:\n  This database is quite a tentative one, and I must admit that there are a lot of\nerrors and defects in this version. I would appreciate it very much if the user would\npoint out any errors in this version so that we can make a better new version in the\nfuture."
+          "text": "Note:\n  This database is quite a tentative one, and I must admit that there are a lot of\nerrors and defects in this version. I would appreciate it very much if the user would\npoint out any errors in this version so that we can make a better new version in the\nfuture.",
+          "segment_number": 11
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "E-mail: ono@logos.tsukuba.ac.jp"
+          "text": "E-mail: ono@logos.tsukuba.ac.jp",
+          "segment_number": 12
         }
       ]
     },
@@ -117,21 +129,25 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "00103 nigṛhṇanti, tan-niṣedha-artham idam ārabhyate."
+                  "text": "00103 nigṛhṇanti, tan-niṣedha-artham idam ārabhyate.",
+                  "segment_number": 14
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "00104 asādhana-aṅga-vacanam adoṣa-udbhāvanaṃ dvayoḥ /"
+                  "text": "00104 asādhana-aṅga-vacanam adoṣa-udbhāvanaṃ dvayoḥ /",
+                  "segment_number": 15
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "00105 nigrahasthānam, anyat tu na yuktam iti na iṣyate //1//"
+                  "text": "00105 nigrahasthānam, anyat tu na yuktam iti na iṣyate //1//",
+                  "segment_number": 16
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 13
         },
         {
           "tag": "p",
@@ -145,26 +161,31 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "05008 hasati hasati svāminy uccai rudaty atiroditi /"
+                  "text": "05008 hasati hasati svāminy uccai rudaty atiroditi /",
+                  "segment_number": 18
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "05009 kṛta-parikaraṃ sveda-udgāraṃ pradhāvati dhāvati /"
+                  "text": "05009 kṛta-parikaraṃ sveda-udgāraṃ pradhāvati dhāvati /",
+                  "segment_number": 19
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "05010 guṇa-samuditaṃ doṣa-apetaṃ praṇindati nindati /"
+                  "text": "05010 guṇa-samuditaṃ doṣa-apetaṃ praṇindati nindati /",
+                  "segment_number": 20
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "05011 dhana-lava-parikrītaṃ yantraṃ pranṛtyati nṛtyati //2//"
+                  "text": "05011 dhana-lava-parikrītaṃ yantraṃ pranṛtyati nṛtyati //2//",
+                  "segment_number": 21
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 17
         },
         {
           "tag": "p",
@@ -178,31 +199,37 @@
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "06810 loke avidyā-timira-paṭala-ullekhanas tattva-dṛṣṭer"
+                  "text": "06810 loke avidyā-timira-paṭala-ullekhanas tattva-dṛṣṭer",
+                  "segment_number": 23
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "06811 vādanyāyaḥ parahita-ratair eṣa sadbhiḥ praṇītaḥ /"
+                  "text": "06811 vādanyāyaḥ parahita-ratair eṣa sadbhiḥ praṇītaḥ /",
+                  "segment_number": 24
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "06812 tattva-ālokaṃ timirayati taṃ durvidagdho jano ayaṃ"
+                  "text": "06812 tattva-ālokaṃ timirayati taṃ durvidagdho jano ayaṃ",
+                  "segment_number": 25
                 },
                 {
                   "tag": "l",
                   "attributes": {},
-                  "text": "06813 tasmād yatnaḥ kṛta iha mayā tat-samujjvālanāya //3//"
+                  "text": "06813 tasmād yatnaḥ kṛta iha mayā tat-samujjvālanāya //3//",
+                  "segment_number": 26
                 }
               ]
             }
-          ]
+          ],
+          "segment_number": 22
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "06814 vādanyāyo nāma prakaraṇaṃ samāptam."
+          "text": "06814 vādanyāyo nāma prakaraṇaṃ samāptam.",
+          "segment_number": 27
         }
       ]
     }

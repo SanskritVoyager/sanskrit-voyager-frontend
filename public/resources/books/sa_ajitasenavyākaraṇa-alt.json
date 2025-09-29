@@ -43,14 +43,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Ajitasenavyākaraṇam"
+          "text": "Ajitasenavyākaraṇam",
+          "segment_number": 1
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "// om namaḥ sarvajñāya //"
+      "text": "// om namaḥ sarvajñāya //",
+      "segment_number": 2
     },
     {
       "tag": "p",
@@ -62,11 +64,32 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 104"
+          "text": "Asv 104",
+          "segment_number": 4
         },
         {
           "tag": "text",
-          "text": ") sma / gacchānanda pātraṃ cakrikaṃ śikyamānaya / athāyuṣmānānando bhagavataḥ śrutamātreṇa pātraṃ cakrikaṃ śikyaṃ bhagavate upanāmayāmāsa / athāyuṣmānānando bhagavataḥ kṛtāñjalipuṭo bhagavantaṃ gāthābhiradhyabhāṣata /"
+          "text": ") sma / gacchānanda pātraṃ cakrikaṃ śikyamānaya / athāyuṣmānānando bhagavataḥ śrutamātreṇa pātraṃ cakrikaṃ śikyaṃ bhagavate upanāmayāmāsa / athāyuṣmānānando bhagavataḥ kṛtāñjalipuṭo bhagavantaṃ gāthābhiradhyabhāṣata /",
+          "segment_number": 5
+        }
+      ],
+      "segment_number": 3
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadā tvaṃ praviśasi piṇḍapātika vimocaye tvaṃ bahavaṃ hi prāṇinām /",
+          "segment_number": 6
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uttāraye tvaṃ bahavaṃ hi sattvā narakabhayājjātijarāmahābhayā //",
+          "segment_number": 7
         }
       ]
     },
@@ -77,28 +100,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadā tvaṃ praviśasi piṇḍapātika vimocaye tvaṃ bahavaṃ hi prāṇinām /"
+          "text": "saṃsāraduḥkhakalilā mahābhayādvimocaye tvaṃ nara lokanāyaka /",
+          "segment_number": 8
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "uttāraye tvaṃ bahavaṃ hi sattvā narakabhayājjātijarāmahābhayā //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "saṃsāraduḥkhakalilā mahābhayādvimocaye tvaṃ nara lokanāyaka /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "mahānubhāvo varadakṣiṇīyo vimocayitvā punaraṃ hi āgamī //"
+          "text": "mahānubhāvo varadakṣiṇīyo vimocayitvā punaraṃ hi āgamī //",
+          "segment_number": 9
         }
       ]
     },
@@ -112,13 +121,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 105"
+          "text": "Asv 105",
+          "segment_number": 11
         },
         {
           "tag": "text",
-          "text": ") vṛddhamahallakaḥ puruṣaḥ saṃsthito 'bhūt / atha sa puruṣastaṃ janakāyaṃ samāśvāsayannevamāha / mā bhaiṣurbhoḥ kulaputrāḥ / asminneva pṛthivīpradeśe jetavanaṃ nāma vihāraḥ / tatra śākyamunirnāma tathāgato 'rhan samyaksambuddho vidyācaraṇasampannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān / so 'yaṃ śrāvastīṃ mahānagarīṃ piṇḍāya prāviśat / tasyāgamanakālasamaye idaṃ śubhanimittamabhūt / atha sa janakāyastaṃ jīrṇakaṃ puruṣaṃ kṛtāñjalirevamāha / yattasya bhagavatastathāgatasyārhataḥ samyaksambuddhasya guṇavarṇasamudīraṇasamaye idaṃ śubhanimittamabhūt / dṛṣṭamātrasya tasya tathāgatasyārhataḥ samyaksambuddhasya kīdṛśaḥ puṇyābhisaṃskāro bhaviṣyati / atha sa jīrṇakapuruṣastaṃ janakāyaṃ bhagavato guṇavarṇasamudīraṇatayā gāthābhiradhyabhāṣata /"
+          "text": ") vṛddhamahallakaḥ puruṣaḥ saṃsthito 'bhūt / atha sa puruṣastaṃ janakāyaṃ samāśvāsayannevamāha / mā bhaiṣurbhoḥ kulaputrāḥ / asminneva pṛthivīpradeśe jetavanaṃ nāma vihāraḥ / tatra śākyamunirnāma tathāgato 'rhan samyaksambuddho vidyācaraṇasampannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān / so 'yaṃ śrāvastīṃ mahānagarīṃ piṇḍāya prāviśat / tasyāgamanakālasamaye idaṃ śubhanimittamabhūt / atha sa janakāyastaṃ jīrṇakaṃ puruṣaṃ kṛtāñjalirevamāha / yattasya bhagavatastathāgatasyārhataḥ samyaksambuddhasya guṇavarṇasamudīraṇasamaye idaṃ śubhanimittamabhūt / dṛṣṭamātrasya tasya tathāgatasyārhataḥ samyaksambuddhasya kīdṛśaḥ puṇyābhisaṃskāro bhaviṣyati / atha sa jīrṇakapuruṣastaṃ janakāyaṃ bhagavato guṇavarṇasamudīraṇatayā gāthābhiradhyabhāṣata /",
+          "segment_number": 12
         }
-      ]
+      ],
+      "segment_number": 10
     },
     {
       "tag": "lg",
@@ -127,12 +139,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yo lokanāthasya hi nāmu yaḥ śruṇe saṃsāraduḥkhā vinimuktu so naro /"
+          "text": "yo lokanāthasya hi nāmu yaḥ śruṇe saṃsāraduḥkhā vinimuktu so naro /",
+          "segment_number": 13
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "āpāyagāmī na kadāci bheṣyate svargaṃ ca so yāsyati śīghramevam //"
+          "text": "āpāyagāmī na kadāci bheṣyate svargaṃ ca so yāsyati śīghramevam //",
+          "segment_number": 14
         }
       ]
     },
@@ -146,11 +160,13 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 106"
+          "text": "Asv 106",
+          "segment_number": 16
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 17
         },
         {
           "tag": "lg",
@@ -159,16 +175,19 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "so bodhisattvo sthita gaṅgavālukān kadāci so gacchati durgatī bhayam /"
+              "text": "so bodhisattvo sthita gaṅgavālukān kadāci so gacchati durgatī bhayam /",
+              "segment_number": 18
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "yo lokanāthasya hi nāmu yaḥ śruṇe āpāyagāmī na kadāci bheṣyate //"
+              "text": "yo lokanāthasya hi nāmu yaḥ śruṇe āpāyagāmī na kadāci bheṣyate //",
+              "segment_number": 19
             }
           ]
         }
-      ]
+      ],
+      "segment_number": 15
     },
     {
       "tag": "lg",
@@ -177,12 +196,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kalpānakoṭīnayutānacintiyā rājā sa bhotī sada cakravartī /"
+          "text": "kalpānakoṭīnayutānacintiyā rājā sa bhotī sada cakravartī /",
+          "segment_number": 20
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yo lokanāthasya hi nāmu dhārayet //"
+          "text": "yo lokanāthasya hi nāmu dhārayet //",
+          "segment_number": 21
         }
       ]
     },
@@ -193,12 +214,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yat kiñci pūrvaṃ sada pāpu yat kṛtaṃ sarvaṃ kṣayaṃ yāsyati śīghrametat /"
+          "text": "yat kiñci pūrvaṃ sada pāpu yat kṛtaṃ sarvaṃ kṣayaṃ yāsyati śīghrametat /",
+          "segment_number": 22
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śakropi devendramahānubhāvo kalpānakoṭīnayutānacintiyā //"
+          "text": "śakropi devendramahānubhāvo kalpānakoṭīnayutānacintiyā //",
+          "segment_number": 23
         }
       ]
     },
@@ -209,19 +232,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sukhāvatīṃ gacchati buddhakṣetraṃ paryaṅkabaddho sa ca bodhisattvo /"
+          "text": "sukhāvatīṃ gacchati buddhakṣetraṃ paryaṅkabaddho sa ca bodhisattvo /",
+          "segment_number": 24
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "brahmasvaro susvaru mañjughoṣa bhavanti varṣānasahasrakoṭibhiḥ //"
+          "text": "brahmasvaro susvaru mañjughoṣa bhavanti varṣānasahasrakoṭibhiḥ //",
+          "segment_number": 25
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "apāyagāmī na kadāci bheṣyate yo lokanāthasya hi nāmu dhārayet /"
+      "text": "apāyagāmī na kadāci bheṣyate yo lokanāthasya hi nāmu dhārayet /",
+      "segment_number": 26
     },
     {
       "tag": "p",
@@ -233,18 +259,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 107"
+          "text": "Asv 107",
+          "segment_number": 28
         },
         {
           "tag": "text",
-          "text": ") prādurabhūvan prāñjalayaḥ / atha bhagavataḥ praviṣṭamātreṇa śrāvastyāṃ mahānagaryāṃ navanavatikoṭīniyutaśatasahasrāṇi sattvānāṃ sukhāvatyāṃ lokadhātau pratiṣṭhāpitāni caturaśītisattvakoṭīniyutaśatasahasrāṇyābhiratyā lokadhātorakṣobhyatathāgatasya buddhakṣetre pratiṣṭhāpitāni /"
+          "text": ") prādurabhūvan prāñjalayaḥ / atha bhagavataḥ praviṣṭamātreṇa śrāvastyāṃ mahānagaryāṃ navanavatikoṭīniyutaśatasahasrāṇi sattvānāṃ sukhāvatyāṃ lokadhātau pratiṣṭhāpitāni caturaśītisattvakoṭīniyutaśatasahasrāṇyābhiratyā lokadhātorakṣobhyatathāgatasya buddhakṣetre pratiṣṭhāpitāni /",
+          "segment_number": 29
         }
-      ]
+      ],
+      "segment_number": 27
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha bhagavān ānandena saha nagaravalambikāyā dārikāya gṛhe samāgato 'bhūta / atha bhagavān nagaravalambikāyā dārikāyā gṛhe cakrikaṃ kaṭakaṭāpayāmāsa / atha sā dārikā taṃ cakrīśabdaṃ śrutvā saṃśayajātābhūt / ko hetuḥ kaḥ pratyayaḥ / mama gṛhe na kadācit piṇḍapātika āgato 'bhūt / atha sa nagaravalambikā dārikā śūnyākāragṛhe niṣaṇṇā aśrukaṇṭhī rudantī paridevantī sthitābhūt tīkṣṇadhāramasiṃ gaveṣantī paridevantī rudantī sthitābhūt / atha sā dārikā śūnyākāragṛhe niṣaṇṇā paridevantī aśrukaṇṭhī rudantī gāthābhiradhyabhāṣata /"
+      "text": "atha bhagavān ānandena saha nagaravalambikāyā dārikāya gṛhe samāgato 'bhūta / atha bhagavān nagaravalambikāyā dārikāyā gṛhe cakrikaṃ kaṭakaṭāpayāmāsa / atha sā dārikā taṃ cakrīśabdaṃ śrutvā saṃśayajātābhūt / ko hetuḥ kaḥ pratyayaḥ / mama gṛhe na kadācit piṇḍapātika āgato 'bhūt / atha sa nagaravalambikā dārikā śūnyākāragṛhe niṣaṇṇā aśrukaṇṭhī rudantī paridevantī sthitābhūt tīkṣṇadhāramasiṃ gaveṣantī paridevantī rudantī sthitābhūt / atha sā dārikā śūnyākāragṛhe niṣaṇṇā paridevantī aśrukaṇṭhī rudantī gāthābhiradhyabhāṣata /",
+      "segment_number": 30
     },
     {
       "tag": "lg",
@@ -253,12 +283,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aho bata duḥkhu daridrake gṛhe varaṃ mama maraṇu na cāpi jīvitam /"
+          "text": "aho bata duḥkhu daridrake gṛhe varaṃ mama maraṇu na cāpi jīvitam /",
+          "segment_number": 31
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kiṃ cāpi me kāryuṣu jīvitena yadyaivāhaṃ duḥkhu śarīra pīḍitam //"
+          "text": "kiṃ cāpi me kāryuṣu jīvitena yadyaivāhaṃ duḥkhu śarīra pīḍitam //",
+          "segment_number": 32
         }
       ]
     },
@@ -272,18 +304,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 108"
+          "text": "Asv 108",
+          "segment_number": 34
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 35
         }
-      ]
+      ],
+      "segment_number": 33
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha sa nagaravalambikā dārikā śūnyākāragṛhe niṣaṇṇā imā gāthā bhāṣitvā tūṣṇīṃ sthitābhūt /"
+      "text": "atha sa nagaravalambikā dārikā śūnyākāragṛhe niṣaṇṇā imā gāthā bhāṣitvā tūṣṇīṃ sthitābhūt /",
+      "segment_number": 36
     },
     {
       "tag": "p",
@@ -295,18 +331,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 109"
+          "text": "Asv 109",
+          "segment_number": 38
         },
         {
           "tag": "text",
-          "text": ") bhagavantamupanāmayāmāsa / anena piṇḍapātakuśalamūlena mā kaśmiṃścid daridragṛhe upapadyeya /"
+          "text": ") bhagavantamupanāmayāmāsa / anena piṇḍapātakuśalamūlena mā kaśmiṃścid daridragṛhe upapadyeya /",
+          "segment_number": 39
         }
-      ]
+      ],
+      "segment_number": 37
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha sā nagaravalambikā dārikā taṃ piṇḍapātaṃ pariṇāmayitvā bhagavate dattvā svagṛhagamanamārabdhā / atha bhagavān tāṃ nagaravalambikāṃ dārikāmevamāha / pratinivartasva dārike / pūrvejātinidānaṃ samanusmarāmi / tadahaṃ parikīrtayiṣyāmi / atha sā dārikā pratinivṛtya sarvāṅgapraṇipātena bhagavantaṃ prapatitā / atha sā nagaravalambikā dārikā bhagavantaṃ gāthābhiradhyabhāṣata /"
+      "text": "atha sā nagaravalambikā dārikā taṃ piṇḍapātaṃ pariṇāmayitvā bhagavate dattvā svagṛhagamanamārabdhā / atha bhagavān tāṃ nagaravalambikāṃ dārikāmevamāha / pratinivartasva dārike / pūrvejātinidānaṃ samanusmarāmi / tadahaṃ parikīrtayiṣyāmi / atha sā dārikā pratinivṛtya sarvāṅgapraṇipātena bhagavantaṃ prapatitā / atha sā nagaravalambikā dārikā bhagavantaṃ gāthābhiradhyabhāṣata /",
+      "segment_number": 40
     },
     {
       "tag": "lg",
@@ -315,12 +355,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "avaśyaṃ me pūrvakṛtena karmaṇā yenāhaṃ jāta daridrake gṛhe /"
+          "text": "avaśyaṃ me pūrvakṛtena karmaṇā yenāhaṃ jāta daridrake gṛhe /",
+          "segment_number": 41
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "karohi kāruṇya mamaṃ hi duḥkhita vinivartayasva narakā hi pālān //"
+          "text": "karohi kāruṇya mamaṃ hi duḥkhita vinivartayasva narakā hi pālān //",
+          "segment_number": 42
         }
       ]
     },
@@ -331,12 +373,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "karohi kāruṇya mama duḥkhitāyā istribhāvā upapannu nāyaka /"
+          "text": "karohi kāruṇya mama duḥkhitāyā istribhāvā upapannu nāyaka /",
+          "segment_number": 43
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tvaṃ lokanātha jaravyādhiśoka vimocaye maṃ mama duḥkhitāyāḥ //"
+          "text": "tvaṃ lokanātha jaravyādhiśoka vimocaye maṃ mama duḥkhitāyāḥ //",
+          "segment_number": 44
         }
       ]
     },
@@ -350,11 +394,13 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 110"
+          "text": "Asv 110",
+          "segment_number": 46
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 47
         },
         {
           "tag": "lg",
@@ -363,16 +409,19 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tiṣṭhanti ye vai daśasu diśāsu sattvā hi sarve sukhitā kariṣye /"
+              "text": "tiṣṭhanti ye vai daśasu diśāsu sattvā hi sarve sukhitā kariṣye /",
+              "segment_number": 48
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "sarve ca haṃ mocayi duḥkhasāgarāt trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam //"
+              "text": "sarve ca haṃ mocayi duḥkhasāgarāt trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam //",
+              "segment_number": 49
             }
           ]
         }
-      ]
+      ],
+      "segment_number": 45
     },
     {
       "tag": "lg",
@@ -381,12 +430,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tvayaṃ hi nātha mayi mocayī jagat avaśyaṃ me pūrvakṛtena karmaṇā /"
+          "text": "tvayaṃ hi nātha mayi mocayī jagat avaśyaṃ me pūrvakṛtena karmaṇā /",
+          "segment_number": 50
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yenāhaṃ jātu daridrake gṛhe trāṇaṃ bhavāhī mama duḥkhitāyāḥ //"
+          "text": "yenāhaṃ jātu daridrake gṛhe trāṇaṃ bhavāhī mama duḥkhitāyāḥ //",
+          "segment_number": 51
         }
       ]
     },
@@ -397,12 +448,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhavaṃ tu nātha jaravyādhimocakaṃ trāṇaṃ bhavāhī guṇa sañcitāgra /"
+          "text": "bhavaṃ tu nātha jaravyādhimocakaṃ trāṇaṃ bhavāhī guṇa sañcitāgra /",
+          "segment_number": 52
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na cā kariṣye punareva pāpaṃ yadvedayāmī imi vedanāni //"
+          "text": "na cā kariṣye punareva pāpaṃ yadvedayāmī imi vedanāni //",
+          "segment_number": 53
         }
       ]
     },
@@ -413,12 +466,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṛpaṃ jani...............magra sattvā trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam /"
+          "text": "kṛpaṃ jani...............magra sattvā trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam /",
+          "segment_number": 54
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye keci sattvā iha jambudvīpe nāmaṃ ca vai dhāraya paśca kāle //"
+          "text": "ye keci sattvā iha jambudvīpe nāmaṃ ca vai dhāraya paśca kāle //",
+          "segment_number": 55
         }
       ]
     },
@@ -429,12 +484,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "parinirvṛtasya tata paścakāle bhaviṣyati śāsanavipralopam /"
+          "text": "parinirvṛtasya tata paścakāle bhaviṣyati śāsanavipralopam /",
+          "segment_number": 56
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yatakiñci pāpaṃ tadapūrva yat kṛtaṃ sarvaṃ kṣayaṃ yāsyati śīghrametat //"
+          "text": "yatakiñci pāpaṃ tadapūrva yat kṛtaṃ sarvaṃ kṣayaṃ yāsyati śīghrametat //",
+          "segment_number": 57
         }
       ]
     },
@@ -448,11 +505,32 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 111"
+          "text": "Asv 111",
+          "segment_number": 59
         },
         {
           "tag": "text",
-          "text": ") dārikāṃ kalaviṅkarutasvaranirghoṣeṇaivamāha / pratinivartasva dārike pūrvajātinidānaṃ samanusmarāmi tadahaṃ parikīrtayiṣyāmi / atha sā dārikā pratinivṛtyaivamāha /"
+          "text": ") dārikāṃ kalaviṅkarutasvaranirghoṣeṇaivamāha / pratinivartasva dārike pūrvajātinidānaṃ samanusmarāmi tadahaṃ parikīrtayiṣyāmi / atha sā dārikā pratinivṛtyaivamāha /",
+          "segment_number": 60
+        }
+      ],
+      "segment_number": 58
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parikīrtaya lokavināyakādya yadyat kṛtaṃ pāpa sadā sudāruṇam /",
+          "segment_number": 61
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "avaśya me pāpu kṛtaṃ sudāruṇaṃ yenāhaṃ jātu daridrake gṛhe //",
+          "segment_number": 62
         }
       ]
     },
@@ -463,12 +541,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "parikīrtaya lokavināyakādya yadyat kṛtaṃ pāpa sadā sudāruṇam /"
+          "text": "tvaṃ sārthavāhu iha sarvaloke vimocaye mam iha istribhāvā /",
+          "segment_number": 63
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "avaśya me pāpu kṛtaṃ sudāruṇaṃ yenāhaṃ jātu daridrake gṛhe //"
+          "text": "trāṇaṃ bhavāhī śaraṇaṃ parāyaṇaṃ kṛtajñahaṃ nitya bhavāmi nāyake //",
+          "segment_number": 64
         }
       ]
     },
@@ -479,35 +559,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tvaṃ sārthavāhu iha sarvaloke vimocaye mam iha istribhāvā /"
+          "text": "saṃśrāvaye mam imu dharmanetrī nāsau kadācittajate apāyam /",
+          "segment_number": 65
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "trāṇaṃ bhavāhī śaraṇaṃ parāyaṇaṃ kṛtajñahaṃ nitya bhavāmi nāyake //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "saṃśrāvaye mam imu dharmanetrī nāsau kadācittajate apāyam /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "saṃśodhayī karma yathākṛtaṃ mayā trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam //"
+          "text": "saṃśodhayī karma yathākṛtaṃ mayā trāṇaṃ bhavāhī śaraṇaṃ parāyaṇam //",
+          "segment_number": 66
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "asaṅgajñānī varalokanāyaka vandāmi nātha śaraṇaṃ kṛtāñjalī //"
+      "text": "asaṅgajñānī varalokanāyaka vandāmi nātha śaraṇaṃ kṛtāñjalī //",
+      "segment_number": 67
     },
     {
       "tag": "p",
@@ -519,34 +586,41 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 112"
+          "text": "Asv 112",
+          "segment_number": 69
         },
         {
           "tag": "text",
-          "text": ") khalu punaḥ samayena padmāvatī nāma rājadhānyabhūt / tena khalu punaḥ samayena padmāvatyāṃ rājadhānyāṃ padmaprabho nāma gṛhapatirabhūt / tasya padmaprabhasya gṛhapatestvaṃ duhitā 'bhūḥ / tena khalu punaḥ samayena grāmanagaranigamajanapadeṣu piṇḍapātiko bhikṣuḥ piṇḍapātāyāvatarati / yadā tvadgṛhamāgato 'bhūta tadā tvaṃ dārike piṇḍapātaṃ gṛhītvā gṛhānniṣkrāntā punareva praviṣṭā 'bhūḥ / na cāhaṃ muṇḍitaśiraso 'dhanyasya piṇḍapātaṃ dāsyāmi / tena karmopacayena tvayā dārike dvādaśakalpasahasrāṇi punaḥ punardaridragṛhe duḥkhānyanubhūtāni / ekena tvayā dārike kuśalamūlena bodhivyākaraṇaṃ pratilapsyase / yattvayā tasya bhikṣo rūpaliṅgasaṃsthā na dṛṣṭā bhaviṣyasi tvaṃ dārike anāgate 'dhvani acintyairaparimāṇaiḥ kalpairnagaradhvajo nāma tathāgato 'rhan samyaksambuddho vidyācaraṇasampannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān loke / atha sā dārikā bhagavantaṃ triḥ pradakṣiṇaṃ kṛtvaivamāha / kīdṛśaṃ bhagavan mama buddhakṣetraṃ bhaviṣyati yatraivāhaṃ buddho bhaviṣyāmi / bhagavānāha / aparimitaguṇasañcayā nāma sā buddhakṣetraṃ bhaviṣyati / yādṛaśī ca sā sukhāvatī lokadhātuḥ tādṛśaṃ tadbuddhakṣetraṃ bhaviṣyati / paryaṅkaniṣaṇṇā āryopapādukā bodhisattvā bhaviṣyanti / īdṛśaṃ tadbuddhakṣetram / ("
+          "text": ") khalu punaḥ samayena padmāvatī nāma rājadhānyabhūt / tena khalu punaḥ samayena padmāvatyāṃ rājadhānyāṃ padmaprabho nāma gṛhapatirabhūt / tasya padmaprabhasya gṛhapatestvaṃ duhitā 'bhūḥ / tena khalu punaḥ samayena grāmanagaranigamajanapadeṣu piṇḍapātiko bhikṣuḥ piṇḍapātāyāvatarati / yadā tvadgṛhamāgato 'bhūta tadā tvaṃ dārike piṇḍapātaṃ gṛhītvā gṛhānniṣkrāntā punareva praviṣṭā 'bhūḥ / na cāhaṃ muṇḍitaśiraso 'dhanyasya piṇḍapātaṃ dāsyāmi / tena karmopacayena tvayā dārike dvādaśakalpasahasrāṇi punaḥ punardaridragṛhe duḥkhānyanubhūtāni / ekena tvayā dārike kuśalamūlena bodhivyākaraṇaṃ pratilapsyase / yattvayā tasya bhikṣo rūpaliṅgasaṃsthā na dṛṣṭā bhaviṣyasi tvaṃ dārike anāgate 'dhvani acintyairaparimāṇaiḥ kalpairnagaradhvajo nāma tathāgato 'rhan samyaksambuddho vidyācaraṇasampannaḥ sugato lokavidanuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān loke / atha sā dārikā bhagavantaṃ triḥ pradakṣiṇaṃ kṛtvaivamāha / kīdṛśaṃ bhagavan mama buddhakṣetraṃ bhaviṣyati yatraivāhaṃ buddho bhaviṣyāmi / bhagavānāha / aparimitaguṇasañcayā nāma sā buddhakṣetraṃ bhaviṣyati / yādṛaśī ca sā sukhāvatī lokadhātuḥ tādṛśaṃ tadbuddhakṣetraṃ bhaviṣyati / paryaṅkaniṣaṇṇā āryopapādukā bodhisattvā bhaviṣyanti / īdṛśaṃ tadbuddhakṣetram / (",
+          "segment_number": 70
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 113"
+          "text": "Asv 113",
+          "segment_number": 71
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 72
         }
-      ]
+      ],
+      "segment_number": 68
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha ca sā dārikā tuṣṭā udagrā āttamanāḥ pramuditā prītisaumanasyajātā svagṛhagamanamārabdhā / atha bhagavāṃstāṃ dārikāmevamāha / tvaṃ dārike saptame divase kālaṃ kariṣyasi / kālaṃ kṛtvā / pūrvasyāndiśi magadhaviṣaye rājā ajitaseno nāma / tasya rājño 'jitasenasya antaḥpurasahasramasti / tasya khalu punā rājño 'jitasenasya putro janiṣyase / eṣa eva tava paścimo garbhavāso bhaviṣyati /"
+      "text": "atha ca sā dārikā tuṣṭā udagrā āttamanāḥ pramuditā prītisaumanasyajātā svagṛhagamanamārabdhā / atha bhagavāṃstāṃ dārikāmevamāha / tvaṃ dārike saptame divase kālaṃ kariṣyasi / kālaṃ kṛtvā / pūrvasyāndiśi magadhaviṣaye rājā ajitaseno nāma / tasya rājño 'jitasenasya antaḥpurasahasramasti / tasya khalu punā rājño 'jitasenasya putro janiṣyase / eṣa eva tava paścimo garbhavāso bhaviṣyati /",
+      "segment_number": 73
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha bhagavān paścimakena nagaradvāreṇa śrāvastyā mahānagaryā niṣkrānto yena jetavanaṃ vihārastenopasaṅkrāntaḥ / athāyuṣmānānando bhagavantaṃ dūrata evāgacchantaṃ dṛṣṭvā pādau śirasābhivandya triḥ pradakṣiṇīkṛtya bhagavantaṃ gāthābhiradhyabhāṣata /"
+      "text": "atha bhagavān paścimakena nagaradvāreṇa śrāvastyā mahānagaryā niṣkrānto yena jetavanaṃ vihārastenopasaṅkrāntaḥ / athāyuṣmānānando bhagavantaṃ dūrata evāgacchantaṃ dṛṣṭvā pādau śirasābhivandya triḥ pradakṣiṇīkṛtya bhagavantaṃ gāthābhiradhyabhāṣata /",
+      "segment_number": 74
     },
     {
       "tag": "lg",
@@ -555,12 +629,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "suvarṇavarṇaṃ varalakṣaṇārcitaṃ dvāviṃśatilakṣaṇarūpadhāriṇam /"
+          "text": "suvarṇavarṇaṃ varalakṣaṇārcitaṃ dvāviṃśatilakṣaṇarūpadhāriṇam /",
+          "segment_number": 75
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yadā tvayā āgatu piṇḍapātikā vimocayitvā iha sarvasattvā //"
+          "text": "yadā tvayā āgatu piṇḍapātikā vimocayitvā iha sarvasattvā //",
+          "segment_number": 76
         }
       ]
     },
@@ -571,12 +647,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sukhena saṃsthāpayi sarvasattvā maitrībalaṃ sarvajagattvayā kṛtam /"
+          "text": "sukhena saṃsthāpayi sarvasattvā maitrībalaṃ sarvajagattvayā kṛtam /",
+          "segment_number": 77
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sa piṇḍapātaṃ varamāṇḍanāyaka vimocitaste jagatī bhayā ca //"
+          "text": "sa piṇḍapātaṃ varamāṇḍanāyaka vimocitaste jagatī bhayā ca //",
+          "segment_number": 78
         }
       ]
     },
@@ -590,13 +668,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 114"
+          "text": "Asv 114",
+          "segment_number": 80
         },
         {
           "tag": "text",
-          "text": ") parinirvṛtasya sada paścakāle dhāretu sūtram imu buddhavarṇitam //"
+          "text": ") parinirvṛtasya sada paścakāle dhāretu sūtram imu buddhavarṇitam //",
+          "segment_number": 81
         }
-      ]
+      ],
+      "segment_number": 79
     },
     {
       "tag": "lg",
@@ -605,12 +686,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "parinirvṛtasya tava paścakāle bhaviṣyati śāsanavipralopam /"
+          "text": "parinirvṛtasya tava paścakāle bhaviṣyati śāsanavipralopam /",
+          "segment_number": 82
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "imaṃ nayaṃ dhārayi sūtraratnam //"
+          "text": "imaṃ nayaṃ dhārayi sūtraratnam //",
+          "segment_number": 83
         }
       ]
     },
@@ -624,33 +707,58 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 115"
+          "text": "Asv 115",
+          "segment_number": 85
         },
         {
           "tag": "text",
-          "text": ") yāsyanti / īdṛśānyānanda gaṇḍīśabdasya kuśalamūlāni / athāyuṣmānānandaḥ śāntapraśāntena gaṇḍīmākoṭayate sma / atha tena gaṇḍīśabdena sarve te mahāśrāvakāḥ sannipatitā abhūvan / yathā yathā āsane niṣaṇṇāḥ piṇḍapātaṃ paribhuñjante sma / atha tatraiva śrāvakamadhye nandimitro nāma mahāśrāvakaḥ sannipatito 'bhūt sanniṣaṇṇaḥ / atha bhagavānāyuṣmantaṃ nandimitraṃ mahāśrāvakamāmantrayate sma / gaccha tvaṃ nandimitra mahāśrāvaka pūrvasyāndiśi magadhaviṣaye rājño 'jitasenasya kalyāṇamitraparicaryāṃ kuru / atha nandimitro mahāśrāvako bhagavantamevamāha / na bhagavan śakṣyāmastaṃ pṛthivīpradeśaṃ gantum / durāsadāste sattvāḥ / te māṃ jīvitādvyavaropayiṣyanti / atha bhagavānāyuṣmantaṃ taṃ nandimitraṃ mahāśrāvakamevamāha / na te sattvāste śakṣyante bālāgramapi kampayituṃ prāgeva jīvitādvyavaropayitum / atha nandimitro mahāśrāvakaḥ pratyūṣakālasamaye suvarṇavarṇaṃ vastraṃ prāvṛtya yena pūrvasyāndiśi magadhaviṣaye rājño 'jitasenasya rājadhānī tenānukrānto 'bhut / atha rājā ajitasenastaṃ nandimitraṃ mahāśrāvakaṃ dṛṣṭvā tuṣṭa udagra āttamanāḥ pramuditaḥ prītisaumanasyajāto 'bhūt / atha rājñājitasenena amātyaḥ preṣito 'bhūt / gacchainaṃ bhikṣumānaya / tadā so 'mātyo yena nandimitro mahāśrāvakastenopasaṅkrāntaḥ ("
+          "text": ") yāsyanti / īdṛśānyānanda gaṇḍīśabdasya kuśalamūlāni / athāyuṣmānānandaḥ śāntapraśāntena gaṇḍīmākoṭayate sma / atha tena gaṇḍīśabdena sarve te mahāśrāvakāḥ sannipatitā abhūvan / yathā yathā āsane niṣaṇṇāḥ piṇḍapātaṃ paribhuñjante sma / atha tatraiva śrāvakamadhye nandimitro nāma mahāśrāvakaḥ sannipatito 'bhūt sanniṣaṇṇaḥ / atha bhagavānāyuṣmantaṃ nandimitraṃ mahāśrāvakamāmantrayate sma / gaccha tvaṃ nandimitra mahāśrāvaka pūrvasyāndiśi magadhaviṣaye rājño 'jitasenasya kalyāṇamitraparicaryāṃ kuru / atha nandimitro mahāśrāvako bhagavantamevamāha / na bhagavan śakṣyāmastaṃ pṛthivīpradeśaṃ gantum / durāsadāste sattvāḥ / te māṃ jīvitādvyavaropayiṣyanti / atha bhagavānāyuṣmantaṃ taṃ nandimitraṃ mahāśrāvakamevamāha / na te sattvāste śakṣyante bālāgramapi kampayituṃ prāgeva jīvitādvyavaropayitum / atha nandimitro mahāśrāvakaḥ pratyūṣakālasamaye suvarṇavarṇaṃ vastraṃ prāvṛtya yena pūrvasyāndiśi magadhaviṣaye rājño 'jitasenasya rājadhānī tenānukrānto 'bhut / atha rājā ajitasenastaṃ nandimitraṃ mahāśrāvakaṃ dṛṣṭvā tuṣṭa udagra āttamanāḥ pramuditaḥ prītisaumanasyajāto 'bhūt / atha rājñājitasenena amātyaḥ preṣito 'bhūt / gacchainaṃ bhikṣumānaya / tadā so 'mātyo yena nandimitro mahāśrāvakastenopasaṅkrāntaḥ (",
+          "segment_number": 86
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 116"
+          "text": "Asv 116",
+          "segment_number": 87
         },
         {
           "tag": "text",
-          "text": ") / atha so 'mātyo nandimitraṃ mahāśrāvakamevamāha / āgaccha mahāśrāvaka bhikṣo rājā te ājñāpayati / atha nandimitro mahāśrāvako 'mātyamevamāha / mama rājñā kiṃ kāryaṃ mama rājā kiṃ kariṣyati / athāmātyo yena rājājitasenastenopasaṅkrāntaḥ / taṃ rājānamajitasenamevamāha / na ca sa bhikṣustava pārśve āgacchati / atha rājñājitasenena pañcāmātyaśatāni preṣitāni / na ca sa bhikṣūrājño\n'jitasenasya pārśvamāgacchati / atha sa rājā svakenaivātmabhāvena yena sa nandimitramahāśrāvakastenopasaṅkrāntaḥ / upasaṅkramya kṛtāñjalirevamāha / āgaccha bho bhikṣo mama rājadhānīṃ praviśa / atha rājā ajitaseno dakṣiṇahaste taṃ bhikṣuṃ gṛhītvā svakāṃ rājadhānīṃ praviṣṭo 'bhūt / atha rājñājitasenena nandimitrasya bhikṣoḥ siṃhāsanaṃ dattamabhut / atha rājājitaseno bhadrapīṭhake niṣadya taṃ nandimitraṃ mahāśrāvakamevamāha / kutra tvaṃ bhikṣo gacchasi / ko hetuḥ kaḥ pratyayaḥ / atha nandimitro mahāśrāvako rājānamajitasenamevamāha / ye kecid bhikṣupravrajitāste sarve bhikṣāhārāḥ piṇḍapātamavacarantaḥ paribhuñjanti / atha rājā ajitasenastaṃ nandimitraṃ mahāśrāvakamevamāha / paribhuṅkṣva mama gṛhe piṇḍapātam / yāvajjīvaṃ piṇḍapātaṃ pradāsyāmi / yadi te bhikṣo mama svamāṃsena kāryaṃ svamāṃsaṃ dāsyāmi / atha nandimitro mahāśrāvako rājānamajitasenaṃ gāthābhiradhyabhāṣata / ("
+          "text": ") / atha so 'mātyo nandimitraṃ mahāśrāvakamevamāha / āgaccha mahāśrāvaka bhikṣo rājā te ājñāpayati / atha nandimitro mahāśrāvako 'mātyamevamāha / mama rājñā kiṃ kāryaṃ mama rājā kiṃ kariṣyati / athāmātyo yena rājājitasenastenopasaṅkrāntaḥ / taṃ rājānamajitasenamevamāha / na ca sa bhikṣustava pārśve āgacchati / atha rājñājitasenena pañcāmātyaśatāni preṣitāni / na ca sa bhikṣūrājño\n'jitasenasya pārśvamāgacchati / atha sa rājā svakenaivātmabhāvena yena sa nandimitramahāśrāvakastenopasaṅkrāntaḥ / upasaṅkramya kṛtāñjalirevamāha / āgaccha bho bhikṣo mama rājadhānīṃ praviśa / atha rājā ajitaseno dakṣiṇahaste taṃ bhikṣuṃ gṛhītvā svakāṃ rājadhānīṃ praviṣṭo 'bhūt / atha rājñājitasenena nandimitrasya bhikṣoḥ siṃhāsanaṃ dattamabhut / atha rājājitaseno bhadrapīṭhake niṣadya taṃ nandimitraṃ mahāśrāvakamevamāha / kutra tvaṃ bhikṣo gacchasi / ko hetuḥ kaḥ pratyayaḥ / atha nandimitro mahāśrāvako rājānamajitasenamevamāha / ye kecid bhikṣupravrajitāste sarve bhikṣāhārāḥ piṇḍapātamavacarantaḥ paribhuñjanti / atha rājā ajitasenastaṃ nandimitraṃ mahāśrāvakamevamāha / paribhuṅkṣva mama gṛhe piṇḍapātam / yāvajjīvaṃ piṇḍapātaṃ pradāsyāmi / yadi te bhikṣo mama svamāṃsena kāryaṃ svamāṃsaṃ dāsyāmi / atha nandimitro mahāśrāvako rājānamajitasenaṃ gāthābhiradhyabhāṣata / (",
+          "segment_number": 88
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 117"
+          "text": "Asv 117",
+          "segment_number": 89
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 90
+        }
+      ],
+      "segment_number": 84
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bhuñjāmi tadbhojanu yad dadāhi mṛṣṭānnapānaṃ rasapānamuktamam /",
+          "segment_number": 91
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kleśā hi nirmukta tvayā bhaviṣyasi sudurlabhaṃ labdha manuṣyalābham //",
+          "segment_number": 92
         }
       ]
     },
@@ -661,12 +769,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bhuñjāmi tadbhojanu yad dadāhi mṛṣṭānnapānaṃ rasapānamuktamam /"
+          "text": "sudurlabhaṃ śāsanu nāyakasya śraddhāprasādaṃ paramaṃ sudurlabham /",
+          "segment_number": 93
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "kleśā hi nirmukta tvayā bhaviṣyasi sudurlabhaṃ labdha manuṣyalābham //"
+          "text": "ye śāsane pravrajitā ca bhikṣavā sudurlabhaṃ śāsanu nāyakānām //",
+          "segment_number": 94
         }
       ]
     },
@@ -677,12 +787,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sudurlabhaṃ śāsanu nāyakasya śraddhāprasādaṃ paramaṃ sudurlabham /"
+          "text": "sudurlabhaṃ sugatavarasya darśanaṃ namo 'stu te buddha mahānubhāvo /",
+          "segment_number": 95
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye śāsane pravrajitā ca bhikṣavā sudurlabhaṃ śāsanu nāyakānām //"
+          "text": "namo 'stu te dharmamayaṃ mahāmune namo 'stu te kleśavicakṣaṇāryam //",
+          "segment_number": 96
         }
       ]
     },
@@ -693,35 +805,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sudurlabhaṃ sugatavarasya darśanaṃ namo 'stu te buddha mahānubhāvo /"
+          "text": "namo 'stu te sarvajarapramokṣaṇāt namo 'stu te mārganidarśanāryam /",
+          "segment_number": 97
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "namo 'stu te dharmamayaṃ mahāmune namo 'stu te kleśavicakṣaṇāryam //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "namo 'stu te sarvajarapramokṣaṇāt namo 'stu te mārganidarśanāryam /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "namo 'stu te mārgapathasya darśakaṃ namo 'stu te bodhipathasya darśakam //"
+          "text": "namo 'stu te mārgapathasya darśakaṃ namo 'stu te bodhipathasya darśakam //",
+          "segment_number": 98
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha nandimitro mahāśrāvako rājānamajitasenaṃ bhagavato guṇavarṇamudīrayitvā tūṣṇīṃ sthito 'bhūt / atha rājānamajitasenaṃ taṃ nandimitro mahāśrāvako gāthābhiradhyabhāṣata /"
+      "text": "atha nandimitro mahāśrāvako rājānamajitasenaṃ bhagavato guṇavarṇamudīrayitvā tūṣṇīṃ sthito 'bhūt / atha rājānamajitasenaṃ taṃ nandimitro mahāśrāvako gāthābhiradhyabhāṣata /",
+      "segment_number": 99
     },
     {
       "tag": "p",
@@ -733,11 +832,32 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 118"
+          "text": "Asv 118",
+          "segment_number": 101
         },
         {
           "tag": "text",
-          "text": ")\nye bhikṣusaṅghasya dadeya dānaṃ na tasya yakṣā na ca rākṣasāśca //"
+          "text": ")\nye bhikṣusaṅghasya dadeya dānaṃ na tasya yakṣā na ca rākṣasāśca //",
+          "segment_number": 102
+        }
+      ],
+      "segment_number": 100
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na pretakuṣmāṇḍamahoragāśca vighnaṃ na kurvanti kadāci teṣām /",
+          "segment_number": 103
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ye bhikṣusaṅghāya dadanti dānaṃ sudurlabhaṃ tasya manuṣyalābham //",
+          "segment_number": 104
         }
       ]
     },
@@ -748,12 +868,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "na pretakuṣmāṇḍamahoragāśca vighnaṃ na kurvanti kadāci teṣām /"
+          "text": "yo durlabhaṃ darśanu bhikṣubhāvaṃ sudurlabhaṃ kalpaśatairacintiyaiḥ /",
+          "segment_number": 105
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye bhikṣusaṅghāya dadanti dānaṃ sudurlabhaṃ tasya manuṣyalābham //"
+          "text": "yo lokanāthasya hi nāmu dhāraye kalpāna koṭīnayutānacintiyā //",
+          "segment_number": 106
         }
       ]
     },
@@ -764,12 +886,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yo durlabhaṃ darśanu bhikṣubhāvaṃ sudurlabhaṃ kalpaśatairacintiyaiḥ /"
+          "text": "na jātu gacche vinipātadurgatiṃ yo īdṛśaṃ paśyati bhikṣurājam /",
+          "segment_number": 107
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yo lokanāthasya hi nāmu dhāraye kalpāna koṭīnayutānacintiyā //"
+          "text": "na tasya bhotī vinipātadurgatiṃ yo īdṛśaṃ paśyati bhikṣurājam //",
+          "segment_number": 108
         }
       ]
     },
@@ -780,35 +904,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "na jātu gacche vinipātadurgatiṃ yo īdṛśaṃ paśyati bhikṣurājam /"
+          "text": "kalyāṇamitraṃ mama mārgadarśako (yaṃ) sa āgatāye mama piṇḍapātikā /",
+          "segment_number": 109
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na tasya bhotī vinipātadurgatiṃ yo īdṛśaṃ paśyati bhikṣurājam //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "kalyāṇamitraṃ mama mārgadarśako (yaṃ) sa āgatāye mama piṇḍapātikā /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "yo dāsyate asya hi piṇḍapātaṃ muktā na bheṣyanti jarārtavyādhayā //"
+          "text": "yo dāsyate asya hi piṇḍapātaṃ muktā na bheṣyanti jarārtavyādhayā //",
+          "segment_number": 110
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "kleśā vinirmukta sadā tu bheṣyati ye tasya dāsyantiha piṇḍapātam //"
+      "text": "kleśā vinirmukta sadā tu bheṣyati ye tasya dāsyantiha piṇḍapātam //",
+      "segment_number": 111
     },
     {
       "tag": "p",
@@ -820,13 +931,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 119"
+          "text": "Asv 119",
+          "segment_number": 113
         },
         {
           "tag": "text",
-          "text": ") rājānamajitasenamevamāha / evamastu mahārāja bhuñje piṇḍapāta tava gṛhe / atha rājā ajitasenaḥ khādanīyena bhojanīyena taṃ nandimitramahāśrāvakaṃ santarpayati sma /"
+          "text": ") rājānamajitasenamevamāha / evamastu mahārāja bhuñje piṇḍapāta tava gṛhe / atha rājā ajitasenaḥ khādanīyena bhojanīyena taṃ nandimitramahāśrāvakaṃ santarpayati sma /",
+          "segment_number": 114
         }
-      ]
+      ],
+      "segment_number": 112
     },
     {
       "tag": "p",
@@ -838,13 +952,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 120"
+          "text": "Asv 120",
+          "segment_number": 116
         },
         {
           "tag": "text",
-          "text": ") ye tiryagyonigatāḥ pakṣiṇaḥ śukaśārikācakravākamayūrakokilādayaste nānārutāni kurvanti sma / atha tatraiva udyānabhūmau suvarṇavarṇāḥ suvarṇatuṇḍāḥ suvarṇapakṣāḥ suvarṇapādāḥ pakṣiṇaḥ prādurbhūtāḥ / te sarve buddhaśabdaṃ niścārayanti / atha nandimitramahāśrāvako yena rājño 'jitasenasya rājadhānī tenopasaṅkrāntaḥ / atha rājā ajitasenastaṃ nandimitraṃ mahāśrāvakamevamāha / āgatastvaṃ mahāśrāvaka / dṛṣṭodyānabhūmiḥ / nandimitra āha / dṛṣṭā mayodyānabhūmī ramaṇīyā suśobhanā / atha nandimitraṃ mahāśrāvakaṃ rājā ajitaseno gāthābhiradhyabhāṣata /"
+          "text": ") ye tiryagyonigatāḥ pakṣiṇaḥ śukaśārikācakravākamayūrakokilādayaste nānārutāni kurvanti sma / atha tatraiva udyānabhūmau suvarṇavarṇāḥ suvarṇatuṇḍāḥ suvarṇapakṣāḥ suvarṇapādāḥ pakṣiṇaḥ prādurbhūtāḥ / te sarve buddhaśabdaṃ niścārayanti / atha nandimitramahāśrāvako yena rājño 'jitasenasya rājadhānī tenopasaṅkrāntaḥ / atha rājā ajitasenastaṃ nandimitraṃ mahāśrāvakamevamāha / āgatastvaṃ mahāśrāvaka / dṛṣṭodyānabhūmiḥ / nandimitra āha / dṛṣṭā mayodyānabhūmī ramaṇīyā suśobhanā / atha nandimitraṃ mahāśrāvakaṃ rājā ajitaseno gāthābhiradhyabhāṣata /",
+          "segment_number": 117
         }
-      ]
+      ],
+      "segment_number": 115
     },
     {
       "tag": "lg",
@@ -853,12 +970,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye jambudvīpe paribhogamāsī adhimuktakacampakadhānuṣkārikā /"
+          "text": "ye jambudvīpe paribhogamāsī adhimuktakacampakadhānuṣkārikā /",
+          "segment_number": 118
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aśokamucilinda tathaiva pāṭalā saugandhikāśca sumanā ca vārṣikā //"
+          "text": "aśokamucilinda tathaiva pāṭalā saugandhikāśca sumanā ca vārṣikā //",
+          "segment_number": 119
         }
       ]
     },
@@ -874,21 +993,25 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "mārgaṃ ca te darśayi agrabodhaye"
+              "text": "mārgaṃ ca te darśayi agrabodhaye",
+              "segment_number": 121
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "divyā manojñā madhurasvarāṃśca"
+              "text": "divyā manojñā madhurasvarāṃśca",
+              "segment_number": 122
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "saṃśrāvayiṣyanti ca nityakālam //"
+              "text": "saṃśrāvayiṣyanti ca nityakālam //",
+              "segment_number": 123
             }
           ]
         }
-      ]
+      ],
+      "segment_number": 120
     },
     {
       "tag": "p",
@@ -900,22 +1023,45 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 121"
+          "text": "Asv 121",
+          "segment_number": 125
         },
         {
           "tag": "text",
-          "text": ") atha tena bherīśabdena sametyāmātyagaṇastaṃ rājānamajitasenamevamāha / kasyārthe mahārāja bherī parāhatā / atha sa rājā āha / hastirathaṃ ca aśvarathaṃ ca sajjaṃ kṛtaṃ syāt / ahamudyānabhūmiṃ gamiṣyāmi krīḍanārthāya / atha tā amātyakoṭyo vacanaṃ śrutvā śīghrameva tad hastirathamaśvarathaṃ sajjaṃ kṛtavatyaḥ / atha tena kṣaṇalavamuhūrtamātreṇa rājājitaseno yena sodyānabhūmistenopasaṅkrāntaḥ / sa ca nandimitramahāśrāvakastenaivopasaṅkrānto rājānamajitasenamevamāha / asmin pṛthivīpradeśe mahārāja mama kuṭikaṃ kārayitavyam yatrāhaṃ sanniṣaṇṇastava gṛhe piṇḍapātaṃ paribhokṣyāmi / atha rājā ajitaseno nandimitramahāśrāvakamevamāha / kīdṛśaṃ tava kuṭikaṃ kārayitavyam / nandimitra āha / yādṛśāstava mahārāja mahācittotpādaśraddhāprasādāstādṛśaṃ kuṭikaṃ kāraya / atha rājā ajitaseno jyeṣṭhāmātyamevamāha / asminneva pṛthivīpradeśe kuṭikaṃ kāraya / atha jyeṣṭhāmātyo rājānamevamāha / kīdṛśaṃ mahārāja kuṭikaṃ kārayāmi / rājā ajitasena evamāha / triṃśadyojanāni dīrgheṇa ṣaḍyojanānyūrdhvāyāṃ saptaratnamayaṃ maṇimuktisañcchāditaṃ kuṭikaṃ kāraya / atha so 'mātyaḥ kuṭikaṃ kārayati / saptaratnamayaṃ ("
+          "text": ") atha tena bherīśabdena sametyāmātyagaṇastaṃ rājānamajitasenamevamāha / kasyārthe mahārāja bherī parāhatā / atha sa rājā āha / hastirathaṃ ca aśvarathaṃ ca sajjaṃ kṛtaṃ syāt / ahamudyānabhūmiṃ gamiṣyāmi krīḍanārthāya / atha tā amātyakoṭyo vacanaṃ śrutvā śīghrameva tad hastirathamaśvarathaṃ sajjaṃ kṛtavatyaḥ / atha tena kṣaṇalavamuhūrtamātreṇa rājājitaseno yena sodyānabhūmistenopasaṅkrāntaḥ / sa ca nandimitramahāśrāvakastenaivopasaṅkrānto rājānamajitasenamevamāha / asmin pṛthivīpradeśe mahārāja mama kuṭikaṃ kārayitavyam yatrāhaṃ sanniṣaṇṇastava gṛhe piṇḍapātaṃ paribhokṣyāmi / atha rājā ajitaseno nandimitramahāśrāvakamevamāha / kīdṛśaṃ tava kuṭikaṃ kārayitavyam / nandimitra āha / yādṛśāstava mahārāja mahācittotpādaśraddhāprasādāstādṛśaṃ kuṭikaṃ kāraya / atha rājā ajitaseno jyeṣṭhāmātyamevamāha / asminneva pṛthivīpradeśe kuṭikaṃ kāraya / atha jyeṣṭhāmātyo rājānamevamāha / kīdṛśaṃ mahārāja kuṭikaṃ kārayāmi / rājā ajitasena evamāha / triṃśadyojanāni dīrgheṇa ṣaḍyojanānyūrdhvāyāṃ saptaratnamayaṃ maṇimuktisañcchāditaṃ kuṭikaṃ kāraya / atha so 'mātyaḥ kuṭikaṃ kārayati / saptaratnamayaṃ (",
+          "segment_number": 126
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 122"
+          "text": "Asv 122",
+          "segment_number": 127
         },
         {
           "tag": "text",
-          "text": ") maṇimuktisañcchāditaṃ kārayitvā yena rājā ajitasenastenopasaṅkrānto rājānamajitasenamevamāha / kṛtaṃ mahārāja mayā kuṭikaṃ yādṛśamājñaptam / rājā āha / tatraiva pṛthivīpradeśe caṅkramaḥ kārayitavyaścaturyojanāni dīrgheṇa dve yojane vistāreṇa / atha so 'mātyastaṃ caṅkramaṃ kārayitvā yena rājā ajitasenastenopasaṅkrānto rājānaṃ gāthābhiradhyabhāṣata /"
+          "text": ") maṇimuktisañcchāditaṃ kārayitvā yena rājā ajitasenastenopasaṅkrānto rājānamajitasenamevamāha / kṛtaṃ mahārāja mayā kuṭikaṃ yādṛśamājñaptam / rājā āha / tatraiva pṛthivīpradeśe caṅkramaḥ kārayitavyaścaturyojanāni dīrgheṇa dve yojane vistāreṇa / atha so 'mātyastaṃ caṅkramaṃ kārayitvā yena rājā ajitasenastenopasaṅkrānto rājānaṃ gāthābhiradhyabhāṣata /",
+          "segment_number": 128
+        }
+      ],
+      "segment_number": 124
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtaṃ mayā caṅkramu suṣṭhu śobhanaṃ ājñā tvayā yat kṛtapūrvameva ca /",
+          "segment_number": 129
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sattvāna moceti prakṛtiṃ śubhāśubhaṃ vimocaye prāṇina sarvametat //",
+          "segment_number": 130
         }
       ]
     },
@@ -926,12 +1072,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kṛtaṃ mayā caṅkramu suṣṭhu śobhanaṃ ājñā tvayā yat kṛtapūrvameva ca /"
+          "text": "aho sulabdhā praṇidhīkṛtaṃ tvayā vimocayī sarvajagat sadevakam /",
+          "segment_number": 131
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sattvāna moceti prakṛtiṃ śubhāśubhaṃ vimocaye prāṇina sarvametat //"
+          "text": "praṇidhiṃ kṛtaṃ yattvayamīdṛśaṃ bhave dharmaṃ prakāśeti me dharmabhāṇako //",
+          "segment_number": 132
         }
       ]
     },
@@ -942,28 +1090,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aho sulabdhā praṇidhīkṛtaṃ tvayā vimocayī sarvajagat sadevakam /"
+          "text": "niṣaṇṇa sthitvā kuṭikā ca caṅkrame ājñā kṛtaṃ yat tvaya yādṛśī kṛtā /",
+          "segment_number": 133
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "praṇidhiṃ kṛtaṃ yattvayamīdṛśaṃ bhave dharmaṃ prakāśeti me dharmabhāṇako //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "niṣaṇṇa sthitvā kuṭikā ca caṅkrame ājñā kṛtaṃ yat tvaya yādṛśī kṛtā /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sa caṅkramaṃ caiva kṛtaṃ suśobhanaṃ maṇiratnasañcchādita taṃ ca bhūmim //"
+          "text": "sa caṅkramaṃ caiva kṛtaṃ suśobhanaṃ maṇiratnasañcchādita taṃ ca bhūmim //",
+          "segment_number": 134
         }
       ]
     },
@@ -977,18 +1111,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 123"
+          "text": "Asv 123",
+          "segment_number": 136
         },
         {
           "tag": "text",
-          "text": ") kuṭike niṣaṇṇo vikiraṇaṃ nāma bodhisattvasamādhiṃ samāpanno 'bhūt / anyena keśānanyena nayānānyanyena dantānanyena grīvā anyena bāhū anyena hṛdayamanyenodaramanyenorū anyena jaṅghe anyena pādau samāpanno 'bhūt /\natha sa rājā ajitasenaḥ saptāhasyātyayena taṃ bhikṣuṃ na paśyati /"
+          "text": ") kuṭike niṣaṇṇo vikiraṇaṃ nāma bodhisattvasamādhiṃ samāpanno 'bhūt / anyena keśānanyena nayānānyanyena dantānanyena grīvā anyena bāhū anyena hṛdayamanyenodaramanyenorū anyena jaṅghe anyena pādau samāpanno 'bhūt /\natha sa rājā ajitasenaḥ saptāhasyātyayena taṃ bhikṣuṃ na paśyati /",
+          "segment_number": 137
         }
-      ]
+      ],
+      "segment_number": 135
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha rājā jyeṣṭhakumāramevamāha / āgaccha kulaputra gamiṣyāmi tāṃ kuṭikām / yena sa bhikṣustenopasaṅkramiṣyāmi / atha sa rājā saputro yena sā kuṭikā tenopasaṅkrānto 'bhūt / atha sa rājā ajitasenastaṃ bhikṣumātmabhāvaṃ khaṇḍaṃ khaṇḍaṃ kṛtaṃ dṛṣṭvā saṃśayajāto 'bhūt / santrastaromakūpajāto vastrāṇi pāṭyan paridevan rudan aśrukaṇṭhaḥ putramevamāha / ānaya putra tīkṣṇadhāramasim / ātmānaṃ jīvitād vyavaropayiṣyāmi / atha sa rājakumāraḥ prāñjaliṃ kṛtvā rājānaṃ gāthābhiradhyabhāṣata /"
+      "text": "atha rājā jyeṣṭhakumāramevamāha / āgaccha kulaputra gamiṣyāmi tāṃ kuṭikām / yena sa bhikṣustenopasaṅkramiṣyāmi / atha sa rājā saputro yena sā kuṭikā tenopasaṅkrānto 'bhūt / atha sa rājā ajitasenastaṃ bhikṣumātmabhāvaṃ khaṇḍaṃ khaṇḍaṃ kṛtaṃ dṛṣṭvā saṃśayajāto 'bhūt / santrastaromakūpajāto vastrāṇi pāṭyan paridevan rudan aśrukaṇṭhaḥ putramevamāha / ānaya putra tīkṣṇadhāramasim / ātmānaṃ jīvitād vyavaropayiṣyāmi / atha sa rājakumāraḥ prāñjaliṃ kṛtvā rājānaṃ gāthābhiradhyabhāṣata /",
+      "segment_number": 138
     },
     {
       "tag": "lg",
@@ -997,17 +1135,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mā śokacittasya bhave nṛpendra mā vedayī vedanamīdṛśāni /"
+          "text": "mā śokacittasya bhave nṛpendra mā vedayī vedanamīdṛśāni /",
+          "segment_number": 139
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ātmaghātaṃ karitvā tu niraye tvaṃ gamiṣyasi /"
+          "text": "ātmaghātaṃ karitvā tu niraye tvaṃ gamiṣyasi /",
+          "segment_number": 140
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "rauravaṃ narakaṃ cāpi gamiṣyasi sudāruṇam //"
+          "text": "rauravaṃ narakaṃ cāpi gamiṣyasi sudāruṇam //",
+          "segment_number": 141
         }
       ]
     },
@@ -1021,11 +1162,13 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 124"
+          "text": "Asv 124",
+          "segment_number": 143
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 144
         },
         {
           "tag": "lg",
@@ -1034,16 +1177,19 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "na cāyaṃ ghātito yakṣairna bhūtairna ca rākṣasaiḥ /"
+              "text": "na cāyaṃ ghātito yakṣairna bhūtairna ca rākṣasaiḥ /",
+              "segment_number": 145
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "bodhisattvo 'pyayaṃ loke jaravyādhipramocakaḥ //"
+              "text": "bodhisattvo 'pyayaṃ loke jaravyādhipramocakaḥ //",
+              "segment_number": 146
             }
           ]
         }
-      ]
+      ],
+      "segment_number": 142
     },
     {
       "tag": "lg",
@@ -1052,12 +1198,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dakṣiṇīyo ayaṃ loke jaravyādhipramocakaḥ /"
+          "text": "dakṣiṇīyo ayaṃ loke jaravyādhipramocakaḥ /",
+          "segment_number": 147
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "durlabho darśanam asya bodhimārgasya darśakaḥ //"
+          "text": "durlabho darśanam asya bodhimārgasya darśakaḥ //",
+          "segment_number": 148
         }
       ]
     },
@@ -1068,12 +1216,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "kalyāṇamitramayam āsī tava kāraṇamāgatam /"
+          "text": "kalyāṇamitramayam āsī tava kāraṇamāgatam /",
+          "segment_number": 149
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dakṣiṇīyo ayaṃ loke sarvasattvasukhāvaham //"
+          "text": "dakṣiṇīyo ayaṃ loke sarvasattvasukhāvaham //",
+          "segment_number": 150
         }
       ]
     },
@@ -1084,12 +1234,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvajñaṃ pāramiprāptaṃ lokanāthena preṣitam /"
+          "text": "sarvajñaṃ pāramiprāptaṃ lokanāthena preṣitam /",
+          "segment_number": 151
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dṛḍhavīryaṃ dṛḍhasthāmaṃ lokanāthaṃ maharṣiṇam //"
+          "text": "dṛḍhavīryaṃ dṛḍhasthāmaṃ lokanāthaṃ maharṣiṇam //",
+          "segment_number": 152
         }
       ]
     },
@@ -1100,12 +1252,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yo nāma tasya dhāreti nāsau gacchati durgatim /"
+          "text": "yo nāma tasya dhāreti nāsau gacchati durgatim /",
+          "segment_number": 153
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "apāyaṃ na gamiṣyanti svargalokopapattaye //"
+          "text": "apāyaṃ na gamiṣyanti svargalokopapattaye //",
+          "segment_number": 154
         }
       ]
     },
@@ -1119,23 +1273,28 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 125"
+          "text": "Asv 125",
+          "segment_number": 156
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 157
         }
-      ]
+      ],
+      "segment_number": 155
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha rājā taṃ bhikṣū dṛṣṭvā maulipaṭṭaṃ rājakumārasya dadāti / tava rājyaṃ bhavatu / dharmeṇa pālaye nādharmeṇa / rājakumāra āha / bahūnyasaṅkhyeyāni rājakāryāṇi mayā kṛtāni / na ca kadācittṛptirāsīt / tava tāta rājyaṃ bhavatu / na mama rājyena kāryaṃ na bhogena naiśvaryādhipatyena kāryam / tava rājyaṃ bhavatu tāta / dharmeṇa pālaye nādharmeṇeti /"
+      "text": "atha rājā taṃ bhikṣū dṛṣṭvā maulipaṭṭaṃ rājakumārasya dadāti / tava rājyaṃ bhavatu / dharmeṇa pālaye nādharmeṇa / rājakumāra āha / bahūnyasaṅkhyeyāni rājakāryāṇi mayā kṛtāni / na ca kadācittṛptirāsīt / tava tāta rājyaṃ bhavatu / na mama rājyena kāryaṃ na bhogena naiśvaryādhipatyena kāryam / tava rājyaṃ bhavatu tāta / dharmeṇa pālaye nādharmeṇeti /",
+      "segment_number": 158
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha rājā yena sa bhikṣustenopasaṅkrāntaḥ prāñjalirevamāha /"
+      "text": "atha rājā yena sa bhikṣustenopasaṅkrāntaḥ prāñjalirevamāha /",
+      "segment_number": 159
     },
     {
       "tag": "lg",
@@ -1144,12 +1303,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sudurlabhaṃ darśanatubhyamārṣāḥ kṛtāñjaliḥ samabhimukhī nāyakānām /"
+          "text": "sudurlabhaṃ darśanatubhyamārṣāḥ kṛtāñjaliḥ samabhimukhī nāyakānām /",
+          "segment_number": 160
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "mokṣāgamaṃ darśanu tubhyamārṣāḥ sudurlabhaṃ karmaśatairacintiyaiḥ //"
+          "text": "mokṣāgamaṃ darśanu tubhyamārṣāḥ sudurlabhaṃ karmaśatairacintiyaiḥ //",
+          "segment_number": 161
         }
       ]
     },
@@ -1160,19 +1321,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye darśanaṃ dāsyati tubhyamārṣā muktā ca so bheṣyati kalpakoṭibhiḥ /"
+          "text": "ye darśanaṃ dāsyati tubhyamārṣā muktā ca so bheṣyati kalpakoṭibhiḥ /",
+          "segment_number": 162
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na jātu gacche vinipātadurgatiṃ yo nāmadheyaṃ śṛṇute muhūrtam //"
+          "text": "na jātu gacche vinipātadurgatiṃ yo nāmadheyaṃ śṛṇute muhūrtam //",
+          "segment_number": 163
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "rājā āha /"
+      "text": "rājā āha /",
+      "segment_number": 164
     },
     {
       "tag": "p",
@@ -1184,18 +1348,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 126"
+          "text": "Asv 126",
+          "segment_number": 166
         },
         {
           "tag": "text",
-          "text": ")\nsūkṣmāṇi jālāni ca saṃhitāni yāṃ cīvarāṃ tubhya dadāmi adya //"
+          "text": ")\nsūkṣmāṇi jālāni ca saṃhitāni yāṃ cīvarāṃ tubhya dadāmi adya //",
+          "segment_number": 167
         }
-      ]
+      ],
+      "segment_number": 165
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha sa bhikṣū ratnamaye yugye gṛhītvā yena rājadhānī tenopasaṅkrāntaḥ /\nsantarpito bhojanena / atha nandimitramahāśrāvako rājānamajitasenaṃ gāthābhiradhyabhāṣata /"
+      "text": "atha sa bhikṣū ratnamaye yugye gṛhītvā yena rājadhānī tenopasaṅkrāntaḥ /\nsantarpito bhojanena / atha nandimitramahāśrāvako rājānamajitasenaṃ gāthābhiradhyabhāṣata /",
+      "segment_number": 168
     },
     {
       "tag": "lg",
@@ -1204,12 +1372,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "santarpito bhojana suprabhūtaṃ mṛṣṭānnapānarasamuttamaṃ śubham /"
+          "text": "santarpito bhojana suprabhūtaṃ mṛṣṭānnapānarasamuttamaṃ śubham /",
+          "segment_number": 169
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "ye bhikṣusaṅghāya dadanti dānaṃ te bodhimaṇḍena cireṇa gacchata //"
+          "text": "ye bhikṣusaṅghāya dadanti dānaṃ te bodhimaṇḍena cireṇa gacchata //",
+          "segment_number": 170
         }
       ]
     },
@@ -1220,12 +1390,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sudurlabhaṃ darśana nāyakasya na cireṇa so gacchati buddhakṣetram /"
+          "text": "sudurlabhaṃ darśana nāyakasya na cireṇa so gacchati buddhakṣetram /",
+          "segment_number": 171
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "amitāyuṣasya varabuddhakṣetre sukhāvatīṃ gacchati śīghrametat //"
+          "text": "amitāyuṣasya varabuddhakṣetre sukhāvatīṃ gacchati śīghrametat //",
+          "segment_number": 172
         }
       ]
     },
@@ -1239,22 +1411,45 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 127"
+          "text": "Asv 127",
+          "segment_number": 174
         },
         {
           "tag": "text",
-          "text": ") / athāmātyakoṭyastaṃ rājānamajitasenamevamāhuḥ / kṛtamasmābhiḥ mahārāja hastirathamaśvarathaṃ sajjam / atha rājā ajitaseno hastirathe avaruhya taṃ ca nandimitramahāśrāvakaṃ ratnamaye rathe avarohya yena jetavanaṃ vihārastenopasaṅkrāntaḥ / atha bhagavān rājānamajitasenaṃ dūrata evāgacchantaṃ dṛṣṭvā tān sarvaśrāvakānāmantrayata / sarvairnānāṛddhivikurvitaṃ darśayitavyam / atha te sarve mahāśrāvakā jvālāmālaṃ nāma bodhisattvasamādhiṃ samāpannā abhūvan / atha rājā dūratastaṃ jvālāmālaṃ dṛṣṭvā nandimitramahāśrāvakamevamāha / kasyārthe imaṃ parvataṃ jvālāmālībhūtaṃ paśyāmi / nandimitra āha / atra śākyamunistathāgato 'rhan samyaksambuddhaḥ sthitiṃ dhriyate yāpayati dharmaṃ ca deśayati / te ca bodhisattvā jvālāmālaṃ nāma bodhisattvasamādhiṃ samāpannāḥ / atha rājā ajitaseno hastirathādavatīrya pādābhyāṃ putrasahasreṇa sārdhaṃ yena bhagavāṃstenopasaṅkrāntaḥ / atha bhagavān suvarṇavarṇena kāyena vyāmaprabhayā caṅkramate sma / atha rājā ajitaseno bhagavato rūpavarṇaliṅgasaṃsthānaṃ dṛṣṭvā mūrcchitvā dharaṇitale nipatitaḥ / atha bhagavān suvarṇavarṇaṃ bāhuṃ prasārya taṃ rājānamutthāpayati sma / uttiṣṭha mahārāja kasyārthe prapatitaḥ / rājā āha / ("
+          "text": ") / athāmātyakoṭyastaṃ rājānamajitasenamevamāhuḥ / kṛtamasmābhiḥ mahārāja hastirathamaśvarathaṃ sajjam / atha rājā ajitaseno hastirathe avaruhya taṃ ca nandimitramahāśrāvakaṃ ratnamaye rathe avarohya yena jetavanaṃ vihārastenopasaṅkrāntaḥ / atha bhagavān rājānamajitasenaṃ dūrata evāgacchantaṃ dṛṣṭvā tān sarvaśrāvakānāmantrayata / sarvairnānāṛddhivikurvitaṃ darśayitavyam / atha te sarve mahāśrāvakā jvālāmālaṃ nāma bodhisattvasamādhiṃ samāpannā abhūvan / atha rājā dūratastaṃ jvālāmālaṃ dṛṣṭvā nandimitramahāśrāvakamevamāha / kasyārthe imaṃ parvataṃ jvālāmālībhūtaṃ paśyāmi / nandimitra āha / atra śākyamunistathāgato 'rhan samyaksambuddhaḥ sthitiṃ dhriyate yāpayati dharmaṃ ca deśayati / te ca bodhisattvā jvālāmālaṃ nāma bodhisattvasamādhiṃ samāpannāḥ / atha rājā ajitaseno hastirathādavatīrya pādābhyāṃ putrasahasreṇa sārdhaṃ yena bhagavāṃstenopasaṅkrāntaḥ / atha bhagavān suvarṇavarṇena kāyena vyāmaprabhayā caṅkramate sma / atha rājā ajitaseno bhagavato rūpavarṇaliṅgasaṃsthānaṃ dṛṣṭvā mūrcchitvā dharaṇitale nipatitaḥ / atha bhagavān suvarṇavarṇaṃ bāhuṃ prasārya taṃ rājānamutthāpayati sma / uttiṣṭha mahārāja kasyārthe prapatitaḥ / rājā āha / (",
+          "segment_number": 175
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 128"
+          "text": "Asv 128",
+          "segment_number": 176
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 177
+        }
+      ],
+      "segment_number": 173
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "bahūni kalpāni acintiyāni jātīśatākoṭi acintiyāni /",
+          "segment_number": 178
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na me kadācidiha dṛṣṭarūpaṃ tvaṃ lokanātho varadakṣiṇīyo //",
+          "segment_number": 179
         }
       ]
     },
@@ -1265,40 +1460,28 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bahūni kalpāni acintiyāni jātīśatākoṭi acintiyāni /"
+          "text": "tvaṃ sārthavāha jaravyādhimocakaṃ suvarṇavarṇaṃ varalakṣaṇāṅgam /",
+          "segment_number": 180
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na me kadācidiha dṛṣṭarūpaṃ tvaṃ lokanātho varadakṣiṇīyo //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tvaṃ sārthavāha jaravyādhimocakaṃ suvarṇavarṇaṃ varalakṣaṇāṅgam /"
+          "text": "dvātṛṃśatā lakṣaṇadhāriṇaṃ mune nāsau kadācidvrajate apāyabhūmim /",
+          "segment_number": 181
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "dvātṛṃśatā lakṣaṇadhāriṇaṃ mune nāsau kadācidvrajate apāyabhūmim /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "yo lokanāthasya hi rūpu paśye tvaṃ lokanāthā śirasā namasyāmī //"
+          "text": "yo lokanāthasya hi rūpu paśye tvaṃ lokanāthā śirasā namasyāmī //",
+          "segment_number": 182
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha rājā ajitasenaḥ kṛtāñjaliḥ bhagavantamevamāha / ahaṃ bhagavan tava śāsane pravrajiṣyāmi / atha bhagavān tuṣṭa udagra āttamanāḥ pramuditaḥ prītisaumanasyajātaḥ / alabdhalābhā ye tatra mama śāsanaṃ vaistārikaṃ bhavati / taṃ rājānamajitasenamevamāha / gaccha tvaṃ mahārāja svagṛhe saptame divase āgamiṣyāmi /"
+      "text": "atha rājā ajitasenaḥ kṛtāñjaliḥ bhagavantamevamāha / ahaṃ bhagavan tava śāsane pravrajiṣyāmi / atha bhagavān tuṣṭa udagra āttamanāḥ pramuditaḥ prītisaumanasyajātaḥ / alabdhalābhā ye tatra mama śāsanaṃ vaistārikaṃ bhavati / taṃ rājānamajitasenamevamāha / gaccha tvaṃ mahārāja svagṛhe saptame divase āgamiṣyāmi /",
+      "segment_number": 183
     },
     {
       "tag": "p",
@@ -1310,22 +1493,45 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 129"
+          "text": "Asv 129",
+          "segment_number": 185
         },
         {
           "tag": "text",
-          "text": ") kumbhāni paripūrayitavyāni / tadā taiḥ sarvairamātyairājñātam / sarvagrāmanagaranigamajanapadaiḥ pathaṃ śodhitaṃ dhvajānyucchrāpitāni ratnamayāni kumbhāni paripūritāni / yatra rājā ajitasenaḥ prativasati tatra dvādaśakoṭyo dhvajānāmucchrāpitā dvādaśakoṭyo ratnamayānāṃ kumbhānāṃ paripūritāḥ / yāvat saptame divase tathāgato 'rhan samyaksambuddhaḥ śāriputramaudgalyāyanānandapūrṇamaitrāyaṇīputrapramukhairmahāśrāvakasaṅghaiḥ parivṛtaḥ puraskṛtaḥ ajitasenasya rājño rājadhānīmanuprāptaḥ / atha rājā ajitasenaḥ puṣpapiṭakaṃ gṛhītvā kalyāṇamitraṃ purataḥsthāpya bhagavantaṃ puṣpairavakiran bhagavantamevamāha / anena kuśalamūlena sarvasattvā anuttarāṃ samyaksambodhimabhisampadyante / atha rājñā ajitasenena āsanāni prajñaptāni / tasya bhagavataḥ siṃhāsanaṃ pradattam / atha bhagavān siṃhāsane niṣaṇṇo rājño 'jitasenasya dharmān deśitavān / atha rājñā ajitasenena prabhūtenāhāreṇa khādanīyena bhojanīyena santarpitaḥ / atha rājā ajitaseno jyeṣṭhakaṃ rājakumāraṃ dadāti / imaṃ rājakumāraṃ pravrājaya / tadahaṃ paścāt pravrajiṣyāmi / atha bhagavānāyuṣmantamānandamāmantrayate sma / gacchānanda imaṃ rājakumāraṃ pravrājaya / ("
+          "text": ") kumbhāni paripūrayitavyāni / tadā taiḥ sarvairamātyairājñātam / sarvagrāmanagaranigamajanapadaiḥ pathaṃ śodhitaṃ dhvajānyucchrāpitāni ratnamayāni kumbhāni paripūritāni / yatra rājā ajitasenaḥ prativasati tatra dvādaśakoṭyo dhvajānāmucchrāpitā dvādaśakoṭyo ratnamayānāṃ kumbhānāṃ paripūritāḥ / yāvat saptame divase tathāgato 'rhan samyaksambuddhaḥ śāriputramaudgalyāyanānandapūrṇamaitrāyaṇīputrapramukhairmahāśrāvakasaṅghaiḥ parivṛtaḥ puraskṛtaḥ ajitasenasya rājño rājadhānīmanuprāptaḥ / atha rājā ajitasenaḥ puṣpapiṭakaṃ gṛhītvā kalyāṇamitraṃ purataḥsthāpya bhagavantaṃ puṣpairavakiran bhagavantamevamāha / anena kuśalamūlena sarvasattvā anuttarāṃ samyaksambodhimabhisampadyante / atha rājñā ajitasenena āsanāni prajñaptāni / tasya bhagavataḥ siṃhāsanaṃ pradattam / atha bhagavān siṃhāsane niṣaṇṇo rājño 'jitasenasya dharmān deśitavān / atha rājñā ajitasenena prabhūtenāhāreṇa khādanīyena bhojanīyena santarpitaḥ / atha rājā ajitaseno jyeṣṭhakaṃ rājakumāraṃ dadāti / imaṃ rājakumāraṃ pravrājaya / tadahaṃ paścāt pravrajiṣyāmi / atha bhagavānāyuṣmantamānandamāmantrayate sma / gacchānanda imaṃ rājakumāraṃ pravrājaya / (",
+          "segment_number": 186
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 130"
+          "text": "Asv 130",
+          "segment_number": 187
         },
         {
           "tag": "text",
-          "text": ") athāyuṣmatānandena sa rājakumāraḥ pravrājitaḥ / saha pravrajitamātreṇa arhatphalaṃ prāptamabhūt / sarvabuddhakṣetrāṇi paśyati sma / atha sa rājakumāro 'ntarīkṣagatastaṃ pitaraṃ gāthābhiradhyabhāṣata /"
+          "text": ") athāyuṣmatānandena sa rājakumāraḥ pravrājitaḥ / saha pravrajitamātreṇa arhatphalaṃ prāptamabhūt / sarvabuddhakṣetrāṇi paśyati sma / atha sa rājakumāro 'ntarīkṣagatastaṃ pitaraṃ gāthābhiradhyabhāṣata /",
+          "segment_number": 188
+        }
+      ],
+      "segment_number": 184
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mā vilamba kurute tāta mā khedaṃ kiñci yāsyasi /",
+          "segment_number": 189
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "aho sulabdhaṃ sugatāna darśanaṃ aho sulabdhaṃ sugatāna lābham //",
+          "segment_number": 190
         }
       ]
     },
@@ -1336,12 +1542,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "mā vilamba kurute tāta mā khedaṃ kiñci yāsyasi /"
+          "text": "aho sulabdhaṃ paramaṃ hi lābhaṃ pravrajyalābhaṃ sugatena varṇitam /",
+          "segment_number": 191
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "aho sulabdhaṃ sugatāna darśanaṃ aho sulabdhaṃ sugatāna lābham //"
+          "text": "saṃsāramokṣo sugatena varṇitaṃ pravrajya śīghraṃ ma vilamba tāta //",
+          "segment_number": 192
         }
       ]
     },
@@ -1352,38 +1560,26 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aho sulabdhaṃ paramaṃ hi lābhaṃ pravrajyalābhaṃ sugatena varṇitam /"
+          "text": "mā khedayī lokavināyakendraṃ",
+          "segment_number": 193
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "saṃsāramokṣo sugatena varṇitaṃ pravrajya śīghraṃ ma vilamba tāta //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "mā khedayī lokavināyakendraṃ"
+          "text": "sudurlabhaṃ labdha manuṣyalābhaṃ sudurlabhaṃ darśanu nāyakānām /",
+          "segment_number": 194
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sudurlabhaṃ labdha manuṣyalābhaṃ sudurlabhaṃ darśanu nāyakānām /"
+          "text": "śīghaṃ ca pravrajya mayā hi labdhaṃ prāptaṃ mayā uttamamagrabodhim /",
+          "segment_number": 195
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "śīghaṃ ca pravrajya mayā hi labdhaṃ prāptaṃ mayā uttamamagrabodhim /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "śrutvā na rājā tada putravākyaṃ sa pravrajī śāsani nāyakasya //"
+          "text": "śrutvā na rājā tada putravākyaṃ sa pravrajī śāsani nāyakasya //",
+          "segment_number": 196
         }
       ]
     },
@@ -1397,13 +1593,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 131"
+          "text": "Asv 131",
+          "segment_number": 198
         },
         {
           "tag": "text",
-          "text": ") āttamanāḥ pramuditaḥ prītisaumanasyajāto bhagavantamuddiśya vihāraṃ kārayati sma / tūryakoṭyo 'nupradattāḥ / antaḥpurasahasramasyāstrīndriyamantarhitapuruṣendriyaṃ prādurabhūt / atha rājā ajitaseno bhagavataḥ śāsane pravrajito 'bhūt / tāścāmātyakoṭyo bhagavataḥ śāsane pravrajitā abhūvan / taccāntaḥpurapuruṣasahasraṃ pravrajitamabhūt / bhagavān rājānamajitasenaṃ pravrājya yena jetavanaṃ vihārastena gamanamārabdhavān /"
+          "text": ") āttamanāḥ pramuditaḥ prītisaumanasyajāto bhagavantamuddiśya vihāraṃ kārayati sma / tūryakoṭyo 'nupradattāḥ / antaḥpurasahasramasyāstrīndriyamantarhitapuruṣendriyaṃ prādurabhūt / atha rājā ajitaseno bhagavataḥ śāsane pravrajito 'bhūt / tāścāmātyakoṭyo bhagavataḥ śāsane pravrajitā abhūvan / taccāntaḥpurapuruṣasahasraṃ pravrajitamabhūt / bhagavān rājānamajitasenaṃ pravrājya yena jetavanaṃ vihārastena gamanamārabdhavān /",
+          "segment_number": 199
         }
-      ]
+      ],
+      "segment_number": 197
     },
     {
       "tag": "p",
@@ -1415,40 +1614,48 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 132"
+          "text": "Asv 132",
+          "segment_number": 201
         },
         {
           "tag": "text",
-          "text": ") ayamānanda nandimitramahāśrāvakastatraiva kālasamaye nandiprabho nāma tathāgato 'rhan samyaksambuddho loke bhaviṣyati / ānanda āha / kīdṛśaṃ bhagavan teṣāṃ tathāgatānāṃ buddhakṣetraṃ bhaviṣyati / bhagavānāha / aparimitaguṇasañcayā nāma sā buddhakṣetraṃ bhaviṣyati yatreme tathāgatā bhaviṣyanti / ānanda āha / ya imaṃ dharmaparyāyaṃ sakalaṃ samāptaṃ paścime kāle paścime samaye samprakāśayiṣyati tasya kīdṛśaḥ puṇyaskandho bhaviṣyati / bhagavānāha / yadā mayānanda duṣkarakoṭiniyutaśatasahasrāṇi caritvā bodhirabhisambuddhā tadā te sattvā bodhimabhisambhotsyante / ya etaddharmaparyāyāt catuṣpadikāmapi gāthāṃ śroṣyanti avaivartikāśca te sattvā bhaviṣyantyanuttarāyāṃ samyaksambodhau / ānanda āha / ya imaṃ dharmaparyāyaṃ dharmabhāṇakāḥ samprakāśayiṣyanti teṣāṃ kīdṛśaṃ kuśalamūlaṃ bhaviṣyati / bhagavānāha / śṛṇu ānanda rājā bhaviṣyati cakravartī caturdvīpeśvaraḥ / ya imaṃ dhamaparyāyaṃ sakalaṃ samāptaṃ samprakāśayiṣyanti muktāśca bhaviṣyanti jātijarāvyādhiparidevaduḥkhadaurmanasyopāyāsebhyaḥ parimuktā bhaviṣyanti / ānanda āha / ye paścime kāle paścime samaye sattvā imaṃ dharmaparyāyaṃ pratikṣepsyanti na pattīyiṣyanti teṣāṃ kā gatirbhaviṣyati kaḥ parāyaṇam / ("
+          "text": ") ayamānanda nandimitramahāśrāvakastatraiva kālasamaye nandiprabho nāma tathāgato 'rhan samyaksambuddho loke bhaviṣyati / ānanda āha / kīdṛśaṃ bhagavan teṣāṃ tathāgatānāṃ buddhakṣetraṃ bhaviṣyati / bhagavānāha / aparimitaguṇasañcayā nāma sā buddhakṣetraṃ bhaviṣyati yatreme tathāgatā bhaviṣyanti / ānanda āha / ya imaṃ dharmaparyāyaṃ sakalaṃ samāptaṃ paścime kāle paścime samaye samprakāśayiṣyati tasya kīdṛśaḥ puṇyaskandho bhaviṣyati / bhagavānāha / yadā mayānanda duṣkarakoṭiniyutaśatasahasrāṇi caritvā bodhirabhisambuddhā tadā te sattvā bodhimabhisambhotsyante / ya etaddharmaparyāyāt catuṣpadikāmapi gāthāṃ śroṣyanti avaivartikāśca te sattvā bhaviṣyantyanuttarāyāṃ samyaksambodhau / ānanda āha / ya imaṃ dharmaparyāyaṃ dharmabhāṇakāḥ samprakāśayiṣyanti teṣāṃ kīdṛśaṃ kuśalamūlaṃ bhaviṣyati / bhagavānāha / śṛṇu ānanda rājā bhaviṣyati cakravartī caturdvīpeśvaraḥ / ya imaṃ dhamaparyāyaṃ sakalaṃ samāptaṃ samprakāśayiṣyanti muktāśca bhaviṣyanti jātijarāvyādhiparidevaduḥkhadaurmanasyopāyāsebhyaḥ parimuktā bhaviṣyanti / ānanda āha / ye paścime kāle paścime samaye sattvā imaṃ dharmaparyāyaṃ pratikṣepsyanti na pattīyiṣyanti teṣāṃ kā gatirbhaviṣyati kaḥ parāyaṇam / (",
+          "segment_number": 202
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 133"
+          "text": "Asv 133",
+          "segment_number": 203
         },
         {
           "tag": "text",
-          "text": ") bhagavānāha / alamalamānanda / mā me pāpakaṃ karmaskandhaṃ paripṛccha / na mayā śakyaṃ parikīrtayitum / anyatra buddhakoṭibhirnaśakyaṃ parikīrtayitum / ānanda āha / parikīrtaya bhagavan parikīrtaya / sugato bhagavānāha / śruṇu ānanda saddharmapratikṣepakasya gatiṃ parikīrtayiṣyāmi / raurave mahānarake hāhahe mahānarake avīcau mahānarake tiryagyonau yamaloke ca pretaviṣaye bahūni kalpasahasrāṇi duḥkhamanubhavitavyam / yadi kadācinmanuṣyaloke upapatsyate dīrghaśuṣkatālukaṇṭho bhaviṣyati / dvādaśayojanāni tasya jihvā bhaviṣyati / dvādaśahalyāni pravahiṣyanti ye evaṃ vāgabhāṣiṣyante / mā bhoḥ kulaputrā bhoḥ kvacit saddharmaṃ pratikṣepaṣyatha / saddharmapratikṣepakasya evaṃ gatirbhavati / ānanda āha / kena hetunā bhagavan saddharmaḥ pratikṣipto bhavati / bhagavānāha / ye sattvāḥ paścime kāle paścime samaye eteṣāṃ sūtrānudhārakāṇāṃ dharmabhāṇakānāmākrośiṣyanti paribhāṣiṣyante kutsayiṣyanti paṃsayiṣyanti tasya dharmabhāṇakasya duṣṭacittamutpādayiṣyanti tebhyaḥ saddharmaḥ pratikṣipto\nbhaviṣyati / yaḥ sattvaḥ ("
+          "text": ") bhagavānāha / alamalamānanda / mā me pāpakaṃ karmaskandhaṃ paripṛccha / na mayā śakyaṃ parikīrtayitum / anyatra buddhakoṭibhirnaśakyaṃ parikīrtayitum / ānanda āha / parikīrtaya bhagavan parikīrtaya / sugato bhagavānāha / śruṇu ānanda saddharmapratikṣepakasya gatiṃ parikīrtayiṣyāmi / raurave mahānarake hāhahe mahānarake avīcau mahānarake tiryagyonau yamaloke ca pretaviṣaye bahūni kalpasahasrāṇi duḥkhamanubhavitavyam / yadi kadācinmanuṣyaloke upapatsyate dīrghaśuṣkatālukaṇṭho bhaviṣyati / dvādaśayojanāni tasya jihvā bhaviṣyati / dvādaśahalyāni pravahiṣyanti ye evaṃ vāgabhāṣiṣyante / mā bhoḥ kulaputrā bhoḥ kvacit saddharmaṃ pratikṣepaṣyatha / saddharmapratikṣepakasya evaṃ gatirbhavati / ānanda āha / kena hetunā bhagavan saddharmaḥ pratikṣipto bhavati / bhagavānāha / ye sattvāḥ paścime kāle paścime samaye eteṣāṃ sūtrānudhārakāṇāṃ dharmabhāṇakānāmākrośiṣyanti paribhāṣiṣyante kutsayiṣyanti paṃsayiṣyanti tasya dharmabhāṇakasya duṣṭacittamutpādayiṣyanti tebhyaḥ saddharmaḥ pratikṣipto\nbhaviṣyati / yaḥ sattvaḥ (",
+          "segment_number": 204
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 134"
+          "text": "Asv 134",
+          "segment_number": 205
         },
         {
           "tag": "text",
-          "text": ") trisāhasramahāsāhasryāṃ lokadhātau sattvānāmakṣīṇyutpāṭayet ayaṃ tato bahutaramapuṇyaskandho bhavet / evameva ya eteṣāṃ sūtradhārakāṇāṃ dharmabhāṇakāṇāṃ duṣṭacittaprekṣitā ayaṃ tato bahutaramapuṇyaskandhaṃ prasaviṣyate /"
+          "text": ") trisāhasramahāsāhasryāṃ lokadhātau sattvānāmakṣīṇyutpāṭayet ayaṃ tato bahutaramapuṇyaskandho bhavet / evameva ya eteṣāṃ sūtradhārakāṇāṃ dharmabhāṇakāṇāṃ duṣṭacittaprekṣitā ayaṃ tato bahutaramapuṇyaskandhaṃ prasaviṣyate /",
+          "segment_number": 206
         }
-      ]
+      ],
+      "segment_number": 200
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha ānando bhagavato gāthāḥ pratyabhāṣata /"
+      "text": "atha ānando bhagavato gāthāḥ pratyabhāṣata /",
+      "segment_number": 207
     },
     {
       "tag": "lg",
@@ -1457,28 +1664,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "bahusūtrasahasrāṇi śrutaṃ me śāstusammukhāt /"
+          "text": "bahusūtrasahasrāṇi śrutaṃ me śāstusammukhāt /",
+          "segment_number": 208
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na came īdṛśaṃ sūtraṃ śrutapūrvaṃ kadācana //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "parinirvṛtasya śāstusya paścātkāle subhairave /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "idaṃ sūtraṃ prakāśiṣye dhārayiṣye imaṃ nayam //"
+          "text": "na came īdṛśaṃ sūtraṃ śrutapūrvaṃ kadācana //",
+          "segment_number": 209
         }
       ]
     },
@@ -1489,24 +1682,46 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yatra sūtraratne asmiṃ paścātkāle bhaviṣyati /"
+          "text": "parinirvṛtasya śāstusya paścātkāle subhairave /",
+          "segment_number": 210
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "rakṣāṃ kariṣyāmi teṣāṃ paścātkāle subhairave //"
+          "text": "idaṃ sūtraṃ prakāśiṣye dhārayiṣye imaṃ nayam //",
+          "segment_number": 211
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yatra sūtraratne asmiṃ paścātkāle bhaviṣyati /",
+          "segment_number": 212
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rakṣāṃ kariṣyāmi teṣāṃ paścātkāle subhairave //",
+          "segment_number": 213
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "pratikṣipiṣyāmi nedaṃ gambhīraṃ buddhabhāṣitam //"
+      "text": "pratikṣipiṣyāmi nedaṃ gambhīraṃ buddhabhāṣitam //",
+      "segment_number": 214
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāyuṣmānānando bhagavato gāthā bhāṣitvā tūṣṇīṃ sthito 'bhūt / atha kāśyapo mahāśrāvako bhagavantaṃ gāthābhiradhyabhāṣata /"
+      "text": "athāyuṣmānānando bhagavato gāthā bhāṣitvā tūṣṇīṃ sthito 'bhūt / atha kāśyapo mahāśrāvako bhagavantaṃ gāthābhiradhyabhāṣata /",
+      "segment_number": 215
     },
     {
       "tag": "p",
@@ -1518,11 +1733,74 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 135"
+          "text": "Asv 135",
+          "segment_number": 217
         },
         {
           "tag": "text",
-          "text": ")\nprakāśitaṃ sūtramidaṃ niruttaraṃ mā paścakāle parinirvṛte jite /"
+          "text": ")\nprakāśitaṃ sūtramidaṃ niruttaraṃ mā paścakāle parinirvṛte jite /",
+          "segment_number": 218
+        }
+      ],
+      "segment_number": 216
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dhāriṣye maṃ sūtranayaṃ niruttaraṃ /",
+          "segment_number": 219
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "athāyuṣmān śāradvatīputro bhagavantaṃ gāthābhiradhyabhāṣata /",
+          "segment_number": 220
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "namo 'stu te buddha mahānubhāva prakāśitaṃ sutramidaṃ niruttaram /",
+          "segment_number": 221
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "parinirvṛtasya tava lokanāyakā likhiṣyati sūtrametaṃ niruttaram //",
+          "segment_number": 222
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "na cāpi so gacchati durgatībhayaṃ svargaṃ ca so gacchati kṣiprametat //",
+      "segment_number": 223
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "athāyuṣmān pūrṇo maitrāyaṇīputro bhagavantaṃ gāthābhiradhyabhāṣata /",
+      "segment_number": 224
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛtajño bahusattvānāṃ mocako durgatībhayāt /",
+          "segment_number": 225
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "prakāśitaṃ tvayā sūtraṃ gambhīraṃ buddhadakṣiṇam //",
+          "segment_number": 226
         }
       ]
     },
@@ -1533,76 +1811,28 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dhāriṣye maṃ sūtranayaṃ niruttaraṃ /"
+          "text": "ahaṃ hi paścime kāle nirvṛte tvayi nāyake /",
+          "segment_number": 227
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "athāyuṣmān śāradvatīputro bhagavantaṃ gāthābhiradhyabhāṣata /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "namo 'stu te buddha mahānubhāva prakāśitaṃ sutramidaṃ niruttaram /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "parinirvṛtasya tava lokanāyakā likhiṣyati sūtrametaṃ niruttaram //"
+          "text": "idaṃ sūtraṃ prakāśiṣye hitāya sarvaprāṇinām //",
+          "segment_number": 228
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "na cāpi so gacchati durgatībhayaṃ svargaṃ ca so gacchati kṣiprametat //"
+      "text": "iti /",
+      "segment_number": 229
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāyuṣmān pūrṇo maitrāyaṇīputro bhagavantaṃ gāthābhiradhyabhāṣata /"
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "kṛtajño bahusattvānāṃ mocako durgatībhayāt /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "prakāśitaṃ tvayā sūtraṃ gambhīraṃ buddhadakṣiṇam //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "ahaṃ hi paścime kāle nirvṛte tvayi nāyake /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "idaṃ sūtraṃ prakāśiṣye hitāya sarvaprāṇinām //"
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "iti /"
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "atha brahmā sahāmpatirbhagavantaṃ gāthābhiradhyabhāṣata /"
+      "text": "atha brahmā sahāmpatirbhagavantaṃ gāthābhiradhyabhāṣata /",
+      "segment_number": 230
     },
     {
       "tag": "p",
@@ -1614,18 +1844,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Asv 136"
+          "text": "Asv 136",
+          "segment_number": 232
         },
         {
           "tag": "text",
-          "text": ")\nparinirvṛtasya tava lokanāyaka rakṣāṃ kariṣyāmi ha sūtraratne //"
+          "text": ")\nparinirvṛtasya tava lokanāyaka rakṣāṃ kariṣyāmi ha sūtraratne //",
+          "segment_number": 233
         }
-      ]
+      ],
+      "segment_number": 231
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha catvāro mahārājā bhagavantaṃ gāthābhiradhyabhāṣanta /"
+      "text": "atha catvāro mahārājā bhagavantaṃ gāthābhiradhyabhāṣanta /",
+      "segment_number": 234
     },
     {
       "tag": "lg",
@@ -1634,12 +1868,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aho suramyaṃ varasūtraratnaṃ prakāśitam īdṛśa paścakāle /"
+          "text": "aho suramyaṃ varasūtraratnaṃ prakāśitam īdṛśa paścakāle /",
+          "segment_number": 235
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "..................sūtraratnaṃ prakāśitaṃ paśyati paścakāle //"
+          "text": "..................sūtraratnaṃ prakāśitaṃ paśyati paścakāle //",
+          "segment_number": 236
         }
       ]
     },
@@ -1650,29 +1886,34 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sugatāna vai lokavināyakānāṃ ahaṃ hi dhāriṣyam sūtraratnam /"
+          "text": "sugatāna vai lokavināyakānāṃ ahaṃ hi dhāriṣyam sūtraratnam /",
+          "segment_number": 237
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "rakṣāṃ kariṣyāmyaha sūtraratnaṃ imavocadbhagavānāttamanā //"
+          "text": "rakṣāṃ kariṣyāmyaha sūtraratnaṃ imavocadbhagavānāttamanā //",
+          "segment_number": 238
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "sā ca sarvāvatī parṣadbhagavato bhāṣitamabhyanandat /"
+      "text": "sā ca sarvāvatī parṣadbhagavato bhāṣitamabhyanandat /",
+      "segment_number": 239
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ajitasenavyakaraṇanirdeśo nāma mahāyānasūtraṃ samāptam //"
+      "text": "ajitasenavyakaraṇanirdeśo nāma mahāyānasūtraṃ samāptam //",
+      "segment_number": 240
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "deyadharmoyaṃ bālosiṃhena sārdha bhāryājājatitrana sārdhaṃ mātāpitroḥ paramaduṣkartroḥ sārdhaṃ kṣīṇīena akhiloṭiena diśoṭajāja maṅgali.......\nutrayannagarvidoṭiena vaṭrari-khuśoṭi-khūśogoṭiena sārdhaṃ sarvasattvaiḥ sarva...... bhiryatra puṇya tadbha......\nsarvasattvānāmanuttaraḥ...... sārdhaṃ paramakalyāṇamitrasthirabandhuena / lisvitamidaṃ pustakaṃ dharmabhāṇakanarendradattena /"
+      "text": "deyadharmoyaṃ bālosiṃhena sārdha bhāryājājatitrana sārdhaṃ mātāpitroḥ paramaduṣkartroḥ sārdhaṃ kṣīṇīena akhiloṭiena diśoṭajāja maṅgali.......\nutrayannagarvidoṭiena vaṭrari-khuśoṭi-khūśogoṭiena sārdhaṃ sarvasattvaiḥ sarva...... bhiryatra puṇya tadbha......\nsarvasattvānāmanuttaraḥ...... sārdhaṃ paramakalyāṇamitrasthirabandhuena / lisvitamidaṃ pustakaṃ dharmabhāṇakanarendradattena /",
+      "segment_number": 241
     }
   ]
 }

@@ -37,12 +37,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Stūpa-lakṣaṇa-kārikā-vivecanaṃ\nincluding\nprakīrṇaka-caitya-lakṣaṇaṃ"
+      "text": "Stūpa-lakṣaṇa-kārikā-vivecanaṃ\nincluding\nprakīrṇaka-caitya-lakṣaṇaṃ",
+      "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Ārya-Lokottaravādino yat kṛtir\nĀcārya-bhadravyūhasya"
+      "text": "Ārya-Lokottaravādino yat kṛtir\nĀcārya-bhadravyūhasya",
+      "segment_number": 2
     },
     {
       "tag": "p",
@@ -53,11 +55,13 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 208"
+          "text": "Slkv p. 208",
+          "segment_number": 3
         },
         {
           "tag": "text",
-          "text": "siddhaṃ namo buddhāya ||"
+          "text": "siddhaṃ namo buddhāya ||",
+          "segment_number": 4
         }
       ]
     },
@@ -68,17 +72,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "Slkv §1"
+          "text": "Slkv §1",
+          "segment_number": 5
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "prakīrṇakavinaye proktaṃ yal lokottaravādināṃ |"
+          "text": "prakīrṇakavinaye proktaṃ yal lokottaravādināṃ |",
+          "segment_number": 6
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yac cānyeṣāṃ nikāyānāṃ sūtrādau stūpalakṣaṇaṃ || 1 ||"
+          "text": "yac cānyeṣāṃ nikāyānāṃ sūtrādau stūpalakṣaṇaṃ || 1 ||",
+          "segment_number": 7
         }
       ]
     },
@@ -92,22 +99,45 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 209"
+          "text": "Slkv p. 209",
+          "segment_number": 9
         },
         {
           "tag": "text",
-          "text": "sarvan tan se"
+          "text": "sarvan tan se",
+          "segment_number": 10
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tum ive"
+          "text": "tum ive",
+          "segment_number": 11
         },
         {
           "tag": "text",
-          "text": "ha bhadravyūhena kathyate || 2 ||"
+          "text": "ha bhadravyūhena kathyate || 2 ||",
+          "segment_number": 12
+        }
+      ],
+      "segment_number": 8
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhigamye bhuvo bhāge vāstuśuddhe 'pratiṣṭhite |",
+          "segment_number": 13
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na khabaddhaunnate snigdhe sthāne śucini kārayet || 3 ||",
+          "segment_number": 14
         }
       ]
     },
@@ -118,12 +148,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "abhigamye bhuvo bhāge vāstuśuddhe 'pratiṣṭhite |"
+          "text": "yojanocchrek'; eka nirdiṣṭaṃ parikṣepo 'rdhayojanaḥ |",
+          "segment_number": 15
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na khabaddhaunnate snigdhe sthāne śucini kārayet || 3 ||"
+          "text": "krośavistārā vedikā prakīrṇavinayoditaṃ || 4 ||",
+          "segment_number": 16
         }
       ]
     },
@@ -134,12 +166,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yojanocchrek'; eka nirdiṣṭaṃ parikṣepo 'rdhayojanaḥ |"
+          "text": "pariṇāhena kumbhasya stūpam ucce prakīrtitaṃ |",
+          "segment_number": 17
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "krośavistārā vedikā prakīrṇavinayoditaṃ || 4 ||"
+          "text": "tad aṃśena tu nemy ādi yāvad yaṣṭiśiraṃ kramāt || 5 ||",
+          "segment_number": 18
         }
       ]
     },
@@ -150,12 +184,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "pariṇāhena kumbhasya stūpam ucce prakīrtitaṃ |"
+          "text": "caturasrā bhaven nemir adhastātaḥ tad ardhena |",
+          "segment_number": 19
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tad aṃśena tu nemy ādi yāvad yaṣṭiśiraṃ kramāt || 5 ||"
+          "text": "pramāṇena karaṇḍasya anubandhena cāpi kā || 6 ||",
+          "segment_number": 20
         }
       ]
     },
@@ -166,12 +202,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "caturasrā bhaven nemir adhastātaḥ tad ardhena |"
+          "text": "karaṇḍasyāṣṭabhāgena adho neminimarjanaṃ |",
+          "segment_number": 21
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pramāṇena karaṇḍasya anubandhena cāpi kā || 6 ||"
+          "text": "udakodgamane yāvad ā śuddher cco bhuvaḥ smṛtāḥ || 7 ||",
+          "segment_number": 22
         }
       ]
     },
@@ -182,12 +220,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "karaṇḍasyāṣṭabhāgena adho neminimarjanaṃ |"
+          "text": "aṣṭabhāgonnataṃ - - kāryeṇa nemi mātrataḥ |",
+          "segment_number": 23
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "udakodgamane yāvad ā śuddher cco bhuvaḥ smṛtāḥ || 7 ||"
+          "text": "maṇḍalaṃ caturasraṃ vā anyathānukārayet || 8 ||",
+          "segment_number": 24
         }
       ]
     },
@@ -198,12 +238,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "aṣṭabhāgonnataṃ - - kāryeṇa nemi mātrataḥ |"
+          "text": "tad ūrdhvaṃ vedikāḥ kāryāḥ catustridv'eka saṃkhyayā |",
+          "segment_number": 25
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "maṇḍalaṃ caturasraṃ vā anyathānukārayet || 8 ||"
+          "text": "catuṣkoṇāṣṭakoṇā vā athavā parimaṇḍalā || 9 ||",
+          "segment_number": 26
         }
       ]
     },
@@ -214,12 +256,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "tad ūrdhvaṃ vedikāḥ kāryāḥ catustridv'eka saṃkhyayā |"
+          "text": "sārccā gṛh'; ekasaṃyuktāṃ ūrdhvāṃ vediṃ prakalpayet |",
+          "segment_number": 27
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "catuṣkoṇāṣṭakoṇā vā athavā parimaṇḍalā || 9 ||"
+          "text": "karaṇḍasya samantena nānāvidyāvibhūṣitāṃ || 10 ||",
+          "segment_number": 28
         }
       ]
     },
@@ -230,35 +274,22 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sārccā gṛh'; ekasaṃyuktāṃ ūrdhvāṃ vediṃ prakalpayet |"
+          "text": "ataś catukoṇabhāge madhyakoṣṭhapramāṇataḥ |",
+          "segment_number": 29
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "karaṇḍasya samantena nānāvidyāvibhūṣitāṃ || 10 ||"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "ataś catukoṇabhāge madhyakoṣṭhapramāṇataḥ |"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tisras teṣāṃ tu kartavyā caturthaṃ biṃba ba || 11 ||"
+          "text": "tisras teṣāṃ tu kartavyā caturthaṃ biṃba ba || 11 ||",
+          "segment_number": 30
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Here the text breaks off, as folio 2a,b is missing. From the commentary, I am quoting the fragmentary pieces of the stanzas which were included in the text portion of folio 2a,b."
+      "text": "Here the text breaks off, as folio 2a,b is missing. From the commentary, I am quoting the fragmentary pieces of the stanzas which were included in the text portion of folio 2a,b.",
+      "segment_number": 31
     },
     {
       "tag": "p",
@@ -268,71 +299,85 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "adho vedyā vistāras tad vedikāyā hrasve kṛtam | ... [15] (§18.6b.7)."
+          "text": "adho vedyā vistāras tad vedikāyā hrasve kṛtam | ... [15] (§18.6b.7).",
+          "segment_number": 33
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "unnāmena tathā kuryād ity ādi | [16] (§19.7a.l)."
+          "text": "unnāmena tathā kuryād ity ādi | [16] (§19.7a.l).",
+          "segment_number": 34
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tisro vedyaḥ jaṃghāvedikādyāḥ ity ādhyāhāryaṃ | [17] (§19.7a.2)."
+          "text": "tisro vedyaḥ jaṃghāvedikādyāḥ ity ādhyāhāryaṃ | [17] (§19.7a.2).",
+          "segment_number": 35
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "na nirgacchet yathābiṃbam ity ādi | [18] (§19.7a2-3)."
+          "text": "na nirgacchet yathābiṃbam ity ādi | [18] (§19.7a2-3).",
+          "segment_number": 36
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "karaṇḍake hy udgatety ādi | [19] (§20.7a.4)."
+          "text": "karaṇḍake hy udgatety ādi | [19] (§20.7a.4).",
+          "segment_number": 37
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 210"
+          "text": "Slkv p. 210",
+          "segment_number": 38
         }
-      ]
+      ],
+      "segment_number": 32
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "karaṇḍaś ca tatas tūrikām iti | [20] (§21.7a.7)."
+      "text": "karaṇḍaś ca tatas tūrikām iti | [20] (§21.7a.7).",
+      "segment_number": 39
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "aṇḍakaṃ vaṭayitavyam iti | [21] (§22.7b.l)."
+      "text": "aṇḍakaṃ vaṭayitavyam iti | [21] (§22.7b.l).",
+      "segment_number": 40
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "tasyādho bāhyakoṣṭhasyeti | [22] (§23.7b.2)."
+      "text": "tasyādho bāhyakoṣṭhasyeti | [22] (§23.7b.2).",
+      "segment_number": 41
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "tatpātrākāraṃ śāntikām iti | [22a] (§23.7b.3)."
+      "text": "tatpātrākāraṃ śāntikām iti | [22a] (§23.7b.3).",
+      "segment_number": 42
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "sarvān manāsamaṃ somyam ity ādi | [23] (§23.7b.5)."
+      "text": "sarvān manāsamaṃ somyam ity ādi | [23] (§23.7b.5).",
+      "segment_number": 43
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "tad ūrdhvaṃ bāhyakoṣṭhasyety ādi | [24] (§25.8a.l)."
+      "text": "tad ūrdhvaṃ bāhyakoṣṭhasyety ādi | [24] (§25.8a.l).",
+      "segment_number": 44
     },
     {
       "tag": "l",
       "attributes": {},
-      "text": "pañcaviṃśatikoṣṭhakam ity ādi | [25] (§27.8a.45)."
+      "text": "pañcaviṃśatikoṣṭhakam ity ādi | [25] (§27.8a.45).",
+      "segment_number": 45
     },
     {
       "tag": "lg",
@@ -341,28 +386,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ś catvāraṃ pudgalā matāḥ |"
+          "text": "ś catvāraṃ pudgalā matāḥ |",
+          "segment_number": 46
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "arhanta cakravartis tu pratyekaś ca jino jinaḥ || 26 ||"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "śaikṣāṇāṃ arhataś caiva gaṇakhaḍga jinasya ca |"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "ekādhikaṃ tu kartavyaṃ cchatrāvalyāṃ vibhūṣitaṃ || 27 ||"
+          "text": "arhanta cakravartis tu pratyekaś ca jino jinaḥ || 26 ||",
+          "segment_number": 47
         }
       ]
     },
@@ -373,12 +404,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "śarīre dhātubhir yuktaṃ dharmadhātuvivarjitaṃ |"
+          "text": "śaikṣāṇāṃ arhataś caiva gaṇakhaḍga jinasya ca |",
+          "segment_number": 48
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "uṣṇīṣacandrasūryaś ca stambhā ghaṇṭadvayena ca || 28 ||"
+          "text": "ekādhikaṃ tu kartavyaṃ cchatrāvalyāṃ vibhūṣitaṃ || 27 ||",
+          "segment_number": 49
         }
       ]
     },
@@ -389,12 +422,32 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "svabhāvaṃ kalpavedādīṃ stūpasyāsya tu kathyayet |"
+          "text": "śarīre dhātubhir yuktaṃ dharmadhātuvivarjitaṃ |",
+          "segment_number": 50
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "adharā bhūmi pādāya yāvad ūrdhvaṃ krameṇa tu || 29 ||"
+          "text": "uṣṇīṣacandrasūryaś ca stambhā ghaṇṭadvayena ca || 28 ||",
+          "segment_number": 51
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svabhāvaṃ kalpavedādīṃ stūpasyāsya tu kathyayet |",
+          "segment_number": 52
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "adharā bhūmi pādāya yāvad ūrdhvaṃ krameṇa tu || 29 ||",
+          "segment_number": 53
         }
       ]
     },
@@ -408,20 +461,24 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 211"
+          "text": "Slkv p. 211",
+          "segment_number": 55
         },
         {
           "tag": "text",
-          "text": "8. ṛddhipādās tṛtīyā vedī\n9. śraddhādīni paṃcendriyāni caturthī jaṃghāvedī\n10. śraddhādīni pañcabalāni kaṇṭhakaṃ\n11. anityādīni dharmamukhāni catasraḥ puṣpagrahaṇyāḥ\n12. anāsravāḥ prathamadhyānabhūmijā prasrabdhisaṃbodhyaṅgaṃ kaṇṭhakaṃ\n13. dvitīyatṛtīyadhyānabhūmijā prītiprīti saṃbodhyaṅgaṃ kaṇṭhakavalayaṃ valitakaṃ\n14. anāgamyacaturthadhyānādibhūmijā upekṣāvedanā-upekṣāsaṃbodhyaṅgaṃ harmikā\n15. smṛtidharmapravicayavīryasamādhisaṃbodhyaṅgāni catvāro lokapālāḥ"
+          "text": "8. ṛddhipādās tṛtīyā vedī\n9. śraddhādīni paṃcendriyāni caturthī jaṃghāvedī\n10. śraddhādīni pañcabalāni kaṇṭhakaṃ\n11. anityādīni dharmamukhāni catasraḥ puṣpagrahaṇyāḥ\n12. anāsravāḥ prathamadhyānabhūmijā prasrabdhisaṃbodhyaṅgaṃ kaṇṭhakaṃ\n13. dvitīyatṛtīyadhyānabhūmijā prītiprīti saṃbodhyaṅgaṃ kaṇṭhakavalayaṃ valitakaṃ\n14. anāgamyacaturthadhyānādibhūmijā upekṣāvedanā-upekṣāsaṃbodhyaṅgaṃ harmikā\n15. smṛtidharmapravicayavīryasamādhisaṃbodhyaṅgāni catvāro lokapālāḥ",
+          "segment_number": 56
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 212"
+          "text": "Slkv p. 212",
+          "segment_number": 57
         }
-      ]
+      ],
+      "segment_number": 54
     },
     {
       "tag": "lg",
@@ -430,17 +487,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "16. āryāṣṭāṅgo mārgo yaṣṭiḥ"
+          "text": "16. āryāṣṭāṅgo mārgo yaṣṭiḥ",
+          "segment_number": 58
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "17. kṣīṇāsravabalāni trīṇi cāvenikāni smṛtyupasthānāni trayodaśa cchatravalyāḥ"
+          "text": "17. kṣīṇāsravabalāni trīṇi cāvenikāni smṛtyupasthānāni trayodaśa cchatravalyāḥ",
+          "segment_number": 59
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "18. uṣṇīṣo mahākaruṇāviśuddhiḥ (Bénisti: tad upari anuttaramahākaruṇāviśuddhyā uṣṇīṣaṃ ||)"
+          "text": "18. uṣṇīṣo mahākaruṇāviśuddhiḥ (Bénisti: tad upari anuttaramahākaruṇāviśuddhyā uṣṇīṣaṃ ||)",
+          "segment_number": 60
         }
       ]
     },
@@ -454,23 +514,28 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 213"
+          "text": "Slkv p. 213",
+          "segment_number": 62
         },
         {
           "tag": "text",
-          "text": "20. saṃvṛttisatyaṃ paramārthasatyaṃ candrasūryau\n21. āryaratnam idaṃ gāthādvayam satvaviṣayātmagataṃ ghaṇṭādvayaṃ\n22. sarvākārajñātājñānaṃ cchatraṃ\n23. alobhātmikacetovimukti dhvajaṃ ity api sa bhagavān ity ādi\n24. yaśas patākāḥ"
+          "text": "20. saṃvṛttisatyaṃ paramārthasatyaṃ candrasūryau\n21. āryaratnam idaṃ gāthādvayam satvaviṣayātmagataṃ ghaṇṭādvayaṃ\n22. sarvākārajñātājñānaṃ cchatraṃ\n23. alobhātmikacetovimukti dhvajaṃ ity api sa bhagavān ity ādi\n24. yaśas patākāḥ",
+          "segment_number": 63
         }
-      ]
+      ],
+      "segment_number": 61
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "prakīrṇakacaityalakṣanaṃ samāptam ||"
+      "text": "prakīrṇakacaityalakṣanaṃ samāptam ||",
+      "segment_number": 64
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "|| āryalokottaravādino yat kṛtir ācārya bhadravyūhasya |"
+      "text": "|| āryalokottaravādino yat kṛtir ācārya bhadravyūhasya |",
+      "segment_number": 65
     },
     {
       "tag": "p",
@@ -481,7 +546,8 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 214"
+          "text": "Slkv p. 214",
+          "segment_number": 66
         }
       ]
     },
@@ -492,17 +558,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "Slkv §4"
+          "text": "Slkv §4",
+          "segment_number": 67
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "nirjitāśeṣadoṣagaṃ guṇotvākaparāgatāḥ |"
+          "text": "nirjitāśeṣadoṣagaṃ guṇotvākaparāgatāḥ |",
+          "segment_number": 68
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "jayanti jitajanmāno bhagavantas tathāgatāḥ || 1 ||"
+          "text": "jayanti jitajanmāno bhagavantas tathāgatāḥ || 1 ||",
+          "segment_number": 69
         }
       ]
     },
@@ -513,12 +582,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "stūpaṃ kṛtvopadeśena yen'; artho jagataḥ kṛtaḥ |"
+          "text": "stūpaṃ kṛtvopadeśena yen'; artho jagataḥ kṛtaḥ |",
+          "segment_number": 70
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tam ahaṃ śirasā vande bhadravyūhāhvayaṃ yatiṃ || 2 ||"
+          "text": "tam ahaṃ śirasā vande bhadravyūhāhvayaṃ yatiṃ || 2 ||",
+          "segment_number": 71
         }
       ]
     },
@@ -529,24 +600,28 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "sandigdhājñaviparyastadhiyaṃ saṃpratipattaye |"
+          "text": "sandigdhājñaviparyastadhiyaṃ saṃpratipattaye |",
+          "segment_number": 72
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "stūpalakṣaṇaśāstrasya vivecanam ihocyate || 3 ||"
+          "text": "stūpalakṣaṇaśāstrasya vivecanam ihocyate || 3 ||",
+          "segment_number": 73
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §5 prakīrṇam ity ādi | iṣṭadevatāyā namaskāraḥ sadācārānuvṛttaye | kim artham ācāryeṇa praṇāmārambhena kṛtaḥ | kṛto hy ācāryeṇa prakīrṇavinayasaṃgrahakārikādau namaskāraḥ | yasya vāco mano dehākhatulyāḥ sarvathā muneḥ || taṃ pranasyata sātatvaṃ vakṣye vinayakārikām iti || tad ekadeśa bhūtaṃ caidam ity anena nātrābhihitaṃ | ata eva prakīrṇavinaya ity ādinā tayavatām asya sūcayati śāstrakāra ity ato na doṣaḥ |"
+      "text": "Slkv §5 prakīrṇam ity ādi | iṣṭadevatāyā namaskāraḥ sadācārānuvṛttaye | kim artham ācāryeṇa praṇāmārambhena kṛtaḥ | kṛto hy ācāryeṇa prakīrṇavinayasaṃgrahakārikādau namaskāraḥ | yasya vāco mano dehākhatulyāḥ sarvathā muneḥ || taṃ pranasyata sātatvaṃ vakṣye vinayakārikām iti || tad ekadeśa bhūtaṃ caidam ity anena nātrābhihitaṃ | ata eva prakīrṇavinaya ity ādinā tayavatām asya sūcayati śāstrakāra ity ato na doṣaḥ |",
+      "segment_number": 74
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §6 prakīrṇake hi yad viṃśatisahasrāyuṣiprajāyāṃ bhagavataḥ kāśyapasya kṛkina rājñā stūpaḥ kṛtaḥ yojanam uccatvena yojanaṃ pariṇāhena ardhayojana pratisareṇa krośamātrikayā vedikayā | tāmraloharaitikāya hastacāraṇāya tam upadarśayitvoktaṃ | sthale pradeśe stūpaṃ kartavyaṃ kārayatā prācīran ty evaṃ kartavyaṃ."
+      "text": "Slkv §6 prakīrṇake hi yad viṃśatisahasrāyuṣiprajāyāṃ bhagavataḥ kāśyapasya kṛkina rājñā stūpaḥ kṛtaḥ yojanam uccatvena yojanaṃ pariṇāhena ardhayojana pratisareṇa krośamātrikayā vedikayā | tāmraloharaitikāya hastacāraṇāya tam upadarśayitvoktaṃ | sthale pradeśe stūpaṃ kartavyaṃ kārayatā prācīran ty evaṃ kartavyaṃ.",
+      "segment_number": 75
     },
     {
       "tag": "p",
@@ -558,33 +633,40 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 215"
+          "text": "Slkv p. 215",
+          "segment_number": 77
         },
         {
           "tag": "text",
-          "text": "iti | tad anyeṣāṃ nikāyānām iti sarvāstivādināṃ stūpakalpanāsūtre kṣudrake coktaṃ |"
+          "text": "iti | tad anyeṣāṃ nikāyānām iti sarvāstivādināṃ stūpakalpanāsūtre kṣudrake coktaṃ |",
+          "segment_number": 78
         }
-      ]
+      ],
+      "segment_number": 76
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §8 sagṛhastūpaḥ stambhaś catasraḥ pariṣaṇṇāḥ stambha sopāna lokapālā sthā sacandrasitāmbaraḥ patākā makaradhvajādayaḥ coktāḥ |"
+      "text": "Slkv §8 sagṛhastūpaḥ stambhaś catasraḥ pariṣaṇṇāḥ stambha sopāna lokapālā sthā sacandrasitāmbaraḥ patākā makaradhvajādayaḥ coktāḥ |",
+      "segment_number": 79
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §9 kūṭāgārasūtre coktaṃ | sarṣapaphalamātra dhātor arthāya āmalakamātraṃ stūpaṃ kārayet | tasmiṃ stūpe sūcīmātraṃ yaṣṭim āropayet | badarīpatramātraṃ cchatram āropayet |"
+      "text": "Slkv §9 kūṭāgārasūtre coktaṃ | sarṣapaphalamātra dhātor arthāya āmalakamātraṃ stūpaṃ kārayet | tasmiṃ stūpe sūcīmātraṃ yaṣṭim āropayet | badarīpatramātraṃ cchatram āropayet |",
+      "segment_number": 80
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §10 abhigamya iti | abhigamye praśaste bahujanopasaṃkramaṇīye na vā | vāstuśuddhe vāstuvidyāpraṇītalakṣaṇānvite | apratiṣṭhite anyacaityarahite | na khādi varjitonnate madhyonnate snigdhe arūkṣe śucini amedhyarahite || ity evaṃ stūpodgamapradeśaviśeṣaṃ nirdhāya lakṣaṇaṃ samupadarśayann āha | parinahena kumbhasyety ādi | parihaṇaṃ parināhaḥ pariṇāha | madhyabhāgaparikṣepaḥ paribandha yathāroha pariṇāhasaṃpannapuruṣa iti || tatra ca ārohaśabdenoccatvaṃ kathyate | na pariṇāhaśabdenoccatvaṃ | pariṇāhaśabdenābhidhānāt ||"
+      "text": "Slkv §10 abhigamya iti | abhigamye praśaste bahujanopasaṃkramaṇīye na vā | vāstuśuddhe vāstuvidyāpraṇītalakṣaṇānvite | apratiṣṭhite anyacaityarahite | na khādi varjitonnate madhyonnate snigdhe arūkṣe śucini amedhyarahite || ity evaṃ stūpodgamapradeśaviśeṣaṃ nirdhāya lakṣaṇaṃ samupadarśayann āha | parinahena kumbhasyety ādi | parihaṇaṃ parināhaḥ pariṇāha | madhyabhāgaparikṣepaḥ paribandha yathāroha pariṇāhasaṃpannapuruṣa iti || tatra ca ārohaśabdenoccatvaṃ kathyate | na pariṇāhaśabdenoccatvaṃ | pariṇāhaśabdenābhidhānāt ||",
+      "segment_number": 81
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §11 evam ihāpi pariṇāhaśabdena maṇḍalanābheś caturdiśaṃ | cakrāranyāyena madhyasūtraparikṣepaḥ paribandho 'bhiproktaḥ | caturthī pi kalaśādisthasaṃsthāneṣu tan mātraṃ pṛthutvasyāvyabhicārāt | kiṃ saṃbandhinā pariṇāhena kumbhasya kumbhuḥ karaṇḍaka tasya pariṇāhena stūpa dairgheṇeṣṭam ity arthaḥ | uktaṃ hi prakīrṇavinaye yojanam uccatvena yojanaṃ pariṇāheneti | caturasrā bhaven nemir ity ādi | caturasrā catuṣkoṇabhūmyāṃ kumbhaḥ karaṇḍaḥ maṇḍalānurūpyena nemivistāro bhavatīty arthaḥ |"
+      "text": "Slkv §11 evam ihāpi pariṇāhaśabdena maṇḍalanābheś caturdiśaṃ | cakrāranyāyena madhyasūtraparikṣepaḥ paribandho 'bhiproktaḥ | caturthī pi kalaśādisthasaṃsthāneṣu tan mātraṃ pṛthutvasyāvyabhicārāt | kiṃ saṃbandhinā pariṇāhena kumbhasya kumbhuḥ karaṇḍaka tasya pariṇāhena stūpa dairgheṇeṣṭam ity arthaḥ | uktaṃ hi prakīrṇavinaye yojanam uccatvena yojanaṃ pariṇāheneti | caturasrā bhaven nemir ity ādi | caturasrā catuṣkoṇabhūmyāṃ kumbhaḥ karaṇḍaḥ maṇḍalānurūpyena nemivistāro bhavatīty arthaḥ |",
+      "segment_number": 82
     },
     {
       "tag": "p",
@@ -596,28 +678,34 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 216"
+          "text": "Slkv p. 216",
+          "segment_number": 84
         },
         {
           "tag": "text",
-          "text": "tato 'bhyantare ca nemibhittivistārārdhena draṣṭavyam iti | karaṇḍakasyāṣṭabhāgenety adi kumbhapariṇāhāṣṭamāṃsenādhastān nemyā nimarjanaṃ | udakodbhedaṃ vā yāvad āśuddher vā bhuvaḥ pṛthivyāḥ smṛtam ity arthaḥ | aṣṭabhāgonnatam ity ādi nemimānād aṣṭamāṃsam ādāya tenājitam unnataṃ kāryam ity arthaḥ |"
+          "text": "tato 'bhyantare ca nemibhittivistārārdhena draṣṭavyam iti | karaṇḍakasyāṣṭabhāgenety adi kumbhapariṇāhāṣṭamāṃsenādhastān nemyā nimarjanaṃ | udakodbhedaṃ vā yāvad āśuddher vā bhuvaḥ pṛthivyāḥ smṛtam ity arthaḥ | aṣṭabhāgonnatam ity ādi nemimānād aṣṭamāṃsam ādāya tenājitam unnataṃ kāryam ity arthaḥ |",
+          "segment_number": 85
         }
-      ]
+      ],
+      "segment_number": 83
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §13 yataḥ prakīrṇake h'; uktaṃ | aṃgana na khasthala kāryam iti | vistāratas tv ayā vedikād bahiḥ kumbhapariṇāhapādenaiṣṭaṃ | catur asrikā medhī vedī jaṃghāpuṭāvedī kartavyeti |"
+      "text": "Slkv §13 yataḥ prakīrṇake h'; uktaṃ | aṃgana na khasthala kāryam iti | vistāratas tv ayā vedikād bahiḥ kumbhapariṇāhapādenaiṣṭaṃ | catur asrikā medhī vedī jaṃghāpuṭāvedī kartavyeti |",
+      "segment_number": 86
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §14 sarvāstivādakānām āgameṣūktaṃ | catasra pariṣaṇṇāḥ kartavyā iti catus tri dv'; eka saṃkhyāyety anenena vedikābhisaṃbandhaḥ kriyate | catasraḥ parisaṇṇā kartavyāḥ | catvāri smṛtyupasthānāni prathamā vedī || yāvat paṃcendriyāṇi caturthī vedī | aneneva vinaye tatva uktā vedikānāṃ |"
+      "text": "Slkv §14 sarvāstivādakānām āgameṣūktaṃ | catasra pariṣaṇṇāḥ kartavyā iti catus tri dv'; eka saṃkhyāyety anenena vedikābhisaṃbandhaḥ kriyate | catasraḥ parisaṇṇā kartavyāḥ | catvāri smṛtyupasthānāni prathamā vedī || yāvat paṃcendriyāṇi caturthī vedī | aneneva vinaye tatva uktā vedikānāṃ |",
+      "segment_number": 87
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §15 katamaḥ saṃsthānābhisaṃbandhaḥ kriyate | tad āha ca catuṣkonāṣṭakoṇā vā athavā parimaṇḍaleti | sarvā gṛh'; ekasaṃyuktān ity ādinā | āyakapuṣpagrahāṇy āpekṣatāṃ | caturthī jaṃghāvedikāt kuryād ity artha | yataḥ prakīrṇake uktaṃ | caturdikṣu āyakāḥ kartavyāḥ | ayam eṣu buddhavigrahāḥ sthāpayitavyā | puṣpagrahaṇī kartavyeti | tatrāyakaśabdena pratipālakam ucyate | puṣpagrahaṇīśabdena na ca vedikābāhyata samantato vāpya paṃktyākāreṇa nānāsaṃsthānagṛhadvāramātre pūrvajātakapratimāṇāṃ racaneti ||"
+      "text": "Slkv §15 katamaḥ saṃsthānābhisaṃbandhaḥ kriyate | tad āha ca catuṣkonāṣṭakoṇā vā athavā parimaṇḍaleti | sarvā gṛh'; ekasaṃyuktān ity ādinā | āyakapuṣpagrahāṇy āpekṣatāṃ | caturthī jaṃghāvedikāt kuryād ity artha | yataḥ prakīrṇake uktaṃ | caturdikṣu āyakāḥ kartavyāḥ | ayam eṣu buddhavigrahāḥ sthāpayitavyā | puṣpagrahaṇī kartavyeti | tatrāyakaśabdena pratipālakam ucyate | puṣpagrahaṇīśabdena na ca vedikābāhyata samantato vāpya paṃktyākāreṇa nānāsaṃsthānagṛhadvāramātre pūrvajātakapratimāṇāṃ racaneti ||",
+      "segment_number": 88
     },
     {
       "tag": "p",
@@ -629,13 +717,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 217"
+          "text": "Slkv p. 217",
+          "segment_number": 90
         },
         {
           "tag": "text",
-          "text": "bāhyakoṣṭhāṃśas tatra dhānyarāśikṛtaḥ | sarveṇaiva caturthakena | tribhi pādaiḥ pātrākṛti | dvābhyāṃ pādābhyāṃ khagaṇḍākṛteḥ | pādaikena kalaśākārasyeti | madhyakoṣṭhapramāṇam iti madhyakoṣṭhapramāṇādya pramāṇagatenety ādi | etad uktaṃ bhavati | tatrāpi bhāgavibhāgena dhānyarāśy ākṛteḥ || madhyakoṣṭhapramāṇena tisro vedyaḥ kāryāḥ pariśiṣṭānāṃ tu yathā pratyanusāreneti | caturthī biṃbapaśyageti kumbhaparigrahānurodhenety arthaḥ | etad uktaṃ bhavati | adhaś caturthake bhāge kṛtānāṃ tisrāṇāṃ vedīnāṃ yāvantām apramāṇaṃ | caturthī jaṃghāvedī catuṣkoṣṭhāpi kumbhasaṃsthāneṣv ity arthaḥ | yathaḥ prakīrṇake uktaṃ | jaṃghāpuṭavedī kukṣitavyeti | jaṃghāyāḥ puṭavedī jaṃghāpuṭavedīti | jaṃghāsaṃbandhinī vā puṭāvedī kumbhasya padmavalitam ity arthaḥ |"
+          "text": "bāhyakoṣṭhāṃśas tatra dhānyarāśikṛtaḥ | sarveṇaiva caturthakena | tribhi pādaiḥ pātrākṛti | dvābhyāṃ pādābhyāṃ khagaṇḍākṛteḥ | pādaikena kalaśākārasyeti | madhyakoṣṭhapramāṇam iti madhyakoṣṭhapramāṇādya pramāṇagatenety ādi | etad uktaṃ bhavati | tatrāpi bhāgavibhāgena dhānyarāśy ākṛteḥ || madhyakoṣṭhapramāṇena tisro vedyaḥ kāryāḥ pariśiṣṭānāṃ tu yathā pratyanusāreneti | caturthī biṃbapaśyageti kumbhaparigrahānurodhenety arthaḥ | etad uktaṃ bhavati | adhaś caturthake bhāge kṛtānāṃ tisrāṇāṃ vedīnāṃ yāvantām apramāṇaṃ | caturthī jaṃghāvedī catuṣkoṣṭhāpi kumbhasaṃsthāneṣv ity arthaḥ | yathaḥ prakīrṇake uktaṃ | jaṃghāpuṭavedī kukṣitavyeti | jaṃghāyāḥ puṭavedī jaṃghāpuṭavedīti | jaṃghāsaṃbandhinī vā puṭāvedī kumbhasya padmavalitam ity arthaḥ |",
+          "segment_number": 91
         }
-      ]
+      ],
+      "segment_number": 89
     },
     {
       "tag": "p",
@@ -647,35 +738,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ti"
+          "text": "ti",
+          "segment_number": 93
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 218"
+          "text": "Slkv p. 218",
+          "segment_number": 94
         },
         {
           "tag": "text",
-          "text": "kṣīṇañ ca kalpayet | evaṃ tāvad bhūṅ gata stūpam ākhyāyādhunā bhūmimarjane stūpaṃ kṛtaṃ | bhuvas tu kalpanācalād evety arthaḥ | sthairyapuṣṭikaraṃ kila bhavatīti | ato bhūmyā nimarjanena kāraṇāyāyan darśayann āha | vetsyādiśu samaṃ | idan tu nimarjane nimarjanārthaṃ bhūmau stūpasya bhavatu unmānato kṣayo vedikānāṃ vistāras tu kim arthaṃ | stūpasyoccatvena samīkaraṇārthaṃ | yata stūpāyāmatulyo hy adho vedyā vistāra iṣyate |"
+          "text": "kṣīṇañ ca kalpayet | evaṃ tāvad bhūṅ gata stūpam ākhyāyādhunā bhūmimarjane stūpaṃ kṛtaṃ | bhuvas tu kalpanācalād evety arthaḥ | sthairyapuṣṭikaraṃ kila bhavatīti | ato bhūmyā nimarjanena kāraṇāyāyan darśayann āha | vetsyādiśu samaṃ | idan tu nimarjane nimarjanārthaṃ bhūmau stūpasya bhavatu unmānato kṣayo vedikānāṃ vistāras tu kim arthaṃ | stūpasyoccatvena samīkaraṇārthaṃ | yata stūpāyāmatulyo hy adho vedyā vistāra iṣyate |",
+          "segment_number": 95
         }
-      ]
+      ],
+      "segment_number": 92
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §18 yathā hy uktaṃ mahāvastuni cakravartibhūtena mayā stūpo kṛto yojanoccatvena yojanam abhiniveśeneti | yatra hi yathā dhānyarāśyākṛteḥ kumbhasya yojanāni niveśya yojanābhiniveśo gamyate | tathā vedikāyā api tu kumbhapariṇāha pramāṇena stūpa uccābhipretaḥ | adhovedyā vistāras tad vedikāyā hrasve kṛtaṃ | kathaṃ pramāṇātikramaḥ | bhūvastukalpanābalān nemyāṅgaṇapramāṇasya pramāṇe 'ntaḥkaraṇād anatikramaḥ kalaśākṛteḥ | vedyunnāmasyālpatvāt nimarjanaṃm nākṣyaṃ |"
+      "text": "Slkv §18 yathā hy uktaṃ mahāvastuni cakravartibhūtena mayā stūpo kṛto yojanoccatvena yojanam abhiniveśeneti | yatra hi yathā dhānyarāśyākṛteḥ kumbhasya yojanāni niveśya yojanābhiniveśo gamyate | tathā vedikāyā api tu kumbhapariṇāha pramāṇena stūpa uccābhipretaḥ | adhovedyā vistāras tad vedikāyā hrasve kṛtaṃ | kathaṃ pramāṇātikramaḥ | bhūvastukalpanābalān nemyāṅgaṇapramāṇasya pramāṇe 'ntaḥkaraṇād anatikramaḥ kalaśākṛteḥ | vedyunnāmasyālpatvāt nimarjanaṃm nākṣyaṃ |",
+      "segment_number": 96
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §19 unnāmena tathā kuryād ity ādi | tad uktaṃ bhavati | harmikām upādāya yo 'dhaś caturthabāhyakoṣṭhāṃśas tasya yo vibhāgaḥ prākkṛtas tenaiva vibhāgenaikona tisro vedyaḥ jaṃghāvedikādyā ity āvyāhāryaṃ | na nirgacchet yathā biṃbam ity ādi |"
+      "text": "Slkv §19 unnāmena tathā kuryād ity ādi | tad uktaṃ bhavati | harmikām upādāya yo 'dhaś caturthabāhyakoṣṭhāṃśas tasya yo vibhāgaḥ prākkṛtas tenaiva vibhāgenaikona tisro vedyaḥ jaṃghāvedikādyā ity āvyāhāryaṃ | na nirgacchet yathā biṃbam ity ādi |",
+      "segment_number": 97
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §20 udakogamanena kṛtāyāṃ nemyāṃ | alpayāṃ vātha vasatyāṃ nemitaḥ | karaṇḍaṃ yathā nādhaḥ pratiset tathordhvāṃ vedīm unnatāṃ kuryāt | yato 'dhaḥ praviṣṭo nādhāya kalpate || karaṇḍakehy udgatety ādi | prādhyānyena ūrdhvavartinyāś caturthyā jaṃghāvedyā hrāsonnāmakaraṇenaiva kumbhasyodgamam adhomarjanañ ca saṃpadyate |"
+      "text": "Slkv §20 udakogamanena kṛtāyāṃ nemyāṃ | alpayāṃ vātha vasatyāṃ nemitaḥ | karaṇḍaṃ yathā nādhaḥ pratiset tathordhvāṃ vedīm unnatāṃ kuryāt | yato 'dhaḥ praviṣṭo nādhāya kalpate || karaṇḍakehy udgatety ādi | prādhyānyena ūrdhvavartinyāś caturthyā jaṃghāvedyā hrāsonnāmakaraṇenaiva kumbhasyodgamam adhomarjanañ ca saṃpadyate |",
+      "segment_number": 98
     },
     {
       "tag": "p",
@@ -686,28 +784,33 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 219"
+          "text": "Slkv p. 219",
+          "segment_number": 99
         },
         {
           "tag": "text",
-          "text": "Slkv §21 vedītrayasya connāmahrāso yataḥ tasmān nām'; adhoṃgaṇe ca kumbhe hrasvāt tato kuryād ity arthaḥ | yas tu paścād vakṣati | kumbhasyodgamanaṃ tat kumbhasya dṛśyabhāgamātram apekṣati | yatas tatra paramārthato vedyā hrasyonnāmamātropalabhyate | na kumbhasyodgamanam adho nimarjanaṃ veti | karaṇḍaś ca tatas tūrikām iti jaṃghāpuṭāvedyā upari dhānyarāśy ādi saṃsthāne na kumbhaṃ vartulaṃ kuryāt || yataḥ prakīrṇe uktaṃ |"
+          "text": "Slkv §21 vedītrayasya connāmahrāso yataḥ tasmān nām'; adhoṃgaṇe ca kumbhe hrasvāt tato kuryād ity arthaḥ | yas tu paścād vakṣati | kumbhasyodgamanaṃ tat kumbhasya dṛśyabhāgamātram apekṣati | yatas tatra paramārthato vedyā hrasyonnāmamātropalabhyate | na kumbhasyodgamanam adho nimarjanaṃ veti | karaṇḍaś ca tatas tūrikām iti jaṃghāpuṭāvedyā upari dhānyarāśy ādi saṃsthāne na kumbhaṃ vartulaṃ kuryāt || yataḥ prakīrṇe uktaṃ |",
+          "segment_number": 100
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §22 aṇḍakaṃ vaṭayitavyam iti | navadhā vibhajitety ādi koṣṭhavibhāgakārikādvayaṃ sugamaṃ | bāhyakoṣṭhadvayonmānavedyāsanād udgato vartulārdhapauṣṭiko dhānyarāśisaṃsthāno na tu tribhāgocchritaḥ | śivasthalatvād iti ||"
+      "text": "Slkv §22 aṇḍakaṃ vaṭayitavyam iti | navadhā vibhajitety ādi koṣṭhavibhāgakārikādvayaṃ sugamaṃ | bāhyakoṣṭhadvayonmānavedyāsanād udgato vartulārdhapauṣṭiko dhānyarāśisaṃsthāno na tu tribhāgocchritaḥ | śivasthalatvād iti ||",
+      "segment_number": 101
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §23 tasyādho bāhyakoṣṭhasyety ādi | tasya vartulārdhāṃśyo yo bāhyakoṣṭho 'rdhamānena | ardhabāhyakoṣṭhonmānavedyāsanād yan samutthitaḥ | tatpātrākāraṃ śāntikām iti | tato pī di | tasmād api pātrasaṃsthānāt | tenaivāntaroktapramāṇena bāhyakoṣṭhakonmānavedyāsanād yan samutthitaṃ | tad unnatikaraṃ khag'; aṇḍāsaṃsthānam iti | sarvonmānasamaṃ somyam ity ādi | abhiniveśamātraṃ apāsya yaḥ satvabhāvena īṣan samādhikabāhyakoṣṭhakordhvonmānāvedyāsanān samutthitaṃ | tadā puṣpakaraṇḍeṣu na kartavyetyādi |"
+      "text": "Slkv §23 tasyādho bāhyakoṣṭhasyety ādi | tasya vartulārdhāṃśyo yo bāhyakoṣṭho 'rdhamānena | ardhabāhyakoṣṭhonmānavedyāsanād yan samutthitaḥ | tatpātrākāraṃ śāntikām iti | tato pī di | tasmād api pātrasaṃsthānāt | tenaivāntaroktapramāṇena bāhyakoṣṭhakonmānavedyāsanād yan samutthitaṃ | tad unnatikaraṃ khag'; aṇḍāsaṃsthānam iti | sarvonmānasamaṃ somyam ity ādi | abhiniveśamātraṃ apāsya yaḥ satvabhāvena īṣan samādhikabāhyakoṣṭhakordhvonmānāvedyāsanān samutthitaṃ | tadā puṣpakaraṇḍeṣu na kartavyetyādi |",
+      "segment_number": 102
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §24 na kevalaṃ bodhisatvānāṃ pratimā kumbhena kāryā kāṃcaneti buddhapratimā api | yataḥ prakīrṇake uktaṃ | lakṣam iti pratimālaṃkārair hi stūpam alaṃkartum iti | yatra hi pratimālaṃkārasyāpi pratiṣedhas tatra kathaṃ pratimāyā syāt | svayaṃ bhagavatā stūpapradakṣiṇī karuṇād iti ||"
+      "text": "Slkv §24 na kevalaṃ bodhisatvānāṃ pratimā kumbhena kāryā kāṃcaneti buddhapratimā api | yataḥ prakīrṇake uktaṃ | lakṣam iti pratimālaṃkārair hi stūpam alaṃkartum iti | yatra hi pratimālaṃkārasyāpi pratiṣedhas tatra kathaṃ pratimāyā syāt | svayaṃ bhagavatā stūpapradakṣiṇī karuṇād iti ||",
+      "segment_number": 103
     },
     {
       "tag": "p",
@@ -719,53 +822,64 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Slkv p. 220"
+          "text": "Slkv p. 220",
+          "segment_number": 105
         },
         {
           "tag": "text",
-          "text": "tasya ṣaṭ kṛtvā ardhāṃśaṃ kumbhāntaḥ praviṣṭam āṃśadvayaṃ kaṇṭhakaṃ |"
+          "text": "tasya ṣaṭ kṛtvā ardhāṃśaṃ kumbhāntaḥ praviṣṭam āṃśadvayaṃ kaṇṭhakaṃ |",
+          "segment_number": 106
         }
-      ]
+      ],
+      "segment_number": 104
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §26 ekam āṃśakaṃ kaṇṭhikāvalitakāṃ harmikā yathākramaṃ | ekādaśabhāgavṛdhyā ardhāṃśavistārato vā | bāhyakoṣṭhavistārā harmikā tasyādhaḥ svonmānena samantataḥ kaṇṭhakaṃ || kṣīṇāṃ kuryāt | yathā śobhānurūpato vā anyathā kalpayed iti | se sākārikā sugamā |"
+      "text": "Slkv §26 ekam āṃśakaṃ kaṇṭhikāvalitakāṃ harmikā yathākramaṃ | ekādaśabhāgavṛdhyā ardhāṃśavistārato vā | bāhyakoṣṭhavistārā harmikā tasyādhaḥ svonmānena samantataḥ kaṇṭhakaṃ || kṣīṇāṃ kuryāt | yathā śobhānurūpato vā anyathā kalpayed iti | se sākārikā sugamā |",
+      "segment_number": 107
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §27 pañcaviṃśatikoṣṭham ity ādi | pañcaviṃśatikoṣṭhavibhāgena yaṣṭer mūlamadhyaśirasā parigrahaṃ sugamo harmikāyā ūrdhvaṃ catuṣṭha pi kumbhasaṃsthāneṣu bāhyakoṣṭhadvayonmāno 'dhas va yāvat | hṛdayakoṣṭhapraveśo stūpaḥ | kalaśādisaṃsthāneṣu yathākrameṇa hṛdayakoṣṭhodgamāt | yathā yaṣṭer āyāmakṣayāṃ vā pariṇāhakṣayo vāpy avagantavyam ity evaṃ yāvat |"
+      "text": "Slkv §27 pañcaviṃśatikoṣṭham ity ādi | pañcaviṃśatikoṣṭhavibhāgena yaṣṭer mūlamadhyaśirasā parigrahaṃ sugamo harmikāyā ūrdhvaṃ catuṣṭha pi kumbhasaṃsthāneṣu bāhyakoṣṭhadvayonmāno 'dhas va yāvat | hṛdayakoṣṭhapraveśo stūpaḥ | kalaśādisaṃsthāneṣu yathākrameṇa hṛdayakoṣṭhodgamāt | yathā yaṣṭer āyāmakṣayāṃ vā pariṇāhakṣayo vāpy avagantavyam ity evaṃ yāvat |",
+      "segment_number": 108
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §28 stūpalakṣaṇaṃ pramāṇaṃ saṃsthānatas sunirdiṣṭam | yathā śobhata athoktalakṣaṇapramāṇānatikrameṇa saṃsthānataḥ prastākumbhākrāntyā || rajatamaṇikanakaśilādārumūrtikṛd iti | surabhipradeśe praśastāmanohare | svahastena vā karmahastena vā | tathā svabuddhyā vikalpa kāryaṃ | yataḥ proktaṃ yathā syā śobhano bhavet | tathā kuryād iti | āgamesmin iti | stūpalakṣaṇaśāstrasya vastumātropadarśanāt | yan mayoparjitaṃ puṇyaṃ tenāstu stūpas tu sugato jana iti ||"
+      "text": "Slkv §28 stūpalakṣaṇaṃ pramāṇaṃ saṃsthānatas sunirdiṣṭam | yathā śobhata athoktalakṣaṇapramāṇānatikrameṇa saṃsthānataḥ prastākumbhākrāntyā || rajatamaṇikanakaśilādārumūrtikṛd iti | surabhipradeśe praśastāmanohare | svahastena vā karmahastena vā | tathā svabuddhyā vikalpa kāryaṃ | yataḥ proktaṃ yathā syā śobhano bhavet | tathā kuryād iti | āgamesmin iti | stūpalakṣaṇaśāstrasya vastumātropadarśanāt | yan mayoparjitaṃ puṇyaṃ tenāstu stūpas tu sugato jana iti ||",
+      "segment_number": 109
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "stūpalakṣaṇakārikāyāṃ vivecanaṃ samāptaṃ || ||"
+      "text": "stūpalakṣaṇakārikāyāṃ vivecanaṃ samāptaṃ || ||",
+      "segment_number": 110
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "after this follows the Newārī note of a Nepalese librarian."
+      "text": "after this follows the Newārī note of a Nepalese librarian.",
+      "segment_number": 111
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Slkv §29 śrī syaṃguyāyita siyā jetanaku 35 aṃgu liḍā 5 yavanhasa 7 saaṃkanaghāva || ghātasaku 9 ku 5 ghalasaku 3 umaḍe thaṃthu ucaku 18 aṃ 5 yavanhana pramāneti madhyamādi kramena ||"
+      "text": "Slkv §29 śrī syaṃguyāyita siyā jetanaku 35 aṃgu liḍā 5 yavanhasa 7 saaṃkanaghāva || ghātasaku 9 ku 5 ghalasaku 3 umaḍe thaṃthu ucaku 18 aṃ 5 yavanhana pramāneti madhyamādi kramena ||",
+      "segment_number": 112
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "On the top drawsheet, there are the following lines:\n1 x x x x x pralase tīsijya pu manasīyā tachosathu se kho thu teya u(?)paritā na nesaṃ\n2 ālayana || etad dharma x x x chela x x x x x || tad anantara draṃma (dharmma) likya\nbuna āleyana ||"
+      "text": "On the top drawsheet, there are the following lines:\n1 x x x x x pralase tīsijya pu manasīyā tachosathu se kho thu teya u(?)paritā na nesaṃ\n2 ālayana || etad dharma x x x chela x x x x x || tad anantara draṃma (dharmma) likya\nbuna āleyana ||",
+      "segment_number": 113
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "stupalakṣaṇakārikāyāṃ vivecanaṃ vudja (?)\n2 saṃvat"
+      "text": "stupalakṣaṇakārikāyāṃ vivecanaṃ vudja (?)\n2 saṃvat",
+      "segment_number": 114
     }
   ]
 }

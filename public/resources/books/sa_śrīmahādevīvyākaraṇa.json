@@ -43,14 +43,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Āryaśrīmahādevīvyākaraṇam [= Dvādaśadaṇḍakanāmāṣṭaśatavimalīkaraṇā]"
+          "text": "Āryaśrīmahādevīvyākaraṇam [= Dvādaśadaṇḍakanāmāṣṭaśatavimalīkaraṇā]",
+          "segment_number": 1
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "om namaḥ sarvabuddhabodhisattvebhyaḥ //"
+      "text": "om namaḥ sarvabuddhabodhisattvebhyaḥ //",
+      "segment_number": 2
     },
     {
       "tag": "p",
@@ -62,18 +64,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Śmdv 94"
+          "text": "Śmdv 94",
+          "segment_number": 4
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 5
         }
-      ]
+      ],
+      "segment_number": 3
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha khalvāryāvalokiteśvaro bodhisattvo mahāsattvo yena bhagavāṃstenopasaṃkrāntaḥ / upasaṃkramya bhagavataḥ pādau śirasābhivandyaikānte nyaṣīdat / śrīrapi mahādevī bhagavantamevopasaṃkrāntā / upasaṃkramya bhagavataḥ pādau śatasahasraṃ pradakṣīṇīkṛtya sarvāṃśca tān sukhāvatīnivāsino bodhisattvān mahāsattvān śirasābhivandyaikānte nyaṣīdat /"
+      "text": "atha khalvāryāvalokiteśvaro bodhisattvo mahāsattvo yena bhagavāṃstenopasaṃkrāntaḥ / upasaṃkramya bhagavataḥ pādau śirasābhivandyaikānte nyaṣīdat / śrīrapi mahādevī bhagavantamevopasaṃkrāntā / upasaṃkramya bhagavataḥ pādau śatasahasraṃ pradakṣīṇīkṛtya sarvāṃśca tān sukhāvatīnivāsino bodhisattvān mahāsattvān śirasābhivandyaikānte nyaṣīdat /",
+      "segment_number": 6
     },
     {
       "tag": "p",
@@ -85,13 +91,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Śmdv 95"
+          "text": "Śmdv 95",
+          "segment_number": 8
         },
         {
           "tag": "text",
-          "text": ") bhagavan subhāṣiteyaṃ vāk / ye śriyā mahādevyā nāmadheyāni dhārayiṣyanti teṣāmapīmā guṇānuśaṃsā bhaviṣyanti /"
+          "text": ") bhagavan subhāṣiteyaṃ vāk / ye śriyā mahādevyā nāmadheyāni dhārayiṣyanti teṣāmapīmā guṇānuśaṃsā bhaviṣyanti /",
+          "segment_number": 9
         }
-      ]
+      ],
+      "segment_number": 7
     },
     {
       "tag": "p",
@@ -103,13 +112,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Śmdv 96"
+          "text": "Śmdv 96",
+          "segment_number": 11
         },
         {
           "tag": "text",
-          "text": ")"
+          "text": ")",
+          "segment_number": 12
         }
-      ]
+      ],
+      "segment_number": 10
     },
     {
       "tag": "p",
@@ -121,13 +133,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Śmdv 97"
+          "text": "Śmdv 97",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": ") tathāgatāya / namo brahmaśriye tathāgatāya / namo maheśvaraśriye tathāgatāya / namaścandrasuryaśriye tathāgatāya / namo gambhīradharmaprabhārājaśriye tathāgatāya / namo gaganapradīpābhirāmaśriye tathāgatāya / namaḥ sūryaprabhāketuśriye tathāgatāya / namo gandhapradīpaśriye tathāgatāya / namaḥ sāgaragarbhasaṃbhavaśriye tathāgatāya / namo nirmitameghagarjanayaśaḥśriye tathāgatāya / namaḥ sarvadharmaprabhāsavyūhaśriye tathāgatāya / namo drumarājavivardhitaśriye tathāgatāya / namo ratnārciḥparvataśriye tathāgatāya / namo jñānārciḥ sāgaraśriye tathāgatāya / namo mahāpraṇidhivegaśriye tathāgatāya / namo mahāmeghaśriye tathāgatāya / namaḥ smṛtiketurājaśriye tathāgatāya / nama indraketudhvajarājaśriye tathāgatāya / namaḥ sarvadhanadhānyākarṣaṇaśriye tathāgatāya / namaḥ saumyākarṣaṇaśriye tathāgatāya / namo lakṣmyākarṣaṇaśriye tathāgatāya / imāni tathāgatanāmāni satkṛtya dhārayitavyāni vācayitavyāni evaṃ sa kulaputro vā kuladuhitā vā bahutaraṃ puṇyaṃ prasaviṣyati /"
+          "text": ") tathāgatāya / namo brahmaśriye tathāgatāya / namo maheśvaraśriye tathāgatāya / namaścandrasuryaśriye tathāgatāya / namo gambhīradharmaprabhārājaśriye tathāgatāya / namo gaganapradīpābhirāmaśriye tathāgatāya / namaḥ sūryaprabhāketuśriye tathāgatāya / namo gandhapradīpaśriye tathāgatāya / namaḥ sāgaragarbhasaṃbhavaśriye tathāgatāya / namo nirmitameghagarjanayaśaḥśriye tathāgatāya / namaḥ sarvadharmaprabhāsavyūhaśriye tathāgatāya / namo drumarājavivardhitaśriye tathāgatāya / namo ratnārciḥparvataśriye tathāgatāya / namo jñānārciḥ sāgaraśriye tathāgatāya / namo mahāpraṇidhivegaśriye tathāgatāya / namo mahāmeghaśriye tathāgatāya / namaḥ smṛtiketurājaśriye tathāgatāya / nama indraketudhvajarājaśriye tathāgatāya / namaḥ sarvadhanadhānyākarṣaṇaśriye tathāgatāya / namaḥ saumyākarṣaṇaśriye tathāgatāya / namo lakṣmyākarṣaṇaśriye tathāgatāya / imāni tathāgatanāmāni satkṛtya dhārayitavyāni vācayitavyāni evaṃ sa kulaputro vā kuladuhitā vā bahutaraṃ puṇyaṃ prasaviṣyati /",
+          "segment_number": 15
         }
-      ]
+      ],
+      "segment_number": 13
     },
     {
       "tag": "p",
@@ -139,40 +154,48 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "Śmdv 98"
+          "text": "Śmdv 98",
+          "segment_number": 17
         },
         {
           "tag": "text",
-          "text": ") tatra ca lokadhātau sa eva tathāgata ālokakaro bhaviṣyati / te ca bodhisattvāstatra buddhakṣetre svayaṃprabhā bhaviṣyantyaparimitāyuṣaśca / ākāśataśca buddhadharmasaṅghaśabdo niścariṣyati / ye ca bodhisattvāstatra buddhakṣetre upapatsyante sarve te padmakarkaṭikāsūpapatsyante / tatra katamaddādaśadaṇḍakaṃ nāmāṣṭaśataṃ vimalaprakhyaṃ stotram / śṛṇu abhayāvalokiteśvara śriyā mahādevyā nāmāni / tadyathā sarvatathāgatābhiṣiktāsarvadevatābhiṣiktā sarvatathāgatamātā sarvadevatāmātā sarvatathāgataśrīḥ sarvabodhisattvaśrīḥ sarvāryaśrāvakapratyekabuddhaśrīḥ brahmaviṣṇumaheśvaraśrīḥ mahāsthānagataśrīḥ sarvadevatābhimukhaśrīḥ sarvadevanāgayakṣagandharvāsuragaruḍakinnaramahoragaśrīḥ sarvavidyādharavajrapāṇivajradharaśrīḥ catuḥpañcalokapālaśrīḥ aṣṭagrahāṣṭāviṃśatinakṣatraśrīḥ om sāvitrī dhātrī mātā caturvedaśrīḥ lakṣmīḥ bhūtamātā jayā vijayā gaṅgā sarvatīrthā sarvamaṅgalyā vimalanirmalakaraśrīḥ sarvapāpahantrī nirmadakarā candraśrīḥ sūryaśrīḥ sarvagrahaśrīḥ siṃhavāhinī śatasahasrakoṭipadmavivarasaṃcchannā padmā padmasambhavā padmālayā padmadharā padmāvatī anekaratnāṃśumālā dhanadā śvetā mahāśvetā śvetabhujā sarvamaṅgaladhāriṇī sarvapuṇyopacitāṅgī dākṣāyaṇī śatasahasrabhujā śatasahasranayanā śatasahasraśirā ("
+          "text": ") tatra ca lokadhātau sa eva tathāgata ālokakaro bhaviṣyati / te ca bodhisattvāstatra buddhakṣetre svayaṃprabhā bhaviṣyantyaparimitāyuṣaśca / ākāśataśca buddhadharmasaṅghaśabdo niścariṣyati / ye ca bodhisattvāstatra buddhakṣetre upapatsyante sarve te padmakarkaṭikāsūpapatsyante / tatra katamaddādaśadaṇḍakaṃ nāmāṣṭaśataṃ vimalaprakhyaṃ stotram / śṛṇu abhayāvalokiteśvara śriyā mahādevyā nāmāni / tadyathā sarvatathāgatābhiṣiktāsarvadevatābhiṣiktā sarvatathāgatamātā sarvadevatāmātā sarvatathāgataśrīḥ sarvabodhisattvaśrīḥ sarvāryaśrāvakapratyekabuddhaśrīḥ brahmaviṣṇumaheśvaraśrīḥ mahāsthānagataśrīḥ sarvadevatābhimukhaśrīḥ sarvadevanāgayakṣagandharvāsuragaruḍakinnaramahoragaśrīḥ sarvavidyādharavajrapāṇivajradharaśrīḥ catuḥpañcalokapālaśrīḥ aṣṭagrahāṣṭāviṃśatinakṣatraśrīḥ om sāvitrī dhātrī mātā caturvedaśrīḥ lakṣmīḥ bhūtamātā jayā vijayā gaṅgā sarvatīrthā sarvamaṅgalyā vimalanirmalakaraśrīḥ sarvapāpahantrī nirmadakarā candraśrīḥ sūryaśrīḥ sarvagrahaśrīḥ siṃhavāhinī śatasahasrakoṭipadmavivarasaṃcchannā padmā padmasambhavā padmālayā padmadharā padmāvatī anekaratnāṃśumālā dhanadā śvetā mahāśvetā śvetabhujā sarvamaṅgaladhāriṇī sarvapuṇyopacitāṅgī dākṣāyaṇī śatasahasrabhujā śatasahasranayanā śatasahasraśirā (",
+          "segment_number": 18
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Śmdv 99"
+          "text": "Śmdv 99",
+          "segment_number": 19
         },
         {
           "tag": "text",
-          "text": ") vividhavicitramaṇimaulidharā surūpā viśvarūpā yaśā mahāyaśā saumyā bahujīmūtā pavitrakeśā candrakāntā sūryakāntā śubhā śubhakartrī sarvasattvābhimukhī āryākusumaśrīḥ kusumeśvarā sarvasumeruparvatarājaśrīḥ sarvanadīsarīcchrīḥ sarvatoyasamudraśrīḥ sarvatīrthābhimukhaśrīḥ sarvauṣadhitṛṇavanaspatidhanadhānyaśrīḥ hiraṇyadā annapānadāprabhāsvarā ālokakarā pavitrāṅgā sarvatathāgatavaśavartinī sarvadevagaṇamukhaśrīḥ yamavaruṇākuberavāsavaśrīḥ dātrī bhoktrī tejā tejovatī vibhūtīḥ samṛddhiḥ vivṛddhiḥ unnatiḥ dharmaśrīḥ mādhavāśrayā kusumanilayā anasūyā puruṣakārāśrayā sarvapavitragātrā maṅgalahastā sarvālakṣmīnāśayitrī sarvapuṇyākarṣaṇaśrīḥ sarvapṛthivīśrīḥ sarvarājaśrīḥ sarvavidyādhararājaśrīḥ sarvabhūtayakṣarākṣasapretapiśācakuṃbhāṇḍamahoragaśrīḥ dyutiḥ pramodabhāgyalolā sarvarṣipavitraśrīḥ sarvaśrīḥ bhavajyeṣṭhottamaśrīḥ sarvakinnarasarvasūryottamaśrīḥ niravadyasthānavāsinīrūpavatī sukhakarī kuberakāntā dharmarājaśrīḥ / om vilokaya tāraya mocaya mama sarvaduḥkhebhyaḥ sarvapuṇyasambhārānāmukhīkuru svāhā / om gaṅgādisarvatīrthānyāmuikhīkuru svāhā / om sāvitryai svāhā / sarvamaṅgaladhāriṇyai ("
+          "text": ") vividhavicitramaṇimaulidharā surūpā viśvarūpā yaśā mahāyaśā saumyā bahujīmūtā pavitrakeśā candrakāntā sūryakāntā śubhā śubhakartrī sarvasattvābhimukhī āryākusumaśrīḥ kusumeśvarā sarvasumeruparvatarājaśrīḥ sarvanadīsarīcchrīḥ sarvatoyasamudraśrīḥ sarvatīrthābhimukhaśrīḥ sarvauṣadhitṛṇavanaspatidhanadhānyaśrīḥ hiraṇyadā annapānadāprabhāsvarā ālokakarā pavitrāṅgā sarvatathāgatavaśavartinī sarvadevagaṇamukhaśrīḥ yamavaruṇākuberavāsavaśrīḥ dātrī bhoktrī tejā tejovatī vibhūtīḥ samṛddhiḥ vivṛddhiḥ unnatiḥ dharmaśrīḥ mādhavāśrayā kusumanilayā anasūyā puruṣakārāśrayā sarvapavitragātrā maṅgalahastā sarvālakṣmīnāśayitrī sarvapuṇyākarṣaṇaśrīḥ sarvapṛthivīśrīḥ sarvarājaśrīḥ sarvavidyādhararājaśrīḥ sarvabhūtayakṣarākṣasapretapiśācakuṃbhāṇḍamahoragaśrīḥ dyutiḥ pramodabhāgyalolā sarvarṣipavitraśrīḥ sarvaśrīḥ bhavajyeṣṭhottamaśrīḥ sarvakinnarasarvasūryottamaśrīḥ niravadyasthānavāsinīrūpavatī sukhakarī kuberakāntā dharmarājaśrīḥ / om vilokaya tāraya mocaya mama sarvaduḥkhebhyaḥ sarvapuṇyasambhārānāmukhīkuru svāhā / om gaṅgādisarvatīrthānyāmuikhīkuru svāhā / om sāvitryai svāhā / sarvamaṅgaladhāriṇyai (",
+          "segment_number": 20
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "Śmdv 100"
+          "text": "Śmdv 100",
+          "segment_number": 21
         },
         {
           "tag": "text",
-          "text": ") svāhā / caturvedanakṣatragrahagaṇādimūrtyai svāhā / brahmaṇe svāhā / viṣṇave svāhā / rudrāya svāhā / viśvamukhāya svāhā / om nigrigrini sarvakāryasādhani sini sini āvāhayāmi\ndevi śrīvaiśravaṇāya svāhā / suvarṇadhanadhānyākarṣaṇyai svāhā / sarvapuṇyākarṣaṇyai svāhā / śrīdevatākarṣaṇyai svāhā / sarvapāpanāśanyai svāhā / sarvālakṣmīpraśamanyai svāhā / sarvatathāgatābhiṣiktāyai svāhā / sarvadevatābhimukhaśriye svāhā / āyurbalavarṇakarāyai svāhā / sarvapavitramaṅgalahastāyai svāhā / siṃhavāhinyai svāhā / padmasaṃbhūtāyai svāhā / sarvakṛtyakākhordavināśanyai svāhā / imāni tānyabhayāvalokiteśvaraśriyā mahādevyā nāmāni sarvakilviṣanāśanāni sarvapāpavidhvaṃsanakarāṇi sarvapuṇyākarṣaṇakarāṇi sarvālakṣmīpraśamanakarāṇi sarvaśrīsaubhāgyākarṣaṇakarāṇi / yaḥ kaścidvārayiṣyati imāni tathāgatanāmāni kalyamutthāya śucinā sarvabuddhānāṃ puṣpadhūpaṃ dattvā śriyai mahādevyai candanadhūpaṃ dattvā vācayitavyāni sarvaśriyamadhigamiṣyati sarvasukhasaumanasyalābhī bhaviṣyati sarvadevatāśca rakṣāvaraṇaguptiṃ kariṣyanti sarvakāryasiddhistasya bhaviṣyati /"
+          "text": ") svāhā / caturvedanakṣatragrahagaṇādimūrtyai svāhā / brahmaṇe svāhā / viṣṇave svāhā / rudrāya svāhā / viśvamukhāya svāhā / om nigrigrini sarvakāryasādhani sini sini āvāhayāmi\ndevi śrīvaiśravaṇāya svāhā / suvarṇadhanadhānyākarṣaṇyai svāhā / sarvapuṇyākarṣaṇyai svāhā / śrīdevatākarṣaṇyai svāhā / sarvapāpanāśanyai svāhā / sarvālakṣmīpraśamanyai svāhā / sarvatathāgatābhiṣiktāyai svāhā / sarvadevatābhimukhaśriye svāhā / āyurbalavarṇakarāyai svāhā / sarvapavitramaṅgalahastāyai svāhā / siṃhavāhinyai svāhā / padmasaṃbhūtāyai svāhā / sarvakṛtyakākhordavināśanyai svāhā / imāni tānyabhayāvalokiteśvaraśriyā mahādevyā nāmāni sarvakilviṣanāśanāni sarvapāpavidhvaṃsanakarāṇi sarvapuṇyākarṣaṇakarāṇi sarvālakṣmīpraśamanakarāṇi sarvaśrīsaubhāgyākarṣaṇakarāṇi / yaḥ kaścidvārayiṣyati imāni tathāgatanāmāni kalyamutthāya śucinā sarvabuddhānāṃ puṣpadhūpaṃ dattvā śriyai mahādevyai candanadhūpaṃ dattvā vācayitavyāni sarvaśriyamadhigamiṣyati sarvasukhasaumanasyalābhī bhaviṣyati sarvadevatāśca rakṣāvaraṇaguptiṃ kariṣyanti sarvakāryasiddhistasya bhaviṣyati /",
+          "segment_number": 22
         }
-      ]
+      ],
+      "segment_number": 16
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "idamavocadbhagavānāttamanā abhayāvalokiteśvaro bodhisattvo mahāsattvaḥ / sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandan //"
+      "text": "idamavocadbhagavānāttamanā abhayāvalokiteśvaro bodhisattvo mahāsattvaḥ / sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandan //",
+      "segment_number": 23
     }
   ]
 }

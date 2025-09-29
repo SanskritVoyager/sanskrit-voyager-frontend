@@ -24,12 +24,15 @@ export const theme = createTheme({
     lg: '1.6',
     xl: '1.65',
   },
+  primaryShade: { light: 4, dark: 6 } ,
+  
   colors: {
     primary: virtualColor({
       name: 'primary',
       dark: 'coolOrange',
       light: 'coolOrange',
     }),
+    
 
     coolOrange: [
 

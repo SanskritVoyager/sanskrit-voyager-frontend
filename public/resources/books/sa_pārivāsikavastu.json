@@ -50,7 +50,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "vastutrayasya piṇḍoddānam* /"
+      "text": "vastutrayasya piṇḍoddānam* /",
+      "segment_number": 1
     },
     {
       "tag": "lg",
@@ -59,12 +60,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "abhivādanaṃ ca ṣaṣṭiś ca aśuddhaś codanāhi ca /"
+          "text": "abhivādanaṃ ca ṣaṣṭiś ca aśuddhaś codanāhi ca /",
+          "segment_number": 2
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "adhārmikaś ca śākyaś ca glānakaḥ kalahena ca //"
+          "text": "adhārmikaś ca śākyaś ca glānakaḥ kalahena ca //",
+          "segment_number": 3
         }
       ]
     },
@@ -84,7 +87,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Pārivāsikavastu"
+      "text": "Pārivāsikavastu",
+      "segment_number": 4
     },
     {
       "tag": "note",
@@ -102,7 +106,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "pārivāsikavastūddānam* /"
+      "text": "pārivāsikavastūddānam* /",
+      "segment_number": 5
     },
     {
       "tag": "p",
@@ -114,13 +119,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "309v1 = GBM 6.931"
+          "text": "309v1 = GBM 6.931",
+          "segment_number": 7
         },
         {
           "tag": "text",
-          "text": ") āvāsam adhodeśañ ca sarvalābhikam* //"
+          "text": ") āvāsam adhodeśañ ca sarvalābhikam* //",
+          "segment_number": 8
         }
-      ]
+      ],
+      "segment_number": 6
     },
     {
       "tag": "p",
@@ -132,35 +140,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "nā"
+          "text": "nā",
+          "segment_number": 10
         },
         {
           "tag": "text",
-          "text": "m apravrāja"
+          "text": "m apravrāja",
+          "segment_number": 11
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ya"
+          "text": "ya",
+          "segment_number": 12
         },
         {
           "tag": "text",
-          "text": "tāṃ cālpībhūtā bhikṣavaḥ / kṣayam ("
+          "text": "tāṃ cālpībhūtā bhikṣavaḥ / kṣayam (",
+          "segment_number": 13
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 94"
+          "text": "MSV III 94",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": ") āpannaś chidrībhūtas tanubhūto bhikṣusaṃghaḥ / jānakāḥ pṛcchakā buddhā bhagavantaḥ pṛcchanti / buddho bhagavān āyuṣmantam ānanadam* / ka ānanda hetuḥ kaḥ pratyayaḥ yenetarhy alpībhūtā bhikṣavaḥ / kṣayam āpannaś chidrībhūtas tanubhūto bhikṣusaṃgha iti / sa etat prakaraṇaṃ bhagavato vistareṇārocayati /"
+          "text": ") āpannaś chidrībhūtas tanubhūto bhikṣusaṃghaḥ / jānakāḥ pṛcchakā buddhā bhagavantaḥ pṛcchanti / buddho bhagavān āyuṣmantam ānanadam* / ka ānanda hetuḥ kaḥ pratyayaḥ yenetarhy alpībhūtā bhikṣavaḥ / kṣayam āpannaś chidrībhūtas tanubhūto bhikṣusaṃgha iti / sa etat prakaraṇaṃ bhagavato vistareṇārocayati /",
+          "segment_number": 15
         }
-      ]
+      ],
+      "segment_number": 9
     },
     {
       "tag": "p",
@@ -172,18 +187,22 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "bhikṣu"
+          "text": "bhikṣu",
+          "segment_number": 17
         },
         {
           "tag": "text",
-          "text": "saṃghaṃ saṃnipātya purastād bhikṣusaṃghasya prajñapta evāsane niṣaṇṇaḥ / niṣadya bhagavān bhikṣūn āmantrayate sma / śrutaṃ mayā bhikṣavaḥ saṃghāvaśeṣām āpattim āpannā vipratisārajātāḥ śikṣāṃ pratyākhyāya hānāyāvṛttā iti / tasmād yuṣmābhiḥ śāsanasthitaye teṣāṃ cānukampayā saṃghāvaśeṣām āpattim āpannānāṃ bhikṣūṇāṃ parivāso deyo mūlāpakarṣo mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyam āvarhitavyaś ca /"
+          "text": "saṃghaṃ saṃnipātya purastād bhikṣusaṃghasya prajñapta evāsane niṣaṇṇaḥ / niṣadya bhagavān bhikṣūn āmantrayate sma / śrutaṃ mayā bhikṣavaḥ saṃghāvaśeṣām āpattim āpannā vipratisārajātāḥ śikṣāṃ pratyākhyāya hānāyāvṛttā iti / tasmād yuṣmābhiḥ śāsanasthitaye teṣāṃ cānukampayā saṃghāvaśeṣām āpattim āpannānāṃ bhikṣūṇāṃ parivāso deyo mūlāpakarṣo mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyam āvarhitavyaś ca /",
+          "segment_number": 18
         }
-      ]
+      ],
+      "segment_number": 16
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "evaṃ ca punar deyaḥ / śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭavācikayā bhikṣūn samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite apaścimakena bhikṣuṇā parivāso deyaś caturvargamaṇḍalakena / saṃghāvaśeṣakeṇa bhikṣuṇā yathāvṛddhikayā sāmīcīṃ kṛtvā vṛddhānte utkuṭukena sthitvāñjaliṃ pragṛhya parivāso yācitavyaḥ / evaṃ ca punar yācitavyaḥ /"
+      "text": "evaṃ ca punar deyaḥ / śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣṭavācikayā bhikṣūn samanuyujya sarvasaṃghe saṃniṣaṇṇe saṃnipatite apaścimakena bhikṣuṇā parivāso deyaś caturvargamaṇḍalakena / saṃghāvaśeṣakeṇa bhikṣuṇā yathāvṛddhikayā sāmīcīṃ kṛtvā vṛddhānte utkuṭukena sthitvāñjaliṃ pragṛhya parivāso yācitavyaḥ / evaṃ ca punar yācitavyaḥ /",
+      "segment_number": 19
     },
     {
       "tag": "note",
@@ -201,7 +220,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "śṛṇotu bhadantaḥ saṃghaḥ / aham evaṃnāmā bhikṣuḥ saṃbahulāḥ saṃghāvaśeṣā āpattīr āpannaḥ saṃcintyaśukravisṛṣṭisamutthitām ardhamāsapraticchannām* / so 'ham evaṃnāmā bhikṣus tāsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇāṃ āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitām ardhamāsapraticchannāṃ saṃghād ardhamāsaṃ parivāsaṃ yāce / dadātu me bhadantaḥ saṃgho mamaivaṃnāmno bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇāṃ āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsam anukaṃpayānukaṃpām upādāya / evaṃ dvir api trir api / tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam* /"
+      "text": "śṛṇotu bhadantaḥ saṃghaḥ / aham evaṃnāmā bhikṣuḥ saṃbahulāḥ saṃghāvaśeṣā āpattīr āpannaḥ saṃcintyaśukravisṛṣṭisamutthitām ardhamāsapraticchannām* / so 'ham evaṃnāmā bhikṣus tāsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇāṃ āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitām ardhamāsapraticchannāṃ saṃghād ardhamāsaṃ parivāsaṃ yāce / dadātu me bhadantaḥ saṃgho mamaivaṃnāmno bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇāṃ āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsam anukaṃpayānukaṃpām upādāya / evaṃ dvir api trir api / tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam* /",
+      "segment_number": 20
     },
     {
       "tag": "p",
@@ -213,24 +233,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "310r1 = GBM 6.932"
+          "text": "310r1 = GBM 6.932",
+          "segment_number": 22
         },
         {
           "tag": "text",
-          "text": ") āpattīr āpannaḥ saṃcintyaśukravisṛṣṭisamutthitām ardhamāsapraticchannām* / so 'yam evaṃnāmā bhikṣur āsāṃ"
+          "text": ") āpattīr āpannaḥ saṃcintyaśukravisṛṣṭisamutthitām ardhamāsapraticchannām* / so 'yam evaṃnāmā bhikṣur āsāṃ",
+          "segment_number": 23
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃ"
+          "text": "saṃ",
+          "segment_number": 24
         },
         {
           "tag": "text",
-          "text": "bahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānāṃ saṃghād ardhamāsaṃ parivāsaṃ yācate / sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ evaṃnāmnor bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇāṃ āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsaṃ dadyāt* / ity eṣā jñaptiḥ / karma kartavyam* /"
+          "text": "bahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānāṃ saṃghād ardhamāsaṃ parivāsaṃ yācate / sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ evaṃnāmnor bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇāṃ āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsaṃ dadyāt* / ity eṣā jñaptiḥ / karma kartavyam* /",
+          "segment_number": 25
         }
-      ]
+      ],
+      "segment_number": 21
     },
     {
       "tag": "p",
@@ -242,24 +267,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 96"
+          "text": "MSV III 96",
+          "segment_number": 27
         },
         {
           "tag": "text",
-          "text": ") saṃghād ardhamāsaṃ parivāsaṃ yācate / tat saṃghaḥ evaṃnāmnor bhikṣor āsāṃ"
+          "text": ") saṃghād ardhamāsaṃ parivāsaṃ yācate / tat saṃghaḥ evaṃnāmnor bhikṣor āsāṃ",
+          "segment_number": 28
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃ"
+          "text": "saṃ",
+          "segment_number": 29
         },
         {
           "tag": "text",
-          "text": "bahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsaṃ parivāsaṃ dadāti / eṣām āyuṣmatāṃ kṣāmante evaṃnāmnor bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsaṃ dātuṃ te tūṣṇīm* / na kṣamante bhāṣantām* / iyaṃ prathamā karmavācanā vaktavyā / dattaḥ saṃghena evaṃnāmnor bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsaḥ / kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm evam etad dhārayāmi / uktaṃ bhagavatā / parivāso dātavyo mūlaparivāsa iti vistaraḥ /"
+          "text": "bahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsaṃ parivāsaṃ dadāti / eṣām āyuṣmatāṃ kṣāmante evaṃnāmnor bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsaṃ dātuṃ te tūṣṇīm* / na kṣamante bhāṣantām* / iyaṃ prathamā karmavācanā vaktavyā / dattaḥ saṃghena evaṃnāmnor bhikṣor āsāṃ saṃbahulānāṃ saṃghāvaśeṣāṇām āpattīnāṃ saṃcintyaśukravisṛṣṭisamutthitānām ardhamāsapraticchannānām ardhamāsaṃ parivāsaḥ / kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīm evam etad dhārayāmi / uktaṃ bhagavatā / parivāso dātavyo mūlaparivāsa iti vistaraḥ /",
+          "segment_number": 30
         }
-      ]
+      ],
+      "segment_number": 26
     },
     {
       "tag": "p",
@@ -271,68 +301,81 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "pratyu"
+          "text": "pratyu",
+          "segment_number": 32
         },
         {
           "tag": "text",
-          "text": "tthānāṃjalisāmīcīkarma"
+          "text": "tthānāṃjalisāmīcīkarma",
+          "segment_number": 33
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 34
         },
         {
           "tag": "text",
-          "text": "svīkartavyam* / naikāsane niṣattavyam* ("
+          "text": "svīkartavyam* / naikāsane niṣattavyam* (",
+          "segment_number": 35
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 97"
+          "text": "MSV III 97",
+          "segment_number": 36
         },
         {
           "tag": "text",
-          "text": ") / nāpi samāsane / sacen niṣīdanti nīcataram āsanaṃ gṛhītvā niṣattavyam* / na caṃkrame yugapac chaṃkramitavyam* / nāpy agrataḥ / sacec caṃkrame caṃkramanti padaparihāṇikayā / na brāhmaṇakulāni upasaṃkramitavyam* / saced upasaṃkramanti paścācchramaṇanyāyena / naikac chadane vastavyam* / na pravrājayitavyam* / nopasaṃpādayitavyam* / na niśrayo deyaḥ / na śramaṇoddeśī upasthāpayitavyaḥ / na karma kartavyam* / na karmakārakaḥ saṃmantavyaḥ / na bhikṣuṇyo 'vavaditavyāḥ / na bhikṣuṇyavavādakaḥ saṃmantavyaḥ / na pūrvasaṃmatena bhikṣuṇyo 'vavaditavyāḥ / na bhikṣuś codayitavyaḥ ("
+          "text": ") / nāpi samāsane / sacen niṣīdanti nīcataram āsanaṃ gṛhītvā niṣattavyam* / na caṃkrame yugapac chaṃkramitavyam* / nāpy agrataḥ / sacec caṃkrame caṃkramanti padaparihāṇikayā / na brāhmaṇakulāni upasaṃkramitavyam* / saced upasaṃkramanti paścācchramaṇanyāyena / naikac chadane vastavyam* / na pravrājayitavyam* / nopasaṃpādayitavyam* / na niśrayo deyaḥ / na śramaṇoddeśī upasthāpayitavyaḥ / na karma kartavyam* / na karmakārakaḥ saṃmantavyaḥ / na bhikṣuṇyo 'vavaditavyāḥ / na bhikṣuṇyavavādakaḥ saṃmantavyaḥ / na pūrvasaṃmatena bhikṣuṇyo 'vavaditavyāḥ / na bhikṣuś codayitavyaḥ (",
+          "segment_number": 37
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "310v1 = GBM 6.933"
+          "text": "310v1 = GBM 6.933",
+          "segment_number": 38
         },
         {
           "tag": "text",
-          "text": ") smārayitavyaḥ śīlavipattyā dṛṣṭivipattyā ācāravipattyā ājīvavipattyā / nānenāvavādaḥ sthāpayitavyaḥ / na poṣadho na pravāraṇā na jñaptir na jñaptidvitīyaṃ na jñapticaturthaṃ karma / kālyam evotthāya dvāraṃ bhoktavyam* / dīpasthālaka udvartavyaḥ / vihāraḥ sektavyaḥ / saṃmārṣṭavyaḥ / sukumārī gomayakārṣī anupradātavyā / prasrāvoccārakuṭī dhāvayitavyā / mṛttikā upasthāpayitavyā pātrāṇi pānīyaṃ śītalaṃ vā kālānurūpataḥ / praṇāḍikāmukhāni dhāvayitavyāni / kālaṃ jñātvāsanaprajñaptiṃ kṛtvā dhūpakaṭacchūke dhūpaś copasthāpayitavaḥ / sacet pratibalo bhavati śāstur guṇasaṃkīrtanaṃ kartuṃ svayam eva kartavyam* / noced bhāṣaṇakaḥ praṣṭavyaḥ upānvāhāraṃ pratyavekṣyopānvāhṛtaṃ cec charaṇapṛṣṭham abhiruhya gaṇḍīr ("
+          "text": ") smārayitavyaḥ śīlavipattyā dṛṣṭivipattyā ācāravipattyā ājīvavipattyā / nānenāvavādaḥ sthāpayitavyaḥ / na poṣadho na pravāraṇā na jñaptir na jñaptidvitīyaṃ na jñapticaturthaṃ karma / kālyam evotthāya dvāraṃ bhoktavyam* / dīpasthālaka udvartavyaḥ / vihāraḥ sektavyaḥ / saṃmārṣṭavyaḥ / sukumārī gomayakārṣī anupradātavyā / prasrāvoccārakuṭī dhāvayitavyā / mṛttikā upasthāpayitavyā pātrāṇi pānīyaṃ śītalaṃ vā kālānurūpataḥ / praṇāḍikāmukhāni dhāvayitavyāni / kālaṃ jñātvāsanaprajñaptiṃ kṛtvā dhūpakaṭacchūke dhūpaś copasthāpayitavaḥ / sacet pratibalo bhavati śāstur guṇasaṃkīrtanaṃ kartuṃ svayam eva kartavyam* / noced bhāṣaṇakaḥ praṣṭavyaḥ upānvāhāraṃ pratyavekṣyopānvāhṛtaṃ cec charaṇapṛṣṭham abhiruhya gaṇḍīr (",
+          "segment_number": 39
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 98"
+          "text": "MSV III 98",
+          "segment_number": 40
         },
         {
           "tag": "text",
-          "text": ") dātavyā / nidāghakāle bhikṣūṇāṃ vyajanaṃ grahītavyam* / tataḥ sarvopasaṃpannānāṃ copariṣṭāc chānteneryāpathavartinā bhikṣusaṃgham upasthāpya bhoktavyam* / kṛtabhaktakṛtyena śayanāsanaṃ channe gopayitavyam* / pātrādhiṣṭhānaṃ chorayitavyam* / kālaṃ jñātvā tathāgatakeśanakhastūpāḥ saṃmārṣṭavyāḥ sukumārī gomayakārṣī anupradātavyā / sāmagrīvelāyāṃ punaḥ śayanāsanaprajñaptiḥ kartavyā / dhūpakaṭacchuke"
+          "text": ") dātavyā / nidāghakāle bhikṣūṇāṃ vyajanaṃ grahītavyam* / tataḥ sarvopasaṃpannānāṃ copariṣṭāc chānteneryāpathavartinā bhikṣusaṃgham upasthāpya bhoktavyam* / kṛtabhaktakṛtyena śayanāsanaṃ channe gopayitavyam* / pātrādhiṣṭhānaṃ chorayitavyam* / kālaṃ jñātvā tathāgatakeśanakhastūpāḥ saṃmārṣṭavyāḥ sukumārī gomayakārṣī anupradātavyā / sāmagrīvelāyāṃ punaḥ śayanāsanaprajñaptiḥ kartavyā / dhūpakaṭacchuke",
+          "segment_number": 41
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "dhūpa"
+          "text": "dhūpa",
+          "segment_number": 42
         },
         {
           "tag": "text",
-          "text": "upasthāpayitavyaḥ / śastur guṇasaṃkīrtanaṃ pūrvavat kartavyam* / divasa ārocayitavyaḥ / śṛṇotu bhadantaḥ saṃghaḥ / adya pakṣaya daśamīty evamādi yathā upadhivārikā ārocayanti / tataḥ parivāsa ārocayitavyaḥ / śṛṇotu bhadantaḥ saṃghaḥ / aham evaṃnāmā bhikṣur evaṃrūpāṃ caivaṃrūpāṃ ca saṃghāvaśeṣām āpattim āpanna iyatkālapraticchannām* / tasya mama saṃghena iyatkālaṃ parivāso dattaḥ / tato mayā iyaccaritaṃ śiṣṭaṃ caritavyam* / pārivāsikaṃ māṃ bhadantaḥ saṃgho dhārayatu mānāpyacārikaṃ ceti /"
+          "text": "upasthāpayitavyaḥ / śastur guṇasaṃkīrtanaṃ pūrvavat kartavyam* / divasa ārocayitavyaḥ / śṛṇotu bhadantaḥ saṃghaḥ / adya pakṣaya daśamīty evamādi yathā upadhivārikā ārocayanti / tataḥ parivāsa ārocayitavyaḥ / śṛṇotu bhadantaḥ saṃghaḥ / aham evaṃnāmā bhikṣur evaṃrūpāṃ caivaṃrūpāṃ ca saṃghāvaśeṣām āpattim āpanna iyatkālapraticchannām* / tasya mama saṃghena iyatkālaṃ parivāso dattaḥ / tato mayā iyaccaritaṃ śiṣṭaṃ caritavyam* / pārivāsikaṃ māṃ bhadantaḥ saṃgho dhārayatu mānāpyacārikaṃ ceti /",
+          "segment_number": 43
         }
-      ]
+      ],
+      "segment_number": 31
     },
     {
       "tag": "p",
@@ -344,28 +387,34 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 99"
+          "text": "MSV III 99",
+          "segment_number": 45
         },
         {
           "tag": "text",
-          "text": ") aham evaṃnāmā bhikṣuḥ saṃghāvaśeṣām āpattim āpannaḥ / pūrvavad yāvat pārivāsikaṃ mām āyuṣmān dharayatv iti /"
+          "text": ") aham evaṃnāmā bhikṣuḥ saṃghāvaśeṣām āpattim āpannaḥ / pūrvavad yāvat pārivāsikaṃ mām āyuṣmān dharayatv iti /",
+          "segment_number": 46
         }
-      ]
+      ],
+      "segment_number": 44
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "sa tasyāntike paryavasthitaḥ kathayati / apehi mama purastān mohapuruṣa mā parivāso mā tvam iti / sa lajjāparigatahṛdayo 'vāṅmukho mandagatipracāratayā tasya bhikṣoḥ sakāśāt prakrāntaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / āgantukasya bhikṣoḥ pātracīvare apratiśāmite nārocayitavyam* / api tu na ekaikasyārocayitavyam* / kiṃ tu sarvasaṃghe saṃniṣaṇṇe saṃnipatita iti / bhagavān āha / gaṇḍyām ākoṭitāyāṃ yathā saṃnihitānām ārocayitavyam* /"
+      "text": "sa tasyāntike paryavasthitaḥ kathayati / apehi mama purastān mohapuruṣa mā parivāso mā tvam iti / sa lajjāparigatahṛdayo 'vāṅmukho mandagatipracāratayā tasya bhikṣoḥ sakāśāt prakrāntaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / āgantukasya bhikṣoḥ pātracīvare apratiśāmite nārocayitavyam* / api tu na ekaikasyārocayitavyam* / kiṃ tu sarvasaṃghe saṃniṣaṇṇe saṃnipatita iti / bhagavān āha / gaṇḍyām ākoṭitāyāṃ yathā saṃnihitānām ārocayitavyam* /",
+      "segment_number": 47
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "na cānenābhikṣukaṃ vihāraṃ gantavyam* / saced gacchati na tatra vastavyam* /"
+      "text": "na cānenābhikṣukaṃ vihāraṃ gantavyam* / saced gacchati na tatra vastavyam* /",
+      "segment_number": 48
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "vikāle bhikṣūṇām uṣṇena śītāmbunā vā yathākālaṃ pādāḥ śocitavyāḥ / mrakṣayitavyāḥ / na ced icchanti / snehalābhopasaṃhāraḥ kartavyaḥ / tataḥ smṛtim upasthāpya utthānasaṃjñinā śayyā kalpayitavyā /"
+      "text": "vikāle bhikṣūṇām uṣṇena śītāmbunā vā yathākālaṃ pādāḥ śocitavyāḥ / mrakṣayitavyāḥ / na ced icchanti / snehalābhopasaṃhāraḥ kartavyaḥ / tataḥ smṛtim upasthāpya utthānasaṃjñinā śayyā kalpayitavyā /",
+      "segment_number": 49
     },
     {
       "tag": "p",
@@ -377,18 +426,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "311r1 = GBM 6.934"
+          "text": "311r1 = GBM 6.934",
+          "segment_number": 51
         },
         {
           "tag": "text",
-          "text": ") bhikṣavo yathā prajñaptān āsamudācārikān dharmān na samādāya vartante sātisārā bhavanti /"
+          "text": ") bhikṣavo yathā prajñaptān āsamudācārikān dharmān na samādāya vartante sātisārā bhavanti /",
+          "segment_number": 52
         }
-      ]
+      ],
+      "segment_number": 50
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "tasya vihāraṃ noddiśanti / lābhaṃ nānuprayacchanti / bhagavān āha / sarvapaścāt tasya vihāra uddeṣṭavyaḥ / sarvapaścāc ca lābho deyaḥ /"
+      "text": "tasya vihāraṃ noddiśanti / lābhaṃ nānuprayacchanti / bhagavān āha / sarvapaścāt tasya vihāra uddeṣṭavyaḥ / sarvapaścāc ca lābho deyaḥ /",
+      "segment_number": 53
     },
     {
       "tag": "note",
@@ -406,7 +459,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 54
     },
     {
       "tag": "lg",
@@ -415,12 +469,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "ṣaṣṭiśataṃ kuryāt pudgalaś caiva viṃśikāt* /"
+          "text": "ṣaṣṭiśataṃ kuryāt pudgalaś caiva viṃśikāt* /",
+          "segment_number": 55
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "saṃghe mānāpyaṃ caritavyam āgatāḥ prativaikārikāḥ //"
+          "text": "saṃghe mānāpyaṃ caritavyam āgatāḥ prativaikārikāḥ //",
+          "segment_number": 56
         }
       ]
     },
@@ -434,23 +490,28 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "parivāsaṃ"
+          "text": "parivāsaṃ",
+          "segment_number": 58
         },
         {
           "tag": "text",
-          "text": "pradadati / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / na caturbhiḥ pārivāsikair bhikṣoḥ parivāso dātavyaḥ / na tribhiḥ pārivāsikair ekena prakṛtisthena / na dvābhyāṃ pārivāsikābhyāṃ dvābhyāṃ prakṛtisthakābhyām* / naikena pārivāsikena na tribhiḥ prakṛtisthakaiḥ / kin tu sarvaiḥ pariśuddhaiḥ samānadṛṣṭibhir bhikṣoḥ parivāso dātavyaḥ /"
+          "text": "pradadati / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / na caturbhiḥ pārivāsikair bhikṣoḥ parivāso dātavyaḥ / na tribhiḥ pārivāsikair ekena prakṛtisthena / na dvābhyāṃ pārivāsikābhyāṃ dvābhyāṃ prakṛtisthakābhyām* / naikena pārivāsikena na tribhiḥ prakṛtisthakaiḥ / kin tu sarvaiḥ pariśuddhaiḥ samānadṛṣṭibhir bhikṣoḥ parivāso dātavyaḥ /",
+          "segment_number": 59
         }
-      ]
+      ],
+      "segment_number": 57
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā pārivāsikair evaṃ mūlapārivāsikair mānāpyacārikaiś caritamānāpyaiḥ /"
+      "text": "yathā pārivāsikair evaṃ mūlapārivāsikair mānāpyacārikaiś caritamānāpyaiḥ /",
+      "segment_number": 60
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā parivāsam evaṃ mūlaparivāsaṃ mūlāpakarṣaṃ mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyaṃ ca /"
+      "text": "yathā parivāsam evaṃ mūlaparivāsaṃ mūlāpakarṣaṃ mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyaṃ ca /",
+      "segment_number": 61
     },
     {
       "tag": "p",
@@ -462,13 +523,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "pārivāsikena"
+          "text": "pārivāsikena",
+          "segment_number": 63
         },
         {
           "tag": "text",
-          "text": "/"
+          "text": "/",
+          "segment_number": 64
         }
-      ]
+      ],
+      "segment_number": 62
     },
     {
       "tag": "note",
@@ -486,7 +550,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā pārivāsikair evaṃ paryuṣitaparivāsair mānāpyaiś cāritamānāpyaiḥ śikṣādattakaiś ca /"
+      "text": "yathā pārivāsikair evaṃ paryuṣitaparivāsair mānāpyaiś cāritamānāpyaiḥ śikṣādattakaiś ca /",
+      "segment_number": 65
     },
     {
       "tag": "p",
@@ -498,23 +563,28 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ka"
+          "text": "ka",
+          "segment_number": 67
         },
         {
           "tag": "text",
-          "text": "yoḥ / na trayāṇāṃ prakṛtisthakānām ekasya pārivāsikasya / api tu sarveṣāṃ pariśuddhānāṃ samānadṛṣṭikānām antikāt parivāsaś caritavyaḥ /"
+          "text": "yoḥ / na trayāṇāṃ prakṛtisthakānām ekasya pārivāsikasya / api tu sarveṣāṃ pariśuddhānāṃ samānadṛṣṭikānām antikāt parivāsaś caritavyaḥ /",
+          "segment_number": 68
         }
-      ]
+      ],
+      "segment_number": 66
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā pārivāsikānām evaṃ paryuṣitapārivāsikānāṃ mānāpyacārikāṇāṃ cāritamānāpyānāṃ śikṣādattakānāṃ ca /"
+      "text": "yathā pārivāsikānām evaṃ paryuṣitapārivāsikānāṃ mānāpyacārikāṇāṃ cāritamānāpyānāṃ śikṣādattakānāṃ ca /",
+      "segment_number": 69
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā parivāsam evaṃ mūlaparivāsaṃ mūlāpakarṣaṃ mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyaṃ caranti /"
+      "text": "yathā parivāsam evaṃ mūlaparivāsaṃ mūlāpakarṣaṃ mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyaṃ caranti /",
+      "segment_number": 70
     },
     {
       "tag": "p",
@@ -526,13 +596,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 102"
+          "text": "MSV III 102",
+          "segment_number": 72
         },
         {
           "tag": "text",
-          "text": ") catvāro bhikṣavaḥ pariśuddhāḥ samānadṛṣṭayaḥ prativasanti tatra parivāsaś caritavyaḥ /"
+          "text": ") catvāro bhikṣavaḥ pariśuddhāḥ samānadṛṣṭayaḥ prativasanti tatra parivāsaś caritavyaḥ /",
+          "segment_number": 73
         }
-      ]
+      ],
+      "segment_number": 71
     },
     {
       "tag": "note",
@@ -550,7 +623,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā parivāsa evaṃ mūlaparivāso mūlāpakarṣo mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyaṃ ca /"
+      "text": "yathā parivāsa evaṃ mūlaparivāso mūlāpakarṣo mānāpyaṃ mūlamānāpyaṃ mūlāpakarṣamānāpyaṃ ca /",
+      "segment_number": 74
     },
     {
       "tag": "p",
@@ -562,34 +636,41 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "śrutaṃ"
+          "text": "śrutaṃ",
+          "segment_number": 76
         },
         {
           "tag": "text",
-          "text": "bhikṣava āgacchanti kalahakārakā bhaṇḍanakārakā vigrahakārakā vivādakārakā ādhikaraṇikāḥ / te 'smāṃś codayiṣyanti alajjitena vā vaitarikeṇa vā iti / tais teṣāṃ kathaṃ pratipattavyam iti / bhagavān āha / pārivāsikamānāpyacārikair upālin bhikṣubhiḥ kalahakārakā bhikṣava āgacchantīti śrutvā sa parivāso bhikṣoḥ purastāt pratinisraṣṭavyaḥ / evaṃ ca punaḥ pratinisraṣṭavyaḥ / samīcīṃ kṛtvā utkuṭukena sthitvāñjaliṃ pragṛhya idaṃ syād vacanīyam* / samanvāharāyuṣmann aham evaṃnāmā evaṃrūpāṃ caivaṃrūpāṃ ca saṃghāvaśeṣām āpattim āpannaḥ iyaccirakālapraticchannām* / tasya mama saṃghena iyantaṃ kālaṃ parivāso dattaḥ / tena mayā pārivāsikena satā śrutaṃ bhikṣava āgacchanti kalahakārakā bhaṇḍanakārakā vigrahakārakā vivādakārakā ādhikaraṇikās te māṃ codayiṣyanti smārayiṣyanti alajjitena vā vaitarikeṇa vā / so 'ham evaṃnāmā pārivāsiko bhikṣus taṃ parivāsam āyuṣmataḥ purastāt pratinisṛjāmi / iyatkālaṃ me caritam iyatkālaṃ tu caritavyam* / prakṛtisthakaṃ ("
+          "text": "bhikṣava āgacchanti kalahakārakā bhaṇḍanakārakā vigrahakārakā vivādakārakā ādhikaraṇikāḥ / te 'smāṃś codayiṣyanti alajjitena vā vaitarikeṇa vā iti / tais teṣāṃ kathaṃ pratipattavyam iti / bhagavān āha / pārivāsikamānāpyacārikair upālin bhikṣubhiḥ kalahakārakā bhikṣava āgacchantīti śrutvā sa parivāso bhikṣoḥ purastāt pratinisraṣṭavyaḥ / evaṃ ca punaḥ pratinisraṣṭavyaḥ / samīcīṃ kṛtvā utkuṭukena sthitvāñjaliṃ pragṛhya idaṃ syād vacanīyam* / samanvāharāyuṣmann aham evaṃnāmā evaṃrūpāṃ caivaṃrūpāṃ ca saṃghāvaśeṣām āpattim āpannaḥ iyaccirakālapraticchannām* / tasya mama saṃghena iyantaṃ kālaṃ parivāso dattaḥ / tena mayā pārivāsikena satā śrutaṃ bhikṣava āgacchanti kalahakārakā bhaṇḍanakārakā vigrahakārakā vivādakārakā ādhikaraṇikās te māṃ codayiṣyanti smārayiṣyanti alajjitena vā vaitarikeṇa vā / so 'ham evaṃnāmā pārivāsiko bhikṣus taṃ parivāsam āyuṣmataḥ purastāt pratinisṛjāmi / iyatkālaṃ me caritam iyatkālaṃ tu caritavyam* / prakṛtisthakaṃ (",
+          "segment_number": 77
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 103"
+          "text": "MSV III 103",
+          "segment_number": 78
         },
         {
           "tag": "text",
-          "text": ") māmāyuṣman dhārayatv iti / tataḥ punar api gatavegair hatavegair gatapratyarthikais tathaiva prakṛtisthakasya bhikṣoḥ purastāt parivāsaḥ samādātavyaḥ / evam ca punaḥ samādātavyaḥ / samīcīṃ kṛtvā utkuṭukena sthitvāñjaliṃ pragṛhya idaṃ syād vacanīyam* / samanvāharāyuṣmann aham evaṃnāmā bhikṣur evaṃrūpāṃ caivaṃrūpāṃ ca saṃghāvaśeṣām āpattim āpannaḥ iyaccirakālapraticchannām* / tasya mama saṃghena iyantaṃ kālaṃ parivāso dattaḥ / tena mayā pārivāsikena śrutaṃ bhikṣava āgacchanti kalahakārakā bhaṇḍanakārakā vigrahakārakā vivādakārakā ādhikaraṇikās te māṃ codayiṣyanti smārayiṣyanti alajjitena vā vaitarikeṇeti / tan mayā pārivāsikavṛttaṃ bhikṣoḥ purastāt pratinisṛṣṭam* / so 'ham evaṃnāmā bhikṣus taṃ parivāsam āyuṣmataḥ purastāt samādade / iyatkālaṃ me caritam iyatkālaṃ me kartavyaṃ bhaviṣyati / pārivāsikaṃ māmāyuṣman dhārayatu /"
+          "text": ") māmāyuṣman dhārayatv iti / tataḥ punar api gatavegair hatavegair gatapratyarthikais tathaiva prakṛtisthakasya bhikṣoḥ purastāt parivāsaḥ samādātavyaḥ / evam ca punaḥ samādātavyaḥ / samīcīṃ kṛtvā utkuṭukena sthitvāñjaliṃ pragṛhya idaṃ syād vacanīyam* / samanvāharāyuṣmann aham evaṃnāmā bhikṣur evaṃrūpāṃ caivaṃrūpāṃ ca saṃghāvaśeṣām āpattim āpannaḥ iyaccirakālapraticchannām* / tasya mama saṃghena iyantaṃ kālaṃ parivāso dattaḥ / tena mayā pārivāsikena śrutaṃ bhikṣava āgacchanti kalahakārakā bhaṇḍanakārakā vigrahakārakā vivādakārakā ādhikaraṇikās te māṃ codayiṣyanti smārayiṣyanti alajjitena vā vaitarikeṇeti / tan mayā pārivāsikavṛttaṃ bhikṣoḥ purastāt pratinisṛṣṭam* / so 'ham evaṃnāmā bhikṣus taṃ parivāsam āyuṣmataḥ purastāt samādade / iyatkālaṃ me caritam iyatkālaṃ me kartavyaṃ bhaviṣyati / pārivāsikaṃ māmāyuṣman dhārayatu /",
+          "segment_number": 79
         }
-      ]
+      ],
+      "segment_number": 75
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā parivāsa evaṃ mūlaparivāso mūlāpakarṣo mānāpyaṃ ca /"
+      "text": "yathā parivāsa evaṃ mūlaparivāso mūlāpakarṣo mānāpyaṃ ca /",
+      "segment_number": 80
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "pārivāsikavastu samāptam* //"
+      "text": "pārivāsikavastu samāptam* //",
+      "segment_number": 81
     }
   ]
 }

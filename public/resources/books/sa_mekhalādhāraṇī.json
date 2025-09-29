@@ -44,13 +44,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_114v2"
+          "text": "MDh_114v2",
+          "segment_number": 2
         },
         {
           "tag": "text",
-          "text": ") namaḥ sarvabuddhabodhisatvebhyaḥ evaṃ mayā śrutam ekasmiṃ samaye bhagavāṃ cchākyeṣu viharati sma / kapilavastu nyagrodhārāme /"
+          "text": ") namaḥ sarvabuddhabodhisatvebhyaḥ evaṃ mayā śrutam ekasmiṃ samaye bhagavāṃ cchākyeṣu viharati sma / kapilavastu nyagrodhārāme /",
+          "segment_number": 3
         }
-      ]
+      ],
+      "segment_number": 1
     },
     {
       "tag": "p",
@@ -62,123 +65,146 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "kha"
+          "text": "kha",
+          "segment_number": 5
         },
         {
           "tag": "text",
-          "text": "lā nāma vidyā vyākhyāsyāmaḥ śṛṇvantu me devagaṇā nāgagaṇā rākṣasagaṇā ("
+          "text": "lā nāma vidyā vyākhyāsyāmaḥ śṛṇvantu me devagaṇā nāgagaṇā rākṣasagaṇā (",
+          "segment_number": 6
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_115r1"
+          "text": "MDh_115r1",
+          "segment_number": 7
         },
         {
           "tag": "text",
-          "text": ") asuragaṇā garuḍagaṇā gandharvagaṇā kinnaragaṇā"
+          "text": ") asuragaṇā garuḍagaṇā gandharvagaṇā kinnaragaṇā",
+          "segment_number": 8
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "piśā"
+          "text": "piśā",
+          "segment_number": 9
         },
         {
           "tag": "text",
-          "text": "cagaṇā kuṃbhāṇḍagaṇā pūtanagaṇā grahagaṇā nakṣatragaṇā aṣṭāviṃsati mahāyakṣasenāpati / catvāro mahārājānaḥ kṛmayo vītarāgaḥ himavaṃtanivāsino daśa dik* ye bhūtāḥ prativasaṃti rākṣasīgaṇāḥ pākiḍi / laṃbodari / kīṭakarṇa / sumanā ca / mahāratiḥ mātṛgaṇāś ca ye samudrakalpasya rakṣakaḥ purasmiṃ diśābhāge hari nāma rākṣasī : dakṣaṇasmiṃ diśābhāge goṇāsi nāma rākṣasī paścimasmiṃ diśābhāge kesari nāma rākṣasī / uttarasmiṃ diśābhāge mahācūḍā nāma rākṣasī ity etā rākṣasī ghori ekaikaḥ ṣaṣṭikoṭiparivṛtaḥ te rāhulasya kumārasya nityaṃ rakṣaṃ mekhalāvidyāyāḥ rakṣa rakṣa mama gornikṣiṇasya rakṣaṃ kurvatu / niveditāyāḥ tadyathā ghane ghane ghane ghane / ghaphu ghanapati / ghume ghume / ("
+          "text": "cagaṇā kuṃbhāṇḍagaṇā pūtanagaṇā grahagaṇā nakṣatragaṇā aṣṭāviṃsati mahāyakṣasenāpati / catvāro mahārājānaḥ kṛmayo vītarāgaḥ himavaṃtanivāsino daśa dik* ye bhūtāḥ prativasaṃti rākṣasīgaṇāḥ pākiḍi / laṃbodari / kīṭakarṇa / sumanā ca / mahāratiḥ mātṛgaṇāś ca ye samudrakalpasya rakṣakaḥ purasmiṃ diśābhāge hari nāma rākṣasī : dakṣaṇasmiṃ diśābhāge goṇāsi nāma rākṣasī paścimasmiṃ diśābhāge kesari nāma rākṣasī / uttarasmiṃ diśābhāge mahācūḍā nāma rākṣasī ity etā rākṣasī ghori ekaikaḥ ṣaṣṭikoṭiparivṛtaḥ te rāhulasya kumārasya nityaṃ rakṣaṃ mekhalāvidyāyāḥ rakṣa rakṣa mama gornikṣiṇasya rakṣaṃ kurvatu / niveditāyāḥ tadyathā ghane ghane ghane ghane / ghaphu ghanapati / ghume ghume / (",
+          "segment_number": 10
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_115v1"
+          "text": "MDh_115v1",
+          "segment_number": 11
         },
         {
           "tag": "text",
-          "text": ") ghume / ghume ghume ghume ghumapati / ghare ghare ghare ghare ghare / gharipaṭi harāpiṭi / śārāpati dhanāpati / surapati / ahiṅse ahiṃsapati / mamati / amati / sumati / bahupati hala hala hala / hala hala / hala halaṃ halapa : hili hili hili hili hili hili / hili / hulu hulu hulu hulu hulu hulu hulu / tili tili tili tili tili tili tili // ṣiṭi ṭape ṭaṭṛpe / olaṃbe mavisāre / haha hihi huhu / samatasare / asamaṃtacare palikhasare / acarte / samatacarte ghane mekhale iyaṃ sā ānanda mekhalā nāma samaṃtapratisarā na kvacit pratiṣedhyati vidyādharebhyo bhūtebhyo : vetāḍebhyo : mahābalaiḥ riddhimadbhi mahāvīryaiḥ mekhalā eṣa ānanda vidye buddhair bhagavadbhi bhāṣitaṃ satvahitāya sukhāya : yāvad ārakṣāvarṇag"
+          "text": ") ghume / ghume ghume ghume ghumapati / ghare ghare ghare ghare ghare / gharipaṭi harāpiṭi / śārāpati dhanāpati / surapati / ahiṅse ahiṃsapati / mamati / amati / sumati / bahupati hala hala hala / hala hala / hala halaṃ halapa : hili hili hili hili hili hili / hili / hulu hulu hulu hulu hulu hulu hulu / tili tili tili tili tili tili tili // ṣiṭi ṭape ṭaṭṛpe / olaṃbe mavisāre / haha hihi huhu / samatasare / asamaṃtacare palikhasare / acarte / samatacarte ghane mekhale iyaṃ sā ānanda mekhalā nāma samaṃtapratisarā na kvacit pratiṣedhyati vidyādharebhyo bhūtebhyo : vetāḍebhyo : mahābalaiḥ riddhimadbhi mahāvīryaiḥ mekhalā eṣa ānanda vidye buddhair bhagavadbhi bhāṣitaṃ satvahitāya sukhāya : yāvad ārakṣāvarṇag",
+          "segment_number": 12
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "upta"
+          "text": "upta",
+          "segment_number": 13
         },
         {
           "tag": "text",
-          "text": "ye / anyaiś ca mahādbhir bhāṣitā mekhalānanda sarvasatvahitakārika : ye ("
+          "text": "ye / anyaiś ca mahādbhir bhāṣitā mekhalānanda sarvasatvahitakārika : ye (",
+          "segment_number": 14
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_116r1"
+          "text": "MDh_116r1",
+          "segment_number": 15
         },
         {
           "tag": "text",
-          "text": ") kecit pāpakarmāṇaḥ ojāhāra / prthivyā prativasaṃti / sa .. .."
+          "text": ") kecit pāpakarmāṇaḥ ojāhāra / prthivyā prativasaṃti / sa .. ..",
+          "segment_number": 16
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "me"
+          "text": "me",
+          "segment_number": 17
         },
         {
           "tag": "text",
-          "text": "kh"
+          "text": "kh",
+          "segment_number": 18
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 19
         },
         {
           "tag": "text",
-          "text": "lā vidyāṃ śrutvā saṃtrastā diśividiśi vrajaṃti iyam ānanda mekhalā vidyāṃ / sugṛhītaṃ kṛtvā rāhulasya kumārasya rakṣa rakṣa m"
+          "text": "lā vidyāṃ śrutvā saṃtrastā diśividiśi vrajaṃti iyam ānanda mekhalā vidyāṃ / sugṛhītaṃ kṛtvā rāhulasya kumārasya rakṣa rakṣa m",
+          "segment_number": 20
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ama"
+          "text": "ama",
+          "segment_number": 21
         },
         {
           "tag": "text",
-          "text": "gornikṣiṇasya samaṃta dvādaśayojanārveṇa rakṣāṃ karomi / paritraṃ parigrahaṃ paripālanaṃ śānti svastyayanaṃ karomi daṇḍaparihāraṃ karomi / śastraparihāraṃ karomi / viṣadūṣaṇaṃ karomi amitrapratiṣedhanaṃ karomi / sīmābandhanaṃ karomi sūtrabandhanaṃ karomi / sarvaduṣṭāni vāremi / manuṣyā vā amanuṣyā vā mā hiṃsatu pāpakā svāhā // upacāra tathāgatasya namaskṛtvā puṣpagandhaṃ datvā sūtrakaṃ kartavyaṃ / unmardanaṃ vistapanaṃ omārjanaṃ kartavyaṃ sarvagrahanivāraṇa ("
+          "text": "gornikṣiṇasya samaṃta dvādaśayojanārveṇa rakṣāṃ karomi / paritraṃ parigrahaṃ paripālanaṃ śānti svastyayanaṃ karomi daṇḍaparihāraṃ karomi / śastraparihāraṃ karomi / viṣadūṣaṇaṃ karomi amitrapratiṣedhanaṃ karomi / sīmābandhanaṃ karomi sūtrabandhanaṃ karomi / sarvaduṣṭāni vāremi / manuṣyā vā amanuṣyā vā mā hiṃsatu pāpakā svāhā // upacāra tathāgatasya namaskṛtvā puṣpagandhaṃ datvā sūtrakaṃ kartavyaṃ / unmardanaṃ vistapanaṃ omārjanaṃ kartavyaṃ sarvagrahanivāraṇa (",
+          "segment_number": 22
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_116v1"
+          "text": "MDh_116v1",
+          "segment_number": 23
         },
         {
           "tag": "text",
-          "text": ") sarvarogapraśamanaṃ bhavatv iti // tadyathā nile nile / vimale tam"
+          "text": ") sarvarogapraśamanaṃ bhavatv iti // tadyathā nile nile / vimale tam",
+          "segment_number": 24
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 25
         },
         {
           "tag": "text",
-          "text": "le / hiri bhiri siri masara svāhā //"
+          "text": "le / hiri bhiri siri masara svāhā //",
+          "segment_number": 26
         }
-      ]
+      ],
+      "segment_number": 4
     },
     {
       "tag": "p",
@@ -190,46 +216,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 28
         },
         {
           "tag": "text",
-          "text": "śruṇitvāna / kaṃpitā sarva medini bhūtasaṃghāḥ pracalitā devasaṃghāḥ samāgatāḥ nāgarājāḥ samāgatāḥ bhūtarājāḥ samāgataḥ bhagava maitrakaṃ : brahmendrāś ca samāgataḥ maheśvaraś ca kumārāś cāpy ubhau samāgatau ye kecit kīrtitā bhūtā mekhalāya samāgata : atha maitreyo bodhisatvo mahāsatvaḥ bhagavantam etad avocat* aham asmiṃ bhagavan rāhulasya kumārasya rakṣāṃ dāsyāmi / paritraṃ parigrahaṃ paripālanaṃ śānti svastyayanaṃ daṇ"
+          "text": "śruṇitvāna / kaṃpitā sarva medini bhūtasaṃghāḥ pracalitā devasaṃghāḥ samāgatāḥ nāgarājāḥ samāgatāḥ bhūtarājāḥ samāgataḥ bhagava maitrakaṃ : brahmendrāś ca samāgataḥ maheśvaraś ca kumārāś cāpy ubhau samāgatau ye kecit kīrtitā bhūtā mekhalāya samāgata : atha maitreyo bodhisatvo mahāsatvaḥ bhagavantam etad avocat* aham asmiṃ bhagavan rāhulasya kumārasya rakṣāṃ dāsyāmi / paritraṃ parigrahaṃ paripālanaṃ śānti svastyayanaṃ daṇ",
+          "segment_number": 29
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḍa"
+          "text": "ḍa",
+          "segment_number": 30
         },
         {
           "tag": "text",
-          "text": "parihāraṃ ś"
+          "text": "parihāraṃ ś",
+          "segment_number": 31
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "astrapa"
+          "text": "astrapa",
+          "segment_number": 32
         },
         {
           "tag": "text",
-          "text": "rihāraṃ viṣadūṣaṇaṃ amitrapratiṣedhanaṃ sīmābandha"
+          "text": "rihāraṃ viṣadūṣaṇaṃ amitrapratiṣedhanaṃ sīmābandha",
+          "segment_number": 33
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 34
         },
         {
           "tag": "text",
-          "text": "ṃ sūtrakabandhaṃ mekhalāvidyāyāḥ parivārāḥ tadyathā acaṭanī caṭanī / .. .. .. .. .ī culu culu / ūrdhvadaṇḍe adhardaṇḍe samaṃtadaṇḍe / nimimune / śānti /"
+          "text": "ṃ sūtrakabandhaṃ mekhalāvidyāyāḥ parivārāḥ tadyathā acaṭanī caṭanī / .. .. .. .. .ī culu culu / ūrdhvadaṇḍe adhardaṇḍe samaṃtadaṇḍe / nimimune / śānti /",
+          "segment_number": 35
         }
-      ]
+      ],
+      "segment_number": 27
     },
     {
       "tag": "p",
@@ -241,399 +276,472 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3253.1"
+          "text": "MDh_GBM 3253.1",
+          "segment_number": 37
         },
         {
           "tag": "text",
-          "text": ") /// vāvatāraṃ labheyuḥ nedaṃ sthānaṃ vidyate / sthāpya paurāṇaṃ karmāvaraṇaṃ svastir bha\n("
+          "text": ") /// vāvatāraṃ labheyuḥ nedaṃ sthānaṃ vidyate / sthāpya paurāṇaṃ karmāvaraṇaṃ svastir bha\n(",
+          "segment_number": 38
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3253.2"
+          "text": "MDh_GBM 3253.2",
+          "segment_number": 39
         },
         {
           "tag": "text",
-          "text": ") /// .. manuṣyabhayebhyaḥ sarvamanuṣyabhayebhyaḥ / svāhā // tatra khalu bhagavāṃ\n("
+          "text": ") /// .. manuṣyabhayebhyaḥ sarvamanuṣyabhayebhyaḥ / svāhā // tatra khalu bhagavāṃ\n(",
+          "segment_number": 40
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3253.3"
+          "text": "MDh_GBM 3253.3",
+          "segment_number": 41
         },
         {
           "tag": "text",
-          "text": ") /// .. nāma vidyā saparivāra / eṣānanda mekhalā vidyā meghabandhavātastyaṃ\n("
+          "text": ") /// .. nāma vidyā saparivāra / eṣānanda mekhalā vidyā meghabandhavātastyaṃ\n(",
+          "segment_number": 42
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3253.4"
+          "text": "MDh_GBM 3253.4",
+          "segment_number": 43
         },
         {
           "tag": "text",
-          "text": ") ///"
+          "text": ") ///",
+          "segment_number": 44
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m"
+          "text": "m",
+          "segment_number": 45
         },
         {
           "tag": "text",
-          "text": "ābandha anat"
+          "text": "ābandha anat",
+          "segment_number": 46
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 47
         },
         {
           "tag": "text",
-          "text": "kramaṇīyaḥ devena vā nāgena vā yakṣeṇa vā rākṣase\n("
+          "text": "kramaṇīyaḥ devena vā nāgena vā yakṣeṇa vā rākṣase\n(",
+          "segment_number": 48
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3253.5"
+          "text": "MDh_GBM 3253.5",
+          "segment_number": 49
         },
         {
           "tag": "text",
-          "text": ") /// śramaṇena vā brāhmaṇena vā / carakena vā / parivrajakena vā / kāpā"
+          "text": ") /// śramaṇena vā brāhmaṇena vā / carakena vā / parivrajakena vā / kāpā",
+          "segment_number": 50
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "likena vā"
+          "text": "likena vā",
+          "segment_number": 51
         },
         {
           "tag": "text",
-          "text": "("
+          "text": "(",
+          "segment_number": 52
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3253.6"
+          "text": "MDh_GBM 3253.6",
+          "segment_number": 53
         },
         {
           "tag": "text",
-          "text": ") /// .. mekhalā vidyā sarveṣāṃ nāśayati / kṛtyakhākhordavetāḍasa /\n("
+          "text": ") /// .. mekhalā vidyā sarveṣāṃ nāśayati / kṛtyakhākhordavetāḍasa /\n(",
+          "segment_number": 54
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3254.1"
+          "text": "MDh_GBM 3254.1",
+          "segment_number": 55
         },
         {
           "tag": "text",
-          "text": ") ///"
+          "text": ") ///",
+          "segment_number": 56
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "śra"
+          "text": "śra",
+          "segment_number": 57
         },
         {
           "tag": "text",
-          "text": "maṇakṛtāṃ vidyā cchindayati / brāhmaṇakṛtā vidyā cchindati / ca"
+          "text": "maṇakṛtāṃ vidyā cchindayati / brāhmaṇakṛtā vidyā cchindati / ca",
+          "segment_number": 58
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "rakakṛtāṃ vidyāṃ cchindati"
+          "text": "rakakṛtāṃ vidyāṃ cchindati",
+          "segment_number": 59
         },
         {
           "tag": "text",
-          "text": "("
+          "text": "(",
+          "segment_number": 60
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3254.2"
+          "text": "MDh_GBM 3254.2",
+          "segment_number": 61
         },
         {
           "tag": "text",
-          "text": ") /// .āṅgakṛtaṃ vidyāṃ cchindati / maheśvarakṛtaṃ vidyā cchindati / śakrakṛtaṃ mahā\n("
+          "text": ") /// .āṅgakṛtaṃ vidyāṃ cchindati / maheśvarakṛtaṃ vidyā cchindati / śakrakṛtaṃ mahā\n(",
+          "segment_number": 62
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3254.3"
+          "text": "MDh_GBM 3254.3",
+          "segment_number": 63
         },
         {
           "tag": "text",
-          "text": ") /// pati / kṛtāṃ candrasūryagrahanakṣatrakṛtāṃ vidyāṃ devanāgayakṣa\n("
+          "text": ") /// pati / kṛtāṃ candrasūryagrahanakṣatrakṛtāṃ vidyāṃ devanāgayakṣa\n(",
+          "segment_number": 64
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3254.4"
+          "text": "MDh_GBM 3254.4",
+          "segment_number": 65
         },
         {
           "tag": "text",
-          "text": ") /// / ṛddhimantakṛtāṃ vidyā cchindati / śā .. .e .. .. .. kṛtaṃ vidyāṃ cchindati ..\n("
+          "text": ") /// / ṛddhimantakṛtāṃ vidyā cchindati / śā .. .e .. .. .. kṛtaṃ vidyāṃ cchindati ..\n(",
+          "segment_number": 66
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3254.5"
+          "text": "MDh_GBM 3254.5",
+          "segment_number": 67
         },
         {
           "tag": "text",
-          "text": ") ///"
+          "text": ") ///",
+          "segment_number": 68
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "cchi"
+          "text": "cchi",
+          "segment_number": 69
         },
         {
           "tag": "text",
-          "text": "ndati / parvataśṛṅgakṛta vidyā cchindati / bhūmikṛtaṃ ākāśakṛtaṃ\n("
+          "text": "ndati / parvataśṛṅgakṛta vidyā cchindati / bhūmikṛtaṃ ākāśakṛtaṃ\n(",
+          "segment_number": 70
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3254.6"
+          "text": "MDh_GBM 3254.6",
+          "segment_number": 71
         },
         {
           "tag": "text",
-          "text": ") /// .. nānām uttaracchedanaṃ iyaṃ mekhalā vidyā : // nāhaṃ ānanda samanu\n("
+          "text": ") /// .. nānām uttaracchedanaṃ iyaṃ mekhalā vidyā : // nāhaṃ ānanda samanu\n(",
+          "segment_number": 72
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3255.1"
+          "text": "MDh_GBM 3255.1",
+          "segment_number": 73
         },
         {
           "tag": "text",
-          "text": ") ///"
+          "text": ") ///",
+          "segment_number": 74
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "c"
+          "text": "c",
+          "segment_number": 75
         },
         {
           "tag": "text",
-          "text": "chucchupati / śānti svastyayanaṃ yāva sīmābandhaṃ karomi /\n("
+          "text": "chucchupati / śānti svastyayanaṃ yāva sīmābandhaṃ karomi /\n(",
+          "segment_number": 76
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3255.2"
+          "text": "MDh_GBM 3255.2",
+          "segment_number": 77
         },
         {
           "tag": "text",
-          "text": ") /// parivāraṃ prayacchati / sayyathīdaṃ kele makela / kāmakele / ḍare / ḍamare /\n("
+          "text": ") /// parivāraṃ prayacchati / sayyathīdaṃ kele makela / kāmakele / ḍare / ḍamare /\n(",
+          "segment_number": 78
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3255.3"
+          "text": "MDh_GBM 3255.3",
+          "segment_number": 79
         },
         {
           "tag": "text",
-          "text": ") /// catvāro mahārākṣasyaḥ tasyāṃ velāyāṃ mekhalāyāṃ vidyāyāṃ : parivāraṃ pra"
+          "text": ") /// catvāro mahārākṣasyaḥ tasyāṃ velāyāṃ mekhalāyāṃ vidyāyāṃ : parivāraṃ pra",
+          "segment_number": 80
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yacchati"
+          "text": "yacchati",
+          "segment_number": 81
         },
         {
           "tag": "text",
-          "text": "("
+          "text": "(",
+          "segment_number": 82
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3255.4"
+          "text": "MDh_GBM 3255.4",
+          "segment_number": 83
         },
         {
           "tag": "text",
-          "text": ") /// ri hiri śānti svastyayanaṃ karomi yāva sīmābandhaṃ karomi svāhā // a\n("
+          "text": ") /// ri hiri śānti svastyayanaṃ karomi yāva sīmābandhaṃ karomi svāhā // a\n(",
+          "segment_number": 84
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3255.5"
+          "text": "MDh_GBM 3255.5",
+          "segment_number": 85
         },
         {
           "tag": "text",
-          "text": ") /// rivāraṃ prayacchati / sayyathīdaṃ dadare / daddare / haha hihi huhu /\n("
+          "text": ") /// rivāraṃ prayacchati / sayyathīdaṃ dadare / daddare / haha hihi huhu /\n(",
+          "segment_number": 86
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3255.6"
+          "text": "MDh_GBM 3255.6",
+          "segment_number": 87
         },
         {
           "tag": "text",
-          "text": ") /// .. vaṭṛ / ṭara ṭara / rakra makṛ kaju / dṛ dṛ dṛ / dū dū dū / himi limi\n("
+          "text": ") /// .. vaṭṛ / ṭara ṭara / rakra makṛ kaju / dṛ dṛ dṛ / dū dū dū / himi limi\n(",
+          "segment_number": 88
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3256.1"
+          "text": "MDh_GBM 3256.1",
+          "segment_number": 89
         },
         {
           "tag": "text",
-          "text": ") /// tṛpetṛti / drahiti / ahiti / labhe /\n("
+          "text": ") /// tṛpetṛti / drahiti / ahiti / labhe /\n(",
+          "segment_number": 90
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3256.2"
+          "text": "MDh_GBM 3256.2",
+          "segment_number": 91
         },
         {
           "tag": "text",
-          "text": ") /// .u .. .. .y. .. .. yacchati / rakṣaṃ paritraṃ parigrahaṃ pa\n("
+          "text": ") /// .u .. .. .y. .. .. yacchati / rakṣaṃ paritraṃ parigrahaṃ pa\n(",
+          "segment_number": 92
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3256.3"
+          "text": "MDh_GBM 3256.3",
+          "segment_number": 93
         },
         {
           "tag": "text",
-          "text": ") /// viṣadūṣaṇam amitrapratiṣeḍhanaṃ karomi yāva sīmā bandhāmi / yo\n("
+          "text": ") /// viṣadūṣaṇam amitrapratiṣeḍhanaṃ karomi yāva sīmā bandhāmi / yo\n(",
+          "segment_number": 94
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3256.4"
+          "text": "MDh_GBM 3256.4",
+          "segment_number": 95
         },
         {
           "tag": "text",
-          "text": ") /// taṃ vā sīmābandhaṃ karomi / mā me kaścid viheṭhayatu svāhā // yaḥ kaści\n("
+          "text": ") /// taṃ vā sīmābandhaṃ karomi / mā me kaścid viheṭhayatu svāhā // yaḥ kaści\n(",
+          "segment_number": 96
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3256.5"
+          "text": "MDh_GBM 3256.5",
+          "segment_number": 97
         },
         {
           "tag": "text",
-          "text": ") /// pūtano vā kaṭapūtano vā garuḍo vā kinnaro vā mahoragā vā / skandho vā\n("
+          "text": ") /// pūtano vā kaṭapūtano vā garuḍo vā kinnaro vā mahoragā vā / skandho vā\n(",
+          "segment_number": 98
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MDh_GBM 3256.6"
+          "text": "MDh_GBM 3256.6",
+          "segment_number": 99
         },
         {
           "tag": "text",
-          "text": ") /// .. .i .o"
+          "text": ") /// .. .i .o",
+          "segment_number": 100
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vā dv"
+          "text": "vā dv",
+          "segment_number": 101
         },
         {
           "tag": "text",
-          "text": "ai"
+          "text": "ai",
+          "segment_number": 102
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "t"
+          "text": "t",
+          "segment_number": 103
         },
         {
           "tag": "text",
-          "text": "īyako vā traitīyako vā cāturthiko"
+          "text": "īyako vā traitīyako vā cāturthiko",
+          "segment_number": 104
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "v"
+          "text": "v",
+          "segment_number": 105
         },
         {
           "tag": "text",
-          "text": "ā manuṣyo vā amanu"
+          "text": "ā manuṣyo vā amanu",
+          "segment_number": 106
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṣyo vā"
+          "text": "ṣyo vā",
+          "segment_number": 107
         }
-      ]
+      ],
+      "segment_number": 36
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "foll. 115V3-V5 and 116R1-R3 metrical."
+      "text": "foll. 115V3-V5 and 116R1-R3 metrical.",
+      "segment_number": 108
     }
   ]
 }

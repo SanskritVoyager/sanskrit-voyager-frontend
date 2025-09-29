@@ -545,7 +545,8 @@
         },
         {
           "tag": "head",
-          "text": "Nairātmyasiddhi"
+          "text": "Nairātmyasiddhi",
+          "segment_number": 1
         },
         {
           "tag": "lb",
@@ -565,7 +566,8 @@
           "children": [
             {
               "tag": "p",
-              "text": "namo buddhāya |"
+              "text": "namo buddhāya |",
+              "segment_number": 2
             }
           ]
         },
@@ -584,11 +586,13 @@
               "attributes": {
                 "resp": "#nāsi-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 4
             },
             {
               "t": "text",
-              "text": "na sa tena ta"
+              "text": "na sa tena ta",
+              "segment_number": 5
             },
             {
               "tag": "lb",
@@ -599,18 +603,21 @@
             },
             {
               "t": "text",
-              "text": "d"
+              "text": "d",
+              "segment_number": 6
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#nāsi-bue"
               },
-              "text": "v"
+              "text": "v",
+              "segment_number": 7
             },
             {
               "t": "text",
-              "text": "ān | tad yathā himālayo malayena |"
+              "text": "ān | tad yathā himālayo malayena |",
+              "segment_number": 8
             },
             {
               "tag": "lb",
@@ -620,18 +627,21 @@
             },
             {
               "t": "text",
-              "text": "na sthirātmanā saha kaścit saṃbandho jīvaccharīrasya"
+              "text": "na sthirātmanā saha kaścit saṃbandho jīvaccharīrasya",
+              "segment_number": 9
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#nāsi-bue"
               },
-              "text": "i"
+              "text": "i",
+              "segment_number": 10
             },
             {
               "t": "text",
-              "text": "ti"
+              "text": "ti",
+              "segment_number": 11
             },
             {
               "tag": "lb",
@@ -641,7 +651,8 @@
             },
             {
               "t": "text",
-              "text": "vyāpakānupalabdhiḥ"
+              "text": "vyāpakānupalabdhiḥ",
+              "segment_number": 12
             },
             {
               "tag": "lb",
@@ -651,18 +662,8 @@
             },
             {
               "t": "text",
-              "text": "nāyam asiddho hetuḥ | yataḥ saṃbandho bhavan tādātmyaṃ tadu"
-            },
-            {
-              "tag": "lb",
-              "attributes": {
-                "break": "no",
-                "ed": "gb"
-              }
-            },
-            {
-              "t": "text",
-              "text": "tpattir vā bhāvet | na ca tādātmyam ātmaśarīrayoḥ | śarīrasyā"
+              "text": "nāyam asiddho hetuḥ | yataḥ saṃbandho bhavan tādātmyaṃ tadu",
+              "segment_number": 13
             },
             {
               "tag": "lb",
@@ -673,7 +674,20 @@
             },
             {
               "t": "text",
-              "text": "nityādirūpa"
+              "text": "tpattir vā bhāvet | na ca tādātmyam ātmaśarīrayoḥ | śarīrasyā",
+              "segment_number": 14
+            },
+            {
+              "tag": "lb",
+              "attributes": {
+                "break": "no",
+                "ed": "gb"
+              }
+            },
+            {
+              "t": "text",
+              "text": "nityādirūpa",
+              "segment_number": 15
             },
             {
               "tag": "pb",
@@ -684,7 +698,8 @@
             },
             {
               "t": "text",
-              "text": "tvāt | tadviparītasyātmano abhyupetatvāt |"
+              "text": "tvāt | tadviparītasyātmano abhyupetatvāt |",
+              "segment_number": 16
             },
             {
               "tag": "lb",
@@ -694,7 +709,8 @@
             },
             {
               "t": "text",
-              "text": "nāpi tadutpattir nityasyātmanaḥ śarīra-utpattyayogāt"
+              "text": "nāpi tadutpattir nityasyātmanaḥ śarīra-utpattyayogāt",
+              "segment_number": 17
             },
             {
               "tag": "note",
@@ -721,7 +737,8 @@
             },
             {
               "t": "text",
-              "text": "| ni"
+              "text": "| ni",
+              "segment_number": 18
             },
             {
               "tag": "lb",
@@ -732,9 +749,11 @@
             },
             {
               "t": "text",
-              "text": "tyātmano vā śarīrasya |"
+              "text": "tyātmano vā śarīrasya |",
+              "segment_number": 19
             }
-          ]
+          ],
+          "segment_number": 3
         },
         {
           "tag": "lb",
@@ -744,7 +763,8 @@
         },
         {
           "tag": "p",
-          "text": "saṃyogalakṣaṇas tayoḥ saṃbandha iti cet |"
+          "text": "saṃyogalakṣaṇas tayoḥ saṃbandha iti cet |",
+          "segment_number": 20
         },
         {
           "tag": "lb",
@@ -761,13 +781,16 @@
               "attributes": {
                 "resp": "#nāsi-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 22
             },
             {
               "t": "text",
-              "text": "kaḥ saṃbandhaḥ |"
+              "text": "kaḥ saṃbandhaḥ |",
+              "segment_number": 23
             }
-          ]
+          ],
+          "segment_number": 21
         },
         {
           "tag": "lb",
@@ -777,7 +800,8 @@
         },
         {
           "tag": "p",
-          "text": "samavāya iti cet |"
+          "text": "samavāya iti cet |",
+          "segment_number": 24
         },
         {
           "tag": "lb",
@@ -794,11 +818,13 @@
               "attributes": {
                 "resp": "#nāsi-bue"
               },
-              "text": "|"
+              "text": "|",
+              "segment_number": 26
             },
             {
               "t": "text",
-              "text": "saṃbandhāntaropagame"
+              "text": "saṃbandhāntaropagame",
+              "segment_number": 27
             },
             {
               "tag": "lb",
@@ -808,7 +834,8 @@
             },
             {
               "t": "text",
-              "text": "anavasthā | anabhyupagame na teṣāṃ samavāyaḥ | tathā cātma"
+              "text": "anavasthā | anabhyupagame na teṣāṃ samavāyaḥ | tathā cātma",
+              "segment_number": 28
             },
             {
               "tag": "lb",
@@ -819,18 +846,21 @@
             },
             {
               "t": "text",
-              "text": "śarīrayoḥ saṃbandhāntaraparikalpane 'py a"
+              "text": "śarīrayoḥ saṃbandhāntaraparikalpane 'py a",
+              "segment_number": 29
             },
             {
               "tag": "supplied",
               "attributes": {
                 "resp": "#nāsi-bue"
               },
-              "text": "ya"
+              "text": "ya",
+              "segment_number": 30
             },
             {
               "t": "text",
-              "text": "m eva dṛṣṭānta"
+              "text": "m eva dṛṣṭānta",
+              "segment_number": 31
             },
             {
               "tag": "lb",
@@ -840,7 +870,8 @@
             },
             {
               "t": "text",
-              "text": "iti nāsya hetor asiddhiḥ |"
+              "text": "iti nāsya hetor asiddhiḥ |",
+              "segment_number": 32
             },
             {
               "tag": "lb",
@@ -850,7 +881,8 @@
             },
             {
               "t": "text",
-              "text": "viruddhatāpy asya nāsti | sapakṣe bhāvāt |"
+              "text": "viruddhatāpy asya nāsti | sapakṣe bhāvāt |",
+              "segment_number": 33
             },
             {
               "tag": "lb",
@@ -860,7 +892,8 @@
             },
             {
               "t": "text",
-              "text": "anaikāntikatāpi"
+              "text": "anaikāntikatāpi",
+              "segment_number": 34
             },
             {
               "tag": "note",
@@ -893,7 +926,8 @@
             },
             {
               "t": "text",
-              "text": "nopadṛśyate | tadvattvavyavahārasya naimi"
+              "text": "nopadṛśyate | tadvattvavyavahārasya naimi",
+              "segment_number": 35
             },
             {
               "tag": "lb",
@@ -904,7 +938,8 @@
             },
             {
               "t": "text",
-              "text": "ttikasya"
+              "text": "ttikasya",
+              "segment_number": 36
             },
             {
               "tag": "note",
@@ -937,7 +972,8 @@
             },
             {
               "t": "text",
-              "text": "saṃbandhanibandhanatvena vyāptatvāt | saṃbandhābhā"
+              "text": "saṃbandhanibandhanatvena vyāptatvāt | saṃbandhābhā",
+              "segment_number": 37
             },
             {
               "tag": "lb",
@@ -948,7 +984,8 @@
             },
             {
               "t": "text",
-              "text": "ve 'pi tadvattvavyavahāre niyataviṣayatvābhāvaprasaṅgād iti"
+              "text": "ve 'pi tadvattvavyavahāre niyataviṣayatvābhāvaprasaṅgād iti",
+              "segment_number": 38
             },
             {
               "tag": "lb",
@@ -958,9 +995,11 @@
             },
             {
               "t": "text",
-              "text": "sthitam |"
+              "text": "sthitam |",
+              "segment_number": 39
             }
-          ]
+          ],
+          "segment_number": 25
         },
         {
           "tag": "lb",
@@ -970,7 +1009,8 @@
         },
         {
           "tag": "trailer",
-          "text": "nairātmyasiddhiḥ samāpta ||"
+          "text": "nairātmyasiddhiḥ samāpta ||",
+          "segment_number": 40
         }
       ]
     }

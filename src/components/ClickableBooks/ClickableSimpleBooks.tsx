@@ -12,6 +12,8 @@ import ScrollMarkers from './ClickableSimpleMarkers';
 import BookSpan from './ClickableSimpleBooksSpan';
 import BookIndex from './BookIndex';
 import { set } from 'lodash';
+import { InPageSearch } from '@/utils/InPageSearchComponent';
+import { useInPageSearch } from '@/utils/InPageSearchHook';
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
@@ -25,6 +27,8 @@ interface ClickableSimpleBooksProps {
   setMatchedBookSegments: React.Dispatch<React.SetStateAction<number[]>>;
   setSelectedWord: (word: string) => void;
   setClickedAdditionalWord: (word: string) => void;
+  searchMatchedSegments: number[];
+  setSearchMatchedSegments: React.Dispatch<React.SetStateAction<number[]>>;
 }
 
 const ClickableSimpleBooks = ({
@@ -37,14 +41,51 @@ const ClickableSimpleBooks = ({
   targetSegmentNumber,
   query,
   matchedBookSegments,
-  setMatchedBookSegments
+  setMatchedBookSegments,
+  searchMatchedSegments,
+  setSearchMatchedSegments
 }: ClickableSimpleBooksProps) => {
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const highlightedSpanRef = useRef<HTMLElement | null>(null);
   const chapterIdMap = useRef<Map<string, string>>(new Map());
   const foundNotes = useRef<number>(0);
-  const segmentRefs = useRef<Map<number, HTMLDivElement>>(new Map());
+
+
   const containerRef = useRef<HTMLDivElement>(null);
+  const segmentRefs = useRef<Map<number, HTMLDivElement>>(new Map());
+  
+  
+
+  
+  // Initialize the in-page search hook
+  const {
+    searchQuery,
+    setSearchQuery,
+    isSearchVisible,
+    setIsSearchVisible,
+    currentMatchIndex,
+    totalMatches,
+    goToNextMatch,
+    goToPreviousMatch,
+    clearSearch
+  } = useInPageSearch({
+    containerRef,
+    segmentRefs,
+    onMatchedSegmentsChange: setSearchMatchedSegments
+  });
+
+  // Combine matched segments from different sources
+  const combinedMatchedSegments = React.useMemo(() => {
+    console.log('Combining matched segments from advanced search and in-page search');
+    console.log('Matched Book Segments:', matchedBookSegments);
+    console.log('Search Matched Segments:', searchMatchedSegments);
+
+    const combined = new Set([...matchedBookSegments, ...searchMatchedSegments]);
+      console.log('Combined Matched Segments:', Array.from(combined));
+    return Array.from(combined);
+  }, [matchedBookSegments, searchMatchedSegments]);
+
+
   const [initialRenderComplete, setInitialRenderComplete] = useState<boolean>(false);
   const renderCount = useRef(0);
   renderCount.current++;
@@ -481,6 +522,24 @@ const ClickableSimpleBooks = ({
 
   return (
     <div className={classes.bookContainer} ref={containerRef} style={{ position: 'relative' }}>
+      <InPageSearch
+        searchQuery={searchQuery}
+        setSearchQuery={setSearchQuery}
+        isVisible={isSearchVisible}
+        currentMatchIndex={currentMatchIndex}
+        totalMatches={totalMatches}
+        onClose={() => {
+          setIsSearchVisible(false);
+          clearSearch();
+        }}
+        onNext={goToNextMatch}
+        onPrevious={goToPreviousMatch}
+      />
+      
+      
+      
+      
+      
       {bookText.metadata && <MetadataComponent metadata={bookText.metadata} />}
       {chapters.length > 0 && (
         <BookIndex
@@ -504,14 +563,16 @@ const ClickableSimpleBooks = ({
           </React.Fragment>
         ))}
       </div>
-      {(
+      {combinedMatchedSegments.length > 0 && (
         <ScrollMarkers
           containerRef={containerRef}
           segmentRefs={segmentRefs}
-          matchedBookSegments={matchedBookSegments}
+          matchedBookSegments={combinedMatchedSegments}
           activeSegment={targetSegmentNumber}
           onSegmentClick={scrollToSegment}
           initialRenderComplete={initialRenderComplete}
+          // Optional: Pass flag to style search matches differently
+          searchMatchedSegments={searchMatchedSegments}
         />
       )}
       <WordInfoPortal

@@ -37,7 +37,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Mahāmaṇivipulavimānaviśvasupratiṣṭhitaguhyaparamarahasyakalparājadhāraṇī"
+      "text": "Mahāmaṇivipulavimānaviśvasupratiṣṭhitaguhyaparamarahasyakalparājadhāraṇī",
+      "segment_number": 1
     },
     {
       "tag": "p",
@@ -49,13 +50,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "kā"
+          "text": "kā",
+          "segment_number": 3
         },
         {
           "tag": "text",
-          "text": "lāvaṇaṃ\n4 ghṛtagarjakaṃ guḍapūpaṃ sarvasukṛtakāryāṇi yathā lābhaṃ saṃjñātavyaṃ\n5 maṇḍalakaṃ suracitaṃ kṛtvā tato praveśadvāreṇa gatvodakapūrṇaṃ dvau kalaśausthāpya"
+          "text": "lāvaṇaṃ\n4 ghṛtagarjakaṃ guḍapūpaṃ sarvasukṛtakāryāṇi yathā lābhaṃ saṃjñātavyaṃ\n5 maṇḍalakaṃ suracitaṃ kṛtvā tato praveśadvāreṇa gatvodakapūrṇaṃ dvau kalaśausthāpya",
+          "segment_number": 4
         }
-      ]
+      ],
+      "segment_number": 2
     },
     {
       "tag": "p",
@@ -67,62 +71,74 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "thā"
+          "text": "thā",
+          "segment_number": 6
         },
         {
           "tag": "text",
-          "text": "lābhaṃ ca baliṃ sthāpya tathāvat praveśavidhiṃ ca kārayet tataḥ anena mantreṇābhi"
+          "text": "lābhaṃ ca baliṃ sthāpya tathāvat praveśavidhiṃ ca kārayet tataḥ anena mantreṇābhi",
+          "segment_number": 7
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ṣiṃ"
+          "text": "ṣiṃ",
+          "segment_number": 8
         },
         {
           "tag": "text",
-          "text": "cya\n2 praveśayet* oṃ maṇi vipula supratiṣṭhita siddha abhiṣiṃca māṃ sarvatathāga"
+          "text": "cya\n2 praveśayet* oṃ maṇi vipula supratiṣṭhita siddha abhiṣiṃca māṃ sarvatathāga",
+          "segment_number": 9
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "tā"
+          "text": "tā",
+          "segment_number": 10
         },
         {
           "tag": "text",
-          "text": "bhiṣekai\n3 bhara bhara saṃbhara hūṃ hūṃ || yathābhiṣiktamātraś ca sarvāṇi nivaraṇā"
+          "text": "bhiṣekai\n3 bhara bhara saṃbhara hūṃ hūṃ || yathābhiṣiktamātraś ca sarvāṇi nivaraṇā",
+          "segment_number": 11
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ni"
+          "text": "ni",
+          "segment_number": 12
         },
         {
           "tag": "text",
-          "text": "4 pūrvajanmasaṃjātāni karmāvaraṇāni vuśuddhāni bhavanti bhavanti sarvaśuddhaparigṛhito bha"
+          "text": "4 pūrvajanmasaṃjātāni karmāvaraṇāni vuśuddhāni bhavanti bhavanti sarvaśuddhaparigṛhito bha",
+          "segment_number": 13
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "va"
+          "text": "va",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": "ti :\n5 sarvatathāgatādhiṣṭhitaḥ sarvatathāgatābhiṣiktaḥ sarvatathāgatasamāśvastaḥ"
+          "text": "ti :\n5 sarvatathāgatādhiṣṭhitaḥ sarvatathāgatābhiṣiktaḥ sarvatathāgatasamāśvastaḥ",
+          "segment_number": 15
         }
-      ]
+      ],
+      "segment_number": 5
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "GBM 1726 (54r)\n1 sarvasiddhiś cābhyāmukhībhavati | yaṃ cintayati yaṃ prārthayati tat tathaiva karoti ||"
+      "text": "GBM 1726 (54r)\n1 sarvasiddhiś cābhyāmukhībhavati | yaṃ cintayati yaṃ prārthayati tat tathaiva karoti ||",
+      "segment_number": 16
     },
     {
       "tag": "p",
@@ -134,29 +150,35 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "rma"
+          "text": "rma",
+          "segment_number": 18
         },
         {
           "tag": "text",
-          "text": "kṣānti\n3 pratilabdhaḥ bodhimaṇḍopasaṃkramaṇo bhavati | evam ādīni\n4 guṇaviśeṣāṇi pratilabhate | yāvad avaivartiko bhaviṣyati | anuttarā bo"
+          "text": "kṣānti\n3 pratilabdhaḥ bodhimaṇḍopasaṃkramaṇo bhavati | evam ādīni\n4 guṇaviśeṣāṇi pratilabhate | yāvad avaivartiko bhaviṣyati | anuttarā bo",
+          "segment_number": 19
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "dhi"
+          "text": "dhi",
+          "segment_number": 20
         },
         {
           "tag": "text",
-          "text": "mārgaparipūriḥ || § ||"
+          "text": "mārgaparipūriḥ || § ||",
+          "segment_number": 21
         }
-      ]
+      ],
+      "segment_number": 17
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "5 maṇḍalavidhisādhanaṃ tritīyo paṭalavidhiḥ § ||"
+      "text": "5 maṇḍalavidhisādhanaṃ tritīyo paṭalavidhiḥ § ||",
+      "segment_number": 22
     },
     {
       "tag": "p",
@@ -168,13 +190,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "lai"
+          "text": "lai",
+          "segment_number": 24
         },
         {
           "tag": "text",
-          "text": "ḥ ||"
+          "text": "ḥ ||",
+          "segment_number": 25
         }
-      ]
+      ],
+      "segment_number": 23
     },
     {
       "tag": "p",
@@ -186,24 +211,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "ta"
+          "text": "ta",
+          "segment_number": 27
         },
         {
           "tag": "text",
-          "text": "kule\n4 mudrā upayojyā yathāvidhi || bāhyamudrā na grahetavyā : anyamudrā yathā\n5 sukhaṃ sarvatra upayoktavyaḥ yathā upayujyate tathāgatakule || oṃ sarvatathāga"
+          "text": "kule\n4 mudrā upayojyā yathāvidhi || bāhyamudrā na grahetavyā : anyamudrā yathā\n5 sukhaṃ sarvatra upayoktavyaḥ yathā upayujyate tathāgatakule || oṃ sarvatathāga",
+          "segment_number": 28
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ta"
+          "text": "ta",
+          "segment_number": 29
         },
         {
           "tag": "text",
-          "text": "hṛdaya"
+          "text": "hṛdaya",
+          "segment_number": 30
         }
-      ]
+      ],
+      "segment_number": 26
     },
     {
       "tag": "p",
@@ -215,47 +245,56 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "ta"
+          "text": "ta",
+          "segment_number": 32
         },
         {
           "tag": "text",
-          "text": "thāgata\n2 pravarāgramaṇi hūṃ || tathāgatasamayamudrā : || oṃ sarvatathāgatābhi"
+          "text": "thāgata\n2 pravarāgramaṇi hūṃ || tathāgatasamayamudrā : || oṃ sarvatathāgatābhi",
+          "segment_number": 33
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "saṃ"
+          "text": "saṃ",
+          "segment_number": 34
         },
         {
           "tag": "text",
-          "text": "bodhanavajre 3 hūṃ hūṃ || tathāgataāśvāsanamudrā || oṃ sarvatathāgatādhiṣṭhā"
+          "text": "bodhanavajre 3 hūṃ hūṃ || tathāgataāśvāsanamudrā || oṃ sarvatathāgatādhiṣṭhā",
+          "segment_number": 35
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 36
         },
         {
           "tag": "text",
-          "text": "4 maṇi maṇi hūṃ hūṃ phat* || tathāgatādhiṣṭhānamudrā || oṃ sarvatathāgata pravara maṇi\n5 rucire hūṃ hūṃ phat* || tathāgatavajrasiṃhāsanamudrā || oṃ sarvatathāgata vipula saṃbha"
+          "text": "4 maṇi maṇi hūṃ hūṃ phat* || tathāgatādhiṣṭhānamudrā || oṃ sarvatathāgata pravara maṇi\n5 rucire hūṃ hūṃ phat* || tathāgatavajrasiṃhāsanamudrā || oṃ sarvatathāgata vipula saṃbha",
+          "segment_number": 37
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ve"
+          "text": "ve",
+          "segment_number": 38
         }
-      ]
+      ],
+      "segment_number": 31
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "GBM 1729 (55v)\n1 hūṃ hūṃ || tathāgatābhiṣekamudrā || oṃ sarvatathāgata samaya maṇi vajre hūṃ hūṃ ||"
+      "text": "GBM 1729 (55v)\n1 hūṃ hūṃ || tathāgatābhiṣekamudrā || oṃ sarvatathāgata samaya maṇi vajre hūṃ hūṃ ||",
+      "segment_number": 39
     },
     {
       "tag": "p",
@@ -267,24 +306,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "rva"
+          "text": "rva",
+          "segment_number": 41
         },
         {
           "tag": "text",
-          "text": "tathāgatadharmadhātu\n3 mahāmaṇi śikhare hara hara hūṃ hūṃ || tathāgatacakravartimu"
+          "text": "tathāgatadharmadhātu\n3 mahāmaṇi śikhare hara hara hūṃ hūṃ || tathāgatacakravartimu",
+          "segment_number": 42
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "drā"
+          "text": "drā",
+          "segment_number": 43
         },
         {
           "tag": "text",
-          "text": ": ||"
+          "text": ": ||",
+          "segment_number": 44
         }
-      ]
+      ],
+      "segment_number": 40
     },
     {
       "tag": "p",
@@ -296,13 +340,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "pā"
+          "text": "pā",
+          "segment_number": 46
         },
         {
           "tag": "text",
-          "text": "lite"
+          "text": "lite",
+          "segment_number": 47
         }
-      ]
+      ],
+      "segment_number": 45
     },
     {
       "tag": "p",
@@ -314,46 +361,55 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "drā"
+          "text": "drā",
+          "segment_number": 49
         },
         {
           "tag": "text",
-          "text": "3 śaṃkhinī || oṃ āgamaya dhīra mucāṭṭa hāsinī hūṃ dūtīmudrā baddhitavyā : || oṃ sa"
+          "text": "3 śaṃkhinī || oṃ āgamaya dhīra mucāṭṭa hāsinī hūṃ dūtīmudrā baddhitavyā : || oṃ sa",
+          "segment_number": 50
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ma"
+          "text": "ma",
+          "segment_number": 51
         },
         {
           "tag": "text",
-          "text": "ntākāra\n4 paripūraṇe dhaka dhaka hūṃ hūṃ phat* maṇḍalanivāsinīnāṃ mudrā : || ābāhana"
+          "text": "ntākāra\n4 paripūraṇe dhaka dhaka hūṃ hūṃ phat* maṇḍalanivāsinīnāṃ mudrā : || ābāhana",
+          "segment_number": 52
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "mu"
+          "text": "mu",
+          "segment_number": 53
         },
         {
           "tag": "text",
-          "text": "drā\n5 grahetavyā : || oṃ sara sara visara hūṃ hūṃ padmamudrā || mudrāvidhāna caturtho paṭa"
+          "text": "drā\n5 grahetavyā : || oṃ sara sara visara hūṃ hūṃ padmamudrā || mudrāvidhāna caturtho paṭa",
+          "segment_number": 54
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "la"
+          "text": "la",
+          "segment_number": 55
         },
         {
           "tag": "text",
-          "text": "vistaraḥ || § ||"
+          "text": "vistaraḥ || § ||",
+          "segment_number": 56
         }
-      ]
+      ],
+      "segment_number": 48
     },
     {
       "tag": "p",
@@ -365,35 +421,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "śā"
+          "text": "śā",
+          "segment_number": 58
         },
         {
           "tag": "text",
-          "text": "pagate\n2 ekahastaṃ dvihastaṃ vā samantena caturaśrakaṃ poṣadhikena citrakareṇa\n3 navabhājane na śleṣai raṃgair buddhaṃ bhagavantaṃ citrāpayitavyam siṃhāsanasyopa"
+          "text": "pagate\n2 ekahastaṃ dvihastaṃ vā samantena caturaśrakaṃ poṣadhikena citrakareṇa\n3 navabhājane na śleṣai raṃgair buddhaṃ bhagavantaṃ citrāpayitavyam siṃhāsanasyopa",
+          "segment_number": 59
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ri"
+          "text": "ri",
+          "segment_number": 60
         },
         {
           "tag": "text",
-          "text": "niṣaṇṇaṃ\n4 sarvālaṃkāravibhūṣitaṃ kūṭāgāraparivṛtaṃ dharmaddeśayamānaṃ |\n5 dakṣiṇena vajrapāṇiṃ dvādaśabhujaṃ kāryā śaratkāṇḍagaurā nānāpraharaṇahastaṃ caturmukhaṃ saumyaṃ dvitī"
+          "text": "niṣaṇṇaṃ\n4 sarvālaṃkāravibhūṣitaṃ kūṭāgāraparivṛtaṃ dharmaddeśayamānaṃ |\n5 dakṣiṇena vajrapāṇiṃ dvādaśabhujaṃ kāryā śaratkāṇḍagaurā nānāpraharaṇahastaṃ caturmukhaṃ saumyaṃ dvitī",
+          "segment_number": 61
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "la"
+          "text": "la",
+          "segment_number": 62
         },
         {
           "tag": "text",
-          "text": "vistaraḥ || § ||"
+          "text": "vistaraḥ || § ||",
+          "segment_number": 63
         }
-      ]
+      ],
+      "segment_number": 57
     },
     {
       "tag": "p",
@@ -405,42 +468,50 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "ke"
+          "text": "ke",
+          "segment_number": 65
         },
         {
           "tag": "text",
-          "text": "2 keśāpagate ekahastaṃ dvihastaṃ vā samantena caturaśrakaṃ poṣadhikena citrakareṇa\n3 navabhājanena aśleṣai raṃgair buddhaṃ bhagavantaṃ citrāpayitavyaṃ siṃhāsanasyoparini"
+          "text": "2 keśāpagate ekahastaṃ dvihastaṃ vā samantena caturaśrakaṃ poṣadhikena citrakareṇa\n3 navabhājanena aśleṣai raṃgair buddhaṃ bhagavantaṃ citrāpayitavyaṃ siṃhāsanasyoparini",
+          "segment_number": 66
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ṣa"
+          "text": "ṣa",
+          "segment_number": 67
         },
         {
           "tag": "text",
-          "text": "ṇṇaṃ\n4 sarvālaṃkāravibhūṣitaṃ kūṭāgāraparivṛtaṃ dharmaddeśayamānaṃ | dakṣiṇena vajra"
+          "text": "ṇṇaṃ\n4 sarvālaṃkāravibhūṣitaṃ kūṭāgāraparivṛtaṃ dharmaddeśayamānaṃ | dakṣiṇena vajra",
+          "segment_number": 68
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "pā"
+          "text": "pā",
+          "segment_number": 69
         },
         {
           "tag": "text",
-          "text": "ṇi\n5 dvādaśabhujāṃ kāryā śaratkāṇḍagaurā nānāpraharaṇahastaṃ caturmukhaṃ saumyaṃ | dvitī"
+          "text": "ṇi\n5 dvādaśabhujāṃ kāryā śaratkāṇḍagaurā nānāpraharaṇahastaṃ caturmukhaṃ saumyaṃ | dvitī",
+          "segment_number": 70
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "yaṃ"
+          "text": "yaṃ",
+          "segment_number": 71
         }
-      ]
+      ],
+      "segment_number": 64
     },
     {
       "tag": "p",
@@ -452,40 +523,48 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "ra"
+          "text": "ra",
+          "segment_number": 73
         },
         {
           "tag": "text",
-          "text": "vibhūṣitaṃ\n2 padmasyopariniṣaṇṇaṃ ardhaṃ paryaṃkayā || bāmapārśve maṇivajro nāma bodhi"
+          "text": "vibhūṣitaṃ\n2 padmasyopariniṣaṇṇaṃ ardhaṃ paryaṃkayā || bāmapārśve maṇivajro nāma bodhi",
+          "segment_number": 74
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "sa"
+          "text": "sa",
+          "segment_number": 75
         },
         {
           "tag": "text",
-          "text": "tvo\n3 kartavyaḥ caturmukhaṃ ṣoḍaśabāhuṃ || dakṣiṇabāhūṃ cintāmaṇiddhārayaṃ tathāga"
+          "text": "tvo\n3 kartavyaḥ caturmukhaṃ ṣoḍaśabāhuṃ || dakṣiṇabāhūṃ cintāmaṇiddhārayaṃ tathāga",
+          "segment_number": 76
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ta"
+          "text": "ta",
+          "segment_number": 77
         },
         {
           "tag": "text",
-          "text": "syopanāmayati ||"
+          "text": "syopanāmayati ||",
+          "segment_number": 78
         }
-      ]
+      ],
+      "segment_number": 72
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "4 bāmabāhūṃ padmaddhārayantaḥ dve haste aṃjaliṃ gṛhītavyaṃ : || śeṣaṃ\n5 prahastaṃ kartavyaṃ tṛśūlaṃ cakraṃ khadgaṃ vajraṃ puṣpapuṭaṃ gaṇendakakaṇḍulaṃ aṣiḥ pu"
+      "text": "4 bāmabāhūṃ padmaddhārayantaḥ dve haste aṃjaliṃ gṛhītavyaṃ : || śeṣaṃ\n5 prahastaṃ kartavyaṃ tṛśūlaṃ cakraṃ khadgaṃ vajraṃ puṣpapuṭaṃ gaṇendakakaṇḍulaṃ aṣiḥ pu",
+      "segment_number": 79
     }
   ]
 }

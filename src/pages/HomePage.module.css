@@ -210,6 +210,7 @@
     padding-right: 5px;
   }
 
+
 }
 
 /* Hover state for Firefox */
@@ -430,4 +431,81 @@
     opacity: 1 !important;
     pointer-events: auto !important;
   }
+}
+
+/* Reading container with optimal width constraints */
+.readingContainer {
+  width: 100%;
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 0 24px;
+  position: relative;
+  height: 100%;
+  /* Slight offset for notes when in single column */
+  transform: translateX(-20px);
+  overflow-x: hidden;
+}
+
+/* When in split view, remove max-width constraint */
+.readingContainerSplit {
+  max-width: none;
+  transform: none;
+  padding: 0 40px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .readingContainer {
+    padding: 0 20px;
+    transform: none;
+  }
+  
+  .readingContainerSplit {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .readingContainer,
+  .readingContainerSplit {
+    padding: 0 16px;
+  }
+}
+
+/* Word info container */
+.wordInfoContainer {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 24px;
+  height: 100%;
+}
+
+.wordInfoContainerFull {
+  max-width: 720px;
+}
+
+@media (max-width: 768px) {
+  .wordInfoContainer,
+  .wordInfoContainerFull {
+    padding: 0 20px;
+    max-width: none;
+  }
+}
+
+/* Clean up text display */
+.textDisplay {
+  position: relative;
+  overflow: hidden;
+}
+
+.wordInfo {
+  position: relative;
+  overflow: hidden;
+}
+
+.wholeGrid {
+  padding: 0 !important;
+  gap: 0 !important;
+  height: 100%;
 }

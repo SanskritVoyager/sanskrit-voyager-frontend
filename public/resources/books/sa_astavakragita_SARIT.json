@@ -528,7 +528,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 1"
+          "text": "Prakaraṇa 1",
+          "segment_number": 1
         },
         {
           "tag": "p",
@@ -538,7 +539,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "|| atha śrīmadaṣṭāvakragītā||"
+              "text": "|| atha śrīmadaṣṭāvakragītā||",
+              "segment_number": 2
             }
           ]
         },
@@ -550,7 +552,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||1||"
+              "text": "janaka uvāca||1||",
+              "segment_number": 3
             }
           ]
         },
@@ -562,11 +565,13 @@
               "attributes": {
                 "id": "verse_1.1"
               },
-              "text": "kathaṃ jñānamavāpnoti kathaṃ muktirbhaviṣyati|"
+              "text": "kathaṃ jñānamavāpnoti kathaṃ muktirbhaviṣyati|",
+              "segment_number": 4
             },
             {
               "tag": "l",
-              "text": "vairāgyaṃ ca kathaṃ prāptametadbrūhi mama prabho||1|1||"
+              "text": "vairāgyaṃ ca kathaṃ prāptametadbrūhi mama prabho||1|1||",
+              "segment_number": 5
             }
           ]
         },
@@ -578,7 +583,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||"
+              "text": "aṣṭāvakra uvāca||",
+              "segment_number": 6
             }
           ]
         },
@@ -590,11 +596,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "muktimicchasi cettāta viṣayānviṣavattyaja|"
+              "text": "muktimicchasi cettāta viṣayānviṣavattyaja|",
+              "segment_number": 7
             },
             {
               "tag": "l",
-              "text": "kṣamārjavadayātoṣasatyaṃ pīyūṣavadbhaja||1|2||"
+              "text": "kṣamārjavadayātoṣasatyaṃ pīyūṣavadbhaja||1|2||",
+              "segment_number": 8
             }
           ]
         },
@@ -606,11 +614,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na pṛthvī na jalaṃ nāgnirna vāyurdyaurna vā bhavān|"
+              "text": "na pṛthvī na jalaṃ nāgnirna vāyurdyaurna vā bhavān|",
+              "segment_number": 9
             },
             {
               "tag": "l",
-              "text": "eṣāṃ sākṣiṇamātmānaṃ cidrūpaṃ viddhi muktaye||1|3||"
+              "text": "eṣāṃ sākṣiṇamātmānaṃ cidrūpaṃ viddhi muktaye||1|3||",
+              "segment_number": 10
             }
           ]
         },
@@ -622,11 +632,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yadi dehaṃ pṛthakkṛtya citi viśrāmya tiṣṭhasi|"
+              "text": "yadi dehaṃ pṛthakkṛtya citi viśrāmya tiṣṭhasi|",
+              "segment_number": 11
             },
             {
               "tag": "l",
-              "text": "adhunaiva sukhī śānto bandhamukto bhaviṣyasi||1|4||"
+              "text": "adhunaiva sukhī śānto bandhamukto bhaviṣyasi||1|4||",
+              "segment_number": 12
             }
           ]
         },
@@ -638,11 +650,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na tvaṃ viprādiko varṇo nāśramī nākṣagocaraḥ|"
+              "text": "na tvaṃ viprādiko varṇo nāśramī nākṣagocaraḥ|",
+              "segment_number": 13
             },
             {
               "tag": "l",
-              "text": "asaṅgo+asi nirākāro viśvasākṣī sukhī bhava||1|5||"
+              "text": "asaṅgo+asi nirākāro viśvasākṣī sukhī bhava||1|5||",
+              "segment_number": 14
             }
           ]
         },
@@ -654,11 +668,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dharmādharmau sukhaṃ duḥkhaṃ mānasāni na te bibho|"
+              "text": "dharmādharmau sukhaṃ duḥkhaṃ mānasāni na te bibho|",
+              "segment_number": 15
             },
             {
               "tag": "l",
-              "text": "na kartā+asi na bhoktā+asi mukta evā+asi sarvadā||1|6||"
+              "text": "na kartā+asi na bhoktā+asi mukta evā+asi sarvadā||1|6||",
+              "segment_number": 16
             }
           ]
         },
@@ -670,11 +686,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "eko draṣṭā+asi sarvasya muktaprāyo+asi sarvadā|"
+              "text": "eko draṣṭā+asi sarvasya muktaprāyo+asi sarvadā|",
+              "segment_number": 17
             },
             {
               "tag": "l",
-              "text": "ayameva hi te bandho draṣṭāraṃ paśyasītaram||1|7||"
+              "text": "ayameva hi te bandho draṣṭāraṃ paśyasītaram||1|7||",
+              "segment_number": 18
             }
           ]
         },
@@ -686,11 +704,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ahaṃ kartetyahammānamahākṛṣṇāhidaṃśitaḥ|"
+              "text": "ahaṃ kartetyahammānamahākṛṣṇāhidaṃśitaḥ|",
+              "segment_number": 19
             },
             {
               "tag": "l",
-              "text": "nāhaṃ karteti viśvāsāmṛtaṃ pītvā sukhī bhava||1|8||"
+              "text": "nāhaṃ karteti viśvāsāmṛtaṃ pītvā sukhī bhava||1|8||",
+              "segment_number": 20
             }
           ]
         },
@@ -702,11 +722,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "eko viśuddhabodho+ahamiti niścayavahninā|"
+              "text": "eko viśuddhabodho+ahamiti niścayavahninā|",
+              "segment_number": 21
             },
             {
               "tag": "l",
-              "text": "prajvālyājñānagahanaṃ vītaśokaḥ sukhī bhava||1|9||"
+              "text": "prajvālyājñānagahanaṃ vītaśokaḥ sukhī bhava||1|9||",
+              "segment_number": 22
             }
           ]
         },
@@ -718,11 +740,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yatra viśvamidaṃ bhāti kalpitaṃ rajjusarpavat|"
+              "text": "yatra viśvamidaṃ bhāti kalpitaṃ rajjusarpavat|",
+              "segment_number": 23
             },
             {
               "tag": "l",
-              "text": "ānandaparamānandaḥ sa bodhastvaṃ sukhaṃ cara||1|10||"
+              "text": "ānandaparamānandaḥ sa bodhastvaṃ sukhaṃ cara||1|10||",
+              "segment_number": 24
             }
           ]
         },
@@ -734,11 +758,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "muktābhimānī mukto hi baddho baddhābhimānyapi|"
+              "text": "muktābhimānī mukto hi baddho baddhābhimānyapi|",
+              "segment_number": 25
             },
             {
               "tag": "l",
-              "text": "kiṃvadantīha satyeyaṃ yā matiḥ sā gatirbhavet||1|11||"
+              "text": "kiṃvadantīha satyeyaṃ yā matiḥ sā gatirbhavet||1|11||",
+              "segment_number": 26
             }
           ]
         },
@@ -750,7 +776,8 @@
           "children": [
             {
               "tag": "l",
-              "text": "ātmā sākṣī vibhuḥ pūrṇa eko muktaścidakriyaḥ|"
+              "text": "ātmā sākṣī vibhuḥ pūrṇa eko muktaścidakriyaḥ|",
+              "segment_number": 27
             }
           ]
         },
@@ -762,15 +789,18 @@
           "children": [
             {
               "tag": "l",
-              "text": "asaṅgo niḥspṛhaḥ śānto bhramātsaṃsāravāniva||1|12||"
+              "text": "asaṅgo niḥspṛhaḥ śānto bhramātsaṃsāravāniva||1|12||",
+              "segment_number": 28
             },
             {
               "tag": "l",
-              "text": "kūṭasthaṃ bodhamadvaitamātmānaṃ paribhāvaya|"
+              "text": "kūṭasthaṃ bodhamadvaitamātmānaṃ paribhāvaya|",
+              "segment_number": 29
             },
             {
               "tag": "l",
-              "text": "ābhāso+ahaṃ bhramaṃ muktvā bhāvaṃ bāhyamathāntaram||1|13||"
+              "text": "ābhāso+ahaṃ bhramaṃ muktvā bhāvaṃ bāhyamathāntaram||1|13||",
+              "segment_number": 30
             }
           ]
         },
@@ -782,11 +812,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dehābhimānapāśena ciraṃ baddho+asi putraka|"
+              "text": "dehābhimānapāśena ciraṃ baddho+asi putraka|",
+              "segment_number": 31
             },
             {
               "tag": "l",
-              "text": "bodho+ahaṃ jñānakhaḍgena tanniṣkṛtya sukhī bhava||1|14||"
+              "text": "bodho+ahaṃ jñānakhaḍgena tanniṣkṛtya sukhī bhava||1|14||",
+              "segment_number": 32
             }
           ]
         },
@@ -798,11 +830,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "niḥsaṅgo niṣkriyo+asi tvaṃ svaprakāśo nirañjanaḥ|"
+              "text": "niḥsaṅgo niṣkriyo+asi tvaṃ svaprakāśo nirañjanaḥ|",
+              "segment_number": 33
             },
             {
               "tag": "l",
-              "text": "ayameva hi te bandhaḥ samādhimanutiṣṭhasi||1|15||"
+              "text": "ayameva hi te bandhaḥ samādhimanutiṣṭhasi||1|15||",
+              "segment_number": 34
             }
           ]
         },
@@ -814,11 +848,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tvayā vyāptamidaṃ viśvaṃ tvayi protaṃ yathārthataḥ|"
+              "text": "tvayā vyāptamidaṃ viśvaṃ tvayi protaṃ yathārthataḥ|",
+              "segment_number": 35
             },
             {
               "tag": "l",
-              "text": "śuddhabuddhasvarūpastvaṃ mā gamaḥ kṣudracittatām||1|16||"
+              "text": "śuddhabuddhasvarūpastvaṃ mā gamaḥ kṣudracittatām||1|16||",
+              "segment_number": 36
             }
           ]
         },
@@ -830,11 +866,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirapekṣo nirvikāro nirbharaḥ śītalāśayaḥ|"
+              "text": "nirapekṣo nirvikāro nirbharaḥ śītalāśayaḥ|",
+              "segment_number": 37
             },
             {
               "tag": "l",
-              "text": "agādhabuddhirakṣubdho bhava cinmātravāsanaḥ||1|17||"
+              "text": "agādhabuddhirakṣubdho bhava cinmātravāsanaḥ||1|17||",
+              "segment_number": 38
             }
           ]
         },
@@ -846,11 +884,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sākāramanṛtaṃ viddhi nirākāraṃ tu niścalam|"
+              "text": "sākāramanṛtaṃ viddhi nirākāraṃ tu niścalam|",
+              "segment_number": 39
             },
             {
               "tag": "l",
-              "text": "etattattvopadeśena na punarbhavasaṃbhavaḥ||1|18||"
+              "text": "etattattvopadeśena na punarbhavasaṃbhavaḥ||1|18||",
+              "segment_number": 40
             }
           ]
         },
@@ -862,11 +902,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yathaivādarśamadhyasthe rūpe+antaḥ paritastu saḥ|"
+              "text": "yathaivādarśamadhyasthe rūpe+antaḥ paritastu saḥ|",
+              "segment_number": 41
             },
             {
               "tag": "l",
-              "text": "tathaivā+asmiñcharīre+antaḥ paritaḥ parameśvaraḥ||1|19||"
+              "text": "tathaivā+asmiñcharīre+antaḥ paritaḥ parameśvaraḥ||1|19||",
+              "segment_number": 42
             }
           ]
         },
@@ -878,11 +920,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ekaṃ sarvagataṃ vyoma bahirantaryathā ghaṭe|"
+              "text": "ekaṃ sarvagataṃ vyoma bahirantaryathā ghaṭe|",
+              "segment_number": 43
             },
             {
               "tag": "l",
-              "text": "nityaṃ nirantaraṃ brahma sarvabhūtagaṇe tathā||1|20||"
+              "text": "nityaṃ nirantaraṃ brahma sarvabhūtagaṇe tathā||1|20||",
+              "segment_number": 44
             }
           ]
         }
@@ -896,7 +940,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 2"
+          "text": "Prakaraṇa 2",
+          "segment_number": 45
         },
         {
           "tag": "p",
@@ -906,7 +951,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||2||"
+              "text": "janaka uvāca||2||",
+              "segment_number": 46
             }
           ]
         },
@@ -918,11 +964,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho nirañjanaḥ śānto bodho+ahaṃ prakṛteḥ paraḥ|"
+              "text": "aho nirañjanaḥ śānto bodho+ahaṃ prakṛteḥ paraḥ|",
+              "segment_number": 47
             },
             {
               "tag": "l",
-              "text": "etāvantamahaṃ kālaṃ mohenaiva viḍambitaḥ||2|1||"
+              "text": "etāvantamahaṃ kālaṃ mohenaiva viḍambitaḥ||2|1||",
+              "segment_number": 48
             }
           ]
         },
@@ -934,11 +982,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yathā prakāśayāmyeko dehamenaṃ tathā jagat|"
+              "text": "yathā prakāśayāmyeko dehamenaṃ tathā jagat|",
+              "segment_number": 49
             },
             {
               "tag": "l",
-              "text": "ato mama jagatsarvamathavā na ca kiñcana||2|2||"
+              "text": "ato mama jagatsarvamathavā na ca kiñcana||2|2||",
+              "segment_number": 50
             }
           ]
         },
@@ -950,11 +1000,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "saśarīramaho viśvaṃ parityajya mayā+adhunā|"
+              "text": "saśarīramaho viśvaṃ parityajya mayā+adhunā|",
+              "segment_number": 51
             },
             {
               "tag": "l",
-              "text": "kutaścitkauśalādeva paramātmā vilokyate||2|3||"
+              "text": "kutaścitkauśalādeva paramātmā vilokyate||2|3||",
+              "segment_number": 52
             }
           ]
         },
@@ -966,11 +1018,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yathā na toyato bhinnāstaraṅgāḥ phenabudbudāḥ|"
+              "text": "yathā na toyato bhinnāstaraṅgāḥ phenabudbudāḥ|",
+              "segment_number": 53
             },
             {
               "tag": "l",
-              "text": "ātmano na tathā bhinnaṃ viśvamātmavinirgatam||2|4||"
+              "text": "ātmano na tathā bhinnaṃ viśvamātmavinirgatam||2|4||",
+              "segment_number": 54
             }
           ]
         },
@@ -982,11 +1036,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tantumātro bhavedeva paṭo yadvadvicārataḥ|"
+              "text": "tantumātro bhavedeva paṭo yadvadvicārataḥ|",
+              "segment_number": 55
             },
             {
               "tag": "l",
-              "text": "ātmatanmātramevedaṃ tadvadviśvaṃ vicāritam||2|5||"
+              "text": "ātmatanmātramevedaṃ tadvadviśvaṃ vicāritam||2|5||",
+              "segment_number": 56
             }
           ]
         },
@@ -998,11 +1054,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yathaivekṣurase kḷptā tena vyāptaiva śarkarā|"
+              "text": "yathaivekṣurase kḷptā tena vyāptaiva śarkarā|",
+              "segment_number": 57
             },
             {
               "tag": "l",
-              "text": "tathā viśvaṃ mayi kḷptaṃ mayā vyāptaṃ nirantaram||2|6||"
+              "text": "tathā viśvaṃ mayi kḷptaṃ mayā vyāptaṃ nirantaram||2|6||",
+              "segment_number": 58
             }
           ]
         },
@@ -1014,11 +1072,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ātmājñānājjagadbhāti hātmajñānānna bhāsate|"
+              "text": "ātmājñānājjagadbhāti hātmajñānānna bhāsate|",
+              "segment_number": 59
             },
             {
               "tag": "l",
-              "text": "rajjvajñānādahirbhāti tajjñānādbhāsate na hi||2|7||"
+              "text": "rajjvajñānādahirbhāti tajjñānādbhāsate na hi||2|7||",
+              "segment_number": 60
             }
           ]
         },
@@ -1030,11 +1090,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "prakāśo me nijaṃ rūpaṃ nātirikto+asmyahaṃ tataḥ|"
+              "text": "prakāśo me nijaṃ rūpaṃ nātirikto+asmyahaṃ tataḥ|",
+              "segment_number": 61
             },
             {
               "tag": "l",
-              "text": "yadā prakāśate viśvaṃ tadā+ahambhāsa eva hi||2|8||"
+              "text": "yadā prakāśate viśvaṃ tadā+ahambhāsa eva hi||2|8||",
+              "segment_number": 62
             }
           ]
         },
@@ -1046,11 +1108,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho vikalpitaṃ viśvamajñānānmayi bhāsate|"
+              "text": "aho vikalpitaṃ viśvamajñānānmayi bhāsate|",
+              "segment_number": 63
             },
             {
               "tag": "l",
-              "text": "rūpyaṃ śuktau phaṇī rajjau vāri sūryakare yathā||2|9||"
+              "text": "rūpyaṃ śuktau phaṇī rajjau vāri sūryakare yathā||2|9||",
+              "segment_number": 64
             }
           ]
         },
@@ -1062,11 +1126,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "matto vinirgataṃ viśvaṃ mayyeva layameṣyati|"
+              "text": "matto vinirgataṃ viśvaṃ mayyeva layameṣyati|",
+              "segment_number": 65
             },
             {
               "tag": "l",
-              "text": "mṛdi kumbho jale vīciḥ kanake kaṭakaṃ yathā||2|10||"
+              "text": "mṛdi kumbho jale vīciḥ kanake kaṭakaṃ yathā||2|10||",
+              "segment_number": 66
             }
           ]
         },
@@ -1078,11 +1144,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho ahaṃ namo mahyaṃ vināśo yasya nāsti me|"
+              "text": "aho ahaṃ namo mahyaṃ vināśo yasya nāsti me|",
+              "segment_number": 67
             },
             {
               "tag": "l",
-              "text": "brahmādistambaparyantaṃ jagannāśe+api tiṣṭhataḥ||2|11||"
+              "text": "brahmādistambaparyantaṃ jagannāśe+api tiṣṭhataḥ||2|11||",
+              "segment_number": 68
             }
           ]
         },
@@ -1094,11 +1162,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho ahaṃ namo mahyameko+ahaṃ dehavānapi|"
+              "text": "aho ahaṃ namo mahyameko+ahaṃ dehavānapi|",
+              "segment_number": 69
             },
             {
               "tag": "l",
-              "text": "kvacinna gantā nāgantā vyāpya viśvamavasthitaḥ||2|12||"
+              "text": "kvacinna gantā nāgantā vyāpya viśvamavasthitaḥ||2|12||",
+              "segment_number": 70
             }
           ]
         },
@@ -1110,11 +1180,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho ahaṃ namo mahyaṃ dakṣo nāstīha matsamaḥ|"
+              "text": "aho ahaṃ namo mahyaṃ dakṣo nāstīha matsamaḥ|",
+              "segment_number": 71
             },
             {
               "tag": "l",
-              "text": "asaṃspṛśya śarīreṇa yena viśvaṃ ciraṃ dhṛtam||2|13||"
+              "text": "asaṃspṛśya śarīreṇa yena viśvaṃ ciraṃ dhṛtam||2|13||",
+              "segment_number": 72
             }
           ]
         },
@@ -1126,11 +1198,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho ahaṃ namo mahyaṃ yasya me nāsti kiñcana|"
+              "text": "aho ahaṃ namo mahyaṃ yasya me nāsti kiñcana|",
+              "segment_number": 73
             },
             {
               "tag": "l",
-              "text": "athavā yasya me sarvaṃ yadvāṅmanasagocaram||2|14||"
+              "text": "athavā yasya me sarvaṃ yadvāṅmanasagocaram||2|14||",
+              "segment_number": 74
             }
           ]
         },
@@ -1142,11 +1216,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "jñānaṃ jñeyaṃ tathā jñātā tritayaṃ nāsti vāstavam|"
+              "text": "jñānaṃ jñeyaṃ tathā jñātā tritayaṃ nāsti vāstavam|",
+              "segment_number": 75
             },
             {
               "tag": "l",
-              "text": "ajñānādbhāti yatredaṃ so+ahamasmi nirañjanaḥ||2|15||"
+              "text": "ajñānādbhāti yatredaṃ so+ahamasmi nirañjanaḥ||2|15||",
+              "segment_number": 76
             }
           ]
         },
@@ -1158,11 +1234,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dvaitamūlamaho duḥkhaṃ nānyattasyā+asti bheṣajam|"
+              "text": "dvaitamūlamaho duḥkhaṃ nānyattasyā+asti bheṣajam|",
+              "segment_number": 77
             },
             {
               "tag": "l",
-              "text": "dṛśyametanmṛṣā sarvameko+ahaṃ cidraso+amalaḥ||2|16||"
+              "text": "dṛśyametanmṛṣā sarvameko+ahaṃ cidraso+amalaḥ||2|16||",
+              "segment_number": 78
             }
           ]
         },
@@ -1174,11 +1252,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bodhamātro+ahamajñānādupādhiḥ kalpito mayā|"
+              "text": "bodhamātro+ahamajñānādupādhiḥ kalpito mayā|",
+              "segment_number": 79
             },
             {
               "tag": "l",
-              "text": "evaṃ vimṛśato nityaṃ nirvikalpe sthitirmama||2|17||"
+              "text": "evaṃ vimṛśato nityaṃ nirvikalpe sthitirmama||2|17||",
+              "segment_number": 80
             }
           ]
         },
@@ -1190,11 +1270,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho mayi sthitaṃ viśvaṃ vastuto na mayi sthitam|"
+              "text": "aho mayi sthitaṃ viśvaṃ vastuto na mayi sthitam|",
+              "segment_number": 81
             },
             {
               "tag": "l",
-              "text": "na me bandho+asti mokṣo vā bhrāntiḥ śāntā nirāśrayā||2|18||"
+              "text": "na me bandho+asti mokṣo vā bhrāntiḥ śāntā nirāśrayā||2|18||",
+              "segment_number": 82
             }
           ]
         },
@@ -1206,11 +1288,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "saśarīramidaṃ viśvaṃ na kiñciditi niścitam|"
+              "text": "saśarīramidaṃ viśvaṃ na kiñciditi niścitam|",
+              "segment_number": 83
             },
             {
               "tag": "l",
-              "text": "śuddhacinmātra ātmā ca tatkasminkalpanādhunā||2|19||"
+              "text": "śuddhacinmātra ātmā ca tatkasminkalpanādhunā||2|19||",
+              "segment_number": 84
             }
           ]
         },
@@ -1222,11 +1306,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śarīraṃ svarganarakau bandhamokṣau bhayaṃ tathā|"
+              "text": "śarīraṃ svarganarakau bandhamokṣau bhayaṃ tathā|",
+              "segment_number": 85
             },
             {
               "tag": "l",
-              "text": "kalpanāmātramevaitatkiṃ me kāryaṃ cidātmanaḥ||2|20||"
+              "text": "kalpanāmātramevaitatkiṃ me kāryaṃ cidātmanaḥ||2|20||",
+              "segment_number": 86
             }
           ]
         },
@@ -1238,11 +1324,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho janasamūhe+api na dvaitaṃ paśyato mama|"
+              "text": "aho janasamūhe+api na dvaitaṃ paśyato mama|",
+              "segment_number": 87
             },
             {
               "tag": "l",
-              "text": "araṇyamiva saṃvṛttaṃ kva ratiṃ karavāṇyaham||2|21||"
+              "text": "araṇyamiva saṃvṛttaṃ kva ratiṃ karavāṇyaham||2|21||",
+              "segment_number": 88
             }
           ]
         },
@@ -1254,11 +1342,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nāhaṃ deho na me deho jīvo nāhamahaṃ hi cit|"
+              "text": "nāhaṃ deho na me deho jīvo nāhamahaṃ hi cit|",
+              "segment_number": 89
             },
             {
               "tag": "l",
-              "text": "ayameva hi me bandha āsīdyā jīvite spṛhā||2|22||"
+              "text": "ayameva hi me bandha āsīdyā jīvite spṛhā||2|22||",
+              "segment_number": 90
             }
           ]
         },
@@ -1270,11 +1360,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho bhuvanakallolairvicitrairdrāksamutthitam|"
+              "text": "aho bhuvanakallolairvicitrairdrāksamutthitam|",
+              "segment_number": 91
             },
             {
               "tag": "l",
-              "text": "mayyanantamahāmbhodhau cittavāte samudyate||2|23||"
+              "text": "mayyanantamahāmbhodhau cittavāte samudyate||2|23||",
+              "segment_number": 92
             }
           ]
         },
@@ -1286,11 +1378,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mayyanantamahāmbhodhau cittavāte praśāmyati|"
+              "text": "mayyanantamahāmbhodhau cittavāte praśāmyati|",
+              "segment_number": 93
             },
             {
               "tag": "l",
-              "text": "abhāgyājjīvavaṇijo jagatpoto vinaśvaraḥ||2|24||"
+              "text": "abhāgyājjīvavaṇijo jagatpoto vinaśvaraḥ||2|24||",
+              "segment_number": 94
             }
           ]
         },
@@ -1302,11 +1396,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mayyanantamahāmbhodhāvāścaryaṃ jīvavīcayaḥ|"
+              "text": "mayyanantamahāmbhodhāvāścaryaṃ jīvavīcayaḥ|",
+              "segment_number": 95
             },
             {
               "tag": "l",
-              "text": "udyanti ghnanti khelanti praviśanti svabhāvataḥ||2|25||"
+              "text": "udyanti ghnanti khelanti praviśanti svabhāvataḥ||2|25||",
+              "segment_number": 96
             }
           ]
         }
@@ -1320,7 +1416,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 3"
+          "text": "Prakaraṇa 3",
+          "segment_number": 97
         },
         {
           "tag": "p",
@@ -1330,7 +1427,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||3||"
+              "text": "aṣṭāvakra uvāca||3||",
+              "segment_number": 98
             }
           ]
         },
@@ -1342,11 +1440,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "avināśinamātmānamekaṃ vijñāya tattvataḥ|"
+              "text": "avināśinamātmānamekaṃ vijñāya tattvataḥ|",
+              "segment_number": 99
             },
             {
               "tag": "l",
-              "text": "tavātmajñānadhīrasya kathamarthārjane ratiḥ||3|1||"
+              "text": "tavātmajñānadhīrasya kathamarthārjane ratiḥ||3|1||",
+              "segment_number": 100
             }
           ]
         },
@@ -1358,11 +1458,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ātmā+ajñānādaho prītirviṣayabhramagocare|"
+              "text": "ātmā+ajñānādaho prītirviṣayabhramagocare|",
+              "segment_number": 101
             },
             {
               "tag": "l",
-              "text": "śukterajñānato lobho yathā rajatavibhrame||3|2||"
+              "text": "śukterajñānato lobho yathā rajatavibhrame||3|2||",
+              "segment_number": 102
             }
           ]
         },
@@ -1374,11 +1476,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|"
+              "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|",
+              "segment_number": 103
             },
             {
               "tag": "l",
-              "text": "so+ahamasmīti vijñāya kiṃ dīna iva dhāvasi||3|3||"
+              "text": "so+ahamasmīti vijñāya kiṃ dīna iva dhāvasi||3|3||",
+              "segment_number": 104
             }
           ]
         },
@@ -1390,11 +1494,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śrutvāpi śuddhacaitanyamātmānamatisundaram|"
+              "text": "śrutvāpi śuddhacaitanyamātmānamatisundaram|",
+              "segment_number": 105
             },
             {
               "tag": "l",
-              "text": "upasthe+atyantasaṃsakto mālinyamadhigacchati||3|4||"
+              "text": "upasthe+atyantasaṃsakto mālinyamadhigacchati||3|4||",
+              "segment_number": 106
             }
           ]
         },
@@ -1406,11 +1512,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|"
+              "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|",
+              "segment_number": 107
             },
             {
               "tag": "l",
-              "text": "munerjānata āścaryaṃ mamatvamanuvartate||3|5||"
+              "text": "munerjānata āścaryaṃ mamatvamanuvartate||3|5||",
+              "segment_number": 108
             }
           ]
         },
@@ -1422,11 +1530,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "āsthitaḥ paramādvaitaṃ mokṣārthe+api vyavasthitaḥ|"
+              "text": "āsthitaḥ paramādvaitaṃ mokṣārthe+api vyavasthitaḥ|",
+              "segment_number": 109
             },
             {
               "tag": "l",
-              "text": "āścaryaṃ kāmavaśago vikalaḥ keliśikṣayā||3|6||"
+              "text": "āścaryaṃ kāmavaśago vikalaḥ keliśikṣayā||3|6||",
+              "segment_number": 110
             }
           ]
         },
@@ -1438,11 +1548,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "udbhūtaṃ jñānadurmitramavadhāryātidurbalaḥ|"
+              "text": "udbhūtaṃ jñānadurmitramavadhāryātidurbalaḥ|",
+              "segment_number": 111
             },
             {
               "tag": "l",
-              "text": "āścaryaṃ kāmamākāṅkṣetkālamantamanuśritaḥ||3|7||"
+              "text": "āścaryaṃ kāmamākāṅkṣetkālamantamanuśritaḥ||3|7||",
+              "segment_number": 112
             }
           ]
         },
@@ -1454,11 +1566,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ihāmutra viraktasya nityānityavivekinaḥ|"
+              "text": "ihāmutra viraktasya nityānityavivekinaḥ|",
+              "segment_number": 113
             },
             {
               "tag": "l",
-              "text": "āścaryaṃ mokṣakāmasya mokṣādeva vibhīṣikā||3|8||"
+              "text": "āścaryaṃ mokṣakāmasya mokṣādeva vibhīṣikā||3|8||",
+              "segment_number": 114
             }
           ]
         },
@@ -1470,11 +1584,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dhīrastu bhojyamāno+api pīḍyamāno+api sarvadā|"
+              "text": "dhīrastu bhojyamāno+api pīḍyamāno+api sarvadā|",
+              "segment_number": 115
             },
             {
               "tag": "l",
-              "text": "ātmānaṃ kevalaṃ paśyanna tuṣyati na kupyati||3|9||"
+              "text": "ātmānaṃ kevalaṃ paśyanna tuṣyati na kupyati||3|9||",
+              "segment_number": 116
             }
           ]
         },
@@ -1486,11 +1602,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ceṣṭamānaṃ śarīraṃ svaṃ paśyatyanyaśarīravat|"
+              "text": "ceṣṭamānaṃ śarīraṃ svaṃ paśyatyanyaśarīravat|",
+              "segment_number": 117
             },
             {
               "tag": "l",
-              "text": "saṃstave cāpi nindāyāṃ kathaṃ kṣubhyenmahāśayaḥ||3|10||"
+              "text": "saṃstave cāpi nindāyāṃ kathaṃ kṣubhyenmahāśayaḥ||3|10||",
+              "segment_number": 118
             }
           ]
         },
@@ -1502,11 +1620,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "māyāmātramidaṃ viśvaṃ paśyanvigatakautukaḥ|"
+              "text": "māyāmātramidaṃ viśvaṃ paśyanvigatakautukaḥ|",
+              "segment_number": 119
             },
             {
               "tag": "l",
-              "text": "api sannihite mṛtyau kathaṃ trasyati dhīradhīḥ||3|11||"
+              "text": "api sannihite mṛtyau kathaṃ trasyati dhīradhīḥ||3|11||",
+              "segment_number": 120
             }
           ]
         },
@@ -1518,11 +1638,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "niḥspṛhaṃ mānasaṃ yasya nairāśye+api mahātmanaḥ|"
+              "text": "niḥspṛhaṃ mānasaṃ yasya nairāśye+api mahātmanaḥ|",
+              "segment_number": 121
             },
             {
               "tag": "l",
-              "text": "tasyātmajñānatṛptasya tulanā kena jāyate||3|12||"
+              "text": "tasyātmajñānatṛptasya tulanā kena jāyate||3|12||",
+              "segment_number": 122
             }
           ]
         },
@@ -1534,11 +1656,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "svabhāvādeva jānāno dṛśyametanna kiñcana|"
+              "text": "svabhāvādeva jānāno dṛśyametanna kiñcana|",
+              "segment_number": 123
             },
             {
               "tag": "l",
-              "text": "idaṃ grāhyamidaṃ tyājyaṃ sa kiṃ paśyati dhīradhīḥ||3|13||"
+              "text": "idaṃ grāhyamidaṃ tyājyaṃ sa kiṃ paśyati dhīradhīḥ||3|13||",
+              "segment_number": 124
             }
           ]
         },
@@ -1550,11 +1674,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "antastyaktakaṣāyasya nirdvandvasya nirāśiṣaḥ|"
+              "text": "antastyaktakaṣāyasya nirdvandvasya nirāśiṣaḥ|",
+              "segment_number": 125
             },
             {
               "tag": "l",
-              "text": "yadṛcchayā+a+agato bhogo na duḥkhāya na tuṣṭaye||3|14||"
+              "text": "yadṛcchayā+a+agato bhogo na duḥkhāya na tuṣṭaye||3|14||",
+              "segment_number": 126
             }
           ]
         }
@@ -1568,7 +1694,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 4"
+          "text": "Prakaraṇa 4",
+          "segment_number": 127
         },
         {
           "tag": "p",
@@ -1578,7 +1705,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||4||"
+              "text": "janaka uvāca||4||",
+              "segment_number": 128
             }
           ]
         },
@@ -1590,11 +1718,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "hantātmajñasya dhīrasya khelato bhogalīlayā|"
+              "text": "hantātmajñasya dhīrasya khelato bhogalīlayā|",
+              "segment_number": 129
             },
             {
               "tag": "l",
-              "text": "na hi saṃsāravāhīkairmūḍhaiḥ saha samānatā||4|1||"
+              "text": "na hi saṃsāravāhīkairmūḍhaiḥ saha samānatā||4|1||",
+              "segment_number": 130
             }
           ]
         },
@@ -1606,11 +1736,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yatpadaṃ prepsavo dīnāḥ śakrādyāḥ sarvadevatāḥ|"
+              "text": "yatpadaṃ prepsavo dīnāḥ śakrādyāḥ sarvadevatāḥ|",
+              "segment_number": 131
             },
             {
               "tag": "l",
-              "text": "aho tatra sthito yogī na harṣamupagacchati||4|2||"
+              "text": "aho tatra sthito yogī na harṣamupagacchati||4|2||",
+              "segment_number": 132
             }
           ]
         },
@@ -1622,11 +1754,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tajjñasya puṇyapāpābhyāṃ sparśo hyantarna jāyate|"
+              "text": "tajjñasya puṇyapāpābhyāṃ sparśo hyantarna jāyate|",
+              "segment_number": 133
             },
             {
               "tag": "l",
-              "text": "na hyākāśasya dhūmena dṛśyamānā+api saṃgatiḥ||4|3||"
+              "text": "na hyākāśasya dhūmena dṛśyamānā+api saṃgatiḥ||4|3||",
+              "segment_number": 134
             }
           ]
         },
@@ -1638,11 +1772,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ātmaivedaṃ jagatsarvaṃ jñātaṃ yena mahātmanā|"
+              "text": "ātmaivedaṃ jagatsarvaṃ jñātaṃ yena mahātmanā|",
+              "segment_number": 135
             },
             {
               "tag": "l",
-              "text": "yadṛcchayā vartamānaṃ taṃ niṣeddhuṃ kṣameta kaḥ||4|4||"
+              "text": "yadṛcchayā vartamānaṃ taṃ niṣeddhuṃ kṣameta kaḥ||4|4||",
+              "segment_number": 136
             }
           ]
         },
@@ -1654,11 +1790,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ābrahmastambaparyante bhūtagrāme caturvidhe|"
+              "text": "ābrahmastambaparyante bhūtagrāme caturvidhe|",
+              "segment_number": 137
             },
             {
               "tag": "l",
-              "text": "vijñasyaiva hi sāmarthyamicchā+anicchāvivarjane||4|5||"
+              "text": "vijñasyaiva hi sāmarthyamicchā+anicchāvivarjane||4|5||",
+              "segment_number": 138
             }
           ]
         },
@@ -1670,11 +1808,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ātmānamadvayaṃ kaścijjānāti jagadīśvaram|"
+              "text": "ātmānamadvayaṃ kaścijjānāti jagadīśvaram|",
+              "segment_number": 139
             },
             {
               "tag": "l",
-              "text": "yadvetti tatsa kurute na bhayaṃ tasya kutracit||4|6||"
+              "text": "yadvetti tatsa kurute na bhayaṃ tasya kutracit||4|6||",
+              "segment_number": 140
             }
           ]
         }
@@ -1688,7 +1828,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 5"
+          "text": "Prakaraṇa 5",
+          "segment_number": 141
         },
         {
           "tag": "p",
@@ -1698,7 +1839,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||5||"
+              "text": "aṣṭāvakra uvāca||5||",
+              "segment_number": 142
             }
           ]
         },
@@ -1710,11 +1852,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na te saṅgo+asti kenāpi kiṃ śuddhastyaktumicchasi|"
+              "text": "na te saṅgo+asti kenāpi kiṃ śuddhastyaktumicchasi|",
+              "segment_number": 143
             },
             {
               "tag": "l",
-              "text": "saṅghātavilayaṃ kurvannevameva layaṃ vraja||5|1||"
+              "text": "saṅghātavilayaṃ kurvannevameva layaṃ vraja||5|1||",
+              "segment_number": 144
             }
           ]
         },
@@ -1726,11 +1870,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "udeti bhavato viśvaṃ vāridheriva budbudaḥ|"
+              "text": "udeti bhavato viśvaṃ vāridheriva budbudaḥ|",
+              "segment_number": 145
             },
             {
               "tag": "l",
-              "text": "iti jñātvaikamātmānamevameva layaṃ vraja||5|2||"
+              "text": "iti jñātvaikamātmānamevameva layaṃ vraja||5|2||",
+              "segment_number": 146
             }
           ]
         },
@@ -1742,11 +1888,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "pratyakṣamapyavastutvādviśvaṃ nāstyamale tvayi|"
+              "text": "pratyakṣamapyavastutvādviśvaṃ nāstyamale tvayi|",
+              "segment_number": 147
             },
             {
               "tag": "l",
-              "text": "rajjusarpa iva vyaktamevameva layaṃ vraja||5|3||"
+              "text": "rajjusarpa iva vyaktamevameva layaṃ vraja||5|3||",
+              "segment_number": 148
             }
           ]
         },
@@ -1758,11 +1906,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "samaduḥkhasukhaḥ pūrṇa āśānairāśyayoḥ samaḥ|"
+              "text": "samaduḥkhasukhaḥ pūrṇa āśānairāśyayoḥ samaḥ|",
+              "segment_number": 149
             },
             {
               "tag": "l",
-              "text": "samajīvitamṛtyuḥ sannevameva layaṃ vraja||5|4||"
+              "text": "samajīvitamṛtyuḥ sannevameva layaṃ vraja||5|4||",
+              "segment_number": 150
             }
           ]
         }
@@ -1776,7 +1926,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 6"
+          "text": "Prakaraṇa 6",
+          "segment_number": 151
         },
         {
           "tag": "p",
@@ -1786,7 +1937,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||6||"
+              "text": "janaka uvāca||6||",
+              "segment_number": 152
             }
           ]
         },
@@ -1798,11 +1950,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ākāśavadananto+ahaṃ ghaṭavatprākṛtaṃ jagat|"
+              "text": "ākāśavadananto+ahaṃ ghaṭavatprākṛtaṃ jagat|",
+              "segment_number": 153
             },
             {
               "tag": "l",
-              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|1||"
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|1||",
+              "segment_number": 154
             }
           ]
         },
@@ -1814,11 +1968,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mahodadhirivāhaṃ sa prapañco vīcisannibhaḥ|"
+              "text": "mahodadhirivāhaṃ sa prapañco vīcisannibhaḥ|",
+              "segment_number": 155
             },
             {
               "tag": "l",
-              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|2||"
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|2||",
+              "segment_number": 156
             }
           ]
         },
@@ -1830,11 +1986,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ahaṃ sa śuktisaṃkāśo rūpyavadviśvakalpanā|"
+              "text": "ahaṃ sa śuktisaṃkāśo rūpyavadviśvakalpanā|",
+              "segment_number": 157
             },
             {
               "tag": "l",
-              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|3||"
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|3||",
+              "segment_number": 158
             }
           ]
         },
@@ -1846,11 +2004,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ahaṃ vā sarvabhūteṣu sarvabhūtānyatho mayi|"
+              "text": "ahaṃ vā sarvabhūteṣu sarvabhūtānyatho mayi|",
+              "segment_number": 159
             },
             {
               "tag": "l",
-              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|4||"
+              "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|4||",
+              "segment_number": 160
             }
           ]
         }
@@ -1864,7 +2024,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 7"
+          "text": "Prakaraṇa 7",
+          "segment_number": 161
         },
         {
           "tag": "p",
@@ -1874,7 +2035,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||7||"
+              "text": "janaka uvāca||7||",
+              "segment_number": 162
             }
           ]
         },
@@ -1886,11 +2048,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mayyanantamahāmbhodhau viśvapota itastataḥ|"
+              "text": "mayyanantamahāmbhodhau viśvapota itastataḥ|",
+              "segment_number": 163
             },
             {
               "tag": "l",
-              "text": "bhramati svāntavātena na mamāstyasahiṣṇutā||7|1||"
+              "text": "bhramati svāntavātena na mamāstyasahiṣṇutā||7|1||",
+              "segment_number": 164
             }
           ]
         },
@@ -1902,11 +2066,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mayyanantamahāmbhodhau jagadvīciḥ svabhāvataḥ|"
+              "text": "mayyanantamahāmbhodhau jagadvīciḥ svabhāvataḥ|",
+              "segment_number": 165
             },
             {
               "tag": "l",
-              "text": "udetu vāstamāyātu na me vṛddhirna ca kṣatiḥ||7|2||"
+              "text": "udetu vāstamāyātu na me vṛddhirna ca kṣatiḥ||7|2||",
+              "segment_number": 166
             }
           ]
         },
@@ -1918,11 +2084,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mayyanantamahāmbhodhau viśvaṃ nāma vikalpanā|"
+              "text": "mayyanantamahāmbhodhau viśvaṃ nāma vikalpanā|",
+              "segment_number": 167
             },
             {
               "tag": "l",
-              "text": "atiśānto nirākāra etadevāhamāsthitaḥ||7|3||"
+              "text": "atiśānto nirākāra etadevāhamāsthitaḥ||7|3||",
+              "segment_number": 168
             }
           ]
         },
@@ -1934,11 +2102,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nātmā bhāveṣu no bhāvastatrānante nirañjane|"
+              "text": "nātmā bhāveṣu no bhāvastatrānante nirañjane|",
+              "segment_number": 169
             },
             {
               "tag": "l",
-              "text": "ityasakto+aspṛhaḥ śānta etadevāhamāsthitaḥ||7|4||"
+              "text": "ityasakto+aspṛhaḥ śānta etadevāhamāsthitaḥ||7|4||",
+              "segment_number": 170
             }
           ]
         },
@@ -1950,11 +2120,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aho cinmātramevāhamindrajālopamaṃ jagat|"
+              "text": "aho cinmātramevāhamindrajālopamaṃ jagat|",
+              "segment_number": 171
             },
             {
               "tag": "l",
-              "text": "ato mama kathaṃ kutra heyopādeyakalpanā||7|5||"
+              "text": "ato mama kathaṃ kutra heyopādeyakalpanā||7|5||",
+              "segment_number": 172
             }
           ]
         }
@@ -1968,7 +2140,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 8"
+          "text": "Prakaraṇa 8",
+          "segment_number": 173
         },
         {
           "tag": "p",
@@ -1978,7 +2151,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||8||"
+              "text": "aṣṭāvakra uvāca||8||",
+              "segment_number": 174
             }
           ]
         },
@@ -1990,11 +2164,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tadā bandho yadā cittaṃ kiñcidvāñchati śocati|"
+              "text": "tadā bandho yadā cittaṃ kiñcidvāñchati śocati|",
+              "segment_number": 175
             },
             {
               "tag": "l",
-              "text": "kiñcinmuñcati gṛhṇāti kiñciddhṛṣyati kupyati||8|1||"
+              "text": "kiñcinmuñcati gṛhṇāti kiñciddhṛṣyati kupyati||8|1||",
+              "segment_number": 176
             }
           ]
         },
@@ -2006,11 +2182,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tadā muktiryadā cittaṃ na vāñchati na śocati|"
+              "text": "tadā muktiryadā cittaṃ na vāñchati na śocati|",
+              "segment_number": 177
             },
             {
               "tag": "l",
-              "text": "na muñcati na gṛhṇāti na hṛṣyati na kupyati||8|2||"
+              "text": "na muñcati na gṛhṇāti na hṛṣyati na kupyati||8|2||",
+              "segment_number": 178
             }
           ]
         },
@@ -2022,11 +2200,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tadā bandho yadā cittaṃ saktaṃ kāsvapi dṛṣṭiṣu|"
+              "text": "tadā bandho yadā cittaṃ saktaṃ kāsvapi dṛṣṭiṣu|",
+              "segment_number": 179
             },
             {
               "tag": "l",
-              "text": "tadā mokṣo yadā cittamasaktaṃ sarvadṛṣṭiṣu||8|3||"
+              "text": "tadā mokṣo yadā cittamasaktaṃ sarvadṛṣṭiṣu||8|3||",
+              "segment_number": 180
             }
           ]
         },
@@ -2038,11 +2218,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yadā nāhaṃ tadā mokṣo yadāhaṃ bandhanaṃ tadā|"
+              "text": "yadā nāhaṃ tadā mokṣo yadāhaṃ bandhanaṃ tadā|",
+              "segment_number": 181
             },
             {
               "tag": "l",
-              "text": "matveti helayā kiñcinmā gṛhāṇa vimuñca mā||8|4||"
+              "text": "matveti helayā kiñcinmā gṛhāṇa vimuñca mā||8|4||",
+              "segment_number": 182
             }
           ]
         }
@@ -2056,7 +2238,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 9"
+          "text": "Prakaraṇa 9",
+          "segment_number": 183
         },
         {
           "tag": "p",
@@ -2066,7 +2249,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||9||"
+              "text": "aṣṭāvakra uvāca||9||",
+              "segment_number": 184
             }
           ]
         },
@@ -2078,11 +2262,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kṛtākṛte ca dvandvāni kadā śāntāni kasya vā|"
+              "text": "kṛtākṛte ca dvandvāni kadā śāntāni kasya vā|",
+              "segment_number": 185
             },
             {
               "tag": "l",
-              "text": "evaṃ jñātveha nirvedādbhava tyāgaparo+avratī||9|1||"
+              "text": "evaṃ jñātveha nirvedādbhava tyāgaparo+avratī||9|1||",
+              "segment_number": 186
             }
           ]
         },
@@ -2094,11 +2280,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kasyāpi tāta dhanyasya lokaceṣṭāvalokanāt|"
+              "text": "kasyāpi tāta dhanyasya lokaceṣṭāvalokanāt|",
+              "segment_number": 187
             },
             {
               "tag": "l",
-              "text": "jīvitecchā bubhukṣā ca bubhutsopaśamaṃ gatāḥ||9|2||"
+              "text": "jīvitecchā bubhukṣā ca bubhutsopaśamaṃ gatāḥ||9|2||",
+              "segment_number": 188
             }
           ]
         },
@@ -2110,11 +2298,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "anityaṃ sarvamevedaṃ tāpatritayadūṣitam|"
+              "text": "anityaṃ sarvamevedaṃ tāpatritayadūṣitam|",
+              "segment_number": 189
             },
             {
               "tag": "l",
-              "text": "asāraṃ ninditaṃ heyamiti niścitya śāmyati||9|3||"
+              "text": "asāraṃ ninditaṃ heyamiti niścitya śāmyati||9|3||",
+              "segment_number": 190
             }
           ]
         },
@@ -2126,11 +2316,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ko+asau kālo vayaḥ kiṃ vā yatra dvandvāni no nṛṇām|"
+              "text": "ko+asau kālo vayaḥ kiṃ vā yatra dvandvāni no nṛṇām|",
+              "segment_number": 191
             },
             {
               "tag": "l",
-              "text": "tānyupekṣya yathāprāptavartī siddhimavāpnuyāt||9|4||"
+              "text": "tānyupekṣya yathāprāptavartī siddhimavāpnuyāt||9|4||",
+              "segment_number": 192
             }
           ]
         },
@@ -2142,11 +2334,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nānā mataṃ maharṣīṇāṃ sādhūnāṃ yogināṃ tathā|"
+              "text": "nānā mataṃ maharṣīṇāṃ sādhūnāṃ yogināṃ tathā|",
+              "segment_number": 193
             },
             {
               "tag": "l",
-              "text": "dṛṣṭvā nirvedamāpannaḥ ko na śāmyati mānavaḥ||9|5||"
+              "text": "dṛṣṭvā nirvedamāpannaḥ ko na śāmyati mānavaḥ||9|5||",
+              "segment_number": 194
             }
           ]
         },
@@ -2158,11 +2352,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kṛtvā mūrtiparijñānaṃ caitanyasya na kiṃ guruḥ|"
+              "text": "kṛtvā mūrtiparijñānaṃ caitanyasya na kiṃ guruḥ|",
+              "segment_number": 195
             },
             {
               "tag": "l",
-              "text": "nirvedasamatāyuktyā yastārayati saṃsṛteḥ||9|6||"
+              "text": "nirvedasamatāyuktyā yastārayati saṃsṛteḥ||9|6||",
+              "segment_number": 196
             }
           ]
         },
@@ -2174,11 +2370,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "paśya bhūtavikārāṃstvaṃ bhūtamātrānyathārthataḥ|"
+              "text": "paśya bhūtavikārāṃstvaṃ bhūtamātrānyathārthataḥ|",
+              "segment_number": 197
             },
             {
               "tag": "l",
-              "text": "tatkṣaṇādbandhanirmuktaḥ svarūpastho bhaviṣyasi||9|7||"
+              "text": "tatkṣaṇādbandhanirmuktaḥ svarūpastho bhaviṣyasi||9|7||",
+              "segment_number": 198
             }
           ]
         },
@@ -2190,11 +2388,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vāsanā eva saṃsāra iti sarvā vimuñca tāḥ|"
+              "text": "vāsanā eva saṃsāra iti sarvā vimuñca tāḥ|",
+              "segment_number": 199
             },
             {
               "tag": "l",
-              "text": "tattyāgo vāsanātyāgātsthitiradya yathā tathā||9|8||"
+              "text": "tattyāgo vāsanātyāgātsthitiradya yathā tathā||9|8||",
+              "segment_number": 200
             }
           ]
         }
@@ -2208,7 +2408,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 10"
+          "text": "Prakaraṇa 10",
+          "segment_number": 201
         },
         {
           "tag": "p",
@@ -2218,7 +2419,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||10||"
+              "text": "aṣṭāvakra uvāca||10||",
+              "segment_number": 202
             }
           ]
         },
@@ -2230,11 +2432,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vihāya vairiṇaṃ kāmamarthaṃ cānarthasaṃkulam|"
+              "text": "vihāya vairiṇaṃ kāmamarthaṃ cānarthasaṃkulam|",
+              "segment_number": 203
             },
             {
               "tag": "l",
-              "text": "dharmamapyetayorhetuṃ sarvatrānādaraṃ kuru||10|1||"
+              "text": "dharmamapyetayorhetuṃ sarvatrānādaraṃ kuru||10|1||",
+              "segment_number": 204
             }
           ]
         },
@@ -2246,11 +2450,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "svapnendrajālavatpaśya dināni trīṇi pañca vā|"
+              "text": "svapnendrajālavatpaśya dināni trīṇi pañca vā|",
+              "segment_number": 205
             },
             {
               "tag": "l",
-              "text": "mitrakṣetradhanāgāradāradāyādisaṃpadaḥ||10|2||"
+              "text": "mitrakṣetradhanāgāradāradāyādisaṃpadaḥ||10|2||",
+              "segment_number": 206
             }
           ]
         },
@@ -2262,11 +2468,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yatra yatra bhavettṛṣṇā saṃsāraṃ viddhi tatra vai|"
+              "text": "yatra yatra bhavettṛṣṇā saṃsāraṃ viddhi tatra vai|",
+              "segment_number": 207
             },
             {
               "tag": "l",
-              "text": "prauḍhavairāgyamāśritya vītatṛṣṇaḥ sukhī bhava||10|3||"
+              "text": "prauḍhavairāgyamāśritya vītatṛṣṇaḥ sukhī bhava||10|3||",
+              "segment_number": 208
             }
           ]
         },
@@ -2278,11 +2486,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tṛṣṇāmātrātmako bandhastannāśo mokṣa ucyate|"
+              "text": "tṛṣṇāmātrātmako bandhastannāśo mokṣa ucyate|",
+              "segment_number": 209
             },
             {
               "tag": "l",
-              "text": "bhavāsaṃsaktimātreṇa prāptituṣṭirmuhurmuhuḥ||10|4||"
+              "text": "bhavāsaṃsaktimātreṇa prāptituṣṭirmuhurmuhuḥ||10|4||",
+              "segment_number": 210
             }
           ]
         },
@@ -2294,11 +2504,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tvamekaścetanaḥ śuddho jaḍaṃ viśvamasattathā|"
+              "text": "tvamekaścetanaḥ śuddho jaḍaṃ viśvamasattathā|",
+              "segment_number": 211
             },
             {
               "tag": "l",
-              "text": "avidyāpi na kiñcitsā kā bubhutsā tathāpi te||10|5||"
+              "text": "avidyāpi na kiñcitsā kā bubhutsā tathāpi te||10|5||",
+              "segment_number": 212
             }
           ]
         },
@@ -2310,11 +2522,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "rājyaṃ sutāḥ kalatrāṇi śarīrāṇi sukhāni ca|"
+              "text": "rājyaṃ sutāḥ kalatrāṇi śarīrāṇi sukhāni ca|",
+              "segment_number": 213
             },
             {
               "tag": "l",
-              "text": "saṃsaktasyāpi naṣṭāni tava janmani janmani||10|6||"
+              "text": "saṃsaktasyāpi naṣṭāni tava janmani janmani||10|6||",
+              "segment_number": 214
             }
           ]
         },
@@ -2326,11 +2540,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "alamarthena kāmena sukṛtenāpi karmaṇā|"
+              "text": "alamarthena kāmena sukṛtenāpi karmaṇā|",
+              "segment_number": 215
             },
             {
               "tag": "l",
-              "text": "ebhyaḥ saṃsārakāntāre na viśrāntamabhūnmanaḥ||10|7||"
+              "text": "ebhyaḥ saṃsārakāntāre na viśrāntamabhūnmanaḥ||10|7||",
+              "segment_number": 216
             }
           ]
         },
@@ -2342,11 +2558,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kṛtaṃ na kati janmāni kāyena manasā girā|"
+              "text": "kṛtaṃ na kati janmāni kāyena manasā girā|",
+              "segment_number": 217
             },
             {
               "tag": "l",
-              "text": "duḥkhamāyāsadaṃ karma tadadyāpyuparamyatām||10|8||"
+              "text": "duḥkhamāyāsadaṃ karma tadadyāpyuparamyatām||10|8||",
+              "segment_number": 218
             }
           ]
         }
@@ -2360,7 +2578,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 11"
+          "text": "Prakaraṇa 11",
+          "segment_number": 219
         },
         {
           "tag": "p",
@@ -2370,7 +2589,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||11||"
+              "text": "aṣṭāvakra uvāca||11||",
+              "segment_number": 220
             }
           ]
         },
@@ -2382,11 +2602,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhāvābhāvavikāraśca svabhāvāditi niścayī|"
+              "text": "bhāvābhāvavikāraśca svabhāvāditi niścayī|",
+              "segment_number": 221
             },
             {
               "tag": "l",
-              "text": "nirvikāro gatakleśaḥ sukhenaivopaśāmyati||11|1||"
+              "text": "nirvikāro gatakleśaḥ sukhenaivopaśāmyati||11|1||",
+              "segment_number": 222
             }
           ]
         },
@@ -2398,11 +2620,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "īśvaraḥ sarvanirmātā nehānya iti niścayī|"
+              "text": "īśvaraḥ sarvanirmātā nehānya iti niścayī|",
+              "segment_number": 223
             },
             {
               "tag": "l",
-              "text": "antargalitasarvāśaḥ śāntaḥ kvāpi na sajjate||11|2||"
+              "text": "antargalitasarvāśaḥ śāntaḥ kvāpi na sajjate||11|2||",
+              "segment_number": 224
             }
           ]
         },
@@ -2414,11 +2638,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "āpadaḥ saṃpadaḥ kāle daivādeveti niścayī|"
+              "text": "āpadaḥ saṃpadaḥ kāle daivādeveti niścayī|",
+              "segment_number": 225
             },
             {
               "tag": "l",
-              "text": "tṛptaḥ svasthendriyo nityaṃ na vāñchati na śocati||11|3||"
+              "text": "tṛptaḥ svasthendriyo nityaṃ na vāñchati na śocati||11|3||",
+              "segment_number": 226
             }
           ]
         },
@@ -2430,11 +2656,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sukhaduḥkhe janmamṛtyū daivādeveti niścayī|"
+              "text": "sukhaduḥkhe janmamṛtyū daivādeveti niścayī|",
+              "segment_number": 227
             },
             {
               "tag": "l",
-              "text": "sādhyādarśī nirāyāsaḥ kurvannapi na lipyate||11|4||"
+              "text": "sādhyādarśī nirāyāsaḥ kurvannapi na lipyate||11|4||",
+              "segment_number": 228
             }
           ]
         },
@@ -2446,11 +2674,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "cintayā jāyate duḥkhaṃ nānyatheheti niścayī|"
+              "text": "cintayā jāyate duḥkhaṃ nānyatheheti niścayī|",
+              "segment_number": 229
             },
             {
               "tag": "l",
-              "text": "tayā hīnaḥ sukhī śāntaḥ sarvatra galitaspṛhaḥ||11|5||"
+              "text": "tayā hīnaḥ sukhī śāntaḥ sarvatra galitaspṛhaḥ||11|5||",
+              "segment_number": 230
             }
           ]
         },
@@ -2462,11 +2692,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nāhaṃ deho na me deho bodho+ahamiti niścayī|"
+              "text": "nāhaṃ deho na me deho bodho+ahamiti niścayī|",
+              "segment_number": 231
             },
             {
               "tag": "l",
-              "text": "kaivalyamiva saṃprāpto na smaratyakṛtaṃ kṛtam||11|6||"
+              "text": "kaivalyamiva saṃprāpto na smaratyakṛtaṃ kṛtam||11|6||",
+              "segment_number": 232
             }
           ]
         },
@@ -2478,11 +2710,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ābrahmastambaparyantamahameveti niścayī|"
+              "text": "ābrahmastambaparyantamahameveti niścayī|",
+              "segment_number": 233
             },
             {
               "tag": "l",
-              "text": "nirvikalpaḥ śuciḥ śāntaḥ prāptāprāptavinirvṛtaḥ||11|7||"
+              "text": "nirvikalpaḥ śuciḥ śāntaḥ prāptāprāptavinirvṛtaḥ||11|7||",
+              "segment_number": 234
             }
           ]
         },
@@ -2494,11 +2728,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nānāścaryamidaṃ viśvaṃ na kiñciditi niścayī|"
+              "text": "nānāścaryamidaṃ viśvaṃ na kiñciditi niścayī|",
+              "segment_number": 235
             },
             {
               "tag": "l",
-              "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||11|8||"
+              "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||11|8||",
+              "segment_number": 236
             }
           ]
         }
@@ -2512,7 +2748,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 12"
+          "text": "Prakaraṇa 12",
+          "segment_number": 237
         },
         {
           "tag": "p",
@@ -2522,7 +2759,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||12||"
+              "text": "janaka uvāca||12||",
+              "segment_number": 238
             }
           ]
         },
@@ -2534,11 +2772,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kāyakṛtyāsahaḥ pūrvaṃ tato vāgvistarāsahaḥ|"
+              "text": "kāyakṛtyāsahaḥ pūrvaṃ tato vāgvistarāsahaḥ|",
+              "segment_number": 239
             },
             {
               "tag": "l",
-              "text": "atha cintāsahastasmādevamevāhamāsthitaḥ||12|1||"
+              "text": "atha cintāsahastasmādevamevāhamāsthitaḥ||12|1||",
+              "segment_number": 240
             }
           ]
         },
@@ -2550,11 +2790,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "prītyabhāvena śabdāderadṛśyatvena cātmanaḥ|"
+              "text": "prītyabhāvena śabdāderadṛśyatvena cātmanaḥ|",
+              "segment_number": 241
             },
             {
               "tag": "l",
-              "text": "vikṣepaikāgryahṛdaya evamevāhamāsthitaḥ||12|2||"
+              "text": "vikṣepaikāgryahṛdaya evamevāhamāsthitaḥ||12|2||",
+              "segment_number": 242
             }
           ]
         },
@@ -2566,11 +2808,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "samādhyāsādivikṣiptau vyavahāraḥ samādhaye|"
+              "text": "samādhyāsādivikṣiptau vyavahāraḥ samādhaye|",
+              "segment_number": 243
             },
             {
               "tag": "l",
-              "text": "evaṃ vilokya niyamamevamevāhamāsthitaḥ||12|3||"
+              "text": "evaṃ vilokya niyamamevamevāhamāsthitaḥ||12|3||",
+              "segment_number": 244
             }
           ]
         },
@@ -2582,11 +2826,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "heyopādeyavirahādevaṃ harṣaviṣādayoḥ|"
+              "text": "heyopādeyavirahādevaṃ harṣaviṣādayoḥ|",
+              "segment_number": 245
             },
             {
               "tag": "l",
-              "text": "abhāvādadya he brahmannevamevāhamāsthitaḥ||12|4||"
+              "text": "abhāvādadya he brahmannevamevāhamāsthitaḥ||12|4||",
+              "segment_number": 246
             }
           ]
         },
@@ -2598,11 +2844,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "āśramānāśramaṃ dhyānaṃ cittasvīkṛtavarjanam|"
+              "text": "āśramānāśramaṃ dhyānaṃ cittasvīkṛtavarjanam|",
+              "segment_number": 247
             },
             {
               "tag": "l",
-              "text": "vikalpaṃ mama vīkṣyaitairevamevāhamāsthitaḥ||12|5||"
+              "text": "vikalpaṃ mama vīkṣyaitairevamevāhamāsthitaḥ||12|5||",
+              "segment_number": 248
             }
           ]
         },
@@ -2614,11 +2862,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "karmānuṣṭhānamajñānādyathaivoparamastathā|"
+              "text": "karmānuṣṭhānamajñānādyathaivoparamastathā|",
+              "segment_number": 249
             },
             {
               "tag": "l",
-              "text": "budhvā samyagidaṃ tattvamevamevāhamāsthitaḥ||12|6||"
+              "text": "budhvā samyagidaṃ tattvamevamevāhamāsthitaḥ||12|6||",
+              "segment_number": 250
             }
           ]
         },
@@ -2630,11 +2880,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "acintyaṃ cintyamāno+api cintārūpaṃ bhajatyasau|"
+              "text": "acintyaṃ cintyamāno+api cintārūpaṃ bhajatyasau|",
+              "segment_number": 251
             },
             {
               "tag": "l",
-              "text": "tyaktvā tadbhāvanaṃ tasmādevamevāhamāsthitaḥ||12|7||"
+              "text": "tyaktvā tadbhāvanaṃ tasmādevamevāhamāsthitaḥ||12|7||",
+              "segment_number": 252
             }
           ]
         },
@@ -2646,11 +2898,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "evameva kṛtaṃ yena sa kṛtārtho bhavedasau|"
+              "text": "evameva kṛtaṃ yena sa kṛtārtho bhavedasau|",
+              "segment_number": 253
             },
             {
               "tag": "l",
-              "text": "evameva svabhāvo yaḥ sa kṛtārtho bhavedasau||12|8||"
+              "text": "evameva svabhāvo yaḥ sa kṛtārtho bhavedasau||12|8||",
+              "segment_number": 254
             }
           ]
         }
@@ -2664,7 +2918,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 13"
+          "text": "Prakaraṇa 13",
+          "segment_number": 255
         },
         {
           "tag": "p",
@@ -2674,7 +2929,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||13||"
+              "text": "janaka uvāca||13||",
+              "segment_number": 256
             }
           ]
         },
@@ -2686,11 +2942,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "akiñcanabhavaṃ svāsthyaṃ kaupīnatve+api durlabham|"
+              "text": "akiñcanabhavaṃ svāsthyaṃ kaupīnatve+api durlabham|",
+              "segment_number": 257
             },
             {
               "tag": "l",
-              "text": "tyāgādāne vihāyāsmādahamāse yathāsukham||13|1||"
+              "text": "tyāgādāne vihāyāsmādahamāse yathāsukham||13|1||",
+              "segment_number": 258
             }
           ]
         },
@@ -2702,11 +2960,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kutrāpi khedaḥ kāyasya jihvā kutrāpi khidyate|"
+              "text": "kutrāpi khedaḥ kāyasya jihvā kutrāpi khidyate|",
+              "segment_number": 259
             },
             {
               "tag": "l",
-              "text": "manaḥ kutrāpi tattyaktvā puruṣārthe sthitaḥ sukham||13|2||"
+              "text": "manaḥ kutrāpi tattyaktvā puruṣārthe sthitaḥ sukham||13|2||",
+              "segment_number": 260
             }
           ]
         },
@@ -2718,11 +2978,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kṛtaṃ kimapi naiva syāditi saṃcintya tattvataḥ|"
+              "text": "kṛtaṃ kimapi naiva syāditi saṃcintya tattvataḥ|",
+              "segment_number": 261
             },
             {
               "tag": "l",
-              "text": "yadā yatkartumāyāti tatkṛtvā+a+ase yathāsukham||13|3||"
+              "text": "yadā yatkartumāyāti tatkṛtvā+a+ase yathāsukham||13|3||",
+              "segment_number": 262
             }
           ]
         },
@@ -2734,11 +2996,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "karmanaiṣkarmyanirbandhabhāvā dehasthayoginaḥ|"
+              "text": "karmanaiṣkarmyanirbandhabhāvā dehasthayoginaḥ|",
+              "segment_number": 263
             },
             {
               "tag": "l",
-              "text": "saṃyogāyogavirahādahamāse yathāsukham||13|4||"
+              "text": "saṃyogāyogavirahādahamāse yathāsukham||13|4||",
+              "segment_number": 264
             }
           ]
         },
@@ -2750,11 +3014,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "arthānarthau na me sthityā gatyā na śayanena vā|"
+              "text": "arthānarthau na me sthityā gatyā na śayanena vā|",
+              "segment_number": 265
             },
             {
               "tag": "l",
-              "text": "tiṣṭhangacchansvapantasmādahamāse yathāsukham||13|5||"
+              "text": "tiṣṭhangacchansvapantasmādahamāse yathāsukham||13|5||",
+              "segment_number": 266
             }
           ]
         },
@@ -2766,11 +3032,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "svapato nāsti me hāniḥ siddhiryatnavato na vā|"
+              "text": "svapato nāsti me hāniḥ siddhiryatnavato na vā|",
+              "segment_number": 267
             },
             {
               "tag": "l",
-              "text": "nāśollāsau vihāyāsmādahamāse yathāsukham||13|6||"
+              "text": "nāśollāsau vihāyāsmādahamāse yathāsukham||13|6||",
+              "segment_number": 268
             }
           ]
         },
@@ -2782,11 +3050,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sukhādirūpā+aniyamaṃ bhāveṣvālokya bhūriśaḥ|"
+              "text": "sukhādirūpā+aniyamaṃ bhāveṣvālokya bhūriśaḥ|",
+              "segment_number": 269
             },
             {
               "tag": "l",
-              "text": "śubhāśubhe vihāyāsmādahamāse yathāsukham||13|7||"
+              "text": "śubhāśubhe vihāyāsmādahamāse yathāsukham||13|7||",
+              "segment_number": 270
             }
           ]
         }
@@ -2800,7 +3070,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 14"
+          "text": "Prakaraṇa 14",
+          "segment_number": 271
         },
         {
           "tag": "p",
@@ -2810,7 +3081,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||14||"
+              "text": "janaka uvāca||14||",
+              "segment_number": 272
             }
           ]
         },
@@ -2822,11 +3094,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "prakṛtyā śūnyacitto yaḥ pramādādbhāvabhāvanaḥ|"
+              "text": "prakṛtyā śūnyacitto yaḥ pramādādbhāvabhāvanaḥ|",
+              "segment_number": 273
             },
             {
               "tag": "l",
-              "text": "nidrito bodhita iva kṣīṇasaṃsaraṇo hi saḥ||14|1||"
+              "text": "nidrito bodhita iva kṣīṇasaṃsaraṇo hi saḥ||14|1||",
+              "segment_number": 274
             }
           ]
         },
@@ -2838,11 +3112,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva dhanāni kva mitrāṇi kva me viṣayadasyavaḥ|"
+              "text": "kva dhanāni kva mitrāṇi kva me viṣayadasyavaḥ|",
+              "segment_number": 275
             },
             {
               "tag": "l",
-              "text": "kva śāstraṃ kva ca vijñānaṃ yadā me galitā spṛhā||14|2||"
+              "text": "kva śāstraṃ kva ca vijñānaṃ yadā me galitā spṛhā||14|2||",
+              "segment_number": 276
             }
           ]
         },
@@ -2854,11 +3130,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vijñāte sākṣipuruṣe paramātmani ceśvare|"
+              "text": "vijñāte sākṣipuruṣe paramātmani ceśvare|",
+              "segment_number": 277
             },
             {
               "tag": "l",
-              "text": "nairāśye bandhamokṣe ca na cintā muktaye mama||14|3||"
+              "text": "nairāśye bandhamokṣe ca na cintā muktaye mama||14|3||",
+              "segment_number": 278
             }
           ]
         },
@@ -2870,11 +3148,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "antarvikalpaśūnyasya bahiḥ svacchandacāriṇaḥ|"
+              "text": "antarvikalpaśūnyasya bahiḥ svacchandacāriṇaḥ|",
+              "segment_number": 279
             },
             {
               "tag": "l",
-              "text": "bhrāntasyeva daśāstāstāstādṛśā eva jānate||14|4||"
+              "text": "bhrāntasyeva daśāstāstāstādṛśā eva jānate||14|4||",
+              "segment_number": 280
             }
           ]
         }
@@ -2888,7 +3168,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 15"
+          "text": "Prakaraṇa 15",
+          "segment_number": 281
         },
         {
           "tag": "p",
@@ -2898,7 +3179,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||15||"
+              "text": "aṣṭāvakra uvāca||15||",
+              "segment_number": 282
             }
           ]
         },
@@ -2910,11 +3192,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yathātathopadeśena kṛtārthaḥ sattvabuddhimān|"
+              "text": "yathātathopadeśena kṛtārthaḥ sattvabuddhimān|",
+              "segment_number": 283
             },
             {
               "tag": "l",
-              "text": "ājīvamapi jijñāsuḥ parastatra vimuhyati||15|1||"
+              "text": "ājīvamapi jijñāsuḥ parastatra vimuhyati||15|1||",
+              "segment_number": 284
             }
           ]
         },
@@ -2926,11 +3210,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mokṣo viṣayavairasyaṃ bandho vaiṣayiko rasaḥ|"
+              "text": "mokṣo viṣayavairasyaṃ bandho vaiṣayiko rasaḥ|",
+              "segment_number": 285
             },
             {
               "tag": "l",
-              "text": "etāvadeva vijñānaṃ yathecchasi tathā kuru||15|2||"
+              "text": "etāvadeva vijñānaṃ yathecchasi tathā kuru||15|2||",
+              "segment_number": 286
             }
           ]
         },
@@ -2942,11 +3228,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vāgmiprājñamahodyogaṃ janaṃ mūkajaḍālasam|"
+              "text": "vāgmiprājñamahodyogaṃ janaṃ mūkajaḍālasam|",
+              "segment_number": 287
             },
             {
               "tag": "l",
-              "text": "karoti tattvabodho+ayamatastyakto bubhukṣubhiḥ||15|3||"
+              "text": "karoti tattvabodho+ayamatastyakto bubhukṣubhiḥ||15|3||",
+              "segment_number": 288
             }
           ]
         },
@@ -2958,11 +3246,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na tvaṃ deho na te deho bhoktā kartā na vā bhavān|"
+              "text": "na tvaṃ deho na te deho bhoktā kartā na vā bhavān|",
+              "segment_number": 289
             },
             {
               "tag": "l",
-              "text": "cidrūpo+asi sadā sākṣī nirapekṣaḥ sukhaṃ cara||15|4||"
+              "text": "cidrūpo+asi sadā sākṣī nirapekṣaḥ sukhaṃ cara||15|4||",
+              "segment_number": 290
             }
           ]
         },
@@ -2974,11 +3264,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "rāgadveṣau manodharmau na manaste kadācana|"
+              "text": "rāgadveṣau manodharmau na manaste kadācana|",
+              "segment_number": 291
             },
             {
               "tag": "l",
-              "text": "nirvikalpo+asi bodhātmā nirvikāraḥ sukhaṃ cara||15|5||"
+              "text": "nirvikalpo+asi bodhātmā nirvikāraḥ sukhaṃ cara||15|5||",
+              "segment_number": 292
             }
           ]
         },
@@ -2990,11 +3282,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|"
+              "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|",
+              "segment_number": 293
             },
             {
               "tag": "l",
-              "text": "vijñāya nirahaṃkāro nirmamastvaṃ sukhī bhava||15|6||"
+              "text": "vijñāya nirahaṃkāro nirmamastvaṃ sukhī bhava||15|6||",
+              "segment_number": 294
             }
           ]
         },
@@ -3006,11 +3300,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|"
+              "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|",
+              "segment_number": 295
             },
             {
               "tag": "l",
-              "text": "tattvameva na sandehaścinmūrte vijvaro bhava||15|7||"
+              "text": "tattvameva na sandehaścinmūrte vijvaro bhava||15|7||",
+              "segment_number": 296
             }
           ]
         },
@@ -3022,11 +3318,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śraddhatsva tāta śraddhatsva nātra mohaṃ kuruṣva bhoḥ|"
+              "text": "śraddhatsva tāta śraddhatsva nātra mohaṃ kuruṣva bhoḥ|",
+              "segment_number": 297
             },
             {
               "tag": "l",
-              "text": "jñānasvarūpo bhagavānātmā tvaṃ prakṛteḥ paraḥ||15|8||"
+              "text": "jñānasvarūpo bhagavānātmā tvaṃ prakṛteḥ paraḥ||15|8||",
+              "segment_number": 298
             }
           ]
         },
@@ -3038,11 +3336,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "guṇaiḥ saṃveṣṭito dehastiṣṭhatyāyāti yāti ca|"
+              "text": "guṇaiḥ saṃveṣṭito dehastiṣṭhatyāyāti yāti ca|",
+              "segment_number": 299
             },
             {
               "tag": "l",
-              "text": "ātmā na gantā nāgantā kimenamanuśocasi||15|9||"
+              "text": "ātmā na gantā nāgantā kimenamanuśocasi||15|9||",
+              "segment_number": 300
             }
           ]
         },
@@ -3054,11 +3354,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dehastiṣṭhatu kalpāntaṃ gacchatvadyaiva vā punaḥ|"
+              "text": "dehastiṣṭhatu kalpāntaṃ gacchatvadyaiva vā punaḥ|",
+              "segment_number": 301
             },
             {
               "tag": "l",
-              "text": "kva vṛddhiḥ kva ca vā hānistava cinmātrarūpiṇaḥ||15|10||"
+              "text": "kva vṛddhiḥ kva ca vā hānistava cinmātrarūpiṇaḥ||15|10||",
+              "segment_number": 302
             }
           ]
         },
@@ -3070,11 +3372,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tvayyanantamahāmbhodhau viśvavīciḥ svabhāvataḥ|"
+              "text": "tvayyanantamahāmbhodhau viśvavīciḥ svabhāvataḥ|",
+              "segment_number": 303
             },
             {
               "tag": "l",
-              "text": "udetu vā+astamāyātu na te vṛddhirna vā kṣatiḥ||15|11||"
+              "text": "udetu vā+astamāyātu na te vṛddhirna vā kṣatiḥ||15|11||",
+              "segment_number": 304
             }
           ]
         },
@@ -3086,11 +3390,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tāta cinmātrarūpo+asi na te bhinnamidaṃ jagat|"
+              "text": "tāta cinmātrarūpo+asi na te bhinnamidaṃ jagat|",
+              "segment_number": 305
             },
             {
               "tag": "l",
-              "text": "ataḥ kasya kathaṃ kutra heyopādeyakalpanā||15|12||"
+              "text": "ataḥ kasya kathaṃ kutra heyopādeyakalpanā||15|12||",
+              "segment_number": 306
             }
           ]
         },
@@ -3102,11 +3408,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ekasminnavyaye śānte cidākāśe+amale tvayi|"
+              "text": "ekasminnavyaye śānte cidākāśe+amale tvayi|",
+              "segment_number": 307
             },
             {
               "tag": "l",
-              "text": "kuto janma kuto karma kuto+ahaṃkāra eva ca||15|13||"
+              "text": "kuto janma kuto karma kuto+ahaṃkāra eva ca||15|13||",
+              "segment_number": 308
             }
           ]
         },
@@ -3118,11 +3426,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yattvaṃ paśyasi tatraikastvameva pratibhāsase|"
+              "text": "yattvaṃ paśyasi tatraikastvameva pratibhāsase|",
+              "segment_number": 309
             },
             {
               "tag": "l",
-              "text": "kiṃ pṛthagbhāsate svarṇātkaṭakāṅgadanūpuram||15|14||"
+              "text": "kiṃ pṛthagbhāsate svarṇātkaṭakāṅgadanūpuram||15|14||",
+              "segment_number": 310
             }
           ]
         },
@@ -3134,11 +3444,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ayaṃ so+ahamayaṃ nāhaṃ vibhāgamiti saṃtyaja|"
+              "text": "ayaṃ so+ahamayaṃ nāhaṃ vibhāgamiti saṃtyaja|",
+              "segment_number": 311
             },
             {
               "tag": "l",
-              "text": "sarvamātmeti niścitya niḥsaṃkalpaḥ sukhī bhava||15|15||"
+              "text": "sarvamātmeti niścitya niḥsaṃkalpaḥ sukhī bhava||15|15||",
+              "segment_number": 312
             }
           ]
         },
@@ -3150,11 +3462,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tavaivājñānato viśvaṃ tvamekaḥ paramārthataḥ|"
+              "text": "tavaivājñānato viśvaṃ tvamekaḥ paramārthataḥ|",
+              "segment_number": 313
             },
             {
               "tag": "l",
-              "text": "tvatto+anyo nāsti saṃsārī nāsaṃsārī ca kaścana||15|16||"
+              "text": "tvatto+anyo nāsti saṃsārī nāsaṃsārī ca kaścana||15|16||",
+              "segment_number": 314
             }
           ]
         },
@@ -3166,11 +3480,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhrāntimātramidaṃ viśvaṃ na kiñciditi niścayī|"
+              "text": "bhrāntimātramidaṃ viśvaṃ na kiñciditi niścayī|",
+              "segment_number": 315
             },
             {
               "tag": "l",
-              "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||15|17||"
+              "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||15|17||",
+              "segment_number": 316
             }
           ]
         },
@@ -3182,11 +3498,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "eka eva bhavāmbhodhāvāsīdasti bhaviṣyati|"
+              "text": "eka eva bhavāmbhodhāvāsīdasti bhaviṣyati|",
+              "segment_number": 317
             },
             {
               "tag": "l",
-              "text": "na te bandho+asti mokṣo vā kṛtakṛtyaḥ sukhaṃ cara||15|18||"
+              "text": "na te bandho+asti mokṣo vā kṛtakṛtyaḥ sukhaṃ cara||15|18||",
+              "segment_number": 318
             }
           ]
         },
@@ -3198,11 +3516,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mā saṃkalpavikalpābhyāṃ cittaṃ kṣobhaya cinmaya|"
+              "text": "mā saṃkalpavikalpābhyāṃ cittaṃ kṣobhaya cinmaya|",
+              "segment_number": 319
             },
             {
               "tag": "l",
-              "text": "upaśāmya sukhaṃ tiṣṭha svātmanyānandavigrahe||15|19||"
+              "text": "upaśāmya sukhaṃ tiṣṭha svātmanyānandavigrahe||15|19||",
+              "segment_number": 320
             }
           ]
         },
@@ -3214,11 +3534,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tyajaiva dhyānaṃ sarvatra mā kiñciddhṛdi dhāraya|"
+              "text": "tyajaiva dhyānaṃ sarvatra mā kiñciddhṛdi dhāraya|",
+              "segment_number": 321
             },
             {
               "tag": "l",
-              "text": "ātmā tvaṃ mukta evāsi kiṃ vimṛśya kariṣyasi||15|20||"
+              "text": "ātmā tvaṃ mukta evāsi kiṃ vimṛśya kariṣyasi||15|20||",
+              "segment_number": 322
             }
           ]
         }
@@ -3232,7 +3554,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 16"
+          "text": "Prakaraṇa 16",
+          "segment_number": 323
         },
         {
           "tag": "p",
@@ -3242,7 +3565,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||16||"
+              "text": "aṣṭāvakra uvāca||16||",
+              "segment_number": 324
             }
           ]
         },
@@ -3254,11 +3578,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ācakṣva śṛṇu vā tāta nānāśāstrāṇyanekaśaḥ|"
+              "text": "ācakṣva śṛṇu vā tāta nānāśāstrāṇyanekaśaḥ|",
+              "segment_number": 325
             },
             {
               "tag": "l",
-              "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|1||"
+              "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|1||",
+              "segment_number": 326
             }
           ]
         },
@@ -3270,11 +3596,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhogaṃ karma samādhiṃ vā kuru vijña tathāpi te|"
+              "text": "bhogaṃ karma samādhiṃ vā kuru vijña tathāpi te|",
+              "segment_number": 327
             },
             {
               "tag": "l",
-              "text": "cittaṃ nirastasarvāśamatyarthaṃ rocayiṣyati||16|2||"
+              "text": "cittaṃ nirastasarvāśamatyarthaṃ rocayiṣyati||16|2||",
+              "segment_number": 328
             }
           ]
         },
@@ -3286,11 +3614,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "āyāsātsakalo duḥkhī nainaṃ jānāti kaścana|"
+              "text": "āyāsātsakalo duḥkhī nainaṃ jānāti kaścana|",
+              "segment_number": 329
             },
             {
               "tag": "l",
-              "text": "anenaivopadeśena dhanyaḥ prāpnoti nirvṛtim||16|3||"
+              "text": "anenaivopadeśena dhanyaḥ prāpnoti nirvṛtim||16|3||",
+              "segment_number": 330
             }
           ]
         },
@@ -3302,11 +3632,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vyāpāre khidyate yastu nimeṣonmeṣayorapi|"
+              "text": "vyāpāre khidyate yastu nimeṣonmeṣayorapi|",
+              "segment_number": 331
             },
             {
               "tag": "l",
-              "text": "tasyālasyadhurīṇasya sukhaṃ nā+anyasya kasyacit||16|4||"
+              "text": "tasyālasyadhurīṇasya sukhaṃ nā+anyasya kasyacit||16|4||",
+              "segment_number": 332
             }
           ]
         },
@@ -3318,11 +3650,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "idaṃ kṛtamidaṃ neti dvandvairmuktaṃ yadā manaḥ|"
+              "text": "idaṃ kṛtamidaṃ neti dvandvairmuktaṃ yadā manaḥ|",
+              "segment_number": 333
             },
             {
               "tag": "l",
-              "text": "dharmārthakāmamokṣeṣu nirapekṣaṃ tadā bhavet||16|5||"
+              "text": "dharmārthakāmamokṣeṣu nirapekṣaṃ tadā bhavet||16|5||",
+              "segment_number": 334
             }
           ]
         },
@@ -3334,11 +3668,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "virakto viṣayadveṣṭā rāgī viṣayalolupaḥ|"
+              "text": "virakto viṣayadveṣṭā rāgī viṣayalolupaḥ|",
+              "segment_number": 335
             },
             {
               "tag": "l",
-              "text": "grahamokṣavihīnastu na virakto na rāgavān||16|6||"
+              "text": "grahamokṣavihīnastu na virakto na rāgavān||16|6||",
+              "segment_number": 336
             }
           ]
         },
@@ -3350,11 +3686,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "heyopādeyatā tāvatsaṃsāraviṭapāṅkuraḥ|"
+              "text": "heyopādeyatā tāvatsaṃsāraviṭapāṅkuraḥ|",
+              "segment_number": 337
             },
             {
               "tag": "l",
-              "text": "spṛhā jīvati yāvadvai nirvicāradaśāspadam||16|7||"
+              "text": "spṛhā jīvati yāvadvai nirvicāradaśāspadam||16|7||",
+              "segment_number": 338
             }
           ]
         },
@@ -3366,11 +3704,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "pravṛttau jāyate rāgo nivṛttau dveṣa eva hi|"
+              "text": "pravṛttau jāyate rāgo nivṛttau dveṣa eva hi|",
+              "segment_number": 339
             },
             {
               "tag": "l",
-              "text": "nirdvandvo bālavaddhīmānevameva vyavasthitaḥ||16|8||"
+              "text": "nirdvandvo bālavaddhīmānevameva vyavasthitaḥ||16|8||",
+              "segment_number": 340
             }
           ]
         },
@@ -3382,11 +3722,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "hātumicchati saṃsāraṃ rāgī duḥkhajihāsayā|"
+              "text": "hātumicchati saṃsāraṃ rāgī duḥkhajihāsayā|",
+              "segment_number": 341
             },
             {
               "tag": "l",
-              "text": "vītarāgo hi nirduḥkhastasminnapi na khidyati||16|9||"
+              "text": "vītarāgo hi nirduḥkhastasminnapi na khidyati||16|9||",
+              "segment_number": 342
             }
           ]
         },
@@ -3398,11 +3740,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yasyābhimāno mokṣe+api dehe+api mamatā tathā|"
+              "text": "yasyābhimāno mokṣe+api dehe+api mamatā tathā|",
+              "segment_number": 343
             },
             {
               "tag": "l",
-              "text": "na ca jñānī na vā yogī kevalaṃ duḥkhabhāgasau||16|10||"
+              "text": "na ca jñānī na vā yogī kevalaṃ duḥkhabhāgasau||16|10||",
+              "segment_number": 344
             }
           ]
         },
@@ -3414,11 +3758,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "haro yadyupadeṣṭā te hariḥ kamalajo+api vā|"
+              "text": "haro yadyupadeṣṭā te hariḥ kamalajo+api vā|",
+              "segment_number": 345
             },
             {
               "tag": "l",
-              "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|11||"
+              "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|11||",
+              "segment_number": 346
             }
           ]
         }
@@ -3432,7 +3778,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 17"
+          "text": "Prakaraṇa 17",
+          "segment_number": 347
         },
         {
           "tag": "p",
@@ -3442,7 +3789,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||17||"
+              "text": "aṣṭāvakra uvāca||17||",
+              "segment_number": 348
             }
           ]
         },
@@ -3454,11 +3802,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tena jñānaphalaṃ prāptaṃ yogābhyāsaphalaṃ tathā|"
+              "text": "tena jñānaphalaṃ prāptaṃ yogābhyāsaphalaṃ tathā|",
+              "segment_number": 349
             },
             {
               "tag": "l",
-              "text": "tṛptaḥ svacchendriyo nityamekākī ramate tu yaḥ||17|1||"
+              "text": "tṛptaḥ svacchendriyo nityamekākī ramate tu yaḥ||17|1||",
+              "segment_number": 350
             }
           ]
         },
@@ -3470,11 +3820,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na kadācijjagatyasmiṃstattvajño hanta khidyati|"
+              "text": "na kadācijjagatyasmiṃstattvajño hanta khidyati|",
+              "segment_number": 351
             },
             {
               "tag": "l",
-              "text": "yata ekena tenedaṃ pūrṇaṃ brahmāṇḍamaṇḍalam||17|2||"
+              "text": "yata ekena tenedaṃ pūrṇaṃ brahmāṇḍamaṇḍalam||17|2||",
+              "segment_number": 352
             }
           ]
         },
@@ -3486,11 +3838,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na jātu viṣayāḥ ke+api svārāmaṃ harṣayantyamī|"
+              "text": "na jātu viṣayāḥ ke+api svārāmaṃ harṣayantyamī|",
+              "segment_number": 353
             },
             {
               "tag": "l",
-              "text": "sallakīpallavaprītamivebhaṃ nimbapallavāḥ||17|3||"
+              "text": "sallakīpallavaprītamivebhaṃ nimbapallavāḥ||17|3||",
+              "segment_number": 354
             }
           ]
         },
@@ -3502,11 +3856,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yastu bhogeṣu bhukteṣu na bhavatyadhivāsitaḥ|"
+              "text": "yastu bhogeṣu bhukteṣu na bhavatyadhivāsitaḥ|",
+              "segment_number": 355
             },
             {
               "tag": "l",
-              "text": "abhukteṣu nirākāṅkṣī tādṛśo bhavadurlabhaḥ||17|4||"
+              "text": "abhukteṣu nirākāṅkṣī tādṛśo bhavadurlabhaḥ||17|4||",
+              "segment_number": 356
             }
           ]
         },
@@ -3518,11 +3874,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bubhukṣuriha saṃsāre mumukṣurapi dṛśyate|"
+              "text": "bubhukṣuriha saṃsāre mumukṣurapi dṛśyate|",
+              "segment_number": 357
             },
             {
               "tag": "l",
-              "text": "bhogamokṣanirākāṅkṣī viralo hi mahāśayaḥ||17|5||"
+              "text": "bhogamokṣanirākāṅkṣī viralo hi mahāśayaḥ||17|5||",
+              "segment_number": 358
             }
           ]
         },
@@ -3534,11 +3892,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dharmārthakāmamokṣeṣu jīvite maraṇe tathā|"
+              "text": "dharmārthakāmamokṣeṣu jīvite maraṇe tathā|",
+              "segment_number": 359
             },
             {
               "tag": "l",
-              "text": "kasyāpyudāracittasya heyopādeyatā na hi||17|6||"
+              "text": "kasyāpyudāracittasya heyopādeyatā na hi||17|6||",
+              "segment_number": 360
             }
           ]
         },
@@ -3550,11 +3910,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vāñchā na viśvavilaye na dveṣastasya ca sthitau|"
+              "text": "vāñchā na viśvavilaye na dveṣastasya ca sthitau|",
+              "segment_number": 361
             },
             {
               "tag": "l",
-              "text": "yathājīvikayā tasmāddhanya āste yathāsukham||17|7||"
+              "text": "yathājīvikayā tasmāddhanya āste yathāsukham||17|7||",
+              "segment_number": 362
             }
           ]
         },
@@ -3566,11 +3928,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kṛtārtho+anena jñānenetyevaṃ galitadhīḥ kṛtī|"
+              "text": "kṛtārtho+anena jñānenetyevaṃ galitadhīḥ kṛtī|",
+              "segment_number": 363
             },
             {
               "tag": "l",
-              "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||17|8||"
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||17|8||",
+              "segment_number": 364
             }
           ]
         },
@@ -3582,11 +3946,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śūnyā dṛṣṭirvṛthā ceṣṭā vikalānīndriyāṇi ca|"
+              "text": "śūnyā dṛṣṭirvṛthā ceṣṭā vikalānīndriyāṇi ca|",
+              "segment_number": 365
             },
             {
               "tag": "l",
-              "text": "na spṛhā na viraktirvā kṣīṇasaṃsārasāgare||17|9||"
+              "text": "na spṛhā na viraktirvā kṣīṇasaṃsārasāgare||17|9||",
+              "segment_number": 366
             }
           ]
         },
@@ -3598,11 +3964,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na jāgarti na nidrāti nonmīlati na mīlati|"
+              "text": "na jāgarti na nidrāti nonmīlati na mīlati|",
+              "segment_number": 367
             },
             {
               "tag": "l",
-              "text": "aho paradaśā kā+api vartate muktacetasaḥ||17|10||"
+              "text": "aho paradaśā kā+api vartate muktacetasaḥ||17|10||",
+              "segment_number": 368
             }
           ]
         },
@@ -3614,11 +3982,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sarvatra dṛśyate svasthaḥ sarvatra vimalāśayaḥ|"
+              "text": "sarvatra dṛśyate svasthaḥ sarvatra vimalāśayaḥ|",
+              "segment_number": 369
             },
             {
               "tag": "l",
-              "text": "samastavāsanāmukto muktaḥ sarvatra rājate||17|11||"
+              "text": "samastavāsanāmukto muktaḥ sarvatra rājate||17|11||",
+              "segment_number": 370
             }
           ]
         },
@@ -3630,11 +4000,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "paśyañchṛṇvanspṛśañjighrannaśnangṛhṇanvadanvrajan|"
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnangṛhṇanvadanvrajan|",
+              "segment_number": 371
             },
             {
               "tag": "l",
-              "text": "īhitā+anīhitairmukto mukta eva mahāśayaḥ||17|12||"
+              "text": "īhitā+anīhitairmukto mukta eva mahāśayaḥ||17|12||",
+              "segment_number": 372
             }
           ]
         },
@@ -3646,11 +4018,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na nindati na ca stauti na hṛṣyati na kupyati|"
+              "text": "na nindati na ca stauti na hṛṣyati na kupyati|",
+              "segment_number": 373
             },
             {
               "tag": "l",
-              "text": "na dadāti na gṛhṇāti muktaḥ sarvatra nīrasaḥ||17|13||"
+              "text": "na dadāti na gṛhṇāti muktaḥ sarvatra nīrasaḥ||17|13||",
+              "segment_number": 374
             }
           ]
         },
@@ -3662,11 +4036,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sānurāgāṃ striyaṃ dṛṣṭvā mṛtyuṃ vā samupasthitam|"
+              "text": "sānurāgāṃ striyaṃ dṛṣṭvā mṛtyuṃ vā samupasthitam|",
+              "segment_number": 375
             },
             {
               "tag": "l",
-              "text": "avihvalamanāḥ svastho mukta eva mahāśayaḥ||17|14||"
+              "text": "avihvalamanāḥ svastho mukta eva mahāśayaḥ||17|14||",
+              "segment_number": 376
             }
           ]
         },
@@ -3678,11 +4054,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sukhe duḥkhe nare nāryāṃ saṃpatsu vipatsu ca|"
+              "text": "sukhe duḥkhe nare nāryāṃ saṃpatsu vipatsu ca|",
+              "segment_number": 377
             },
             {
               "tag": "l",
-              "text": "viśeṣo naiva dhīrasya sarvatra samadarśinaḥ||17|15||"
+              "text": "viśeṣo naiva dhīrasya sarvatra samadarśinaḥ||17|15||",
+              "segment_number": 378
             }
           ]
         },
@@ -3694,11 +4072,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na hiṃsā naiva kāruṇyaṃ nauddhatyaṃ na ca dīnatā|"
+              "text": "na hiṃsā naiva kāruṇyaṃ nauddhatyaṃ na ca dīnatā|",
+              "segment_number": 379
             },
             {
               "tag": "l",
-              "text": "nāścaryaṃ naiva ca kṣobhaḥ kṣīṇasaṃsaraṇe nare||17|16||"
+              "text": "nāścaryaṃ naiva ca kṣobhaḥ kṣīṇasaṃsaraṇe nare||17|16||",
+              "segment_number": 380
             }
           ]
         },
@@ -3710,11 +4090,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na mukto viṣayadveṣṭā na vā viṣayalolupaḥ|"
+              "text": "na mukto viṣayadveṣṭā na vā viṣayalolupaḥ|",
+              "segment_number": 381
             },
             {
               "tag": "l",
-              "text": "asaṃsaktamanā nityaṃ prāptāprāptamupāśnute||17|17||"
+              "text": "asaṃsaktamanā nityaṃ prāptāprāptamupāśnute||17|17||",
+              "segment_number": 382
             }
           ]
         },
@@ -3726,11 +4108,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "samādhānāsamādhānahitāhitavikalpanāḥ|"
+              "text": "samādhānāsamādhānahitāhitavikalpanāḥ|",
+              "segment_number": 383
             },
             {
               "tag": "l",
-              "text": "śūnyacitto na jānāti kaivalyamiva saṃsthitaḥ||17|18||"
+              "text": "śūnyacitto na jānāti kaivalyamiva saṃsthitaḥ||17|18||",
+              "segment_number": 384
             }
           ]
         },
@@ -3742,11 +4126,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirmamo nirahaṃkāro na kiñciditi niścitaḥ|"
+              "text": "nirmamo nirahaṃkāro na kiñciditi niścitaḥ|",
+              "segment_number": 385
             },
             {
               "tag": "l",
-              "text": "antargalitasarvāśaḥ kurvannapi na lipyate [ karoti na ]||17|19||"
+              "text": "antargalitasarvāśaḥ kurvannapi na lipyate [ karoti na ]||17|19||",
+              "segment_number": 386
             }
           ]
         },
@@ -3758,11 +4144,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "manaḥprakāśasaṃmohasvapnajāḍyavivarjitaḥ|"
+              "text": "manaḥprakāśasaṃmohasvapnajāḍyavivarjitaḥ|",
+              "segment_number": 387
             },
             {
               "tag": "l",
-              "text": "daśāṃ kāmapi saṃprāpto bhavedgalitamānasaḥ||17|20||"
+              "text": "daśāṃ kāmapi saṃprāpto bhavedgalitamānasaḥ||17|20||",
+              "segment_number": 388
             }
           ]
         }
@@ -3776,7 +4164,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 18"
+          "text": "Prakaraṇa 18",
+          "segment_number": 389
         },
         {
           "tag": "p",
@@ -3786,7 +4175,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "aṣṭāvakra uvāca||18||"
+              "text": "aṣṭāvakra uvāca||18||",
+              "segment_number": 390
             }
           ]
         },
@@ -3798,11 +4188,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yasya bodhodaye tāvatsvapnavadbhavati bhramaḥ|"
+              "text": "yasya bodhodaye tāvatsvapnavadbhavati bhramaḥ|",
+              "segment_number": 391
             },
             {
               "tag": "l",
-              "text": "tasmai sukhaikarūpāya namaḥ śāntāya tejase||18|1||"
+              "text": "tasmai sukhaikarūpāya namaḥ śāntāya tejase||18|1||",
+              "segment_number": 392
             }
           ]
         },
@@ -3814,11 +4206,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "arjayitvākhilānarthānbhogānāpnoti puṣkalān|"
+              "text": "arjayitvākhilānarthānbhogānāpnoti puṣkalān|",
+              "segment_number": 393
             },
             {
               "tag": "l",
-              "text": "na hi sarvaparityāgamantareṇa sukhī bhavet||18|2||"
+              "text": "na hi sarvaparityāgamantareṇa sukhī bhavet||18|2||",
+              "segment_number": 394
             }
           ]
         },
@@ -3830,11 +4224,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kartavyaduḥkhamārtaṇḍajvālādagdhāntarātmanaḥ|"
+              "text": "kartavyaduḥkhamārtaṇḍajvālādagdhāntarātmanaḥ|",
+              "segment_number": 395
             },
             {
               "tag": "l",
-              "text": "kutaḥ praśamapīyūṣadhārāsāramṛte sukham||18|3||"
+              "text": "kutaḥ praśamapīyūṣadhārāsāramṛte sukham||18|3||",
+              "segment_number": 396
             }
           ]
         },
@@ -3846,11 +4242,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhavo+ayaṃ bhāvanāmātro na kiñcitparamārthataḥ|"
+              "text": "bhavo+ayaṃ bhāvanāmātro na kiñcitparamārthataḥ|",
+              "segment_number": 397
             },
             {
               "tag": "l",
-              "text": "nāstyabhāvaḥ svabhāvānāṃ bhāvābhāvavibhāvinām||18|4||"
+              "text": "nāstyabhāvaḥ svabhāvānāṃ bhāvābhāvavibhāvinām||18|4||",
+              "segment_number": 398
             }
           ]
         },
@@ -3862,11 +4260,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na dūraṃ na ca saṃkocāllabdhamevātmanaḥ padam|"
+              "text": "na dūraṃ na ca saṃkocāllabdhamevātmanaḥ padam|",
+              "segment_number": 399
             },
             {
               "tag": "l",
-              "text": "nirvikalpaṃ nirāyāsaṃ nirvikāraṃ nirañjanam||18|5||"
+              "text": "nirvikalpaṃ nirāyāsaṃ nirvikāraṃ nirañjanam||18|5||",
+              "segment_number": 400
             }
           ]
         },
@@ -3878,11 +4278,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vyāmohamātraviratau svarūpādānamātrataḥ|"
+              "text": "vyāmohamātraviratau svarūpādānamātrataḥ|",
+              "segment_number": 401
             },
             {
               "tag": "l",
-              "text": "vītaśokā virājante nirāvaraṇadṛṣṭayaḥ||18|6||"
+              "text": "vītaśokā virājante nirāvaraṇadṛṣṭayaḥ||18|6||",
+              "segment_number": 402
             }
           ]
         },
@@ -3894,11 +4296,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "samastaṃ kalpanāmātramātmā muktaḥ sanātanaḥ|"
+              "text": "samastaṃ kalpanāmātramātmā muktaḥ sanātanaḥ|",
+              "segment_number": 403
             },
             {
               "tag": "l",
-              "text": "iti vijñāya dhīro hi kimabhyasyati bālavat||18|7||"
+              "text": "iti vijñāya dhīro hi kimabhyasyati bālavat||18|7||",
+              "segment_number": 404
             }
           ]
         },
@@ -3910,11 +4314,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ātmā brahmeti niścitya bhāvābhāvau ca kalpitau|"
+              "text": "ātmā brahmeti niścitya bhāvābhāvau ca kalpitau|",
+              "segment_number": 405
             },
             {
               "tag": "l",
-              "text": "niṣkāmaḥ kiṃ vijānāti kiṃ brūte ca karoti kim||18|8||"
+              "text": "niṣkāmaḥ kiṃ vijānāti kiṃ brūte ca karoti kim||18|8||",
+              "segment_number": 406
             }
           ]
         },
@@ -3926,11 +4332,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ayaṃ so+ahamayaṃ nāhamiti kṣīṇā vikalpanā|"
+              "text": "ayaṃ so+ahamayaṃ nāhamiti kṣīṇā vikalpanā|",
+              "segment_number": 407
             },
             {
               "tag": "l",
-              "text": "sarvamātmeti niścitya tūṣṇīṃbhūtasya yoginaḥ||18|9||"
+              "text": "sarvamātmeti niścitya tūṣṇīṃbhūtasya yoginaḥ||18|9||",
+              "segment_number": 408
             }
           ]
         },
@@ -3942,11 +4350,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na vikṣepo na caikāgryaṃ nātibodho na mūḍhatā|"
+              "text": "na vikṣepo na caikāgryaṃ nātibodho na mūḍhatā|",
+              "segment_number": 409
             },
             {
               "tag": "l",
-              "text": "na sukhaṃ na ca vā duḥkhamupaśāntasya yoginaḥ||18|10||"
+              "text": "na sukhaṃ na ca vā duḥkhamupaśāntasya yoginaḥ||18|10||",
+              "segment_number": 410
             }
           ]
         },
@@ -3958,11 +4368,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "svārājye bhaikṣyavṛttau ca lābhālābhe jane vane|"
+              "text": "svārājye bhaikṣyavṛttau ca lābhālābhe jane vane|",
+              "segment_number": 411
             },
             {
               "tag": "l",
-              "text": "nirvikalpasvabhāvasya na viśeṣo+asti yoginaḥ||18|11||"
+              "text": "nirvikalpasvabhāvasya na viśeṣo+asti yoginaḥ||18|11||",
+              "segment_number": 412
             }
           ]
         },
@@ -3974,11 +4386,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|"
+              "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|",
+              "segment_number": 413
             },
             {
               "tag": "l",
-              "text": "idaṃ kṛtamidaṃ neti dvandvairmuktasya yoginaḥ||18|12||"
+              "text": "idaṃ kṛtamidaṃ neti dvandvairmuktasya yoginaḥ||18|12||",
+              "segment_number": 414
             }
           ]
         },
@@ -3990,11 +4404,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kṛtyaṃ kimapi naivāsti na kā+api hṛdi rañjanā|"
+              "text": "kṛtyaṃ kimapi naivāsti na kā+api hṛdi rañjanā|",
+              "segment_number": 415
             },
             {
               "tag": "l",
-              "text": "yathā jīvanameveha jīvanmuktasya yoginaḥ||18|13||"
+              "text": "yathā jīvanameveha jīvanmuktasya yoginaḥ||18|13||",
+              "segment_number": 416
             }
           ]
         },
@@ -4006,11 +4422,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva mohaḥ kva ca vā viśvaṃ kva taddhyānaṃ kva muktatā|"
+              "text": "kva mohaḥ kva ca vā viśvaṃ kva taddhyānaṃ kva muktatā|",
+              "segment_number": 417
             },
             {
               "tag": "l",
-              "text": "sarvasaṃkalpasīmāyāṃ viśrāntasya mahātmanaḥ||18|14||"
+              "text": "sarvasaṃkalpasīmāyāṃ viśrāntasya mahātmanaḥ||18|14||",
+              "segment_number": 418
             }
           ]
         },
@@ -4022,11 +4440,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yena viśvamidaṃ dṛṣṭaṃ sa nāstīti karotu vai|"
+              "text": "yena viśvamidaṃ dṛṣṭaṃ sa nāstīti karotu vai|",
+              "segment_number": 419
             },
             {
               "tag": "l",
-              "text": "nirvāsanaḥ kiṃ kurute paśyannapi na paśyati||18|15||"
+              "text": "nirvāsanaḥ kiṃ kurute paśyannapi na paśyati||18|15||",
+              "segment_number": 420
             }
           ]
         },
@@ -4038,11 +4458,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yena dṛṣṭaṃ paraṃ brahma so+ahaṃ brahmeti cintayet|"
+              "text": "yena dṛṣṭaṃ paraṃ brahma so+ahaṃ brahmeti cintayet|",
+              "segment_number": 421
             },
             {
               "tag": "l",
-              "text": "kiṃ cintayati niścinto dvitīyaṃ yo na paśyati||18|16||"
+              "text": "kiṃ cintayati niścinto dvitīyaṃ yo na paśyati||18|16||",
+              "segment_number": 422
             }
           ]
         },
@@ -4054,11 +4476,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dṛṣṭo yenātmavikṣepo nirodhaṃ kurute tvasau|"
+              "text": "dṛṣṭo yenātmavikṣepo nirodhaṃ kurute tvasau|",
+              "segment_number": 423
             },
             {
               "tag": "l",
-              "text": "udārastu na vikṣiptaḥ sādhyā+abhāvātkaroti kim||18|17||"
+              "text": "udārastu na vikṣiptaḥ sādhyā+abhāvātkaroti kim||18|17||",
+              "segment_number": 424
             }
           ]
         },
@@ -4070,11 +4494,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dhīro lokaviparyasto vartamāno+api lokavat|"
+              "text": "dhīro lokaviparyasto vartamāno+api lokavat|",
+              "segment_number": 425
             },
             {
               "tag": "l",
-              "text": "na samādhiṃ na vikṣepaṃ na lepaṃ svasya paśyati||18|18||"
+              "text": "na samādhiṃ na vikṣepaṃ na lepaṃ svasya paśyati||18|18||",
+              "segment_number": 426
             }
           ]
         },
@@ -4086,11 +4512,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhāvābhāvavihīno yastṛpto nirvāsano budhaḥ|"
+              "text": "bhāvābhāvavihīno yastṛpto nirvāsano budhaḥ|",
+              "segment_number": 427
             },
             {
               "tag": "l",
-              "text": "naiva kiñcitkṛtaṃ tena lokadṛṣṭyā vikurvatā||18|19||"
+              "text": "naiva kiñcitkṛtaṃ tena lokadṛṣṭyā vikurvatā||18|19||",
+              "segment_number": 428
             }
           ]
         },
@@ -4102,11 +4530,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "pravṛttau vā nivṛttau vā naiva dhīrasya durgrahaḥ|"
+              "text": "pravṛttau vā nivṛttau vā naiva dhīrasya durgrahaḥ|",
+              "segment_number": 429
             },
             {
               "tag": "l",
-              "text": "yadā yatkartumāyāti tatkṛtvā tiṣṭhataḥ sukham||18|20||"
+              "text": "yadā yatkartumāyāti tatkṛtvā tiṣṭhataḥ sukham||18|20||",
+              "segment_number": 430
             }
           ]
         },
@@ -4118,11 +4548,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirvāsano nirālambaḥ svacchando muktabandhanaḥ|"
+              "text": "nirvāsano nirālambaḥ svacchando muktabandhanaḥ|",
+              "segment_number": 431
             },
             {
               "tag": "l",
-              "text": "kṣiptaḥ saṃskāravātena ceṣṭate śuṣkaparṇavat||18|21||"
+              "text": "kṣiptaḥ saṃskāravātena ceṣṭate śuṣkaparṇavat||18|21||",
+              "segment_number": 432
             }
           ]
         },
@@ -4134,11 +4566,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "asaṃsārasya tu kvāpi na harṣo na viṣādatā|"
+              "text": "asaṃsārasya tu kvāpi na harṣo na viṣādatā|",
+              "segment_number": 433
             },
             {
               "tag": "l",
-              "text": "sa śītalamanā nityaṃ videha iva rājate||18|22||"
+              "text": "sa śītalamanā nityaṃ videha iva rājate||18|22||",
+              "segment_number": 434
             }
           ]
         },
@@ -4150,11 +4584,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kutrāpi na jihāsāsti hāśā vāpi na kutracit|"
+              "text": "kutrāpi na jihāsāsti hāśā vāpi na kutracit|",
+              "segment_number": 435
             },
             {
               "tag": "l",
-              "text": "ātmārāmasya dhīrasya śītalācchatarātmanaḥ||18|23||"
+              "text": "ātmārāmasya dhīrasya śītalācchatarātmanaḥ||18|23||",
+              "segment_number": 436
             }
           ]
         },
@@ -4166,11 +4602,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "prakṛtyā śūnyacittasya kurvato+asya yadṛcchayā|"
+              "text": "prakṛtyā śūnyacittasya kurvato+asya yadṛcchayā|",
+              "segment_number": 437
             },
             {
               "tag": "l",
-              "text": "prākṛtasyeva dhīrasya na māno nāvamānatā||18|24||"
+              "text": "prākṛtasyeva dhīrasya na māno nāvamānatā||18|24||",
+              "segment_number": 438
             }
           ]
         },
@@ -4182,11 +4620,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kṛtaṃ dehena karmedaṃ na mayā śuddharūpiṇā|"
+              "text": "kṛtaṃ dehena karmedaṃ na mayā śuddharūpiṇā|",
+              "segment_number": 439
             },
             {
               "tag": "l",
-              "text": "iti cintānurodhī yaḥ kurvannapi karoti na||18|25||"
+              "text": "iti cintānurodhī yaḥ kurvannapi karoti na||18|25||",
+              "segment_number": 440
             }
           ]
         },
@@ -4198,11 +4638,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "atadvādīva kurute na bhavedapi bāliśaḥ|"
+              "text": "atadvādīva kurute na bhavedapi bāliśaḥ|",
+              "segment_number": 441
             },
             {
               "tag": "l",
-              "text": "jīvanmuktaḥ sukhī śrīmānsaṃsarannapi śobhate||18|26||"
+              "text": "jīvanmuktaḥ sukhī śrīmānsaṃsarannapi śobhate||18|26||",
+              "segment_number": 442
             }
           ]
         },
@@ -4214,11 +4656,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nānāvicārasuśrānto dhīro viśrāntimāgataḥ|"
+              "text": "nānāvicārasuśrānto dhīro viśrāntimāgataḥ|",
+              "segment_number": 443
             },
             {
               "tag": "l",
-              "text": "na kalpate na jānāti na śṛṇoti na paśyati||18|27||"
+              "text": "na kalpate na jānāti na śṛṇoti na paśyati||18|27||",
+              "segment_number": 444
             }
           ]
         },
@@ -4230,11 +4674,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "asamādheravikṣepānna mumukṣurna cetaraḥ|"
+              "text": "asamādheravikṣepānna mumukṣurna cetaraḥ|",
+              "segment_number": 445
             },
             {
               "tag": "l",
-              "text": "niścitya kalpitaṃ paśyanbrahmaivāste mahāśayaḥ||18|28||"
+              "text": "niścitya kalpitaṃ paśyanbrahmaivāste mahāśayaḥ||18|28||",
+              "segment_number": 446
             }
           ]
         },
@@ -4246,11 +4692,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yasyāntaḥ syādahaṃkāro na karoti karoti saḥ|"
+              "text": "yasyāntaḥ syādahaṃkāro na karoti karoti saḥ|",
+              "segment_number": 447
             },
             {
               "tag": "l",
-              "text": "nirahaṃkāradhīreṇa na kiñcidakṛtaṃ kṛtam||18|29||"
+              "text": "nirahaṃkāradhīreṇa na kiñcidakṛtaṃ kṛtam||18|29||",
+              "segment_number": 448
             }
           ]
         },
@@ -4262,11 +4710,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nodvignaṃ na ca santuṣṭamakartṛ spandavarjitam|"
+              "text": "nodvignaṃ na ca santuṣṭamakartṛ spandavarjitam|",
+              "segment_number": 449
             },
             {
               "tag": "l",
-              "text": "nirāśaṃ gatasandehaṃ cittaṃ muktasya rājate||18|30||"
+              "text": "nirāśaṃ gatasandehaṃ cittaṃ muktasya rājate||18|30||",
+              "segment_number": 450
             }
           ]
         },
@@ -4278,11 +4728,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirdhyātuṃ ceṣṭituṃ vāpi yaccittaṃ na pravartate|"
+              "text": "nirdhyātuṃ ceṣṭituṃ vāpi yaccittaṃ na pravartate|",
+              "segment_number": 451
             },
             {
               "tag": "l",
-              "text": "nirnimittamidaṃ kintu nirdhyāyati viceṣṭate||18|31||"
+              "text": "nirnimittamidaṃ kintu nirdhyāyati viceṣṭate||18|31||",
+              "segment_number": 452
             }
           ]
         },
@@ -4294,11 +4746,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tattvaṃ yathārthamākarṇya mandaḥ prāpnoti mūḍhatām|"
+              "text": "tattvaṃ yathārthamākarṇya mandaḥ prāpnoti mūḍhatām|",
+              "segment_number": 453
             },
             {
               "tag": "l",
-              "text": "athavā+a+ayāti saṃkocamamūḍhaḥ ko+api mūḍhavat||18|32||"
+              "text": "athavā+a+ayāti saṃkocamamūḍhaḥ ko+api mūḍhavat||18|32||",
+              "segment_number": 454
             }
           ]
         },
@@ -4310,11 +4764,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ekāgratā nirodho vā mūḍhairabhyasyate bhṛśam|"
+              "text": "ekāgratā nirodho vā mūḍhairabhyasyate bhṛśam|",
+              "segment_number": 455
             },
             {
               "tag": "l",
-              "text": "dhīrāḥ kṛtyaṃ na paśyanti suptavatsvapade sthitāḥ||18|33||"
+              "text": "dhīrāḥ kṛtyaṃ na paśyanti suptavatsvapade sthitāḥ||18|33||",
+              "segment_number": 456
             }
           ]
         },
@@ -4326,11 +4782,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "aprayatnātprayatnādvā mūḍho nāpnoti nirvṛtim|"
+              "text": "aprayatnātprayatnādvā mūḍho nāpnoti nirvṛtim|",
+              "segment_number": 457
             },
             {
               "tag": "l",
-              "text": "tattvaniścayamātreṇa prājño bhavati nirvṛtaḥ||18|34||"
+              "text": "tattvaniścayamātreṇa prājño bhavati nirvṛtaḥ||18|34||",
+              "segment_number": 458
             }
           ]
         },
@@ -4342,11 +4800,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śuddhaṃ buddhaṃ priyaṃ pūrṇaṃ niṣprapañcaṃ nirāmayam|"
+              "text": "śuddhaṃ buddhaṃ priyaṃ pūrṇaṃ niṣprapañcaṃ nirāmayam|",
+              "segment_number": 459
             },
             {
               "tag": "l",
-              "text": "ātmānaṃ taṃ na jānanti tatrābhyāsaparā janāḥ||18|35||"
+              "text": "ātmānaṃ taṃ na jānanti tatrābhyāsaparā janāḥ||18|35||",
+              "segment_number": 460
             }
           ]
         },
@@ -4358,11 +4818,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nāpnoti karmaṇā mokṣaṃ vimūḍho+abhyāsarūpiṇā|"
+              "text": "nāpnoti karmaṇā mokṣaṃ vimūḍho+abhyāsarūpiṇā|",
+              "segment_number": 461
             },
             {
               "tag": "l",
-              "text": "dhanyo vijñānamātreṇa muktastiṣṭhatyavikriyaḥ||18|36||"
+              "text": "dhanyo vijñānamātreṇa muktastiṣṭhatyavikriyaḥ||18|36||",
+              "segment_number": 462
             }
           ]
         },
@@ -4374,11 +4836,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mūḍho nāpnoti tadbrahma yato bhavitumicchati|"
+              "text": "mūḍho nāpnoti tadbrahma yato bhavitumicchati|",
+              "segment_number": 463
             },
             {
               "tag": "l",
-              "text": "anicchannapi dhīro hi parabrahmasvarūpabhāk||18|37||"
+              "text": "anicchannapi dhīro hi parabrahmasvarūpabhāk||18|37||",
+              "segment_number": 464
             }
           ]
         },
@@ -4390,11 +4854,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirādhārā grahavyagrā mūḍhāḥ saṃsārapoṣakāḥ|"
+              "text": "nirādhārā grahavyagrā mūḍhāḥ saṃsārapoṣakāḥ|",
+              "segment_number": 465
             },
             {
               "tag": "l",
-              "text": "etasyānarthamūlasya mūlacchedaḥ kṛto budhaiḥ||18|38||"
+              "text": "etasyānarthamūlasya mūlacchedaḥ kṛto budhaiḥ||18|38||",
+              "segment_number": 466
             }
           ]
         },
@@ -4406,11 +4872,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na śāntiṃ labhate mūḍho yataḥ śamitumicchati|"
+              "text": "na śāntiṃ labhate mūḍho yataḥ śamitumicchati|",
+              "segment_number": 467
             },
             {
               "tag": "l",
-              "text": "dhīrastattvaṃ viniścitya sarvadā śāntamānasaḥ||18|39||"
+              "text": "dhīrastattvaṃ viniścitya sarvadā śāntamānasaḥ||18|39||",
+              "segment_number": 468
             }
           ]
         },
@@ -4422,11 +4890,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kvātmano darśanaṃ tasya yo dṛṣṭamavalambate|"
+              "text": "kvātmano darśanaṃ tasya yo dṛṣṭamavalambate|",
+              "segment_number": 469
             },
             {
               "tag": "l",
-              "text": "dhīrāstaṃ taṃ na paśyanti paśyantyātmānamavyayam||18|40||"
+              "text": "dhīrāstaṃ taṃ na paśyanti paśyantyātmānamavyayam||18|40||",
+              "segment_number": 470
             }
           ]
         },
@@ -4438,11 +4908,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva nirodho vimūḍhasya yo nirbandhaṃ karoti vai|"
+              "text": "kva nirodho vimūḍhasya yo nirbandhaṃ karoti vai|",
+              "segment_number": 471
             },
             {
               "tag": "l",
-              "text": "svārāmasyaiva dhīrasya sarvadā+asāvakṛtrimaḥ||18|41||"
+              "text": "svārāmasyaiva dhīrasya sarvadā+asāvakṛtrimaḥ||18|41||",
+              "segment_number": 472
             }
           ]
         },
@@ -4454,11 +4926,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhāvasya bhāvakaḥ kaścinna kiñcidbhāvako+aparaḥ|"
+              "text": "bhāvasya bhāvakaḥ kaścinna kiñcidbhāvako+aparaḥ|",
+              "segment_number": 473
             },
             {
               "tag": "l",
-              "text": "ubhayā+abhāvakaḥ kaścidevameva nirākulaḥ||18|42||"
+              "text": "ubhayā+abhāvakaḥ kaścidevameva nirākulaḥ||18|42||",
+              "segment_number": 474
             }
           ]
         },
@@ -4470,11 +4944,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śuddhamadvayamātmānaṃ bhāvayanti kubuddhayaḥ|"
+              "text": "śuddhamadvayamātmānaṃ bhāvayanti kubuddhayaḥ|",
+              "segment_number": 475
             },
             {
               "tag": "l",
-              "text": "na tu jānanti saṃmohādyāvajjīvamanirvṛtāḥ||18|43||"
+              "text": "na tu jānanti saṃmohādyāvajjīvamanirvṛtāḥ||18|43||",
+              "segment_number": 476
             }
           ]
         },
@@ -4486,11 +4962,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mumukṣorbuddhirālambamantareṇa na vidyate|"
+              "text": "mumukṣorbuddhirālambamantareṇa na vidyate|",
+              "segment_number": 477
             },
             {
               "tag": "l",
-              "text": "nirālambaiva niṣkāmā buddhirmuktasya sarvadā||18|44||"
+              "text": "nirālambaiva niṣkāmā buddhirmuktasya sarvadā||18|44||",
+              "segment_number": 478
             }
           ]
         },
@@ -4502,11 +4980,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "viṣayadvīpino vīkṣya cakitāḥ śaraṇārthinaḥ|"
+              "text": "viṣayadvīpino vīkṣya cakitāḥ śaraṇārthinaḥ|",
+              "segment_number": 479
             },
             {
               "tag": "l",
-              "text": "viśanti jhaṭiti kroḍaṃ nirodhaikāgryasiddhaye||18|45||"
+              "text": "viśanti jhaṭiti kroḍaṃ nirodhaikāgryasiddhaye||18|45||",
+              "segment_number": 480
             }
           ]
         },
@@ -4518,11 +4998,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirvāsanaṃ hariṃ dṛṣṭvā tūṣṇīṃ viṣayadantinaḥ|"
+              "text": "nirvāsanaṃ hariṃ dṛṣṭvā tūṣṇīṃ viṣayadantinaḥ|",
+              "segment_number": 481
             },
             {
               "tag": "l",
-              "text": "palāyante na śaktāste sevante kṛtacāṭavaḥ||18|46||"
+              "text": "palāyante na śaktāste sevante kṛtacāṭavaḥ||18|46||",
+              "segment_number": 482
             }
           ]
         },
@@ -4534,11 +5016,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na muktikārikāṃ dhatte niḥśaṅko yuktamānasaḥ|"
+              "text": "na muktikārikāṃ dhatte niḥśaṅko yuktamānasaḥ|",
+              "segment_number": 483
             },
             {
               "tag": "l",
-              "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||18|47||"
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||18|47||",
+              "segment_number": 484
             }
           ]
         },
@@ -4550,11 +5034,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vastuśravaṇamātreṇa śuddhabuddhirnirākulaḥ|"
+              "text": "vastuśravaṇamātreṇa śuddhabuddhirnirākulaḥ|",
+              "segment_number": 485
             },
             {
               "tag": "l",
-              "text": "naivācāramanācāramaudāsyaṃ vā prapaśyati||18|48||"
+              "text": "naivācāramanācāramaudāsyaṃ vā prapaśyati||18|48||",
+              "segment_number": 486
             }
           ]
         },
@@ -4566,11 +5052,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "yadā yatkartumāyāti tadā tatkurute hyṛju|"
+              "text": "yadā yatkartumāyāti tadā tatkurute hyṛju|",
+              "segment_number": 487
             },
             {
               "tag": "l",
-              "text": "śubhaṃ vāpyaśubhaṃ vāpi tasya ceṣṭā hi bālavat||18|49||"
+              "text": "śubhaṃ vāpyaśubhaṃ vāpi tasya ceṣṭā hi bālavat||18|49||",
+              "segment_number": 488
             }
           ]
         },
@@ -4582,11 +5070,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "svātantryātsukhamāpnoti svātantryāllabhate param|"
+              "text": "svātantryātsukhamāpnoti svātantryāllabhate param|",
+              "segment_number": 489
             },
             {
               "tag": "l",
-              "text": "svātantryānnirvṛtiṃ gacchetsvātantryātparamaṃ padam||18|50||"
+              "text": "svātantryānnirvṛtiṃ gacchetsvātantryātparamaṃ padam||18|50||",
+              "segment_number": 490
             }
           ]
         },
@@ -4598,11 +5088,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "akartṛtvamabhoktṛtvaṃ svātmano manyate yadā|"
+              "text": "akartṛtvamabhoktṛtvaṃ svātmano manyate yadā|",
+              "segment_number": 491
             },
             {
               "tag": "l",
-              "text": "tadā kṣīṇā bhavantyeva samastāścittavṛttayaḥ||18|51||"
+              "text": "tadā kṣīṇā bhavantyeva samastāścittavṛttayaḥ||18|51||",
+              "segment_number": 492
             }
           ]
         },
@@ -4614,11 +5106,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ucchṛṅkhalāpyākṛtikā sthitirdhīrasya rājate|"
+              "text": "ucchṛṅkhalāpyākṛtikā sthitirdhīrasya rājate|",
+              "segment_number": 493
             },
             {
               "tag": "l",
-              "text": "na tu saṃspṛhacittasya śāntirmūḍhasya kṛtrimā||18|52||"
+              "text": "na tu saṃspṛhacittasya śāntirmūḍhasya kṛtrimā||18|52||",
+              "segment_number": 494
             }
           ]
         },
@@ -4630,11 +5124,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vilasanti mahābhogairviśanti girigahvarān|"
+              "text": "vilasanti mahābhogairviśanti girigahvarān|",
+              "segment_number": 495
             },
             {
               "tag": "l",
-              "text": "nirastakalpanā dhīrā abaddhā muktabuddhayaḥ||18|53||"
+              "text": "nirastakalpanā dhīrā abaddhā muktabuddhayaḥ||18|53||",
+              "segment_number": 496
             }
           ]
         },
@@ -4646,11 +5142,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śrotriyaṃ devatāṃ tīrthamaṅganāṃ bhūpatiṃ priyam|"
+              "text": "śrotriyaṃ devatāṃ tīrthamaṅganāṃ bhūpatiṃ priyam|",
+              "segment_number": 497
             },
             {
               "tag": "l",
-              "text": "dṛṣṭvā saṃpūjya dhīrasya na kāpi hṛdi vāsanā||18|54||"
+              "text": "dṛṣṭvā saṃpūjya dhīrasya na kāpi hṛdi vāsanā||18|54||",
+              "segment_number": 498
             }
           ]
         },
@@ -4662,11 +5160,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhṛtyaiḥ putraiḥ kalatraiśca dauhitraiścāpi gotrajaiḥ|"
+              "text": "bhṛtyaiḥ putraiḥ kalatraiśca dauhitraiścāpi gotrajaiḥ|",
+              "segment_number": 499
             },
             {
               "tag": "l",
-              "text": "vihasya dhikkṛto yogī na yāti vikṛtiṃ manāk||18|55||"
+              "text": "vihasya dhikkṛto yogī na yāti vikṛtiṃ manāk||18|55||",
+              "segment_number": 500
             }
           ]
         },
@@ -4678,11 +5178,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "santuṣṭo+api na santuṣṭaḥ khinno+api na ca khidyate|"
+              "text": "santuṣṭo+api na santuṣṭaḥ khinno+api na ca khidyate|",
+              "segment_number": 501
             },
             {
               "tag": "l",
-              "text": "tasyāścaryadaśāṃ tāṃ tāṃ tādṛśā eva jānate||18|56||"
+              "text": "tasyāścaryadaśāṃ tāṃ tāṃ tādṛśā eva jānate||18|56||",
+              "segment_number": 502
             }
           ]
         },
@@ -4694,11 +5196,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kartavyataiva saṃsāro na tāṃ paśyanti sūrayaḥ|"
+              "text": "kartavyataiva saṃsāro na tāṃ paśyanti sūrayaḥ|",
+              "segment_number": 503
             },
             {
               "tag": "l",
-              "text": "śūnyākārā nirākārā nirvikārā nirāmayāḥ||18|57||"
+              "text": "śūnyākārā nirākārā nirvikārā nirāmayāḥ||18|57||",
+              "segment_number": 504
             }
           ]
         },
@@ -4710,11 +5214,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "akurvannapi saṃkṣobhādvyagraḥ sarvatra mūḍhadhīḥ|"
+              "text": "akurvannapi saṃkṣobhādvyagraḥ sarvatra mūḍhadhīḥ|",
+              "segment_number": 505
             },
             {
               "tag": "l",
-              "text": "kurvannapi tu kṛtyāni kuśalo hi nirākulaḥ||18|58||"
+              "text": "kurvannapi tu kṛtyāni kuśalo hi nirākulaḥ||18|58||",
+              "segment_number": 506
             }
           ]
         },
@@ -4726,11 +5232,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sukhamāste sukhaṃ śete sukhamāyāti yāti ca|"
+              "text": "sukhamāste sukhaṃ śete sukhamāyāti yāti ca|",
+              "segment_number": 507
             },
             {
               "tag": "l",
-              "text": "sukhaṃ vakti sukhaṃ bhuṅkte vyavahāre+api śāntadhīḥ||18|59||"
+              "text": "sukhaṃ vakti sukhaṃ bhuṅkte vyavahāre+api śāntadhīḥ||18|59||",
+              "segment_number": 508
             }
           ]
         },
@@ -4742,11 +5250,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "svabhāvādyasya naivārtirlokavadvyavahāriṇaḥ|"
+              "text": "svabhāvādyasya naivārtirlokavadvyavahāriṇaḥ|",
+              "segment_number": 509
             },
             {
               "tag": "l",
-              "text": "mahāhrada ivākṣobhyo gatakleśaḥ sa śobhate||18|60||"
+              "text": "mahāhrada ivākṣobhyo gatakleśaḥ sa śobhate||18|60||",
+              "segment_number": 510
             }
           ]
         },
@@ -4758,11 +5268,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nivṛtterapi mūḍhasya pravṛttirupajāyate|"
+              "text": "nivṛtterapi mūḍhasya pravṛttirupajāyate|",
+              "segment_number": 511
             },
             {
               "tag": "l",
-              "text": "pravṛttirapi dhīrasya nivṛttiphaladāyinī||18|61||"
+              "text": "pravṛttirapi dhīrasya nivṛttiphaladāyinī||18|61||",
+              "segment_number": 512
             }
           ]
         },
@@ -4774,11 +5286,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "parigraheṣu vairāgyaṃ prāyo mūḍhasya dṛśyate|"
+              "text": "parigraheṣu vairāgyaṃ prāyo mūḍhasya dṛśyate|",
+              "segment_number": 513
             },
             {
               "tag": "l",
-              "text": "dehe vigalitāśasya kva rāgaḥ kva virāgatā||18|62||"
+              "text": "dehe vigalitāśasya kva rāgaḥ kva virāgatā||18|62||",
+              "segment_number": 514
             }
           ]
         },
@@ -4790,11 +5304,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhāvanā+abhāvanāsaktā dṛṣṭirmūḍhasya sarvadā|"
+              "text": "bhāvanā+abhāvanāsaktā dṛṣṭirmūḍhasya sarvadā|",
+              "segment_number": 515
             },
             {
               "tag": "l",
-              "text": "bhāvyabhāvanayā sā tu svasthasyādṛṣṭirūpiṇī||18|63||"
+              "text": "bhāvyabhāvanayā sā tu svasthasyādṛṣṭirūpiṇī||18|63||",
+              "segment_number": 516
             }
           ]
         },
@@ -4806,11 +5322,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sarvārambheṣu niṣkāmo yaścaredbālavanmuniḥ|"
+              "text": "sarvārambheṣu niṣkāmo yaścaredbālavanmuniḥ|",
+              "segment_number": 517
             },
             {
               "tag": "l",
-              "text": "na lepastasya śuddhasya kriyamāṇe+api karmaṇi||18|64||"
+              "text": "na lepastasya śuddhasya kriyamāṇe+api karmaṇi||18|64||",
+              "segment_number": 518
             }
           ]
         },
@@ -4822,11 +5340,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sa eva dhanya ātmajñaḥ sarvabhāveṣu yaḥ samaḥ|"
+              "text": "sa eva dhanya ātmajñaḥ sarvabhāveṣu yaḥ samaḥ|",
+              "segment_number": 519
             },
             {
               "tag": "l",
-              "text": "paśyañchṛṇvanspṛśañjighrannaśnannistarṣamānasaḥ||18|65||"
+              "text": "paśyañchṛṇvanspṛśañjighrannaśnannistarṣamānasaḥ||18|65||",
+              "segment_number": 520
             }
           ]
         },
@@ -4838,11 +5358,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva saṃsāraḥ kva cābhāsaḥ kva sādhyaṃ kva ca sādhanam|"
+              "text": "kva saṃsāraḥ kva cābhāsaḥ kva sādhyaṃ kva ca sādhanam|",
+              "segment_number": 521
             },
             {
               "tag": "l",
-              "text": "ākāśasyeva dhīrasya nirvikalpasya sarvadā||18|66||"
+              "text": "ākāśasyeva dhīrasya nirvikalpasya sarvadā||18|66||",
+              "segment_number": 522
             }
           ]
         },
@@ -4854,11 +5376,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sa jayatyarthasaṃnyāsī pūrṇasvarasavigrahaḥ|"
+              "text": "sa jayatyarthasaṃnyāsī pūrṇasvarasavigrahaḥ|",
+              "segment_number": 523
             },
             {
               "tag": "l",
-              "text": "akṛtrimo+anavacchinne samādhiryasya vartate||18|67||"
+              "text": "akṛtrimo+anavacchinne samādhiryasya vartate||18|67||",
+              "segment_number": 524
             }
           ]
         },
@@ -4870,11 +5394,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bahunātra kimuktena jñātatattvo mahāśayaḥ|"
+              "text": "bahunātra kimuktena jñātatattvo mahāśayaḥ|",
+              "segment_number": 525
             },
             {
               "tag": "l",
-              "text": "bhogamokṣanirākāṅkṣī sadā sarvatra nīrasaḥ||18|68||"
+              "text": "bhogamokṣanirākāṅkṣī sadā sarvatra nīrasaḥ||18|68||",
+              "segment_number": 526
             }
           ]
         },
@@ -4886,11 +5412,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mahadādi jagaddvaitaṃ nāmamātravijṛmbhitam|"
+              "text": "mahadādi jagaddvaitaṃ nāmamātravijṛmbhitam|",
+              "segment_number": 527
             },
             {
               "tag": "l",
-              "text": "vihāya śuddhabodhasya kiṃ kṛtyamavaśiṣyate||18|69||"
+              "text": "vihāya śuddhabodhasya kiṃ kṛtyamavaśiṣyate||18|69||",
+              "segment_number": 528
             }
           ]
         },
@@ -4902,11 +5430,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhramabhūtamidaṃ sarvaṃ kiñcinnāstīti niścayī|"
+              "text": "bhramabhūtamidaṃ sarvaṃ kiñcinnāstīti niścayī|",
+              "segment_number": 529
             },
             {
               "tag": "l",
-              "text": "alakṣyasphuraṇaḥ śuddhaḥ svabhāvenaiva śāmyati||18|70||"
+              "text": "alakṣyasphuraṇaḥ śuddhaḥ svabhāvenaiva śāmyati||18|70||",
+              "segment_number": 530
             }
           ]
         },
@@ -4918,11 +5448,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "śuddhasphuraṇarūpasya dṛśyabhāvamapaśyataḥ|"
+              "text": "śuddhasphuraṇarūpasya dṛśyabhāvamapaśyataḥ|",
+              "segment_number": 531
             },
             {
               "tag": "l",
-              "text": "kva vidhiḥ kva ca vairāgyaṃ kva tyāgaḥ kva śamo+api vā||18|71||"
+              "text": "kva vidhiḥ kva ca vairāgyaṃ kva tyāgaḥ kva śamo+api vā||18|71||",
+              "segment_number": 532
             }
           ]
         },
@@ -4934,11 +5466,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sphurato+anantarūpeṇa prakṛtiṃ ca na paśyataḥ|"
+              "text": "sphurato+anantarūpeṇa prakṛtiṃ ca na paśyataḥ|",
+              "segment_number": 533
             },
             {
               "tag": "l",
-              "text": "kva bandhaḥ kva ca vā mokṣaḥ kva harṣaḥ kva viṣādatā||18|72||"
+              "text": "kva bandhaḥ kva ca vā mokṣaḥ kva harṣaḥ kva viṣādatā||18|72||",
+              "segment_number": 534
             }
           ]
         },
@@ -4950,11 +5484,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "buddhiparyantasaṃsāre māyāmātraṃ vivartate|"
+              "text": "buddhiparyantasaṃsāre māyāmātraṃ vivartate|",
+              "segment_number": 535
             },
             {
               "tag": "l",
-              "text": "nirmamo nirahaṃkāro niṣkāmaḥ śobhate budhaḥ||18|73||"
+              "text": "nirmamo nirahaṃkāro niṣkāmaḥ śobhate budhaḥ||18|73||",
+              "segment_number": 536
             }
           ]
         },
@@ -4966,11 +5502,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "akṣayaṃ gatasantāpamātmānaṃ paśyato muneḥ|"
+              "text": "akṣayaṃ gatasantāpamātmānaṃ paśyato muneḥ|",
+              "segment_number": 537
             },
             {
               "tag": "l",
-              "text": "kva vidyā kva ca vā viśvaṃ kva deho+ahaṃ mameti vā||18|74||"
+              "text": "kva vidyā kva ca vā viśvaṃ kva deho+ahaṃ mameti vā||18|74||",
+              "segment_number": 538
             }
           ]
         },
@@ -4982,11 +5520,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirodhādīni karmāṇi jahāti jaḍadhīryadi|"
+              "text": "nirodhādīni karmāṇi jahāti jaḍadhīryadi|",
+              "segment_number": 539
             },
             {
               "tag": "l",
-              "text": "manorathānpralāpāṃśca kartumāpnoti tatkṣaṇāt||18|75||"
+              "text": "manorathānpralāpāṃśca kartumāpnoti tatkṣaṇāt||18|75||",
+              "segment_number": 540
             }
           ]
         },
@@ -4998,11 +5538,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mandaḥ śrutvāpi tadvastu na jahāti vimūḍhatām|"
+              "text": "mandaḥ śrutvāpi tadvastu na jahāti vimūḍhatām|",
+              "segment_number": 541
             },
             {
               "tag": "l",
-              "text": "nirvikalpo bahiryatnādantarviṣayalālasaḥ||18|76||"
+              "text": "nirvikalpo bahiryatnādantarviṣayalālasaḥ||18|76||",
+              "segment_number": 542
             }
           ]
         },
@@ -5014,11 +5556,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "jñānādgalitakarmā yo lokadṛṣṭyāpi karmakṛt|"
+              "text": "jñānādgalitakarmā yo lokadṛṣṭyāpi karmakṛt|",
+              "segment_number": 543
             },
             {
               "tag": "l",
-              "text": "nāpnotyavasaraṃ kartuṃ vaktumeva na kiñcana||18|77||"
+              "text": "nāpnotyavasaraṃ kartuṃ vaktumeva na kiñcana||18|77||",
+              "segment_number": 544
             }
           ]
         },
@@ -5030,11 +5574,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva tamaḥ kva prakāśo vā hānaṃ kva ca na kiñcana|"
+              "text": "kva tamaḥ kva prakāśo vā hānaṃ kva ca na kiñcana|",
+              "segment_number": 545
             },
             {
               "tag": "l",
-              "text": "nirvikārasya dhīrasya nirātaṅkasya sarvadā||18|78||"
+              "text": "nirvikārasya dhīrasya nirātaṅkasya sarvadā||18|78||",
+              "segment_number": 546
             }
           ]
         },
@@ -5046,11 +5592,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva dhairyaṃ kva vivekitvaṃ kva nirātaṅkatā+api vā|"
+              "text": "kva dhairyaṃ kva vivekitvaṃ kva nirātaṅkatā+api vā|",
+              "segment_number": 547
             },
             {
               "tag": "l",
-              "text": "anirvācyasvabhāvasya niḥsvabhāvasya yoginaḥ||18|79||"
+              "text": "anirvācyasvabhāvasya niḥsvabhāvasya yoginaḥ||18|79||",
+              "segment_number": 548
             }
           ]
         },
@@ -5062,11 +5610,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na svargo naiva narako jīvanmuktirna caiva hi|"
+              "text": "na svargo naiva narako jīvanmuktirna caiva hi|",
+              "segment_number": 549
             },
             {
               "tag": "l",
-              "text": "bahunātra kimuktena yogadṛṣṭyā na kiñcana||18|80||"
+              "text": "bahunātra kimuktena yogadṛṣṭyā na kiñcana||18|80||",
+              "segment_number": 550
             }
           ]
         },
@@ -5078,11 +5628,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "naiva prārthayate lābhaṃ nā+alābhamanuśocati|"
+              "text": "naiva prārthayate lābhaṃ nā+alābhamanuśocati|",
+              "segment_number": 551
             },
             {
               "tag": "l",
-              "text": "dhīrasya śītalaṃ cittamamṛtenaiva pūritam||18|81||"
+              "text": "dhīrasya śītalaṃ cittamamṛtenaiva pūritam||18|81||",
+              "segment_number": 552
             }
           ]
         },
@@ -5094,11 +5646,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na śāntaṃ stauti niṣkāmo na duṣṭamapi nindati|"
+              "text": "na śāntaṃ stauti niṣkāmo na duṣṭamapi nindati|",
+              "segment_number": 553
             },
             {
               "tag": "l",
-              "text": "samaduḥkhasukhastṛptaḥ kiñcitkṛtyaṃ na paśyati||18|82||"
+              "text": "samaduḥkhasukhastṛptaḥ kiñcitkṛtyaṃ na paśyati||18|82||",
+              "segment_number": 554
             }
           ]
         },
@@ -5110,11 +5664,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "dhīro na dveṣṭi saṃsāramātmānaṃ na didṛkṣati|"
+              "text": "dhīro na dveṣṭi saṃsāramātmānaṃ na didṛkṣati|",
+              "segment_number": 555
             },
             {
               "tag": "l",
-              "text": "harṣāmarṣavinirmukto na mṛto na ca jīvati||18|83||"
+              "text": "harṣāmarṣavinirmukto na mṛto na ca jīvati||18|83||",
+              "segment_number": 556
             }
           ]
         },
@@ -5126,11 +5682,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "niḥsnehaḥ putradārādau niṣkāmo viṣayeṣu ca|"
+              "text": "niḥsnehaḥ putradārādau niṣkāmo viṣayeṣu ca|",
+              "segment_number": 557
             },
             {
               "tag": "l",
-              "text": "niścintaḥ svaśarīre+api nirāśaḥ śobhate budhaḥ||18|84||"
+              "text": "niścintaḥ svaśarīre+api nirāśaḥ śobhate budhaḥ||18|84||",
+              "segment_number": 558
             }
           ]
         },
@@ -5142,11 +5700,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tuṣṭiḥ sarvatra dhīrasya yathāpatitavartinaḥ|"
+              "text": "tuṣṭiḥ sarvatra dhīrasya yathāpatitavartinaḥ|",
+              "segment_number": 559
             },
             {
               "tag": "l",
-              "text": "svacchandaṃ carato deśānyatrā+astamitaśāyinaḥ||18|85||"
+              "text": "svacchandaṃ carato deśānyatrā+astamitaśāyinaḥ||18|85||",
+              "segment_number": 560
             }
           ]
         },
@@ -5158,11 +5718,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "patatūdetu vā deho nāsya cintā mahātmanaḥ|"
+              "text": "patatūdetu vā deho nāsya cintā mahātmanaḥ|",
+              "segment_number": 561
             },
             {
               "tag": "l",
-              "text": "svabhāvabhūmiviśrāntivismṛtāśeṣasaṃsṛteḥ||18|86||"
+              "text": "svabhāvabhūmiviśrāntivismṛtāśeṣasaṃsṛteḥ||18|86||",
+              "segment_number": 562
             }
           ]
         },
@@ -5174,11 +5736,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "akiñcanaḥ kāmacāro nirdvandvaśchinnasaṃśayaḥ|"
+              "text": "akiñcanaḥ kāmacāro nirdvandvaśchinnasaṃśayaḥ|",
+              "segment_number": 563
             },
             {
               "tag": "l",
-              "text": "asaktaḥ sarvabhāveṣu kevalo ramate budhaḥ||18|87||"
+              "text": "asaktaḥ sarvabhāveṣu kevalo ramate budhaḥ||18|87||",
+              "segment_number": 564
             }
           ]
         },
@@ -5190,11 +5754,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "nirmamaḥ śobhate dhīraḥ samaloṣṭāśmakāñcanaḥ|"
+              "text": "nirmamaḥ śobhate dhīraḥ samaloṣṭāśmakāñcanaḥ|",
+              "segment_number": 565
             },
             {
               "tag": "l",
-              "text": "subhinnahṛdayagranthirvinirdhūtarajastamāḥ||18|88||"
+              "text": "subhinnahṛdayagranthirvinirdhūtarajastamāḥ||18|88||",
+              "segment_number": 566
             }
           ]
         },
@@ -5206,11 +5772,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "sarvatrānavadhānasya na kiñcidvāsanā hṛdi|"
+              "text": "sarvatrānavadhānasya na kiñcidvāsanā hṛdi|",
+              "segment_number": 567
             },
             {
               "tag": "l",
-              "text": "muktātmano vitṛptasya tulanā kena jāyate||18|89||"
+              "text": "muktātmano vitṛptasya tulanā kena jāyate||18|89||",
+              "segment_number": 568
             }
           ]
         },
@@ -5222,11 +5790,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "jānannapi na jānāti paśyannapi na paśyati|"
+              "text": "jānannapi na jānāti paśyannapi na paśyati|",
+              "segment_number": 569
             },
             {
               "tag": "l",
-              "text": "bruvannapi na ca brūte ko+anyo nirvāsanādṛte||18|90||"
+              "text": "bruvannapi na ca brūte ko+anyo nirvāsanādṛte||18|90||",
+              "segment_number": 570
             }
           ]
         },
@@ -5238,11 +5808,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "bhikṣurvā bhūpatirvāpi yo niṣkāmaḥ sa śobhate|"
+              "text": "bhikṣurvā bhūpatirvāpi yo niṣkāmaḥ sa śobhate|",
+              "segment_number": 571
             },
             {
               "tag": "l",
-              "text": "bhāveṣu galitā yasya śobhanā+aśobhanā matiḥ||18|91||"
+              "text": "bhāveṣu galitā yasya śobhanā+aśobhanā matiḥ||18|91||",
+              "segment_number": 572
             }
           ]
         },
@@ -5254,11 +5826,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva svācchandyaṃ kva saṃkocaḥ kva vā tattvaviniścayaḥ|"
+              "text": "kva svācchandyaṃ kva saṃkocaḥ kva vā tattvaviniścayaḥ|",
+              "segment_number": 573
             },
             {
               "tag": "l",
-              "text": "nirvyājārjavabhūtasya caritārthasya yoginaḥ||18|92||"
+              "text": "nirvyājārjavabhūtasya caritārthasya yoginaḥ||18|92||",
+              "segment_number": 574
             }
           ]
         },
@@ -5270,11 +5844,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "ātmaviśrāntitṛptena nirāśena gatārtinā|"
+              "text": "ātmaviśrāntitṛptena nirāśena gatārtinā|",
+              "segment_number": 575
             },
             {
               "tag": "l",
-              "text": "antaryadanubhūyeta tatkathaṃ kasya kathyate||18|93||"
+              "text": "antaryadanubhūyeta tatkathaṃ kasya kathyate||18|93||",
+              "segment_number": 576
             }
           ]
         },
@@ -5286,11 +5862,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "supto+api na suṣuptau ca svapne+api śayito na ca|"
+              "text": "supto+api na suṣuptau ca svapne+api śayito na ca|",
+              "segment_number": 577
             },
             {
               "tag": "l",
-              "text": "jāgare+api na jāgarti dhīrastṛptaḥ pade pade||18|94||"
+              "text": "jāgare+api na jāgarti dhīrastṛptaḥ pade pade||18|94||",
+              "segment_number": 578
             }
           ]
         },
@@ -5302,19 +5880,23 @@
           "children": [
             {
               "tag": "l",
-              "text": "jñaḥ sacinto+api niścintaḥ sendriyo+api nirindriyaḥ|"
+              "text": "jñaḥ sacinto+api niścintaḥ sendriyo+api nirindriyaḥ|",
+              "segment_number": 579
             },
             {
               "tag": "l",
-              "text": "sabuddhirapi nirbuddhiḥ sāhaṃkāro+anahaṃkṛtiḥ||18|95|||"
+              "text": "sabuddhirapi nirbuddhiḥ sāhaṃkāro+anahaṃkṛtiḥ||18|95|||",
+              "segment_number": 580
             },
             {
               "tag": "l",
-              "text": "na sukhī na ca vā duḥkhī na virakto na saṅgavān|"
+              "text": "na sukhī na ca vā duḥkhī na virakto na saṅgavān|",
+              "segment_number": 581
             },
             {
               "tag": "l",
-              "text": "na mumukṣurna vā mukto na kiñcinna ca kiñcana||18|96||"
+              "text": "na mumukṣurna vā mukto na kiñcinna ca kiñcana||18|96||",
+              "segment_number": 582
             }
           ]
         },
@@ -5326,11 +5908,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "vikṣepe+api na vikṣiptaḥ samādhau na samādhimān|"
+              "text": "vikṣepe+api na vikṣiptaḥ samādhau na samādhimān|",
+              "segment_number": 583
             },
             {
               "tag": "l",
-              "text": "jāḍye+api na jaḍo dhanyaḥ pāṇḍitye+api na paṇḍitaḥ||18|97||"
+              "text": "jāḍye+api na jaḍo dhanyaḥ pāṇḍitye+api na paṇḍitaḥ||18|97||",
+              "segment_number": 584
             }
           ]
         },
@@ -5342,11 +5926,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "mukto yathāsthitisvasthaḥ kṛtakartavyanirvṛtaḥ|"
+              "text": "mukto yathāsthitisvasthaḥ kṛtakartavyanirvṛtaḥ|",
+              "segment_number": 585
             },
             {
               "tag": "l",
-              "text": "samaḥ sarvatra vaitṛṣṇyānna smaratyakṛtaṃ kṛtam||18|98||"
+              "text": "samaḥ sarvatra vaitṛṣṇyānna smaratyakṛtaṃ kṛtam||18|98||",
+              "segment_number": 586
             }
           ]
         },
@@ -5358,11 +5944,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na prīyate vandyamāno nindyamāno na kupyati|"
+              "text": "na prīyate vandyamāno nindyamāno na kupyati|",
+              "segment_number": 587
             },
             {
               "tag": "l",
-              "text": "naivodvijati maraṇe jīvane nābhinandati||18|99||"
+              "text": "naivodvijati maraṇe jīvane nābhinandati||18|99||",
+              "segment_number": 588
             }
           ]
         },
@@ -5374,11 +5962,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "na dhāvati janākīrṇaṃ nāraṇyamupaśāntadhīḥ|"
+              "text": "na dhāvati janākīrṇaṃ nāraṇyamupaśāntadhīḥ|",
+              "segment_number": 589
             },
             {
               "tag": "l",
-              "text": "yathātathā yatratatra sama evāvatiṣṭhate||18|100||"
+              "text": "yathātathā yatratatra sama evāvatiṣṭhate||18|100||",
+              "segment_number": 590
             }
           ]
         }
@@ -5392,7 +5982,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 19"
+          "text": "Prakaraṇa 19",
+          "segment_number": 591
         },
         {
           "tag": "p",
@@ -5402,7 +5993,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||19||"
+              "text": "janaka uvāca||19||",
+              "segment_number": 592
             }
           ]
         },
@@ -5414,11 +6006,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "tattvavijñānasandaṃśamādāya hṛdayodarāt|"
+              "text": "tattvavijñānasandaṃśamādāya hṛdayodarāt|",
+              "segment_number": 593
             },
             {
               "tag": "l",
-              "text": "nānāvidhaparāmarśaśalyoddhāraḥ kṛto mayā||19|1||"
+              "text": "nānāvidhaparāmarśaśalyoddhāraḥ kṛto mayā||19|1||",
+              "segment_number": 594
             }
           ]
         },
@@ -5430,11 +6024,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|"
+              "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|",
+              "segment_number": 595
             },
             {
               "tag": "l",
-              "text": "kva dvaitaṃ kva ca vā+advaitaṃ svamahimni sthitasya me||19|2||"
+              "text": "kva dvaitaṃ kva ca vā+advaitaṃ svamahimni sthitasya me||19|2||",
+              "segment_number": 596
             }
           ]
         },
@@ -5446,11 +6042,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva bhūtaṃ kva bhaviṣyadvā vartamānamapi kva vā|"
+              "text": "kva bhūtaṃ kva bhaviṣyadvā vartamānamapi kva vā|",
+              "segment_number": 597
             },
             {
               "tag": "l",
-              "text": "kva deśaḥ kva ca vā nityaṃ svamahimni sthitasya me||19|3||"
+              "text": "kva deśaḥ kva ca vā nityaṃ svamahimni sthitasya me||19|3||",
+              "segment_number": 598
             }
           ]
         },
@@ -5462,11 +6060,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva cātmā kva ca vā+anātmā kva śubhaṃ kvāśubhaṃ tathā|"
+              "text": "kva cātmā kva ca vā+anātmā kva śubhaṃ kvāśubhaṃ tathā|",
+              "segment_number": 599
             },
             {
               "tag": "l",
-              "text": "kva cintā kva ca vā+acintā svamahimni sthitasya me||19|4||"
+              "text": "kva cintā kva ca vā+acintā svamahimni sthitasya me||19|4||",
+              "segment_number": 600
             }
           ]
         },
@@ -5478,11 +6078,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva svapnaḥ kva suṣuptirvā kva ca jāgaraṇaṃ tathā|"
+              "text": "kva svapnaḥ kva suṣuptirvā kva ca jāgaraṇaṃ tathā|",
+              "segment_number": 601
             },
             {
               "tag": "l",
-              "text": "kva turīyaṃ bhayaṃ vā+api svamahimni sthitasya me||19|5||"
+              "text": "kva turīyaṃ bhayaṃ vā+api svamahimni sthitasya me||19|5||",
+              "segment_number": 602
             }
           ]
         },
@@ -5494,11 +6096,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva dūraṃ kva samīpaṃ vā bāhyaṃ kvābhyantaraṃ kva vā|"
+              "text": "kva dūraṃ kva samīpaṃ vā bāhyaṃ kvābhyantaraṃ kva vā|",
+              "segment_number": 603
             },
             {
               "tag": "l",
-              "text": "kva sthūlaṃ kva ca vā sūkṣmaṃ svamahimni sthitasya me||19|6||"
+              "text": "kva sthūlaṃ kva ca vā sūkṣmaṃ svamahimni sthitasya me||19|6||",
+              "segment_number": 604
             }
           ]
         },
@@ -5510,11 +6114,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva mṛtyurjīvitaṃ vā kva lokāḥ kvāsya kva laukikam|"
+              "text": "kva mṛtyurjīvitaṃ vā kva lokāḥ kvāsya kva laukikam|",
+              "segment_number": 605
             },
             {
               "tag": "l",
-              "text": "kva layaḥ kva samādhirvā svamahimni sthitasya me||19|7||"
+              "text": "kva layaḥ kva samādhirvā svamahimni sthitasya me||19|7||",
+              "segment_number": 606
             }
           ]
         },
@@ -5526,11 +6132,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "alaṃ trivargakathayā yogasya kathayā+apyalam|"
+              "text": "alaṃ trivargakathayā yogasya kathayā+apyalam|",
+              "segment_number": 607
             },
             {
               "tag": "l",
-              "text": "alaṃ vijñānakathayā viśrāntasya mamātmani||19|8||"
+              "text": "alaṃ vijñānakathayā viśrāntasya mamātmani||19|8||",
+              "segment_number": 608
             }
           ]
         }
@@ -5544,7 +6152,8 @@
       "children": [
         {
           "tag": "head",
-          "text": "Prakaraṇa 20"
+          "text": "Prakaraṇa 20",
+          "segment_number": 609
         },
         {
           "tag": "p",
@@ -5554,7 +6163,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "janaka uvāca||20||"
+              "text": "janaka uvāca||20||",
+              "segment_number": 610
             }
           ]
         },
@@ -5566,11 +6176,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva bhūtāni kva deho vā kvendriyāṇi kva vā manaḥ|"
+              "text": "kva bhūtāni kva deho vā kvendriyāṇi kva vā manaḥ|",
+              "segment_number": 611
             },
             {
               "tag": "l",
-              "text": "kva śūnyaṃ kva ca nairāśyaṃ matsvarūpe nirañjane||20|1||"
+              "text": "kva śūnyaṃ kva ca nairāśyaṃ matsvarūpe nirañjane||20|1||",
+              "segment_number": 612
             }
           ]
         },
@@ -5582,11 +6194,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva śāstraṃ kvātmavijñānaṃ kva vā nirviṣayaṃ manaḥ|"
+              "text": "kva śāstraṃ kvātmavijñānaṃ kva vā nirviṣayaṃ manaḥ|",
+              "segment_number": 613
             },
             {
               "tag": "l",
-              "text": "kva tṛptiḥ kva vitṛṣṇatvaṃ gatadvandvasya me sadā||20|2||"
+              "text": "kva tṛptiḥ kva vitṛṣṇatvaṃ gatadvandvasya me sadā||20|2||",
+              "segment_number": 614
             }
           ]
         },
@@ -5598,11 +6212,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva vidyā kva ca vā+avidyā kvāhaṃ kvedaṃ mama kva vā|"
+              "text": "kva vidyā kva ca vā+avidyā kvāhaṃ kvedaṃ mama kva vā|",
+              "segment_number": 615
             },
             {
               "tag": "l",
-              "text": "kva bandhaḥ kva ca vā mokṣaḥ svarūpasya kva rūpatā||20|3||"
+              "text": "kva bandhaḥ kva ca vā mokṣaḥ svarūpasya kva rūpatā||20|3||",
+              "segment_number": 616
             }
           ]
         },
@@ -5614,11 +6230,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva prārabdhāni karmāṇi jīvanmuktirapi kva vā|"
+              "text": "kva prārabdhāni karmāṇi jīvanmuktirapi kva vā|",
+              "segment_number": 617
             },
             {
               "tag": "l",
-              "text": "kva tadvidehakaivalyaṃ nirviśeṣasya sarvadā||20|4||"
+              "text": "kva tadvidehakaivalyaṃ nirviśeṣasya sarvadā||20|4||",
+              "segment_number": 618
             }
           ]
         },
@@ -5630,11 +6248,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva kartā kva ca vā bhoktā niṣkriyaṃ sphuraṇaṃ kva vā|"
+              "text": "kva kartā kva ca vā bhoktā niṣkriyaṃ sphuraṇaṃ kva vā|",
+              "segment_number": 619
             },
             {
               "tag": "l",
-              "text": "kvāparokṣaṃ phalaṃ vā kva niḥsvabhāvasya me sadā||20|5||"
+              "text": "kvāparokṣaṃ phalaṃ vā kva niḥsvabhāvasya me sadā||20|5||",
+              "segment_number": 620
             }
           ]
         },
@@ -5646,11 +6266,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva lokaṃ kva mumukṣurvā kva yogī jñānavānkva vā|"
+              "text": "kva lokaṃ kva mumukṣurvā kva yogī jñānavānkva vā|",
+              "segment_number": 621
             },
             {
               "tag": "l",
-              "text": "kva baddhaḥ kva ca vā muktaḥ svasvarūpe+ahamadvaye||20|6||"
+              "text": "kva baddhaḥ kva ca vā muktaḥ svasvarūpe+ahamadvaye||20|6||",
+              "segment_number": 622
             }
           ]
         },
@@ -5662,11 +6284,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva sṛṣṭiḥ kva ca saṃhāraḥ kva sādhyaṃ kva ca sādhanam|"
+              "text": "kva sṛṣṭiḥ kva ca saṃhāraḥ kva sādhyaṃ kva ca sādhanam|",
+              "segment_number": 623
             },
             {
               "tag": "l",
-              "text": "kva sādhakaḥ kva siddhirvā svasvarūpe+ahamadvaye||20|7||"
+              "text": "kva sādhakaḥ kva siddhirvā svasvarūpe+ahamadvaye||20|7||",
+              "segment_number": 624
             }
           ]
         },
@@ -5678,11 +6302,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva pramātā pramāṇaṃ vā kva prameyaṃ kva ca pramā|"
+              "text": "kva pramātā pramāṇaṃ vā kva prameyaṃ kva ca pramā|",
+              "segment_number": 625
             },
             {
               "tag": "l",
-              "text": "kva kiñcitkva na kiñcidvā sarvadā vimalasya me||20|8||"
+              "text": "kva kiñcitkva na kiñcidvā sarvadā vimalasya me||20|8||",
+              "segment_number": 626
             }
           ]
         },
@@ -5694,11 +6320,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva vikṣepaḥ kva caikāgryaṃ kva nirbodhaḥ kva mūḍhatā|"
+              "text": "kva vikṣepaḥ kva caikāgryaṃ kva nirbodhaḥ kva mūḍhatā|",
+              "segment_number": 627
             },
             {
               "tag": "l",
-              "text": "kva harṣaḥ kva viṣādo vā sarvadā niṣkriyasya me||20|9||"
+              "text": "kva harṣaḥ kva viṣādo vā sarvadā niṣkriyasya me||20|9||",
+              "segment_number": 628
             }
           ]
         },
@@ -5710,11 +6338,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva caiṣa vyavahāro vā kva ca sā paramārthatā|"
+              "text": "kva caiṣa vyavahāro vā kva ca sā paramārthatā|",
+              "segment_number": 629
             },
             {
               "tag": "l",
-              "text": "kva sukhaṃ kva ca vā duḥkhaṃ nirvimarśasya me sadā||20|10||"
+              "text": "kva sukhaṃ kva ca vā duḥkhaṃ nirvimarśasya me sadā||20|10||",
+              "segment_number": 630
             }
           ]
         },
@@ -5726,11 +6356,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva māyā kva ca saṃsāraḥ kva prītirviratiḥ kva vā|"
+              "text": "kva māyā kva ca saṃsāraḥ kva prītirviratiḥ kva vā|",
+              "segment_number": 631
             },
             {
               "tag": "l",
-              "text": "kva jīvaḥ kva ca tadbrahma sarvadā vimalasya me||20|11||"
+              "text": "kva jīvaḥ kva ca tadbrahma sarvadā vimalasya me||20|11||",
+              "segment_number": 632
             }
           ]
         },
@@ -5742,11 +6374,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva pravṛttirnivṛttirvā kva muktiḥ kva ca bandhanam|"
+              "text": "kva pravṛttirnivṛttirvā kva muktiḥ kva ca bandhanam|",
+              "segment_number": 633
             },
             {
               "tag": "l",
-              "text": "kūṭasthanirvibhāgasya svasthasya mama sarvadā||20|12||"
+              "text": "kūṭasthanirvibhāgasya svasthasya mama sarvadā||20|12||",
+              "segment_number": 634
             }
           ]
         },
@@ -5758,11 +6392,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kvopadeśaḥ kva vā śāstraṃ kva śiṣyaḥ kva ca vā guruḥ|"
+              "text": "kvopadeśaḥ kva vā śāstraṃ kva śiṣyaḥ kva ca vā guruḥ|",
+              "segment_number": 635
             },
             {
               "tag": "l",
-              "text": "kva cāsti puruṣārtho vā nirupādheḥ śivasya me||20|13||"
+              "text": "kva cāsti puruṣārtho vā nirupādheḥ śivasya me||20|13||",
+              "segment_number": 636
             }
           ]
         },
@@ -5774,11 +6410,13 @@
           "children": [
             {
               "tag": "l",
-              "text": "kva cāsti kva ca vā nāsti kvāsti caikaṃ kva ca dvayam|"
+              "text": "kva cāsti kva ca vā nāsti kvāsti caikaṃ kva ca dvayam|",
+              "segment_number": 637
             },
             {
               "tag": "l",
-              "text": "bahunā+atra kimuktena kiñcinnottiṣṭhate mama||20|14||"
+              "text": "bahunā+atra kimuktena kiñcinnottiṣṭhate mama||20|14||",
+              "segment_number": 638
             }
           ]
         },
@@ -5790,7 +6428,8 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "||iti śrīmadaṣṭāvakragītā||"
+              "text": "||iti śrīmadaṣṭāvakragītā||",
+              "segment_number": 639
             }
           ]
         }

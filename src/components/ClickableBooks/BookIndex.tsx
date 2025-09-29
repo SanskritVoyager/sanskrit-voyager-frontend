@@ -22,7 +22,7 @@ const BookIndex: React.FC<BookIndexProps> = ({ chapters, onChapterClick }) => {
     <Paper 
       shadow="xs" 
       p="md" 
-      mb="lg"
+      pb={'lg'}
       className={classes.bookIndex}
     >
      <span className={classes.indexTitle}>Table of Contents</span> 

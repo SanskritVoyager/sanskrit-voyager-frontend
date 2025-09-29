@@ -43,36 +43,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 0"
+          "text": "RāṣṭraP 0",
+          "segment_number": 1
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ekaṃ samayaṃ"
+          "text": "ekaṃ samayaṃ",
+          "segment_number": 2
         },
         {
           "tag": "text",
-          "text": "bhagavāṃ ku"
+          "text": "bhagavāṃ ku",
+          "segment_number": 3
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ruṣu janapadeṣu caryāṃ caran sthūlakoṣṭhakam anuprāptaḥ / sthūlakoṣṭhake viharati sthū"
+          "text": "ruṣu janapadeṣu caryāṃ caran sthūlakoṣṭhakam anuprāptaḥ / sthūlakoṣṭhake viharati sthū",
+          "segment_number": 4
         },
         {
           "tag": "text",
-          "text": "lakoṣṭhīy"
+          "text": "lakoṣṭhīy",
+          "segment_number": 5
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ake vanaṣaṇḍe /"
+          "text": "ake vanaṣaṇḍe /",
+          "segment_number": 6
         }
       ]
     },
@@ -81,7 +87,8 @@
       "attributes": {
         "rend": "it"
       },
-      "text": "aśrauṣuḥ sthūlakoṣṭhīyakā brāhmaṇagṛhapatayo buddho bhagavān ... sthūlakoṣṭhake viharati sthūlakoṣṭhīyake vanaṣaṇḍe /"
+      "text": "aśrauṣuḥ sthūlakoṣṭhīyakā brāhmaṇagṛhapatayo buddho bhagavān ... sthūlakoṣṭhake viharati sthūlakoṣṭhīyake vanaṣaṇḍe /",
+      "segment_number": 7
     },
     {
       "tag": "p",
@@ -99,24 +106,29 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "aśrauṣuḥ ..."
+              "text": "aśrauṣuḥ ...",
+              "segment_number": 9
             },
             {
               "tag": "text",
-              "text": "and abbreviated with"
+              "text": "and abbreviated with",
+              "segment_number": 10
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "pūrvavad yāvat*"
+              "text": "pūrvavad yāvat*",
+              "segment_number": 11
             },
             {
               "tag": "text",
-              "text": ")"
+              "text": ")",
+              "segment_number": 12
             }
-          ]
+          ],
+          "segment_number": 8
         }
       ]
     },
@@ -129,58 +141,68 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 1"
+          "text": "RāṣṭraP 1",
+          "segment_number": 13
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "śrutvā ca punaḥ saṃ"
+          "text": "śrutvā ca punaḥ saṃ",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": "ghāt saṃghaṃ pū"
+          "text": "ghāt saṃghaṃ pū",
+          "segment_number": 15
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "gāt pūgaṃ saṃgamya sa"
+          "text": "gāt pūgaṃ saṃgamya sa",
+          "segment_number": 16
         },
         {
           "tag": "text",
-          "text": "māgamya sth"
+          "text": "māgamya sth",
+          "segment_number": 17
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ūlakoṣṭhakān niṣkramya yena bhagavāṃs tenopajagmur upetya bhagavatpādau"
+          "text": "ūlakoṣṭhakān niṣkramya yena bhagavāṃs tenopajagmur upetya bhagavatpādau",
+          "segment_number": 18
         },
         {
           "tag": "text",
-          "text": "śirasā vand"
+          "text": "śirasā vand",
+          "segment_number": 19
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "itvā ekānte"
+          "text": "itvā ekānte",
+          "segment_number": 20
         },
         {
           "tag": "text",
-          "text": "nyaṣīdaṃ"
+          "text": "nyaṣīdaṃ",
+          "segment_number": 21
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 22
         }
       ]
     },
@@ -189,7 +211,8 @@
       "attributes": {
         "rend": "blue"
       },
-      "text": "SHT XI 4568r2: /// nditvā ekānt(e) nyaṣ[īdan*] ekāṃtaniṣaṃṇāṃ ///"
+      "text": "SHT XI 4568r2: /// nditvā ekānt(e) nyaṣ[īdan*] ekāṃtaniṣaṃṇāṃ ///",
+      "segment_number": 23
     },
     {
       "tag": "l",
@@ -200,95 +223,112 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 2"
+          "text": "RāṣṭraP 2",
+          "segment_number": 24
         },
         {
           "tag": "text",
-          "text": "ekānta"
+          "text": "ekānta",
+          "segment_number": 25
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "niṣaṇṇāṃ sthūlako"
+          "text": "niṣaṇṇāṃ sthūlako",
+          "segment_number": 26
         },
         {
           "tag": "text",
-          "text": "ṣṭhīya"
+          "text": "ṣṭhīya",
+          "segment_number": 27
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "kāṃ brāhma"
+          "text": "kāṃ brāhma",
+          "segment_number": 28
         },
         {
           "tag": "text",
-          "text": "ṇa"
+          "text": "ṇa",
+          "segment_number": 29
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "g"
+          "text": "g",
+          "segment_number": 30
         },
         {
           "tag": "text",
-          "text": "ṛhapat"
+          "text": "ṛhapat",
+          "segment_number": 31
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "īṃ"
+          "text": "īṃ",
+          "segment_number": 32
         },
         {
           "tag": "text",
-          "text": "bh"
+          "text": "bh",
+          "segment_number": 33
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 34
         },
         {
           "tag": "text",
-          "text": "g"
+          "text": "g",
+          "segment_number": 35
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "avāṃ dhārmyā kathayā saṃdarśayati samādāpaya"
+          "text": "avāṃ dhārmyā kathayā saṃdarśayati samādāpaya",
+          "segment_number": 36
         },
         {
           "tag": "text",
-          "text": "ti samuttejay"
+          "text": "ti samuttejay",
+          "segment_number": 37
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ati saṃpraha"
+          "text": "ati saṃpraha",
+          "segment_number": 38
         },
         {
           "tag": "text",
-          "text": "rṣayati"
+          "text": "rṣayati",
+          "segment_number": 39
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 40
         }
       ]
     },
@@ -297,7 +337,8 @@
       "attributes": {
         "rend": "blue"
       },
-      "text": "SHT XI 4568r2: /// nditvā ekānt(e) nyaṣ[īdan*] ekāṃtaniṣaṃṇāṃ ///"
+      "text": "SHT XI 4568r2: /// nditvā ekānt(e) nyaṣ[īdan*] ekāṃtaniṣaṃṇāṃ ///",
+      "segment_number": 41
     },
     {
       "tag": "l",
@@ -308,51 +349,60 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 3"
+          "text": "RāṣṭraP 3",
+          "segment_number": 42
         },
         {
           "tag": "text",
-          "text": "tena khalu"
+          "text": "tena khalu",
+          "segment_number": 43
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "samaye"
+          "text": "samaye",
+          "segment_number": 44
         },
         {
           "tag": "text",
-          "text": "na"
+          "text": "na",
+          "segment_number": 45
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "rāṣṭrapā"
+          "text": "rāṣṭrapā",
+          "segment_number": 46
         },
         {
           "tag": "text",
-          "text": "lo gṛhapatiputras t"
+          "text": "lo gṛhapatiputras t",
+          "segment_number": 47
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "asmiṃ samāje saṃniṣaṇṇo 'bhūt saṃnipa"
+          "text": "asmiṃ samāje saṃniṣaṇṇo 'bhūt saṃnipa",
+          "segment_number": 48
         },
         {
           "tag": "text",
-          "text": "titaḥ"
+          "text": "titaḥ",
+          "segment_number": 49
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 50
         }
       ]
     },
@@ -361,7 +411,8 @@
       "attributes": {
         "rend": "blue"
       },
-      "text": "Matsumura: t(asmiṃ parṣadi saṃniṣaṇṇo); SHT XI 4568r3: /// gṛhapati[pu]tras tasyām eva pariṣadi saṃ # ///"
+      "text": "Matsumura: t(asmiṃ parṣadi saṃniṣaṇṇo); SHT XI 4568r3: /// gṛhapati[pu]tras tasyām eva pariṣadi saṃ # ///",
+      "segment_number": 51
     },
     {
       "tag": "p",
@@ -372,227 +423,268 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 4"
+          "text": "RāṣṭraP 4",
+          "segment_number": 52
         },
         {
           "tag": "text",
-          "text": "atha rāṣṭra"
+          "text": "atha rāṣṭra",
+          "segment_number": 53
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pālasya gṛ"
+          "text": "pālasya gṛ",
+          "segment_number": 54
         },
         {
           "tag": "text",
-          "text": "hapati"
+          "text": "hapati",
+          "segment_number": 55
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "putra"
+          "text": "putra",
+          "segment_number": 56
         },
         {
           "tag": "text",
-          "text": "syaitad abha"
+          "text": "syaitad abha",
+          "segment_number": 57
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vad ya"
+          "text": "vad ya",
+          "segment_number": 58
         },
         {
           "tag": "text",
-          "text": "th"
+          "text": "th",
+          "segment_number": 59
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā khalv a"
+          "text": "ā khalv a",
+          "segment_number": 60
         },
         {
           "tag": "text",
-          "text": "ha"
+          "text": "ha",
+          "segment_number": 61
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 62
         },
         {
           "tag": "text",
-          "text": "bhagavato bhāṣitasyārtham ā"
+          "text": "bhagavato bhāṣitasyārtham ā",
+          "segment_number": 63
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "jānāmi naitat sukaram"
+          "text": "jānāmi naitat sukaram",
+          "segment_number": 64
         },
         {
           "tag": "text",
-          "text": "agāram"
+          "text": "agāram",
+          "segment_number": 65
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 66
         },
         {
           "tag": "text",
-          "text": "dhyāva"
+          "text": "dhyāva",
+          "segment_number": 67
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "satā e"
+          "text": "satā e",
+          "segment_number": 68
         },
         {
           "tag": "text",
-          "text": "kāntaś"
+          "text": "kāntaś",
+          "segment_number": 69
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aṃka"
+          "text": "aṃka",
+          "segment_number": 70
         },
         {
           "tag": "text",
-          "text": "līkṛtaṃ yā"
+          "text": "līkṛtaṃ yā",
+          "segment_number": 71
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vajjī"
+          "text": "vajjī",
+          "segment_number": 72
         },
         {
           "tag": "text",
-          "text": "vaṃ kevalaṃ paripū"
+          "text": "vaṃ kevalaṃ paripū",
+          "segment_number": 73
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "rṇaṃ pa"
+          "text": "rṇaṃ pa",
+          "segment_number": 74
         },
         {
           "tag": "text",
-          "text": "riśuddhaṃ paryavadātaṃ brahma"
+          "text": "riśuddhaṃ paryavadātaṃ brahma",
+          "segment_number": 75
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "caryaṃ caritum / yanv ahaṃ keśaśmaśrūṇy avatārya"
+          "text": "caryaṃ caritum / yanv ahaṃ keśaśmaśrūṇy avatārya",
+          "segment_number": 76
         },
         {
           "tag": "text",
-          "text": "kāṣā"
+          "text": "kāṣā",
+          "segment_number": 77
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yāṇi va"
+          "text": "yāṇi va",
+          "segment_number": 78
         },
         {
           "tag": "text",
-          "text": "s"
+          "text": "s",
+          "segment_number": 79
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tr"
+          "text": "tr",
+          "segment_number": 80
         },
         {
           "tag": "text",
-          "text": "āṇ"
+          "text": "āṇ",
+          "segment_number": 81
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "y"
+          "text": "y",
+          "segment_number": 82
         },
         {
           "tag": "text",
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 83
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "cchadya"
+          "text": "cchadya",
+          "segment_number": 84
         },
         {
           "tag": "text",
-          "text": "sam"
+          "text": "sam",
+          "segment_number": 85
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ya"
+          "text": "ya",
+          "segment_number": 86
         },
         {
           "tag": "text",
-          "text": "g eva śra"
+          "text": "g eva śra",
+          "segment_number": 87
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ddha"
+          "text": "ddha",
+          "segment_number": 88
         },
         {
           "tag": "text",
-          "text": "yā agārād ana"
+          "text": "yā agārād ana",
+          "segment_number": 89
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "gārikāṃ"
+          "text": "gārikāṃ",
+          "segment_number": 90
         },
         {
           "tag": "text",
-          "text": "pravrajeyaṃ /"
+          "text": "pravrajeyaṃ /",
+          "segment_number": 91
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "°ś(aṃka)līkṛtaṃ, restored according to SHT VIII 1874r2; Matsumura: (sukaram) agāra-m-adhyāva(satā e)kāntadh(ava)līkṛtaṃ yā(vajjī)vaṃ kevalaṃ; SHT XI 4568r4: /// m adhyāvasatā ekāṃtaśaṃkalīkṛtaṃ yā # ///; 5 /// gārikāṃ pravrajeyaṃ"
+          "text": "°ś(aṃka)līkṛtaṃ, restored according to SHT VIII 1874r2; Matsumura: (sukaram) agāra-m-adhyāva(satā e)kāntadh(ava)līkṛtaṃ yā(vajjī)vaṃ kevalaṃ; SHT XI 4568r4: /// m adhyāvasatā ekāṃtaśaṃkalīkṛtaṃ yā # ///; 5 /// gārikāṃ pravrajeyaṃ",
+          "segment_number": 92
         }
       ]
     },
@@ -605,106 +697,125 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 5"
+          "text": "RāṣṭraP 5",
+          "segment_number": 93
         },
         {
           "tag": "text",
-          "text": "atha"
+          "text": "atha",
+          "segment_number": 94
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bhaga"
+          "text": "bhaga",
+          "segment_number": 95
         },
         {
           "tag": "text",
-          "text": "v"
+          "text": "v",
+          "segment_number": 96
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āṃ sthūlakoṣṭhīyakāṃ brāhmaṇagṛhapatīṃ dhārm"
+          "text": "āṃ sthūlakoṣṭhīyakāṃ brāhmaṇagṛhapatīṃ dhārm",
+          "segment_number": 97
         },
         {
           "tag": "text",
-          "text": "y"
+          "text": "y",
+          "segment_number": 98
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 99
         },
         {
           "tag": "text",
-          "text": "ka"
+          "text": "ka",
+          "segment_number": 100
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "thayā saṃdarśayitvā sa"
+          "text": "thayā saṃdarśayitvā sa",
+          "segment_number": 101
         },
         {
           "tag": "text",
-          "text": "mādāpayitv"
+          "text": "mādāpayitv",
+          "segment_number": 102
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā sam"
+          "text": "ā sam",
+          "segment_number": 103
         },
         {
           "tag": "text",
-          "text": "uttejayitvā saṃ"
+          "text": "uttejayitvā saṃ",
+          "segment_number": 104
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "p"
+          "text": "p",
+          "segment_number": 105
         },
         {
           "tag": "text",
-          "text": "r"
+          "text": "r",
+          "segment_number": 106
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aharṣa"
+          "text": "aharṣa",
+          "segment_number": 107
         },
         {
           "tag": "text",
-          "text": "y"
+          "text": "y",
+          "segment_number": 108
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 109
         },
         {
           "tag": "text",
-          "text": "tvā tūṣṇīm abha"
+          "text": "tvā tūṣṇīm abha",
+          "segment_number": 110
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vat /"
+          "text": "vat /",
+          "segment_number": 111
         }
       ]
     },
@@ -713,7 +824,8 @@
       "attributes": {
         "rend": "blue"
       },
-      "text": "Matsumura: (anekaparyāyeṇa dhārm)y(ā) ka(thayā); SHT XI 4568r5: atha bhagavāṃ sthūlakoṣṭhiya ///"
+      "text": "Matsumura: (anekaparyāyeṇa dhārm)y(ā) ka(thayā); SHT XI 4568r5: atha bhagavāṃ sthūlakoṣṭhiya ///",
+      "segment_number": 112
     },
     {
       "tag": "l",
@@ -724,379 +836,138 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 6"
+          "text": "RāṣṭraP 6",
+          "segment_number": 113
         },
         {
           "tag": "text",
-          "text": "ath"
+          "text": "ath",
+          "segment_number": 114
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a sthūlakoṣṭhīyakā brāhmaṇagṛhapatayo bhaga"
+          "text": "a sthūlakoṣṭhīyakā brāhmaṇagṛhapatayo bhaga",
+          "segment_number": 115
         },
         {
           "tag": "text",
-          "text": "vato"
+          "text": "vato",
+          "segment_number": 116
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bhāṣitam abhi"
+          "text": "bhāṣitam abhi",
+          "segment_number": 117
         },
         {
           "tag": "text",
-          "text": "nandyā"
+          "text": "nandyā",
+          "segment_number": 118
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nu"
+          "text": "nu",
+          "segment_number": 119
         },
         {
           "tag": "text",
-          "text": "m"
+          "text": "m",
+          "segment_number": 120
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "o"
+          "text": "o",
+          "segment_number": 121
         },
         {
           "tag": "text",
-          "text": "dya bhagavatpā"
+          "text": "dya bhagavatpā",
+          "segment_number": 122
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "dau"
+          "text": "dau",
+          "segment_number": 123
         },
         {
           "tag": "text",
-          "text": "ś"
+          "text": "ś",
+          "segment_number": 124
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 125
         },
         {
           "tag": "text",
-          "text": "rasā vanditvā bha"
+          "text": "rasā vanditvā bha",
+          "segment_number": 126
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "gavato"
+          "text": "gavato",
+          "segment_number": 127
         },
         {
           "tag": "text",
-          "text": "'ntikāt prakrāntāḥ"
+          "text": "'ntikāt prakrāntāḥ",
+          "segment_number": 128
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 129
         },
         {
           "tag": "text",
-          "text": "rāṣṭrapāl"
+          "text": "rāṣṭrapāl",
+          "segment_number": 130
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "o g"
+          "text": "o g",
+          "segment_number": 131
         },
         {
           "tag": "text",
-          "text": "ṛ"
+          "text": "ṛ",
+          "segment_number": 132
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "hapatiputras tu tatraiva viharati /"
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "blue"
-          },
-          "text": "SHT XI 4568v1: /// patayo bhagavato [bhā]ṣ[ita]m abhinandyānumodya bh(a) ///; SHT V 1896r1: /// .. [śiras](ā) vand[i]tvā (bhaga)v(ato) ///; Matsumura: (gṛhapatiputras tatraivāsthāt)"
-        }
-      ]
-    },
-    {
-      "tag": "l",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "RāṣṭraP 7"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "atha rāṣṭrapā"
-        },
-        {
-          "tag": "text",
-          "text": "lo gṛ"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "hapatiputra"
-        },
-        {
-          "tag": "text",
-          "text": "ḥ a"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "c"
-        },
-        {
-          "tag": "text",
-          "text": "i"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ra"
-        },
-        {
-          "tag": "text",
-          "text": "prakrāntān sthū"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "lakoṣṭhī"
-        },
-        {
-          "tag": "text",
-          "text": "ya"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "kāṃ brā"
-        },
-        {
-          "tag": "text",
-          "text": "hmaṇagṛhapatīṃ viditvā utth"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "āya āsanād ekāṃsam uttarāsaṅgaṃ"
-        },
-        {
-          "tag": "text",
-          "text": "kṛtv"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ā ye"
-        },
-        {
-          "tag": "text",
-          "text": "na bha"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "gavāṃs tenāṃ"
-        },
-        {
-          "tag": "text",
-          "text": "jaliṃ praṇamya bhaga"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "vantam ida"
-        },
-        {
-          "tag": "text",
-          "text": "m"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "avocat /"
-        },
-        {
-          "tag": "text",
-          "text": "labheyāhaṃ bhadanta svākh"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "y"
-        },
-        {
-          "tag": "text",
-          "text": "āte dharm"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "avinaye pravrajyām upasaṃpadaṃ bhikṣubhā"
-        },
-        {
-          "tag": "text",
-          "text": "vaṃ / careyam aha"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ṃ bhagavato 'nti"
-        },
-        {
-          "tag": "text",
-          "text": "ke brahmacaryaṃ"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "/"
-        }
-      ]
-    },
-    {
-      "tag": "l",
-      "attributes": {
-        "rend": "blue"
-      },
-      "text": "SHT V 1896r2: /// (prakrā)[nt]ā(ṃ) sthūlakoṣṭhīya[kā] .. + ///; SHT XI 4568v2: /// kāṃ brāhmaṇagṛhapatiṃ viditvā utthā # ///; SHT V 1896r3: /// (bha)gavantam idam avo(cat* /) ///; SHT XI 4568v3: /// saṃpadaṃ bhikṣubhāvaṃ ca[r]eyam ahaṃ bha # ///; SHT V 1896r4: /// (bra)[h]macaryaṃ anujñāto + + ///"
-    },
-    {
-      "tag": "l",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "RāṣṭraP 8"
-        },
-        {
-          "tag": "text",
-          "text": "anu"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "jñ"
-        },
-        {
-          "tag": "text",
-          "text": "ā"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "to 'sy ārya"
-        },
-        {
-          "tag": "text",
-          "text": "putra"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "mātāpitṛ"
-        },
-        {
-          "tag": "text",
-          "text": "bh"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "yā"
-        },
-        {
-          "tag": "text",
-          "text": "ṃ"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "/"
+          "text": "hapatiputras tu tatraiva viharati /",
+          "segment_number": 133
         }
       ]
     },
@@ -1109,87 +980,407 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "SHT V 1896r4: anujñāto + + ///; Matsumura: anu(jñāto 'si gṛhapati)putra"
+          "text": "SHT XI 4568v1: /// patayo bhagavato [bhā]ṣ[ita]m abhinandyānumodya bh(a) ///; SHT V 1896r1: /// .. [śiras](ā) vand[i]tvā (bhaga)v(ato) ///; Matsumura: (gṛhapatiputras tatraivāsthāt)",
+          "segment_number": 134
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "bold"
+          },
+          "text": "RāṣṭraP 7",
+          "segment_number": 135
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "atha rāṣṭrapā",
+          "segment_number": 136
+        },
+        {
+          "tag": "text",
+          "text": "lo gṛ",
+          "segment_number": 137
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "hapatiputra",
+          "segment_number": 138
+        },
+        {
+          "tag": "text",
+          "text": "ḥ a",
+          "segment_number": 139
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "c",
+          "segment_number": 140
+        },
+        {
+          "tag": "text",
+          "text": "i",
+          "segment_number": 141
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ra",
+          "segment_number": 142
+        },
+        {
+          "tag": "text",
+          "text": "prakrāntān sthū",
+          "segment_number": 143
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "lakoṣṭhī",
+          "segment_number": 144
+        },
+        {
+          "tag": "text",
+          "text": "ya",
+          "segment_number": 145
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "kāṃ brā",
+          "segment_number": 146
+        },
+        {
+          "tag": "text",
+          "text": "hmaṇagṛhapatīṃ viditvā utth",
+          "segment_number": 147
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "āya āsanād ekāṃsam uttarāsaṅgaṃ",
+          "segment_number": 148
+        },
+        {
+          "tag": "text",
+          "text": "kṛtv",
+          "segment_number": 149
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ā ye",
+          "segment_number": 150
+        },
+        {
+          "tag": "text",
+          "text": "na bha",
+          "segment_number": 151
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "gavāṃs tenāṃ",
+          "segment_number": 152
+        },
+        {
+          "tag": "text",
+          "text": "jaliṃ praṇamya bhaga",
+          "segment_number": 153
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "vantam ida",
+          "segment_number": 154
+        },
+        {
+          "tag": "text",
+          "text": "m",
+          "segment_number": 155
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "avocat /",
+          "segment_number": 156
+        },
+        {
+          "tag": "text",
+          "text": "labheyāhaṃ bhadanta svākh",
+          "segment_number": 157
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "y",
+          "segment_number": 158
+        },
+        {
+          "tag": "text",
+          "text": "āte dharm",
+          "segment_number": 159
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "avinaye pravrajyām upasaṃpadaṃ bhikṣubhā",
+          "segment_number": 160
+        },
+        {
+          "tag": "text",
+          "text": "vaṃ / careyam aha",
+          "segment_number": 161
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "ṃ bhagavato 'nti",
+          "segment_number": 162
+        },
+        {
+          "tag": "text",
+          "text": "ke brahmacaryaṃ",
+          "segment_number": 163
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "/",
+          "segment_number": 164
+        }
+      ]
+    },
+    {
+      "tag": "l",
+      "attributes": {
+        "rend": "blue"
+      },
+      "text": "SHT V 1896r2: /// (prakrā)[nt]ā(ṃ) sthūlakoṣṭhīya[kā] .. + ///; SHT XI 4568v2: /// kāṃ brāhmaṇagṛhapatiṃ viditvā utthā # ///; SHT V 1896r3: /// (bha)gavantam idam avo(cat* /) ///; SHT XI 4568v3: /// saṃpadaṃ bhikṣubhāvaṃ ca[r]eyam ahaṃ bha # ///; SHT V 1896r4: /// (bra)[h]macaryaṃ anujñāto + + ///",
+      "segment_number": 165
+    },
+    {
+      "tag": "l",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "bold"
+          },
+          "text": "RāṣṭraP 8",
+          "segment_number": 166
+        },
+        {
+          "tag": "text",
+          "text": "anu",
+          "segment_number": 167
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "jñ",
+          "segment_number": 168
+        },
+        {
+          "tag": "text",
+          "text": "ā",
+          "segment_number": 169
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "to 'sy ārya",
+          "segment_number": 170
+        },
+        {
+          "tag": "text",
+          "text": "putra",
+          "segment_number": 171
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "mātāpitṛ",
+          "segment_number": 172
+        },
+        {
+          "tag": "text",
+          "text": "bh",
+          "segment_number": 173
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "yā",
+          "segment_number": 174
+        },
+        {
+          "tag": "text",
+          "text": "ṃ",
+          "segment_number": 175
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "/",
+          "segment_number": 176
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "SHT V 1896r4: anujñāto + + ///; Matsumura: anu(jñāto 'si gṛhapati)putra",
+          "segment_number": 177
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 9"
+          "text": "RāṣṭraP 9",
+          "segment_number": 178
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "n"
+          "text": "n",
+          "segment_number": 179
         },
         {
           "tag": "text",
-          "text": "o bhadanta /"
+          "text": "o bhadanta /",
+          "segment_number": 180
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 10"
+          "text": "RāṣṭraP 10",
+          "segment_number": 181
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na hy āryaputra tathāgatā vā tathāgataśrā"
+          "text": "na hy āryaputra tathāgatā vā tathāgataśrā",
+          "segment_number": 182
         },
         {
           "tag": "text",
-          "text": "vakā vā na anujñāta"
+          "text": "vakā vā na anujñāta",
+          "segment_number": 183
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ mātāpitṛ"
+          "text": "ṃ mātāpitṛ",
+          "segment_number": 184
         },
         {
           "tag": "text",
-          "text": "bh"
+          "text": "bh",
+          "segment_number": 185
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "y"
+          "text": "y",
+          "segment_number": 186
         },
         {
           "tag": "text",
-          "text": "āṃ pravrājayan"
+          "text": "āṃ pravrājayan",
+          "segment_number": 187
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "t"
+          "text": "t",
+          "segment_number": 188
         },
         {
           "tag": "text",
-          "text": "i"
+          "text": "i",
+          "segment_number": 189
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "upasaṃpāda"
+          "text": "upasaṃpāda",
+          "segment_number": 190
         },
         {
           "tag": "text",
-          "text": "yanti vā /"
+          "text": "yanti vā /",
+          "segment_number": 191
         },
         {
           "tag": "l",
@@ -1200,7 +1391,8 @@
               "attributes": {
                 "rend": "blue"
               },
-              "text": "Matsumura: (na hi gṛhapatiputra tathāgatā); SHT XI 4568v4: /// pitṛbhyāṃ prav[r]ājayaṃti vā upasaṃpā[da] # ///; SHT V 1896r5: /// + .. + + pravrā[j](ayanti) + + ///"
+              "text": "Matsumura: (na hi gṛhapatiputra tathāgatā); SHT XI 4568v4: /// pitṛbhyāṃ prav[r]ājayaṃti vā upasaṃpā[da] # ///; SHT V 1896r5: /// + .. + + pravrā[j](ayanti) + + ///",
+              "segment_number": 192
             }
           ]
         },
@@ -1213,14 +1405,16 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 11"
+              "text": "RāṣṭraP 11",
+              "segment_number": 193
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "tathā bhadanta kariṣyāmi yathā mātāpitarau mām anujñāsyataḥ pravrajitum /"
+              "text": "tathā bhadanta kariṣyāmi yathā mātāpitarau mām anujñāsyataḥ pravrajitum /",
+              "segment_number": 194
             }
           ]
         },
@@ -1229,7 +1423,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: (ahaṃ bhadanta tathā kariṣyāmi yathā mātāpitaram anujñāsyati); cf. K. Wille: \"Die Śroṇakoṭīkarṇa-Fragmente der Sammlung Pelliot\", Studien zur Indologie und Buddhismuskunde, Festgabe des Seminars für Indologie und Buddhismuskunde für Prof. Dr. Heinz Bechert, hg. R. Grünendahl, J.-U. Hartmann, P. Kieffer-Pülz, Bonn 1993 (Indica et Tibetica 22), p. 300: aham āryaKātyāyana tathā kari[ṣyā](mi) yathā māṃ (m)[ā](tāpitarā)v a[n]u[j]ñāsya[ta]ḥ [sv]ā(khy)[ā](te dharmavinaye śraddhayā agā)(A5)(rād anagārikāṃ pravrajituṃ)"
+          "text": "Matsumura: (ahaṃ bhadanta tathā kariṣyāmi yathā mātāpitaram anujñāsyati); cf. K. Wille: \"Die Śroṇakoṭīkarṇa-Fragmente der Sammlung Pelliot\", Studien zur Indologie und Buddhismuskunde, Festgabe des Seminars für Indologie und Buddhismuskunde für Prof. Dr. Heinz Bechert, hg. R. Grünendahl, J.-U. Hartmann, P. Kieffer-Pülz, Bonn 1993 (Indica et Tibetica 22), p. 300: aham āryaKātyāyana tathā kari[ṣyā](mi) yathā māṃ (m)[ā](tāpitarā)v a[n]u[j]ñāsya[ta]ḥ [sv]ā(khy)[ā](te dharmavinaye śraddhayā agā)(A5)(rād anagārikāṃ pravrajituṃ)",
+          "segment_number": 195
         }
       ]
     },
@@ -1242,29 +1437,34 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 12"
+          "text": "RāṣṭraP 12",
+          "segment_number": 196
         },
         {
           "tag": "text",
-          "text": "atha rāṣṭrapā"
+          "text": "atha rāṣṭrapā",
+          "segment_number": 197
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "lo gṛhapatipu"
+          "text": "lo gṛhapatipu",
+          "segment_number": 198
         },
         {
           "tag": "text",
-          "text": "tro bhagavatpādau śirasā vanditvā bhagavato 'ntikāt pra"
+          "text": "tro bhagavatpādau śirasā vanditvā bhagavato 'ntikāt pra",
+          "segment_number": 199
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "krāntaḥ /"
+          "text": "krāntaḥ /",
+          "segment_number": 200
         }
       ]
     },
@@ -1277,7 +1477,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "SHT V 1896v1: /// + + .. [bh](a)[g](a)[vatpād](au) + + + ///; SHT XI 4568v5: /// t prakrānta[ḥ]"
+          "text": "SHT V 1896v1: /// + + .. [bh](a)[g](a)[vatpād](au) + + + ///; SHT XI 4568v5: /// t prakrānta[ḥ]",
+          "segment_number": 201
         }
       ]
     },
@@ -1290,91 +1491,107 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 13"
+          "text": "RāṣṭraP 13",
+          "segment_number": 202
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "atha rāṣṭrapālo gṛha"
+          "text": "atha rāṣṭrapālo gṛha",
+          "segment_number": 203
         },
         {
           "tag": "text",
-          "text": "pat"
+          "text": "pat",
+          "segment_number": 204
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 205
         },
         {
           "tag": "text",
-          "text": "putraḥ svaka"
+          "text": "putraḥ svaka",
+          "segment_number": 206
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 207
         },
         {
           "tag": "text",
-          "text": "n"
+          "text": "n",
+          "segment_number": 208
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 209
         },
         {
           "tag": "text",
-          "text": "veśana"
+          "text": "veśana",
+          "segment_number": 210
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ gatv"
+          "text": "ṃ gatv",
+          "segment_number": 211
         },
         {
           "tag": "text",
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 212
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "mātā"
+          "text": "mātā",
+          "segment_number": 213
         },
         {
           "tag": "text",
-          "text": "p"
+          "text": "p",
+          "segment_number": 214
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 215
         },
         {
           "tag": "text",
-          "text": "taraṃ"
+          "text": "taraṃ",
+          "segment_number": 216
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āmantrayati /"
+          "text": "āmantrayati /",
+          "segment_number": 217
         }
       ]
     },
@@ -1387,7 +1604,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "SHT XI 4568v5: + + + + (p)[āl]o g[ṛ]hapatip[utraḥ s]va ///; SHT V 1896v2: /// (āmantra)yati"
+          "text": "SHT XI 4568v5: + + + + (p)[āl]o g[ṛ]hapatip[utraḥ s]va ///; SHT V 1896v2: /// (āmantra)yati",
+          "segment_number": 218
         }
       ]
     },
@@ -1400,25 +1618,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 14"
+          "text": "RāṣṭraP 14",
+          "segment_number": 219
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aṃ"
+          "text": "aṃ",
+          "segment_number": 220
         },
         {
           "tag": "text",
-          "text": "ba tāta anujānīdhvaṃ māṃ pravrajiṣyāmi samyag eva śrad"
+          "text": "ba tāta anujānīdhvaṃ māṃ pravrajiṣyāmi samyag eva śrad",
+          "segment_number": 221
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "dhayā agārād anagārikām /"
+          "text": "dhayā agārād anagārikām /",
+          "segment_number": 222
         }
       ]
     },
@@ -1427,7 +1649,8 @@
       "attributes": {
         "rend": "blue"
       },
-      "text": "SHT V 1896v2: aṃba tāta [a](nujānīdhvaṃ) ///"
+      "text": "SHT V 1896v2: aṃba tāta [a](nujānīdhvaṃ) ///",
+      "segment_number": 223
     },
     {
       "tag": "l",
@@ -1438,102 +1661,120 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 15"
+          "text": "RāṣṭraP 15",
+          "segment_number": 224
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ya"
+          "text": "ya",
+          "segment_number": 225
         },
         {
           "tag": "text",
-          "text": "t khalu tāta rāṣṭrapāla jānīyāḥ"
+          "text": "t khalu tāta rāṣṭrapāla jānīyāḥ",
+          "segment_number": 226
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 227
         },
         {
           "tag": "text",
-          "text": "smākam e"
+          "text": "smākam e",
+          "segment_number": 228
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "kaputra"
+          "text": "kaputra",
+          "segment_number": 229
         },
         {
           "tag": "text",
-          "text": "kaḥ priyo manāpaḥ kṣānta apratikūla"
+          "text": "kaḥ priyo manāpaḥ kṣānta apratikūla",
+          "segment_number": 230
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ /"
+          "text": "ḥ /",
+          "segment_number": 231
         },
         {
           "tag": "text",
-          "text": "maraṇen"
+          "text": "maraṇen",
+          "segment_number": 232
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a te vayam akāmakā viyu"
+          "text": "a te vayam akāmakā viyu",
+          "segment_number": 233
         },
         {
           "tag": "text",
-          "text": "jy"
+          "text": "jy",
+          "segment_number": 234
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "e"
+          "text": "e",
+          "segment_number": 235
         },
         {
           "tag": "text",
-          "text": "ma / kuta"
+          "text": "ma / kuta",
+          "segment_number": 236
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 237
         },
         {
           "tag": "text",
-          "text": "punar jīv"
+          "text": "punar jīv",
+          "segment_number": 238
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aṃ"
+          "text": "aṃ",
+          "segment_number": 239
         },
         {
           "tag": "text",
-          "text": "tam utsrakṣyāmaḥ"
+          "text": "tam utsrakṣyāmaḥ",
+          "segment_number": 240
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 241
         }
       ]
     },
@@ -1546,43 +1787,50 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "SHT V 1896v3: /// + + [e]kaputrakaḥ pri[y]o + ///; ed.: maraṇe(na) + + + + + + + + + (bhaviṣ)yāmaḥ kuta(ḥ); Matsumura: maraṇe(nāpi tvayā vayam akāmakā vinā bhaviṣ)yāmaḥ; cf. SWTF s.v. vi-yuj"
+          "text": "SHT V 1896v3: /// + + [e]kaputrakaḥ pri[y]o + ///; ed.: maraṇe(na) + + + + + + + + + (bhaviṣ)yāmaḥ kuta(ḥ); Matsumura: maraṇe(nāpi tvayā vayam akāmakā vinā bhaviṣ)yāmaḥ; cf. SWTF s.v. vi-yuj",
+          "segment_number": 242
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 16"
+          "text": "RāṣṭraP 16",
+          "segment_number": 243
         },
         {
           "tag": "text",
-          "text": "saced anujñās"
+          "text": "saced anujñās",
+          "segment_number": 244
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ya"
+          "text": "ya",
+          "segment_number": 245
         },
         {
           "tag": "text",
-          "text": "tha ity evaṃ kuśalaṃ nānujñāsyatha adyāgreṇa na"
+          "text": "tha ity evaṃ kuśalaṃ nānujñāsyatha adyāgreṇa na",
+          "segment_number": 246
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bhokṣye na pāsyāmīti"
+          "text": "bhokṣye na pāsyāmīti",
+          "segment_number": 247
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "SHT V 1896v4: /// + (a)nujñāsyatha ity evaṃ [ku](śalaṃ) ///; Matsumura: adyāgreṇa na (annam api bhokṣyāmi); cf. SBhV II 5.27f.: tāta saced anujñāsyasīty evaṃ kuśalam; no ced anujñāsyasi, adya na bhokṣye, na pāsyāmīti"
+          "text": "SHT V 1896v4: /// + (a)nujñāsyatha ity evaṃ [ku](śalaṃ) ///; Matsumura: adyāgreṇa na (annam api bhokṣyāmi); cf. SBhV II 5.27f.: tāta saced anujñāsyasīty evaṃ kuśalam; no ced anujñāsyasi, adya na bhokṣye, na pāsyāmīti",
+          "segment_number": 248
         }
       ]
     },
@@ -1595,58 +1843,68 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 17"
+          "text": "RāṣṭraP 17",
+          "segment_number": 249
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "atha"
+          "text": "atha",
+          "segment_number": 250
         },
         {
           "tag": "text",
-          "text": "rāṣṭra"
+          "text": "rāṣṭra",
+          "segment_number": 251
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pā"
+          "text": "pā",
+          "segment_number": 252
         },
         {
           "tag": "text",
-          "text": "lo gṛhapatiputraḥ ekam api bhaktaccheda"
+          "text": "lo gṛhapatiputraḥ ekam api bhaktaccheda",
+          "segment_number": 253
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m a"
+          "text": "m a",
+          "segment_number": 254
         },
         {
           "tag": "text",
-          "text": "kārṣīt"
+          "text": "kārṣīt",
+          "segment_number": 255
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 256
         },
         {
           "tag": "text",
-          "text": "dvau trīn yāvat sapta bhaktacchedānām akārṣīt"
+          "text": "dvau trīn yāvat sapta bhaktacchedānām akārṣīt",
+          "segment_number": 257
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 258
         }
       ]
     },
@@ -1655,7 +1913,8 @@
       "attributes": {
         "rend": "blue"
       },
-      "text": "SHT V 1896v5: ///(akā)rṣīt* d[v](au) [trīn yā]va[t] ṣa[ḍ a]pi .. ///"
+      "text": "SHT V 1896v5: ///(akā)rṣīt* d[v](au) [trīn yā]va[t] ṣa[ḍ a]pi .. ///",
+      "segment_number": 259
     },
     {
       "tag": "l",
@@ -1666,84 +1925,99 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 18"
+          "text": "RāṣṭraP 18",
+          "segment_number": 260
         },
         {
           "tag": "text",
-          "text": "atha rāṣ"
+          "text": "atha rāṣ",
+          "segment_number": 261
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṭ"
+          "text": "ṭ",
+          "segment_number": 262
         },
         {
           "tag": "text",
-          "text": "r"
+          "text": "r",
+          "segment_number": 263
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "apālasya gṛhapatiputrasya"
+          "text": "apālasya gṛhapatiputrasya",
+          "segment_number": 264
         },
         {
           "tag": "text",
-          "text": "mātāpita"
+          "text": "mātāpita",
+          "segment_number": 265
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ra"
+          "text": "ra",
+          "segment_number": 266
         },
         {
           "tag": "text",
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 267
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "rāṣṭra"
+          "text": "rāṣṭra",
+          "segment_number": 268
         },
         {
           "tag": "text",
-          "text": "pālaṃ g"
+          "text": "pālaṃ g",
+          "segment_number": 269
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṛ"
+          "text": "ṛ",
+          "segment_number": 270
         },
         {
           "tag": "text",
-          "text": "ha"
+          "text": "ha",
+          "segment_number": 271
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pati"
+          "text": "pati",
+          "segment_number": 272
         },
         {
           "tag": "text",
-          "text": "putram idam avoca"
+          "text": "putram idam avoca",
+          "segment_number": 273
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "t /"
+          "text": "t /",
+          "segment_number": 274
         }
       ]
     },
@@ -1756,168 +2030,198 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 19"
+          "text": "RāṣṭraP 19",
+          "segment_number": 275
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yat"
+          "text": "yat",
+          "segment_number": 276
         },
         {
           "tag": "text",
-          "text": "khal"
+          "text": "khal",
+          "segment_number": 277
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "u"
+          "text": "u",
+          "segment_number": 278
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 279
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 280
         },
         {
           "tag": "text",
-          "text": "ta rāṣṭrapāla jānīyāḥ"
+          "text": "ta rāṣṭrapāla jānīyāḥ",
+          "segment_number": 281
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 282
         },
         {
           "tag": "text",
-          "text": "tvaṃ hi sukumā"
+          "text": "tvaṃ hi sukumā",
+          "segment_number": 283
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ra"
+          "text": "ra",
+          "segment_number": 284
         },
         {
           "tag": "text",
-          "text": "ḥ sukhaiṣī"
+          "text": "ḥ sukhaiṣī",
+          "segment_number": 285
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na tvaṃ jānīṣe duḥkhasya duṣkaraṃ brahmacaryaṃ duṣkaraṃ"
+          "text": "na tvaṃ jānīṣe duḥkhasya duṣkaraṃ brahmacaryaṃ duṣkaraṃ",
+          "segment_number": 286
         },
         {
           "tag": "text",
-          "text": "p"
+          "text": "p",
+          "segment_number": 287
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "r"
+          "text": "r",
+          "segment_number": 288
         },
         {
           "tag": "text",
-          "text": "āvi"
+          "text": "āvi",
+          "segment_number": 289
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vekyaṃ du"
+          "text": "vekyaṃ du",
+          "segment_number": 290
         },
         {
           "tag": "text",
-          "text": "ṣkaram ekatva"
+          "text": "ṣkaram ekatva",
+          "segment_number": 291
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ durabhi"
+          "text": "ṃ durabhi",
+          "segment_number": 292
         },
         {
           "tag": "text",
-          "text": "sa"
+          "text": "sa",
+          "segment_number": 293
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 294
         },
         {
           "tag": "text",
-          "text": "b"
+          "text": "b",
+          "segment_number": 295
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "o"
+          "text": "o",
+          "segment_number": 296
         },
         {
           "tag": "text",
-          "text": "dhāny araṇyavanaprasthāni prāntāni śayanā"
+          "text": "dhāny araṇyavanaprasthāni prāntāni śayanā",
+          "segment_number": 297
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sa"
+          "text": "sa",
+          "segment_number": 298
         },
         {
           "tag": "text",
-          "text": "nāny adhyā"
+          "text": "nāny adhyā",
+          "segment_number": 299
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vastum / ihaiva tvaṃ tāta rāṣṭrapāla niṣadya kāmāṃś ca paribhuṅkṣva"
+          "text": "vastum / ihaiva tvaṃ tāta rāṣṭrapāla niṣadya kāmāṃś ca paribhuṅkṣva",
+          "segment_number": 300
         },
         {
           "tag": "text",
-          "text": "dānāni ca d"
+          "text": "dānāni ca d",
+          "segment_number": 301
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ehi puṇyā"
+          "text": "ehi puṇyā",
+          "segment_number": 302
         },
         {
           "tag": "text",
-          "text": "ni ca kuru /"
+          "text": "ni ca kuru /",
+          "segment_number": 303
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: ekatva(m abhiramaṃ durabhi)sa(ṃ)b(o)dhāny; cf. SBhV II 6.13-22: yat khalu tāta kumāra jānīyās, tvaṃ hi sukumāraḥ sukhaiṣī; na tvaṃ jñātā duḥkhasya; duścaraṃ brahmacaryam; duṣkaraṃ prāvivekyaṃ, durabhiramam ekatve, durabhisaṃbudhāny araṇyavanaprasthāni, prāntāni śayanāsanāny adhyāvastum, duḥkham ekākino 'raṇye vāsaḥ; yāvajjīvaṃ te vyāḍamṛgaiḥ saha vastavyam; yāvajjīvaṃ te paradattabhojino bhavitavyam; yāvajjīvaṃ te mānuṣakebhyaḥ kāmebhyaḥ āvaraṇaṃ kartavyam; yāvajjīvaṃ te mānuṣikābhyo ratikrīḍābhya āvaraṇaṃ kartavyam; ehi tvaṃ tāta kumāra ihaiva sthito yauvarājyaṃ kāraya; kāmāṃś ca paribhuṅkṣva; dānāni ca ⟨dehi; puṇyāni ca⟩ kuru"
+          "text": "Matsumura: ekatva(m abhiramaṃ durabhi)sa(ṃ)b(o)dhāny; cf. SBhV II 6.13-22: yat khalu tāta kumāra jānīyās, tvaṃ hi sukumāraḥ sukhaiṣī; na tvaṃ jñātā duḥkhasya; duścaraṃ brahmacaryam; duṣkaraṃ prāvivekyaṃ, durabhiramam ekatve, durabhisaṃbudhāny araṇyavanaprasthāni, prāntāni śayanāsanāny adhyāvastum, duḥkham ekākino 'raṇye vāsaḥ; yāvajjīvaṃ te vyāḍamṛgaiḥ saha vastavyam; yāvajjīvaṃ te paradattabhojino bhavitavyam; yāvajjīvaṃ te mānuṣakebhyaḥ kāmebhyaḥ āvaraṇaṃ kartavyam; yāvajjīvaṃ te mānuṣikābhyo ratikrīḍābhya āvaraṇaṃ kartavyam; ehi tvaṃ tāta kumāra ihaiva sthito yauvarājyaṃ kāraya; kāmāṃś ca paribhuṅkṣva; dānāni ca ⟨dehi; puṇyāni ca⟩ kuru",
+          "segment_number": 304
         }
       ]
     },
@@ -1930,18 +2234,21 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 20"
+          "text": "RāṣṭraP 20",
+          "segment_number": 305
         },
         {
           "tag": "text",
-          "text": "evam ukto rāṣṭrapālo gṛhapatiputras tūṣṇīm"
+          "text": "evam ukto rāṣṭrapālo gṛhapatiputras tūṣṇīm",
+          "segment_number": 306
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 307
         }
       ]
     },
@@ -1954,95 +2261,112 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 21"
+          "text": "RāṣṭraP 21",
+          "segment_number": 308
         },
         {
           "tag": "text",
-          "text": "a"
+          "text": "a",
+          "segment_number": 309
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tha rāṣṭrapālasya gṛhapatip"
+          "text": "tha rāṣṭrapālasya gṛhapatip",
+          "segment_number": 310
         },
         {
           "tag": "text",
-          "text": "utr"
+          "text": "utr",
+          "segment_number": 311
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 312
         },
         {
           "tag": "text",
-          "text": "sya m"
+          "text": "sya m",
+          "segment_number": 313
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ātāpitaraṃ jñātīm ud"
+          "text": "ātāpitaraṃ jñātīm ud",
+          "segment_number": 314
         },
         {
           "tag": "text",
-          "text": "yojati"
+          "text": "yojati",
+          "segment_number": 315
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 316
         },
         {
           "tag": "text",
-          "text": "a"
+          "text": "a",
+          "segment_number": 317
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 318
         },
         {
           "tag": "text",
-          "text": "g"
+          "text": "g",
+          "segment_number": 319
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 320
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 321
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āvaj jña"
+          "text": "āvaj jña",
+          "segment_number": 322
         },
         {
           "tag": "text",
-          "text": "tayaḥ tātaṃ rāṣṭrapālam utthāpayata"
+          "text": "tayaḥ tātaṃ rāṣṭrapālam utthāpayata",
+          "segment_number": 323
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 324
         }
       ]
     },
@@ -2055,88 +2379,104 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 22"
+          "text": "RāṣṭraP 22",
+          "segment_number": 325
         },
         {
           "tag": "text",
-          "text": "atha jñāta"
+          "text": "atha jñāta",
+          "segment_number": 326
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yo yena rāṣṭrapālo gṛhapa"
+          "text": "yo yena rāṣṭrapālo gṛhapa",
+          "segment_number": 327
         },
         {
           "tag": "text",
-          "text": "tiputras tenopasa"
+          "text": "tiputras tenopasa",
+          "segment_number": 328
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃk"
+          "text": "ṃk",
+          "segment_number": 329
         },
         {
           "tag": "text",
-          "text": "r"
+          "text": "r",
+          "segment_number": 330
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ān"
+          "text": "ān",
+          "segment_number": 331
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 332
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āḥ /"
+          "text": "āḥ /",
+          "segment_number": 333
         },
         {
           "tag": "text",
-          "text": "up"
+          "text": "up",
+          "segment_number": 334
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "e"
+          "text": "e",
+          "segment_number": 335
         },
         {
           "tag": "text",
-          "text": "tya rāṣṭrapālaṃ gṛha"
+          "text": "tya rāṣṭrapālaṃ gṛha",
+          "segment_number": 336
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "patipu"
+          "text": "patipu",
+          "segment_number": 337
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 338
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "r"
+          "text": "r",
+          "segment_number": 339
         },
         {
           "tag": "text",
-          "text": "am idam avocaṃ /"
+          "text": "am idam avocaṃ /",
+          "segment_number": 340
         },
         {
           "tag": "l",
@@ -2147,51 +2487,60 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 23"
+              "text": "RāṣṭraP 23",
+              "segment_number": 341
             },
             {
               "tag": "text",
-              "text": "yat khalu tāta rāṣṭrapāla jā"
+              "text": "yat khalu tāta rāṣṭrapāla jā",
+              "segment_number": 342
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "nīyās tvaṃ hi sukumāraḥ"
+              "text": "nīyās tvaṃ hi sukumāraḥ",
+              "segment_number": 343
             },
             {
               "tag": "text",
-              "text": "s"
+              "text": "s",
+              "segment_number": 344
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "u"
+              "text": "u",
+              "segment_number": 345
             },
             {
               "tag": "text",
-              "text": "khaiṣī na tvaṃ jānīṣe duḥkhasya pūrvavat* puṇyāni ca"
+              "text": "khaiṣī na tvaṃ jānīṣe duḥkhasya pūrvavat* puṇyāni ca",
+              "segment_number": 346
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "k"
+              "text": "k",
+              "segment_number": 347
             },
             {
               "tag": "text",
-              "text": "u"
+              "text": "u",
+              "segment_number": 348
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ru /"
+              "text": "ru /",
+              "segment_number": 349
             }
           ]
         },
@@ -2204,25 +2553,29 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 24"
+              "text": "RāṣṭraP 24",
+              "segment_number": 350
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "eva"
+              "text": "eva",
+              "segment_number": 351
             },
             {
               "tag": "text",
-              "text": "m ukto rāṣṭrapālo gṛhapatiputras tūṣṇīm"
+              "text": "m ukto rāṣṭrapālo gṛhapatiputras tūṣṇīm",
+              "segment_number": 352
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/"
+              "text": "/",
+              "segment_number": 353
             }
           ]
         },
@@ -2231,110 +2584,130 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 25"
+          "text": "RāṣṭraP 25",
+          "segment_number": 354
         },
         {
           "tag": "text",
-          "text": "atha rā"
+          "text": "atha rā",
+          "segment_number": 355
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṣṭ"
+          "text": "ṣṭ",
+          "segment_number": 356
         },
         {
           "tag": "text",
-          "text": "r"
+          "text": "r",
+          "segment_number": 357
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "apālasya gṛhapatipu"
+          "text": "apālasya gṛhapatipu",
+          "segment_number": 358
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 359
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ra"
+          "text": "ra",
+          "segment_number": 360
         },
         {
           "tag": "text",
-          "text": "sya mātāp"
+          "text": "sya mātāp",
+          "segment_number": 361
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 362
         },
         {
           "tag": "text",
-          "text": "tar"
+          "text": "tar",
+          "segment_number": 363
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aṃ"
+          "text": "aṃ",
+          "segment_number": 364
         },
         {
           "tag": "text",
-          "text": "vayasyakān u"
+          "text": "vayasyakān u",
+          "segment_number": 365
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "dy"
+          "text": "dy",
+          "segment_number": 366
         },
         {
           "tag": "text",
-          "text": "o"
+          "text": "o",
+          "segment_number": 367
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ja"
+          "text": "ja",
+          "segment_number": 368
         },
         {
           "tag": "text",
-          "text": "yati"
+          "text": "yati",
+          "segment_number": 369
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 370
         },
         {
           "tag": "text",
-          "text": "aṃg"
+          "text": "aṃg",
+          "segment_number": 371
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a tāvad vayasya"
+          "text": "a tāvad vayasya",
+          "segment_number": 372
         },
         {
           "tag": "text",
-          "text": "kāḥ tātaṃ rāṣṭrapālam utthāpayata :"
+          "text": "kāḥ tātaṃ rāṣṭrapālam utthāpayata :",
+          "segment_number": 373
         },
         {
           "tag": "l",
@@ -2345,84 +2718,99 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 26"
+              "text": "RāṣṭraP 26",
+              "segment_number": 374
             },
             {
               "tag": "text",
-              "text": "atha rāṣṭrapā"
+              "text": "atha rāṣṭrapā",
+              "segment_number": 375
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "lasya gṛhapatiputrasya va"
+              "text": "lasya gṛhapatiputrasya va",
+              "segment_number": 376
             },
             {
               "tag": "text",
-              "text": "yasyakāḥ yena rāṣṭrapālo"
+              "text": "yasyakāḥ yena rāṣṭrapālo",
+              "segment_number": 377
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "gṛ"
+              "text": "gṛ",
+              "segment_number": 378
             },
             {
               "tag": "text",
-              "text": "h"
+              "text": "h",
+              "segment_number": 379
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "apa"
+              "text": "apa",
+              "segment_number": 380
             },
             {
               "tag": "text",
-              "text": "t"
+              "text": "t",
+              "segment_number": 381
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "i"
+              "text": "i",
+              "segment_number": 382
             },
             {
               "tag": "text",
-              "text": "putras"
+              "text": "putras",
+              "segment_number": 383
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "tenopasaṃkrāntāḥ / upetya rāṣṭrapālaṃ gṛ"
+              "text": "tenopasaṃkrāntāḥ / upetya rāṣṭrapālaṃ gṛ",
+              "segment_number": 384
             },
             {
               "tag": "text",
-              "text": "h"
+              "text": "h",
+              "segment_number": 385
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 386
             },
             {
               "tag": "text",
-              "text": "p"
+              "text": "p",
+              "segment_number": 387
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "atiputram idam avocan /"
+              "text": "atiputram idam avocan /",
+              "segment_number": 388
             }
           ]
         },
@@ -2435,69 +2823,81 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 27"
+              "text": "RāṣṭraP 27",
+              "segment_number": 389
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ya"
+              "text": "ya",
+              "segment_number": 390
             },
             {
               "tag": "text",
-              "text": "t kha"
+              "text": "t kha",
+              "segment_number": 391
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "l"
+              "text": "l",
+              "segment_number": 392
             },
             {
               "tag": "text",
-              "text": "u saumya rā"
+              "text": "u saumya rā",
+              "segment_number": 393
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ṣ"
+              "text": "ṣ",
+              "segment_number": 394
             },
             {
               "tag": "text",
-              "text": "ṭr"
+              "text": "ṭr",
+              "segment_number": 395
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 396
             },
             {
               "tag": "text",
-              "text": "p"
+              "text": "p",
+              "segment_number": 397
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ā"
+              "text": "ā",
+              "segment_number": 398
             },
             {
               "tag": "text",
-              "text": "l"
+              "text": "l",
+              "segment_number": 399
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a jānīyās tvaṃ hi sukumāraḥ sukhaiṣī na tvaṃ jānīṣe duḥkhasya pūrvavat puṇyāni ca kuru /"
+              "text": "a jānīyās tvaṃ hi sukumāraḥ sukhaiṣī na tvaṃ jānīṣe duḥkhasya pūrvavat puṇyāni ca kuru /",
+              "segment_number": 400
             }
           ]
         },
@@ -2510,69 +2910,81 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 28"
+              "text": "RāṣṭraP 28",
+              "segment_number": 401
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "evam u"
+              "text": "evam u",
+              "segment_number": 402
             },
             {
               "tag": "text",
-              "text": "kt"
+              "text": "kt",
+              "segment_number": 403
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "o"
+              "text": "o",
+              "segment_number": 404
             },
             {
               "tag": "text",
-              "text": "rā"
+              "text": "rā",
+              "segment_number": 405
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ṣ"
+              "text": "ṣ",
+              "segment_number": 406
             },
             {
               "tag": "text",
-              "text": "ṭr"
+              "text": "ṭr",
+              "segment_number": 407
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 408
             },
             {
               "tag": "text",
-              "text": "p"
+              "text": "p",
+              "segment_number": 409
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ā"
+              "text": "ā",
+              "segment_number": 410
             },
             {
               "tag": "text",
-              "text": "lo gṛhapati"
+              "text": "lo gṛhapati",
+              "segment_number": 411
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "putras tūṣṇīm /"
+              "text": "putras tūṣṇīm /",
+              "segment_number": 412
             }
           ]
         },
@@ -2585,58 +2997,68 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 29"
+              "text": "RāṣṭraP 29",
+              "segment_number": 413
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "atha rā"
+              "text": "atha rā",
+              "segment_number": 414
             },
             {
               "tag": "text",
-              "text": "ṣṭrapālasya gṛhapati"
+              "text": "ṣṭrapālasya gṛhapati",
+              "segment_number": 415
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "putrasya vayasyakā yena rāṣṭrapālasya gṛhapatiputrasya mātāpitaraṃ te"
+              "text": "putrasya vayasyakā yena rāṣṭrapālasya gṛhapatiputrasya mātāpitaraṃ te",
+              "segment_number": 416
             },
             {
               "tag": "text",
-              "text": "nopasa"
+              "text": "nopasa",
+              "segment_number": 417
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 418
             },
             {
               "tag": "text",
-              "text": "krāntāḥ"
+              "text": "krāntāḥ",
+              "segment_number": 419
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ upetya rāṣṭrapālasya"
+              "text": "/ upetya rāṣṭrapālasya",
+              "segment_number": 420
             },
             {
               "tag": "text",
-              "text": "gṛhapatiputrasya māt"
+              "text": "gṛhapatiputrasya māt",
+              "segment_number": 421
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "āpitaram idam avocan /"
+              "text": "āpitaram idam avocan /",
+              "segment_number": 422
             }
           ]
         },
@@ -2649,80 +3071,94 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 30"
+              "text": "RāṣṭraP 30",
+              "segment_number": 423
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "aṃba tāta anujānīdhvaṃ saumyaṃ rāṣṭrapālaṃ pravrajitum / pravrajyāṃ sace"
+              "text": "aṃba tāta anujānīdhvaṃ saumyaṃ rāṣṭrapālaṃ pravrajitum / pravrajyāṃ sace",
+              "segment_number": 424
             },
             {
               "tag": "text",
-              "text": "d abhirami"
+              "text": "d abhirami",
+              "segment_number": 425
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ṣ"
+              "text": "ṣ",
+              "segment_number": 426
             },
             {
               "tag": "text",
-              "text": "y"
+              "text": "y",
+              "segment_number": 427
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 428
             },
             {
               "tag": "text",
-              "text": "ti"
+              "text": "ti",
+              "segment_number": 429
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "jīvantam enaṃ drakṣyadhve sace"
+              "text": "jīvantam enaṃ drakṣyadhve sace",
+              "segment_number": 430
             },
             {
               "tag": "text",
-              "text": "n n"
+              "text": "n n",
+              "segment_number": 431
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ā"
+              "text": "ā",
+              "segment_number": 432
             },
             {
               "tag": "text",
-              "text": "bh"
+              "text": "bh",
+              "segment_number": 433
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "i"
+              "text": "i",
+              "segment_number": 434
             },
             {
               "tag": "text",
-              "text": "kramiṣyati kān"
+              "text": "kramiṣyati kān",
+              "segment_number": 435
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "yā putrasya gatir anyatra mātāpitaram eva /"
+              "text": "yā putrasya gatir anyatra mātāpitaram eva /",
+              "segment_number": 436
             }
           ]
         },
@@ -2731,7 +3167,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: (anujānīdhvaṃ putraṃ rāṣṭrapālaṃ pravrajitum / kiṃ mṛtena kariṣyatha / sace)d"
+          "text": "Matsumura: (anujānīdhvaṃ putraṃ rāṣṭrapālaṃ pravrajitum / kiṃ mṛtena kariṣyatha / sace)d",
+          "segment_number": 437
         }
       ]
     },
@@ -2744,47 +3181,55 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 31"
+          "text": "RāṣṭraP 31",
+          "segment_number": 438
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "evam āvāṃ kumārakās tātaṃ rāṣṭrapālam anujānīyāva"
+          "text": "evam āvāṃ kumārakās tātaṃ rāṣṭrapālam anujānīyāva",
+          "segment_number": 439
         },
         {
           "tag": "text",
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 440
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 441
         },
         {
           "tag": "text",
-          "text": "sac"
+          "text": "sac",
+          "segment_number": 442
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "e"
+          "text": "e",
+          "segment_number": 443
         },
         {
           "tag": "text",
-          "text": "t pravraji"
+          "text": "t pravraji",
+          "segment_number": 444
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṣyaty uddarśayitavyam /"
+          "text": "ṣyaty uddarśayitavyam /",
+          "segment_number": 445
         }
       ]
     },
@@ -2797,7 +3242,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: (evaṃ vayaṃ kumārakās tātaṃ rāṣṭrapālam anujānāma)ḥ (/) sac(e)t pravraji(tvā uddarśayitavyam /)"
+          "text": "Matsumura: (evaṃ vayaṃ kumārakās tātaṃ rāṣṭrapālam anujānāma)ḥ (/) sac(e)t pravraji(tvā uddarśayitavyam /)",
+          "segment_number": 446
         }
       ]
     },
@@ -2810,58 +3256,68 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 32"
+          "text": "RāṣṭraP 32",
+          "segment_number": 447
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "atha rāṣṭra"
+          "text": "atha rāṣṭra",
+          "segment_number": 448
         },
         {
           "tag": "text",
-          "text": "p"
+          "text": "p",
+          "segment_number": 449
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 450
         },
         {
           "tag": "text",
-          "text": "lasya gṛhapati"
+          "text": "lasya gṛhapati",
+          "segment_number": 451
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pu"
+          "text": "pu",
+          "segment_number": 452
         },
         {
           "tag": "text",
-          "text": "tra"
+          "text": "tra",
+          "segment_number": 453
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sya vayasyakā yena rāṣṭrapālo gṛhapatiputras tenopasaṃkrāntāḥ / upetya rā"
+          "text": "sya vayasyakā yena rāṣṭrapālo gṛhapatiputras tenopasaṃkrāntāḥ / upetya rā",
+          "segment_number": 454
         },
         {
           "tag": "text",
-          "text": "ṣṭrapālaṃ gṛha"
+          "text": "ṣṭrapālaṃ gṛha",
+          "segment_number": 455
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "patiputram idam avocan /"
+          "text": "patiputram idam avocan /",
+          "segment_number": 456
         }
       ]
     },
@@ -2874,7 +3330,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Ed.: (tenopasaṃkrāntāḥ / upasaṃkramya)"
+          "text": "Ed.: (tenopasaṃkrāntāḥ / upasaṃkramya)",
+          "segment_number": 457
         }
       ]
     },
@@ -2887,40 +3344,47 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 33"
+          "text": "RāṣṭraP 33",
+          "segment_number": 458
         },
         {
           "tag": "text",
-          "text": "yat khalu saumya"
+          "text": "yat khalu saumya",
+          "segment_number": 459
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "rāṣṭrapāla jānīyāḥ / anujñātas tvaṃ mātāpitṛbhyāṃ pravrajitum / pravrāja"
+          "text": "rāṣṭrapāla jānīyāḥ / anujñātas tvaṃ mātāpitṛbhyāṃ pravrajitum / pravrāja",
+          "segment_number": 460
         },
         {
           "tag": "text",
-          "text": "yat"
+          "text": "yat",
+          "segment_number": 461
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 462
         },
         {
           "tag": "text",
-          "text": "udda"
+          "text": "udda",
+          "segment_number": 463
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "rśayitavyaṃ mātāpitaram /"
+          "text": "rśayitavyaṃ mātāpitaram /",
+          "segment_number": 464
         }
       ]
     },
@@ -2933,7 +3397,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Ed. (note 65): Perhaps to be restored: °pitṛbhyām agārād anagārikāṃ pravrajitum; Matsumura: (anujñāto 'si mātāpitṛbhyāṃ / sacet pravrajya uddarśayitavyaṃ /)"
+          "text": "Ed. (note 65): Perhaps to be restored: °pitṛbhyām agārād anagārikāṃ pravrajitum; Matsumura: (anujñāto 'si mātāpitṛbhyāṃ / sacet pravrajya uddarśayitavyaṃ /)",
+          "segment_number": 465
         }
       ]
     },
@@ -2946,102 +3411,120 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 34"
+          "text": "RāṣṭraP 34",
+          "segment_number": 466
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "atha rāṣ"
+          "text": "atha rāṣ",
+          "segment_number": 467
         },
         {
           "tag": "text",
-          "text": "ṭr"
+          "text": "ṭr",
+          "segment_number": 468
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 469
         },
         {
           "tag": "text",
-          "text": "pālo gṛhap"
+          "text": "pālo gṛhap",
+          "segment_number": 470
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "atipūtro 'nupūrveṇa kāyasya sthāmaṃ ca balaṃ ca saṃjanayya yena bhagavāṃs teno"
+          "text": "atipūtro 'nupūrveṇa kāyasya sthāmaṃ ca balaṃ ca saṃjanayya yena bhagavāṃs teno",
+          "segment_number": 471
         },
         {
           "tag": "text",
-          "text": "pa"
+          "text": "pa",
+          "segment_number": 472
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ja"
+          "text": "ja",
+          "segment_number": 473
         },
         {
           "tag": "text",
-          "text": "gāma"
+          "text": "gāma",
+          "segment_number": 474
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ upe"
+          "text": "/ upe",
+          "segment_number": 475
         },
         {
           "tag": "text",
-          "text": "tya"
+          "text": "tya",
+          "segment_number": 476
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bhagavatpādau śirasā vandi"
+          "text": "bhagavatpādau śirasā vandi",
+          "segment_number": 477
         },
         {
           "tag": "text",
-          "text": "tvā ekā"
+          "text": "tvā ekā",
+          "segment_number": 478
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nt"
+          "text": "nt",
+          "segment_number": 479
         },
         {
           "tag": "text",
-          "text": "e asthād ek"
+          "text": "e asthād ek",
+          "segment_number": 480
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ānta"
+          "text": "ānta",
+          "segment_number": 481
         },
         {
           "tag": "text",
-          "text": "sth"
+          "text": "sth",
+          "segment_number": 482
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ito rāṣṭrapālo gṛhapatiputro bhagavantam idam avocat /"
+          "text": "ito rāṣṭrapālo gṛhapatiputro bhagavantam idam avocat /",
+          "segment_number": 483
         }
       ]
     },
@@ -3054,80 +3537,94 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 35"
+          "text": "RāṣṭraP 35",
+          "segment_number": 484
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "anujñāto 'smi"
+          "text": "anujñāto 'smi",
+          "segment_number": 485
         },
         {
           "tag": "text",
-          "text": "bhadanta"
+          "text": "bhadanta",
+          "segment_number": 486
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "mātā"
+          "text": "mātā",
+          "segment_number": 487
         },
         {
           "tag": "text",
-          "text": "pi"
+          "text": "pi",
+          "segment_number": 488
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tṛbhyām / labheyāhaṃ svākh"
+          "text": "tṛbhyām / labheyāhaṃ svākh",
+          "segment_number": 489
         },
         {
           "tag": "text",
-          "text": "y"
+          "text": "y",
+          "segment_number": 490
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 491
         },
         {
           "tag": "text",
-          "text": "te dharmavinaye pravra"
+          "text": "te dharmavinaye pravra",
+          "segment_number": 492
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "jy"
+          "text": "jy",
+          "segment_number": 493
         },
         {
           "tag": "text",
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 494
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m upasaṃpadaṃ bhikṣubhāvaṃ careyāhaṃ bhagavato 'ntike brahmacarya"
+          "text": "m upasaṃpadaṃ bhikṣubhāvaṃ careyāhaṃ bhagavato 'ntike brahmacarya",
+          "segment_number": 495
         },
         {
           "tag": "text",
-          "text": "m"
+          "text": "m",
+          "segment_number": 496
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 497
         }
       ]
     },
@@ -3140,29 +3637,34 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 36"
+          "text": "RāṣṭraP 36",
+          "segment_number": 498
         },
         {
           "tag": "text",
-          "text": "la"
+          "text": "la",
+          "segment_number": 499
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bdhavān rāṣṭrapālo g"
+          "text": "bdhavān rāṣṭrapālo g",
+          "segment_number": 500
         },
         {
           "tag": "text",
-          "text": "ṛhapatiputraḥ svākhyāte dharm"
+          "text": "ṛhapatiputraḥ svākhyāte dharm",
+          "segment_number": 501
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "avinaye pravrajyām upasaṃpadaṃ bhikṣubhāvam /"
+          "text": "avinaye pravrajyām upasaṃpadaṃ bhikṣubhāvam /",
+          "segment_number": 502
         }
       ]
     },
@@ -3175,80 +3677,94 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 37"
+          "text": "RāṣṭraP 37",
+          "segment_number": 503
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "atha bhagavān āyuṣmantaṃ rāṣṭrapā"
+          "text": "atha bhagavān āyuṣmantaṃ rāṣṭrapā",
+          "segment_number": 504
         },
         {
           "tag": "text",
-          "text": "laṃ"
+          "text": "laṃ",
+          "segment_number": 505
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "p"
+          "text": "p",
+          "segment_number": 506
         },
         {
           "tag": "text",
-          "text": "r"
+          "text": "r",
+          "segment_number": 507
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "avrājayitvā upasaṃpāda"
+          "text": "avrājayitvā upasaṃpāda",
+          "segment_number": 508
         },
         {
           "tag": "text",
-          "text": "yitvā yathābhiramyaṃ sth"
+          "text": "yitvā yathābhiramyaṃ sth",
+          "segment_number": 509
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ūlakoṣṭhake vihṛtya yena śrāvastī tena caryāṃ prakrāntaḥ / anupūrveṇa caryāṃ carañ śrā"
+          "text": "ūlakoṣṭhake vihṛtya yena śrāvastī tena caryāṃ prakrāntaḥ / anupūrveṇa caryāṃ carañ śrā",
+          "segment_number": 510
         },
         {
           "tag": "text",
-          "text": "v"
+          "text": "v",
+          "segment_number": 511
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 512
         },
         {
           "tag": "text",
-          "text": "stī"
+          "text": "stī",
+          "segment_number": 513
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m anuprāptaḥ / śrāvastyāṃ vi"
+          "text": "m anuprāptaḥ / śrāvastyāṃ vi",
+          "segment_number": 514
         },
         {
           "tag": "text",
-          "text": "harati jetavana anā"
+          "text": "harati jetavana anā",
+          "segment_number": 515
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "thapiṇḍadasya ārāme /"
+          "text": "thapiṇḍadasya ārāme /",
+          "segment_number": 516
         }
       ]
     },
@@ -3261,7 +3777,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: (atha bhagavān gṛhapatiputraṃ rāṣṭrapā)laṃ"
+          "text": "Matsumura: (atha bhagavān gṛhapatiputraṃ rāṣṭrapā)laṃ",
+          "segment_number": 517
         }
       ]
     },
@@ -3275,320 +3792,378 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "tena khalu sama"
+          "text": "tena khalu sama",
+          "segment_number": 519
         },
         {
           "tag": "text",
-          "text": "y"
+          "text": "y",
+          "segment_number": 520
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "en"
+          "text": "en",
+          "segment_number": 521
         },
         {
           "tag": "text",
-          "text": "āyuṣmato rāṣṭra"
+          "text": "āyuṣmato rāṣṭra",
+          "segment_number": 522
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pālasya pitā madhyame dvārasāle muṇḍinam ullekayati"
+          "text": "pālasya pitā madhyame dvārasāle muṇḍinam ullekayati",
+          "segment_number": 523
         },
         {
           "tag": "text",
-          "text": "r2"
+          "text": "r2",
+          "segment_number": 524
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "adrākṣīd ā"
+          "text": "adrākṣīd ā",
+          "segment_number": 525
         },
         {
           "tag": "text",
-          "text": "yuṣmato rāṣṭrapāl"
+          "text": "yuṣmato rāṣṭrapāl",
+          "segment_number": 526
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 527
         },
         {
           "tag": "text",
-          "text": "sya"
+          "text": "sya",
+          "segment_number": 528
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pitāyuṣmantaṃ rāṣṭrapālaṃ dvārasamīpe dṛṣṭvaitad avocat* tair muṇḍakaiḥ śramaṇakair"
+          "text": "pitāyuṣmantaṃ rāṣṭrapālaṃ dvārasamīpe dṛṣṭvaitad avocat* tair muṇḍakaiḥ śramaṇakair",
+          "segment_number": 529
         },
         {
           "tag": "text",
-          "text": "r3"
+          "text": "r3",
+          "segment_number": 530
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "asmākaṃ kulam u"
+          "text": "asmākaṃ kulam u",
+          "segment_number": 531
         },
         {
           "tag": "text",
-          "text": "ddāyādaṃ kṛtaṃ / ya"
+          "text": "ddāyādaṃ kṛtaṃ / ya",
+          "segment_number": 532
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ir asmākam ekaputrakaḥ priyo manāpaḥ kṣānto 'pratikulo rāṣṭrapālaḥ pravrājayita upasaṃpādayitas teṣāṃ muṇḍakānāṃ śramaṇakānāṃ"
+          "text": "ir asmākam ekaputrakaḥ priyo manāpaḥ kṣānto 'pratikulo rāṣṭrapālaḥ pravrājayita upasaṃpādayitas teṣāṃ muṇḍakānāṃ śramaṇakānāṃ",
+          "segment_number": 533
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "Ed.: /// d[dh]āyādaṃ kṛtaṃ; Matsumura: (asmākaṃ kulasya prati)prasrabdhaṃ kṛtaṃ; below ddāyādaṃ Toch. (?) gloss /// [ṣṭ]./[pt]./[st]. se .. .. yāmu$*"
+          "text": "Ed.: /// d[dh]āyādaṃ kṛtaṃ; Matsumura: (asmākaṃ kulasya prati)prasrabdhaṃ kṛtaṃ; below ddāyādaṃ Toch. (?) gloss /// [ṣṭ]./[pt]./[st]. se .. .. yāmu$*",
+          "segment_number": 534
         },
         {
           "tag": "text",
-          "text": "r4"
+          "text": "r4",
+          "segment_number": 535
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "kena piṇḍaṃ d"
+          "text": "kena piṇḍaṃ d",
+          "segment_number": 536
         },
         {
           "tag": "text",
-          "text": "ātavyaṃ kartavyaṃ ma"
+          "text": "ātavyaṃ kartavyaṃ ma",
+          "segment_number": 537
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nyate athāyuṣmān rāṣṭrapālaḥ svake niveśane ākrośād anyaṃ naiva dānam alabdha."
+          "text": "nyate athāyuṣmān rāṣṭrapālaḥ svake niveśane ākrośād anyaṃ naiva dānam alabdha.",
+          "segment_number": 538
         },
         {
           "tag": "text",
-          "text": "r5"
+          "text": "r5",
+          "segment_number": 539
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pravāsayitas tva"
+          "text": "pravāsayitas tva",
+          "segment_number": 540
         },
         {
           "tag": "text",
-          "text": "ritatvaritaṃ pratiniṣkrānt"
+          "text": "ritatvaritaṃ pratiniṣkrānt",
+          "segment_number": 541
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aḥ tena khalu samayenāyuṣmato rāṣṭrapālasya purāṇajīrṇadāsī paryuṣitaṃ"
+          "text": "aḥ tena khalu samayenāyuṣmato rāṣṭrapālasya purāṇajīrṇadāsī paryuṣitaṃ",
+          "segment_number": 542
         },
         {
           "tag": "text",
-          "text": "56"
+          "text": "56",
+          "segment_number": 543
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pūtikumāṣam ā"
+          "text": "pūtikumāṣam ā",
+          "segment_number": 544
         },
         {
           "tag": "text",
-          "text": "kīrya bahir nirgatā cchora"
+          "text": "kīrya bahir nirgatā cchora",
+          "segment_number": 545
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yitum. āyuṣmān rāṣṭrapālas tāṃ purāṇajīrṇadāsīm adrākṣīt. dṛṣṭvā tāṃ jīrṇadāsīm etad avocat. bhagini sacet paryuṣitāḥ"
+          "text": "yitum. āyuṣmān rāṣṭrapālas tāṃ purāṇajīrṇadāsīm adrākṣīt. dṛṣṭvā tāṃ jīrṇadāsīm etad avocat. bhagini sacet paryuṣitāḥ",
+          "segment_number": 546
         },
         {
           "tag": "text",
-          "text": "v1"
+          "text": "v1",
+          "segment_number": 547
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pūtikulmāṣāḥ parit"
+          "text": "pūtikulmāṣāḥ parit",
+          "segment_number": 548
         },
         {
           "tag": "text",
-          "text": "yaktāḥ asmākaṃ pātre āki"
+          "text": "yaktāḥ asmākaṃ pātre āki",
+          "segment_number": 549
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ra. āryaṃ yāca. atha sā purāṇajīrṇadāsī paryuṣitaṃ pūtikulmāṣaṃ pātra ākirantī āyuṣmato rāṣṭrapālasya hastataś"
+          "text": "ra. āryaṃ yāca. atha sā purāṇajīrṇadāsī paryuṣitaṃ pūtikulmāṣaṃ pātra ākirantī āyuṣmato rāṣṭrapālasya hastataś",
+          "segment_number": 550
         },
         {
           "tag": "text",
-          "text": "v2"
+          "text": "v2",
+          "segment_number": 551
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ca pādataś ca ghrāṇa"
+          "text": "ca pādataś ca ghrāṇa",
+          "segment_number": 552
         },
         {
           "tag": "text",
-          "text": "taś ca / mukhataś ca svarag"
+          "text": "taś ca / mukhataś ca svarag",
+          "segment_number": 553
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "uptitaś ca nimittaṃ pratyabhijñāyedam avocat. āryaputra kiṃ rāṣṭrapālaḥ. bhagini"
+          "text": "uptitaś ca nimittaṃ pratyabhijñāyedam avocat. āryaputra kiṃ rāṣṭrapālaḥ. bhagini",
+          "segment_number": 554
         },
         {
           "tag": "text",
-          "text": "v3"
+          "text": "v3",
+          "segment_number": 555
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "māṃ tathājana"
+          "text": "māṃ tathājana",
+          "segment_number": 556
         },
         {
           "tag": "text",
-          "text": "ḥ saṃjānāti / atha"
+          "text": "ḥ saṃjānāti / atha",
+          "segment_number": 557
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sā purāṇajīrṇadāsī śīghraṃśīghraṃ yenāyuṣmato rāṣṭrapālasya mahallakas tenopasaṃkrāntā. upetyāyuṣmato"
+          "text": "sā purāṇajīrṇadāsī śīghraṃśīghraṃ yenāyuṣmato rāṣṭrapālasya mahallakas tenopasaṃkrāntā. upetyāyuṣmato",
+          "segment_number": 558
         },
         {
           "tag": "text",
-          "text": "v4"
+          "text": "v4",
+          "segment_number": 559
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "rāṣṭrapālasya maha"
+          "text": "rāṣṭrapālasya maha",
+          "segment_number": 560
         },
         {
           "tag": "text",
-          "text": "ll"
+          "text": "ll",
+          "segment_number": 561
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 562
         },
         {
           "tag": "text",
-          "text": "k"
+          "text": "k",
+          "segment_number": 563
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 564
         },
         {
           "tag": "text",
-          "text": "m idam avocat*"
+          "text": "m idam avocat*",
+          "segment_number": 565
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "svāmi jānīyāḥ, saumyo rāṣṭrapālaḥ sthūlakoṣṭhakaṃ ciraprāptaḥ, svaniveśanaṃ"
+          "text": "svāmi jānīyāḥ, saumyo rāṣṭrapālaḥ sthūlakoṣṭhakaṃ ciraprāptaḥ, svaniveśanaṃ",
+          "segment_number": 566
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: (maha)ll(a)kam (Tib. pha la); MS maha[ll]a⟨⟨ka⟩⟩m"
+          "text": "Matsumura: (maha)ll(a)kam (Tib. pha la); MS maha[ll]a⟨⟨ka⟩⟩m",
+          "segment_number": 567
         },
         {
           "tag": "text",
-          "text": "v5"
+          "text": "v5",
+          "segment_number": 568
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tu prāptuṃ necchati."
+          "text": "tu prāptuṃ necchati.",
+          "segment_number": 569
         },
         {
           "tag": "text",
-          "text": "athāyuṣmato rāṣṭr"
+          "text": "athāyuṣmato rāṣṭr",
+          "segment_number": 570
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "apālasya mahallako vāmahastena keśaṃ saṃnipātayan paṭakam ekanivāsaṃ nivāsayya yenāyuṣmān rāṣṭrapālo tenopasaṃkrāntaḥ"
+          "text": "apālasya mahallako vāmahastena keśaṃ saṃnipātayan paṭakam ekanivāsaṃ nivāsayya yenāyuṣmān rāṣṭrapālo tenopasaṃkrāntaḥ",
+          "segment_number": 571
         },
         {
           "tag": "text",
-          "text": "v6"
+          "text": "v6",
+          "segment_number": 572
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tena kha"
+          "text": "tena kha",
+          "segment_number": 573
         },
         {
           "tag": "text",
-          "text": "lu samayenāyu"
+          "text": "lu samayenāyu",
+          "segment_number": 574
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṣmān rāṣṭrapālaḥ prakārakaṇṭake sthitas taṃ paryuṣitaṃ pūtikulmāṣaṃ paribhuñjati."
+          "text": "ṣmān rāṣṭrapālaḥ prakārakaṇṭake sthitas taṃ paryuṣitaṃ pūtikulmāṣaṃ paribhuñjati.",
+          "segment_number": 575
         }
-      ]
+      ],
+      "segment_number": 518
     },
     {
       "tag": "l",
@@ -3599,62 +4174,73 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 38"
+          "text": "RāṣṭraP 38",
+          "segment_number": 576
         },
         {
           "tag": "text",
-          "text": "///"
+          "text": "///",
+          "segment_number": 577
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yatra nadyā gaṅgāyāḥ sroto"
+          "text": "yatra nadyā gaṅgāyāḥ sroto",
+          "segment_number": 578
         },
         {
           "tag": "text",
-          "text": "gaṃbhīrataraṃ ca śīghra"
+          "text": "gaṃbhīrataraṃ ca śīghra",
+          "segment_number": 579
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "taraṃ ca"
+          "text": "taraṃ ca",
+          "segment_number": 580
         },
         {
           "tag": "text",
-          "text": "tatra prakṣipa / mā te atonid"
+          "text": "tatra prakṣipa / mā te atonid",
+          "segment_number": 581
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ānaṃ bhaviṣyanti śokaparide"
+          "text": "ānaṃ bhaviṣyanti śokaparide",
+          "segment_number": 582
         },
         {
           "tag": "text",
-          "text": "vaduḥkhadaurmanasyop"
+          "text": "vaduḥkhadaurmanasyop",
+          "segment_number": 583
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āyā"
+          "text": "āyā",
+          "segment_number": 584
         },
         {
           "tag": "text",
-          "text": "sā"
+          "text": "sā",
+          "segment_number": 585
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ /"
+          "text": "ḥ /",
+          "segment_number": 586
         }
       ]
     },
@@ -3667,7 +4253,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: (śakaṭeṣv āropayya nadyā) [...] mā te atonid(ānam utpatsyante śoka(paride)vaduḥkhadaurmanasyop(āyā)sā(ḥ)"
+          "text": "Matsumura: (śakaṭeṣv āropayya nadyā) [...] mā te atonid(ānam utpatsyante śoka(paride)vaduḥkhadaurmanasyop(āyā)sā(ḥ)",
+          "segment_number": 587
         }
       ]
     },
@@ -3680,69 +4267,81 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 39"
+          "text": "RāṣṭraP 39",
+          "segment_number": 588
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "athāyuṣmato rāṣṭra"
+          "text": "athāyuṣmato rāṣṭra",
+          "segment_number": 589
         },
         {
           "tag": "text",
-          "text": "pālasya mahallik"
+          "text": "pālasya mahallik",
+          "segment_number": 590
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 591
         },
         {
           "tag": "text",
-          "text": "yāḥ etad abhavat"
+          "text": "yāḥ etad abhavat",
+          "segment_number": 592
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 593
         },
         {
           "tag": "text",
-          "text": "evam apy aham kurvatī"
+          "text": "evam apy aham kurvatī",
+          "segment_number": 594
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "na śakyāyuṣmantaṃ rāṣ"
+          "text": "na śakyāyuṣmantaṃ rāṣ",
+          "segment_number": 595
         },
         {
           "tag": "text",
-          "text": "ṭrapālam anvāvartitum / yanv aha"
+          "text": "ṭrapālam anvāvartitum / yanv aha",
+          "segment_number": 596
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 597
         },
         {
           "tag": "text",
-          "text": "vadhuk"
+          "text": "vadhuk",
+          "segment_number": 598
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā udyojayeyam /"
+          "text": "ā udyojayeyam /",
+          "segment_number": 599
         }
       ]
     },
@@ -3755,7 +4354,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: (na śakyā tātaṃ rāṣ)ṭrapālam anvāvartitum"
+          "text": "Matsumura: (na śakyā tātaṃ rāṣ)ṭrapālam anvāvartitum",
+          "segment_number": 600
         }
       ]
     },
@@ -3768,36 +4368,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 40"
+          "text": "RāṣṭraP 40",
+          "segment_number": 601
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 602
         },
         {
           "tag": "text",
-          "text": "thāyuṣmato rāṣṭrapālasya mahallikā vadhukā u"
+          "text": "thāyuṣmato rāṣṭrapālasya mahallikā vadhukā u",
+          "segment_number": 603
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "dyojayantīdam avo"
+          "text": "dyojayantīdam avo",
+          "segment_number": 604
         },
         {
           "tag": "text",
-          "text": "cat"
+          "text": "cat",
+          "segment_number": 605
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 606
         }
       ]
     },
@@ -3810,399 +4416,471 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 41"
+          "text": "RāṣṭraP 41",
+          "segment_number": 607
         },
         {
           "tag": "text",
-          "text": "vadhukā / yadrūpeṇa pūrvaṃ snānena"
+          "text": "vadhukā / yadrūpeṇa pūrvaṃ snānena",
+          "segment_number": 608
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "snātāḥ vastraiḥ pravṛ"
+          "text": "snātāḥ vastraiḥ pravṛ",
+          "segment_number": 609
         },
         {
           "tag": "text",
-          "text": "tāḥ alaṃkāreṇālaṃkṛtāḥ dhūpair dhūpitāḥ cū"
+          "text": "tāḥ alaṃkāreṇālaṃkṛtāḥ dhūpair dhūpitāḥ cū",
+          "segment_number": 610
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "r"
+          "text": "r",
+          "segment_number": 611
         },
         {
           "tag": "text",
-          "text": "ṇ"
+          "text": "ṇ",
+          "segment_number": 612
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "air avacūrṇitāḥ"
+          "text": "air avacūrṇitāḥ",
+          "segment_number": 613
         },
         {
           "tag": "text",
-          "text": "rāṣṭrapālasya pūrve āgārikasya sata"
+          "text": "rāṣṭrapālasya pūrve āgārikasya sata",
+          "segment_number": 614
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ p"
+          "text": "ḥ p",
+          "segment_number": 615
         },
         {
           "tag": "text",
-          "text": "r"
+          "text": "r",
+          "segment_number": 616
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "iyāś cābhūta ma"
+          "text": "iyāś cābhūta ma",
+          "segment_number": 617
         },
         {
           "tag": "text",
-          "text": "nāpāś ca tadrūpaiḥ snātraiḥ snātāḥ vastraiḥ prāvṛtāḥ alaṃkāreṇā"
+          "text": "nāpāś ca tadrūpaiḥ snātraiḥ snātāḥ vastraiḥ prāvṛtāḥ alaṃkāreṇā",
+          "segment_number": 618
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "laṃkṛtāḥ dhūpair dhūpitāḥ cūrṇai"
+          "text": "laṃkṛtāḥ dhūpair dhūpitāḥ cūrṇai",
+          "segment_number": 619
         },
         {
           "tag": "text",
-          "text": "r a"
+          "text": "r a",
+          "segment_number": 620
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "va"
+          "text": "va",
+          "segment_number": 621
         },
         {
           "tag": "text",
-          "text": "cūrṇitāḥ ekā ekasmiṃ pāde ni"
+          "text": "cūrṇitāḥ ekā ekasmiṃ pāde ni",
+          "segment_number": 622
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "patitvā dvitī"
+          "text": "patitvā dvitī",
+          "segment_number": 623
         },
         {
           "tag": "text",
-          "text": "yā dvitīye nipatitvā evaṃ vadata / kathaṃrūpās tā aps"
+          "text": "yā dvitīye nipatitvā evaṃ vadata / kathaṃrūpās tā aps",
+          "segment_number": 624
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 625
         },
         {
           "tag": "text",
-          "text": "raso y"
+          "text": "raso y",
+          "segment_number": 626
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āsām arthe āryaputro bhaga"
+          "text": "āsām arthe āryaputro bhaga",
+          "segment_number": 627
         },
         {
           "tag": "text",
-          "text": "va"
+          "text": "va",
+          "segment_number": 628
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "t"
+          "text": "t",
+          "segment_number": 629
         },
         {
           "tag": "text",
-          "text": "o 'n"
+          "text": "o 'n",
+          "segment_number": 630
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "t"
+          "text": "t",
+          "segment_number": 631
         },
         {
           "tag": "text",
-          "text": "i"
+          "text": "i",
+          "segment_number": 632
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "k"
+          "text": "k",
+          "segment_number": 633
         },
         {
           "tag": "text",
-          "text": "e brahmac"
+          "text": "e brahmac",
+          "segment_number": 634
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aryaṃ"
+          "text": "aryaṃ",
+          "segment_number": 635
         },
         {
           "tag": "text",
-          "text": "carati /"
+          "text": "carati /",
+          "segment_number": 636
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 42"
+          "text": "RāṣṭraP 42",
+          "segment_number": 637
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "athāyuṣmato rāṣṭrapā"
+          "text": "athāyuṣmato rāṣṭrapā",
+          "segment_number": 638
         },
         {
           "tag": "text",
-          "text": "l"
+          "text": "l",
+          "segment_number": 639
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 640
         },
         {
           "tag": "text",
-          "text": "sya purāṇadv"
+          "text": "sya purāṇadv",
+          "segment_number": 641
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 642
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 643
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ī"
+          "text": "ī",
+          "segment_number": 644
         },
         {
           "tag": "text",
-          "text": "yā yadrūpaiḥ snānaiḥ snātāḥ pūrvav"
+          "text": "yā yadrūpaiḥ snānaiḥ snātāḥ pūrvav",
+          "segment_number": 645
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ad"
+          "text": "ad",
+          "segment_number": 646
         },
         {
           "tag": "text",
-          "text": "y"
+          "text": "y",
+          "segment_number": 647
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 648
         },
         {
           "tag": "text",
-          "text": "vac c"
+          "text": "vac c",
+          "segment_number": 649
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ūrṇair avacūrṇit"
+          "text": "ūrṇair avacūrṇit",
+          "segment_number": 650
         },
         {
           "tag": "text",
-          "text": "ā rāṣṭrap"
+          "text": "ā rāṣṭrap",
+          "segment_number": 651
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āla"
+          "text": "āla",
+          "segment_number": 652
         },
         {
           "tag": "text",
-          "text": "sya / ā"
+          "text": "sya / ā",
+          "segment_number": 653
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "gāri"
+          "text": "gāri",
+          "segment_number": 654
         },
         {
           "tag": "text",
-          "text": "kasy"
+          "text": "kasy",
+          "segment_number": 655
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a sataḥ priyāś cā"
+          "text": "a sataḥ priyāś cā",
+          "segment_number": 656
         },
         {
           "tag": "text",
-          "text": "bhū⟨va⟩n manāpāś ca tadrūpaiḥ snānaiḥ snātāḥ pūrvavad yāvac cūrṇair ava"
+          "text": "bhū⟨va⟩n manāpāś ca tadrūpaiḥ snānaiḥ snātāḥ pūrvavad yāvac cūrṇair ava",
+          "segment_number": 657
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "cūrṇitāḥ ekā ekasmiṃ"
+          "text": "cūrṇitāḥ ekā ekasmiṃ",
+          "segment_number": 658
         },
         {
           "tag": "text",
-          "text": "pāde nipatitā dvit"
+          "text": "pāde nipatitā dvit",
+          "segment_number": 659
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ī"
+          "text": "ī",
+          "segment_number": 660
         },
         {
           "tag": "text",
-          "text": "yā dvitīye ev"
+          "text": "yā dvitīye ev",
+          "segment_number": 661
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "am avocan / kathaṃr"
+          "text": "am avocan / kathaṃr",
+          "segment_number": 662
         },
         {
           "tag": "text",
-          "text": "ūpās tā apsaraso yāsām arthe āryaputro bhaga"
+          "text": "ūpās tā apsaraso yāsām arthe āryaputro bhaga",
+          "segment_number": 663
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vato 'ntike brahmacaryaṃ"
+          "text": "vato 'ntike brahmacaryaṃ",
+          "segment_number": 664
         },
         {
           "tag": "text",
-          "text": "carati /"
+          "text": "carati /",
+          "segment_number": 665
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura; rāṣṭrap(āla)sya / ⟨pūrve⟩ ā(gāri)kasy(a) ... dvit(ī)yā dvitīye ev(aṃ kathaṃr)ūpās"
+          "text": "Matsumura; rāṣṭrap(āla)sya / ⟨pūrve⟩ ā(gāri)kasy(a) ... dvit(ī)yā dvitīye ev(aṃ kathaṃr)ūpās",
+          "segment_number": 666
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 43"
+          "text": "RāṣṭraP 43",
+          "segment_number": 667
         },
         {
           "tag": "text",
-          "text": "nāhaṃ bhaginyaḥ apsarasāṃ heto"
+          "text": "nāhaṃ bhaginyaḥ apsarasāṃ heto",
+          "segment_number": 668
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "r bhagavato 'ntike"
+          "text": "r bhagavato 'ntike",
+          "segment_number": 669
         },
         {
           "tag": "text",
-          "text": "brahmacaryaṃ carāmi /"
+          "text": "brahmacaryaṃ carāmi /",
+          "segment_number": 670
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 44"
+          "text": "RāṣṭraP 44",
+          "segment_number": 671
         },
         {
           "tag": "text",
-          "text": "athāyuṣmato rāṣṭrapālas"
+          "text": "athāyuṣmato rāṣṭrapālas",
+          "segment_number": 672
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ya purāṇadvitīyā"
+          "text": "ya purāṇadvitīyā",
+          "segment_number": 673
         },
         {
           "tag": "text",
-          "text": "bhaginīvādena samudācīrṇe / mūrcchitā"
+          "text": "bhaginīvādena samudācīrṇe / mūrcchitā",
+          "segment_number": 674
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "bhūmyāṃ nipati"
+          "text": "bhūmyāṃ nipati",
+          "segment_number": 675
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 676
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 677
         },
         {
           "tag": "text",
-          "text": "ḥ /"
+          "text": "ḥ /",
+          "segment_number": 678
         },
         {
           "tag": "l",
@@ -4213,29 +4891,34 @@
               "attributes": {
                 "rend": "bold"
               },
-              "text": "RāṣṭraP 45"
+              "text": "RāṣṭraP 45",
+              "segment_number": 679
             },
             {
               "tag": "text",
-              "text": "athāyuṣmāṃ rāṣṭrapālo mātāpitaram āmantrayati / aṃ"
+              "text": "athāyuṣmāṃ rāṣṭrapālo mātāpitaram āmantrayati / aṃ",
+              "segment_number": 680
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ba tāta saced vāṃ"
+              "text": "ba tāta saced vāṃ",
+              "segment_number": 681
             },
             {
               "tag": "text",
-              "text": "parityaktaṃ kiṃ na dīyate kiṃ viheṭhīyat"
+              "text": "parityaktaṃ kiṃ na dīyate kiṃ viheṭhīyat",
+              "segment_number": 682
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "e /"
+              "text": "e /",
+              "segment_number": 683
             }
           ]
         },
@@ -4244,7 +4927,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: aṃ(ba tāta saced annaṃ) parityaktaṃ kiṃ na dīyate kiṃ viheṭhīyat(e parityakte)"
+          "text": "Matsumura: aṃ(ba tāta saced annaṃ) parityaktaṃ kiṃ na dīyate kiṃ viheṭhīyat(e parityakte)",
+          "segment_number": 684
         }
       ]
     },
@@ -4257,25 +4941,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 46"
+          "text": "RāṣṭraP 46",
+          "segment_number": 685
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sadyo bhaktaṃ"
+          "text": "sadyo bhaktaṃ",
+          "segment_number": 686
         },
         {
           "tag": "text",
-          "text": "bhuṃkṣva tāta rāṣṭrapāla"
+          "text": "bhuṃkṣva tāta rāṣṭrapāla",
+          "segment_number": 687
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 688
         }
       ]
     },
@@ -4288,7 +4976,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "Matsumura: [46] bhuṃkṣva tāta rāṣṭrapāla"
+          "text": "Matsumura: [46] bhuṃkṣva tāta rāṣṭrapāla",
+          "segment_number": 689
         }
       ]
     },
@@ -4301,47 +4990,55 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 47"
+          "text": "RāṣṭraP 47",
+          "segment_number": 690
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 691
         },
         {
           "tag": "text",
-          "text": "thāyuṣmato rāṣṭrapālasya maha"
+          "text": "thāyuṣmato rāṣṭrapālasya maha",
+          "segment_number": 692
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "llikā utthāyāsanād ā"
+          "text": "llikā utthāyāsanād ā",
+          "segment_number": 693
         },
         {
           "tag": "text",
-          "text": "yuṣmantaṃ rāṣṭrapālaṃ śuci"
+          "text": "yuṣmantaṃ rāṣṭrapālaṃ śuci",
+          "segment_number": 694
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nā"
+          "text": "nā",
+          "segment_number": 695
         },
         {
           "tag": "text",
-          "text": "pr"
+          "text": "pr",
+          "segment_number": 696
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aṇītena khādanīyabhojanīyena svahastaṃ santarpayanti saṃpravārayanti /"
+          "text": "aṇītena khādanīyabhojanīyena svahastaṃ santarpayanti saṃpravārayanti /",
+          "segment_number": 697
         }
       ]
     },
@@ -4361,119 +5058,141 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 699
             },
             {
               "tag": "text",
-              "text": "thāyuṣmato rāṣṭrapālasya maha"
+              "text": "thāyuṣmato rāṣṭrapālasya maha",
+              "segment_number": 700
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "llako mahallikā cā"
+              "text": "llako mahallikā cā",
+              "segment_number": 701
             },
             {
               "tag": "text",
-              "text": "yuṣmantaṃ rāṣṭrapālaṃ śuci"
+              "text": "yuṣmantaṃ rāṣṭrapālaṃ śuci",
+              "segment_number": 702
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "nā"
+              "text": "nā",
+              "segment_number": 703
             },
             {
               "tag": "text",
-              "text": "pr"
+              "text": "pr",
+              "segment_number": 704
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "aṇītena khādanīyabhojanīyena svahastaṃ santarpayanti saṃpravārayanti. anekaparyāyeṇa śucinā praṇītena khādanīyabhojanīyena svahastaṃ santarpayitvā saṃpravārayitvā"
+              "text": "aṇītena khādanīyabhojanīyena svahastaṃ santarpayanti saṃpravārayanti. anekaparyāyeṇa śucinā praṇītena khādanīyabhojanīyena svahastaṃ santarpayitvā saṃpravārayitvā",
+              "segment_number": 705
             }
-          ]
+          ],
+          "segment_number": 698
         },
         {
           "tag": "text",
-          "text": "⟨"
+          "text": "⟨",
+          "segment_number": 706
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 48"
+          "text": "RāṣṭraP 48",
+          "segment_number": 707
         },
         {
           "tag": "text",
-          "text": "⟩"
+          "text": "⟩",
+          "segment_number": 708
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āyuṣmantaṃ rāṣṭrapālaṃ bhuktavantaṃ viditvā dhautahastam apanītapātraṃ nīcatarakam āsanaṃ gṛhītvā niṣaṇṇā dharmaśravaṇāya"
+          "text": "āyuṣmantaṃ rāṣṭrapālaṃ bhuktavantaṃ viditvā dhautahastam apanītapātraṃ nīcatarakam āsanaṃ gṛhītvā niṣaṇṇā dharmaśravaṇāya",
+          "segment_number": 709
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "Restored text by Matsumura"
+          "text": "Restored text by Matsumura",
+          "segment_number": 710
         },
         {
           "tag": "text",
-          "text": "⟨"
+          "text": "⟨",
+          "segment_number": 711
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "RāṣṭraP 49"
+          "text": "RāṣṭraP 49",
+          "segment_number": 712
         },
         {
           "tag": "text",
-          "text": "⟩"
+          "text": "⟩",
+          "segment_number": 713
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "athāyuṣmān rāṣṭrapālas tasyāṃ velāyāṃ gāthā babhāṣe."
+          "text": "athāyuṣmān rāṣṭrapālas tasyāṃ velāyāṃ gāthā babhāṣe.",
+          "segment_number": 714
         },
         {
           "tag": "text",
-          "text": "............\n  prahāya kāmāñ chrāmaṇyam"
+          "text": "............\n  prahāya kāmāñ chrāmaṇyam",
+          "segment_number": 715
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "e"
+          "text": "e",
+          "segment_number": 716
         },
         {
           "tag": "text",
-          "text": "va śre"
+          "text": "va śre",
+          "segment_number": 717
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yaḥ"
+          "text": "yaḥ",
+          "segment_number": 718
         },
         {
           "tag": "text",
-          "text": "//"
+          "text": "//",
+          "segment_number": 719
         }
       ]
     },
@@ -4487,49 +5206,58 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "mahārāja kauravya āyuṣmato rāṣṭrapāla"
+          "text": "mahārāja kauravya āyuṣmato rāṣṭrapāla",
+          "segment_number": 721
         },
         {
           "tag": "text",
-          "text": "sya bhāṣita"
+          "text": "sya bhāṣita",
+          "segment_number": 722
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m a"
+          "text": "m a",
+          "segment_number": 723
         },
         {
           "tag": "text",
-          "text": "bhinandyānumody"
+          "text": "bhinandyānumody",
+          "segment_number": 724
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āyuṣmatpādau"
+          "text": "āyuṣmatpādau",
+          "segment_number": 725
         },
         {
           "tag": "text",
-          "text": "śira"
+          "text": "śira",
+          "segment_number": 726
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sā vanditvāsanād utthāya prakrāntaḥ."
+          "text": "sā vanditvāsanād utthāya prakrāntaḥ.",
+          "segment_number": 727
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "Restored text by Matsumura; cf. SHT III 804a r3 (and additions in SHT VII)"
+          "text": "Restored text by Matsumura; cf. SHT III 804a r3 (and additions in SHT VII)",
+          "segment_number": 728
         }
-      ]
+      ],
+      "segment_number": 720
     }
   ]
 }

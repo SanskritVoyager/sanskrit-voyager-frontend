@@ -37,12 +37,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "I. Regeln zur Metrik\nII. Chandoviciti\nIII. Metrik-Lehrtext"
+      "text": "I. Regeln zur Metrik\nII. Chandoviciti\nIII. Metrik-Lehrtext",
+      "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "I. Regeln zur Metrik, Versgruppe A: A.1 - A.15"
+      "text": "I. Regeln zur Metrik, Versgruppe A: A.1 - A.15",
+      "segment_number": 2
     },
     {
       "tag": "p",
@@ -54,88 +56,104 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 4
         },
         {
           "tag": "text",
-          "text": "maskṛtvā /\nmiśrīkṛtaṃ abhidhāsye samu _ _ _ ^ _ _ _ / 1 = ChV_I_A_1\nvṛttāny asaṃskṛ _ _ _ _ _ _ ^ d anyasaṃjñābhiḥ /\ndaśadaśaṣaṭmacchandaṃ _ _ _ _ ^ _ _"
+          "text": "maskṛtvā /\nmiśrīkṛtaṃ abhidhāsye samu _ _ _ ^ _ _ _ / 1 = ChV_I_A_1\nvṛttāny asaṃskṛ _ _ _ _ _ _ ^ d anyasaṃjñābhiḥ /\ndaśadaśaṣaṭmacchandaṃ _ _ _ _ ^ _ _",
+          "segment_number": 5
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": ".i"
+          "text": ".i",
+          "segment_number": 6
         },
         {
           "tag": "text",
-          "text": "/ 2 // = ChV_I_A_2\n_ _ .y. kādi _ ^ tha saṃjñābhiḥ ṣaḍakṣarādīni /\nś_ _ _ _ _ _ _ _ _ _ ^ _ _ ^"
+          "text": "/ 2 // = ChV_I_A_2\n_ _ .y. kādi _ ^ tha saṃjñābhiḥ ṣaḍakṣarādīni /\nś_ _ _ _ _ _ _ _ _ _ ^ _ _ ^",
+          "segment_number": 7
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 3 //"
+          "text": "/ 3 //",
+          "segment_number": 8
         },
         {
           "tag": "text",
-          "text": "= ChV_I_A_3"
+          "text": "= ChV_I_A_3",
+          "segment_number": 9
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "gāya"
+          "text": "gāya",
+          "segment_number": 10
         },
         {
           "tag": "text",
-          "text": "try uṣṇīg_ .ā śakvaryy aṣ"
+          "text": "try uṣṇīg_ .ā śakvaryy aṣ",
+          "segment_number": 11
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṭ"
+          "text": "ṭ",
+          "segment_number": 12
         },
         {
           "tag": "text",
-          "text": "ir dh"
+          "text": "ir dh",
+          "segment_number": 13
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṛ"
+          "text": "ṛ",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": "tiś"
+          "text": "tiś",
+          "segment_number": 15
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ca"
+          "text": "ca",
+          "segment_number": 16
         },
         {
           "tag": "text",
-          "text": "jagatī _ /\n_ _ _ _ _ _ _ _ _ _ ^ _ _"
+          "text": "jagatī _ /\n_ _ _ _ _ _ _ _ _ _ ^ _ _",
+          "segment_number": 17
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": ".i"
+          "text": ".i",
+          "segment_number": 18
         },
         {
           "tag": "text",
-          "text": "/"
+          "text": "/",
+          "segment_number": 19
         },
         {
           "tag": "hi",
@@ -149,262 +167,311 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "/"
+              "text": "/",
+              "segment_number": 21
             },
             {
               "tag": "text",
-              "text": "_ _ _ _ _ _ _ _ _ _"
+              "text": "_ _ _ _ _ _ _ _ _ _",
+              "segment_number": 22
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 23
             },
             {
               "tag": "text",
-              "text": "dhastāt tu / 7 // = ChV_I_A_7\ngurulaghumiśraṃ vṛttaṃ sama _ _ _ ^ _ ^"
+              "text": "dhastāt tu / 7 // = ChV_I_A_7\ngurulaghumiśraṃ vṛttaṃ sama _ _ _ ^ _ ^",
+              "segment_number": 24
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "v"
+              "text": "v",
+              "segment_number": 25
             },
             {
               "tag": "text",
-              "text": "iṣamañ ca /\npāde _ _ _ _ _ _ ^"
+              "text": "iṣamañ ca /\npāde _ _ _ _ _ _ ^",
+              "segment_number": 26
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "yu"
+              "text": "yu",
+              "segment_number": 27
             },
             {
               "tag": "text",
-              "text": "jāyujau viṣamau / 8 // = ChV_I_A_8\nsamaviṣamā _ _ _ _ _ _ _"
+              "text": "jāyujau viṣamau / 8 // = ChV_I_A_8\nsamaviṣamā _ _ _ _ _ _ _",
+              "segment_number": 28
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "da"
+              "text": "da",
+              "segment_number": 29
             },
             {
               "tag": "text",
-              "text": "rūparūpārddaiḥ /\ny. _ _ _ _ _ _ .iñ ga sa syāt padasamāptau / 9 // = ChV_I_A_9\n@b: Chen: darūparūpārddhaiḥ@@\nyukp"
+              "text": "rūparūpārddaiḥ /\ny. _ _ _ _ _ _ .iñ ga sa syāt padasamāptau / 9 // = ChV_I_A_9\n@b: Chen: darūparūpārddhaiḥ@@\nyukp",
+              "segment_number": 30
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ā"
+              "text": "ā",
+              "segment_number": 31
             },
             {
               "tag": "text",
-              "text": "d"
+              "text": "d",
+              "segment_number": 32
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "e"
+              "text": "e",
+              "segment_number": 33
             },
             {
               "tag": "text",
-              "text": "_ _ _ _ _ _ _ ^ _ ^ _ _ _"
+              "text": "_ _ _ _ _ _ _ ^ _ ^ _ _ _",
+              "segment_number": 34
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/"
+              "text": "/",
+              "segment_number": 35
             },
             {
               "tag": "text",
-              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _"
+              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _",
+              "segment_number": 36
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ 10 //"
+              "text": "/ 10 //",
+              "segment_number": 37
             },
             {
               "tag": "text",
-              "text": "= ChV_I_A_10\n_ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ sv"
+              "text": "= ChV_I_A_10\n_ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ sv",
+              "segment_number": 38
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 39
             },
             {
               "tag": "text",
-              "text": "r"
+              "text": "r",
+              "segment_number": 40
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 41
             },
             {
               "tag": "text",
-              "text": "v"
+              "text": "v",
+              "segment_number": 42
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 43
             },
             {
               "tag": "text",
-              "text": "susvasaṃkh"
+              "text": "susvasaṃkh",
+              "segment_number": 44
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "yā"
+              "text": "yā",
+              "segment_number": 45
             },
             {
               "tag": "text",
-              "text": "_ _ _ _ ^ _ _ _"
+              "text": "_ _ _ _ ^ _ _ _",
+              "segment_number": 46
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ 11 //"
+              "text": "/ 11 //",
+              "segment_number": 47
             },
             {
               "tag": "text",
-              "text": "= ChV_I_A_11\n_ _ _ _ _ _ _ _ _ _ khamaddhyanaidha _"
+              "text": "= ChV_I_A_11\n_ _ _ _ _ _ _ _ _ _ khamaddhyanaidha _",
+              "segment_number": 48
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/"
+              "text": "/",
+              "segment_number": 49
             },
             {
               "tag": "text",
-              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _"
+              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _",
+              "segment_number": 50
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ 12 //"
+              "text": "/ 12 //",
+              "segment_number": 51
             },
             {
               "tag": "text",
-              "text": "= ChV_I_A_12\n_ _ _ _ _ _ _ _ _ _ catuṣṭaye prathame /\nśeṣe _ _ _ _ _ _ _ _ ^ _ _ _"
+              "text": "= ChV_I_A_12\n_ _ _ _ _ _ _ _ _ _ catuṣṭaye prathame /\nśeṣe _ _ _ _ _ _ _ _ ^ _ _ _",
+              "segment_number": 52
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ 13 //"
+              "text": "/ 13 //",
+              "segment_number": 53
             },
             {
               "tag": "text",
-              "text": "= ChV_I_A_13\n_ _ _ _ _ḥ syād guruṇī pānaṃ na bhāsv^ _ _ _"
+              "text": "= ChV_I_A_13\n_ _ _ _ _ḥ syād guruṇī pānaṃ na bhāsv^ _ _ _",
+              "segment_number": 54
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/"
+              "text": "/",
+              "segment_number": 55
             },
             {
               "tag": "text",
-              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _"
+              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _",
+              "segment_number": 56
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ 14 //"
+              "text": "/ 14 //",
+              "segment_number": 57
             },
             {
               "tag": "text",
-              "text": "= ChV_I_A_14\n_ _ rūpe dve dve sa ^ _ catv"
+              "text": "= ChV_I_A_14\n_ _ rūpe dve dve sa ^ _ catv",
+              "segment_number": 58
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ā"
+              "text": "ā",
+              "segment_number": 59
             },
             {
               "tag": "text",
-              "text": "r"
+              "text": "r",
+              "segment_number": 60
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "i"
+              "text": "i",
+              "segment_number": 61
             },
             {
               "tag": "text",
-              "text": "_ ^ _ _ _"
+              "text": "_ ^ _ _ _",
+              "segment_number": 62
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/"
+              "text": "/",
+              "segment_number": 63
             },
             {
               "tag": "text",
-              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ yaḥ"
+              "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ yaḥ",
+              "segment_number": 64
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "//"
+              "text": "//",
+              "segment_number": 65
             },
             {
               "tag": "text",
-              "text": "= ChV_I_A_15"
+              "text": "= ChV_I_A_15",
+              "segment_number": 66
             }
-          ]
+          ],
+          "segment_number": 20
         }
-      ]
+      ],
+      "segment_number": 3
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Versgruppe B: B1 - B31"
+      "text": "Versgruppe B: B1 - B31",
+      "segment_number": 67
     },
     {
       "tag": "p",
@@ -416,51 +483,61 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 69
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ ^ _ vṛttaḥ 1 // = ChV_I_B_1\nekena devaya _ _ _ _ _ ^ _ ^ _ _ _"
+          "text": "_ _ _ _ ^ _ vṛttaḥ 1 // = ChV_I_B_1\nekena devaya _ _ _ _ _ ^ _ ^ _ _ _",
+          "segment_number": 70
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 71
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _ 2 // = ChV_I_B_2\nbrahmaṛca _ _ _ _ _ _ _ ^ _ ^ _ _ _"
+          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _ 2 // = ChV_I_B_2\nbrahmaṛca _ _ _ _ _ _ _ ^ _ ^ _ _ _",
+          "segment_number": 72
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 73
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _"
+          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ _",
+          "segment_number": 74
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 3 //"
+          "text": "/ 3 //",
+          "segment_number": 75
         },
         {
           "tag": "text",
-          "text": "= ChV_I_B_3"
+          "text": "= ChV_I_B_3",
+          "segment_number": 76
         }
-      ]
+      ],
+      "segment_number": 68
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ChV_I_B_4-5 nicht erhalten"
+      "text": "ChV_I_B_4-5 nicht erhalten",
+      "segment_number": 77
     },
     {
       "tag": "p",
@@ -472,67 +549,80 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "pura"
+          "text": "pura",
+          "segment_number": 79
         },
         {
           "tag": "text",
-          "text": "stādbṛhatī jā ... = ChV_I_B_7\n_ _ _ _ _ _ _ _ tasya dvitīyayogād bṛ"
+          "text": "stādbṛhatī jā ... = ChV_I_B_7\n_ _ _ _ _ _ _ _ tasya dvitīyayogād bṛ",
+          "segment_number": 80
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "hatī /"
+          "text": "hatī /",
+          "segment_number": 81
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ ttyau 8 // = ChV_I_B_8\nmahataḥ parā ^ _ _ _ _ _ _ ^ _ ^ _ _ _"
+          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ _ ttyau 8 // = ChV_I_B_8\nmahataḥ parā ^ _ _ _ _ _ _ ^ _ ^ _ _ _",
+          "segment_number": 82
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 83
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ _ _ _ _ gatāv ante / 9"
+          "text": "_ _ _ _ _ _ _ _ _ _ gatāv ante / 9",
+          "segment_number": 84
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "//"
+          "text": "//",
+          "segment_number": 85
         },
         {
           "tag": "text",
-          "text": "= ChV_I_B_9\n.i _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _"
+          "text": "= ChV_I_B_9\n.i _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _",
+          "segment_number": 86
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 87
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ padbhiḥ 10 // = ChV_I_B_10\n@d: Chen: paṅ[k](t)iḥ@@"
+          "text": "_ _ _ _ _ _ _ _ _ _ ^ _ padbhiḥ 10 // = ChV_I_B_10\n@d: Chen: paṅ[k](t)iḥ@@",
+          "segment_number": 88
         }
-      ]
+      ],
+      "segment_number": 78
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ChV_I_B_11-21 nicht erhalten"
+      "text": "ChV_I_B_11-21 nicht erhalten",
+      "segment_number": 89
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "... t. syā tāv. m. śr. t. pr. ... = ChV_I_B_22"
+      "text": "... t. syā tāv. m. śr. t. pr. ... = ChV_I_B_22",
+      "segment_number": 90
     },
     {
       "tag": "p",
@@ -544,134 +634,159 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 23 //"
+          "text": "/ 23 //",
+          "segment_number": 92
         },
         {
           "tag": "text",
-          "text": "= ChV_I_B_23\n_ .y. vṛttir yyad ojayoḥ prācyavṛttir atha śe ^ _ ^ _"
+          "text": "= ChV_I_B_23\n_ .y. vṛttir yyad ojayoḥ prācyavṛttir atha śe ^ _ ^ _",
+          "segment_number": 93
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 94
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ ^ _ ^ _ _ ^ _ ^ _ _ ^ _ ^ _"
+          "text": "_ _ _ _ ^ _ ^ _ _ ^ _ ^ _ _ ^ _ ^ _",
+          "segment_number": 95
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 24 //"
+          "text": "/ 24 //",
+          "segment_number": 96
         },
         {
           "tag": "text",
-          "text": "= ChV_I_B_24"
+          "text": "= ChV_I_B_24",
+          "segment_number": 97
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m"
+          "text": "m",
+          "segment_number": 98
         },
         {
           "tag": "text",
-          "text": "ātrā daśaṣaṭsahi ^ _ _ _ _ _ _ ^ _ ^ _"
+          "text": "ātrā daśaṣaṭsahi ^ _ _ _ _ _ _ ^ _ ^ _",
+          "segment_number": 99
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 100
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ ^ _ ^ .ā nidhane ca tathā pi ^ _ ^ _"
+          "text": "_ _ _ _ _ ^ _ ^ .ā nidhane ca tathā pi ^ _ ^ _",
+          "segment_number": 101
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 25 //"
+          "text": "/ 25 //",
+          "segment_number": 102
         },
         {
           "tag": "text",
-          "text": "= ChV_I_B_25\n... .y. tath"
+          "text": "= ChV_I_B_25\n... .y. tath",
+          "segment_number": 103
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 104
         },
         {
           "tag": "text",
-          "text": "v. c. ... = ChV_I_B_26\n_ _ _ b. yāyāḥ yo dvitī"
+          "text": "v. c. ... = ChV_I_B_26\n_ _ _ b. yāyāḥ yo dvitī",
+          "segment_number": 105
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ya"
+          "text": "ya",
+          "segment_number": 106
         },
         {
           "tag": "text",
-          "text": "_ _ ^ _ ^ _ _ _"
+          "text": "_ _ ^ _ ^ _ _ _",
+          "segment_number": 107
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 108
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ _ ṅśo 'nte v. l. h. ko vā 27 // = ChV_I_B_27\nmātrāḥ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _"
+          "text": "_ _ _ _ _ _ _ ṅśo 'nte v. l. h. ko vā 27 // = ChV_I_B_27\nmātrāḥ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _",
+          "segment_number": 109
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 110
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ ^ de yujatu pañcadaśalajalo"
+          "text": "_ _ _ _ _ _ ^ de yujatu pañcadaśalajalo",
+          "segment_number": 111
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 28 //"
+          "text": "/ 28 //",
+          "segment_number": 112
         },
         {
           "tag": "text",
-          "text": "= ChV_I_B_28\n_ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ /\nna ca niyatākṣa"
+          "text": "= ChV_I_B_28\n_ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ /\nna ca niyatākṣa",
+          "segment_number": 113
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 114
         },
         {
           "tag": "text",
-          "text": "gatayo l. _ _ _ m imāḥ saṃjñāḥ 29 //"
+          "text": "gatayo l. _ _ _ m imāḥ saṃjñāḥ 29 //",
+          "segment_number": 115
         }
-      ]
+      ],
+      "segment_number": 91
     },
     {
       "tag": "p",
@@ -683,62 +798,74 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "pa"
+          "text": "pa",
+          "segment_number": 117
         },
         {
           "tag": "text",
-          "text": "ryy-abhy-adhiḥ prat"
+          "text": "ryy-abhy-adhiḥ prat",
+          "segment_number": 118
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 119
         },
         {
           "tag": "text",
-          "text": "-sv-"
+          "text": "-sv-",
+          "segment_number": 120
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aṃ"
+          "text": "aṃ",
+          "segment_number": 121
         },
         {
           "tag": "text",
-          "text": "t"
+          "text": "t",
+          "segment_number": 122
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 123
         },
         {
           "tag": "text",
-          "text": "aty-apy- ... .. .. hi tair gītikapūrvair yathāsaṃkhyam / 30 // = ChV_I_B_30\n@d: Chen: yyathāŚ@@\ncaturbhir api yat pādaiḥ saṃkhyāgativi _ ^ _"
+          "text": "aty-apy- ... .. .. hi tair gītikapūrvair yathāsaṃkhyam / 30 // = ChV_I_B_30\n@d: Chen: yyathāŚ@@\ncaturbhir api yat pādaiḥ saṃkhyāgativi _ ^ _",
+          "segment_number": 124
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 125
         },
         {
           "tag": "text",
-          "text": "X X X .āptabhi _ .i padekārthair vigadyate / 31 // = ChV_I_B_31"
+          "text": "X X X .āptabhi _ .i padekārthair vigadyate / 31 // = ChV_I_B_31",
+          "segment_number": 126
         }
-      ]
+      ],
+      "segment_number": 116
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "II. Chandoviciti"
+      "text": "II. Chandoviciti",
+      "segment_number": 127
     },
     {
       "tag": "p",
@@ -750,172 +877,203 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 129
         },
         {
           "tag": "text",
-          "text": "thā _ ^ _ ^ _ _ _"
+          "text": "thā _ ^ _ ^ _ _ _",
+          "segment_number": 130
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 131
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ _ _ yāskapiṅgal"
+          "text": "_ _ _ _ _ _ _ yāskapiṅgal",
+          "segment_number": 132
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "asūtr"
+          "text": "asūtr",
+          "segment_number": 133
         },
         {
           "tag": "text",
-          "text": "ebhyaḥ /\nmitradhareṇa ^ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ _ _ .y. kṛtiḥ cchandovicitiḥ ^ _ _ _"
+          "text": "ebhyaḥ /\nmitradhareṇa ^ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ _ _ .y. kṛtiḥ cchandovicitiḥ ^ _ _ _",
+          "segment_number": 134
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "//"
+          "text": "//",
+          "segment_number": 135
         },
         {
           "tag": "text",
-          "text": ".. .. .. .. .. .. .. .. .. .. .. .. .. .. .. yat /\ntad vṛttaṃ jā"
+          "text": ".. .. .. .. .. .. .. .. .. .. .. .. .. .. .. yat /\ntad vṛttaṃ jā",
+          "segment_number": 136
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ti"
+          "text": "ti",
+          "segment_number": 137
         },
         {
           "tag": "text",
-          "text": ".. .. .. .. .. .. .. .. .. .. .."
+          "text": ".. .. .. .. .. .. .. .. .. .. ..",
+          "segment_number": 138
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 1 //"
+          "text": "/ 1 //",
+          "segment_number": 139
         },
         {
           "tag": "text",
-          "text": "= ChV_II_1_1\n_ _ _ _ tubh.ḥ .ū .y. .. .. dve nakhenam aṣṭau ca /\n_ _ _ _ _ _ _ _ tā _ ^ _ _ _m 2 // = ChV_II_1_2\n@ab: Chen: [tu]bhy"
+          "text": "= ChV_II_1_1\n_ _ _ _ tubh.ḥ .ū .y. .. .. dve nakhenam aṣṭau ca /\n_ _ _ _ _ _ _ _ tā _ ^ _ _ _m 2 // = ChV_II_1_2\n@ab: Chen: [tu]bhy",
+          "segment_number": 140
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 141
         },
         {
           "tag": "text",
-          "text": "ḥ .ū .y. .. .. dve navainam aṣṭau ca@@\naṅguly"
+          "text": "ḥ .ū .y. .. .. dve navainam aṣṭau ca@@\naṅguly",
+          "segment_number": 142
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aḥ"
+          "text": "aḥ",
+          "segment_number": 143
         },
         {
           "tag": "text",
-          "text": "pādgulyas sarvāḥ samyakpratiṣṭhi"
+          "text": "pādgulyas sarvāḥ samyakpratiṣṭhi",
+          "segment_number": 144
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "t"
+          "text": "t",
+          "segment_number": 145
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 146
         },
         {
           "tag": "text",
-          "text": "bhūm"
+          "text": "bhūm",
+          "segment_number": 147
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "au"
+          "text": "au",
+          "segment_number": 148
         },
         {
           "tag": "text",
-          "text": "/\n_"
+          "text": "/\n_",
+          "segment_number": 149
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "suvṛ"
+          "text": "suvṛ",
+          "segment_number": 150
         },
         {
           "tag": "text",
-          "text": "tt"
+          "text": "tt",
+          "segment_number": 151
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 152
         },
         {
           "tag": "text",
-          "text": "nābhiḥ kanyā"
+          "text": "nābhiḥ kanyā",
+          "segment_number": 153
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nā"
+          "text": "nā",
+          "segment_number": 154
         },
         {
           "tag": "text",
-          "text": "m ādir āryyāṇām / 3 // = ChV_II_1_3\nraktamadhupadmanetrā snigdhāsitabahulasūkṣma"
+          "text": "m ādir āryyāṇām / 3 // = ChV_II_1_3\nraktamadhupadmanetrā snigdhāsitabahulasūkṣma",
+          "segment_number": 155
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "mṛ"
+          "text": "mṛ",
+          "segment_number": 156
         },
         {
           "tag": "text",
-          "text": "dukeśī /\n_ _ ^ rūrujaghanā tanuvakṣāṃsodarī pathyā"
+          "text": "dukeśī /\n_ _ ^ rūrujaghanā tanuvakṣāṃsodarī pathyā",
+          "segment_number": 157
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 158
         },
         {
           "tag": "text",
-          "text": "4"
+          "text": "4",
+          "segment_number": 159
         },
         {
           "tag": "hi",
@@ -929,275 +1087,326 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "dharoṣṭhakaracaraṇā /"
+              "text": "dharoṣṭhakaracaraṇā /",
+              "segment_number": 161
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ā"
+              "text": "ā",
+              "segment_number": 162
             },
             {
               "tag": "text",
-              "text": "yatanāsākṣibhrūlalāṭakarṇā śubhā ka"
+              "text": "yatanāsākṣibhrūlalāṭakarṇā śubhā ka",
+              "segment_number": 163
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "nyā / 5"
+              "text": "nyā / 5",
+              "segment_number": 164
             },
             {
               "tag": "text",
-              "text": "// = ChV_II_1_5\n_ _ ^ locanā citralocanā k. ^ _ ^ _ _"
+              "text": "// = ChV_II_1_5\n_ _ ^ locanā citralocanā k. ^ _ ^ _ _",
+              "segment_number": 165
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "ddhyā"
+              "text": "ddhyā",
+              "segment_number": 166
             },
             {
               "tag": "text",
-              "text": "/\nkanyā vihāramadyā miṣapriyā sarva"
+              "text": "/\nkanyā vihāramadyā miṣapriyā sarva",
+              "segment_number": 167
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "taś capalā / 6"
+              "text": "taś capalā / 6",
+              "segment_number": 168
             },
             {
               "tag": "text",
-              "text": "// = ChV_II_1_6\nabhyunnatauttarauṣṭhī prahāsa _ _ ^ _ ^ _ _ _ /\nrūkṣakapilāgrakeśīṃ mukha"
+              "text": "// = ChV_II_1_6\nabhyunnatauttarauṣṭhī prahāsa _ _ ^ _ ^ _ _ _ /\nrūkṣakapilāgrakeśīṃ mukha",
+              "segment_number": 169
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "capa"
+              "text": "capa",
+              "segment_number": 170
             },
             {
               "tag": "text",
-              "text": "lā"
+              "text": "lā",
+              "segment_number": 171
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 172
             },
             {
               "tag": "text",
-              "text": "tādṛśīṃ vindyāt / 7 // = ChV_II_1_7\n@d: Chen: viṃdyāt@@\nśaśamṛgavarā ^ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ _ ^ _ ^ gītapriyā sadā jaghanacapalā sā / 8"
+              "text": "tādṛśīṃ vindyāt / 7 // = ChV_II_1_7\n@d: Chen: viṃdyāt@@\nśaśamṛgavarā ^ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ _ ^ _ ^ gītapriyā sadā jaghanacapalā sā / 8",
+              "segment_number": 173
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "//"
+              "text": "//",
+              "segment_number": 174
             },
             {
               "tag": "text",
-              "text": "= ChV_II_1_8\n... ca gaṇe yadi viśeṣa ... = ChV_II_1_9\n_ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ _ _ _ _ _ ^ pavindyāt saptamaṃ ^ _ _ _"
+              "text": "= ChV_II_1_8\n... ca gaṇe yadi viśeṣa ... = ChV_II_1_9\n_ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ /\n_ _ _ _ _ _ ^ pavindyāt saptamaṃ ^ _ _ _",
+              "segment_number": 175
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ 10 //"
+              "text": "/ 10 //",
+              "segment_number": 176
             },
             {
               "tag": "text",
-              "text": "= ChV_II_1_10\n_ _ _ _ _ _ _ _ _ _ ^ _ _ _ /\nsu .ty. c. .. ñ c"
+              "text": "= ChV_II_1_10\n_ _ _ _ _ _ _ _ _ _ ^ _ _ _ /\nsu .ty. c. .. ñ c",
+              "segment_number": 177
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ai"
+              "text": "ai",
+              "segment_number": 178
             },
             {
               "tag": "text",
-              "text": "kagaṇe kanyā laghu _ ^ _ _ _"
+              "text": "kagaṇe kanyā laghu _ ^ _ _ _",
+              "segment_number": 179
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "/ 11 //"
+              "text": "/ 11 //",
+              "segment_number": 180
             },
             {
               "tag": "text",
-              "text": "= ChV_II_1_11"
+              "text": "= ChV_II_1_11",
+              "segment_number": 181
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "sa"
+              "text": "sa",
+              "segment_number": 182
             },
             {
               "tag": "text",
-              "text": "mupac"
+              "text": "mupac",
+              "segment_number": 183
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "i"
+              "text": "i",
+              "segment_number": 184
             },
             {
               "tag": "text",
-              "text": "tavinayajaghanavimaladaśanasamavipulacibukana ^ _ /\n^ ^ ^ ^ raṇaruciramṛdurucitakiraṇavapur ava .i ^ ^ ^"
+              "text": "tavinayajaghanavimaladaśanasamavipulacibukana ^ _ /\n^ ^ ^ ^ raṇaruciramṛdurucitakiraṇavapur ava .i ^ ^ ^",
+              "segment_number": 185
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ma"
+              "text": "ma",
+              "segment_number": 186
             },
             {
               "tag": "text",
-              "text": "hiṣīm / 12 // = ChV_II_1_12\ndurvvākisalaya _ _ _ _ _"
+              "text": "hiṣīm / 12 // = ChV_II_1_12\ndurvvākisalaya _ _ _ _ _",
+              "segment_number": 187
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": ".āṃ"
+              "text": ".āṃ",
+              "segment_number": 188
             },
             {
               "tag": "text",
-              "text": "viśālavedīmadhyām /\nkṛṣṇām avāpya _ _ _ _ _ _ .ṛtā laghubharā pṛthi"
+              "text": "viśālavedīmadhyām /\nkṛṣṇām avāpya _ _ _ _ _ _ .ṛtā laghubharā pṛthi",
+              "segment_number": 189
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "vī / 13"
+              "text": "vī / 13",
+              "segment_number": 190
             },
             {
               "tag": "text",
-              "text": "// = ChV_II_1_13\n_ _ _ _ ṣṭatālukai"
+              "text": "// = ChV_II_1_13\n_ _ _ _ ṣṭatālukai",
+              "segment_number": 191
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "r"
+              "text": "r",
+              "segment_number": 192
             },
             {
               "tag": "text",
-              "text": "jaṅghe sthūle sirātate /\nkheṭāḍi"
+              "text": "jaṅghe sthūle sirātate /\nkheṭāḍi",
+              "segment_number": 193
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "r"
+              "text": "r",
+              "segment_number": 194
             },
             {
               "tag": "text",
-              "text": "yasya lakṣaṇaṃ kanyānām etaj jugupsi"
+              "text": "yasya lakṣaṇaṃ kanyānām etaj jugupsi",
+              "segment_number": 195
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "tam / 14"
+              "text": "tam / 14",
+              "segment_number": 196
             },
             {
               "tag": "text",
-              "text": "// = ChV_II_1_14\n@ab: Chen:"
+              "text": "// = ChV_II_1_14\n@ab: Chen:",
+              "segment_number": 197
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "pādāv utkṛ"
+              "text": "pādāv utkṛ",
+              "segment_number": 198
             },
             {
               "tag": "text",
-              "text": "ṣṭatāl"
+              "text": "ṣṭatāl",
+              "segment_number": 199
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "a"
+              "text": "a",
+              "segment_number": 200
             },
             {
               "tag": "text",
-              "text": "k[au] jaṅghe {ca} sthūle 'nirātate@@\n@c: Chen: vaitāḍīyasya lakṣaṇaṃ@@\n_ _ ślakṣṇair ghanāṅgulīkaiḥ susnighdopacitair 'bhigūḍhagulphaiḥ /\n@Read vigūḍhagulphaiḥ?@@\nsūtāmranakhaiḥ samunna _ _ _ _ _ _ _ ^ _"
+              "text": "k[au] jaṅghe {ca} sthūle 'nirātate@@\n@c: Chen: vaitāḍīyasya lakṣaṇaṃ@@\n_ _ ślakṣṇair ghanāṅgulīkaiḥ susnighdopacitair 'bhigūḍhagulphaiḥ /\n@Read vigūḍhagulphaiḥ?@@\nsūtāmranakhaiḥ samunna _ _ _ _ _ _ _ ^ _",
+              "segment_number": 201
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "ṃ"
+              "text": "ṃ",
+              "segment_number": 202
             },
             {
               "tag": "text",
-              "text": "labhante / 15\n@cd: Chen: ātāmranakhaiḥ samunna"
+              "text": "labhante / 15\n@cd: Chen: ātāmranakhaiḥ samunna",
+              "segment_number": 203
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "tāgraiḥ aupacchandasikaṃ vana"
+              "text": "tāgraiḥ aupacchandasikaṃ vana",
+              "segment_number": 204
             },
             {
               "tag": "text",
-              "text": "ṃ labhante@@\ngovṛṣanetro jagatīndraḥ upacitamāṃsahanuḥ su ^ _ _ /\n_ _ _ _ ^ ^ _ _ _ _ _"
+              "text": "ṃ labhante@@\ngovṛṣanetro jagatīndraḥ upacitamāṃsahanuḥ su ^ _ _ /\n_ _ _ _ ^ ^ _ _ _ _ _",
+              "segment_number": 205
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "āpā"
+              "text": "āpā",
+              "segment_number": 206
             },
             {
               "tag": "text",
-              "text": "tali"
+              "text": "tali",
+              "segment_number": 207
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "k"
+              "text": "k",
+              "segment_number": 208
             },
             {
               "tag": "text",
-              "text": "āyām / 16 // = ChV 16"
+              "text": "āyām / 16 // = ChV 16",
+              "segment_number": 209
             }
-          ]
+          ],
+          "segment_number": 160
         }
-      ]
+      ],
+      "segment_number": 128
     },
     {
       "tag": "p",
@@ -1209,51 +1418,60 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ot"
+          "text": "ot",
+          "segment_number": 211
         },
         {
           "tag": "text",
-          "text": "tar"
+          "text": "tar",
+          "segment_number": 212
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "o"
+          "text": "o",
+          "segment_number": 213
         },
         {
           "tag": "text",
-          "text": "guṇ"
+          "text": "guṇ",
+          "segment_number": 214
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aiḥ"
+          "text": "aiḥ",
+          "segment_number": 215
         },
         {
           "tag": "text",
-          "text": "/\nkarṇo vaikarttanī vṛṣa"
+          "text": "/\nkarṇo vaikarttanī vṛṣa",
+          "segment_number": 216
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 217
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "prācyavṛttināṃ"
+          "text": "prācyavṛttināṃ",
+          "segment_number": 218
         },
         {
           "tag": "text",
-          "text": "_ ^"
+          "text": "_ ^",
+          "segment_number": 219
         },
         {
           "tag": "hi",
@@ -1267,116 +1485,138 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "ā"
+              "text": "ā",
+              "segment_number": 221
             },
             {
               "tag": "text",
-              "text": "bha"
+              "text": "bha",
+              "segment_number": 222
             }
-          ]
+          ],
+          "segment_number": 220
         },
         {
           "tag": "text",
-          "text": "vat / 19 // = ChV_II_1_19\nviśālajaghanā sahodarā hariṇākṣāḥ kalamandabhāṣi"
+          "text": "vat / 19 // = ChV_II_1_19\nviśālajaghanā sahodarā hariṇākṣāḥ kalamandabhāṣi",
+          "segment_number": 223
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṇaḥ /"
+          "text": "ṇaḥ /",
+          "segment_number": 224
         },
         {
           "tag": "text",
-          "text": "^ _ ^ _ sannibhānanās sadṛśā strībhir udīcyavṛttibhiḥ / 20 // = ChV_II_1_20\npralambabahuśaṅkhapiṇḍikaṃ _ ^ _ ^ _ _"
+          "text": "^ _ ^ _ sannibhānanās sadṛśā strībhir udīcyavṛttibhiḥ / 20 // = ChV_II_1_20\npralambabahuśaṅkhapiṇḍikaṃ _ ^ _ ^ _ _",
+          "segment_number": 225
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "lya"
+          "text": "lya",
+          "segment_number": 226
         },
         {
           "tag": "text",
-          "text": "nāsikam /\nmukhaṃ viṣamadantalocanaṃ pāpakarmaṇi sadā pravṛttakam / 21 // = ChV_II_1_21\n@a: Chen: pralambahanuśaṅkhapiṇḍikaṃ@@\n^ _ ^ _ _ _ _ _ ^ _ ^ _ _ _ _ _ /\n^ _ ^ _"
+          "text": "nāsikam /\nmukhaṃ viṣamadantalocanaṃ pāpakarmaṇi sadā pravṛttakam / 21 // = ChV_II_1_21\n@a: Chen: pralambahanuśaṅkhapiṇḍikaṃ@@\n^ _ ^ _ _ _ _ _ ^ _ ^ _ _ _ _ _ /\n^ _ ^ _",
+          "segment_number": 227
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "cāruhā"
+          "text": "cāruhā",
+          "segment_number": 228
         },
         {
           "tag": "text",
-          "text": "s"
+          "text": "s",
+          "segment_number": 229
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 230
         },
         {
           "tag": "text",
-          "text": "nī priyā bhavat"
+          "text": "nī priyā bhavat",
+          "segment_number": 231
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 232
         },
         {
           "tag": "text",
-          "text": "_ ^ _ ^ _"
+          "text": "_ ^ _ ^ _",
+          "segment_number": 233
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 18 //"
+          "text": "/ 18 //",
+          "segment_number": 234
         },
         {
           "tag": "text",
-          "text": "= ChV_II_1_18\ndīrghasūkṣmamṛdubhiḥ śi"
+          "text": "= ChV_II_1_18\ndīrghasūkṣmamṛdubhiḥ śi",
+          "segment_number": 235
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "khā"
+          "text": "khā",
+          "segment_number": 236
         },
         {
           "tag": "text",
-          "text": "^ _ _ ^ _ ^ _ _ ^ _ ^ _ /\n_ ^ _ ^ _ _ ^ _ ^ _ _ ^ _ d y"
+          "text": "^ _ _ ^ _ ^ _ _ ^ _ ^ _ /\n_ ^ _ ^ _ _ ^ _ ^ _ _ ^ _ d y",
+          "segment_number": 237
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "u"
+          "text": "u",
+          "segment_number": 238
         },
         {
           "tag": "text",
-          "text": "vatim āparāṃ"
+          "text": "vatim āparāṃ",
+          "segment_number": 239
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "t"
+          "text": "t",
+          "segment_number": 240
         },
         {
           "tag": "text",
-          "text": "i"
+          "text": "i",
+          "segment_number": 241
         },
         {
           "tag": "hi",
@@ -1390,55 +1630,65 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "maśrumukho viralair da"
+              "text": "maśrumukho viralair da",
+              "segment_number": 243
             },
             {
               "tag": "text",
-              "text": "n"
+              "text": "n",
+              "segment_number": 244
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "bold"
               },
-              "text": "taiḥ"
+              "text": "taiḥ",
+              "segment_number": 245
             },
             {
               "tag": "text",
-              "text": "gambhīrākṣo valināsāgraḥ\nnirmāṃsahanuḥ kapilaiḥ keśair mātrāsamakaṃ labhate duḥ"
+              "text": "gambhīrākṣo valināsāgraḥ\nnirmāṃsahanuḥ kapilaiḥ keśair mātrāsamakaṃ labhate duḥ",
+              "segment_number": 246
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "kham / 22 //"
+              "text": "kham / 22 //",
+              "segment_number": 247
             },
             {
               "tag": "text",
-              "text": "= ChV.22\n@b: Chen: gaṃbhīrākṣo valināsāgraḥ@@\n_ _ ^ raskavidāritāsyaṃ pīnaskandhorudīrghabāhum /\nrājānaṃ viddhi govṛrṣākṣam bhartāraṃ vānavā"
+              "text": "= ChV.22\n@b: Chen: gaṃbhīrākṣo valināsāgraḥ@@\n_ _ ^ raskavidāritāsyaṃ pīnaskandhorudīrghabāhum /\nrājānaṃ viddhi govṛrṣākṣam bhartāraṃ vānavā",
+              "segment_number": 248
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "sikānāṃ / 23"
+              "text": "sikānāṃ / 23",
+              "segment_number": 249
             },
             {
               "tag": "text",
-              "text": "// = ChV_II_1_23\n@c: Chen: viddhi govṛṣākṣam@@"
+              "text": "// = ChV_II_1_23\n@c: Chen: viddhi govṛṣākṣam@@",
+              "segment_number": 250
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "str"
+              "text": "str",
+              "segment_number": 251
             },
             {
               "tag": "text",
-              "text": "ī piṅgala ^ _ ^ n. y. .e _ _ ntaromaśamahāgrakaṭim /\ntīkṣṇāgranāsam u ^ _ _ _ _ _ ^ _ ^ _ _ _ _"
+              "text": "ī piṅgala ^ _ ^ n. y. .e _ _ ntaromaśamahāgrakaṭim /\ntīkṣṇāgranāsam u ^ _ _ _ _ _ ^ _ ^ _ _ _ _",
+              "segment_number": 252
             },
             {
               "tag": "hi",
@@ -1452,55 +1702,67 @@
                   "attributes": {
                     "rend": "it"
                   },
-                  "text": "/"
+                  "text": "/",
+                  "segment_number": 254
                 },
                 {
                   "tag": "text",
-                  "text": "_ _ ^ _ ^ ^ ^ _ _ _ _ _ ^ _ ^ ^ ^ _ _ _"
+                  "text": "_ _ ^ _ ^ ^ ^ _ _ _ _ _ ^ _ ^ ^ ^ _ _ _",
+                  "segment_number": 255
                 },
                 {
                   "tag": "hi",
                   "attributes": {
                     "rend": "it"
                   },
-                  "text": "/ 25 //"
+                  "text": "/ 25 //",
+                  "segment_number": 256
                 },
                 {
                   "tag": "text",
-                  "text": "= ChV_II_1_25\n_ _ _ ^ payodharanetrā ghana _ _ _ _ _ _ _"
+                  "text": "= ChV_II_1_25\n_ _ _ ^ payodharanetrā ghana _ _ _ _ _ _ _",
+                  "segment_number": 257
                 },
                 {
                   "tag": "hi",
                   "attributes": {
                     "rend": "it"
                   },
-                  "text": "/"
+                  "text": "/",
+                  "segment_number": 258
                 },
                 {
                   "tag": "text",
-                  "text": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+                  "text": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+                  "segment_number": 259
                 },
                 {
                   "tag": "hi",
                   "attributes": {
                     "rend": "it"
                   },
-                  "text": "/ 26 //"
+                  "text": "/ 26 //",
+                  "segment_number": 260
                 },
                 {
                   "tag": "text",
-                  "text": "= ChV_II_1_26"
+                  "text": "= ChV_II_1_26",
+                  "segment_number": 261
                 }
-              ]
+              ],
+              "segment_number": 253
             }
-          ]
+          ],
+          "segment_number": 242
         }
-      ]
+      ],
+      "segment_number": 210
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "/// gītyāryā ///"
+      "text": "/// gītyāryā ///",
+      "segment_number": 262
     },
     {
       "tag": "p",
@@ -1512,24 +1774,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 264
         },
         {
           "tag": "text",
-          "text": "ca /\nśirasi puruṣa iha kara ^ ^ ^ ^ ^ ^ ^ ^ ^"
+          "text": "ca /\nśirasi puruṣa iha kara ^ ^ ^ ^ ^ ^ ^ ^ ^",
+          "segment_number": 265
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "tu"
+          "text": "tu",
+          "segment_number": 266
         },
         {
           "tag": "text",
-          "text": "la ^ ^ ^ ^ ^ ^ ^ .i jagati / 1 = ChV_II_2_1"
+          "text": "la ^ ^ ^ ^ ^ ^ ^ .i jagati / 1 = ChV_II_2_1",
+          "segment_number": 267
         }
-      ]
+      ],
+      "segment_number": 263
     },
     {
       "tag": "p",
@@ -1541,53 +1808,63 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 269
         },
         {
           "tag": "text",
-          "text": "_ _ _ _"
+          "text": "_ _ _ _",
+          "segment_number": 270
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ka"
+          "text": "ka",
+          "segment_number": 271
         },
         {
           "tag": "text",
-          "text": "mb"
+          "text": "mb",
+          "segment_number": 272
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "u"
+          "text": "u",
+          "segment_number": 273
         },
         {
           "tag": "text",
-          "text": "grīvaḥ\ngajavṛsabhacaritasadṛśagatir api ca ruciravapur amarasadṛśa iha bha"
+          "text": "grīvaḥ\ngajavṛsabhacaritasadṛśagatir api ca ruciravapur amarasadṛśa iha bha",
+          "segment_number": 274
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "vati / 2"
+          "text": "vati / 2",
+          "segment_number": 275
         },
         {
           "tag": "text",
-          "text": "// = ChV_II_2_2"
+          "text": "// = ChV_II_2_2",
+          "segment_number": 276
         }
-      ]
+      ],
+      "segment_number": 268
     },
     {
       "tag": "l",
       "attributes": {
         "rend": "it"
       },
-      "text": "// cūlikā //"
+      "text": "// cūlikā //",
+      "segment_number": 277
     },
     {
       "tag": "p",
@@ -1599,233 +1876,276 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "narav"
+          "text": "narav",
+          "segment_number": 279
         },
         {
           "tag": "text",
-          "text": "inadasamavacasam /\n^ ^ ^ ^ ^ yanam atha bilajaṭharam anuviśati kamalavananina ^ _ / 3 // = ChV_II_2_3\nasthirāṇi loca"
+          "text": "inadasamavacasam /\n^ ^ ^ ^ ^ yanam atha bilajaṭharam anuviśati kamalavananina ^ _ / 3 // = ChV_II_2_3\nasthirāṇi loca",
+          "segment_number": 280
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "nāni"
+          "text": "nāni",
+          "segment_number": 281
         },
         {
           "tag": "text",
-          "text": "_ ^ _ ^"
+          "text": "_ ^ _ ^",
+          "segment_number": 282
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ma"
+          "text": "ma",
+          "segment_number": 283
         },
         {
           "tag": "text",
-          "text": "ṇḍalāni /\ntat samāni cānanāni dh"
+          "text": "ṇḍalāni /\ntat samāni cānanāni dh",
+          "segment_number": 284
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṛ"
+          "text": "ṛ",
+          "segment_number": 285
         },
         {
           "tag": "text",
-          "text": "ṣ"
+          "text": "ṣ",
+          "segment_number": 286
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ya"
+          "text": "ya",
+          "segment_number": 287
         },
         {
           "tag": "text",
-          "text": "lubdhadāruṇāni / 4 // = ChV_II_2_4\nati pramāṇy adhaḥ kṛśā ^ _ ^ _ ^ _ ^ _ /\nnarasya gan"
+          "text": "lubdhadāruṇāni / 4 // = ChV_II_2_4\nati pramāṇy adhaḥ kṛśā ^ _ ^ _ ^ _ ^ _ /\nnarasya gan",
+          "segment_number": 288
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tu"
+          "text": "tu",
+          "segment_number": 289
         },
         {
           "tag": "text",
-          "text": "_ ^ _ sa ś"
+          "text": "_ ^ _ sa ś",
+          "segment_number": 290
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 291
         },
         {
           "tag": "text",
-          "text": "straghātam āpnuyāt / 5 // = ChV_II_2_5\n@a: Chen: ati prāmāṇy adhaḥ kṛśā@@\nājyamahi ^ ^ _ _ _ ^ ^ _ ^ ^ _ _"
+          "text": "straghātam āpnuyāt / 5 // = ChV_II_2_5\n@a: Chen: ati prāmāṇy adhaḥ kṛśā@@\nājyamahi ^ ^ _ _ _ ^ ^ _ ^ ^ _ _",
+          "segment_number": 292
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 293
         },
         {
           "tag": "text",
-          "text": "_ ^ ^ _"
+          "text": "_ ^ ^ _",
+          "segment_number": 294
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ma"
+          "text": "ma",
+          "segment_number": 295
         },
         {
           "tag": "text",
-          "text": "ṇi"
+          "text": "ṇi",
+          "segment_number": 296
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "c"
+          "text": "c",
+          "segment_number": 297
         },
         {
           "tag": "text",
-          "text": "i"
+          "text": "i",
+          "segment_number": 298
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tra"
+          "text": "tra",
+          "segment_number": 299
         },
         {
           "tag": "text",
-          "text": "ṃ dhāryati m"
+          "text": "ṃ dhāryati m",
+          "segment_number": 300
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ū"
+          "text": "ū",
+          "segment_number": 301
         },
         {
           "tag": "text",
-          "text": "rdh"
+          "text": "rdh",
+          "segment_number": 302
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "n"
+          "text": "n",
+          "segment_number": 303
         },
         {
           "tag": "text",
-          "text": "i vitānam / 6 // = ChV_II_2_6\nanudbaddhaka _ _ _ X X X X ^ _ _ _ /\nX X X X ^ _ _ _ X X X X ^ _ _ _"
+          "text": "i vitānam / 6 // = ChV_II_2_6\nanudbaddhaka _ _ _ X X X X ^ _ _ _ /\nX X X X ^ _ _ _ X X X X ^ _ _ _",
+          "segment_number": 304
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 7 //"
+          "text": "/ 7 //",
+          "segment_number": 305
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_7\nurmimūlaśiro _ _ X X X X ^ _ ^ _ /\nX X X X ^ _ _ _ X X X X ^ _ ^ _"
+          "text": "= ChV_II_2_7\nurmimūlaśiro _ _ X X X X ^ _ ^ _ /\nX X X X ^ _ _ _ X X X X ^ _ ^ _",
+          "segment_number": 306
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 8 //"
+          "text": "/ 8 //",
+          "segment_number": 307
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_8\nX n. gaṇḍāgradaśan"
+          "text": "= ChV_II_2_8\nX n. gaṇḍāgradaśan",
+          "segment_number": 308
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 309
         },
         {
           "tag": "text",
-          "text": "X X X X ^ _ _ _ /\nX X X X ^ ^ ^ _ X X X"
+          "text": "X X X X ^ _ _ _ /\nX X X X ^ ^ ^ _ X X X",
+          "segment_number": 310
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "dh"
+          "text": "dh",
+          "segment_number": 311
         },
         {
           "tag": "text",
-          "text": "ū"
+          "text": "ū",
+          "segment_number": 312
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "r"
+          "text": "r",
+          "segment_number": 313
         },
         {
           "tag": "text",
-          "text": "tas"
+          "text": "tas",
+          "segment_number": 314
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "au"
+          "text": "au",
+          "segment_number": 315
         },
         {
           "tag": "text",
-          "text": "bh"
+          "text": "bh",
+          "segment_number": 316
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 317
         },
         {
           "tag": "text",
-          "text": "gyam / 9 // = ChV_II_2_9\npṛthupīnamṛduśroṇir X X X X ^ _ ^ _ /\nsin. X X ^ _ _ .ā kanyā putrārthinī matā / 10 // = ChV_II_2_10\nmaṇḍalaṃ śaṭha _ ^ _ _ ^ _ ^ ^"
+          "text": "gyam / 9 // = ChV_II_2_9\npṛthupīnamṛduśroṇir X X X X ^ _ ^ _ /\nsin. X X ^ _ _ .ā kanyā putrārthinī matā / 10 // = ChV_II_2_10\nmaṇḍalaṃ śaṭha _ ^ _ _ ^ _ ^ ^",
+          "segment_number": 318
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "m"
+          "text": "m",
+          "segment_number": 319
         },
         {
           "tag": "text",
-          "text": "āyatam /\nstrīmukhe svanapatyatā durbhagaṃ tu mahāmukham / 11 = ChV_II_2_11"
+          "text": "āyatam /\nstrīmukhe svanapatyatā durbhagaṃ tu mahāmukham / 11 = ChV_II_2_11",
+          "segment_number": 320
         }
-      ]
+      ],
+      "segment_number": 278
     },
     {
       "tag": "p",
@@ -1837,11 +2157,13 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "_ ^ ^"
+          "text": "_ ^ ^",
+          "segment_number": 322
         },
         {
           "tag": "text",
-          "text": "bahusatyaṃ _ ^ ^ _"
+          "text": "bahusatyaṃ _ ^ ^ _",
+          "segment_number": 323
         },
         {
           "tag": "hi",
@@ -1854,19 +2176,23 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "v"
+              "text": "v",
+              "segment_number": 324
             },
             {
               "tag": "text",
-              "text": "i"
+              "text": "i",
+              "segment_number": 325
             }
           ]
         },
         {
           "tag": "text",
-          "text": "ṣamauṣṭhaṃ kālahikam /\nkṛpanāḍhyaṃ hrasvamukhaṃ catu _ _ṃ _ rtamukham / 12 // = ChV_II_2_12"
+          "text": "ṣamauṣṭhaṃ kālahikam /\nkṛpanāḍhyaṃ hrasvamukhaṃ catu _ _ṃ _ rtamukham / 12 // = ChV_II_2_12",
+          "segment_number": 326
         }
-      ]
+      ],
+      "segment_number": 321
     },
     {
       "tag": "p",
@@ -1878,13 +2204,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "_ ^ _"
+          "text": "_ ^ _",
+          "segment_number": 328
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ ^ _ _ _ _ _ _ _ ^ _ _ /\n_ _ _ _ _ ^ _ ṇḍaṃ krūrānāryaṃ _ ^ _ṃ syāt / 13 // = ChV_II_2_13\n@d: Chen: krūrānaryaṃ@@"
+          "text": "_ _ _ _ _ ^ _ _ _ _ _ _ _ ^ _ _ /\n_ _ _ _ _ ^ _ ṇḍaṃ krūrānāryaṃ _ ^ _ṃ syāt / 13 // = ChV_II_2_13\n@d: Chen: krūrānaryaṃ@@",
+          "segment_number": 329
         }
-      ]
+      ],
+      "segment_number": 327
     },
     {
       "tag": "p",
@@ -1896,24 +2225,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "^ ^ ^"
+          "text": "^ ^ ^",
+          "segment_number": 331
         },
         {
           "tag": "text",
-          "text": "pāṭi _ _ ^ ^ ^ _ _ ^ _ _ ^ ^ ^ _ /\n_ ^ _ _ ^ ^ ^ ne vāhinīnāṃ pr"
+          "text": "pāṭi _ _ ^ ^ ^ _ _ ^ _ _ ^ ^ ^ _ /\n_ ^ _ _ ^ ^ ^ ne vāhinīnāṃ pr",
+          "segment_number": 332
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 333
         },
         {
           "tag": "text",
-          "text": "ṇayitā / 14 // = ChV_II_2_14"
+          "text": "ṇayitā / 14 // = ChV_II_2_14",
+          "segment_number": 334
         }
-      ]
+      ],
+      "segment_number": 330
     },
     {
       "tag": "p",
@@ -1925,22 +2259,62 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "_ _ ^"
+          "text": "_ _ ^",
+          "segment_number": 336
         },
         {
           "tag": "text",
-          "text": "snigdha ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ /\n_ _ dyayaṃ devaiḥ svayaṃ skando vṛtaḥ senāpa"
+          "text": "snigdha ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ /\n_ _ dyayaṃ devaiḥ svayaṃ skando vṛtaḥ senāpa",
+          "segment_number": 337
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tiḥ / 15"
+          "text": "tiḥ / 15",
+          "segment_number": 338
         },
         {
           "tag": "text",
-          "text": "// = ChV_II_2_15\n@c: Chen: dyayaṃ devais svayaṃ@@"
+          "text": "// = ChV_II_2_15\n@c: Chen: dyayaṃ devais svayaṃ@@",
+          "segment_number": 339
+        }
+      ],
+      "segment_number": 335
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "// āpīḍaḥ //",
+          "segment_number": 340
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "samavimalalalāṭaḥ pṛthu",
+          "segment_number": 341
+        },
+        {
+          "tag": "text",
+          "text": "mṛdukaratalasukumāraḥ /\nupacitamṛgapatis",
+          "segment_number": 342
+        },
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "it"
+          },
+          "text": "usadṛśavarajānuḥ sa bhavati narapatir avanataripujanasukhabhogaḥ / 16 // = ChV_II_2_16",
+          "segment_number": 343
         }
       ]
     },
@@ -1953,42 +2327,13 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "// āpīḍaḥ //"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "samavimalalalāṭaḥ pṛthu"
+          "text": "//",
+          "segment_number": 344
         },
         {
           "tag": "text",
-          "text": "mṛdukaratalasukumāraḥ /\nupacitamṛgapatis"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "usadṛśavarajānuḥ sa bhavati narapatir avanataripujanasukhabhogaḥ / 16 // = ChV_II_2_16"
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "//"
-        },
-        {
-          "tag": "text",
-          "text": "mañjarī //"
+          "text": "mañjarī //",
+          "segment_number": 345
         }
       ]
     },
@@ -2002,46 +2347,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "mṛdukaratalasukumāraḥ"
+          "text": "mṛdukaratalasukumāraḥ",
+          "segment_number": 347
         },
         {
           "tag": "text",
-          "text": "a:"
+          "text": "a:",
+          "segment_number": 348
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "samavimalalalāṭaḥ /"
+          "text": "samavimalalalāṭaḥ /",
+          "segment_number": 349
         },
         {
           "tag": "text",
-          "text": "c:"
+          "text": "c:",
+          "segment_number": 350
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "upacitamṛgapatisusadṛśavara"
+          "text": "upacitamṛgapatisusadṛśavara",
+          "segment_number": 351
         },
         {
           "tag": "text",
-          "text": "jānuḥ\nd: sa bhavati"
+          "text": "jānuḥ\nd: sa bhavati",
+          "segment_number": 352
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "narapatir avanataripujanasukhabhogaḥ / 17"
+          "text": "narapatir avanataripujanasukhabhogaḥ / 17",
+          "segment_number": 353
         },
         {
           "tag": "text",
-          "text": "// = ChV_II_2_17"
+          "text": "// = ChV_II_2_17",
+          "segment_number": 354
         }
-      ]
+      ],
+      "segment_number": 346
     },
     {
       "tag": "p",
@@ -2052,11 +2406,13 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "// lava"
+          "text": "// lava",
+          "segment_number": 355
         },
         {
           "tag": "text",
-          "text": "lī //"
+          "text": "lī //",
+          "segment_number": 356
         }
       ]
     },
@@ -2070,64 +2426,76 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 358
         },
         {
           "tag": "text",
-          "text": "susadṛśavarajānuḥ\nb:"
+          "text": "susadṛśavarajānuḥ\nb:",
+          "segment_number": 359
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "p"
+          "text": "p",
+          "segment_number": 360
         },
         {
           "tag": "text",
-          "text": "ṛ"
+          "text": "ṛ",
+          "segment_number": 361
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "thumṛdukaratalasukumāraḥ /"
+          "text": "thumṛdukaratalasukumāraḥ /",
+          "segment_number": 362
         },
         {
           "tag": "text",
-          "text": "a:"
+          "text": "a:",
+          "segment_number": 363
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "samavimalalalāṭaḥ"
+          "text": "samavimalalalāṭaḥ",
+          "segment_number": 364
         },
         {
           "tag": "text",
-          "text": "d: sa bhavati narapatir avanataripujanasu"
+          "text": "d: sa bhavati narapatir avanataripujanasu",
+          "segment_number": 365
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "khabhogaḥ / 18 //"
+          "text": "khabhogaḥ / 18 //",
+          "segment_number": 366
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_18"
+          "text": "= ChV_II_2_18",
+          "segment_number": 367
         }
-      ]
+      ],
+      "segment_number": 357
     },
     {
       "tag": "l",
       "attributes": {
         "rend": "it"
       },
-      "text": "// amṛtadhārā //"
+      "text": "// amṛtadhārā //",
+      "segment_number": 368
     },
     {
       "tag": "p",
@@ -2139,46 +2507,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "sa bhavati narapatir a"
+          "text": "sa bhavati narapatir a",
+          "segment_number": 370
         },
         {
           "tag": "text",
-          "text": "vanataripujanasukhabhogaḥ /\nc: upacita"
+          "text": "vanataripujanasukhabhogaḥ /\nc: upacita",
+          "segment_number": 371
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "mṛgapatisusadṛśavarajānuḥ /"
+          "text": "mṛgapatisusadṛśavarajānuḥ /",
+          "segment_number": 372
         },
         {
           "tag": "text",
-          "text": "b:"
+          "text": "b:",
+          "segment_number": 373
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pṛthumṛdukaratalasuku"
+          "text": "pṛthumṛdukaratalasuku",
+          "segment_number": 374
         },
         {
           "tag": "text",
-          "text": "māraḥ\na: samavi"
+          "text": "māraḥ\na: samavi",
+          "segment_number": 375
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "mala"
+          "text": "mala",
+          "segment_number": 376
         },
         {
           "tag": "text",
-          "text": "lalāṭaḥ / 19 // = ChV_II_2_19"
+          "text": "lalāṭaḥ / 19 // = ChV_II_2_19",
+          "segment_number": 377
         }
-      ]
+      ],
+      "segment_number": 369
     },
     {
       "tag": "p",
@@ -2190,13 +2567,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 20 //"
+          "text": "/ 20 //",
+          "segment_number": 379
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_20"
+          "text": "= ChV_II_2_20",
+          "segment_number": 380
         }
-      ]
+      ],
+      "segment_number": 378
     },
     {
       "tag": "p",
@@ -2208,13 +2588,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 382
         },
         {
           "tag": "text",
-          "text": "21 // = ChV_II_2_21"
+          "text": "21 // = ChV_II_2_21",
+          "segment_number": 383
         }
-      ]
+      ],
+      "segment_number": 381
     },
     {
       "tag": "p",
@@ -2226,13 +2609,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 385
         },
         {
           "tag": "text",
-          "text": "^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ jāḥ laḍitaṃ prajāsu viniveśayanti te / 22 // = ChV_II_2_22"
+          "text": "^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ jāḥ laḍitaṃ prajāsu viniveśayanti te / 22 // = ChV_II_2_22",
+          "segment_number": 386
         }
-      ]
+      ],
+      "segment_number": 384
     },
     {
       "tag": "p",
@@ -2244,24 +2630,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "pra"
+          "text": "pra",
+          "segment_number": 388
         },
         {
           "tag": "text",
-          "text": "cupitam acirasukho ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ _ _"
+          "text": "cupitam acirasukho ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ _ _",
+          "segment_number": 389
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 23 //"
+          "text": "/ 23 //",
+          "segment_number": 390
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_23"
+          "text": "= ChV_II_2_23",
+          "segment_number": 391
         }
-      ]
+      ],
+      "segment_number": 387
     },
     {
       "tag": "p",
@@ -2273,24 +2664,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ta"
+          "text": "ta",
+          "segment_number": 393
         },
         {
           "tag": "text",
-          "text": "_ ^ _ ^ _ _"
+          "text": "_ ^ _ ^ _ _",
+          "segment_number": 394
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 395
         },
         {
           "tag": "text",
-          "text": "^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ t. puruṣakṛtasamayam api jīvati kālam / 24 = ChV_II_2_24"
+          "text": "^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ t. puruṣakṛtasamayam api jīvati kālam / 24 = ChV_II_2_24",
+          "segment_number": 396
         }
-      ]
+      ],
+      "segment_number": 392
     },
     {
       "tag": "p",
@@ -2302,24 +2698,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "u"
+          "text": "u",
+          "segment_number": 398
         },
         {
           "tag": "text",
-          "text": "bhisvanaṃ vā\nte satpuruṣāḥ sa _ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ _ _"
+          "text": "bhisvanaṃ vā\nte satpuruṣāḥ sa _ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ _ _",
+          "segment_number": 399
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 25 //"
+          "text": "/ 25 //",
+          "segment_number": 400
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_25"
+          "text": "= ChV_II_2_25",
+          "segment_number": 401
         }
-      ]
+      ],
+      "segment_number": 397
     },
     {
       "tag": "p",
@@ -2331,24 +2732,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 403
         },
         {
           "tag": "text",
-          "text": "^ ^ _ ^ ^ _ ^ ^ _ ^ _ _ ^ ^ _ ^ ^ _ ^ ^ _ _"
+          "text": "^ ^ _ ^ ^ _ ^ ^ _ ^ _ _ ^ ^ _ ^ ^ _ ^ ^ _ _",
+          "segment_number": 404
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 26 //"
+          "text": "/ 26 //",
+          "segment_number": 405
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_26"
+          "text": "= ChV_II_2_26",
+          "segment_number": 406
         }
-      ]
+      ],
+      "segment_number": 402
     },
     {
       "tag": "p",
@@ -2360,46 +2766,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ya"
+          "text": "ya",
+          "segment_number": 408
         },
         {
           "tag": "text",
-          "text": "dy api śīghraga"
+          "text": "dy api śīghraga",
+          "segment_number": 409
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tir"
+          "text": "tir",
+          "segment_number": 410
         },
         {
           "tag": "text",
-          "text": "^ ^ _ _ ^ ^ ^ ^ _ ^ ^ _ ^ ^ _ _"
+          "text": "^ ^ _ _ ^ ^ ^ ^ _ ^ ^ _ ^ ^ _ _",
+          "segment_number": 411
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 412
         },
         {
           "tag": "text",
-          "text": "_ ^ ^ _ ^ ^ _ ^ ^ _ _ ^ ^ ^ ^ _ ^ ^ _ ^ ^ _ _"
+          "text": "_ ^ ^ _ ^ ^ _ ^ ^ _ _ ^ ^ ^ ^ _ ^ ^ _ ^ ^ _ _",
+          "segment_number": 413
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 27 //"
+          "text": "/ 27 //",
+          "segment_number": 414
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_27"
+          "text": "= ChV_II_2_27",
+          "segment_number": 415
         }
-      ]
+      ],
+      "segment_number": 407
     },
     {
       "tag": "p",
@@ -2411,31 +2826,37 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 417
         },
         {
           "tag": "text",
-          "text": "galanetram /\npuru"
+          "text": "galanetram /\npuru",
+          "segment_number": 418
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṣ"
+          "text": "ṣ",
+          "segment_number": 419
         },
         {
           "tag": "text",
-          "text": ". ^ ^ sauhṛda _ _ _ ^ ^ _ ^ ^ _ ^ ^ _ _"
+          "text": ". ^ ^ sauhṛda _ _ _ ^ ^ _ ^ ^ _ ^ ^ _ _",
+          "segment_number": 420
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 28 // = ChV_II_2_28"
+          "text": "/ 28 // = ChV_II_2_28",
+          "segment_number": 421
         }
-      ]
+      ],
+      "segment_number": 416
     },
     {
       "tag": "p",
@@ -2447,13 +2868,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 423
         },
         {
           "tag": "text",
-          "text": "_ _ ^ ^ _ ^ _ ^ _ _ _ _ _ ^ ^ _ ^ _ ^ _ gī / 29 // = ChV_II_2_29"
+          "text": "_ _ ^ ^ _ ^ _ ^ _ _ _ _ _ ^ ^ _ ^ _ ^ _ gī / 29 // = ChV_II_2_29",
+          "segment_number": 424
         }
-      ]
+      ],
+      "segment_number": 422
     },
     {
       "tag": "p",
@@ -2465,35 +2889,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 426
         },
         {
           "tag": "text",
-          "text": "^ ^ _ ^ _ ^ ^ ^ _ _"
+          "text": "^ ^ _ ^ _ ^ ^ ^ _ _",
+          "segment_number": 427
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ke"
+          "text": "ke",
+          "segment_number": 428
         },
         {
           "tag": "text",
-          "text": "tumatīv. _ ^ ^ ^ _ _"
+          "text": "tumatīv. _ ^ ^ ^ _ _",
+          "segment_number": 429
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 30 //"
+          "text": "/ 30 //",
+          "segment_number": 430
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_30"
+          "text": "= ChV_II_2_30",
+          "segment_number": 431
         }
-      ]
+      ],
+      "segment_number": 425
     },
     {
       "tag": "p",
@@ -2505,24 +2936,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 433
         },
         {
           "tag": "text",
-          "text": "_ _s samācā ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _"
+          "text": "_ _s samācā ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _",
+          "segment_number": 434
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 31 //"
+          "text": "/ 31 //",
+          "segment_number": 435
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_31"
+          "text": "= ChV_II_2_31",
+          "segment_number": 436
         }
-      ]
+      ],
+      "segment_number": 432
     },
     {
       "tag": "p",
@@ -2534,35 +2970,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "aṃ"
+          "text": "aṃ",
+          "segment_number": 438
         },
         {
           "tag": "text",
-          "text": "sagatiḥ sukh^ _ ^ _"
+          "text": "sagatiḥ sukh^ _ ^ _",
+          "segment_number": 439
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 440
         },
         {
           "tag": "text",
-          "text": "^ ^ _ ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ _ ^ ^ _ ^ ^ _ ^ _"
+          "text": "^ ^ _ ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ _ ^ ^ _ ^ ^ _ ^ _",
+          "segment_number": 441
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 442
         },
         {
           "tag": "text",
-          "text": "32 // = ChV_II_2_32"
+          "text": "32 // = ChV_II_2_32",
+          "segment_number": 443
         }
-      ]
+      ],
+      "segment_number": 437
     },
     {
       "tag": "p",
@@ -2574,40 +3017,48 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 445
         },
         {
           "tag": "text",
-          "text": "ratiparo 'paravak"
+          "text": "ratiparo 'paravak",
+          "segment_number": 446
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tra"
+          "text": "tra",
+          "segment_number": 447
         },
         {
           "tag": "text",
-          "text": "m īkṣat"
+          "text": "m īkṣat",
+          "segment_number": 448
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "e / 33 //"
+          "text": "e / 33 //",
+          "segment_number": 449
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_33"
+          "text": "= ChV_II_2_33",
+          "segment_number": 450
         }
-      ]
+      ],
+      "segment_number": 444
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ChV_II_2_34-41 nicht erhalten\n34: Puṣpitāgrā\n^ ^ ^ ^ ^ ^ _ ^ _ ^ _ _\n^ ^ ^ ^ _ ^ ^ _ ^ _ ^ _ _ /\n35: Yavamatī\n_ ^ _ ^ _ ^ _ ^ _ ^ _ ^\n^ _ ^ _ ^ _ ^ _ ^ _ ^ _ _ /\n36: Śikhā\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n37: Khañja\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n40: Tanumadhyā\n_ _ ^ ^ ^ _\n41: Kumāralalitā\n^ _ ^ ^ ^ _ _"
+      "text": "ChV_II_2_34-41 nicht erhalten\n34: Puṣpitāgrā\n^ ^ ^ ^ ^ ^ _ ^ _ ^ _ _\n^ ^ ^ ^ _ ^ ^ _ ^ _ ^ _ _ /\n35: Yavamatī\n_ ^ _ ^ _ ^ _ ^ _ ^ _ ^\n^ _ ^ _ ^ _ ^ _ ^ _ ^ _ _ /\n36: Śikhā\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n37: Khañja\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\n40: Tanumadhyā\n_ _ ^ ^ ^ _\n41: Kumāralalitā\n^ _ ^ ^ ^ _ _",
+      "segment_number": 451
     },
     {
       "tag": "p",
@@ -2619,20 +3070,24 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 453
         },
         {
           "tag": "text",
-          "text": "lākṣi ^ _ ^ /\n_ ^ ^ _ _ ^ _ ^ _ ^ ^ _ _ ^ _ ^"
+          "text": "lākṣi ^ _ ^ /\n_ ^ ^ _ _ ^ _ ^ _ ^ ^ _ _ ^ _ ^",
+          "segment_number": 454
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 42 // = ChV_II_2_42"
+          "text": "/ 42 // = ChV_II_2_42",
+          "segment_number": 455
         }
-      ]
+      ],
+      "segment_number": 452
     },
     {
       "tag": "p",
@@ -2644,20 +3099,24 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "r"
+          "text": "r",
+          "segment_number": 457
         },
         {
           "tag": "text",
-          "text": "oṇipayodharagurvī /\n_ ^ ^ _ ^ ^ _ _ _ ^ ^ _ _ ^ _ _"
+          "text": "oṇipayodharagurvī /\n_ ^ ^ _ ^ ^ _ _ _ ^ ^ _ _ ^ _ _",
+          "segment_number": 458
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 43 // = ChV_II_2_43"
+          "text": "/ 43 // = ChV_II_2_43",
+          "segment_number": 459
         }
-      ]
+      ],
+      "segment_number": 456
     },
     {
       "tag": "p",
@@ -2669,40 +3128,48 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 44 //"
+          "text": "/ 44 //",
+          "segment_number": 461
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_44\n_ tt.ḥ sūkṣmasamais siv_ ^ _ _ _ _ ^ ^ _ ^ _ ^ _"
+          "text": "= ChV_II_2_44\n_ tt.ḥ sūkṣmasamais siv_ ^ _ _ _ _ ^ ^ _ ^ _ ^ _",
+          "segment_number": 462
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 463
         },
         {
           "tag": "text",
-          "text": "_ _ _ ^ ^ _ ^ _ ^ _ _ _ _ ^ ^ _"
+          "text": "_ _ _ ^ ^ _ ^ _ ^ _ _ _ _ ^ ^ _",
+          "segment_number": 464
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pr"
+          "text": "pr",
+          "segment_number": 465
         },
         {
           "tag": "text",
-          "text": "iyaṃvadā / 45 // = ChV_II_2_45"
+          "text": "iyaṃvadā / 45 // = ChV_II_2_45",
+          "segment_number": 466
         }
-      ]
+      ],
+      "segment_number": 460
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yast. ..."
+      "text": "yast. ...",
+      "segment_number": 467
     },
     {
       "tag": "p",
@@ -2714,24 +3181,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 469
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ ^ ^ ^ ^ _ _ _ _ _ _ ^ ^ ^ ^ _ _"
+          "text": "_ _ _ _ ^ ^ ^ ^ _ _ _ _ _ _ ^ ^ ^ ^ _ _",
+          "segment_number": 470
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 47 //"
+          "text": "/ 47 //",
+          "segment_number": 471
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_47"
+          "text": "= ChV_II_2_47",
+          "segment_number": 472
         }
-      ]
+      ],
+      "segment_number": 468
     },
     {
       "tag": "p",
@@ -2743,24 +3215,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "r la"
+          "text": "r la",
+          "segment_number": 474
         },
         {
           "tag": "text",
-          "text": "lāṭam /\nnirk_ ^ _ .e ^ ^ _ ^ _ _ _ _ ^ _ _ ^ ^ _ ^"
+          "text": "lāṭam /\nnirk_ ^ _ .e ^ ^ _ ^ _ _ _ _ ^ _ _ ^ ^ _ ^",
+          "segment_number": 475
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "ha"
+          "text": "ha",
+          "segment_number": 476
         },
         {
           "tag": "text",
-          "text": "nyāt / 48 // = ChV_II_2_48"
+          "text": "nyāt / 48 // = ChV_II_2_48",
+          "segment_number": 477
         }
-      ]
+      ],
+      "segment_number": 473
     },
     {
       "tag": "p",
@@ -2772,46 +3249,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "p"
+          "text": "p",
+          "segment_number": 479
         },
         {
           "tag": "text",
-          "text": "e"
+          "text": "e",
+          "segment_number": 480
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ndravajrā"
+          "text": "ndravajrā",
+          "segment_number": 481
         },
         {
           "tag": "text",
-          "text": "^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _"
+          "text": "^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _",
+          "segment_number": 482
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 483
         },
         {
           "tag": "text",
-          "text": "^ _ ^ _ _ ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _"
+          "text": "^ _ ^ _ _ ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _",
+          "segment_number": 484
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 49 //"
+          "text": "/ 49 //",
+          "segment_number": 485
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_49"
+          "text": "= ChV_II_2_49",
+          "segment_number": 486
         }
-      ]
+      ],
+      "segment_number": 478
     },
     {
       "tag": "p",
@@ -2823,20 +3309,24 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "da"
+          "text": "da",
+          "segment_number": 488
         },
         {
           "tag": "text",
-          "text": "kṣiṇāvartanābhiḥ /\n_ _ _ _ _ ^ _ _ ^ _ _ _ _ _ _ _ ^ _ _ ^ _ _"
+          "text": "kṣiṇāvartanābhiḥ /\n_ _ _ _ _ ^ _ _ ^ _ _ _ _ _ _ _ ^ _ _ ^ _ _",
+          "segment_number": 489
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 51 // = ChV_II_2_51"
+          "text": "/ 51 // = ChV_II_2_51",
+          "segment_number": 490
         }
-      ]
+      ],
+      "segment_number": 487
     },
     {
       "tag": "p",
@@ -2848,24 +3338,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 492
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ / ^ ^ _ _ ^ _ _ _ _ kanyā drutavātormilo"
+          "text": "_ _ _ _ / ^ ^ _ _ ^ _ _ _ _ kanyā drutavātormilo",
+          "segment_number": 493
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "lā / 52 //"
+          "text": "lā / 52 //",
+          "segment_number": 494
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_52"
+          "text": "= ChV_II_2_52",
+          "segment_number": 495
         }
-      ]
+      ],
+      "segment_number": 491
     },
     {
       "tag": "p",
@@ -2877,24 +3372,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ku"
+          "text": "ku",
+          "segment_number": 497
         },
         {
           "tag": "text",
-          "text": "ryāt prītiṃ patiyaśa ^ ^ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ _"
+          "text": "ryāt prītiṃ patiyaśa ^ ^ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ _",
+          "segment_number": 498
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 53 //"
+          "text": "/ 53 //",
+          "segment_number": 499
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_53"
+          "text": "= ChV_II_2_53",
+          "segment_number": 500
         }
-      ]
+      ],
+      "segment_number": 496
     },
     {
       "tag": "p",
@@ -2906,46 +3406,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ī"
+          "text": "ī",
+          "segment_number": 502
         },
         {
           "tag": "text",
-          "text": "ps"
+          "text": "ps",
+          "segment_number": 503
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 504
         },
         {
           "tag": "text",
-          "text": "tam upaiti kanya"
+          "text": "tam upaiti kanya",
+          "segment_number": 505
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "kā /"
+          "text": "kā /",
+          "segment_number": 506
         },
         {
           "tag": "text",
-          "text": "_ ^ _ ^ ^ ^ _ ^ _ ^ _ _ ^ _ ^ ^ ^ _ ^ _ ^ _"
+          "text": "_ ^ _ ^ ^ ^ _ ^ _ ^ _ _ ^ _ ^ ^ ^ _ ^ _ ^ _",
+          "segment_number": 507
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 54 //"
+          "text": "/ 54 //",
+          "segment_number": 508
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_54"
+          "text": "= ChV_II_2_54",
+          "segment_number": 509
         }
-      ]
+      ],
+      "segment_number": 501
     },
     {
       "tag": "p",
@@ -2957,24 +3466,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "o"
+          "text": "o",
+          "segment_number": 511
         },
         {
           "tag": "text",
-          "text": "ṇikā vi ^ ^ _ ^ ^ _ _"
+          "text": "ṇikā vi ^ ^ _ ^ ^ _ _",
+          "segment_number": 512
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 513
         },
         {
           "tag": "text",
-          "text": "_ ^ _ ^ ^ ^ _ ^ ^ _ _ _ ^ _ ^ ^ ^ _ ^ ^ _ .mī / 55 // = ChV_II_2_55"
+          "text": "_ ^ _ ^ ^ ^ _ ^ ^ _ _ _ ^ _ ^ ^ ^ _ ^ ^ _ .mī / 55 // = ChV_II_2_55",
+          "segment_number": 514
         }
-      ]
+      ],
+      "segment_number": 510
     },
     {
       "tag": "p",
@@ -2986,24 +3500,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 516
         },
         {
           "tag": "text",
-          "text": "^ ^ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ ^ ^ ^ ^ ^ _ _ _"
+          "text": "^ ^ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ ^ ^ ^ ^ ^ _ _ _",
+          "segment_number": 517
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 56 //"
+          "text": "/ 56 //",
+          "segment_number": 518
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_56"
+          "text": "= ChV_II_2_56",
+          "segment_number": 519
         }
-      ]
+      ],
+      "segment_number": 515
     },
     {
       "tag": "p",
@@ -3015,29 +3534,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 521
         },
         {
           "tag": "text",
-          "text": "_ ^ _ ^ _ ^ _ ^ _ ^ _ _ ^ _ ^ _ ^ _ ^ _ ^ _"
+          "text": "_ ^ _ ^ _ ^ _ ^ _ ^ _ _ ^ _ ^ _ ^ _ ^ _ ^ _",
+          "segment_number": 522
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 57 //"
+          "text": "/ 57 //",
+          "segment_number": 523
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_57"
+          "text": "= ChV_II_2_57",
+          "segment_number": 524
         }
-      ]
+      ],
+      "segment_number": 520
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "cat.no 654 fol. 16v5 ... pe .. .i .i .. pi ca\ncat.no 654 fol. 17r1 ... .. rukha ..\ncat.no 654 fol. 17r2 ... lasūkṣma ..\ncat.no 654 fol. 17r3 ... rasi ga\ncat.no 654 fol. 17r4 -\ncat.no 654 fol. 17r5 -\ncat.no 654 fol. 17v1 -\ncat.no 654 fol. 17v2 -\ncat.no 654 fol. 17v3 ... va bh.\ncat.no 654 fol. 17v4 ... ..m / lā ..\ncat.no 654 fol. 17v5 ... haṃsai .. .."
+      "text": "cat.no 654 fol. 16v5 ... pe .. .i .i .. pi ca\ncat.no 654 fol. 17r1 ... .. rukha ..\ncat.no 654 fol. 17r2 ... lasūkṣma ..\ncat.no 654 fol. 17r3 ... rasi ga\ncat.no 654 fol. 17r4 -\ncat.no 654 fol. 17r5 -\ncat.no 654 fol. 17v1 -\ncat.no 654 fol. 17v2 -\ncat.no 654 fol. 17v3 ... va bh.\ncat.no 654 fol. 17v4 ... ..m / lā ..\ncat.no 654 fol. 17v5 ... haṃsai .. ..",
+      "segment_number": 525
     },
     {
       "tag": "p",
@@ -3049,35 +3574,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 527
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ / _ ^ _ _ ^ _ _ _ _ _ _ _ v"
+          "text": "_ _ _ _ _ / _ ^ _ _ ^ _ _ _ _ _ _ _ v",
+          "segment_number": 528
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ai"
+          "text": "ai",
+          "segment_number": 529
         },
         {
           "tag": "text",
-          "text": "śvadevī tanus syāt / 65"
+          "text": "śvadevī tanus syāt / 65",
+          "segment_number": 530
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "//"
+          "text": "//",
+          "segment_number": 531
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_65"
+          "text": "= ChV_II_2_65",
+          "segment_number": 532
         }
-      ]
+      ],
+      "segment_number": 526
     },
     {
       "tag": "p",
@@ -3089,13 +3621,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 66 //"
+          "text": "/ 66 //",
+          "segment_number": 534
         },
         {
           "tag": "text",
-          "text": "= ChV_II_2_66"
+          "text": "= ChV_II_2_66",
+          "segment_number": 535
         }
-      ]
+      ],
+      "segment_number": 533
     },
     {
       "tag": "p",
@@ -3107,35 +3642,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 537
         },
         {
           "tag": "text",
-          "text": "pulonnat. _ ^ _ .ā vyālaṃbopabhitavī _ ^ _ ^ _ _"
+          "text": "pulonnat. _ ^ _ .ā vyālaṃbopabhitavī _ ^ _ ^ _ _",
+          "segment_number": 538
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 539
         },
         {
           "tag": "text",
-          "text": "_ _ _ / ^ ^ ^ ^ _ ^ _ ^ _ _ _ _ _ / ^ ^ ^ ^ _ ^ _ ^ _ _"
+          "text": "_ _ _ / ^ ^ ^ ^ _ ^ _ ^ _ _ _ _ _ / ^ ^ ^ ^ _ ^ _ ^ _ _",
+          "segment_number": 540
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 1 //"
+          "text": "/ 1 //",
+          "segment_number": 541
         },
         {
           "tag": "text",
-          "text": "= ChV_II_3_1"
+          "text": "= ChV_II_3_1",
+          "segment_number": 542
         }
-      ]
+      ],
+      "segment_number": 536
     },
     {
       "tag": "p",
@@ -3147,29 +3689,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 544
         },
         {
           "tag": "text",
-          "text": "^ _ ^ _ / ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ / ^ ^ ^ ^ _ ^ _ ^ _"
+          "text": "^ _ ^ _ / ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ / ^ ^ ^ ^ _ ^ _ ^ _",
+          "segment_number": 545
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 2 //"
+          "text": "/ 2 //",
+          "segment_number": 546
         },
         {
           "tag": "text",
-          "text": "= ChV_II_3_2"
+          "text": "= ChV_II_3_2",
+          "segment_number": 547
         }
-      ]
+      ],
+      "segment_number": 543
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "cat.no 654 fol. 18r5 s. .. bhi .."
+      "text": "cat.no 654 fol. 18r5 s. .. bhi ..",
+      "segment_number": 548
     },
     {
       "tag": "p",
@@ -3181,24 +3729,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 550
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ _ / ^ ^ ^ ^ ^ ^ _ _ _ _ _ _ gyānām urasi tanur a"
+          "text": "_ _ _ _ _ / ^ ^ ^ ^ ^ ^ _ _ _ _ _ _ gyānām urasi tanur a",
+          "segment_number": 551
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃbādhā / 4 //"
+          "text": "saṃbādhā / 4 //",
+          "segment_number": 552
         },
         {
           "tag": "text",
-          "text": "= ChV_II_3_4"
+          "text": "= ChV_II_3_4",
+          "segment_number": 553
         }
-      ]
+      ],
+      "segment_number": 549
     },
     {
       "tag": "p",
@@ -3210,13 +3763,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 5 //"
+          "text": "/ 5 //",
+          "segment_number": 555
         },
         {
           "tag": "text",
-          "text": "= ChV_II_3_5"
+          "text": "= ChV_II_3_5",
+          "segment_number": 556
         }
-      ]
+      ],
+      "segment_number": 554
     },
     {
       "tag": "p",
@@ -3228,46 +3784,55 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 558
         },
         {
           "tag": "text",
-          "text": "_ _ ^ _ ^ ^ ha vṛttavareva nār"
+          "text": "_ _ ^ _ ^ ^ ha vṛttavareva nār",
+          "segment_number": 559
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ī"
+          "text": "ī",
+          "segment_number": 560
         },
         {
           "tag": "text",
-          "text": "kṣipraṃ vasantatilak"
+          "text": "kṣipraṃ vasantatilak",
+          "segment_number": 561
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 562
         },
         {
           "tag": "text",
-          "text": "^ ^ _ ^ _ _"
+          "text": "^ ^ _ ^ _ _",
+          "segment_number": 563
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 7 //"
+          "text": "/ 7 //",
+          "segment_number": 564
         },
         {
           "tag": "text",
-          "text": "= ChV_II_3_7"
+          "text": "= ChV_II_3_7",
+          "segment_number": 565
         }
-      ]
+      ],
+      "segment_number": 557
     },
     {
       "tag": "p",
@@ -3279,13 +3844,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 567
         },
         {
           "tag": "text",
-          "text": "^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ca narapatir amarasamaḥ / 8 // = ChV_II_3_8"
+          "text": "^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ca narapatir amarasamaḥ / 8 // = ChV_II_3_8",
+          "segment_number": 568
         }
-      ]
+      ],
+      "segment_number": 566
     },
     {
       "tag": "p",
@@ -3297,24 +3865,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "ca"
+          "text": "ca",
+          "segment_number": 570
         },
         {
           "tag": "text",
-          "text": "raṇapadam /\nakulajam api pati .i ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ .i ^ ^ pa .i"
+          "text": "raṇapadam /\nakulajam api pati .i ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ .i ^ ^ pa .i",
+          "segment_number": 571
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 9"
+          "text": "/ 9",
+          "segment_number": 572
         },
         {
           "tag": "text",
-          "text": "// = ChV_II_3_9"
+          "text": "// = ChV_II_3_9",
+          "segment_number": 573
         }
-      ]
+      ],
+      "segment_number": 569
     },
     {
       "tag": "p",
@@ -3326,39 +3899,47 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 575
         },
         {
           "tag": "text",
-          "text": "^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _"
+          "text": "^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _",
+          "segment_number": 576
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 10 //"
+          "text": "/ 10 //",
+          "segment_number": 577
         },
         {
           "tag": "text",
-          "text": "= ChV_II_3_10"
+          "text": "= ChV_II_3_10",
+          "segment_number": 578
         }
-      ]
+      ],
+      "segment_number": 574
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Mālinī ^ ^ ^ ^ ^ ^ _ _ / _ ^ _ _ ^ _ _\nṚṣabhagajavilasita _ ^ ^ _ ^ _ ^ / ^ ^ ^ ^ ^ ^ ^ ^ _\nŚikhariṇī ^ _ _ _ _ _ / ^ ^ ^ ^ ^ _ _ ^ ^ ^ _\nPṛthivī ^ _ ^ ^ ^ _ ^ _ / ^ ^ ^ _ ^ _ _ ^ _\nVaṃśapatrapatita _ ^ ^ _ ^ _ ^ ^ ^ _ / ^ ^ ^ ^ ^ ^ _\nHariṇī ^ ^ ^ ^ ^ _ / _ _ _ _ / ^ _ ^ ^ _ ^ _\nMandākrāntā _ _ _ _ / ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _\nKusumitalatāvellitā _ _ _ _ _ / ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _\nŚārdūlavikrīḍita _ _ _ ^ ^ _ ^ _ ^ ^ ^ _ / _ _ ^ _ _ ^ _\nSuvadanā _ _ _ _ ^ _ _ / ^ ^ ^ ^ ^ ^ _ / _ _ ^ ^ ^ _\nVṛtta _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^\nSragdharā _ _ _ _ ^ _ _ / ^ ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _\nMadraka _ ^ ^ _ ^ _ ^ ^ ^ _ / ^ _ ^ ^ ^ _ ^ _ ^ ^ ^ _\nAśvalalita ^ ^ ^ ^ _ ^ _ ^ ^ ^ _ / ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ _\nMattākrīḍā _ _ _ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\nTanvī _ ^ ^ _ _ ^ ^ ^ ^ ^ ^ _ / _ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ _\nKrauñcapadā _ ^ ^ _ _ / _ ^ ^ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _\nBhujaṅgavijṛmbhita _ _ _ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ / ^ _ ^ ^ _ ^ _\nApavāhaka _ _ _ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ / ^ ^ _ _ _\nDaṇḍaka ^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _"
+      "text": "Mālinī ^ ^ ^ ^ ^ ^ _ _ / _ ^ _ _ ^ _ _\nṚṣabhagajavilasita _ ^ ^ _ ^ _ ^ / ^ ^ ^ ^ ^ ^ ^ ^ _\nŚikhariṇī ^ _ _ _ _ _ / ^ ^ ^ ^ ^ _ _ ^ ^ ^ _\nPṛthivī ^ _ ^ ^ ^ _ ^ _ / ^ ^ ^ _ ^ _ _ ^ _\nVaṃśapatrapatita _ ^ ^ _ ^ _ ^ ^ ^ _ / ^ ^ ^ ^ ^ ^ _\nHariṇī ^ ^ ^ ^ ^ _ / _ _ _ _ / ^ _ ^ ^ _ ^ _\nMandākrāntā _ _ _ _ / ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _\nKusumitalatāvellitā _ _ _ _ _ / ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _\nŚārdūlavikrīḍita _ _ _ ^ ^ _ ^ _ ^ ^ ^ _ / _ _ ^ _ _ ^ _\nSuvadanā _ _ _ _ ^ _ _ / ^ ^ ^ ^ ^ ^ _ / _ _ ^ ^ ^ _\nVṛtta _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^\nSragdharā _ _ _ _ ^ _ _ / ^ ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _\nMadraka _ ^ ^ _ ^ _ ^ ^ ^ _ / ^ _ ^ ^ ^ _ ^ _ ^ ^ ^ _\nAśvalalita ^ ^ ^ ^ _ ^ _ ^ ^ ^ _ / ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ _\nMattākrīḍā _ _ _ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _\nTanvī _ ^ ^ _ _ ^ ^ ^ ^ ^ ^ _ / _ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ _\nKrauñcapadā _ ^ ^ _ _ / _ ^ ^ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _\nBhujaṅgavijṛmbhita _ _ _ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ / ^ _ ^ ^ _ ^ _\nApavāhaka _ _ _ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ / ^ ^ _ _ _\nDaṇḍaka ^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _",
+      "segment_number": 579
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "III. Metrik-Lehrtext, 1. Abschnitt"
+      "text": "III. Metrik-Lehrtext, 1. Abschnitt",
+      "segment_number": 580
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ChV_III_1_1-25 nicht erhalten"
+      "text": "ChV_III_1_1-25 nicht erhalten",
+      "segment_number": 581
     },
     {
       "tag": "p",
@@ -3370,13 +3951,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ī"
+          "text": "ī",
+          "segment_number": 583
         },
         {
           "tag": "text",
-          "text": "/\n^ ^ ^ ^ ^ ^ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ _ ram / 26 // ChV_III_1_26"
+          "text": "/\n^ ^ ^ ^ ^ ^ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ _ ram / 26 // ChV_III_1_26",
+          "segment_number": 584
         }
-      ]
+      ],
+      "segment_number": 582
     },
     {
       "tag": "p",
@@ -3388,35 +3972,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "v"
+          "text": "v",
+          "segment_number": 586
         },
         {
           "tag": "text",
-          "text": "i _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _"
+          "text": "i _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _",
+          "segment_number": 587
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 588
         },
         {
           "tag": "text",
-          "text": "^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _"
+          "text": "^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _",
+          "segment_number": 589
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 27 //"
+          "text": "/ 27 //",
+          "segment_number": 590
         },
         {
           "tag": "text",
-          "text": "ChV_III_1_27"
+          "text": "ChV_III_1_27",
+          "segment_number": 591
         }
-      ]
+      ],
+      "segment_number": 585
     },
     {
       "tag": "p",
@@ -3428,29 +4019,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 593
         },
         {
           "tag": "text",
-          "text": "_ _ _ ^ ^ ^ ^ _ ^ madrilī .e _ _ _ ^ ^ ^ ^ _ ^ _ ^ _ _"
+          "text": "_ _ _ ^ ^ ^ ^ _ ^ madrilī .e _ _ _ ^ ^ ^ ^ _ ^ _ ^ _ _",
+          "segment_number": 594
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 28 //"
+          "text": "/ 28 //",
+          "segment_number": 595
         },
         {
           "tag": "text",
-          "text": "ChV_III_1_28"
+          "text": "ChV_III_1_28",
+          "segment_number": 596
         }
-      ]
+      ],
+      "segment_number": 592
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ChV_III_1_29-36 nicht erhalten\ncat.no 654 fol. 30r1 ... c. .. .. bj. bd. dve ..."
+      "text": "ChV_III_1_29-36 nicht erhalten\ncat.no 654 fol. 30r1 ... c. .. .. bj. bd. dve ...",
+      "segment_number": 597
     },
     {
       "tag": "p",
@@ -3462,24 +4059,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "riṇīm /"
+          "text": "riṇīm /",
+          "segment_number": 599
         },
         {
           "tag": "text",
-          "text": "^ _ _ _ _ _ ^ ^ ^ ^ ^ _ _ ^ ^ ^ _\n^ _ _ _ pādair vidhivicaritaiḥ .au ^ ^ ^ _"
+          "text": "^ _ _ _ _ _ ^ ^ ^ ^ ^ _ _ ^ ^ ^ _\n^ _ _ _ pādair vidhivicaritaiḥ .au ^ ^ ^ _",
+          "segment_number": 600
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 38 //"
+          "text": "/ 38 //",
+          "segment_number": 601
         },
         {
           "tag": "text",
-          "text": "ChV_III_1_38"
+          "text": "ChV_III_1_38",
+          "segment_number": 602
         }
-      ]
+      ],
+      "segment_number": 598
     },
     {
       "tag": "p",
@@ -3491,24 +4093,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 604
         },
         {
           "tag": "text",
-          "text": "ṅśudharānalārkagira _ _ _ ^ _ _ ^ _\n_ _ _ ^ ^ _ ^ _ ^ ^ ^ _"
+          "text": "ṅśudharānalārkagira _ _ _ ^ _ _ ^ _\n_ _ _ ^ ^ _ ^ _ ^ ^ ^ _",
+          "segment_number": 605
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "śārdūlavik"
+          "text": "śārdūlavik",
+          "segment_number": 606
         },
         {
           "tag": "text",
-          "text": "rīḍitam /\ntatpādaiḥ parimiśra _ ^ ^ ^ _ _ _ ^ _ _ ^ _\n_ _ _ ^ ^ _ ^ _ ^ ^ ^ _ _ _ ^ tiḥ procyate / 40 // ChV_III_1_40"
+          "text": "rīḍitam /\ntatpādaiḥ parimiśra _ ^ ^ ^ _ _ _ ^ _ _ ^ _\n_ _ _ ^ ^ _ ^ _ ^ ^ ^ _ _ _ ^ tiḥ procyate / 40 // ChV_III_1_40",
+          "segment_number": 607
         }
-      ]
+      ],
+      "segment_number": 603
     },
     {
       "tag": "p",
@@ -3520,40 +4127,48 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "i"
+          "text": "i",
+          "segment_number": 609
         },
         {
           "tag": "text",
-          "text": "_ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _\n_ _ _ _ ^ _ _ ^ ^ khalu bhavataḥ sā .ā ^ ^ ^ _"
+          "text": "_ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _\n_ _ _ _ ^ _ _ ^ ^ khalu bhavataḥ sā .ā ^ ^ ^ _",
+          "segment_number": 610
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 611
         },
         {
           "tag": "text",
-          "text": "_ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _\n_ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _"
+          "text": "_ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _\n_ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _",
+          "segment_number": 612
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 41 //"
+          "text": "/ 41 //",
+          "segment_number": 613
         },
         {
           "tag": "text",
-          "text": "ChV_III_1_41"
+          "text": "ChV_III_1_41",
+          "segment_number": 614
         }
-      ]
+      ],
+      "segment_number": 608
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ChV_III_1_42-44 nicht erhalten"
+      "text": "ChV_III_1_42-44 nicht erhalten",
+      "segment_number": 615
     },
     {
       "tag": "p",
@@ -3565,31 +4180,37 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 617
         },
         {
           "tag": "text",
-          "text": "v. _ _ ^ _\n^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _\nniyutam iha tad udadhiśya ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _\n^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ meghamālā bhavet /\natha khalu ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ r budhā daṇḍa"
+          "text": "v. _ _ ^ _\n^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _\nniyutam iha tad udadhiśya ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _\n^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ meghamālā bhavet /\natha khalu ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ r budhā daṇḍa",
+          "segment_number": 618
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ka"
+          "text": "ka",
+          "segment_number": 619
         },
         {
           "tag": "text",
-          "text": "m /\napi ca da ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _\n^ ^ ^ ^ ^ ^ _ ^ _ _ ghatā _ ^ .e te 'rṇava _ ^ _ _ ^ _\n........ yād dh.ā ... ṛ ChV_III_1_45-46"
+          "text": "m /\napi ca da ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _\n^ ^ ^ ^ ^ ^ _ ^ _ _ ghatā _ ^ .e te 'rṇava _ ^ _ _ ^ _\n........ yād dh.ā ... ṛ ChV_III_1_45-46",
+          "segment_number": 620
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "?"
+          "text": "?",
+          "segment_number": 621
         }
-      ]
+      ],
+      "segment_number": 616
     },
     {
       "tag": "p",
@@ -3601,24 +4222,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 623
         },
         {
           "tag": "text",
-          "text": "X X X X ^ _ _ _ X X X X p tathā gv. nn. /"
+          "text": "X X X X ^ _ _ _ X X X X p tathā gv. nn. /",
+          "segment_number": 624
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "1 //"
+          "text": "1 //",
+          "segment_number": 625
         },
         {
           "tag": "text",
-          "text": "= ChV_III_2_1"
+          "text": "= ChV_III_2_1",
+          "segment_number": 626
         }
-      ]
+      ],
+      "segment_number": 622
     },
     {
       "tag": "p",
@@ -3630,13 +4256,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 628
         },
         {
           "tag": "text",
-          "text": "X X X X ^ _ _ _ X X X X m athāpare / 2 // = ChV_III_2_2"
+          "text": "X X X X ^ _ _ _ X X X X m athāpare / 2 // = ChV_III_2_2",
+          "segment_number": 629
         }
-      ]
+      ],
+      "segment_number": 627
     },
     {
       "tag": "p",
@@ -3648,13 +4277,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "va"
+          "text": "va",
+          "segment_number": 631
         },
         {
           "tag": "text",
-          "text": "ktre / 3 = ChV_III_2_3"
+          "text": "ktre / 3 = ChV_III_2_3",
+          "segment_number": 632
         }
-      ]
+      ],
+      "segment_number": 630
     },
     {
       "tag": "p",
@@ -3666,24 +4298,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "/"
+          "text": "/",
+          "segment_number": 634
         },
         {
           "tag": "text",
-          "text": "X X X X _ ^ ^ _ X X X X ^ _ ^ _"
+          "text": "X X X X _ ^ ^ _ X X X X ^ _ ^ _",
+          "segment_number": 635
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 4"
+          "text": "/ 4",
+          "segment_number": 636
         },
         {
           "tag": "text",
-          "text": "// = ChV_III_2_4"
+          "text": "// = ChV_III_2_4",
+          "segment_number": 637
         }
-      ]
+      ],
+      "segment_number": 633
     },
     {
       "tag": "p",
@@ -3695,24 +4332,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ṛ"
+          "text": "ṛ",
+          "segment_number": 639
         },
         {
           "tag": "text",
-          "text": "ddhyā X X X X X X X X X X X X /\nX X X X X X X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X X"
+          "text": "ddhyā X X X X X X X X X X X X /\nX X X X X X X X X X X X X X X X\nX X X X X X X X X X X X X X X X X X X X",
+          "segment_number": 640
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "/ 5 //"
+          "text": "/ 5 //",
+          "segment_number": 641
         },
         {
           "tag": "text",
-          "text": "= ChV_III_2_5"
+          "text": "= ChV_III_2_5",
+          "segment_number": 642
         }
-      ]
+      ],
+      "segment_number": 638
     }
   ]
 }

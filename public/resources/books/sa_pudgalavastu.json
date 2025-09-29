@@ -50,7 +50,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "pudgalavastu"
+      "text": "pudgalavastu",
+      "segment_number": 1
     },
     {
       "tag": "note",
@@ -68,17 +69,20 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "piṇḍoddānam* /"
+      "text": "piṇḍoddānam* /",
+      "segment_number": 2
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "udāyī samucchrayaḥ paryanto 'thāpareṇa bhavati paścimam* /"
+      "text": "udāyī samucchrayaḥ paryanto 'thāpareṇa bhavati paścimam* /",
+      "segment_number": 3
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 4
     },
     {
       "tag": "lg",
@@ -87,12 +91,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "udāyī anyena smaranti lajjita idānīṃ jānāmi dvaya dvaya kṛtam* /"
+          "text": "udāyī anyena smaranti lajjita idānīṃ jānāmi dvaya dvaya kṛtam* /",
+          "segment_number": 5
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sudatta durdatta catuṣkabhāṣitam* smṛtipramoṣeṇa catvāraḥ prakāśitāḥ //"
+          "text": "sudatta durdatta catuṣkabhāṣitam* smṛtipramoṣeṇa catvāraḥ prakāśitāḥ //",
+          "segment_number": 6
         }
       ]
     },
@@ -106,29 +112,35 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "303r1 = GBM 6.918"
+          "text": "303r1 = GBM 6.918",
+          "segment_number": 8
         },
         {
           "tag": "text",
-          "text": ") ardhamāsapraticchannām* /"
+          "text": ") ardhamāsapraticchannām* /",
+          "segment_number": 9
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "e"
+          "text": "e",
+          "segment_number": 10
         },
         {
           "tag": "text",
-          "text": "tat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavaḥ udāyino bhikṣor asyāḥ saṃghāvaśeṣāyā āpatteḥ saṃcintyaśukravisṛṣṭisamutthitāyā ardhamāsapraticchannāyā ardhamāsaṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": "tat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavaḥ udāyino bhikṣor asyāḥ saṃghāvaśeṣāyā āpatteḥ saṃcintyaśukravisṛṣṭisamutthitāyā ardhamāsapraticchannāyā ardhamāsaṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 11
         }
-      ]
+      ],
+      "segment_number": 7
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavo 'sya pudgalasyāsyāḥ saṃghāvaśeṣāyā āpatter apraticchannāyāḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavo 'sya pudgalasyāsyāḥ saṃghāvaśeṣāyā āpatter apraticchannāyāḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 12
     },
     {
       "tag": "p",
@@ -140,24 +152,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 62"
+          "text": "MSV III 62",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": ") praticchādya ekāṃ bhikṣūṇām ārocayati /"
+          "text": ") praticchādya ekāṃ bhikṣūṇām ārocayati /",
+          "segment_number": 15
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ekāṃ nārocayati / tasya"
+          "text": "ekāṃ nārocayati / tasya",
+          "segment_number": 16
         },
         {
           "tag": "text",
-          "text": "saṃghena dvau māsau parivāso dattaḥ / sa pārivāsika eva san tām anyāpattiṃ pratijānāti yā anena saṃghamadhye nārocayati / sa etat prakaraṇaṃ bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyāpattes tāv eva dvau māsau parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ / yathā pratijānāty evaṃ smarati /"
+          "text": "saṃghena dvau māsau parivāso dattaḥ / sa pārivāsika eva san tām anyāpattiṃ pratijānāti yā anena saṃghamadhye nārocayati / sa etat prakaraṇaṃ bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyāpattes tāv eva dvau māsau parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ / yathā pratijānāty evaṃ smarati /",
+          "segment_number": 17
         }
-      ]
+      ],
+      "segment_number": 13
     },
     {
       "tag": "p",
@@ -169,13 +186,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "na"
+          "text": "na",
+          "segment_number": 19
         },
         {
           "tag": "text",
-          "text": "dvau māsau parivāso dattaḥ / sa pārivāsiko lajjī dharmam avakrāntaḥ / sa etat prakaraṇaṃ bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣe dve āpattī āpannaḥ / so 'haṃ te dve āpattī dvau māsau na jānāmi / dvayor māsayor atyayāj jñātvā dvau māsau praticchādya ekāṃ bhikṣūṇām ārocayāmi / tasya mama saṃghena dvau māsau parivāso dattaḥ / so 'haṃ pārivāsiko lajjī dharmam avakrāntaḥ / tasya tat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatter yathāpraticchannāyāḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ / yathā jānāty evaṃ smarati /"
+          "text": "dvau māsau parivāso dattaḥ / sa pārivāsiko lajjī dharmam avakrāntaḥ / sa etat prakaraṇaṃ bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣe dve āpattī āpannaḥ / so 'haṃ te dve āpattī dvau māsau na jānāmi / dvayor māsayor atyayāj jñātvā dvau māsau praticchādya ekāṃ bhikṣūṇām ārocayāmi / tasya mama saṃghena dvau māsau parivāso dattaḥ / so 'haṃ pārivāsiko lajjī dharmam avakrāntaḥ / tasya tat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatter yathāpraticchannāyāḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ / yathā jānāty evaṃ smarati /",
+          "segment_number": 20
         }
-      ]
+      ],
+      "segment_number": 18
     },
     {
       "tag": "note",
@@ -200,13 +220,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "yaṃ"
+          "text": "yaṃ",
+          "segment_number": 22
         },
         {
           "tag": "text",
-          "text": "dharmaḥ sūtragataḥ sūtraparyāpanna iti / taṃ ced bhikṣavo jānīran saṃniṣaṇṇaḥ pūrvo 'yam āyuṣmān dve trīṇi vā poṣadhakarmāṇi kaḥ punar vādo bhūya iti / tasyāyuṣmato naivājñānān muktiḥ / sa yāṃ cāpattim āpannas tāṃ ca yathādharmaṃ kārayitavyaḥ / uttare ca saṃvejayitavyaḥ / yathā jānāty evaṃ smarati /"
+          "text": "dharmaḥ sūtragataḥ sūtraparyāpanna iti / taṃ ced bhikṣavo jānīran saṃniṣaṇṇaḥ pūrvo 'yam āyuṣmān dve trīṇi vā poṣadhakarmāṇi kaḥ punar vādo bhūya iti / tasyāyuṣmato naivājñānān muktiḥ / sa yāṃ cāpattim āpannas tāṃ ca yathādharmaṃ kārayitavyaḥ / uttare ca saṃvejayitavyaḥ / yathā jānāty evaṃ smarati /",
+          "segment_number": 23
         }
-      ]
+      ],
+      "segment_number": 21
     },
     {
       "tag": "p",
@@ -218,24 +241,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "yāṃ"
+          "text": "yāṃ",
+          "segment_number": 25
         },
         {
           "tag": "text",
-          "text": "cāpattim ("
+          "text": "cāpattim (",
+          "segment_number": 26
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "303v1 = GBM 6.919"
+          "text": "303v1 = GBM 6.919",
+          "segment_number": 27
         },
         {
           "tag": "text",
-          "text": ") āpannas tāṃ yathādharmaṃ kārayitavyaḥ / yathā jānāty evaṃ smarati /"
+          "text": ") āpannas tāṃ yathādharmaṃ kārayitavyaḥ / yathā jānāty evaṃ smarati /",
+          "segment_number": 28
         }
-      ]
+      ],
+      "segment_number": 24
     },
     {
       "tag": "p",
@@ -247,23 +275,28 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 64"
+          "text": "MSV III 64",
+          "segment_number": 30
         },
         {
           "tag": "text",
-          "text": ") māsam āyuṣmantaḥ sudatto māsaṃ durdattaḥ / tat kasya hetoḥ / adharmatvāt kopyatvāt karmaṇaḥ / yathā jānāty evaṃ smarati /"
+          "text": ") māsam āyuṣmantaḥ sudatto māsaṃ durdattaḥ / tat kasya hetoḥ / adharmatvāt kopyatvāt karmaṇaḥ / yathā jānāty evaṃ smarati /",
+          "segment_number": 31
         }
-      ]
+      ],
+      "segment_number": 29
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / sa tām āpattiṃ māsaṃ na jānāti / māsasyātyayāj jñātvā apraticchādya bhikṣūṇām ārocayati / tasya saṃghena māsaṃ parivāso dattaḥ / sa āgatāgatānāṃ bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ / so 'haṃ tām āpattim māsaṃ na jānāmi / māsasyātyayāj jñātvā apraticchādya bhikṣūṇām ārocayāmi / tasya mama saṃghena māsaṃ parivāso dattaḥ / durdattaḥ āyuṣman na sudattaḥ / tat kasya hetoḥ / mānāpyārha āyuṣman* / yathā jānāty evaṃ smarati /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / sa tām āpattiṃ māsaṃ na jānāti / māsasyātyayāj jñātvā apraticchādya bhikṣūṇām ārocayati / tasya saṃghena māsaṃ parivāso dattaḥ / sa āgatāgatānāṃ bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ / so 'haṃ tām āpattim māsaṃ na jānāmi / māsasyātyayāj jñātvā apraticchādya bhikṣūṇām ārocayāmi / tasya mama saṃghena māsaṃ parivāso dattaḥ / durdattaḥ āyuṣman na sudattaḥ / tat kasya hetoḥ / mānāpyārha āyuṣman* / yathā jānāty evaṃ smarati /",
+      "segment_number": 32
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannāṃ deśayiṣyāmīti na smarati / sa tām āpattiṃ smṛtvāpraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatter ubhayasaṃtateḥ parivāsaṃ pūrvikāyāḥ paścimakāyā iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannāṃ deśayiṣyāmīti na smarati / sa tām āpattiṃ smṛtvāpraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatter ubhayasaṃtateḥ parivāsaṃ pūrvikāyāḥ paścimakāyā iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 33
     },
     {
       "tag": "p",
@@ -274,11 +307,13 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 65"
+          "text": "MSV III 65",
+          "segment_number": 34
         },
         {
           "tag": "text",
-          "text": ")\nathāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannāṃ deśayiṣyāmīti na smarati / sa tām smṛtvā apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavata ārocayati / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": ")\nathāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannāṃ deśayiṣyāmīti na smarati / sa tām smṛtvā apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavata ārocayati / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 35
         }
       ]
     },
@@ -292,34 +327,41 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "s tām a"
+          "text": "s tām a",
+          "segment_number": 37
         },
         {
           "tag": "text",
-          "text": "praticchannāṃ deśayiṣyāmīti na smarati / sa tām smṛtvā praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya"
+          "text": "praticchannāṃ deśayiṣyāmīti na smarati / sa tām smṛtvā praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya",
+          "segment_number": 38
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "tasyā ā"
+          "text": "tasyā ā",
+          "segment_number": 39
         },
         {
           "tag": "text",
-          "text": "patteḥ pūrvikāyāḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": "patteḥ pūrvikāyāḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 40
         }
-      ]
+      ],
+      "segment_number": 36
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannas tām apraticchannāṃ deśayiṣyāmīti na smarati / sa tām smṛtvā apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannas tām apraticchannāṃ deśayiṣyāmīti na smarati / sa tām smṛtvā apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 41
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 42
     },
     {
       "tag": "p",
@@ -346,16 +388,19 @@
             {
               "tag": "l",
               "attributes": {},
-              "text": "tribhis tribhir aṣṭakābhis tisṛbhiś catuścatura aṣṭakāḥ /"
+              "text": "tribhis tribhir aṣṭakābhis tisṛbhiś catuścatura aṣṭakāḥ /",
+              "segment_number": 44
             },
             {
               "tag": "l",
               "attributes": {},
-              "text": "utkṣiptā aṣṭakās tisro mukhāḥ pañca samudditāḥ //"
+              "text": "utkṣiptā aṣṭakās tisro mukhāḥ pañca samudditāḥ //",
+              "segment_number": 45
             }
           ]
         }
-      ]
+      ],
+      "segment_number": 43
     },
     {
       "tag": "p",
@@ -367,36 +412,43 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "304r1 = GBM 6.920"
+          "text": "304r1 = GBM 6.920",
+          "segment_number": 47
         },
         {
           "tag": "text",
-          "text": ") āpattiṃ praticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ"
+          "text": ") āpattiṃ praticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ",
+          "segment_number": 48
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ubhaya"
+          "text": "ubhaya",
+          "segment_number": 49
         },
         {
           "tag": "text",
-          "text": "saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": "saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 50
         }
-      ]
+      ],
+      "segment_number": 46
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannāṃ vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa tām āpattim apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannāṃ vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa tām āpattim apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 51
     },
     {
       "tag": "l",
       "attributes": {
         "rend": "it"
       },
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannāṃ vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa tām āpattiṃ praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ paścimikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannāṃ vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa tām āpattiṃ praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ paścimikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 52
     },
     {
       "tag": "note",
@@ -414,12 +466,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannāṃ vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa tām āpattim apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannāṃ vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa tām āpattim apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tasyā āpatteḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 53
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā śuddhakena catvāri evaṃ jānataś catvāri / smarataś catvāri / vaimatikena catvāri / anenākāreṇa aparāpi catuṣkikā / kiṃ tu peyālaviśeṣaḥ /"
+      "text": "yathā śuddhakena catvāri evaṃ jānataś catvāri / smarataś catvāri / vaimatikena catvāri / anenākāreṇa aparāpi catuṣkikā / kiṃ tu peyālaviśeṣaḥ /",
+      "segment_number": 54
     },
     {
       "tag": "p",
@@ -431,13 +485,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "pudgalaḥ"
+          "text": "pudgalaḥ",
+          "segment_number": 56
         },
         {
           "tag": "text",
-          "text": "evaṃ pārivāsika eva vaktavyaḥ / yathā pārivāsikaḥ evaṃ paryuṣitaparivāso mānāpyacārikaś caritamānāpyaḥ śikṣādattakaś catuṣkikāyāṃ yojayitavyāḥ / yathā vibhrāntaḥ evaṃ śramaṇoddeśakatvaṃ pratijānāti / unmattakatvaṃ vikṣiptacittakatvaṃ vedanābhinnakatvam adarśanāyotkṣepakatvam apratikarmāyotkṣepakatvam apratinisṛṣṭe ca pāpake dṛṣṭigate utkṣepakatvam iti vistareṇa yojayitavyam* /"
+          "text": "evaṃ pārivāsika eva vaktavyaḥ / yathā pārivāsikaḥ evaṃ paryuṣitaparivāso mānāpyacārikaś caritamānāpyaḥ śikṣādattakaś catuṣkikāyāṃ yojayitavyāḥ / yathā vibhrāntaḥ evaṃ śramaṇoddeśakatvaṃ pratijānāti / unmattakatvaṃ vikṣiptacittakatvaṃ vedanābhinnakatvam adarśanāyotkṣepakatvam apratikarmāyotkṣepakatvam apratinisṛṣṭe ca pāpake dṛṣṭigate utkṣepakatvam iti vistareṇa yojayitavyam* /",
+          "segment_number": 57
         }
-      ]
+      ],
+      "segment_number": 55
     },
     {
       "tag": "p",
@@ -449,13 +506,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "tāṃ praticchādya"
+          "text": "tāṃ praticchādya",
+          "segment_number": 59
         },
         {
           "tag": "text",
-          "text": "bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyobhayasaṃtateḥ parivāsam* / ekasyāḥ pūrvikāyā dvitīyasyāḥ paścimikāyā iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": "bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyobhayasaṃtateḥ parivāsam* / ekasyāḥ pūrvikāyā dvitīyasyāḥ paścimikāyā iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 60
         }
-      ]
+      ],
+      "segment_number": 58
     },
     {
       "tag": "note",
@@ -473,7 +533,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣe dve āpattī āpannaḥ praticchannāṃ cāpraticchannāṃ ca vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa yāṃ praticchādya vibhrāntas tām apraticchādyaiva bhikṣūṇām ārocayati / yām apraticchādya tām apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyaikasyā āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam* / ekasyāḥ paścimikāyāḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣe dve āpattī āpannaḥ praticchannāṃ cāpraticchannāṃ ca vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa yāṃ praticchādya vibhrāntas tām apraticchādyaiva bhikṣūṇām ārocayati / yām apraticchādya tām apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyaikasyā āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam* / ekasyāḥ paścimikāyāḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 61
     },
     {
       "tag": "p",
@@ -485,24 +546,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "parivāsa"
+          "text": "parivāsa",
+          "segment_number": 63
         },
         {
           "tag": "text",
-          "text": "m iti / ("
+          "text": "m iti / (",
+          "segment_number": 64
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "304v1 = GBM 6.921"
+          "text": "304v1 = GBM 6.921",
+          "segment_number": 65
         },
         {
           "tag": "text",
-          "text": ") yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": ") yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 66
         }
-      ]
+      ],
+      "segment_number": 62
     },
     {
       "tag": "p",
@@ -514,39 +580,47 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃghāvaśeṣe dve āpattī āpannaḥ"
+          "text": "saṃghāvaśeṣe dve āpattī āpannaḥ",
+          "segment_number": 68
         },
         {
           "tag": "text",
-          "text": "praticchannāṃ cāpraticchannāṃ ca vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa yāṃ praticchādya vibhrāntas tām apraticchādya bhikṣūṇām ārocayati / yāṃ tv apraticchādya tām apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyaikasyā ("
+          "text": "praticchannāṃ cāpraticchannāṃ ca vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / sa yāṃ praticchādya vibhrāntas tām apraticchādya bhikṣūṇām ārocayati / yāṃ tv apraticchādya tām apraticchādyaiva bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasyaikasyā (",
+          "segment_number": 69
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 69"
+          "text": "MSV III 69",
+          "segment_number": 70
         },
         {
           "tag": "text",
-          "text": ") āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam* / ekasyāḥ paścimikāyāḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": ") āpatteḥ pūrvikāyāḥ saṃtateḥ parivāsam* / ekasyāḥ paścimikāyāḥ ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 71
         }
-      ]
+      ],
+      "segment_number": 67
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ evaṃ pārivāsikaḥ paryuṣitaparivāso mānāpyacārikaś caritamānāpyaḥ śikṣādattakaś ca vaktavyaḥ / yathā vibhrāntaḥ evaṃ śramaṇoddeśakatvaṃ pratijānāti / unmattakatvaṃ pratijānāti / vikṣiptacittakatvaṃ vedanābhinnakatvam adarśanāyotkṣiptakatvam apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakatvam iti vistareṇa vācyam* /"
+      "text": "athāparaḥ pudgalaḥ evaṃ pārivāsikaḥ paryuṣitaparivāso mānāpyacārikaś caritamānāpyaḥ śikṣādattakaś ca vaktavyaḥ / yathā vibhrāntaḥ evaṃ śramaṇoddeśakatvaṃ pratijānāti / unmattakatvaṃ pratijānāti / vikṣiptacittakatvaṃ vedanābhinnakatvam adarśanāyotkṣiptakatvam apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakatvam iti vistareṇa vācyam* /",
+      "segment_number": 72
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / parimāṇavatīḥ praticchannāḥ / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tā āpattīḥ praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā ubhayasaṃtateḥ parivāsaṃ pūrvikāyāḥ paścimikāyāś ceti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / parimāṇavatīḥ praticchannāḥ / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tā āpattīḥ praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā ubhayasaṃtateḥ parivāsaṃ pūrvikāyāḥ paścimikāyāś ceti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 73
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / parimāṇavatīḥ praticchannāḥ / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tā āpattīr apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā pūrvikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / parimāṇavatīḥ praticchannāḥ / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tā āpattīr apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā pūrvikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 74
     },
     {
       "tag": "p",
@@ -558,18 +632,22 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 70"
+          "text": "MSV III 70",
+          "segment_number": 76
         },
         {
           "tag": "text",
-          "text": ") praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā paścimikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": ") praticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā paścimikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 77
         }
-      ]
+      ],
+      "segment_number": 75
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / parimāṇavatīr apraticchannāḥ / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tā āpattīr apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "athāparaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / parimāṇavatīr apraticchannāḥ / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tā āpattīr apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnāṃ parimāṇavatya iti kṛtvā ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 78
     },
     {
       "tag": "p",
@@ -581,13 +659,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "305r1 = GBM 6.922"
+          "text": "305r1 = GBM 6.922",
+          "segment_number": 80
         },
         {
           "tag": "text",
-          "text": ") adarśanāyotkṣiptakenāṣṭāv evam apratikarmāyotkṣiptakenāṣṭāv evam apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakenāṣṭau /"
+          "text": ") adarśanāyotkṣiptakenāṣṭāv evam apratikarmāyotkṣiptakenāṣṭāv evam apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakenāṣṭau /",
+          "segment_number": 81
         }
-      ]
+      ],
+      "segment_number": 79
     },
     {
       "tag": "p",
@@ -599,13 +680,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "parivasa"
+          "text": "parivasa",
+          "segment_number": 83
         },
         {
           "tag": "text",
-          "text": "tu / paryuṣitaparivāso bhaviṣyatīti /"
+          "text": "tu / paryuṣitaparivāso bhaviṣyatīti /",
+          "segment_number": 84
         }
-      ]
+      ],
+      "segment_number": 82
     },
     {
       "tag": "p",
@@ -617,13 +701,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "vi"
+          "text": "vi",
+          "segment_number": 86
         },
         {
           "tag": "text",
-          "text": "kṣiptacittakatvaṃ vedanābhinnakatvam adarśanāyotkṣiptakatvam apratikarmāyotkṣiptakatvam* /"
+          "text": "kṣiptacittakatvaṃ vedanābhinnakatvam adarśanāyotkṣiptakatvam apratikarmāyotkṣiptakatvam* /",
+          "segment_number": 87
         }
-      ]
+      ],
+      "segment_number": 85
     },
     {
       "tag": "p",
@@ -635,13 +722,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 71"
+          "text": "MSV III 71",
+          "segment_number": 89
         },
         {
           "tag": "text",
-          "text": ") bhagavān āha / paryuṣitaparivāsa evāsau bhikṣavaḥ pudgalaḥ / dadatāsya mānāpyam iti /"
+          "text": ") bhagavān āha / paryuṣitaparivāsa evāsau bhikṣavaḥ pudgalaḥ / dadatāsya mānāpyam iti /",
+          "segment_number": 90
         }
-      ]
+      ],
+      "segment_number": 88
     },
     {
       "tag": "p",
@@ -653,23 +743,28 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "evaṃ śramaṇoddeśa"
+          "text": "evaṃ śramaṇoddeśa",
+          "segment_number": 92
         },
         {
           "tag": "text",
-          "text": "katvaṃ pratijānāti / pūrvavad eva peyālo yāvad apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakatvam* /"
+          "text": "katvaṃ pratijānāti / pūrvavad eva peyālo yāvad apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakatvam* /",
+          "segment_number": 93
         }
-      ]
+      ],
+      "segment_number": 91
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "mānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpanno vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / acaritaṃ caratu / caritamānāpyo bhaviṣyatīti / yathā vibhrāntaḥ pūrvavat* / eṣa eva peyālaḥ /"
+      "text": "mānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpanno vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / acaritaṃ caratu / caritamānāpyo bhaviṣyatīti / yathā vibhrāntaḥ pūrvavat* / eṣa eva peyālaḥ /",
+      "segment_number": 94
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "caritamānāpyaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpanno vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / caritamānāpya evāsau bhikṣavaḥ / āvarhatainam iti / yathā vibhrāntaḥ pūrvavat* / eṣa eva peyālaḥ /"
+      "text": "caritamānāpyaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpanno vibhrāntaḥ / sa āgatya punar upasaṃpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / caritamānāpya evāsau bhikṣavaḥ / āvarhatainam iti / yathā vibhrāntaḥ pūrvavat* / eṣa eva peyālaḥ /",
+      "segment_number": 95
     },
     {
       "tag": "p",
@@ -681,29 +776,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "sa"
+          "text": "sa",
+          "segment_number": 97
         },
         {
           "tag": "text",
-          "text": "saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tām āpattiṃ"
+          "text": "saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tām āpattiṃ",
+          "segment_number": 98
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "praticchādya"
+          "text": "praticchādya",
+          "segment_number": 99
         },
         {
           "tag": "text",
-          "text": "bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsyā āpatteḥ paścimikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": "bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsyā āpatteḥ paścimikāyāḥ saṃtateḥ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 100
         }
-      ]
+      ],
+      "segment_number": 96
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "adarśanāyotkṣiptakaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tām āpattim apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+      "text": "adarśanāyotkṣiptakaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / sa saṃghenādarśanāyotkṣiptaḥ / osāritaḥ sa tām āpattim apraticchādya bhikṣūṇām ārocayati / bhikṣavo bhagavataḥ / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya ṣaḍ rātraṃ mānāpyam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+      "segment_number": 101
     },
     {
       "tag": "note",
@@ -721,12 +822,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā śuddhakena dve evaṃ jānato dve smarato dve vaimatikena dve / yathādarśanāyotkṣiptakenāṣṭau evam apratikarmāyotkṣiptakenāṣṭau apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakenāṣṭau /"
+      "text": "yathā śuddhakena dve evaṃ jānato dve smarato dve vaimatikena dve / yathādarśanāyotkṣiptakenāṣṭau evam apratikarmāyotkṣiptakenāṣṭau apratinisṛṣṭe pāpake dṛṣṭigate utkṣiptakenāṣṭau /",
+      "segment_number": 102
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 103
     },
     {
       "tag": "lg",
@@ -735,12 +838,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "paryantena dvādaśikā navikāḥ sārvakālikāḥ /"
+          "text": "paryantena dvādaśikā navikāḥ sārvakālikāḥ /",
+          "segment_number": 104
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "yāmikāṃ navikāṃ kṛtvā padāni daśa paṃca ca //"
+          "text": "yāmikāṃ navikāṃ kṛtvā padāni daśa paṃca ca //",
+          "segment_number": 105
         }
       ]
     },
@@ -754,13 +859,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "305v1 = GBM 6.923"
+          "text": "305v1 = GBM 6.923",
+          "segment_number": 107
         },
         {
           "tag": "text",
-          "text": ") iti kṛtvā śuddhāntikaṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": ") iti kṛtvā śuddhāntikaṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 108
         }
-      ]
+      ],
+      "segment_number": 106
     },
     {
       "tag": "p",
@@ -772,13 +880,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 73"
+          "text": "MSV III 73",
+          "segment_number": 110
         },
         {
           "tag": "text",
-          "text": ") iti kṛtvā yathā praticchannānāṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": ") iti kṛtvā yathā praticchannānāṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 111
         }
-      ]
+      ],
+      "segment_number": 109
     },
     {
       "tag": "p",
@@ -790,13 +901,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 113
         },
         {
           "tag": "text",
-          "text": "parimāṇavatīḥ praticchannāḥ / sa tāsāṃ naivāpattiparyantaṃ jānāti no rātriparyantam iti / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnām aparimāṇavatya iti kṛtvā śuddhāntikaṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /"
+          "text": "parimāṇavatīḥ praticchannāḥ / sa tāsāṃ naivāpattiparyantaṃ jānāti no rātriparyantam iti / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / dadata yūyaṃ bhikṣavas tasya pudgalasya tāsām āpattīnām aparimāṇavatya iti kṛtvā śuddhāntikaṃ parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ /",
+          "segment_number": 114
         }
-      ]
+      ],
+      "segment_number": 112
     },
     {
       "tag": "p",
@@ -808,13 +922,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "nāṃ"
+          "text": "nāṃ",
+          "segment_number": 116
         },
         {
           "tag": "text",
-          "text": "parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ / yathā jānataś catvāri evaṃ smarataś catvāri vaimatikaś catvāri /"
+          "text": "parivāsam iti / yo vā punar anyo 'py evaṃjātīyaḥ / yathā jānataś catvāri evaṃ smarataś catvāri vaimatikaś catvāri /",
+          "segment_number": 117
         }
-      ]
+      ],
+      "segment_number": 115
     },
     {
       "tag": "p",
@@ -826,24 +943,29 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 74"
+          "text": "MSV III 74",
+          "segment_number": 119
         },
         {
           "tag": "text",
-          "text": ") pārivāsika eva"
+          "text": ") pārivāsika eva",
+          "segment_number": 120
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "san"
+          "text": "san",
+          "segment_number": 121
         },
         {
           "tag": "text",
-          "text": "saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / mānāpyam apy adharmeṇa / āvrīḍho 'py adharmeṇa / ayam ucyate sārvakālikaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā āpatter na parimucyate /"
+          "text": "saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / mānāpyam apy adharmeṇa / āvrīḍho 'py adharmeṇa / ayam ucyate sārvakālikaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā āpatter na parimucyate /",
+          "segment_number": 122
         }
-      ]
+      ],
+      "segment_number": 118
     },
     {
       "tag": "p",
@@ -855,13 +977,16 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 75"
+          "text": "MSV III 75",
+          "segment_number": 124
         },
         {
           "tag": "text",
-          "text": ") ayam ucyate yadbhūyaskālakaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā āpatter na parimucyate /"
+          "text": ") ayam ucyate yadbhūyaskālakaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā āpatter na parimucyate /",
+          "segment_number": 125
         }
-      ]
+      ],
+      "segment_number": 123
     },
     {
       "tag": "p",
@@ -873,57 +998,68 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "306r1 = GBM 6.924"
+          "text": "306r1 = GBM 6.924",
+          "segment_number": 127
         },
         {
           "tag": "text",
-          "text": ") /"
+          "text": ") /",
+          "segment_number": 128
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sa"
+          "text": "sa",
+          "segment_number": 129
         },
         {
           "tag": "text",
-          "text": "pārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlaparivāso dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa /"
+          "text": "pārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlaparivāso dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa /",
+          "segment_number": 130
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "sa"
+          "text": "sa",
+          "segment_number": 131
         },
         {
           "tag": "text",
-          "text": "mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / mānāpyam apy adharmeṇa / āvrīḍho 'py adharmeṇa / ayam ucyate upārdhakālakaḥ pudgalaḥ aśuddhaḥ avyutthita"
+          "text": "mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / mānāpyam apy adharmeṇa / āvrīḍho 'py adharmeṇa / ayam ucyate upārdhakālakaḥ pudgalaḥ aśuddhaḥ avyutthita",
+          "segment_number": 132
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "s ta"
+          "text": "s ta",
+          "segment_number": 133
         },
         {
           "tag": "text",
-          "text": "syā"
+          "text": "syā",
+          "segment_number": 134
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "āpatter na pari"
+          "text": "āpatter na pari",
+          "segment_number": 135
         },
         {
           "tag": "text",
-          "text": "mucyate /"
+          "text": "mucyate /",
+          "segment_number": 136
         }
-      ]
+      ],
+      "segment_number": 126
     },
     {
       "tag": "p",
@@ -935,35 +1071,42 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "m āpatti"
+          "text": "m āpatti",
+          "segment_number": 138
         },
         {
           "tag": "text",
-          "text": "m āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa / mānāpya"
+          "text": "m āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa / mānāpya",
+          "segment_number": 139
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "m apy a"
+          "text": "m apy a",
+          "segment_number": 140
         },
         {
           "tag": "text",
-          "text": "dharmeṇa / āvrīḍho 'py adharmeṇa / ayam ucyate ekadeśakālakaḥ pudgalaḥ aśuddho 'vyutthitas tasyā"
+          "text": "dharmeṇa / āvrīḍho 'py adharmeṇa / ayam ucyate ekadeśakālakaḥ pudgalaḥ aśuddho 'vyutthitas tasyā",
+          "segment_number": 141
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 142
         },
         {
           "tag": "text",
-          "text": "patter na parimucyate /"
+          "text": "patter na parimucyate /",
+          "segment_number": 143
         }
-      ]
+      ],
+      "segment_number": 137
     },
     {
       "tag": "note",
@@ -988,24 +1131,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "karmaṇā"
+          "text": "karmaṇā",
+          "segment_number": 145
         },
         {
           "tag": "text",
-          "text": "kopyenāsthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa / mānāpyam api dharmeṇa / āvrīḍhas tv adharmeṇa / ayam ucyate pradeśakālakaḥ pudgalaḥ aśuddho 'vyutthitas tasyā"
+          "text": "kopyenāsthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣo dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa / mānāpyam api dharmeṇa / āvrīḍhas tv adharmeṇa / ayam ucyate pradeśakālakaḥ pudgalaḥ aśuddho 'vyutthitas tasyā",
+          "segment_number": 146
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 147
         },
         {
           "tag": "text",
-          "text": "patter na parimucyate /"
+          "text": "patter na parimucyate /",
+          "segment_number": 148
         }
-      ]
+      ],
+      "segment_number": 144
     },
     {
       "tag": "p",
@@ -1017,24 +1165,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ka"
+          "text": "ka",
+          "segment_number": 150
         },
         {
           "tag": "text",
-          "text": "ḥ pudgalaḥ śuddho vyutthitas tasyā"
+          "text": "ḥ pudgalaḥ śuddho vyutthitas tasyā",
+          "segment_number": 151
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 152
         },
         {
           "tag": "text",
-          "text": "patteḥ parimucyate /"
+          "text": "patteḥ parimucyate /",
+          "segment_number": 153
         }
-      ]
+      ],
+      "segment_number": 149
     },
     {
       "tag": "p",
@@ -1046,46 +1199,55 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "306v1 = GBM 6.925"
+          "text": "306v1 = GBM 6.925",
+          "segment_number": 155
         },
         {
           "tag": "text",
-          "text": ") sthāpanārheṇa / ("
+          "text": ") sthāpanārheṇa / (",
+          "segment_number": 156
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 77"
+          "text": "MSV III 77",
+          "segment_number": 157
         },
         {
           "tag": "text",
-          "text": ") sa mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā"
+          "text": ") sa mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā",
+          "segment_number": 158
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "kopyena"
+          "text": "kopyena",
+          "segment_number": 159
         },
         {
           "tag": "text",
-          "text": "sthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / āvrīḍho 'py adharmeṇa / ayam ucyate sārvakālikaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā"
+          "text": "sthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / āvrīḍho 'py adharmeṇa / ayam ucyate sārvakālikaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā",
+          "segment_number": 160
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 161
         },
         {
           "tag": "text",
-          "text": "patter na parimucyate /"
+          "text": "patter na parimucyate /",
+          "segment_number": 162
         }
-      ]
+      ],
+      "segment_number": 154
     },
     {
       "tag": "p",
@@ -1097,13 +1259,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 164
         },
         {
           "tag": "text",
-          "text": "patter na parimucyate /"
+          "text": "patter na parimucyate /",
+          "segment_number": 165
         }
-      ]
+      ],
+      "segment_number": 163
     },
     {
       "tag": "p",
@@ -1115,46 +1280,55 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 78"
+          "text": "MSV III 78",
+          "segment_number": 167
         },
         {
           "tag": "text",
-          "text": ") dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarā"
+          "text": ") dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarā",
+          "segment_number": 168
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "pattim antarā"
+          "text": "pattim antarā",
+          "segment_number": 169
         },
         {
           "tag": "text",
-          "text": "pattipratirūpāṃ praticchannām* / tasya saṃghena"
+          "text": "pattipratirūpāṃ praticchannām* / tasya saṃghena",
+          "segment_number": 170
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "mūlāpakarṣamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpa"
+          "text": "mūlāpakarṣamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpa",
+          "segment_number": 171
         },
         {
           "tag": "text",
-          "text": "nārheṇa / āvrīḍho 'py adharmeṇa / ayam ucyate upārdhakālakaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā"
+          "text": "nārheṇa / āvrīḍho 'py adharmeṇa / ayam ucyate upārdhakālakaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā",
+          "segment_number": 172
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 173
         },
         {
           "tag": "text",
-          "text": "patter na parimucyate /"
+          "text": "patter na parimucyate /",
+          "segment_number": 174
         }
-      ]
+      ],
+      "segment_number": 166
     },
     {
       "tag": "p",
@@ -1166,24 +1340,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "sa"
+          "text": "sa",
+          "segment_number": 176
         },
         {
           "tag": "text",
-          "text": "mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣamānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / āvrīḍhas tv adharmeṇa / ayam ucyate ekadeśakālakaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā"
+          "text": "mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣamānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / āvrīḍhas tv adharmeṇa / ayam ucyate ekadeśakālakaḥ pudgalaḥ aśuddhaḥ avyutthitas tasyā",
+          "segment_number": 177
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 178
         },
         {
           "tag": "text",
-          "text": "patter na parimucyate /"
+          "text": "patter na parimucyate /",
+          "segment_number": 179
         }
-      ]
+      ],
+      "segment_number": 175
     },
     {
       "tag": "p",
@@ -1195,56 +1374,67 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 181
         },
         {
           "tag": "text",
-          "text": "praticchannām* / tasya saṃghena mānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / sa mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlamānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / sa ("
+          "text": "praticchannām* / tasya saṃghena mānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / sa mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlamānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / sa (",
+          "segment_number": 182
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "307r1 = GBM 6.926"
+          "text": "307r1 = GBM 6.926",
+          "segment_number": 183
         },
         {
           "tag": "text",
-          "text": ") mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣamānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / ("
+          "text": ") mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / tasya saṃghena mūlāpakarṣamānāpyaṃ dattaṃ dharmeṇa karmaṇākopyenāsthāpanārheṇa / (",
+          "segment_number": 184
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 79"
+          "text": "MSV III 79",
+          "segment_number": 185
         },
         {
           "tag": "text",
-          "text": ") āvrīḍho 'pi dharmeṇa / ayam ucyate apagatakālakaḥ pudgalaḥ śuddho vyutthitas tasyā"
+          "text": ") āvrīḍho 'pi dharmeṇa / ayam ucyate apagatakālakaḥ pudgalaḥ śuddho vyutthitas tasyā",
+          "segment_number": 186
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ā"
+          "text": "ā",
+          "segment_number": 187
         },
         {
           "tag": "text",
-          "text": "patteḥ parimucyate /"
+          "text": "patteḥ parimucyate /",
+          "segment_number": 188
         }
-      ]
+      ],
+      "segment_number": 180
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "dvau pudgalau saṃghāvaśeṣām āpattim āpannau deśayiṣyāvo deśayiṣyāva iti / tatraiko deśayati dvitīyo na deśayati / tatra yo 'sau na deśayati taṃ saṃbahulā vinayātisāriṇīr duṣṭhulā āpattir deśayitvā paścāt parivāso deyaḥ mūlaparivāso mānāpyam* / āvarhitavyaś ca /"
+      "text": "dvau pudgalau saṃghāvaśeṣām āpattim āpannau deśayiṣyāvo deśayiṣyāva iti / tatraiko deśayati dvitīyo na deśayati / tatra yo 'sau na deśayati taṃ saṃbahulā vinayātisāriṇīr duṣṭhulā āpattir deśayitvā paścāt parivāso deyaḥ mūlaparivāso mānāpyam* / āvarhitavyaś ca /",
+      "segment_number": 189
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "dvau pudgalau saṃghāvaśeṣām āpattim āpannau / tāv asminn evāvāse pudgalasyāntike deśayiṣyāvo deśayiṣyāva iti / tatraiko deśayati dvitīyo na deśayati / tatra yo 'sau na deśayati taṃ saṃbahulā vinayātisāriṇīr duṣṭhulā āpattir deśayitvā paścāt parivāso deyaḥ mūlaparivāso mānāpyam* / āvarhitavyaś ca / yathā pudgalasyāntike evaṃ dvābhyāṃ saṃbahulānāṃ saṃghasya / yathāsminn āvāse evam anyasminn āvāse /"
+      "text": "dvau pudgalau saṃghāvaśeṣām āpattim āpannau / tāv asminn evāvāse pudgalasyāntike deśayiṣyāvo deśayiṣyāva iti / tatraiko deśayati dvitīyo na deśayati / tatra yo 'sau na deśayati taṃ saṃbahulā vinayātisāriṇīr duṣṭhulā āpattir deśayitvā paścāt parivāso deyaḥ mūlaparivāso mānāpyam* / āvarhitavyaś ca / yathā pudgalasyāntike evaṃ dvābhyāṃ saṃbahulānāṃ saṃghasya / yathāsminn āvāse evam anyasminn āvāse /",
+      "segment_number": 190
     },
     {
       "tag": "p",
@@ -1256,57 +1446,68 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 80"
+          "text": "MSV III 80",
+          "segment_number": 192
         },
         {
           "tag": "text",
-          "text": ") jānāmi yā me saṃghamadhye nārocitā / so 'haṃ tām āpattiṃ na jānāmi yasyā mama saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter api parivāsaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca paścimikāyāḥ / tasyās te bhikṣavaḥ pūrvikāyā āpatteḥ parivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / tasyās tu paścimikāyāḥ parivāsaṃ dadati adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa pārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / sa tām antarāpattiṃ jānāti / tām apy āpattiṃ jānāti yasyā asya saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannām* / tasya mama saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ pārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / so 'haṃ tām antarāpattiṃ jānāmi yasyā mama saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter mūlaparivāsaṃ dadatu dharmeṇa ("
+          "text": ") jānāmi yā me saṃghamadhye nārocitā / so 'haṃ tām āpattiṃ na jānāmi yasyā mama saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter api parivāsaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca paścimikāyāḥ / tasyās te bhikṣavaḥ pūrvikāyā āpatteḥ parivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / tasyās tu paścimikāyāḥ parivāsaṃ dadati adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa pārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / sa tām antarāpattiṃ jānāti / tām apy āpattiṃ jānāti yasyā asya saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ praticchannām* / tasya mama saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ pārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpāṃ praticchannām* / so 'haṃ tām antarāpattiṃ jānāmi yasyā mama saṃghena parivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter mūlaparivāsaṃ dadatu dharmeṇa (",
+          "segment_number": 193
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "307v1 = GBM 6.927"
+          "text": "307v1 = GBM 6.927",
+          "segment_number": 194
         },
         {
           "tag": "text",
-          "text": ") karmaṇākopyenāsthāpanārheṇa / tasyāś cāntarāpatter mūlaparivāsam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatteḥ parivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / tasyās tv antarāpatter mūlaparivāsam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim ("
+          "text": ") karmaṇākopyenāsthāpanārheṇa / tasyāś cāntarāpatter mūlaparivāsam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatteḥ parivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / tasyās tv antarāpatter mūlaparivāsam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim (",
+          "segment_number": 195
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 81"
+          "text": "MSV III 81",
+          "segment_number": 196
         },
         {
           "tag": "text",
-          "text": ") āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / sa tāṃ pratyantarāpattiṃ jānāti / tām apy āpattiṃ jānāti yasyā asya saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattirūpāṃ praticchannām* / tasya mama saṃghena mūlaparivāso dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa / so 'haṃ mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy a"
+          "text": ") āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / sa tāṃ pratyantarāpattiṃ jānāti / tām apy āpattiṃ jānāti yasyā asya saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattirūpāṃ praticchannām* / tasya mama saṃghena mūlaparivāso dattaḥ dharmeṇa karmaṇākopyenāsthāpanārheṇa / so 'haṃ mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy a",
+          "segment_number": 197
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ntarā"
+          "text": "ntarā",
+          "segment_number": 198
         },
         {
           "tag": "text",
-          "text": "pattiṃ jānāmi yasyā mama saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyā antarāpatter mūlaparivāsaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatter mūlaparivāsaṃ dadati / tasyās tu pratyantarāpatter mūlāpakarṣaṃ dharmeṇa"
+          "text": "pattiṃ jānāmi yasyā mama saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyā antarāpatter mūlaparivāsaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatter mūlaparivāsaṃ dadati / tasyās tu pratyantarāpatter mūlāpakarṣaṃ dharmeṇa",
+          "segment_number": 199
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "karmaṇā"
+          "text": "karmaṇā",
+          "segment_number": 200
         },
         {
           "tag": "text",
-          "text": "kopyenāsthāpanārheṇa /"
+          "text": "kopyenāsthāpanārheṇa /",
+          "segment_number": 201
         }
-      ]
+      ],
+      "segment_number": 191
     },
     {
       "tag": "p",
@@ -1318,51 +1519,61 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "san"
+          "text": "san",
+          "segment_number": 203
         },
         {
           "tag": "text",
-          "text": "saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / sa tām antarāpattiṃ jānāti yasyā asya saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā ("
+          "text": "saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / sa tām antarāpattiṃ jānāti yasyā asya saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā (",
+          "segment_number": 204
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 82"
+          "text": "MSV III 82",
+          "segment_number": 205
         },
         {
           "tag": "text",
-          "text": ") kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / tasya mama saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattim pūrvāpattipratirūpām apraticchannām* / so 'haṃ tām antarāpattiṃ jānāmi yasyā mama saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter mānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś cāntarāpatter mūlamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatter mānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās tv antarāpatter mūlamānāpyam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / sa tām pratyantarāpattiṃ jānāti / tām apy antarāpattiṃ jānāti yasyā asya saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / tasya mama saṃghena mūlamānāpyaṃ ("
+          "text": ") kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / tasya mama saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattim pūrvāpattipratirūpām apraticchannām* / so 'haṃ tām antarāpattiṃ jānāmi yasyā mama saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter mānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś cāntarāpatter mūlamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatter mānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās tv antarāpatter mūlamānāpyam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / sa tām pratyantarāpattiṃ jānāti / tām apy antarāpattiṃ jānāti yasyā asya saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / tasya mama saṃghena mūlamānāpyaṃ (",
+          "segment_number": 206
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "308r1 = GBM 6.928"
+          "text": "308r1 = GBM 6.928",
+          "segment_number": 207
         },
         {
           "tag": "text",
-          "text": ") dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy antarāpattiṃ jānāmi yasyā mama saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu sādhu me ("
+          "text": ") dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy antarāpattiṃ jānāmi yasyā mama saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu sādhu me (",
+          "segment_number": 208
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 83"
+          "text": "MSV III 83",
+          "segment_number": 209
         },
         {
           "tag": "text",
-          "text": ") āyuṣmantas tasyāḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣamānāpyam* / yathā jānatā pañca evaṃ smaratā pañca vaimatikena pañca /"
+          "text": ") āyuṣmantas tasyāḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣamānāpyam* / yathā jānatā pañca evaṃ smaratā pañca vaimatikena pañca /",
+          "segment_number": 210
         }
-      ]
+      ],
+      "segment_number": 202
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "uddānam* /"
+      "text": "uddānam* /",
+      "segment_number": 211
     },
     {
       "tag": "lg",
@@ -1371,12 +1582,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yathāpareṇa dvādaśikā vastu śodhayitvā ca ṣaṭkikāḥ /"
+          "text": "yathāpareṇa dvādaśikā vastu śodhayitvā ca ṣaṭkikāḥ /",
+          "segment_number": 212
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "mahābhūmiṃ śodhayitvā pudgalavastu samudditam* //"
+          "text": "mahābhūmiṃ śodhayitvā pudgalavastu samudditam* //",
+          "segment_number": 213
         }
       ]
     },
@@ -1390,35 +1603,42 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 84"
+          "text": "MSV III 84",
+          "segment_number": 215
         },
         {
           "tag": "text",
-          "text": ") tasyāś cāntarāpatter mūlaparivāsam iti / tasyās te bhikṣavas tasyāḥ pūrvikāyā āpatteḥ parivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās tv antarāpatter mūlaparivāsam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / sa tāṃ pratyantarāpattiṃ jānāti / tām apy antarāpattiṃ jānāti yasyā asya saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattirūpāṃ praticchannām* / tasya mama saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim pūrvāpattipratirūpāṃ praticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy antarāpattiṃ jānāmi ("
+          "text": ") tasyāś cāntarāpatter mūlaparivāsam iti / tasyās te bhikṣavas tasyāḥ pūrvikāyā āpatteḥ parivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās tv antarāpatter mūlaparivāsam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpāṃ praticchannām* / sa tāṃ pratyantarāpattiṃ jānāti / tām apy antarāpattiṃ jānāti yasyā asya saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattirūpāṃ praticchannām* / tasya mama saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mūlapārivāsika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim pūrvāpattipratirūpāṃ praticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy antarāpattiṃ jānāmi (",
+          "segment_number": 216
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "308v1 = GBM 6.929"
+          "text": "308v1 = GBM 6.929",
+          "segment_number": 217
         },
         {
           "tag": "text",
-          "text": ") yasyā mama saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā antarāpatter mūlaparivāsaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣam iti / tasyās te bhikṣavaḥ pūrvikāyā antarāpatter mūlaparivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / tasyās tu pratyantarāpatter mūlāpakarṣaṃ dharme"
+          "text": ") yasyā mama saṃghena mūlaparivāso dattaḥ adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā antarāpatter mūlaparivāsaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣam iti / tasyās te bhikṣavaḥ pūrvikāyā antarāpatter mūlaparivāsaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / tasyās tu pratyantarāpatter mūlāpakarṣaṃ dharme",
+          "segment_number": 218
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ṇa karma"
+          "text": "ṇa karma",
+          "segment_number": 219
         },
         {
           "tag": "text",
-          "text": "ṇākopyenāsthāpanārheṇa /"
+          "text": "ṇākopyenāsthāpanārheṇa /",
+          "segment_number": 220
         }
-      ]
+      ],
+      "segment_number": 214
     },
     {
       "tag": "p",
@@ -1430,57 +1650,68 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 85"
+          "text": "MSV III 85",
+          "segment_number": 222
         },
         {
           "tag": "text",
-          "text": ") āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / sa tām antarāpattiṃ jānāti / tām apy āpattiṃ jānāti yasyā asya saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / tasya mama saṃghena ṣaḍ rātraṃ mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattim pūrvāpattipratirūpām apraticchannām* / so 'haṃ tām antarāpattiṃ jānāmi / tām apy āpattiṃ jānāmi yasyā mama saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter mānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś cāntarāpatter mūlamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatter mānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās tv antarāpatter mūlamānāpyam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / sa tām pratyantarāpattiṃ jānāti / tām"
+          "text": ") āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / sa tām antarāpattiṃ jānāti / tām apy āpattiṃ jānāti yasyā asya saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham asmy āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ apraticchannām* / tasya mama saṃghena ṣaḍ rātraṃ mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ antarāpattim pūrvāpattipratirūpām apraticchannām* / so 'haṃ tām antarāpattiṃ jānāmi / tām apy āpattiṃ jānāmi yasyā mama saṃghena mānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā āpatter mānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś cāntarāpatter mūlamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā āpatter mānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās tv antarāpatter mūlamānāpyam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / sa tām pratyantarāpattiṃ jānāti / tām",
+          "segment_number": 223
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "apy"
+          "text": "apy",
+          "segment_number": 224
         },
         {
           "tag": "text",
-          "text": "antarāpattiṃ jānāti yasyā asya saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham"
+          "text": "antarāpattiṃ jānāti yasyā asya saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sa bhikṣūṇām ārocayati / aham",
+          "segment_number": 225
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "asmy"
+          "text": "asmy",
+          "segment_number": 226
         },
         {
           "tag": "text",
-          "text": "āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / tasya mama saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim ("
+          "text": "āyuṣmantaḥ saṃghāvaśeṣām āpattim āpannaḥ antarāpattiṃ pūrvāpattipratirūpām apraticchannām* / tasya mama saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / so 'haṃ mūlamānāpyacārika eva san saṃghāvaśeṣām āpattim (",
+          "segment_number": 227
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 86"
+          "text": "MSV III 86",
+          "segment_number": 228
         },
         {
           "tag": "text",
-          "text": ") āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy antarāpattiṃ jānāmi yasyā mama saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās ("
+          "text": ") āpannaḥ pratyantarāpattim antarāpattipratirūpām apraticchannām* / so 'haṃ tāṃ pratyantarāpattiṃ jānāmi / tām apy antarāpattiṃ jānāmi yasyā mama saṃghena mūlamānāpyaṃ dattam adharmeṇa karmaṇā kopyena sthāpanārheṇa / sādhu me āyuṣmantas tasyāḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadatu dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyāś ca pratyantarāpatter mūlāpakarṣamānāpyam iti / tasyās te bhikṣavaḥ pūrvikāyā antarāpatter mūlamānāpyaṃ dadati dharmeṇa karmaṇākopyenāsthāpanārheṇa / asyās (",
+          "segment_number": 229
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "309r1 = GBM 6.930"
+          "text": "309r1 = GBM 6.930",
+          "segment_number": 230
         },
         {
           "tag": "text",
-          "text": ") tu pratyantarāpatter mūlāpakarṣamānāpyam iti / yathā jānatā catvāri evaṃ smaratā catvāri vaimatikena catvāri /"
+          "text": ") tu pratyantarāpatter mūlāpakarṣamānāpyam iti / yathā jānatā catvāri evaṃ smaratā catvāri vaimatikena catvāri /",
+          "segment_number": 231
         }
-      ]
+      ],
+      "segment_number": 221
     },
     {
       "tag": "p",
@@ -1492,13 +1723,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ca"
+          "text": "ca",
+          "segment_number": 233
         },
         {
           "tag": "text",
-          "text": "duṣṭhulām āpattiṃ deśayitvā pārivāsika eva san* /"
+          "text": "duṣṭhulām āpattiṃ deśayitvā pārivāsika eva san* /",
+          "segment_number": 234
         }
-      ]
+      ],
+      "segment_number": 232
     },
     {
       "tag": "p",
@@ -1510,13 +1744,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "pudgalaḥ"
+          "text": "pudgalaḥ",
+          "segment_number": 236
         },
         {
           "tag": "text",
-          "text": "saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā upārdhapārivāsika eva san* /"
+          "text": "saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā upārdhapārivāsika eva san* /",
+          "segment_number": 237
         }
-      ]
+      ],
+      "segment_number": 235
     },
     {
       "tag": "p",
@@ -1528,28 +1765,34 @@
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 87"
+          "text": "MSV III 87",
+          "segment_number": 239
         },
         {
           "tag": "text",
-          "text": ") śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā yadbhūyaḥpārivāsika eva san* /"
+          "text": ") śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā yadbhūyaḥpārivāsika eva san* /",
+          "segment_number": 240
         }
-      ]
+      ],
+      "segment_number": 238
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "mānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā mānāpyacārika eva san* /"
+      "text": "mānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā mānāpyacārika eva san* /",
+      "segment_number": 241
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "upārdhamānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā upārdhamānāpyacārika eva san* /"
+      "text": "upārdhamānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā upārdhamānāpyacārika eva san* /",
+      "segment_number": 242
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yadbhūyomānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā yadbhūyomānāpyacārika eva san* /"
+      "text": "yadbhūyomānāpyacārikaḥ pudgalaḥ saṃghāvaśeṣām āpattim āpannaḥ / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / vastu śodhayitvā vinayātisāriṇīṃ ca duṣṭhulām āpattiṃ deśayitvā yadbhūyomānāpyacārika eva san* /",
+      "segment_number": 243
     },
     {
       "tag": "p",
@@ -1561,29 +1804,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "saṃlāpa"
+          "text": "saṃlāpa",
+          "segment_number": 245
         },
         {
           "tag": "text",
-          "text": "samutthitāṃ trirātripraticchannām* / paricaryāsamutthitāṃ catūrātripraticchannām* / sāṃcaritrasamutthitāṃ paṃcarātripraticchannām* / kuṭikāsamutthitāṃ ṣaḍrātripraticchannām* / ("
+          "text": "samutthitāṃ trirātripraticchannām* / paricaryāsamutthitāṃ catūrātripraticchannām* / sāṃcaritrasamutthitāṃ paṃcarātripraticchannām* / kuṭikāsamutthitāṃ ṣaḍrātripraticchannām* / (",
+          "segment_number": 246
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "bold"
           },
-          "text": "MSV III 88"
+          "text": "MSV III 88",
+          "segment_number": 247
         },
         {
           "tag": "text",
-          "text": ") mahallakasamutthitāṃ saptarātripraticchannām* / amūlakasamutthitām aṣṭarātripraticchannām* / leśisamutthitāṃ navarātripraticchannām* / saṃghabhedasamutthitāṃ daśarātripraticchannām* / tasyānuvartitasamutthitām ekādaśarātripraticchannām* / kuladūṣikasamutthitāṃ dvādaśarātripraticchannām* / daurvacasyasamutthitāṃ trayodaśarātripraticchannām* / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / yā āsām āpattīnāṃ kharatā ca gurutarā ca tīvreṇa cātiniveśena kṛtā tasyā vaśena parivāso dātavyo mūlaparivāso mūlāpakarṣo mānāpyaṃ cāvarhitavyaś ceti /"
+          "text": ") mahallakasamutthitāṃ saptarātripraticchannām* / amūlakasamutthitām aṣṭarātripraticchannām* / leśisamutthitāṃ navarātripraticchannām* / saṃghabhedasamutthitāṃ daśarātripraticchannām* / tasyānuvartitasamutthitām ekādaśarātripraticchannām* / kuladūṣikasamutthitāṃ dvādaśarātripraticchannām* / daurvacasyasamutthitāṃ trayodaśarātripraticchannām* / etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti / bhagavān āha / yā āsām āpattīnāṃ kharatā ca gurutarā ca tīvreṇa cātiniveśena kṛtā tasyā vaśena parivāso dātavyo mūlaparivāso mūlāpakarṣo mānāpyaṃ cāvarhitavyaś ceti /",
+          "segment_number": 248
         }
-      ]
+      ],
+      "segment_number": 244
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "pudgalavastu samāptam* //"
+      "text": "pudgalavastu samāptam* //",
+      "segment_number": 249
     }
   ]
 }

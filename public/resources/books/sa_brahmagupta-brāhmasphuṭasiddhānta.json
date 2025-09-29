@@ -38,12 +38,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "[atha gaṇita-adhyāyas]"
+      "text": "[atha gaṇita-adhyāyas]",
+      "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[parikarma-viṃśatis]"
+      "text": "[parikarma-viṃśatis]",
+      "segment_number": 2
     },
     {
       "tag": "lg",
@@ -56,14 +58,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.1a"
           },
-          "text": "parikarma-%viṃśatim yas saṅkalita-ādyām pṛthak vijānāti/"
+          "text": "parikarma-%viṃśatim yas saṅkalita-ādyām pṛthak vijānāti/",
+          "segment_number": 3
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.1c"
           },
-          "text": "%aṣṭau ca vyavahārān chāyā-antān bhavati gaṇakas sas//"
+          "text": "%aṣṭau ca vyavahārān chāyā-antān bhavati gaṇakas sas//",
+          "segment_number": 4
         }
       ]
     },
@@ -78,14 +82,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.2a"
           },
-          "text": "viparīta-cheda-guṇās rāśyos cheda-aṃśakās sama-chedās/"
+          "text": "viparīta-cheda-guṇās rāśyos cheda-aṃśakās sama-chedās/",
+          "segment_number": 5
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.2c"
           },
-          "text": "saṅkalite aṃśās yojyās vyavakalite aṃśa-antaram kāryam//"
+          "text": "saṅkalite aṃśās yojyās vyavakalite aṃśa-antaram kāryam//",
+          "segment_number": 6
         }
       ]
     },
@@ -100,14 +106,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.3a"
           },
-          "text": "rūpāṇi cheda-guṇāni aṃśa-yutāni %dvayos bahūnām vā/"
+          "text": "rūpāṇi cheda-guṇāni aṃśa-yutāni %dvayos bahūnām vā/",
+          "segment_number": 7
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.3c"
           },
-          "text": "pratyutpannas bhavati cheda-vadhena uddhṛtas aṃśa-vadhas//"
+          "text": "pratyutpannas bhavati cheda-vadhena uddhṛtas aṃśa-vadhas//",
+          "segment_number": 8
         }
       ]
     },
@@ -129,14 +137,16 @@
               "attributes": {},
               "text": "D: parivarttya < parivartya"
             }
-          ]
+          ],
+          "segment_number": 9
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.4c"
           },
-          "text": "aṃśas aṃśa-guṇas bhājyasya bhāga-hāras savarṇitayos//"
+          "text": "aṃśas aṃśa-guṇas bhājyasya bhāga-hāras savarṇitayos//",
+          "segment_number": 10
         }
       ]
     },
@@ -151,14 +161,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.5a"
           },
-          "text": "saṃvarṇita--aṃśa-vargas cheda-kṛti-vibhājitas bhavati vargas/"
+          "text": "saṃvarṇita--aṃśa-vargas cheda-kṛti-vibhājitas bhavati vargas/",
+          "segment_number": 11
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.5c"
           },
-          "text": "saṃvarṇita-aṃśa-mūlam cheda-padena uddhṛtam mūlam//"
+          "text": "saṃvarṇita-aṃśa-mūlam cheda-padena uddhṛtam mūlam//",
+          "segment_number": 12
         }
       ]
     },
@@ -173,14 +185,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.6a"
           },
-          "text": "sthāpyas antya-ghanas antya-kṛtis %tri-guṇa-uttara-saṅguṇā ca tad-%prathamāt/"
+          "text": "sthāpyas antya-ghanas antya-kṛtis %tri-guṇa-uttara-saṅguṇā ca tad-%prathamāt/",
+          "segment_number": 13
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.6c"
           },
-          "text": "uttara-kṛtis antya-guṇā %tri-guṇā ca uttara-ghanas ca ghanas//"
+          "text": "uttara-kṛtis antya-guṇā %tri-guṇā ca uttara-ghanas ca ghanas//",
+          "segment_number": 14
         }
       ]
     },
@@ -195,14 +209,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.7a"
           },
-          "text": "chedas ghanāt %dvitīyāt ghana-mūla-kṛtis %tri-saṅguṇā āpta-kṛtis/"
+          "text": "chedas ghanāt %dvitīyāt ghana-mūla-kṛtis %tri-saṅguṇā āpta-kṛtis/",
+          "segment_number": 15
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.7c"
           },
-          "text": "śodhyā %tri-pūrva-guṇitā %prathamāt ghanatas ghanas mūlam//"
+          "text": "śodhyā %tri-pūrva-guṇitā %prathamāt ghanatas ghanas mūlam//",
+          "segment_number": 16
         }
       ]
     },
@@ -217,14 +233,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.8a"
           },
-          "text": "sadṛśa-cheda-aṃśa-yutis cheda-vibhaktā phalam %prathama-jātau/"
+          "text": "sadṛśa-cheda-aṃśa-yutis cheda-vibhaktā phalam %prathama-jātau/",
+          "segment_number": 17
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.8c"
           },
-          "text": "aṃśais aṃśās guṇitās chedais chedās %dvitīyāyām//"
+          "text": "aṃśais aṃśās guṇitās chedais chedās %dvitīyāyām//",
+          "segment_number": 18
         }
       ]
     },
@@ -239,14 +257,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.9a"
           },
-          "text": "ūrdhva-aṃśās cheda-guṇās %tṛtīya-jātau %dvayos %prathama-parayos/"
+          "text": "ūrdhva-aṃśās cheda-guṇās %tṛtīya-jātau %dvayos %prathama-parayos/",
+          "segment_number": 19
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.9c"
           },
-          "text": "chedais chedās guṇitās sva-aṃśa-yuta-ūnais upari-ga-aṃśās//"
+          "text": "chedais chedās guṇitās sva-aṃśa-yuta-ūnais upari-ga-aṃśās//",
+          "segment_number": 20
         }
       ]
     },
@@ -261,14 +281,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.10a"
           },
-          "text": "trairāśike pramāṇam phalam iccā ādi-antayos sadṛśa-rāśī/"
+          "text": "trairāśike pramāṇam phalam iccā ādi-antayos sadṛśa-rāśī/",
+          "segment_number": 21
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.10c"
           },
-          "text": "icchā phalena guṇitā pramāṇa-bhaktā phalam bhavati//"
+          "text": "icchā phalena guṇitā pramāṇa-bhaktā phalam bhavati//",
+          "segment_number": 22
         }
       ]
     },
@@ -283,14 +305,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.11a"
           },
-          "text": "vyasta-trairāśika-phalam icchā-bhaktas pramāṇa-phala-ghātas/"
+          "text": "vyasta-trairāśika-phalam icchā-bhaktas pramāṇa-phala-ghātas/",
+          "segment_number": 23
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.11c"
           },
-          "text": "trairāśika-ādiṣu phalam viṣameṣu %ekādaśa-anteṣu//"
+          "text": "trairāśika-ādiṣu phalam viṣameṣu %ekādaśa-anteṣu//",
+          "segment_number": 24
         }
       ]
     },
@@ -305,14 +329,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.12a"
           },
-          "text": "phala-saṅkramaṇam ubhaya-tas bahu-rāśi-vadhas alpa-vadha-hṛtas jñeyam/"
+          "text": "phala-saṅkramaṇam ubhaya-tas bahu-rāśi-vadhas alpa-vadha-hṛtas jñeyam/",
+          "segment_number": 25
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.12c"
           },
-          "text": "sakaleṣu evam bhinneṣu ubhaya-tas cheda-saṅkramaṇam//"
+          "text": "sakaleṣu evam bhinneṣu ubhaya-tas cheda-saṅkramaṇam//",
+          "segment_number": 26
         }
       ]
     },
@@ -327,21 +353,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.13a"
           },
-          "text": "prāk mūlya-vyatyāsas bhāṇḍapratibhāṇḍake anyat ukta-samam/"
+          "text": "prāk mūlya-vyatyāsas bhāṇḍapratibhāṇḍake anyat ukta-samam/",
+          "segment_number": 27
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.13c"
           },
-          "text": "parikarmāṇi %aṣṭānām vyavahārāṇām abhihitāni//"
+          "text": "parikarmāṇi %aṣṭānām vyavahārāṇām abhihitāni//",
+          "segment_number": 28
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[miśraka-vyavahāras]"
+      "text": "[miśraka-vyavahāras]",
+      "segment_number": 29
     },
     {
       "tag": "lg",
@@ -354,14 +383,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.14a"
           },
-          "text": "kāla-guṇitam pramāṇam phala-bhaktam vi-%eka-guṇa-hatam kālas/"
+          "text": "kāla-guṇitam pramāṇam phala-bhaktam vi-%eka-guṇa-hatam kālas/",
+          "segment_number": 30
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.14c"
           },
-          "text": "sva-phala-yuta-#rūpa-bhaktam mūla-phala-aikyam bhavati mūlam//"
+          "text": "sva-phala-yuta-#rūpa-bhaktam mūla-phala-aikyam bhavati mūlam//",
+          "segment_number": 31
         }
       ]
     },
@@ -376,14 +407,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.15a"
           },
-          "text": "kāla-pramāṇa-ghātas para-kāla-hṛtas dvidhā ādya-miśra-vadhāt/"
+          "text": "kāla-pramāṇa-ghātas para-kāla-hṛtas dvidhā ādya-miśra-vadhāt/",
+          "segment_number": 32
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.15c"
           },
-          "text": "anya-%ardha-kṛti-yutāt padam anya-%ardha-ūnam pramāṇa-phalam//"
+          "text": "anya-%ardha-kṛti-yutāt padam anya-%ardha-ūnam pramāṇa-phalam//",
+          "segment_number": 33
         }
       ]
     },
@@ -398,21 +431,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.16a"
           },
-          "text": "prakṣepa-yoga-hṛtayā labdhyā prakṣepakās guṇās lābhās/"
+          "text": "prakṣepa-yoga-hṛtayā labdhyā prakṣepakās guṇās lābhās/",
+          "segment_number": 34
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.16c"
           },
-          "text": "ūna-adhika-uttarās tad-yuta-ūnayā sva-phalam ūna-yutam//"
+          "text": "ūna-adhika-uttarās tad-yuta-ūnayā sva-phalam ūna-yutam//",
+          "segment_number": 35
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[śreḍhī-vyavahāras]"
+      "text": "[śreḍhī-vyavahāras]",
+      "segment_number": 36
     },
     {
       "tag": "lg",
@@ -425,14 +461,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.17a"
           },
-          "text": "padam %eka-hīnam uttara-guṇitam saṃyuktam ādinā antya-dhanam/"
+          "text": "padam %eka-hīnam uttara-guṇitam saṃyuktam ādinā antya-dhanam/",
+          "segment_number": 37
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.17c"
           },
-          "text": "ādi-yuta-antya-dhana-%ardham madhya-dhanam pada-guṇam gaṇitam//"
+          "text": "ādi-yuta-antya-dhana-%ardham madhya-dhanam pada-guṇam gaṇitam//",
+          "segment_number": 38
         }
       ]
     },
@@ -447,14 +485,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.18a"
           },
-          "text": "uttara-hīna-%dvi-guṇa-ādi-śeṣa-vargam dhana-uttara-%aṣṭa-vadhe/"
+          "text": "uttara-hīna-%dvi-guṇa-ādi-śeṣa-vargam dhana-uttara-%aṣṭa-vadhe/",
+          "segment_number": 39
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.18c"
           },
-          "text": "prakṣipya padam śeṣa-ūnam %dvi-guṇa-uttara-hṛtam gacchas//"
+          "text": "prakṣipya padam śeṣa-ūnam %dvi-guṇa-uttara-hṛtam gacchas//",
+          "segment_number": 40
         }
       ]
     },
@@ -469,14 +509,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.19a"
           },
-          "text": "%eka-uttaram %eka-ādyam yadi iṣṭa-gacchasya bhavati saṅkalitam/"
+          "text": "%eka-uttaram %eka-ādyam yadi iṣṭa-gacchasya bhavati saṅkalitam/",
+          "segment_number": 41
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.19c"
           },
-          "text": "tat %dvi-yuta-gaccha-guṇitam %tri-hṛtam saṅkalita-saṅkalitam//"
+          "text": "tat %dvi-yuta-gaccha-guṇitam %tri-hṛtam saṅkalita-saṅkalitam//",
+          "segment_number": 42
         }
       ]
     },
@@ -491,21 +533,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.20a"
           },
-          "text": "%dvi-guṇa-pada-sa-%eka-guṇitam tat %tri-hṛtam bhavati varga-saṅkalitam/"
+          "text": "%dvi-guṇa-pada-sa-%eka-guṇitam tat %tri-hṛtam bhavati varga-saṅkalitam/",
+          "segment_number": 43
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.20c"
           },
-          "text": "ghana-saṅkalitam tad-kṛtis eṣām sama-golakais citayas//"
+          "text": "ghana-saṅkalitam tad-kṛtis eṣām sama-golakais citayas//",
+          "segment_number": 44
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[kṣetra-vyavahāras]"
+      "text": "[kṣetra-vyavahāras]",
+      "segment_number": 45
     },
     {
       "tag": "lg",
@@ -518,14 +563,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.21a"
           },
-          "text": "sthūla-phalam %tri-%catur-bhuja-bāhu-pratibāhu-yoga-#dala-ghātas/"
+          "text": "sthūla-phalam %tri-%catur-bhuja-bāhu-pratibāhu-yoga-#dala-ghātas/",
+          "segment_number": 46
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.21c"
           },
-          "text": "bhuja-yoga-%ardha-%catuṣṭaya-bhuja-ūna-ghātāt padam sūkṣmam//"
+          "text": "bhuja-yoga-%ardha-%catuṣṭaya-bhuja-ūna-ghātāt padam sūkṣmam//",
+          "segment_number": 47
         }
       ]
     },
@@ -547,14 +594,16 @@
               "attributes": {},
               "text": "D: -kṛtyantyantara- < -kṛti-antara-"
             }
-          ]
+          ],
+          "segment_number": 48
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.22c"
           },
-          "text": "sva-āvādhā-varga-ūnāt bhuja-vargāt mūlam avalambas//"
+          "text": "sva-āvādhā-varga-ūnāt bhuja-vargāt mūlam avalambas//",
+          "segment_number": 49
         }
       ]
     },
@@ -569,14 +618,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.23a"
           },
-          "text": "aviṣama-%catur-asra-bhuja--pratibhuja-vadhayos yutes padam karṇas/"
+          "text": "aviṣama-%catur-asra-bhuja--pratibhuja-vadhayos yutes padam karṇas/",
+          "segment_number": 50
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.23c"
           },
-          "text": "karṇa-kṛtis bhū-mukha-yuti-#dala-varga-ūnā padam lambas//"
+          "text": "karṇa-kṛtis bhū-mukha-yuti-#dala-varga-ūnā padam lambas//",
+          "segment_number": 51
         }
       ]
     },
@@ -591,7 +642,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.24a"
           },
-          "text": "karṇa-kṛtes koṭi-kṛtim viśodhya mūlam bhujas bhujasya kṛtim/"
+          "text": "karṇa-kṛtes koṭi-kṛtim viśodhya mūlam bhujas bhujasya kṛtim/",
+          "segment_number": 52
         },
         {
           "tag": "l",
@@ -605,7 +657,8 @@
               "attributes": {},
               "text": "D: vāhu < bāhu"
             }
-          ]
+          ],
+          "segment_number": 53
         }
       ]
     },
@@ -620,14 +673,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.25a"
           },
-          "text": "karṇa-yutau ūrdhva-adhara-khaṇḍe karṇa-avalamba-yoge vā/"
+          "text": "karṇa-yutau ūrdhva-adhara-khaṇḍe karṇa-avalamba-yoge vā/",
+          "segment_number": 54
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.25c"
           },
-          "text": "sva-āvādhe sva-yuti-hṛte dvidhā pṛthak karṇa-lamba-guṇe//"
+          "text": "sva-āvādhe sva-yuti-hṛte dvidhā pṛthak karṇa-lamba-guṇe//",
+          "segment_number": 55
         }
       ]
     },
@@ -642,14 +697,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.26a"
           },
-          "text": "aviṣama-pārśva-bhuja-guṇas karṇas %dvi-guṇa-avalambaka-vibhaktas/"
+          "text": "aviṣama-pārśva-bhuja-guṇas karṇas %dvi-guṇa-avalambaka-vibhaktas/",
+          "segment_number": 56
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.26c"
           },
-          "text": "hṛdayam viṣamasya bhuja-pratibhuja-kṛti-yoga-mūla-%ardham//"
+          "text": "hṛdayam viṣamasya bhuja-pratibhuja-kṛti-yoga-mūla-%ardham//",
+          "segment_number": 57
         }
       ]
     },
@@ -664,14 +721,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.27a"
           },
-          "text": "%tri-bhujasya vadhas bhujayos %dvi-guṇita-lamba-uddhṛtas hṛdaya-rajjus/"
+          "text": "%tri-bhujasya vadhas bhujayos %dvi-guṇita-lamba-uddhṛtas hṛdaya-rajjus/",
+          "segment_number": 58
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.27c"
           },
-          "text": "sā %dvi-guṇā %tri-%catur-bhuja-koṇa-spṛk vṛtta-viṣkambhas//"
+          "text": "sā %dvi-guṇā %tri-%catur-bhuja-koṇa-spṛk vṛtta-viṣkambhas//",
+          "segment_number": 59
         }
       ]
     },
@@ -686,14 +745,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.28a"
           },
-          "text": "karṇa-āśrita-bhuja-ghāta-aikyam ubhayathā anyonya-bhājitam guṇayet/"
+          "text": "karṇa-āśrita-bhuja-ghāta-aikyam ubhayathā anyonya-bhājitam guṇayet/",
+          "segment_number": 60
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.28c"
           },
-          "text": "yogena bhuja-pratibhuja-vadhayos karṇau pade viṣame//"
+          "text": "yogena bhuja-pratibhuja-vadhayos karṇau pade viṣame//",
+          "segment_number": 61
         }
       ]
     },
@@ -708,14 +769,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.29a"
           },
-          "text": "viṣama-%catur-asra-madhye viṣama-%tri-bhuja-%dvayam prakalpya pṛthak/"
+          "text": "viṣama-%catur-asra-madhye viṣama-%tri-bhuja-%dvayam prakalpya pṛthak/",
+          "segment_number": 62
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.29c"
           },
-          "text": "karṇa-%dvayena pūrva-vat āvādhe lambakau ca pṛthak//"
+          "text": "karṇa-%dvayena pūrva-vat āvādhe lambakau ca pṛthak//",
+          "segment_number": 63
         }
       ]
     },
@@ -730,14 +793,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.30a"
           },
-          "text": "viṣama-bhuja-antar-%tri-bhuje prakalpya karṇau bhujau tad-āvādhe/"
+          "text": "viṣama-bhuja-antar-%tri-bhuje prakalpya karṇau bhujau tad-āvādhe/",
+          "segment_number": 64
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.30c"
           },
-          "text": "pṛthak ūrdhva-adhara-khaṇḍe karṇa-yutau karṇayos adhare//"
+          "text": "pṛthak ūrdhva-adhara-khaṇḍe karṇa-yutau karṇayos adhare//",
+          "segment_number": 65
         }
       ]
     },
@@ -752,14 +817,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.31a"
           },
-          "text": "%tri-bhje bhujau tu bhūmis tad-lambas lambaka-adharam khaṇḍam/"
+          "text": "%tri-bhje bhujau tu bhūmis tad-lambas lambaka-adharam khaṇḍam/",
+          "segment_number": 66
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.31c"
           },
-          "text": "ūrdhvam avalamba-khaṇḍam lambaka-yoga-%ardham adhara-ūnam//"
+          "text": "ūrdhvam avalamba-khaṇḍam lambaka-yoga-%ardham adhara-ūnam//",
+          "segment_number": 67
         }
       ]
     },
@@ -774,14 +841,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.32a"
           },
-          "text": "karṇa-avalambaka-yutau khaṇḍe karṇa-avalambakayos adhare/"
+          "text": "karṇa-avalambaka-yutau khaṇḍe karṇa-avalambakayos adhare/",
+          "segment_number": 68
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.32c"
           },
-          "text": "anupātena tad-ūne ūrdhve sūcyām sa-pāṭāyām//"
+          "text": "anupātena tad-ūne ūrdhve sūcyām sa-pāṭāyām//",
+          "segment_number": 69
         }
       ]
     },
@@ -796,14 +865,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.33a"
           },
-          "text": "kṛti-yutis asadṛśa-rāśyos bāhus ghātas %dvi-saṅguṇas lambas/"
+          "text": "kṛti-yutis asadṛśa-rāśyos bāhus ghātas %dvi-saṅguṇas lambas/",
+          "segment_number": 70
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.33c"
           },
-          "text": "kṛti-antaram asadṛśayos %dvi-guṇam %dvi-sama-%tri-bhuja-bhūmis//"
+          "text": "kṛti-antaram asadṛśayos %dvi-guṇam %dvi-sama-%tri-bhuja-bhūmis//",
+          "segment_number": 71
         }
       ]
     },
@@ -818,14 +889,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.34a"
           },
-          "text": "iṣṭa-%dvayena bhaktas dvidhā iṣṭa-vargas phala-iṣṭa-yoga-%ardhe/"
+          "text": "iṣṭa-%dvayena bhaktas dvidhā iṣṭa-vargas phala-iṣṭa-yoga-%ardhe/",
+          "segment_number": 72
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.34c"
           },
-          "text": "viṣama-%tri-bhujasya bhujau iṣṭa-ūna-phala-%ardha-yogas bhūs//"
+          "text": "viṣama-%tri-bhujasya bhujau iṣṭa-ūna-phala-%ardha-yogas bhūs//",
+          "segment_number": 73
         }
       ]
     },
@@ -840,14 +913,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.35a"
           },
-          "text": "iṣṭasya bhujasya kṛtis bhaktā ūnā iṣṭena tad-#dalam koṭis/"
+          "text": "iṣṭasya bhujasya kṛtis bhaktā ūnā iṣṭena tad-#dalam koṭis/",
+          "segment_number": 74
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.35c"
           },
-          "text": "āyata-%catur-asrasya kṣetrasya iṣṭa-adhikā karṇas//"
+          "text": "āyata-%catur-asrasya kṣetrasya iṣṭa-adhikā karṇas//",
+          "segment_number": 75
         }
       ]
     },
@@ -862,14 +937,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.36a"
           },
-          "text": "āyata-karṇas bāhū bhuja-kṛtis iṣṭena bhājitā iṣṭa-ūnā/"
+          "text": "āyata-karṇas bāhū bhuja-kṛtis iṣṭena bhājitā iṣṭa-ūnā/",
+          "segment_number": 76
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.36c"
           },
-          "text": "%dvi-hṛtā koṭi-adhikā bhūs mukham ūnā %dvi-sama-%catur-asre//"
+          "text": "%dvi-hṛtā koṭi-adhikā bhūs mukham ūnā %dvi-sama-%catur-asre//",
+          "segment_number": 77
         }
       ]
     },
@@ -884,14 +961,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.37a"
           },
-          "text": "karṇa-kṛtis %tri-sama-hbujās %trayas %caturthas viśodhya koṭi-kṛtim/"
+          "text": "karṇa-kṛtis %tri-sama-hbujās %trayas %caturthas viśodhya koṭi-kṛtim/",
+          "segment_number": 78
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.37c"
           },
-          "text": "bāhu-kṛtes %tri-guṇāyās yadi adhikas bhūs mukham hīnas//"
+          "text": "bāhu-kṛtes %tri-guṇāyās yadi adhikas bhūs mukham hīnas//",
+          "segment_number": 79
         }
       ]
     },
@@ -906,14 +985,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.38a"
           },
-          "text": "jātya-%dvaya-koṭi-bhujās para-karṇa-guṇās bhujās %catur-viṣame/"
+          "text": "jātya-%dvaya-koṭi-bhujās para-karṇa-guṇās bhujās %catur-viṣame/",
+          "segment_number": 80
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.38c"
           },
-          "text": "adhikas bhūs mukha-hīnas bāhu-%dvitayam bhujau anyau//"
+          "text": "adhikas bhūs mukha-hīnas bāhu-%dvitayam bhujau anyau//",
+          "segment_number": 81
         }
       ]
     },
@@ -928,14 +1009,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.39a"
           },
-          "text": "iṣṭa-guṇa-kāra-guṇitas giri-ucchrāyas pura-antaram anaṣṭam/"
+          "text": "iṣṭa-guṇa-kāra-guṇitas giri-ucchrāyas pura-antaram anaṣṭam/",
+          "segment_number": 82
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.39c"
           },
-          "text": "%dvi-yuta-guṇa-kāra-bhājitam utpātas anyasya sama-gatyos//"
+          "text": "%dvi-yuta-guṇa-kāra-bhājitam utpātas anyasya sama-gatyos//",
+          "segment_number": 83
         }
       ]
     },
@@ -950,14 +1033,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.40a"
           },
-          "text": "vyāsa-vyāsa-%ardha-kṛtī paridhi-phale vyāvahārike %tri-guṇe/"
+          "text": "vyāsa-vyāsa-%ardha-kṛtī paridhi-phale vyāvahārike %tri-guṇe/",
+          "segment_number": 84
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.40c"
           },
-          "text": "tad-vargābhyām %daśabhis saṅguṇitābhyām pade sūkṣme//"
+          "text": "tad-vargābhyām %daśabhis saṅguṇitābhyām pade sūkṣme//",
+          "segment_number": 85
         }
       ]
     },
@@ -972,14 +1057,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.41a"
           },
-          "text": "vṛtte śara-ūna-guṇitāt vyāsāt %catur-āhatāt padam jīvā/"
+          "text": "vṛtte śara-ūna-guṇitāt vyāsāt %catur-āhatāt padam jīvā/",
+          "segment_number": 86
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.41c"
           },
-          "text": "jyā-vargas %catur-āhata-śara-bhaktas śara-yutas vyāsas//"
+          "text": "jyā-vargas %catur-āhata-śara-bhaktas śara-yutas vyāsas//",
+          "segment_number": 87
         }
       ]
     },
@@ -994,14 +1081,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.42a"
           },
-          "text": "jyā-vyāsa-kṛti-viśeṣāt mūla-vyāsa-antara-%ardham iṣus alpas/"
+          "text": "jyā-vyāsa-kṛti-viśeṣāt mūla-vyāsa-antara-%ardham iṣus alpas/",
+          "segment_number": 88
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.42c"
           },
-          "text": "vyāsau grāsa-ūna-guṇau grāsa-ūna-aikya-uddhṛtau bāṇau//"
+          "text": "vyāsau grāsa-ūna-guṇau grāsa-ūna-aikya-uddhṛtau bāṇau//",
+          "segment_number": 89
         }
       ]
     },
@@ -1016,21 +1105,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.43a"
           },
-          "text": "iṣṭa-śara-%dvaya-bhakte jyā-%ardha-kṛtī śara-yute phale vyāsau/"
+          "text": "iṣṭa-śara-%dvaya-bhakte jyā-%ardha-kṛtī śara-yute phale vyāsau/",
+          "segment_number": 90
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.43c"
           },
-          "text": "śarayos phalayos aikyam grāsas grāsa-ūnam aikyam tat//"
+          "text": "śarayos phalayos aikyam grāsas grāsa-ūnam aikyam tat//",
+          "segment_number": 91
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[khāta-vyavahāras]"
+      "text": "[khāta-vyavahāras]",
+      "segment_number": 92
     },
     {
       "tag": "lg",
@@ -1043,14 +1135,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.44a"
           },
-          "text": "kṣetra-phalam vedha-guṇam sama-khāta-phalam hṛtam %tribhis sūcyās/"
+          "text": "kṣetra-phalam vedha-guṇam sama-khāta-phalam hṛtam %tribhis sūcyās/",
+          "segment_number": 93
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.44c"
           },
-          "text": "mukha-tala-tulya-bhuja-aikyāni %eka-agra-hṛtāni sama-rajjus//"
+          "text": "mukha-tala-tulya-bhuja-aikyāni %eka-agra-hṛtāni sama-rajjus//",
+          "segment_number": 94
         }
       ]
     },
@@ -1065,14 +1159,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.45a"
           },
-          "text": "mukha-tala-yuti-#dala-gaṇitam vedha-guṇam vyāvahārikam gaṇitam/"
+          "text": "mukha-tala-yuti-#dala-gaṇitam vedha-guṇam vyāvahārikam gaṇitam/",
+          "segment_number": 95
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.45c"
           },
-          "text": "mukha-tala-gaṇita-aikya-%ardham vedha-guṇam syāt gaṇitam autram//"
+          "text": "mukha-tala-gaṇita-aikya-%ardham vedha-guṇam syāt gaṇitam autram//",
+          "segment_number": 96
         }
       ]
     },
@@ -1087,21 +1183,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.46a"
           },
-          "text": "autra-gaṇitāt viśodhya vyavahāra-phalam bhajet %tribhis śeṣam/"
+          "text": "autra-gaṇitāt viśodhya vyavahāra-phalam bhajet %tribhis śeṣam/",
+          "segment_number": 97
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.46c"
           },
-          "text": "labdham vyavahāra-phale prakṣipya bhavati phalam sūkṣmam//"
+          "text": "labdham vyavahāra-phale prakṣipya bhavati phalam sūkṣmam//",
+          "segment_number": 98
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[citi-vyavahāras]"
+      "text": "[citi-vyavahāras]",
+      "segment_number": 99
     },
     {
       "tag": "lg",
@@ -1114,21 +1213,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.47a"
           },
-          "text": "ākṛti-phalam auccya-āhatam agra-tala-aikya-%ardham auccya-dairghya-guṇam/"
+          "text": "ākṛti-phalam auccya-āhatam agra-tala-aikya-%ardham auccya-dairghya-guṇam/",
+          "segment_number": 100
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.47c"
           },
-          "text": "ghana-gaṇitam iṣṭakā-ghana-phalena hṛtam iṣṭakā-gaṇitam//"
+          "text": "ghana-gaṇitam iṣṭakā-ghana-phalena hṛtam iṣṭakā-gaṇitam//",
+          "segment_number": 101
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[krākacika-vyavahāras]"
+      "text": "[krākacika-vyavahāras]",
+      "segment_number": 102
     },
     {
       "tag": "lg",
@@ -1141,14 +1243,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.48a"
           },
-          "text": "vistāra-āyāma-aṅgula-ghātas mārga-āhatas %dvi-#veda-hṛtas/"
+          "text": "vistāra-āyāma-aṅgula-ghātas mārga-āhatas %dvi-#veda-hṛtas/",
+          "segment_number": 103
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.48c"
           },
-          "text": "kiṣku-aṅgulāni labdham tat %ṣaṇṇavatis bhavati karma//"
+          "text": "kiṣku-aṅgulāni labdham tat %ṣaṇṇavatis bhavati karma//",
+          "segment_number": 104
         }
       ]
     },
@@ -1163,21 +1267,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.49a"
           },
-          "text": "śākā-ādiṣu śālmalyām %śata-%dvayam bījake %śatam %viṃśam/"
+          "text": "śākā-ādiṣu śālmalyām %śata-%dvayam bījake %śatam %viṃśam/",
+          "segment_number": 105
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.49c"
           },
-          "text": "śāla-sarala-ādiṣu %śatam atha avi-dāruṣu %catuḥṣaṣṭis/"
+          "text": "śāla-sarala-ādiṣu %śatam atha avi-dāruṣu %catuḥṣaṣṭis/",
+          "segment_number": 106
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[rāśi-vyavahāras]"
+      "text": "[rāśi-vyavahāras]",
+      "segment_number": 107
     },
     {
       "tag": "lg",
@@ -1190,14 +1297,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.50a"
           },
-          "text": "%navamas śūkiṣu %daśamas sthūleṣu %ekādaśas bhavati aṇuṣu/"
+          "text": "%navamas śūkiṣu %daśamas sthūleṣu %ekādaśas bhavati aṇuṣu/",
+          "segment_number": 108
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.50c"
           },
-          "text": "paridhes vedhas paridhes %ṣaṣ-aṃśa-varga-āhatas gaṇitam//"
+          "text": "paridhes vedhas paridhes %ṣaṣ-aṃśa-varga-āhatas gaṇitam//",
+          "segment_number": 109
         }
       ]
     },
@@ -1212,21 +1321,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.51a"
           },
-          "text": "%dvi-%catur-sa-%tri-aṃśa-guṇas bhitti-antar-vāhya-koṇa-gas paridhis/"
+          "text": "%dvi-%catur-sa-%tri-aṃśa-guṇas bhitti-antar-vāhya-koṇa-gas paridhis/",
+          "segment_number": 110
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.51c"
           },
-          "text": "prāk-vat kṛtvā gaṇitam tad-gaṇitam sva-guṇa-kāra-hṛtam//"
+          "text": "prāk-vat kṛtvā gaṇitam tad-gaṇitam sva-guṇa-kāra-hṛtam//",
+          "segment_number": 111
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[chāyā-vyavahāras]"
+      "text": "[chāyā-vyavahāras]",
+      "segment_number": 112
     },
     {
       "tag": "lg",
@@ -1239,14 +1351,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.52a"
           },
-          "text": "chāyā-nara-sa-%eka-hṛtam dyu-#dalam prāk-aparayos dyu-gata-śeṣam/"
+          "text": "chāyā-nara-sa-%eka-hṛtam dyu-#dalam prāk-aparayos dyu-gata-śeṣam/",
+          "segment_number": 113
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.52c"
           },
-          "text": "dina-gata-śeṣa-aṃśa-hṛtam dyu-#dalam chāyā-nara-vi-%ekam//"
+          "text": "dina-gata-śeṣa-aṃśa-hṛtam dyu-#dalam chāyā-nara-vi-%ekam//",
+          "segment_number": 114
         }
       ]
     },
@@ -1261,14 +1375,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.53a"
           },
-          "text": "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/"
+          "text": "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/",
+          "segment_number": 115
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.53c"
           },
-          "text": "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//"
+          "text": "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//",
+          "segment_number": 116
         }
       ]
     },
@@ -1283,21 +1399,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.54a"
           },
-          "text": "chāyā-agra-antara-guṇitā chāyā chāyā-antareṇa bhaktā bhūs/"
+          "text": "chāyā-agra-antara-guṇitā chāyā chāyā-antareṇa bhaktā bhūs/",
+          "segment_number": 117
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.54c"
           },
-          "text": "bhūs śaṅku-guṇā chāyā-vibhājitā dīpa-śikhayā auccyam//"
+          "text": "bhūs śaṅku-guṇā chāyā-vibhājitā dīpa-śikhayā auccyam//",
+          "segment_number": 118
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[pratyutpanna-ādayas]"
+      "text": "[pratyutpanna-ādayas]",
+      "segment_number": 119
     },
     {
       "tag": "lg",
@@ -1310,14 +1429,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.55a"
           },
-          "text": "guṇa-kāra-khaṇḍa-tulyas guṇyas go-mūtrikā-kṛtas guṇitas/"
+          "text": "guṇa-kāra-khaṇḍa-tulyas guṇyas go-mūtrikā-kṛtas guṇitas/",
+          "segment_number": 120
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.55c"
           },
-          "text": "sahitas pratyutpannas guṇa-kāraka-bheda-tulyas vā//"
+          "text": "sahitas pratyutpannas guṇa-kāraka-bheda-tulyas vā//",
+          "segment_number": 121
         }
       ]
     },
@@ -1332,14 +1453,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.56a"
           },
-          "text": "guṇyas rāśis guṇa-kāra-rāśinā iṣṭa-adhika-ūnakena guṇas/"
+          "text": "guṇyas rāśis guṇa-kāra-rāśinā iṣṭa-adhika-ūnakena guṇas/",
+          "segment_number": 122
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.56c"
           },
-          "text": "guṇya-iṣṭa-vadha-ūna-yutas guṇake abhyadhika-ūnake kāryas//"
+          "text": "guṇya-iṣṭa-vadha-ūna-yutas guṇake abhyadhika-ūnake kāryas//",
+          "segment_number": 123
         }
       ]
     },
@@ -1354,14 +1477,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.57a"
           },
-          "text": "chedena iṣṭa-yuta-ūnena āptam bhājyāt anaṣṭam iṣṭa-guṇam/"
+          "text": "chedena iṣṭa-yuta-ūnena āptam bhājyāt anaṣṭam iṣṭa-guṇam/",
+          "segment_number": 124
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.57c"
           },
-          "text": "prakṛti-stha-cheda-hṛtam labdhyā yuta-hīnakam anaṣṭam//"
+          "text": "prakṛti-stha-cheda-hṛtam labdhyā yuta-hīnakam anaṣṭam//",
+          "segment_number": 125
         }
       ]
     },
@@ -1376,14 +1501,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.58a"
           },
-          "text": "guṇyas cheda-phala-vadhas guṇaka-hṛtas guṇya-bhājitas guṇakas/"
+          "text": "guṇyas cheda-phala-vadhas guṇaka-hṛtas guṇya-bhājitas guṇakas/",
+          "segment_number": 126
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.58c"
           },
-          "text": "cheda-uddhṛtas phalam guṇya-guṇa-vadhas phala-hṛtas chedas//"
+          "text": "cheda-uddhṛtas phalam guṇya-guṇa-vadhas phala-hṛtas chedas//",
+          "segment_number": 127
         }
       ]
     },
@@ -1398,14 +1525,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.59a"
           },
-          "text": "guṇya-guṇa-kārayos cheda-labdhayos yadi %dvayos %dvayos nāśas/"
+          "text": "guṇya-guṇa-kārayos cheda-labdhayos yadi %dvayos %dvayos nāśas/",
+          "segment_number": 128
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.59c"
           },
-          "text": "teṣām dṛśyau vyastau kṛtvā tad-sthānayos ca iṣṭau//"
+          "text": "teṣām dṛśyau vyastau kṛtvā tad-sthānayos ca iṣṭau//",
+          "segment_number": 129
         }
       ]
     },
@@ -1420,14 +1549,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.60a"
           },
-          "text": "guṇyam guṇa-kāram vā guṇayet chedena bhāga-hārasya/"
+          "text": "guṇyam guṇa-kāram vā guṇayet chedena bhāga-hārasya/",
+          "segment_number": 130
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.60c"
           },
-          "text": "guṇya-guṇa-kāra-rāśyos cheda-guṇas bhāga-hāras ca//"
+          "text": "guṇya-guṇa-kāra-rāśyos cheda-guṇas bhāga-hāras ca//",
+          "segment_number": 131
         }
       ]
     },
@@ -1442,7 +1573,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.61a"
           },
-          "text": "acchedasya chedam #rūpam kṛtvā anyat ukta-vat sarvam/"
+          "text": "acchedasya chedam #rūpam kṛtvā anyat ukta-vat sarvam/",
+          "segment_number": 132
         },
         {
           "tag": "l",
@@ -1456,7 +1588,8 @@
               "attributes": {},
               "text": "D: avaparttyau < apavartyau"
             }
-          ]
+          ],
+          "segment_number": 133
         }
       ]
     },
@@ -1471,14 +1604,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.62a"
           },
-          "text": "sva-vikala-%ṣaṣṭi-aṃśa-guṇas sakalas %triṃśa-uddhṛtas vikala-vargas/"
+          "text": "sva-vikala-%ṣaṣṭi-aṃśa-guṇas sakalas %triṃśa-uddhṛtas vikala-vargas/",
+          "segment_number": 134
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.62c"
           },
-          "text": "prakṣepyas sakala-kṛtau varga-ghanau %dvi-%tri-tulya-vadhau//"
+          "text": "prakṣepyas sakala-kṛtau varga-ghanau %dvi-%tri-tulya-vadhau//",
+          "segment_number": 135
         }
       ]
     },
@@ -1493,14 +1628,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.63a"
           },
-          "text": "rāśes ūnam %dvi-guṇam bahutara-guṇam ūna-kṛti-yutam vargas/"
+          "text": "rāśes ūnam %dvi-guṇam bahutara-guṇam ūna-kṛti-yutam vargas/",
+          "segment_number": 136
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.63c"
           },
-          "text": "rāśes iṣṭa-yuta-ūnāt vadhas kṛtis vā iṣṭa-kṛti-yuktas//"
+          "text": "rāśes iṣṭa-yuta-ūnāt vadhas kṛtis vā iṣṭa-kṛti-yuktas//",
+          "segment_number": 137
         }
       ]
     },
@@ -1515,14 +1652,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.64a"
           },
-          "text": "iṣṭa-alpa-rāśi-vargau yukta-ūnau itara-vikala-vargābhyām/"
+          "text": "iṣṭa-alpa-rāśi-vargau yukta-ūnau itara-vikala-vargābhyām/",
+          "segment_number": 138
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.64c"
           },
-          "text": "%dvi-guṇa-itara-rāśibhyām bhaktau tena adhika-ūnābhyām//"
+          "text": "%dvi-guṇa-itara-rāśibhyām bhaktau tena adhika-ūnābhyām//",
+          "segment_number": 139
         }
       ]
     },
@@ -1537,14 +1676,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.65a"
           },
-          "text": "sthāna-antareṣu labdham yena samam phala-yuta-ūnaka-chedas/"
+          "text": "sthāna-antareṣu labdham yena samam phala-yuta-ūnaka-chedas/",
+          "segment_number": 140
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.65c"
           },
-          "text": "dalitas kṛti-yoga-antara-padam itaras vā phala-yuta-ūnas//"
+          "text": "dalitas kṛti-yoga-antara-padam itaras vā phala-yuta-ūnas//",
+          "segment_number": 141
         }
       ]
     },
@@ -1559,28 +1700,32 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.66a"
           },
-          "text": "dik-mātram etat anyat jyā-utpattau kuṭṭake ca kathayiṣye/"
+          "text": "dik-mātram etat anyat jyā-utpattau kuṭṭake ca kathayiṣye/",
+          "segment_number": 142
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.66c"
           },
-          "text": "saṅkalita-ādiṣu āryās %ṣaṭṣaṣṭis %dvādaśas adhyāyas//"
+          "text": "saṅkalita-ādiṣu āryās %ṣaṭṣaṣṭis %dvādaśas adhyāyas//",
+          "segment_number": 143
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.66p"
           },
-          "text": "iti śrī-brāhma-sphuṭa-siddhānte %dvādaśas adhyāyas//12//"
+          "text": "iti śrī-brāhma-sphuṭa-siddhānte %dvādaśas adhyāyas//12//",
+          "segment_number": 144
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[atha kuṭṭaka-adhyāyas]"
+      "text": "[atha kuṭṭaka-adhyāyas]",
+      "segment_number": 145
     },
     {
       "tag": "lg",
@@ -1593,14 +1738,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.1a"
           },
-          "text": "prāyeṇa yatas praśnās kuṭṭākārāt ṛte na śakyante/"
+          "text": "prāyeṇa yatas praśnās kuṭṭākārāt ṛte na śakyante/",
+          "segment_number": 146
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.1c"
           },
-          "text": "jñātum vakṣyāmi tatas kuṭṭākāram saha praśnais//"
+          "text": "jñātum vakṣyāmi tatas kuṭṭākāram saha praśnais//",
+          "segment_number": 147
         }
       ]
     },
@@ -1615,21 +1762,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.2a"
           },
-          "text": "kuṭṭaka-#kha-ṛṇa-dhana-avyakta-madhya-haraṇa-%eka-varṇa-bhāvitakais/"
+          "text": "kuṭṭaka-#kha-ṛṇa-dhana-avyakta-madhya-haraṇa-%eka-varṇa-bhāvitakais/",
+          "segment_number": 148
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.2c"
           },
-          "text": "ācāryas tantra-vidām jñātais varga-prakṛtyā ca//"
+          "text": "ācāryas tantra-vidām jñātais varga-prakṛtyā ca//",
+          "segment_number": 149
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[kuṭṭakam]"
+      "text": "[kuṭṭakam]",
+      "segment_number": 150
     },
     {
       "tag": "lg",
@@ -1642,14 +1792,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.3a"
           },
-          "text": "adhika-agra-bhāga-hārāt ūna-agra-cheda-bhājitāt śeṣam/"
+          "text": "adhika-agra-bhāga-hārāt ūna-agra-cheda-bhājitāt śeṣam/",
+          "segment_number": 151
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.3c"
           },
-          "text": "yat tat paraspara-hṛtam labdham adhas adhas pṛthak sthāpyam//"
+          "text": "yat tat paraspara-hṛtam labdham adhas adhas pṛthak sthāpyam//",
+          "segment_number": 152
         }
       ]
     },
@@ -1664,14 +1816,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.4a"
           },
-          "text": "śeṣam tathā iṣṭa-guṇitam yathā agrayos antareṇa saṃyuktam/"
+          "text": "śeṣam tathā iṣṭa-guṇitam yathā agrayos antareṇa saṃyuktam/",
+          "segment_number": 153
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.4c"
           },
-          "text": "śudhyati guṇakas sthāpyas labdham ca antyāt upāntya-guṇas//"
+          "text": "śudhyati guṇakas sthāpyas labdham ca antyāt upāntya-guṇas//",
+          "segment_number": 154
         }
       ]
     },
@@ -1686,14 +1840,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.5a"
           },
-          "text": "sva-ūrdhvas antya-yutas agra-antas hīna-agra-cheda-bhājitas śeṣam/"
+          "text": "sva-ūrdhvas antya-yutas agra-antas hīna-agra-cheda-bhājitas śeṣam/",
+          "segment_number": 155
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.5c"
           },
-          "text": "adhika-agra-cheda-hatam adhika-agra-yutam bhavati agram//"
+          "text": "adhika-agra-cheda-hatam adhika-agra-yutam bhavati agram//",
+          "segment_number": 156
         }
       ]
     },
@@ -1708,14 +1864,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.6a"
           },
-          "text": "cheda-vadhasya %dvi-yugam cheda-vadhas yuga-gatam %dvayos agram/"
+          "text": "cheda-vadhasya %dvi-yugam cheda-vadhas yuga-gatam %dvayos agram/",
+          "segment_number": 157
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.6c"
           },
-          "text": "kuṭṭākāreṇa evam %tri-ādi-graha-yuga-gata-ānayanam//"
+          "text": "kuṭṭākāreṇa evam %tri-ādi-graha-yuga-gata-ānayanam//",
+          "segment_number": 158
         }
       ]
     },
@@ -1730,7 +1888,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.7a"
           },
-          "text": "bha-gaṇa-ādi-śeṣam agram cheda-hṛtam #kham ca dina-ja-śeṣa-hṛtam/"
+          "text": "bha-gaṇa-ādi-śeṣam agram cheda-hṛtam #kham ca dina-ja-śeṣa-hṛtam/",
+          "segment_number": 159
         },
         {
           "tag": "l",
@@ -1744,7 +1903,8 @@
               "attributes": {},
               "text": "Cb.8"
             }
-          ]
+          ],
+          "segment_number": 160
         }
       ]
     },
@@ -1759,7 +1919,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.8a"
           },
-          "text": "dina-ja-bha-gaṇa-ādi-śeṣam yena guṇam maṇḍala-ādi śeṣakayos/"
+          "text": "dina-ja-bha-gaṇa-ādi-śeṣam yena guṇam maṇḍala-ādi śeṣakayos/",
+          "segment_number": 161
         },
         {
           "tag": "l",
@@ -1773,7 +1934,8 @@
               "attributes": {},
               "text": "Cb.10"
             }
-          ]
+          ],
+          "segment_number": 162
         }
       ]
     },
@@ -1788,7 +1950,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.9a"
           },
-          "text": "hṛtayos parasparam yat cheṣam guṇa-kāra-bhāga-hārakayos/"
+          "text": "hṛtayos parasparam yat cheṣam guṇa-kāra-bhāga-hārakayos/",
+          "segment_number": 163
         },
         {
           "tag": "l",
@@ -1802,7 +1965,8 @@
               "attributes": {},
               "text": "Cb.11"
             }
-          ]
+          ],
+          "segment_number": 164
         }
       ]
     },
@@ -1817,7 +1981,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.10a"
           },
-          "text": "labdham adhas adhas sthāpyam tathā iṣṭa-guṇa-kāra-saṅguṇam śeṣam/"
+          "text": "labdham adhas adhas sthāpyam tathā iṣṭa-guṇa-kāra-saṅguṇam śeṣam/",
+          "segment_number": 165
         },
         {
           "tag": "l",
@@ -1831,7 +1996,8 @@
               "attributes": {},
               "text": "Cb.12"
             }
-          ]
+          ],
+          "segment_number": 166
         }
       ]
     },
@@ -1846,7 +2012,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.11a"
           },
-          "text": "agra-antam upāntyena sva-ūrdhvas guṇitas antya-saṃyutas bhaktam/"
+          "text": "agra-antam upāntyena sva-ūrdhvas guṇitas antya-saṃyutas bhaktam/",
+          "segment_number": 167
         },
         {
           "tag": "l",
@@ -1860,7 +2027,8 @@
               "attributes": {},
               "text": "Cb.13"
             }
-          ]
+          ],
+          "segment_number": 168
         }
       ]
     },
@@ -1875,7 +2043,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.12a"
           },
-          "text": "iṣṭa-bha-gaṇa-ādi-śeṣāt sva-kuṭṭaka-guṇāt sva-bhāga-hāra-guṇāt/"
+          "text": "iṣṭa-bha-gaṇa-ādi-śeṣāt sva-kuṭṭaka-guṇāt sva-bhāga-hāra-guṇāt/",
+          "segment_number": 169
         },
         {
           "tag": "l",
@@ -1889,7 +2058,8 @@
               "attributes": {},
               "text": "Cb.15; ḍ: -apavartta- < -apavarta-"
             }
-          ]
+          ],
+          "segment_number": 170
         }
       ]
     },
@@ -1904,7 +2074,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.13a"
           },
-          "text": "evam sameṣu viṣameṣu ṛṇam dhanam dhanam ṛṇam yat uktam tat/"
+          "text": "evam sameṣu viṣameṣu ṛṇam dhanam dhanam ṛṇam yat uktam tat/",
+          "segment_number": 171
         },
         {
           "tag": "l",
@@ -1918,7 +2089,8 @@
               "attributes": {},
               "text": "Cb.16"
             }
-          ]
+          ],
+          "segment_number": 172
         }
       ]
     },
@@ -1933,7 +2105,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.14a"
           },
-          "text": "guṇakas chedas chedas guṇakas dhanam ṛṇam ṛṇam dhanam kāryam/"
+          "text": "guṇakas chedas chedas guṇakas dhanam ṛṇam ṛṇam dhanam kāryam/",
+          "segment_number": 173
         },
         {
           "tag": "l",
@@ -1947,7 +2120,8 @@
               "attributes": {},
               "text": "Cb.17"
             }
-          ]
+          ],
+          "segment_number": 174
         }
       ]
     },
@@ -1962,7 +2136,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.15a"
           },
-          "text": "yas jānāti yuga-ādi graha-yuga-yātais pṛthak pṛthak kathitais/"
+          "text": "yas jānāti yuga-ādi graha-yuga-yātais pṛthak pṛthak kathitais/",
+          "segment_number": 175
         },
         {
           "tag": "l",
@@ -1976,7 +2151,8 @@
               "attributes": {},
               "text": "Cb.7"
             }
-          ]
+          ],
+          "segment_number": 176
         }
       ]
     },
@@ -1991,7 +2167,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.16a"
           },
-          "text": "bha-gaṇa-ādyam iṣṭa-śeṣam kadā indu-divase raves guru-dine vā/"
+          "text": "bha-gaṇa-ādyam iṣṭa-śeṣam kadā indu-divase raves guru-dine vā/",
+          "segment_number": 177
         },
         {
           "tag": "l",
@@ -2005,7 +2182,8 @@
               "attributes": {},
               "text": "Cb.19"
             }
-          ]
+          ],
+          "segment_number": 178
         }
       ]
     },
@@ -2020,7 +2198,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.17a"
           },
-          "text": "jña-dine yat aṃśa-śeṣam vikalā-śeṣam kadā tat indu-dine/"
+          "text": "jña-dine yat aṃśa-śeṣam vikalā-śeṣam kadā tat indu-dine/",
+          "segment_number": 179
         },
         {
           "tag": "l",
@@ -2034,7 +2213,8 @@
               "attributes": {},
               "text": "Cb.20"
             }
-          ]
+          ],
+          "segment_number": 180
         }
       ]
     },
@@ -2049,7 +2229,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.18a"
           },
-          "text": "tithi-māna-dineṣu iṣṭās ye arka-ādyās te punar kadā teṣu/"
+          "text": "tithi-māna-dineṣu iṣṭās ye arka-ādyās te punar kadā teṣu/",
+          "segment_number": 181
         },
         {
           "tag": "l",
@@ -2063,7 +2244,8 @@
               "attributes": {},
               "text": "Cb.21"
             }
-          ]
+          ],
+          "segment_number": 182
         }
       ]
     },
@@ -2078,7 +2260,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.19a"
           },
-          "text": "iṣṭa-bha-gaṇa-ādi-śeṣāt dyu-gaṇas tat kuṭṭakena saṃyuktas/"
+          "text": "iṣṭa-bha-gaṇa-ādi-śeṣāt dyu-gaṇas tat kuṭṭakena saṃyuktas/",
+          "segment_number": 183
         },
         {
           "tag": "l",
@@ -2092,7 +2275,8 @@
               "attributes": {},
               "text": "Cb.22"
             }
-          ]
+          ],
+          "segment_number": 184
         }
       ]
     },
@@ -2107,7 +2291,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.20a"
           },
-          "text": "yas rāśi-ādīn dṛṣṭvā madhyasya iṣṭasya katahyati dyu-gaṇam/"
+          "text": "yas rāśi-ādīn dṛṣṭvā madhyasya iṣṭasya katahyati dyu-gaṇam/",
+          "segment_number": 185
         },
         {
           "tag": "l",
@@ -2121,7 +2306,8 @@
               "attributes": {},
               "text": "Cb.23"
             }
-          ]
+          ],
+          "segment_number": 186
         }
       ]
     },
@@ -2136,7 +2322,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.21a"
           },
-          "text": "nis-cheda-bhāga-hārāt rāśi-ādi-kalā-ādinā hatāt bhaktāt/"
+          "text": "nis-cheda-bhāga-hārāt rāśi-ādi-kalā-ādinā hatāt bhaktāt/",
+          "segment_number": 187
         },
         {
           "tag": "l",
@@ -2150,7 +2337,8 @@
               "attributes": {},
               "text": "Cb.24"
             }
-          ]
+          ],
+          "segment_number": 188
         }
       ]
     },
@@ -2165,7 +2353,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.22a"
           },
-          "text": "evam rāśi-aṃśa-kalā-vikalā-śeṣāt ahar-gaṇas prāk-vat/"
+          "text": "evam rāśi-aṃśa-kalā-vikalā-śeṣāt ahar-gaṇas prāk-vat/",
+          "segment_number": 189
         },
         {
           "tag": "l",
@@ -2179,7 +2368,8 @@
               "attributes": {},
               "text": "Cb.25"
             }
-          ]
+          ],
+          "segment_number": 190
         }
       ]
     },
@@ -2194,7 +2384,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.23a"
           },
-          "text": "rāśi-aṃśa-kalā-vikalā-śeṣāt kathitāt abhīṣṭatas naṣṭān/"
+          "text": "rāśi-aṃśa-kalā-vikalā-śeṣāt kathitāt abhīṣṭatas naṣṭān/",
+          "segment_number": 191
         },
         {
           "tag": "l",
@@ -2208,7 +2399,8 @@
               "attributes": {},
               "text": "Cb.26"
             }
-          ]
+          ],
+          "segment_number": 192
         }
       ]
     },
@@ -2223,7 +2415,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.24a"
           },
-          "text": "yena guṇas śeṣa-yutas chedas śudhyati hṛtas sva-guṇakena/"
+          "text": "yena guṇas śeṣa-yutas chedas śudhyati hṛtas sva-guṇakena/",
+          "segment_number": 193
         },
         {
           "tag": "l",
@@ -2237,7 +2430,8 @@
               "attributes": {},
               "text": "Cb.27"
             }
-          ]
+          ],
+          "segment_number": 194
         }
       ]
     },
@@ -2252,7 +2446,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.25a"
           },
-          "text": "jānāti yas yuga-gatam kathitāt adhimāsa-śeṣakāt iṣṭāt/"
+          "text": "jānāti yas yuga-gatam kathitāt adhimāsa-śeṣakāt iṣṭāt/",
+          "segment_number": 195
         },
         {
           "tag": "l",
@@ -2266,7 +2461,8 @@
               "attributes": {},
               "text": "Cb.28"
             }
-          ]
+          ],
+          "segment_number": 196
         }
       ]
     },
@@ -2281,7 +2477,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.26a"
           },
-          "text": "iṣṭeṣu māna-divaseṣu adhimāsa-nyūna-rātra-śeṣe vā/"
+          "text": "iṣṭeṣu māna-divaseṣu adhimāsa-nyūna-rātra-śeṣe vā/",
+          "segment_number": 197
         },
         {
           "tag": "l",
@@ -2295,7 +2492,8 @@
               "attributes": {},
               "text": "Cb.@"
             }
-          ]
+          ],
+          "segment_number": 198
         }
       ]
     },
@@ -2310,7 +2508,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.27a"
           },
-          "text": "aṃśaka-śeṣāt %tri-ūnāt %sapta-hṛtāt mūlam ūnam %aṣṭābhis/"
+          "text": "aṃśaka-śeṣāt %tri-ūnāt %sapta-hṛtāt mūlam ūnam %aṣṭābhis/",
+          "segment_number": 199
         },
         {
           "tag": "l",
@@ -2324,7 +2523,8 @@
               "attributes": {},
               "text": "Cb.18"
             }
-          ]
+          ],
+          "segment_number": 200
         }
       ]
     },
@@ -2339,7 +2539,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.28a"
           },
-          "text": "%tri-ūna-adhimāsa-śeṣāt mūlam %dvi-adhikam vibhājitam %ṣaḍbhis/"
+          "text": "%tri-ūna-adhimāsa-śeṣāt mūlam %dvi-adhikam vibhājitam %ṣaḍbhis/",
+          "segment_number": 201
         },
         {
           "tag": "l",
@@ -2353,7 +2554,8 @@
               "attributes": {},
               "text": "Cb.29"
             }
-          ]
+          ],
+          "segment_number": 202
         }
       ]
     },
@@ -2368,7 +2570,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.29a"
           },
-          "text": "avama-avaśeṣa-vargas vi-%ekas %viṃśati-vibhājitas %dvi-adhikas/"
+          "text": "avama-avaśeṣa-vargas vi-%ekas %viṃśati-vibhājitas %dvi-adhikas/",
+          "segment_number": 203
         },
         {
           "tag": "l",
@@ -2382,14 +2585,16 @@
               "attributes": {},
               "text": "Cb.30"
             }
-          ]
+          ],
+          "segment_number": 204
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[dhana-ṛṇa-śūnyam]"
+      "text": "[dhana-ṛṇa-śūnyam]",
+      "segment_number": 205
     },
     {
       "tag": "lg",
@@ -2402,7 +2607,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.30a"
           },
-          "text": "dhanayos dhanam ṛṇam ṛṇayos dhana-ṛṇayos antaram sama-aikyam #kham/"
+          "text": "dhanayos dhanam ṛṇam ṛṇayos dhana-ṛṇayos antaram sama-aikyam #kham/",
+          "segment_number": 206
         },
         {
           "tag": "l",
@@ -2416,7 +2622,8 @@
               "attributes": {},
               "text": "Cb.31"
             }
-          ]
+          ],
+          "segment_number": 207
         }
       ]
     },
@@ -2431,7 +2638,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.31a"
           },
-          "text": "ūnam adhikāt viśodhyam dhanam dhanāt ṛṇam ṛṇāt adhikam ūnāt/"
+          "text": "ūnam adhikāt viśodhyam dhanam dhanāt ṛṇam ṛṇāt adhikam ūnāt/",
+          "segment_number": 208
         },
         {
           "tag": "l",
@@ -2445,7 +2653,8 @@
               "attributes": {},
               "text": "Cb.32"
             }
-          ]
+          ],
+          "segment_number": 209
         }
       ]
     },
@@ -2460,7 +2669,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.32a"
           },
-          "text": "#śūnya-vihīnam ṛṇam ṛṇam dhanam dhanam bhavati #śūnyam #ākāśam/"
+          "text": "#śūnya-vihīnam ṛṇam ṛṇam dhanam dhanam bhavati #śūnyam #ākāśam/",
+          "segment_number": 210
         },
         {
           "tag": "l",
@@ -2474,7 +2684,8 @@
               "attributes": {},
               "text": "Cb.33"
             }
-          ]
+          ],
+          "segment_number": 211
         }
       ]
     },
@@ -2489,7 +2700,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.33a"
           },
-          "text": "ṛṇam ṛṇa-dhanayos ghātas dhanam ṛṇayos dhana-vadhas dhanam bhavati/"
+          "text": "ṛṇam ṛṇa-dhanayos ghātas dhanam ṛṇayos dhana-vadhas dhanam bhavati/",
+          "segment_number": 212
         },
         {
           "tag": "l",
@@ -2503,7 +2715,8 @@
               "attributes": {},
               "text": "Cb.34"
             }
-          ]
+          ],
+          "segment_number": 213
         }
       ]
     },
@@ -2518,7 +2731,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.34a"
           },
-          "text": "dhana-bhaktam dhanam ṛṇa-hṛtam ṛṇam dhanam bhavati #kham #kha-bhaktam #kham/"
+          "text": "dhana-bhaktam dhanam ṛṇa-hṛtam ṛṇam dhanam bhavati #kham #kha-bhaktam #kham/",
+          "segment_number": 214
         },
         {
           "tag": "l",
@@ -2532,7 +2746,8 @@
               "attributes": {},
               "text": "Cb.34"
             }
-          ]
+          ],
+          "segment_number": 215
         }
       ]
     },
@@ -2547,7 +2762,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.35a"
           },
-          "text": "#kha-uddhṛtam ṛṇam dhanam vā tad-chedam #kham ṛṇa-dhana-vibhaktam vā/"
+          "text": "#kha-uddhṛtam ṛṇam dhanam vā tad-chedam #kham ṛṇa-dhana-vibhaktam vā/",
+          "segment_number": 216
         },
         {
           "tag": "l",
@@ -2561,14 +2777,16 @@
               "attributes": {},
               "text": "Cb.36"
             }
-          ]
+          ],
+          "segment_number": 217
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[saṅkramaṇam]"
+      "text": "[saṅkramaṇam]",
+      "segment_number": 218
     },
     {
       "tag": "lg",
@@ -2581,7 +2799,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.36a"
           },
-          "text": "yogas antara-yuta-hīnas %dvi-hṛtas saṅkramaṇam antara-vibhaktam vā/"
+          "text": "yogas antara-yuta-hīnas %dvi-hṛtas saṅkramaṇam antara-vibhaktam vā/",
+          "segment_number": 219
         },
         {
           "tag": "l",
@@ -2595,14 +2814,16 @@
               "attributes": {},
               "text": "Cb.37"
             }
-          ]
+          ],
+          "segment_number": 220
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[karaṇī]"
+      "text": "[karaṇī]",
+      "segment_number": 221
     },
     {
       "tag": "lg",
@@ -2615,7 +2836,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.37a"
           },
-          "text": "karaṇī lambas tad-kṛtis iṣṭa-hṛtā iṣṭa-ūna-saṃyutā alpā bhūs/"
+          "text": "karaṇī lambas tad-kṛtis iṣṭa-hṛtā iṣṭa-ūna-saṃyutā alpā bhūs/",
+          "segment_number": 222
         },
         {
           "tag": "l",
@@ -2629,7 +2851,8 @@
               "attributes": {},
               "text": "Cb.38; ḍ: saṃkṣeppas"
             }
-          ]
+          ],
+          "segment_number": 223
         }
       ]
     },
@@ -2644,7 +2867,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.38a"
           },
-          "text": "iṣṭa-uddhṛta-karaṇī-pada-yuti-kṛtis iṣṭa-guṇitā antara-kṛtis vā/"
+          "text": "iṣṭa-uddhṛta-karaṇī-pada-yuti-kṛtis iṣṭa-guṇitā antara-kṛtis vā/",
+          "segment_number": 224
         },
         {
           "tag": "l",
@@ -2658,7 +2882,8 @@
               "attributes": {},
               "text": "Cb.39"
             }
-          ]
+          ],
+          "segment_number": 225
         }
       ]
     },
@@ -2673,7 +2898,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.39a"
           },
-          "text": "sva-iṣṭa-ṛṇa-cheda-guṇau bhājya-chedau pṛthak yujau asakṛt/"
+          "text": "sva-iṣṭa-ṛṇa-cheda-guṇau bhājya-chedau pṛthak yujau asakṛt/",
+          "segment_number": 226
         },
         {
           "tag": "l",
@@ -2687,7 +2913,8 @@
               "attributes": {},
               "text": "Cb.40"
             }
-          ]
+          ],
+          "segment_number": 227
         }
       ]
     },
@@ -2702,7 +2929,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.40a"
           },
-          "text": "iṣṭa-karaṇī-ūnāyās rūpa-kṛtes pada-yuta-ūna-rūpa-%ardhe/"
+          "text": "iṣṭa-karaṇī-ūnāyās rūpa-kṛtes pada-yuta-ūna-rūpa-%ardhe/",
+          "segment_number": 228
         },
         {
           "tag": "l",
@@ -2716,7 +2944,8 @@
               "attributes": {},
               "text": "Cb.41"
             }
-          ]
+          ],
+          "segment_number": 229
         }
       ]
     },
@@ -2731,7 +2960,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.41a"
           },
-          "text": "avyakta-varga-ghana-varga-varga-%pañca-gata-%ṣaṣ-gata-ādīnām/"
+          "text": "avyakta-varga-ghana-varga-varga-%pañca-gata-%ṣaṣ-gata-ādīnām/",
+          "segment_number": 230
         },
         {
           "tag": "l",
@@ -2745,7 +2975,8 @@
               "attributes": {},
               "text": "Cb.42"
             }
-          ]
+          ],
+          "segment_number": 231
         }
       ]
     },
@@ -2760,7 +2991,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.42a"
           },
-          "text": "sadṛśa-%dvi-vadhas vargas %tri-ādi-vadhas tad-gatas anya-jāti-vadhas/"
+          "text": "sadṛśa-%dvi-vadhas vargas %tri-ādi-vadhas tad-gatas anya-jāti-vadhas/",
+          "segment_number": 232
         },
         {
           "tag": "l",
@@ -2774,14 +3006,16 @@
               "attributes": {},
               "text": "Cb.43"
             }
-          ]
+          ],
+          "segment_number": 233
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[eka-varṇa-samī-karaṇam]"
+      "text": "[eka-varṇa-samī-karaṇam]",
+      "segment_number": 234
     },
     {
       "tag": "lg",
@@ -2794,7 +3028,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.43a"
           },
-          "text": "avyakta-antara-bhaktam vyastam rūpa-antaram same avyaktas/"
+          "text": "avyakta-antara-bhaktam vyastam rūpa-antaram same avyaktas/",
+          "segment_number": 235
         },
         {
           "tag": "l",
@@ -2808,7 +3043,8 @@
               "attributes": {},
               "text": "Cb.44"
             }
-          ]
+          ],
+          "segment_number": 236
         }
       ]
     },
@@ -2823,7 +3059,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.44a"
           },
-          "text": "varga-%catur-guṇitānām rūpāṇām madhya-varga-sahitānām/"
+          "text": "varga-%catur-guṇitānām rūpāṇām madhya-varga-sahitānām/",
+          "segment_number": 237
         },
         {
           "tag": "l",
@@ -2837,7 +3074,8 @@
               "attributes": {},
               "text": "Cb.48"
             }
-          ]
+          ],
+          "segment_number": 238
         }
       ]
     },
@@ -2852,7 +3090,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.45a"
           },
-          "text": "varga-āhata-rūpāṇām avyakta-%ardha-kṛti-saṃyutānām yat/"
+          "text": "varga-āhata-rūpāṇām avyakta-%ardha-kṛti-saṃyutānām yat/",
+          "segment_number": 239
         },
         {
           "tag": "l",
@@ -2866,7 +3105,8 @@
               "attributes": {},
               "text": "Cb.50"
             }
-          ]
+          ],
+          "segment_number": 240
         }
       ]
     },
@@ -2881,7 +3121,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.46a"
           },
-          "text": "sa-%ekāt aṃśaka-śeṣāt %dvādaśa-bhāgas %catur-guṇas %aṣṭa-yutas/"
+          "text": "sa-%ekāt aṃśaka-śeṣāt %dvādaśa-bhāgas %catur-guṇas %aṣṭa-yutas/",
+          "segment_number": 241
         },
         {
           "tag": "l",
@@ -2895,7 +3136,8 @@
               "attributes": {},
               "text": "Cb.45"
             }
-          ]
+          ],
+          "segment_number": 242
         }
       ]
     },
@@ -2910,7 +3152,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.47a"
           },
-          "text": "%dvi-ūnam adhika-māsa-śeṣam %tri-hṛtam %sapta-adhikam %dvi-saṅguṇitam/"
+          "text": "%dvi-ūnam adhika-māsa-śeṣam %tri-hṛtam %sapta-adhikam %dvi-saṅguṇitam/",
+          "segment_number": 243
         },
         {
           "tag": "l",
@@ -2924,7 +3167,8 @@
               "attributes": {},
               "text": "Cb.46"
             }
-          ]
+          ],
+          "segment_number": 244
         }
       ]
     },
@@ -2939,7 +3183,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.48a"
           },
-          "text": "vi-%ekam avama-avaśeṣam %ṣaṣ-uddhṛtam %tri-yutam avama-śeṣasya/"
+          "text": "vi-%ekam avama-avaśeṣam %ṣaṣ-uddhṛtam %tri-yutam avama-śeṣasya/",
+          "segment_number": 245
         },
         {
           "tag": "l",
@@ -2953,7 +3198,8 @@
               "attributes": {},
               "text": "Cb.47"
             }
-          ]
+          ],
+          "segment_number": 246
         }
       ]
     },
@@ -2968,14 +3214,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.49a"
           },
-          "text": "maṇḍala-śeṣāt %dvi-ūnāt mūlam vi-%ekam %daśa-āhatam %dvi-yutam/"
+          "text": "maṇḍala-śeṣāt %dvi-ūnāt mūlam vi-%ekam %daśa-āhatam %dvi-yutam/",
+          "segment_number": 247
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.49c"
           },
-          "text": "maṇḍala-śeṣam vi-%ekam bhānos jña-dine kadā bhavati//"
+          "text": "maṇḍala-śeṣam vi-%ekam bhānos jña-dine kadā bhavati//",
+          "segment_number": 248
         }
       ]
     },
@@ -2990,7 +3238,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.50a"
           },
-          "text": "adhimāsa-śeṣa-#pādāt %tri-ūnāt vargas adhimāsa-śeṣa-samas/"
+          "text": "adhimāsa-śeṣa-#pādāt %tri-ūnāt vargas adhimāsa-śeṣa-samas/",
+          "segment_number": 249
         },
         {
           "tag": "l",
@@ -3004,14 +3253,16 @@
               "attributes": {},
               "text": "Cb.51"
             }
-          ]
+          ],
+          "segment_number": 250
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[aneka-varṇa-samī-karaṇam]"
+      "text": "[aneka-varṇa-samī-karaṇam]",
+      "segment_number": 251
     },
     {
       "tag": "lg",
@@ -3024,7 +3275,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.51a"
           },
-          "text": "ādyāt varṇāt anyān varṇān prohya ādya-mānam āḍya-hṛtam/"
+          "text": "ādyāt varṇāt anyān varṇān prohya ādya-mānam āḍya-hṛtam/",
+          "segment_number": 252
         },
         {
           "tag": "l",
@@ -3038,7 +3290,8 @@
               "attributes": {},
               "text": "Cb.52"
             }
-          ]
+          ],
+          "segment_number": 253
         }
       ]
     },
@@ -3053,7 +3306,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.52a"
           },
-          "text": "gata-bhagaṇa-yutāt dyu-gaṇāt tad-śeṣa-yutāt tad-aikya-saṃyuktāt/"
+          "text": "gata-bhagaṇa-yutāt dyu-gaṇāt tad-śeṣa-yutāt tad-aikya-saṃyuktāt/",
+          "segment_number": 254
         },
         {
           "tag": "l",
@@ -3067,7 +3321,8 @@
               "attributes": {},
               "text": "Cb.53"
             }
-          ]
+          ],
+          "segment_number": 255
         }
       ]
     },
@@ -3082,7 +3337,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.53a"
           },
-          "text": "gata-bhagaṇa-ūnāt dyu-gaṇāt tad-śeṣa-ūnāt tad-aikya-hīnāt vā/"
+          "text": "gata-bhagaṇa-ūnāt dyu-gaṇāt tad-śeṣa-ūnāt tad-aikya-hīnāt vā/",
+          "segment_number": 256
         },
         {
           "tag": "l",
@@ -3096,7 +3352,8 @@
               "attributes": {},
               "text": "Cb.54"
             }
-          ]
+          ],
+          "segment_number": 257
         }
       ]
     },
@@ -3111,7 +3368,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.54a"
           },
-          "text": "rāśi-ādyais tad-śeṣais ca evam bhukta-adhimāsa-dina-hīnais/"
+          "text": "rāśi-ādyais tad-śeṣais ca evam bhukta-adhimāsa-dina-hīnais/",
+          "segment_number": 258
         },
         {
           "tag": "l",
@@ -3125,7 +3383,8 @@
               "attributes": {},
               "text": "Cb.55"
             }
-          ]
+          ],
+          "segment_number": 259
         }
       ]
     },
@@ -3140,7 +3399,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.55a"
           },
-          "text": "aṃśaka-śeṣeṇa yutāt liptā-śeṣāt tad-antarāt atha vā/"
+          "text": "aṃśaka-śeṣeṇa yutāt liptā-śeṣāt tad-antarāt atha vā/",
+          "segment_number": 260
         },
         {
           "tag": "l",
@@ -3154,7 +3414,8 @@
               "attributes": {},
               "text": "Cb.56"
             }
-          ]
+          ],
+          "segment_number": 261
         }
       ]
     },
@@ -3169,7 +3430,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.56a"
           },
-          "text": "aṃśaka-śeṣam %tri-yutam liptā-śeṣam kadā raves jña-dine/"
+          "text": "aṃśaka-śeṣam %tri-yutam liptā-śeṣam kadā raves jña-dine/",
+          "segment_number": 262
         },
         {
           "tag": "l",
@@ -3183,7 +3445,8 @@
               "attributes": {},
               "text": "Cb.57"
             }
-          ]
+          ],
+          "segment_number": 263
         }
       ]
     },
@@ -3198,7 +3461,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.57a"
           },
-          "text": "aṃśa-samam aṃśa-śeṣam kalā-samam vā kalā-śeṣam/"
+          "text": "aṃśa-samam aṃśa-śeṣam kalā-samam vā kalā-śeṣam/",
+          "segment_number": 264
         },
         {
           "tag": "l",
@@ -3212,7 +3476,8 @@
               "attributes": {},
               "text": "Cb.58"
             }
-          ]
+          ],
+          "segment_number": 265
         }
       ]
     },
@@ -3227,7 +3492,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.58a"
           },
-          "text": "avama-avaśeṣam avamais adhimāsaka-śeṣam adhimāsais/"
+          "text": "avama-avaśeṣam avamais adhimāsaka-śeṣam adhimāsais/",
+          "segment_number": 266
         },
         {
           "tag": "l",
@@ -3241,7 +3507,8 @@
               "attributes": {},
               "text": "Cb.59"
             }
-          ]
+          ],
+          "segment_number": 267
         }
       ]
     },
@@ -3256,7 +3523,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.59a"
           },
-          "text": "nis-cheda-bhāga-hāras bhānos %saptati-guṇas aṃśa-śeṣa-ūnas/"
+          "text": "nis-cheda-bhāga-hāras bhānos %saptati-guṇas aṃśa-śeṣa-ūnas/",
+          "segment_number": 268
         },
         {
           "tag": "l",
@@ -3270,14 +3538,16 @@
               "attributes": {},
               "text": "Cb.60"
             }
-          ]
+          ],
+          "segment_number": 269
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[bhāvitakam]"
+      "text": "[bhāvitakam]",
+      "segment_number": 270
     },
     {
       "tag": "lg",
@@ -3290,7 +3560,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.60a"
           },
-          "text": "bhāvitaka-rūpa-guṇanā sa-avyakta-vadhā iṣṭa-bhājitā iṣṭa-āptyos/"
+          "text": "bhāvitaka-rūpa-guṇanā sa-avyakta-vadhā iṣṭa-bhājitā iṣṭa-āptyos/",
+          "segment_number": 271
         },
         {
           "tag": "l",
@@ -3304,7 +3575,8 @@
               "attributes": {},
               "text": "Cb.61"
             }
-          ]
+          ],
+          "segment_number": 272
         }
       ]
     },
@@ -3319,7 +3591,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.61a"
           },
-          "text": "bhānos rāśi-aṃśa-vadhāt %tri-%catur-guṇitān viśodhya rāśi-aṃśān/"
+          "text": "bhānos rāśi-aṃśa-vadhāt %tri-%catur-guṇitān viśodhya rāśi-aṃśān/",
+          "segment_number": 273
         },
         {
           "tag": "l",
@@ -3333,7 +3606,8 @@
               "attributes": {},
               "text": "Cb.62"
             }
-          ]
+          ],
+          "segment_number": 274
         }
       ]
     },
@@ -3348,7 +3622,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.62a"
           },
-          "text": "bhāvitake yad-ghātas vinaṣṭa-varṇena tad-pramāṇāni/"
+          "text": "bhāvitake yad-ghātas vinaṣṭa-varṇena tad-pramāṇāni/",
+          "segment_number": 275
         },
         {
           "tag": "l",
@@ -3362,7 +3637,8 @@
               "attributes": {},
               "text": "Cb.66"
             }
-          ]
+          ],
+          "segment_number": 276
         }
       ]
     },
@@ -3377,7 +3653,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.63a"
           },
-          "text": "varṇa-pramāṇa-bhāvita-ghātas bhavati iṣṭa-varṇa-saṅkhyā evam/"
+          "text": "varṇa-pramāṇa-bhāvita-ghātas bhavati iṣṭa-varṇa-saṅkhyā evam/",
+          "segment_number": 277
         },
         {
           "tag": "l",
@@ -3391,14 +3668,16 @@
               "attributes": {},
               "text": "Cb.64"
             }
-          ]
+          ],
+          "segment_number": 278
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[varga-prakṛtis]"
+      "text": "[varga-prakṛtis]",
+      "segment_number": 279
     },
     {
       "tag": "lg",
@@ -3411,7 +3690,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.64a"
           },
-          "text": "mūlam dvidhā iṣṭa-vargāt guṇaka-guṇāt iṣṭa-yuta-vihīnāt ca/"
+          "text": "mūlam dvidhā iṣṭa-vargāt guṇaka-guṇāt iṣṭa-yuta-vihīnāt ca/",
+          "segment_number": 280
         },
         {
           "tag": "l",
@@ -3425,7 +3705,8 @@
               "attributes": {},
               "text": "Cb.65"
             }
-          ]
+          ],
+          "segment_number": 281
         }
       ]
     },
@@ -3440,7 +3721,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.65a"
           },
-          "text": "vajra-vadha-aikyam %prathamam prakṣepas kṣepa-vadha-tulyas/"
+          "text": "vajra-vadha-aikyam %prathamam prakṣepas kṣepa-vadha-tulyas/",
+          "segment_number": 282
         },
         {
           "tag": "l",
@@ -3454,7 +3736,8 @@
               "attributes": {},
               "text": "Cb.66"
             }
-          ]
+          ],
+          "segment_number": 283
         }
       ]
     },
@@ -3469,7 +3752,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.66a"
           },
-          "text": "#rūpa-prakṣepa-pade pṛthak iṣṭa-kṣepya-śodhya-mūlābhyām/"
+          "text": "#rūpa-prakṣepa-pade pṛthak iṣṭa-kṣepya-śodhya-mūlābhyām/",
+          "segment_number": 284
         },
         {
           "tag": "l",
@@ -3483,7 +3767,8 @@
               "attributes": {},
               "text": "Cb.68"
             }
-          ]
+          ],
+          "segment_number": 285
         }
       ]
     },
@@ -3498,7 +3783,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.67a"
           },
-          "text": "%catur-adhike antya-pada-kṛtis %tri-ūnā dalitā antya-pada-guṇā antya-padam/"
+          "text": "%catur-adhike antya-pada-kṛtis %tri-ūnā dalitā antya-pada-guṇā antya-padam/",
+          "segment_number": 286
         },
         {
           "tag": "l",
@@ -3512,7 +3798,8 @@
               "attributes": {},
               "text": "Cb.69"
             }
-          ]
+          ],
+          "segment_number": 287
         }
       ]
     },
@@ -3527,7 +3814,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.68a"
           },
-          "text": "%catur-ūne antya-pada-kṛtī %tri-%eka-yute vadha-#dalam pṛthak vi-%ekam/"
+          "text": "%catur-ūne antya-pada-kṛtī %tri-%eka-yute vadha-#dalam pṛthak vi-%ekam/",
+          "segment_number": 288
         },
         {
           "tag": "l",
@@ -3541,7 +3829,8 @@
               "attributes": {},
               "text": "Cb.71"
             }
-          ]
+          ],
+          "segment_number": 289
         }
       ]
     },
@@ -3556,7 +3845,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.69a"
           },
-          "text": "varge guṇake kṣepas kena cit uddhṛta-yuta-ūnitas dalitas/"
+          "text": "varge guṇake kṣepas kena cit uddhṛta-yuta-ūnitas dalitas/",
+          "segment_number": 290
         },
         {
           "tag": "l",
@@ -3570,7 +3860,8 @@
               "attributes": {},
               "text": "Cb.73"
             }
-          ]
+          ],
+          "segment_number": 291
         }
       ]
     },
@@ -3585,7 +3876,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.70a"
           },
-          "text": "varga-chinne guṇake %prathamam tad-mūla-bhājitam bhavati/"
+          "text": "varga-chinne guṇake %prathamam tad-mūla-bhājitam bhavati/",
+          "segment_number": 292
         },
         {
           "tag": "l",
@@ -3599,7 +3891,8 @@
               "attributes": {},
               "text": "Cb.75"
             }
-          ]
+          ],
+          "segment_number": 293
         }
       ]
     },
@@ -3614,7 +3907,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.71a"
           },
-          "text": "guṇaka-yutis %aṣṭa-guṇitā guṇaka-antara-varga-bhājitā rāśis/"
+          "text": "guṇaka-yutis %aṣṭa-guṇitā guṇaka-antara-varga-bhājitā rāśis/",
+          "segment_number": 294
         },
         {
           "tag": "l",
@@ -3628,7 +3922,8 @@
               "attributes": {},
               "text": "Cb.78"
             }
-          ]
+          ],
+          "segment_number": 295
         }
       ]
     },
@@ -3643,7 +3938,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.72a"
           },
-          "text": "vargas anya-kṛti-yuta-ūnas tad-saṃyoga-antara-%ardha-kṛti-bhaktas/"
+          "text": "vargas anya-kṛti-yuta-ūnas tad-saṃyoga-antara-%ardha-kṛti-bhaktas/",
+          "segment_number": 296
         },
         {
           "tag": "l",
@@ -3657,7 +3953,8 @@
               "attributes": {},
               "text": "Cb.72"
             }
-          ]
+          ],
+          "segment_number": 297
         }
       ]
     },
@@ -3672,7 +3969,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.73a"
           },
-          "text": "yais ūnas yais ca yutas rūpais vargas tad-aikyam iṣṭa-hṛtam/"
+          "text": "yais ūnas yais ca yutas rūpais vargas tad-aikyam iṣṭa-hṛtam/",
+          "segment_number": 298
         },
         {
           "tag": "l",
@@ -3686,7 +3984,8 @@
               "attributes": {},
               "text": "Cb.84"
             }
-          ]
+          ],
+          "segment_number": 299
         }
       ]
     },
@@ -3701,7 +4000,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.74a"
           },
-          "text": "yābhyām kṛtis adhika-ūnas tad-antaram hṛta-yuta-ūnam iṣṭena/"
+          "text": "yābhyām kṛtis adhika-ūnas tad-antaram hṛta-yuta-ūnam iṣṭena/",
+          "segment_number": 300
         },
         {
           "tag": "l",
@@ -3715,14 +4015,16 @@
               "attributes": {},
               "text": "Cb.82"
             }
-          ]
+          ],
+          "segment_number": 301
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[udāharaṇāni]"
+      "text": "[udāharaṇāni]",
+      "segment_number": 302
     },
     {
       "tag": "lg",
@@ -3735,7 +4037,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.75a"
           },
-          "text": "rāśi-kalā-śeṣa-kṛtim %dvinavati-guṇitām %tryaśīti-guṇitām vā/"
+          "text": "rāśi-kalā-śeṣa-kṛtim %dvinavati-guṇitām %tryaśīti-guṇitām vā/",
+          "segment_number": 303
         },
         {
           "tag": "l",
@@ -3749,7 +4052,8 @@
               "attributes": {},
               "text": "Cb.67"
             }
-          ]
+          ],
+          "segment_number": 304
         }
       ]
     },
@@ -3764,7 +4068,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.76a"
           },
-          "text": "sūrya-viliptā-śeṣam %pañcabhis ūna-āhatam tathā %daśabhis/"
+          "text": "sūrya-viliptā-śeṣam %pañcabhis ūna-āhatam tathā %daśabhis/",
+          "segment_number": 305
         },
         {
           "tag": "l",
@@ -3778,7 +4083,8 @@
               "attributes": {},
               "text": "Cb.86"
             }
-          ]
+          ],
+          "segment_number": 306
         }
       ]
     },
@@ -3793,7 +4099,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.77a"
           },
-          "text": "bha-gaṇa-ādi-śeṣa-vargam %tribhis guṇam saṃyutam %śatais %navabhis/"
+          "text": "bha-gaṇa-ādi-śeṣa-vargam %tribhis guṇam saṃyutam %śatais %navabhis/",
+          "segment_number": 307
         },
         {
           "tag": "l",
@@ -3807,7 +4114,8 @@
               "attributes": {},
               "text": "Cb.70"
             }
-          ]
+          ],
+          "segment_number": 308
         }
       ]
     },
@@ -3822,7 +4130,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.78a"
           },
-          "text": "bha-gaṇa-ādi-śeṣa-vargam %catur-guṇam %pañcaṣaṣṭi-saṃyuktam/"
+          "text": "bha-gaṇa-ādi-śeṣa-vargam %catur-guṇam %pañcaṣaṣṭi-saṃyuktam/",
+          "segment_number": 309
         },
         {
           "tag": "l",
@@ -3836,7 +4145,8 @@
               "attributes": {},
               "text": "Cb.74"
             }
-          ]
+          ],
+          "segment_number": 310
         }
       ]
     },
@@ -3851,7 +4161,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.79a"
           },
-          "text": "iṣṭa-bhagaṇa-ādi-śeṣam %dvinavati-ūnam %tryaśīti-saṃguṇitam/"
+          "text": "iṣṭa-bhagaṇa-ādi-śeṣam %dvinavati-ūnam %tryaśīti-saṃguṇitam/",
+          "segment_number": 311
         },
         {
           "tag": "l",
@@ -3865,7 +4176,8 @@
               "attributes": {},
               "text": "Cb.87"
             }
-          ]
+          ],
+          "segment_number": 312
         }
       ]
     },
@@ -3880,7 +4192,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.80a"
           },
-          "text": "adhimāsa-śeṣa-vargam %trayodaśa-guṇam %tribhis %śatais yuktam/"
+          "text": "adhimāsa-śeṣa-vargam %trayodaśa-guṇam %tribhis %śatais yuktam/",
+          "segment_number": 313
         },
         {
           "tag": "l",
@@ -3894,7 +4207,8 @@
               "attributes": {},
               "text": "Cb.72"
             }
-          ]
+          ],
+          "segment_number": 314
         }
       ]
     },
@@ -3909,7 +4223,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.81a"
           },
-          "text": "indu-viliptā-śeṣam %saptadaśa-guṇam %trayodaśa-guṇam ca api/"
+          "text": "indu-viliptā-śeṣam %saptadaśa-guṇam %trayodaśa-guṇam ca api/",
+          "segment_number": 315
         },
         {
           "tag": "l",
@@ -3923,7 +4238,8 @@
               "attributes": {},
               "text": "Cb.79"
             }
-          ]
+          ],
+          "segment_number": 316
         }
       ]
     },
@@ -3938,7 +4254,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.82a"
           },
-          "text": "avama-avaśeṣa-vargam %dvādaśa-guṇitam %śatena saṃyuktam/"
+          "text": "avama-avaśeṣa-vargam %dvādaśa-guṇitam %śatena saṃyuktam/",
+          "segment_number": 317
         },
         {
           "tag": "l",
@@ -3952,7 +4269,8 @@
               "attributes": {},
               "text": "Cb.76"
             }
-          ]
+          ],
+          "segment_number": 318
         }
       ]
     },
@@ -3967,7 +4285,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.83a"
           },
-          "text": "jña-dine arka-kalā-śeṣam guru-dina-vikalā-avaśeṣa-yukta-ūnam/"
+          "text": "jña-dine arka-kalā-śeṣam guru-dina-vikalā-avaśeṣa-yukta-ūnam/",
+          "segment_number": 319
         },
         {
           "tag": "l",
@@ -3981,7 +4300,8 @@
               "attributes": {},
               "text": "Cb.81"
             }
-          ]
+          ],
+          "segment_number": 320
         }
       ]
     },
@@ -3996,7 +4316,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.84a"
           },
-          "text": "vikalā-śeṣam sahitam %trinavatyā %saptaṣaṣṭi-hīnam ca/"
+          "text": "vikalā-śeṣam sahitam %trinavatyā %saptaṣaṣṭi-hīnam ca/",
+          "segment_number": 321
         },
         {
           "tag": "l",
@@ -4010,7 +4331,8 @@
               "attributes": {},
               "text": "Cb.85"
             }
-          ]
+          ],
+          "segment_number": 322
         }
       ]
     },
@@ -4025,7 +4347,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.85a"
           },
-          "text": "jña-dine arka-kalā-śeṣam %dvādaśabhis saṃyutam %triṣaṣṭyā ca/"
+          "text": "jña-dine arka-kalā-śeṣam %dvādaśabhis saṃyutam %triṣaṣṭyā ca/",
+          "segment_number": 323
         },
         {
           "tag": "l",
@@ -4039,7 +4362,8 @@
               "attributes": {},
               "text": "Cb.83"
             }
-          ]
+          ],
+          "segment_number": 324
         }
       ]
     },
@@ -4054,7 +4378,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.86a"
           },
-          "text": "indu-viliptā-śeṣāt ravi-liptā-śeṣam aṃśa-śeṣam vā/"
+          "text": "indu-viliptā-śeṣāt ravi-liptā-śeṣam aṃśa-śeṣam vā/",
+          "segment_number": 325
         },
         {
           "tag": "l",
@@ -4068,7 +4393,8 @@
               "attributes": {},
               "text": "Cb.88"
             }
-          ]
+          ],
+          "segment_number": 326
         }
       ]
     },
@@ -4083,7 +4409,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.87a"
           },
-          "text": "jīva-viliptā-śeṣāt ku-jam indum bhauma-liptikā-śeṣāt/"
+          "text": "jīva-viliptā-śeṣāt ku-jam indum bhauma-liptikā-śeṣāt/",
+          "segment_number": 327
         },
         {
           "tag": "l",
@@ -4097,7 +4424,8 @@
               "attributes": {},
               "text": "Cb.89"
             }
-          ]
+          ],
+          "segment_number": 328
         }
       ]
     },
@@ -4119,7 +4447,8 @@
               "attributes": {},
               "text": "D: -apavartta- < -apavarta-"
             }
-          ]
+          ],
+          "segment_number": 329
         },
         {
           "tag": "l",
@@ -4133,7 +4462,8 @@
               "attributes": {},
               "text": "Cb.90"
             }
-          ]
+          ],
+          "segment_number": 330
         }
       ]
     },
@@ -4148,7 +4478,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.89a"
           },
-          "text": "nis-cheda-bhāga-hārau grahayos viparītau grahayos dyu-gaṇāt/"
+          "text": "nis-cheda-bhāga-hārau grahayos viparītau grahayos dyu-gaṇāt/",
+          "segment_number": 331
         },
         {
           "tag": "l",
@@ -4162,7 +4493,8 @@
               "attributes": {},
               "text": "D: uddhatayos < uddhṛtayos, Cb.89"
             }
-          ]
+          ],
+          "segment_number": 332
         }
       ]
     },
@@ -4177,7 +4509,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.90a"
           },
-          "text": "nis-cheda-bhāga-hārau viparītau tad-yutāt punar tasmāt/"
+          "text": "nis-cheda-bhāga-hārau viparītau tad-yutāt punar tasmāt/",
+          "segment_number": 333
         },
         {
           "tag": "l",
@@ -4191,7 +4524,8 @@
               "attributes": {},
               "text": "Cb.91"
             }
-          ]
+          ],
+          "segment_number": 334
         }
       ]
     },
@@ -4206,7 +4540,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.91a"
           },
-          "text": "dyu-gaṇam avama-avaśeṣāt ravi-candrau madhyamau sphuṭau atha vā/"
+          "text": "dyu-gaṇam avama-avaśeṣāt ravi-candrau madhyamau sphuṭau atha vā/",
+          "segment_number": 335
         },
         {
           "tag": "l",
@@ -4220,7 +4555,8 @@
               "attributes": {},
               "text": "Cb.92"
             }
-          ]
+          ],
+          "segment_number": 336
         }
       ]
     },
@@ -4235,7 +4571,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.92a"
           },
-          "text": "%eka-dinam avama-śeṣam yad-guṇam %eka-ravi-candra-bha-gaṇa-ūnam/"
+          "text": "%eka-dinam avama-śeṣam yad-guṇam %eka-ravi-candra-bha-gaṇa-ūnam/",
+          "segment_number": 337
         },
         {
           "tag": "l",
@@ -4249,7 +4586,8 @@
               "attributes": {},
               "text": "Cb.93"
             }
-          ]
+          ],
+          "segment_number": 338
         }
       ]
     },
@@ -4264,7 +4602,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.93a"
           },
-          "text": "#iṣu-#śara-#kṛta-%aṣṭa-3digbhis 108455 saṅguṇitāt avama-śeṣakāt bhaktāt/"
+          "text": "#iṣu-#śara-#kṛta-%aṣṭa-3digbhis 108455 saṅguṇitāt avama-śeṣakāt bhaktāt/",
+          "segment_number": 339
         },
         {
           "tag": "l",
@@ -4278,7 +4617,8 @@
               "attributes": {},
               "text": "Cb.94"
             }
-          ]
+          ],
+          "segment_number": 340
         }
       ]
     },
@@ -4293,7 +4633,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.94a"
           },
-          "text": "#jina-#rasa-#go-#abdhi-#rada-3249624-guṇāt #śaśi-#vasu-#kṛta-#rasa-#kha-#bhūta-#rāma-3506481-hṛtāt/"
+          "text": "#jina-#rasa-#go-#abdhi-#rada-3249624-guṇāt #śaśi-#vasu-#kṛta-#rasa-#kha-#bhūta-#rāma-3506481-hṛtāt/",
+          "segment_number": 341
         },
         {
           "tag": "l",
@@ -4307,7 +4648,8 @@
               "attributes": {},
               "text": "Cb.95"
             }
-          ]
+          ],
+          "segment_number": 342
         }
       ]
     },
@@ -4322,7 +4664,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.95a"
           },
-          "text": "#go-#aga-#indu-#kha-#īśa-110179-guṇitāt bhaktāt #nakha-#pakṣa-#yama-#rasa-#iṣu-#guṇais 3562220/"
+          "text": "#go-#aga-#indu-#kha-#īśa-110179-guṇitāt bhaktāt #nakha-#pakṣa-#yama-#rasa-#iṣu-#guṇais 3562220/",
+          "segment_number": 343
         },
         {
           "tag": "l",
@@ -4336,7 +4679,8 @@
               "attributes": {},
               "text": "Cb.96"
             }
-          ]
+          ],
+          "segment_number": 344
         }
       ]
     },
@@ -4351,7 +4695,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.96a"
           },
-          "text": "bhāga-kalā-vikalā-aikyam dṛṣṭvā vikalā-antaram ca ke śeṣe/"
+          "text": "bhāga-kalā-vikalā-aikyam dṛṣṭvā vikalā-antaram ca ke śeṣe/",
+          "segment_number": 345
         },
         {
           "tag": "l",
@@ -4365,7 +4710,8 @@
               "attributes": {},
               "text": "Cb.97"
             }
-          ]
+          ],
+          "segment_number": 346
         }
       ]
     },
@@ -4380,7 +4726,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.97a"
           },
-          "text": "tad-varga-antaram ādye tad-antaram ca anatara-uddhṛta-yuta-ūnam/"
+          "text": "tad-varga-antaram ādye tad-antaram ca anatara-uddhṛta-yuta-ūnam/",
+          "segment_number": 347
         },
         {
           "tag": "l",
@@ -4394,7 +4741,8 @@
               "attributes": {},
               "text": "Cb. 98"
             }
-          ]
+          ],
+          "segment_number": 348
         }
       ]
     },
@@ -4409,14 +4757,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.98a"
           },
-          "text": "[kṛti-saṃyogāt %dvi-guṇāt yuti-vargam prohya śeṣa-mūlam yat/"
+          "text": "[kṛti-saṃyogāt %dvi-guṇāt yuti-vargam prohya śeṣa-mūlam yat/",
+          "segment_number": 349
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.98c"
           },
-          "text": "tena yuta-ūnas yogas dalitas śeṣe pṛthak abhīṣṭe// Cb.99]"
+          "text": "tena yuta-ūnas yogas dalitas śeṣe pṛthak abhīṣṭe// Cb.99]",
+          "segment_number": 350
         }
       ]
     },
@@ -4431,7 +4781,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.99a"
           },
-          "text": "śeṣa-vadhāt %dvi-kṛti-guṇāt śeṣa-antara-varga-saṃyutāt mūlam/"
+          "text": "śeṣa-vadhāt %dvi-kṛti-guṇāt śeṣa-antara-varga-saṃyutāt mūlam/",
+          "segment_number": 351
         },
         {
           "tag": "l",
@@ -4445,7 +4796,8 @@
               "attributes": {},
               "text": "Cb.100"
             }
-          ]
+          ],
+          "segment_number": 352
         }
       ]
     },
@@ -4467,7 +4819,8 @@
               "attributes": {},
               "text": "D: hṛdi-ghātram > hṛd-mātram"
             }
-          ]
+          ],
+          "segment_number": 353
         },
         {
           "tag": "l",
@@ -4481,7 +4834,8 @@
               "attributes": {},
               "text": "Cb.101"
             }
-          ]
+          ],
+          "segment_number": 354
         }
       ]
     },
@@ -4496,7 +4850,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.101a"
           },
-          "text": "jana-saṃsadi daiva-vidām tejas nāśayati bhānus iva bhānām/"
+          "text": "jana-saṃsadi daiva-vidām tejas nāśayati bhānus iva bhānām/",
+          "segment_number": 355
         },
         {
           "tag": "l",
@@ -4510,7 +4865,8 @@
               "attributes": {},
               "text": "Cb.102, ḍ: śata-śas > sūtrais"
             }
-          ]
+          ],
+          "segment_number": 356
         }
       ]
     },
@@ -4525,7 +4881,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.102a"
           },
-          "text": "prati-sūtram amī praśnās pathitās sa-uddeśakeṣu sūtreṣu/"
+          "text": "prati-sūtram amī praśnās pathitās sa-uddeśakeṣu sūtreṣu/",
+          "segment_number": 357
         },
         {
           "tag": "l",
@@ -4539,26 +4896,30 @@
               "attributes": {},
               "text": "Cb.103"
             }
-          ]
+          ],
+          "segment_number": 358
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.102p"
           },
-          "text": "iti śrī-brāhmasphuṭasiddhānte kuṭṭaka-adhyāyas %aṣṭādaśas//"
+          "text": "iti śrī-brāhmasphuṭasiddhānte kuṭṭaka-adhyāyas %aṣṭādaśas//",
+          "segment_number": 359
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[śaṅku-chāyā-ādi-jñānam]"
+      "text": "[śaṅku-chāyā-ādi-jñānam]",
+      "segment_number": 360
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[praśnās]"
+      "text": "[praśnās]",
+      "segment_number": 361
     },
     {
       "tag": "lg",
@@ -4571,14 +4932,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.1a"
           },
-          "text": "dṛṣṭvā dina-%ardha-ghaṭikā yas arka-jñas akṣa-aṃśakān vijānāti/"
+          "text": "dṛṣṭvā dina-%ardha-ghaṭikā yas arka-jñas akṣa-aṃśakān vijānāti/",
+          "segment_number": 362
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.1c"
           },
-          "text": "udaya-antara-ghaṭikābhis jñātāt jñeyam sas tantra-jñas//"
+          "text": "udaya-antara-ghaṭikābhis jñātāt jñeyam sas tantra-jñas//",
+          "segment_number": 363
         }
       ]
     },
@@ -4593,14 +4956,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.2a"
           },
-          "text": "asta-antara-ghaṭikābhis yas jñātāt jñeyam ānayati tastmāt/"
+          "text": "asta-antara-ghaṭikābhis yas jñātāt jñeyam ānayati tastmāt/",
+          "segment_number": 364
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.2c"
           },
-          "text": "madhya-gatim yuga-bha-gaṇān ānayati tatas sas tantra-jñas//"
+          "text": "madhya-gatim yuga-bha-gaṇān ānayati tatas sas tantra-jñas//",
+          "segment_number": 365
         }
       ]
     },
@@ -4615,14 +4980,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.3a"
           },
-          "text": "ānayati yas tamas-ravi-śaśa-aṅka-mānāni dīpaka-śikha-auccyāt/"
+          "text": "ānayati yas tamas-ravi-śaśa-aṅka-mānāni dīpaka-śikha-auccyāt/",
+          "segment_number": 366
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.3c"
           },
-          "text": "śaṅku-tala-antara-bhūmi-jñāne chāyām sas tantra-jñas//"
+          "text": "śaṅku-tala-antara-bhūmi-jñāne chāyām sas tantra-jñas//",
+          "segment_number": 367
         }
       ]
     },
@@ -4637,14 +5004,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.4a"
           },
-          "text": "iṣṭa-gṛha-auccya-jñas yas tad-antara-jñas nirīkṣyate tu jale/"
+          "text": "iṣṭa-gṛha-auccya-jñas yas tad-antara-jñas nirīkṣyate tu jale/",
+          "segment_number": 368
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.4c"
           },
-          "text": "gṛha-bhitti-agram darśayati darpaṇe vā sas tantra-jñas//"
+          "text": "gṛha-bhitti-agram darśayati darpaṇe vā sas tantra-jñas//",
+          "segment_number": 369
         }
       ]
     },
@@ -4659,7 +5028,8 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.5a"
           },
-          "text": "chāyā-%dvitīya-bhā-agra-antara-vijñānena vetti dīpa-aucyam/"
+          "text": "chāyā-%dvitīya-bhā-agra-antara-vijñānena vetti dīpa-aucyam/",
+          "segment_number": 370
         },
         {
           "tag": "l",
@@ -4673,7 +5043,8 @@
               "attributes": {},
               "text": "D: śaṅka- < śaṅku-"
             }
-          ]
+          ],
+          "segment_number": 371
         }
       ]
     },
@@ -4695,14 +5066,16 @@
               "attributes": {},
               "text": "D: dṛṣṭvā gṛha-tala-antara-jālabhos > gṛha-puruṣa-antara-salile yas"
             }
-          ]
+          ],
+          "segment_number": 372
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.6c"
           },
-          "text": "vetti gṛha-auccyam dṛṣṭvā taila-stham vā sas tantra-jñas//"
+          "text": "vetti gṛha-auccyam dṛṣṭvā taila-stham vā sas tantra-jñas//",
+          "segment_number": 373
         }
       ]
     },
@@ -4717,14 +5090,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.7a"
           },
-          "text": "vīkṣya gṛha-agram salile prasārya salilam punar sva-bhū-jñāne/"
+          "text": "vīkṣya gṛha-agram salile prasārya salilam punar sva-bhū-jñāne/",
+          "segment_number": 374
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.7c"
           },
-          "text": "ānayati jalāt bhūmim gṛhasya vā auccyam sas tantra-jñas//"
+          "text": "ānayati jalāt bhūmim gṛhasya vā auccyam sas tantra-jñas//",
+          "segment_number": 375
         }
       ]
     },
@@ -4739,21 +5114,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.8a"
           },
-          "text": "jñātais chāyā-puruṣais vijñāte toya-kuḍyayos vivare/"
+          "text": "jñātais chāyā-puruṣais vijñāte toya-kuḍyayos vivare/",
+          "segment_number": 376
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.8c"
           },
-          "text": "kuḍye arka-tejasas yas vetti ārūḍhim sas tantra-jñas//"
+          "text": "kuḍye arka-tejasas yas vetti ārūḍhim sas tantra-jñas//",
+          "segment_number": 377
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[uttarāṇi]"
+      "text": "[uttarāṇi]",
+      "segment_number": 378
     },
     {
       "tag": "lg",
@@ -4766,14 +5144,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.9a"
           },
-          "text": "iṣṭa-divasa-%ardha-ghaṭikā ghaṭikā-%pañcadaśa-antara-prāṇās/"
+          "text": "iṣṭa-divasa-%ardha-ghaṭikā ghaṭikā-%pañcadaśa-antara-prāṇās/",
+          "segment_number": 379
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.9c"
           },
-          "text": "tad-divasa-cara-prāṇās tais akṣam sādhayet prāk-vat//"
+          "text": "tad-divasa-cara-prāṇās tais akṣam sādhayet prāk-vat//",
+          "segment_number": 380
         }
       ]
     },
@@ -4788,14 +5168,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.10a"
           },
-          "text": "jñāta-jñeya-grahayos udaya-antara-nāḍikābhis adhika-ūnas/"
+          "text": "jñāta-jñeya-grahayos udaya-antara-nāḍikābhis adhika-ūnas/",
+          "segment_number": 381
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.10c"
           },
-          "text": "udayais jñātas jñātāt jñeyas prāk-aparayos jñeyas//"
+          "text": "udayais jñātas jñātāt jñeyas prāk-aparayos jñeyas//",
+          "segment_number": 382
         }
       ]
     },
@@ -4810,14 +5192,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.11a"
           },
-          "text": "jñātas sa-bha-%ardhas udayais asta-antara-nāḍikābhis adhika-ūnas/"
+          "text": "jñātas sa-bha-%ardhas udayais asta-antara-nāḍikābhis adhika-ūnas/",
+          "segment_number": 383
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.11c"
           },
-          "text": "jñātāt pūrva-aparayos jñeyas bha-%ardha-ūnake jñeyas//"
+          "text": "jñātāt pūrva-aparayos jñeyas bha-%ardha-ūnake jñeyas//",
+          "segment_number": 384
         }
       ]
     },
@@ -4832,14 +5216,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.12a"
           },
-          "text": "jñātam kṛtvā madhyam bhūyas anya-dine tad-antaram bhuktis/"
+          "text": "jñātam kṛtvā madhyam bhūyas anya-dine tad-antaram bhuktis/",
+          "segment_number": 385
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.12c"
           },
-          "text": "trairāśikena bhuktyā kalpa-graha-maṇḍala-ānayanam//"
+          "text": "trairāśikena bhuktyā kalpa-graha-maṇḍala-ānayanam//",
+          "segment_number": 386
         }
       ]
     },
@@ -4854,14 +5240,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.13a"
           },
-          "text": "sthiti-%ardhāt viparītam tamas-pramāṇam sphuṭam grahaṇe/"
+          "text": "sthiti-%ardhāt viparītam tamas-pramāṇam sphuṭam grahaṇe/",
+          "segment_number": 387
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.13c"
           },
-          "text": "māna-udayāt ravi-indvos ghaṭikā-avayavena bha-udaya-tas//"
+          "text": "māna-udayāt ravi-indvos ghaṭikā-avayavena bha-udaya-tas//",
+          "segment_number": 388
         }
       ]
     },
@@ -4876,14 +5264,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.14a"
           },
-          "text": "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/"
+          "text": "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/",
+          "segment_number": 389
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.14c"
           },
-          "text": "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//"
+          "text": "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//",
+          "segment_number": 390
         }
       ]
     },
@@ -4898,14 +5288,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.15a"
           },
-          "text": "śaṅku-antareṇa guṇitā chāyā chāyā-antareṇa bhaktā bhūs /"
+          "text": "śaṅku-antareṇa guṇitā chāyā chāyā-antareṇa bhaktā bhūs /",
+          "segment_number": 391
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.15c"
           },
-          "text": "sa-chāyā śaṅku-guṇā dīpa-auccyam chāyayā bhaktā//"
+          "text": "sa-chāyā śaṅku-guṇā dīpa-auccyam chāyayā bhaktā//",
+          "segment_number": 392
         }
       ]
     },
@@ -4920,14 +5312,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.16a"
           },
-          "text": "jñātvā śaṅku-chāyām anupātāt sādhayet samucchrāyān/"
+          "text": "jñātvā śaṅku-chāyām anupātāt sādhayet samucchrāyān/",
+          "segment_number": 393
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.16c"
           },
-          "text": "gṛha-caitya-taru-nagānām auccyam vijñāya vā chāyām//"
+          "text": "gṛha-caitya-taru-nagānām auccyam vijñāya vā chāyām//",
+          "segment_number": 394
         }
       ]
     },
@@ -4942,14 +5336,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.17a"
           },
-          "text": "yuta-dṛṣṭi-gṛha-auccya-hṛtā hi antara-bhūmis dṛk-auccya-saṅguṇitā//"
+          "text": "yuta-dṛṣṭi-gṛha-auccya-hṛtā hi antara-bhūmis dṛk-auccya-saṅguṇitā//",
+          "segment_number": 395
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.17c"
           },
-          "text": "phala-bhūs nyaste toye prati-rūpa-agram gṛhasya narāt//"
+          "text": "phala-bhūs nyaste toye prati-rūpa-agram gṛhasya narāt//",
+          "segment_number": 396
         }
       ]
     },
@@ -4964,14 +5360,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.18a"
           },
-          "text": "gṛha-puruṣa-antara-salile vīkṣya gṛha-agram dṛk-auccya-saṅguṇitam/"
+          "text": "gṛha-puruṣa-antara-salile vīkṣya gṛha-agram dṛk-auccya-saṅguṇitam/",
+          "segment_number": 397
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.18c"
           },
-          "text": "gṛha-toya-antaram auccyam gṛhasya nṛ-jala-antareṇa hṛtam//"
+          "text": "gṛha-toya-antaram auccyam gṛhasya nṛ-jala-antareṇa hṛtam//",
+          "segment_number": 398
         }
       ]
     },
@@ -4986,14 +5384,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.19a"
           },
-          "text": "%prathama-%dvitīya-nṛ-jala-antara-antareṇa uddhṛtā jala-apasṛtis/"
+          "text": "%prathama-%dvitīya-nṛ-jala-antara-antareṇa uddhṛtā jala-apasṛtis/",
+          "segment_number": 399
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.19c"
           },
-          "text": "dṛṣṭi-auccya-guṇā ucchrāyas toyāt nṛ-jala-antara-guṇā bhūs//"
+          "text": "dṛṣṭi-auccya-guṇā ucchrāyas toyāt nṛ-jala-antara-guṇā bhūs//",
+          "segment_number": 400
         }
       ]
     },
@@ -5008,21 +5408,24 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.20a"
           },
-          "text": "chāyā-puruṣa-chinnam jala-kuḍya-antaram avāptam ārūḍhis/"
+          "text": "chāyā-puruṣa-chinnam jala-kuḍya-antaram avāptam ārūḍhis/",
+          "segment_number": 401
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.20c"
           },
-          "text": "adhyāyas %viṃśati-āryāṇām %ekonaviṃśas ayam//"
+          "text": "adhyāyas %viṃśati-āryāṇām %ekonaviṃśas ayam//",
+          "segment_number": 402
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[chandas-citi-uttaram]"
+      "text": "[chandas-citi-uttaram]",
+      "segment_number": 403
     },
     {
       "tag": "lg",
@@ -5035,14 +5438,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.1a"
           },
-          "text": "ṛgvargaḥ paryāyaḥ samūhayogāvayukṣu yugmeṣu/"
+          "text": "ṛgvargaḥ paryāyaḥ samūhayogāvayukṣu yugmeṣu/",
+          "segment_number": 404
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.1c"
           },
-          "text": "soyāḥ prāgvatprāptādāścatuṣkakāḥ śeṣayuktyontyaḥ//"
+          "text": "soyāḥ prāgvatprāptādāścatuṣkakāḥ śeṣayuktyontyaḥ//",
+          "segment_number": 405
         }
       ]
     },
@@ -5057,14 +5462,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.2a"
           },
-          "text": "ekādiyutavihīnāvādyantau tadviparyayau yāvat/"
+          "text": "ekādiyutavihīnāvādyantau tadviparyayau yāvat/",
+          "segment_number": 406
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.2c"
           },
-          "text": "vargādiṣu viṣamayujāṃ kramotkramādvardhayetpādān//"
+          "text": "vargādiṣu viṣamayujāṃ kramotkramādvardhayetpādān//",
+          "segment_number": 407
         }
       ]
     },
@@ -5079,14 +5486,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.3a"
           },
-          "text": "ekaikena dvyādvyāḥ soppappadhikeṣu tatpratiṣṭheṣu/"
+          "text": "ekaikena dvyādvyāḥ soppappadhikeṣu tatpratiṣṭheṣu/",
+          "segment_number": 408
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.3c"
           },
-          "text": "vargādirabhīṣṭāntaḥ prastāro bhavati yavamadhyaḥ//"
+          "text": "vargādirabhīṣṭāntaḥ prastāro bhavati yavamadhyaḥ//",
+          "segment_number": 409
         }
       ]
     },
@@ -5101,14 +5510,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.4a"
           },
-          "text": "sūnontyo dvipadāgraṃ tripadādyānāmadhaḥ pṛthak saṃkhyā/"
+          "text": "sūnontyo dvipadāgraṃ tripadādyānāmadhaḥ pṛthak saṃkhyā/",
+          "segment_number": 410
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.4c"
           },
-          "text": "tacchodhyo vyekaḥ pṛthagntādrūpamūrdhvayutam//"
+          "text": "tacchodhyo vyekaḥ pṛthagntādrūpamūrdhvayutam//",
+          "segment_number": 411
         }
       ]
     },
@@ -5123,14 +5534,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.5a"
           },
-          "text": "yāvat pādāvyekāgacchādvarṇeṣvathaikavṛddheṣu/"
+          "text": "yāvat pādāvyekāgacchādvarṇeṣvathaikavṛddheṣu/",
+          "segment_number": 412
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.5c"
           },
-          "text": "rūpādyutaghāte vargādyānāṃ parā saṃkhyā//"
+          "text": "rūpādyutaghāte vargādyānāṃ parā saṃkhyā//",
+          "segment_number": 413
         }
       ]
     },
@@ -5145,14 +5558,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.6a"
           },
-          "text": "rūpādhikapādārdheviṣameṣūrdhvaḥ sameṣu pādārdhe/"
+          "text": "rūpādhikapādārdheviṣameṣūrdhvaḥ sameṣu pādārdhe/",
+          "segment_number": 414
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.6c"
           },
-          "text": "ardhādviguṇāvyekāṃyulānyadhastasya sarveṣām//"
+          "text": "ardhādviguṇāvyekāṃyulānyadhastasya sarveṣām//",
+          "segment_number": 415
         }
       ]
     },
@@ -5167,14 +5582,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.7a"
           },
-          "text": "mādhyais tathārdhahīnaiḥ kramapādair vyastatulyapādādyaḥ/"
+          "text": "mādhyais tathārdhahīnaiḥ kramapādair vyastatulyapādādyaḥ/",
+          "segment_number": 416
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.7c"
           },
-          "text": "viṣameravyekaṃ madhye prohyādyānyataḥ kuryāt//"
+          "text": "viṣameravyekaṃ madhye prohyādyānyataḥ kuryāt//",
+          "segment_number": 417
         }
       ]
     },
@@ -5189,14 +5606,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.8a"
           },
-          "text": "saikakramatulyādyair nyāso'bhyadhiko viśodhitaś cādhaḥ/"
+          "text": "saikakramatulyādyair nyāso'bhyadhiko viśodhitaś cādhaḥ/",
+          "segment_number": 418
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.8c"
           },
-          "text": "saṃkhyaikyaṃ tādṛk yādṛk prathamas trirahito naṣṭe//"
+          "text": "saṃkhyaikyaṃ tādṛk yādṛk prathamas trirahito naṣṭe//",
+          "segment_number": 419
         }
       ]
     },
@@ -5211,14 +5630,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.9a"
           },
-          "text": "mādhyaiḥ kṛtaiś ca dalitaiḥ samasaṃkhyāyāṃ kramotkramāt kṣeppam/"
+          "text": "mādhyaiḥ kṛtaiś ca dalitaiḥ samasaṃkhyāyāṃ kramotkramāt kṣeppam/",
+          "segment_number": 420
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.9c"
           },
-          "text": "viṣamāyāṃ vyekāyāṃ dalam kramād uttkramāt saikam//"
+          "text": "viṣamāyāṃ vyekāyāṃ dalam kramād uttkramāt saikam//",
+          "segment_number": 421
         }
       ]
     },
@@ -5233,14 +5654,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.10a"
           },
-          "text": "samasaṃkhyāyāṃ sopānakramotkramābhyāṃ tathaiva viṣamābhyām/"
+          "text": "samasaṃkhyāyāṃ sopānakramotkramābhyāṃ tathaiva viṣamābhyām/",
+          "segment_number": 422
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.10c"
           },
-          "text": "kalpyā pacite dṛṣṭe prathamaḥ śeṣākṣarāṇyante//"
+          "text": "kalpyā pacite dṛṣṭe prathamaḥ śeṣākṣarāṇyante//",
+          "segment_number": 423
         }
       ]
     },
@@ -5255,14 +5678,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.11a"
           },
-          "text": "samadalasamaviṣamāṇāṃ saṃkhyāpādārdhasarvakalpavadhaḥ/"
+          "text": "samadalasamaviṣamāṇāṃ saṃkhyāpādārdhasarvakalpavadhaḥ/",
+          "segment_number": 424
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.11c"
           },
-          "text": "svādyavadho'nyaiḥ pādaiḥ svaparasya prāgvadhaḥ saikaiḥ//"
+          "text": "svādyavadho'nyaiḥ pādaiḥ svaparasya prāgvadhaḥ saikaiḥ//",
+          "segment_number": 425
         }
       ]
     },
@@ -5277,14 +5702,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.12a"
           },
-          "text": "ādyādanantaro'dhaḥ kalppo'nyatulyamādyaḥ prāk/"
+          "text": "ādyādanantaro'dhaḥ kalppo'nyatulyamādyaḥ prāk/",
+          "segment_number": 426
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.12c"
           },
-          "text": "nyāso vargo'nyonaḥ prastāro'rdhasamaviṣamāṇām//"
+          "text": "nyāso vargo'nyonaḥ prastāro'rdhasamaviṣamāṇām//",
+          "segment_number": 427
         }
       ]
     },
@@ -5299,14 +5726,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.13a"
           },
-          "text": "naṣṭentyāt svādhasthonakalpaghāto'rdhatulyaviṣamāṇām/"
+          "text": "naṣṭentyāt svādhasthonakalpaghāto'rdhatulyaviṣamāṇām/",
+          "segment_number": 428
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.13c"
           },
-          "text": "vyekaḥ pṛthak svavargoddhṛtaḥ phalaṃ tulyakalyānām//"
+          "text": "vyekaḥ pṛthak svavargoddhṛtaḥ phalaṃ tulyakalyānām//",
+          "segment_number": 429
         }
       ]
     },
@@ -5321,14 +5750,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.14a"
           },
-          "text": "uddiṣṭe kalpahṛte'tītaiḥ prathamaḥ phale sarūpe 'nyaḥ/"
+          "text": "uddiṣṭe kalpahṛte'tītaiḥ prathamaḥ phale sarūpe 'nyaḥ/",
+          "segment_number": 430
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.14c"
           },
-          "text": "asakṛdvargāṃśayute saike vārdhasamaviṣamāṇām//"
+          "text": "asakṛdvargāṃśayute saike vārdhasamaviṣamāṇām//",
+          "segment_number": 431
         }
       ]
     },
@@ -5343,14 +5774,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.15a"
           },
-          "text": "kapeṣu pṛthak gurulaghusaṃkhyaikādibhājitā prāgvat/"
+          "text": "kapeṣu pṛthak gurulaghusaṃkhyaikādibhājitā prāgvat/",
+          "segment_number": 432
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.15c"
           },
-          "text": "viṣameṣvādyalaghūno laghubhir meruḥ samādīnām//"
+          "text": "viṣameṣvādyalaghūno laghubhir meruḥ samādīnām//",
+          "segment_number": 433
         }
       ]
     },
@@ -5365,14 +5798,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.16a"
           },
-          "text": "ekadvitayoḥ parato dvisaṃguṇo'nantarādvirūpo'dhaḥ/"
+          "text": "ekadvitayoḥ parato dvisaṃguṇo'nantarādvirūpo'dhaḥ/",
+          "segment_number": 434
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.16c"
           },
-          "text": "vargadharādyonodalasamaviṣamāṇāṃ dhvajo laghubhiḥ//"
+          "text": "vargadharādyonodalasamaviṣamāṇāṃ dhvajo laghubhiḥ//",
+          "segment_number": 435
         }
       ]
     },
@@ -5387,14 +5822,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.17a"
           },
-          "text": "laghusaṃkhyā padadalitā parato'dho'dhaś ca śudhyati hṛtā yaiḥ/"
+          "text": "laghusaṃkhyā padadalitā parato'dho'dhaś ca śudhyati hṛtā yaiḥ/",
+          "segment_number": 436
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.17c"
           },
-          "text": "dviguṇāntaiḥ śuddhair vargaparair mandaro laghubhiḥ//"
+          "text": "dviguṇāntaiḥ śuddhair vargaparair mandaro laghubhiḥ//",
+          "segment_number": 437
         }
       ]
     },
@@ -5409,14 +5846,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.18a"
           },
-          "text": "kṛtvādho'dhaḥ kalpyānyekādyekottarānadhasteṣām/"
+          "text": "kṛtvādho'dhaḥ kalpyānyekādyekottarānadhasteṣām/",
+          "segment_number": 438
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.18c"
           },
-          "text": "svāt parato'nyaikyam adhaḥ prastārād uktavad ihādyaiḥ//"
+          "text": "svāt parato'nyaikyam adhaḥ prastārād uktavad ihādyaiḥ//",
+          "segment_number": 439
         }
       ]
     },
@@ -5431,28 +5870,32 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.19a"
           },
-          "text": "guruṣaṣṭyekānighaṭīdviguṇānyekāṃgulāni saṃkhyā syāt/"
+          "text": "guruṣaṣṭyekānighaṭīdviguṇānyekāṃgulāni saṃkhyā syāt/",
+          "segment_number": 440
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.19c"
           },
-          "text": "drāviṃśatir āryāṇāṃ chandaścityuttaro'dhyāyaḥ//"
+          "text": "drāviṃśatir āryāṇāṃ chandaścityuttaro'dhyāyaḥ//",
+          "segment_number": 441
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.19p"
           },
-          "text": "iti śrī-brāhmasphuṭa-siddhānte chandaścityuttarādhyāyo viṃśatitamaḥ//"
+          "text": "iti śrī-brāhmasphuṭa-siddhānte chandaścityuttarādhyāyo viṃśatitamaḥ//",
+          "segment_number": 442
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "[jyā-prakaraṇam]"
+      "text": "[jyā-prakaraṇam]",
+      "segment_number": 443
     },
     {
       "tag": "lg",
@@ -5465,14 +5908,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.17a"
           },
-          "text": "rāśi-%aṣṭa-aṃśeṣu aṅkān pada-sandhibhyas krama-utkramāt kṛtvā/"
+          "text": "rāśi-%aṣṭa-aṃśeṣu aṅkān pada-sandhibhyas krama-utkramāt kṛtvā/",
+          "segment_number": 444
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.17c"
           },
-          "text": "badhnīyāt sūtrāṇi %dvayos %dvayos jyās tad-%ardhāni//"
+          "text": "badhnīyāt sūtrāṇi %dvayos %dvayos jyās tad-%ardhāni//",
+          "segment_number": 445
         }
       ]
     },
@@ -5487,14 +5932,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.18a"
           },
-          "text": "jyā-%ardhāni jyā-%ardhānām jyā-khaṇḍāni antarāṇi/"
+          "text": "jyā-%ardhāni jyā-%ardhānām jyā-khaṇḍāni antarāṇi/",
+          "segment_number": 446
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.18c"
           },
-          "text": "vyastāni antyāt atha vā iṣus utkrama-jyā dhanus tābhyām//"
+          "text": "vyastāni antyāt atha vā iṣus utkrama-jyā dhanus tābhyām//",
+          "segment_number": 447
         }
       ]
     },
@@ -5509,14 +5956,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.19a"
           },
-          "text": "%eka-%dvi-%tri-guṇāyās vyāsa-%ardha-kṛtes pṛthak %caturthebhyas/"
+          "text": "%eka-%dvi-%tri-guṇāyās vyāsa-%ardha-kṛtes pṛthak %caturthebhyas/",
+          "segment_number": 448
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.19c"
           },
-          "text": "mūlāni %aṣṭa-%dvādaśa-%ṣoḍaśa-khaṇḍāni atas anyāni//"
+          "text": "mūlāni %aṣṭa-%dvādaśa-%ṣoḍaśa-khaṇḍāni atas anyāni//",
+          "segment_number": 449
         }
       ]
     },
@@ -5531,14 +5980,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.20a"
           },
-          "text": "tulya-krama-utkrama-jyā-sama-khaṇḍaka-varga-yuti-%catur-bhāgam/"
+          "text": "tulya-krama-utkrama-jyā-sama-khaṇḍaka-varga-yuti-%catur-bhāgam/",
+          "segment_number": 450
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.20c"
           },
-          "text": "prohya anaṣṭam vyāsa-%ardha-vargatas tad-pade %prathamam//"
+          "text": "prohya anaṣṭam vyāsa-%ardha-vargatas tad-pade %prathamam//",
+          "segment_number": 451
         }
       ]
     },
@@ -5553,14 +6004,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.21a"
           },
-          "text": "tad-#dala-khaṇḍāni tad-ūna-#jina-samāni %dvitīyam utpattau/"
+          "text": "tad-#dala-khaṇḍāni tad-ūna-#jina-samāni %dvitīyam utpattau/",
+          "segment_number": 452
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.21c"
           },
-          "text": "#kṛta-#yamala-%eka-#diś-#īśa-#iṣu-%sapta-#rasa-#guṇa-%nava-ādīnām//"
+          "text": "#kṛta-#yamala-%eka-#diś-#īśa-#iṣu-%sapta-#rasa-#guṇa-%nava-ādīnām//",
+          "segment_number": 453
         }
       ]
     },
@@ -5575,14 +6028,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.22a"
           },
-          "text": "evam jīvā-khaṇḍāni alpāni bahūni vā ādya-khaṇḍāni/"
+          "text": "evam jīvā-khaṇḍāni alpāni bahūni vā ādya-khaṇḍāni/",
+          "segment_number": 454
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.22c"
           },
-          "text": "jyā-%ardhāni vṛtta-paridhes %ṣaṣṭha-%caturtha-%tri-bhāgānām//"
+          "text": "jyā-%ardhāni vṛtta-paridhes %ṣaṣṭha-%caturtha-%tri-bhāgānām//",
+          "segment_number": 455
         }
       ]
     },
@@ -5597,14 +6052,16 @@
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.23a"
           },
-          "text": "utkrama-sama-khaṇḍa-guṇāt vyāsāt atha vā %caturtha-bhāgāt yat/"
+          "text": "utkrama-sama-khaṇḍa-guṇāt vyāsāt atha vā %caturtha-bhāgāt yat/",
+          "segment_number": 456
         },
         {
           "tag": "l",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.23c"
           },
-          "text": "kṛtvā ukta-khaṇḍakāni jyā-%ardha-ānayanam na laghu asmāt//"
+          "text": "kṛtvā ukta-khaṇḍakāni jyā-%ardha-ānayanam na laghu asmāt//",
+          "segment_number": 457
         }
       ]
     }

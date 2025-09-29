@@ -37,7 +37,8 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Vidyāsthānopamasūtra"
+      "text": "Vidyāsthānopamasūtra",
+      "segment_number": 1
     },
     {
       "tag": "p",
@@ -49,29 +50,35 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ā śru"
+          "text": "ā śru",
+          "segment_number": 3
         },
         {
           "tag": "text",
-          "text": "tam / ekasmiṃ samaye bhagavāṃ śrāvastyāṃ vi"
+          "text": "tam / ekasmiṃ samaye bhagavāṃ śrāvastyāṃ vi",
+          "segment_number": 4
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "harati sma jetava"
+          "text": "harati sma jetava",
+          "segment_number": 5
         },
         {
           "tag": "text",
-          "text": "ne anāthapiṇḍadārāme /"
+          "text": "ne anāthapiṇḍadārāme /",
+          "segment_number": 6
         }
-      ]
+      ],
+      "segment_number": 2
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "2 tatra bhagavāṃ bhikṣūn āmaṃtrayate sma /"
+      "text": "2 tatra bhagavāṃ bhikṣūn āmaṃtrayate sma /",
+      "segment_number": 7
     },
     {
       "tag": "p",
@@ -83,18 +90,36 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "utpādā"
+          "text": "utpādā",
+          "segment_number": 9
         },
         {
           "tag": "text",
-          "text": "d vā bhikṣavaḥ tathāgatānām anutpādād vā saṃvartate ca loko vivartate ca /"
+          "text": "d vā bhikṣavaḥ tathāgatānām anutpādād vā saṃvartate ca loko vivartate ca /",
+          "segment_number": 10
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "different beginning for paragraphs 1-3 in Or.15009/83v; ed. in: The British Library Sanskrit Fragments, vol. II, ed. S. Karashima and K. Wille, Tokyo 2009 (Buddhist Manuscripts from Central Asia), pp. 153f.:\n1 /// .. ye bhagavāṃ śrāvastyāṃ viharati sma je[tava]ne a .. .. + + ///"
+          "text": "different beginning for paragraphs 1-3 in Or.15009/83v; ed. in: The British Library Sanskrit Fragments, vol. II, ed. S. Karashima and K. Wille, Tokyo 2009 (Buddhist Manuscripts from Central Asia), pp. 153f.:\n1 /// .. ye bhagavāṃ śrāvastyāṃ viharati sma je[tava]ne a .. .. + + ///",
+          "segment_number": 11
+        }
+      ],
+      "segment_number": 8
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "hi",
+          "attributes": {
+            "rend": "blue"
+          },
+          "text": "2 /// .. .y. dau kalyāṇaṃ madhye kalyāṇaṃ pa[rya]vasāne kaly[āṇaṃ] + ///",
+          "segment_number": 12
         }
       ]
     },
@@ -107,7 +132,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "2 /// .. .y. dau kalyāṇaṃ madhye kalyāṇaṃ pa[rya]vasāne kaly[āṇaṃ] + ///"
+          "text": "3 /// + ṣyāmi yad uta vidya[sthā]nopamaṃ nāma dharmaparyāyas tac chṛnu[t]. [s]. ///",
+          "segment_number": 13
         }
       ]
     },
@@ -120,7 +146,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "3 /// + ṣyāmi yad uta vidya[sthā]nopamaṃ nāma dharmaparyāyas tac chṛnu[t]. [s]. ///"
+          "text": "4 /// dharmaparyāya katama utpādād vā tathāgatāṇām a .. ///",
+          "segment_number": 14
         }
       ]
     },
@@ -133,27 +160,16 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "4 /// dharmaparyāya katama utpādād vā tathāgatāṇām a .. ///"
+          "text": "For this wording cf. Daśottarasūtra E.a-c",
+          "segment_number": 15
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "blue"
-          },
-          "text": "For this wording cf. Daśottarasūtra E.a-c"
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "4 saṃvartamāne loke yadbhūyasā satvā ābhasvare devanikāye upapadyante /"
+      "text": "4 saṃvartamāne loke yadbhūyasā satvā ābhasvare devanikāye upapadyante /",
+      "segment_number": 16
     },
     {
       "tag": "p",
@@ -165,73 +181,87 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "mano"
+          "text": "mano",
+          "segment_number": 18
         },
         {
           "tag": "text",
-          "text": "mayā avikalā ahīnendriyā"
+          "text": "mayā avikalā ahīnendriyā",
+          "segment_number": 19
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 20
         },
         {
           "tag": "text",
-          "text": "sarvāṅgapratyaṅgopetā"
+          "text": "sarvāṅgapratyaṅgopetā",
+          "segment_number": 21
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 22
         },
         {
           "tag": "text",
-          "text": "śubhā varṇasthāyina"
+          "text": "śubhā varṇasthāyina",
+          "segment_number": 23
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 24
         },
         {
           "tag": "text",
-          "text": "prītibhakṣā"
+          "text": "prītibhakṣā",
+          "segment_number": 25
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 26
         },
         {
           "tag": "text",
-          "text": "prītyāhārā"
+          "text": "prītyāhārā",
+          "segment_number": 27
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 28
         },
         {
           "tag": "text",
-          "text": "svayaṃprabhā vaihāyasagāmino dīrghāyuṣo dīrgham adhvānaṃ tiṣṭhaṃti /"
+          "text": "svayaṃprabhā vaihāyasagāmino dīrghāyuṣo dīrgham adhvānaṃ tiṣṭhaṃti /",
+          "segment_number": 29
         }
-      ]
+      ],
+      "segment_number": 17
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "6 vivartamāne loke pṛthak chilpasthānakarmasthānāni prajñāyante /"
+      "text": "6 vivartamāne loke pṛthak chilpasthānakarmasthānāni prajñāyante /",
+      "segment_number": 30
     },
     {
       "tag": "lg",
@@ -240,24 +270,28 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "7 tadyathā"
+          "text": "7 tadyathā",
+          "segment_number": 31
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "mantrā japā auṣadhayo māyākarma cikitsitam /"
+          "text": "mantrā japā auṣadhayo māyākarma cikitsitam /",
+          "segment_number": 32
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "divyaṃ ca cakṣu ṛddhiś ca yathocitaṃ jñānadarśanam //"
+          "text": "divyaṃ ca cakṣu ṛddhiś ca yathocitaṃ jñānadarśanam //",
+          "segment_number": 33
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "8"
+      "text": "8",
+      "segment_number": 34
     },
     {
       "tag": "p",
@@ -269,13 +303,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 36
         },
         {
           "tag": "text",
-          "text": "//"
+          "text": "//",
+          "segment_number": 37
         }
-      ]
+      ],
+      "segment_number": 35
     },
     {
       "tag": "p",
@@ -286,19 +323,22 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "c: read unmārgena, s.e. for unmārgeṇa"
+          "text": "c: read unmārgena, s.e. for unmārgeṇa",
+          "segment_number": 38
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "9 yasmiṃs tu samaye tathāgatā arhantaḥ samyaksaṃbuddhā loke utpadyante yāni ca laukikāni pṛthak chilpasthānakarmasthānāni yac ca lokottaraṃ tat sarvam abhijñāya"
+      "text": "9 yasmiṃs tu samaye tathāgatā arhantaḥ samyaksaṃbuddhā loke utpadyante yāni ca laukikāni pṛthak chilpasthānakarmasthānāni yac ca lokottaraṃ tat sarvam abhijñāya",
+      "segment_number": 39
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "yac chreṣṭhaṃ sarvavidyānāṃ tad deśayaṃti tathāgatāḥ /"
+      "text": "yac chreṣṭhaṃ sarvavidyānāṃ tad deśayaṃti tathāgatāḥ /",
+      "segment_number": 40
     },
     {
       "tag": "p",
@@ -310,27 +350,32 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 42
         },
         {
           "tag": "text",
-          "text": "khanirodhagāminī pratipad āryasatyam i"
+          "text": "khanirodhagāminī pratipad āryasatyam i",
+          "segment_number": 43
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ti /"
+          "text": "ti /",
+          "segment_number": 44
         }
-      ]
+      ],
+      "segment_number": 41
     },
     {
       "tag": "l",
       "attributes": {
         "rend": "blue"
       },
-      "text": "cf. Pelliot Sanskrit bleu 375rw: /// (ārya)satyaṃ ayaṃ duḥkha[s](amuday). ///"
+      "text": "cf. Pelliot Sanskrit bleu 375rw: /// (ārya)satyaṃ ayaṃ duḥkha[s](amuday). ///",
+      "segment_number": 45
     },
     {
       "tag": "p",
@@ -342,13 +387,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ḥ"
+          "text": "ḥ",
+          "segment_number": 47
         },
         {
           "tag": "text",
-          "text": "pṛthak /"
+          "text": "pṛthak /",
+          "segment_number": 48
         }
-      ]
+      ],
+      "segment_number": 46
     },
     {
       "tag": "p",
@@ -360,42 +408,50 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "o"
+          "text": "o",
+          "segment_number": 50
         },
         {
           "tag": "text",
-          "text": "māyākarma cikitsi"
+          "text": "māyākarma cikitsi",
+          "segment_number": 51
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "taṃ /\ndivyaṃ"
+          "text": "taṃ /\ndivyaṃ",
+          "segment_number": 52
         },
         {
           "tag": "text",
-          "text": "ca cakṣu ṛddhiś ca uditaṃ jñ"
+          "text": "ca cakṣu ṛddhiś ca uditaṃ jñ",
+          "segment_number": 53
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ānadarśa"
+          "text": "ānadarśa",
+          "segment_number": 54
         },
         {
           "tag": "text",
-          "text": "nam /"
+          "text": "nam /",
+          "segment_number": 55
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "blue"
           },
-          "text": "d: cf. Pelliot Sanskrit bleu 375ry: /// ṛddhiś ca uditaṃ jñānada ///"
+          "text": "d: cf. Pelliot Sanskrit bleu 375ry: /// ṛddhiś ca uditaṃ jñānada ///",
+          "segment_number": 56
         }
-      ]
+      ],
+      "segment_number": 49
     },
     {
       "tag": "p",
@@ -413,79 +469,94 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "aśa"
+              "text": "aśa",
+              "segment_number": 58
             },
             {
               "tag": "text",
-              "text": "ma"
+              "text": "ma",
+              "segment_number": 59
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "gāminam /\nunmā"
+              "text": "gāminam /\nunmā",
+              "segment_number": 60
             },
             {
               "tag": "text",
-              "text": "rge"
+              "text": "rge",
+              "segment_number": 61
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "na vihanya"
+              "text": "na vihanya",
+              "segment_number": 62
             },
             {
               "tag": "text",
-              "text": "n"
+              "text": "n",
+              "segment_number": 63
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "t"
+              "text": "t",
+              "segment_number": 64
             },
             {
               "tag": "text",
-              "text": "aś ca"
+              "text": "aś ca",
+              "segment_number": 65
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ranti amarā"
+              "text": "ranti amarā",
+              "segment_number": 66
             },
             {
               "tag": "text",
-              "text": "yathā /"
+              "text": "yathā /",
+              "segment_number": 67
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "anissa"
+              "text": "anissa",
+              "segment_number": 68
             },
             {
               "tag": "text",
-              "text": "raṇadarśina"
+              "text": "raṇadarśina",
+              "segment_number": 69
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ḥ"
+              "text": "ḥ",
+              "segment_number": 70
             },
             {
               "tag": "text",
-              "text": "//"
+              "text": "//",
+              "segment_number": 71
             }
-          ]
+          ],
+          "segment_number": 57
         }
       ]
     },
@@ -505,20 +576,24 @@
               "attributes": {
                 "rend": "it"
               },
-              "text": "unmā"
+              "text": "unmā",
+              "segment_number": 73
             },
             {
               "tag": "text",
-              "text": "rge"
+              "text": "rge",
+              "segment_number": 74
             },
             {
               "tag": "hi",
               "attributes": {
                 "rend": "it"
               },
-              "text": "ṇa"
+              "text": "ṇa",
+              "segment_number": 75
             }
-          ]
+          ],
+          "segment_number": 72
         }
       ]
     },
@@ -532,24 +607,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "utpadyante karu"
+          "text": "utpadyante karu",
+          "segment_number": 77
         },
         {
           "tag": "text",
-          "text": "ṇikāḥ /\nprakāśayaṃti sa"
+          "text": "ṇikāḥ /\nprakāśayaṃti sa",
+          "segment_number": 78
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "ddha"
+          "text": "ddha",
+          "segment_number": 79
         },
         {
           "tag": "text",
-          "text": "rmaṃ sarvaduḥkhavinodanam //"
+          "text": "rmaṃ sarvaduḥkhavinodanam //",
+          "segment_number": 80
         }
-      ]
+      ],
+      "segment_number": 76
     },
     {
       "tag": "p",
@@ -560,7 +640,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "bc: cf. Pelliot Sanskrit bleu 375v1: /// + [g]ā · prakāśayaṃti ye [dh](armaṃ) ///; cf. also next paragraph"
+          "text": "bc: cf. Pelliot Sanskrit bleu 375v1: /// + [g]ā · prakāśayaṃti ye [dh](armaṃ) ///; cf. also next paragraph",
+          "segment_number": 81
         }
       ]
     },
@@ -574,24 +655,29 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "sya"
+          "text": "sya",
+          "segment_number": 83
         },
         {
           "tag": "text",
-          "text": "samatikramaṃ /\nāry"
+          "text": "samatikramaṃ /\nāry",
+          "segment_number": 84
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "aṃ cāṣṭāṅgi"
+          "text": "aṃ cāṣṭāṅgi",
+          "segment_number": 85
         },
         {
           "tag": "text",
-          "text": "kaṃ mārgaṃ kṣemaṃ nirvāṇagāminam //"
+          "text": "kaṃ mārgaṃ kṣemaṃ nirvāṇagāminam //",
+          "segment_number": 86
         }
-      ]
+      ],
+      "segment_number": 82
     },
     {
       "tag": "p",
@@ -602,7 +688,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "for the two verses in paragraph 14 and 15 cf. Suvarṇavarṇāvadāna [57]; for the actual input cf. THESAURUS LITERATURAE BUDDHICAE (TLB): https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2):"
+          "text": "for the two verses in paragraph 14 and 15 cf. Suvarṇavarṇāvadāna [57]; for the actual input cf. THESAURUS LITERATURAE BUDDHICAE (TLB): https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2):",
+          "segment_number": 87
         },
         {
           "tag": "lg",
@@ -617,7 +704,8 @@
                   "attributes": {
                     "rend": "blue"
                   },
-                  "text": "kadācit karhicit loke utpadyante tathāgatāḥ /"
+                  "text": "kadācit karhicit loke utpadyante tathāgatāḥ /",
+                  "segment_number": 88
                 }
               ]
             },
@@ -630,7 +718,8 @@
                   "attributes": {
                     "rend": "blue"
                   },
-                  "text": "śāstāro naradevānāñ cakṣuṣmanto raṇātigāḥ // 1 //"
+                  "text": "śāstāro naradevānāñ cakṣuṣmanto raṇātigāḥ // 1 //",
+                  "segment_number": 89
                 }
               ]
             }
@@ -651,7 +740,8 @@
               "attributes": {
                 "rend": "blue"
               },
-              "text": "prakāśayanti ye dharmaṃ sarvaduḥkhavinodanaṃ /"
+              "text": "prakāśayanti ye dharmaṃ sarvaduḥkhavinodanaṃ /",
+              "segment_number": 90
             }
           ]
         },
@@ -664,7 +754,8 @@
               "attributes": {
                 "rend": "blue"
               },
-              "text": "duḥkhaṃ duḥkhasamutpādaṃ duḥkhasya samatikramaṃ //"
+              "text": "duḥkhaṃ duḥkhasamutpādaṃ duḥkhasya samatikramaṃ //",
+              "segment_number": 91
             }
           ]
         }
@@ -679,7 +770,8 @@
           "attributes": {
             "rend": "blue"
           },
-          "text": "āryāṣṭāṅgikaṃ mārgaṃ kṣemaṃ nirvāṇagāminaṃ // 2//"
+          "text": "āryāṣṭāṅgikaṃ mārgaṃ kṣemaṃ nirvāṇagāminaṃ // 2//",
+          "segment_number": 92
         }
       ]
     },
@@ -690,17 +782,20 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "16"
+          "text": "16",
+          "segment_number": 93
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasmiṃ dharme deśyamāne te sarvaduḥkhavinodane /"
+          "text": "tasmiṃ dharme deśyamāne te sarvaduḥkhavinodane /",
+          "segment_number": 94
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "jñānena hatvā ajñānaṃ nāgacchanti punarbhavam //"
+          "text": "jñānena hatvā ajñānaṃ nāgacchanti punarbhavam //",
+          "segment_number": 95
         }
       ]
     },
@@ -714,23 +809,28 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "a"
+          "text": "a",
+          "segment_number": 97
         },
         {
           "tag": "text",
-          "text": "nandam //"
+          "text": "nandam //",
+          "segment_number": 98
         }
-      ]
+      ],
+      "segment_number": 96
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "18 vidyāsthānopamasūtraṃ samāptaḥ /"
+      "text": "18 vidyāsthānopamasūtraṃ samāptaḥ /",
+      "segment_number": 99
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "19 rakṣaṃ bhavatu / kutkāttuṃsasya svāhā //"
+      "text": "19 rakṣaṃ bhavatu / kutkāttuṃsasya svāhā //",
+      "segment_number": 100
     }
   ]
 }

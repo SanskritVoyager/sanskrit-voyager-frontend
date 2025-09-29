@@ -107,6 +107,9 @@ export function HomePage() {
 
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
+  const [searchMatchedSegments, setSearchMatchedSegments] = useState<number[]>([]);
+
+
   // ----- Constants -----
 
   const { height: viewportHeight } = useViewportSize();
@@ -213,7 +216,7 @@ export function HomePage() {
             // If API fails, try the local resource
             console.log('API fetch failed, trying local resource');
             // for offline add /public/ for online remove it or it won't load the books
-            const response = await fetch(`/resources/books/${bookTitle}.json`);
+            const response = await fetch(`/public/resources/books/${bookTitle}.json`);
             if (!response.ok) {
               throw new Error(`Failed to fetch: ${response.status}`);
             }
@@ -488,6 +491,9 @@ export function HomePage() {
                   query={query}
                   matchedBookSegments={matchedBookSegments}
                   setMatchedBookSegments={setMatchedBookSegments}
+                  searchMatchedSegments={searchMatchedSegments}
+                  setSearchMatchedSegments={setSearchMatchedSegments}
+
                 />
               </div>
             </Grid.Col>
@@ -684,6 +690,7 @@ export function HomePage() {
           setMatchedBookSegments={setMatchedBookSegments}
           handleAdvancedSearch={handleAdvancedSearch}
           setIsNavbarVisible={setIsNavbarVisible}
+          isAdvancedSearchVisible={isAdvancedSearchVisible}
         />
       </Modal>
 

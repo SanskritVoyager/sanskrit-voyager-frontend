@@ -38,12 +38,14 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Navaślokī"
+      "text": "Navaślokī",
+      "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "āryāṣṭasāhaśrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ"
+      "text": "āryāṣṭasāhaśrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ",
+      "segment_number": 2
     },
     {
       "tag": "lg",
@@ -52,12 +54,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prajñāpāramitāmbodhau śubharatnākare svayam /"
+          "text": "prajñāpāramitāmbodhau śubharatnākare svayam /",
+          "segment_number": 3
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "sarvā pāramitās tatra tādātmyena vyavasthitāḥ // Nś_1 //"
+          "text": "sarvā pāramitās tatra tādātmyena vyavasthitāḥ // Nś_1 //",
+          "segment_number": 4
         }
       ]
     },
@@ -68,12 +72,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "niṣprapañcā nirābhāsā nirvikalpā nirālayā /"
+          "text": "niṣprapañcā nirābhāsā nirvikalpā nirālayā /",
+          "segment_number": 5
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "niḥsvabhāvā parā sūkṣmā bindunādavivarjitā // Nś_2 //"
+          "text": "niḥsvabhāvā parā sūkṣmā bindunādavivarjitā // Nś_2 //",
+          "segment_number": 6
         }
       ]
     },
@@ -84,12 +90,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prajñāpāramitā mātā sarvabuddhodayā parā /"
+          "text": "prajñāpāramitā mātā sarvabuddhodayā parā /",
+          "segment_number": 7
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "trayānupalabdhirūpā sarvajñajñānagocarā // Nś_3 //"
+          "text": "trayānupalabdhirūpā sarvajñajñānagocarā // Nś_3 //",
+          "segment_number": 8
         }
       ]
     },
@@ -100,12 +108,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "prajñāpāramitāṃ saṃyag yo bhāvayitum icchati /"
+          "text": "prajñāpāramitāṃ saṃyag yo bhāvayitum icchati /",
+          "segment_number": 9
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tenārthato navaślokāś cintanīyāḥ samāsataḥ // Nś_4 //"
+          "text": "tenārthato navaślokāś cintanīyāḥ samāsataḥ // Nś_4 //",
+          "segment_number": 10
         }
       ]
     },
@@ -116,12 +126,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "karmaprabhāvasaṃbhūtaṃ ṣaḍāyatanalakṣaṇam /"
+          "text": "karmaprabhāvasaṃbhūtaṃ ṣaḍāyatanalakṣaṇam /",
+          "segment_number": 11
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "punarbhavam iti khyātaṃ pratibhāsopamaṃ hi tat // Nś_5_[1] //"
+          "text": "punarbhavam iti khyātaṃ pratibhāsopamaṃ hi tat // Nś_5_[1] //",
+          "segment_number": 12
         }
       ]
     },
@@ -135,11 +147,32 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "rmi"
+          "text": "rmi",
+          "segment_number": 14
         },
         {
           "tag": "text",
-          "text": "taṃ jagat // Nś_6_[2] //"
+          "text": "taṃ jagat // Nś_6_[2] //",
+          "segment_number": 15
+        }
+      ],
+      "segment_number": 13
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dharmaṃ deśayataḥ śabdā ye kecit śrutigocarāḥ /",
+          "segment_number": 16
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratiśrutkopamāḥ sarve prodbhūtaśrutinaḥ śrutāḥ // Nś_7_[3] //",
+          "segment_number": 17
         }
       ]
     },
@@ -150,12 +183,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "dharmaṃ deśayataḥ śabdā ye kecit śrutigocarāḥ /"
+          "text": "āghrataṃ svāditaṃ tathā spraṣṭaṃ viṣayalālāsaiḥ /",
+          "segment_number": 18
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "pratiśrutkopamāḥ sarve prodbhūtaśrutinaḥ śrutāḥ // Nś_7_[3] //"
+          "text": "svapnatulyam idaṃ sarvam upalabdhaṃ na vidyate // Nś_8_[4] //",
+          "segment_number": 19
         }
       ]
     },
@@ -166,12 +201,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "āghrataṃ svāditaṃ tathā spraṣṭaṃ viṣayalālāsaiḥ /"
+          "text": "māyāyantro naro yadvad bhinnāṃ ceṣṭāṃ karoti vai /",
+          "segment_number": 20
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "svapnatulyam idaṃ sarvam upalabdhaṃ na vidyate // Nś_8_[4] //"
+          "text": "tadvad ceṣṭāṃ karoty eva dehayantro nirātmakaḥ // Nś_9_[5] //",
+          "segment_number": 21
         }
       ]
     },
@@ -182,12 +219,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "māyāyantro naro yadvad bhinnāṃ ceṣṭāṃ karoti vai /"
+          "text": "nānopalabdhayo yāś ca pratikṣaṇasamudbhavāḥ /",
+          "segment_number": 22
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tadvad ceṣṭāṃ karoty eva dehayantro nirātmakaḥ // Nś_9_[5] //"
+          "text": "marīcisadṛśāś caite dṛṣṭanaṣṭāḥ vilakṣaṇāḥ // Nś_10_[6] //",
+          "segment_number": 23
         }
       ]
     },
@@ -198,28 +237,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "nānopalabdhayo yāś ca pratikṣaṇasamudbhavāḥ /"
+          "text": "pratibimbanibhaṃ grāhyam anādicittasaṃbhavam /",
+          "segment_number": 24
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "marīcisadṛśāś caite dṛṣṭanaṣṭāḥ vilakṣaṇāḥ // Nś_10_[6] //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "pratibimbanibhaṃ grāhyam anādicittasaṃbhavam /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tadākāraṃ ca vijñānam anyonyapratibimbavat // Nś_11_[7] //"
+          "text": "tadākāraṃ ca vijñānam anyonyapratibimbavat // Nś_11_[7] //",
+          "segment_number": 25
         }
       ]
     },
@@ -233,27 +258,51 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "ṃ"
+          "text": "ṃ",
+          "segment_number": 27
         },
         {
           "tag": "text",
-          "text": "svacchasaṃtāne"
+          "text": "svacchasaṃtāne",
+          "segment_number": 28
         },
         {
           "tag": "hi",
           "attributes": {
             "rend": "it"
           },
-          "text": "yaj"
+          "text": "yaj",
+          "segment_number": 29
         },
         {
           "tag": "text",
-          "text": "jnanendusamudbhavam /"
+          "text": "jnanendusamudbhavam /",
+          "segment_number": 30
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "udakacandropamaṃ tad dhi pratyakṣaṃ na vidyate // Nś_12_[8] //"
+          "text": "udakacandropamaṃ tad dhi pratyakṣaṃ na vidyate // Nś_12_[8] //",
+          "segment_number": 31
+        }
+      ],
+      "segment_number": 26
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yoginām api yaj jñānaṃ tad apy ākāśalakṣaṇam /",
+          "segment_number": 32
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tasmāj jñānaṃ ca jñeyaṃ ca sarvam ākāśalakṣaṇam // Nś_13_[9] //",
+          "segment_number": 33
         }
       ]
     },
@@ -264,28 +313,14 @@
         {
           "tag": "l",
           "attributes": {},
-          "text": "yoginām api yaj jñānaṃ tad apy ākāśalakṣaṇam /"
+          "text": "iti cintayataḥ tattvaṃ sarvabhāveṣv anāśritam /",
+          "segment_number": 34
         },
         {
           "tag": "l",
           "attributes": {},
-          "text": "tasmāj jñānaṃ ca jñeyaṃ ca sarvam ākāśalakṣaṇam // Nś_13_[9] //"
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "iti cintayataḥ tattvaṃ sarvabhāveṣv anāśritam /"
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "bodhipraṇidhicittena jñānaṃ agraṃ bhaviṣyati // Nś_14 //"
+          "text": "bodhipraṇidhicittena jñānaṃ agraṃ bhaviṣyati // Nś_14 //",
+          "segment_number": 35
         }
       ]
     },
@@ -299,13 +334,16 @@
           "attributes": {
             "rend": "it"
           },
-          "text": "b"
+          "text": "b",
+          "segment_number": 37
         },
         {
           "tag": "text",
-          "text": "alāmbarapādanām"
+          "text": "alāmbarapādanām",
+          "segment_number": 38
         }
-      ]
+      ],
+      "segment_number": 36
     }
   ]
 }

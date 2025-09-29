@@ -42,62 +42,74 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "Explanatory Remarks"
+          "text": "Explanatory Remarks",
+          "segment_number": 1
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "A number of five figures at the left side indicates the location of the key word\nin the basic texts. In the case of the SV, the HB and the VN, the first three figures\nindicate the page number, and the last two indicate the line number (for example,\nSV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the\nPV and the NB, the second figure indicates the chapter number and the last three\nfigures indicate the karika or sutra number (for example, PV02232=PV, the\nPramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra 15.\nIn the case of the SP, the last two figures indicate the karika number (for example,\nSP00015=SP, v.15)."
+          "text": "A number of five figures at the left side indicates the location of the key word\nin the basic texts. In the case of the SV, the HB and the VN, the first three figures\nindicate the page number, and the last two indicate the line number (for example,\nSV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the\nPV and the NB, the second figure indicates the chapter number and the last three\nfigures indicate the karika or sutra number (for example, PV02232=PV, the\nPramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra 15.\nIn the case of the SP, the last two figures indicate the karika number (for example,\nSP00015=SP, v.15).",
+          "segment_number": 2
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3. In this database, sentences are artificially divided into word-units, although they\ninvolve a phonetic fusion or union in the basic texts. Further, compound words are\ndivided into their shortest constitutive elements (we use a hyphen to indicate that\nhyphenated elements originally form a compound word) with the following\nexceptions:"
+          "text": "3. In this database, sentences are artificially divided into word-units, although they\ninvolve a phonetic fusion or union in the basic texts. Further, compound words are\ndivided into their shortest constitutive elements (we use a hyphen to indicate that\nhyphenated elements originally form a compound word) with the following\nexceptions:",
+          "segment_number": 3
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of attachment to\nwords or compound words."
+          "text": "3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of attachment to\nwords or compound words.",
+          "segment_number": 4
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But suffixes\nmaking a possessive adjective, for example -vat, -mat, remain undivided, and terms\nsuch as a numeral+ -dha/-vidha/-prakara remain also undivided."
+          "text": "3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But suffixes\nmaking a possessive adjective, for example -vat, -mat, remain undivided, and terms\nsuch as a numeral+ -dha/-vidha/-prakara remain also undivided.",
+          "segment_number": 5
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta fundamentally\nremain undivided. For example: karyakaranabhava/-bhuta/-ta."
+          "text": "3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta fundamentally\nremain undivided. For example: karyakaranabhava/-bhuta/-ta.",
+          "segment_number": 6
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the\nwordhead fundamentally remain undivided. For example: evamjatiya, tadutpatti,\ntathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava."
+          "text": "3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the\nwordhead fundamentally remain undivided. For example: evamjatiya, tadutpatti,\ntathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.",
+          "segment_number": 7
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "3.5. Some compound words which are regarded as terminology remain also\nundivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,\nparamartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,\nsamtanaparinama, samanyalaksana, svabhavapratibandha."
+          "text": "3.5. Some compound words which are regarded as terminology remain also\nundivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,\nparamartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,\nsamtanaparinama, samanyalaksana, svabhavapratibandha.",
+          "segment_number": 8
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "4. Those terms whose wordhead is subject to the Sandhi rules (for example, -d\ndhetu-) are cited in their original form (for example, -d *hetu-) for the sake of\nusing this database to make an KWIC index."
+          "text": "4. Those terms whose wordhead is subject to the Sandhi rules (for example, -d\ndhetu-) are cited in their original form (for example, -d *hetu-) for the sake of\nusing this database to make an KWIC index.",
+          "segment_number": 9
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "1. August. 1997 / Tsukuba\nMotoi ONO"
+          "text": "1. August. 1997 / Tsukuba\nMotoi ONO",
+          "segment_number": 10
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "Note:\n  This database is quite a tentative one, and I must admit that there are a lot of\nerrors and defects in this version. I would appreciate it very much if the user would\npoint out any errors in this version so that we can make a better new version in the\nfuture."
+          "text": "Note:\n  This database is quite a tentative one, and I must admit that there are a lot of\nerrors and defects in this version. I would appreciate it very much if the user would\npoint out any errors in this version so that we can make a better new version in the\nfuture.",
+          "segment_number": 11
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "E-mail: ono@logos.tsukuba.ac.jp"
+          "text": "E-mail: ono@logos.tsukuba.ac.jp",
+          "segment_number": 12
         }
       ]
     },
@@ -108,7 +120,8 @@
         {
           "tag": "p",
           "attributes": {},
-          "text": "00001 pāratantryaṃ hi sambandhaḥ siddhe kā paratantratā\n00001 tasmāt sarvasya bhāvasya sambandho na asti tattvataḥ\n00002 rūpa-śleṣo hi sambandho dvitve sa ca kathaṃ bhavet\n00002 tasmāt prakṛti-bhinnānāṃ sambandho na asti tattvataḥ\n00003 para-apekṣā hi sambandhaḥ so asan katham apekṣate\n00003 saṃś ca sarva-nirāśaṃso bhāvaḥ katham apekṣate\n00004 dvayor eka-abhisambandhāt sambandho yadi tad-dvayoḥ\n00004 kaḥ sambandho anavasthā ca na sambandha-matis tathā\n00005 tau ca bhāvau tad-anyaś ca sarve te sva-ātmani sthitāḥ\n00005 ity amiśrāḥ svayaṃ bhāvās tān miśrayati kalpanā\n00006 tām eva ca anurundhānaiḥ kriyā-kāraka-vācinaḥ\n00006 bhāva-bheda-pratīty-arthaṃ saṃyojyante abhidhāyakāḥ\n00007 kāryakāraṇabhāvo api tayor asahabhāvataḥ\n00007 prasiddhyati kathaṃ dviṣṭho adviṣṭhe sambandhatā katham\n00008 krameṇa bhāva ekatra vartamāṇo anya-nispṛhaḥ\n00008 tadbhāve api tad-bhāvāt sambandho na eka-vṛttimān\n00009 yady apekṣya tayor ekam anyatra asau pravartate\n00009 upakārī hy apekṣyaḥ syāt kathaṃ ca upakaroty asan\n00010 yady eka-artha-abhisambandhāt kāryakāraṇatā tayoḥ\n00010 prāptā dvitva-ādi-sambandhāt savyetara-viśāṇayoḥ\n00011 dviṣṭho hi kaścit sambandho na ato anyat tasya lakṣaṇam\n00011 bhāva-abhāva-upadhir yogaḥ kāryakāraṇatā yadi\n00012 yoga-upādhī na tāv eva kāryakāraṇatā atra kim\n00012 bhedāc cen nanv ayaṃ śabdo niyoktāraṃ samāśritaḥ\n00013 paśyann ekam adṛṣṭasya darśane tad-adarśane\n00013 apaśyat kāryam anveti vinā vyākhyātṛbhir janaḥ\n00014 darśanād adarśane muktvā kārya-buddher asambhavāt\n00014 kārya-ādi-śrutir apy atra lāghava-arthaṃ niveśitā\n00015 tad-bhāva-abhāvāt tat-kārya-gatir yā apy anuvarṇyate\n00015 saṃketa-viṣaya-ākhyā sā sāsnā-āder go-gatir yathā\n00016 bhāve bhāvini tad-bhāvo bhāva eva ca bhāvitā\n00016 prasiddhe hetu-phalate pratyakṣa-anupalambhataḥ\n00017 etāvanmātra-tattva-arthāḥ kārya-kāraṇa-gocarāḥ\n00017 vikalpā darśayanty arthān mithyā-arthā ghaṭitān iva\n00018 bhinne kā ghaṭanā abhinne kāryakāraṇatā api kā\n00018 bhāve hy anyasya viśliṣṭau śilaṣṭau syātāṃ kathaṃ ca tau\n00019 saṃyogi-samavāyya-ādi sarvam etena cintitam\n00019 anyonya-anupakārāc ca na sambandhī ca tādṛśaḥ\n00020 janane api hi kāryasya kenacit samavāyinā\n00020 samavāyī tadā na asau na tato atiprasaṅgataḥ\n00021 tayor anupakāre api samavāye paratra vā\n00021 sambandho yadi viśvaṃ syāt samavāyi parasparam\n00022 saṃyoga-janane api iṣṭau tataḥ saṃyoginau na tau\n00022 karma-ādi-yogita-āpatteḥ sthiteś ca prativarṇitā\n00023 saṃyoga-ādy-āśraye yogyam ayogyaṃ tac ca jāyate\n00023 nityaṃ yogya-svabhāvasya tad-vaikalya-virodhataḥ\n00024 iti tad-yogyatā-vācyaḥ svabhāvo asya nirucyatām\n00024 vibhāga-yoga-gatibhiḥ kim anyair gamana-ādibhiḥ\n00025 teṣu satsv api tasya iti sambandhasya aprasiddhitaḥ\n00025 yuktaḥ svabhāva-bhedo ayam tat pratikṣaṇa-janmanām"
+          "text": "00001 pāratantryaṃ hi sambandhaḥ siddhe kā paratantratā\n00001 tasmāt sarvasya bhāvasya sambandho na asti tattvataḥ\n00002 rūpa-śleṣo hi sambandho dvitve sa ca kathaṃ bhavet\n00002 tasmāt prakṛti-bhinnānāṃ sambandho na asti tattvataḥ\n00003 para-apekṣā hi sambandhaḥ so asan katham apekṣate\n00003 saṃś ca sarva-nirāśaṃso bhāvaḥ katham apekṣate\n00004 dvayor eka-abhisambandhāt sambandho yadi tad-dvayoḥ\n00004 kaḥ sambandho anavasthā ca na sambandha-matis tathā\n00005 tau ca bhāvau tad-anyaś ca sarve te sva-ātmani sthitāḥ\n00005 ity amiśrāḥ svayaṃ bhāvās tān miśrayati kalpanā\n00006 tām eva ca anurundhānaiḥ kriyā-kāraka-vācinaḥ\n00006 bhāva-bheda-pratīty-arthaṃ saṃyojyante abhidhāyakāḥ\n00007 kāryakāraṇabhāvo api tayor asahabhāvataḥ\n00007 prasiddhyati kathaṃ dviṣṭho adviṣṭhe sambandhatā katham\n00008 krameṇa bhāva ekatra vartamāṇo anya-nispṛhaḥ\n00008 tadbhāve api tad-bhāvāt sambandho na eka-vṛttimān\n00009 yady apekṣya tayor ekam anyatra asau pravartate\n00009 upakārī hy apekṣyaḥ syāt kathaṃ ca upakaroty asan\n00010 yady eka-artha-abhisambandhāt kāryakāraṇatā tayoḥ\n00010 prāptā dvitva-ādi-sambandhāt savyetara-viśāṇayoḥ\n00011 dviṣṭho hi kaścit sambandho na ato anyat tasya lakṣaṇam\n00011 bhāva-abhāva-upadhir yogaḥ kāryakāraṇatā yadi\n00012 yoga-upādhī na tāv eva kāryakāraṇatā atra kim\n00012 bhedāc cen nanv ayaṃ śabdo niyoktāraṃ samāśritaḥ\n00013 paśyann ekam adṛṣṭasya darśane tad-adarśane\n00013 apaśyat kāryam anveti vinā vyākhyātṛbhir janaḥ\n00014 darśanād adarśane muktvā kārya-buddher asambhavāt\n00014 kārya-ādi-śrutir apy atra lāghava-arthaṃ niveśitā\n00015 tad-bhāva-abhāvāt tat-kārya-gatir yā apy anuvarṇyate\n00015 saṃketa-viṣaya-ākhyā sā sāsnā-āder go-gatir yathā\n00016 bhāve bhāvini tad-bhāvo bhāva eva ca bhāvitā\n00016 prasiddhe hetu-phalate pratyakṣa-anupalambhataḥ\n00017 etāvanmātra-tattva-arthāḥ kārya-kāraṇa-gocarāḥ\n00017 vikalpā darśayanty arthān mithyā-arthā ghaṭitān iva\n00018 bhinne kā ghaṭanā abhinne kāryakāraṇatā api kā\n00018 bhāve hy anyasya viśliṣṭau śilaṣṭau syātāṃ kathaṃ ca tau\n00019 saṃyogi-samavāyya-ādi sarvam etena cintitam\n00019 anyonya-anupakārāc ca na sambandhī ca tādṛśaḥ\n00020 janane api hi kāryasya kenacit samavāyinā\n00020 samavāyī tadā na asau na tato atiprasaṅgataḥ\n00021 tayor anupakāre api samavāye paratra vā\n00021 sambandho yadi viśvaṃ syāt samavāyi parasparam\n00022 saṃyoga-janane api iṣṭau tataḥ saṃyoginau na tau\n00022 karma-ādi-yogita-āpatteḥ sthiteś ca prativarṇitā\n00023 saṃyoga-ādy-āśraye yogyam ayogyaṃ tac ca jāyate\n00023 nityaṃ yogya-svabhāvasya tad-vaikalya-virodhataḥ\n00024 iti tad-yogyatā-vācyaḥ svabhāvo asya nirucyatām\n00024 vibhāga-yoga-gatibhiḥ kim anyair gamana-ādibhiḥ\n00025 teṣu satsv api tasya iti sambandhasya aprasiddhitaḥ\n00025 yuktaḥ svabhāva-bhedo ayam tat pratikṣaṇa-janmanām",
+          "segment_number": 13
         }
       ]
     }
