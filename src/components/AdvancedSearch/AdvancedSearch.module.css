@@ -334,3 +334,15 @@
   font-size: 16px;
   color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
 }
+
+
+
+
+.mainSearchInput:focus {
+  border-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-coolOrange-6));
+  box-shadow: 0 0 0 2px light-dark(
+    var(--mantine-color-lightscale-2), 
+    rgba(var(--mantine-color-coolOrange-4-rgb), 0.2)
+  );
+  outline: none;
+}

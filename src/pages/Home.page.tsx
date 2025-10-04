@@ -60,6 +60,7 @@ import { useContainerHeadroom } from '../hooks/useHeadroom';
 import { fetchBookText } from '../utils/apiService';
 
 import ResizablePanel from '../components/ResizeHandler';
+import { set } from 'lodash';
 
 // unused
 interface Translation {
@@ -206,7 +207,7 @@ export function HomePage() {
   useEffect(() => {
     if (bookTitle) {
       const fetchData = async () => {
-        try {
+        /*try {
           setIsLoadingBook(true);
 
           try {
@@ -227,11 +228,23 @@ export function HomePage() {
           console.error('Error loading book:', error);
         } finally {
           setIsLoadingBook(false);
-          console.log('book text:', bookText);
+        }
+      };*/
+        try {
+            setIsLoadingBook(true);
+            setBookText({}); // Clear previous book text
+            const response = await fetch(`/public/resources/books/${bookTitle}.json`);
+            const data = await response.json();
+            setBookText(data);
+          }  catch (error) {
+          console.error('Error loading book:', error);
+        } finally {
+          setIsLoadingBook(false);
         }
       };
 
       fetchData();
+      console.log('book text:', bookText);
     }
   }, [bookTitle]);
 
@@ -671,6 +684,7 @@ export function HomePage() {
           close: classes.modalClose,
           body: classes.modalBody,
         }}
+        trapFocus={false}
       >
         <AdvancedSearch
           advancedSearchResults={advancedSearchResults}

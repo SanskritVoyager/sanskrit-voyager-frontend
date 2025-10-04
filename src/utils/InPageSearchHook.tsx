@@ -1,4 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
+import Mark from 'mark.js';
+import { useDebouncedValue, useHotkeys } from '@mantine/hooks';
 
 interface UseInPageSearchProps {
   containerRef: React.RefObject<HTMLDivElement>;
@@ -12,218 +14,175 @@ export const useInPageSearch = ({
   onMatchedSegmentsChange
 }: UseInPageSearchProps) => {
   const [searchQuery, setSearchQuery] = useState('');
+  const [debounced] = useDebouncedValue(searchQuery, 200);
+  const extraDiacritics = [
+  { base: 'm', letters: 'ṃṁ' }, // add dot-below/above m
+  { base: 's', letters: 'śṣ' },
+];
+
+
+
   const [isSearchVisible, setIsSearchVisible] = useState(false);
   const [currentMatchIndex, setCurrentMatchIndex] = useState(0);
   const [totalMatches, setTotalMatches] = useState(0);
-  const matchedElementsRef = useRef<HTMLElement[]>([]);
+  
+  const markInstanceRef = useRef<Mark | null>(null);
+  const matchedElementsRef = useRef<Element[]>([]);
   const previousQueryRef = useRef('');
 
-  // Clean up previous highlights
-  const clearHighlights = useCallback(() => {
-    if (!containerRef.current) return;
-    
-    const highlights = containerRef.current.querySelectorAll('.search-highlight');
-    highlights.forEach(element => {
-      const parent = element.parentNode;
-      if (parent) {
-        // Replace the highlighted span with its text content
-        const textNode = document.createTextNode(element.textContent || '');
-        parent.replaceChild(textNode, element);
-        // Normalize to merge adjacent text nodes
-        parent.normalize();
+  // Helper function to resolve segment number from an element
+  const resolveSegmentFromElement = useCallback((element: Element): number | null => {
+    // 1. Check if any existing segmentRef contains this element
+    for (const [segNum, segEl] of segmentRefs.current.entries()) {
+      if (segEl === element || segEl.contains(element) || element.contains(segEl)) {
+        return segNum;
       }
-    });
-    
-    matchedElementsRef.current = [];
-  }, [containerRef]);
+    }
 
-  // Find and highlight matches
+    // 2. Try data-segment-number attribute
+    let currentElement: Element | null = element;
+    while (currentElement) {
+      const segmentAttr = currentElement.getAttribute('data-segment-number');
+      if (segmentAttr) {
+        const parsed = parseInt(segmentAttr, 10);
+        if (!isNaN(parsed) && parsed > 0) return parsed;
+      }
+      currentElement = currentElement.parentElement;
+    }
+
+    // 3. Try id="segment-###"
+    currentElement = element;
+    while (currentElement) {
+      if (currentElement.id?.startsWith('segment-')) {
+        const parsed = parseInt(currentElement.id.replace('segment-', ''), 10);
+        if (!isNaN(parsed)) return parsed;
+      }
+      currentElement = currentElement.parentElement;
+    }
+
+    // 4. Look for lineContainer class
+    currentElement = element;
+    while (currentElement) {
+      if (
+        currentElement.className &&
+        typeof currentElement.className === 'string' &&
+        currentElement.className.includes('lineContainer')
+      ) {
+        // Try to resolve from lineContainer
+        for (const [segNum, segEl] of segmentRefs.current.entries()) {
+          if (segEl === currentElement || segEl.contains(currentElement) || currentElement.contains(segEl)) {
+            return segNum;
+          }
+        }
+      }
+      currentElement = currentElement.parentElement;
+    }
+
+    return null;
+  }, [segmentRefs]);
+
+  // Find and highlight matches using Mark.js
   const findMatches = useCallback((query: string) => {
     if (!containerRef.current || !query.trim()) {
-      clearHighlights();
+      if (markInstanceRef.current) {
+        markInstanceRef.current.unmark();
+      }
+      matchedElementsRef.current = [];
       setTotalMatches(0);
+      setCurrentMatchIndex(0);
       onMatchedSegmentsChange([]);
       return;
     }
 
-    // Clear previous highlights
-    clearHighlights();
-    
-    const matchedSegmentNumbers = new Set<number>();
-    const newMatchedElements: HTMLElement[] = [];
-
-    
-    // Create a regex for the search (case-insensitive)
-    const regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
-    
-
-        const resolveSegmentFromLineContainer = (el: HTMLElement | null): number | null => {
-      if (!el) return null;
-
-      // 1. If any existing segmentRef contains this line container, use that key
-      for (const [segNum, segEl] of segmentRefs.current.entries()) {
-        if (segEl === el || segEl.contains(el) || el.contains(segEl)) {
-          return segNum;
-        }
-      }
-
-      // 2. Try id="segment-###" on this element or its parent
-      if (el.id?.startsWith('segment-')) {
-        const n = parseInt(el.id.replace('segment-', ''), 10);
-        if (!isNaN(n)) return n;
-      }
-      if (el.parentElement?.id?.startsWith('segment-')) {
-        const n = parseInt(el.parentElement.id.replace('segment-', ''), 10);
-        if (!isNaN(n)) return n;
-      }
-
-      // 3. Last resort: look upward one more level for a numeric pattern
-      let p: HTMLElement | null = el.parentElement;
-      while (p) {
-        if (p.id?.startsWith('segment-')) {
-          const n = parseInt(p.id.replace('segment-', ''), 10);
-            if (!isNaN(n)) return n;
-        }
-        p = p.parentElement;
-      }
-      return null;
-    };
-
-    const walkTextNodes = (node: Node) => {
-      if (node.nodeType === Node.TEXT_NODE) {
-        const text = node.textContent || '';
-        const matches = [...text.matchAll(regex)];
-
-        if (matches.length > 0) {
-          // ORIGINAL: look for data-segment-number
-            let segmentElement: HTMLElement | null = node.parentElement;
-            while (segmentElement && !segmentElement.hasAttribute('data-segment-number')) {
-              segmentElement = segmentElement.parentElement;
-            }
-
-            let segmentNumber: number | null = null;
-            if (segmentElement && segmentElement.hasAttribute('data-segment-number')) {
-              const parsed = parseInt(segmentElement.getAttribute('data-segment-number') || '0', 10);
-              if (!isNaN(parsed) && parsed > 0) segmentNumber = parsed;
-            }
-
-            // FALLBACK: no data attribute found, try line container ancestor
-            if (segmentNumber == null) {
-              // climb from original parent again to find a line container class
-              let lineContainer: HTMLElement | null = (node.parentElement as HTMLElement | null);
-              while (lineContainer) {
-                if (
-                  lineContainer.className &&
-                  typeof lineContainer.className === 'string' &&
-                  lineContainer.className.includes('lineContainer')
-                ) {
-                  segmentNumber = resolveSegmentFromLineContainer(lineContainer);
-                  if (segmentNumber != null) break;
-                }
-                lineContainer = lineContainer.parentElement;
-              }
-            }
-
-            if (segmentNumber != null) {
-              matchedSegmentNumbers.add(segmentNumber);
-            }
-
-          // Highlight text (unchanged)
-          const fragment = document.createDocumentFragment();
-          let lastIndex = 0;
-          matches.forEach((match) => {
-            const matchIndex = match.index!;
-            if (matchIndex > lastIndex) {
-              fragment.appendChild(document.createTextNode(text.substring(lastIndex, matchIndex)));
-            }
-            const highlightSpan = document.createElement('span');
-            highlightSpan.className = 'search-highlight';
-            highlightSpan.style.backgroundColor = 'rgba(255, 235, 59, 0.5)';
-            highlightSpan.style.color = 'inherit';
-            highlightSpan.style.borderRadius = '2px';
-            highlightSpan.style.padding = '0 2px';
-            highlightSpan.textContent = match[0];
-            fragment.appendChild(highlightSpan);
-            newMatchedElements.push(highlightSpan);
-            lastIndex = matchIndex + match[0].length;
-          });
-          if (lastIndex < text.length) {
-            fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
-          }
-          if (node.parentNode) {
-            node.parentNode.replaceChild(fragment, node);
-          }
-        }
-      } else if (node.nodeType === Node.ELEMENT_NODE) {
-        const element = node as HTMLElement;
-        if (
-          !['SCRIPT', 'STYLE', 'NOSCRIPT'].includes(element.tagName) &&
-          !element.classList.contains('search-highlight')
-        ) {
-          Array.from(node.childNodes).forEach(child => walkTextNodes(child));
-        }
-      }
-    };
-
-    walkTextNodes(containerRef.current);
-
-    matchedElementsRef.current = newMatchedElements;
-    setTotalMatches(newMatchedElements.length);
-    setCurrentMatchIndex(newMatchedElements.length > 0 ? 0 : -1);
-
-    if (newMatchedElements.length > 0) {
-      newMatchedElements[0].style.backgroundColor = 'rgba(255, 152, 0, 0.6)';
-      newMatchedElements[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    // Create Mark instance if needed
+    if (!markInstanceRef.current) {
+      markInstanceRef.current = new Mark(containerRef.current);
     }
 
-    onMatchedSegmentsChange(Array.from(matchedSegmentNumbers));
-    console.log(
-      'Matched Segments from In-Page Search:',
-      Array.from(matchedSegmentNumbers)
-    );
-  }, [containerRef, clearHighlights, onMatchedSegmentsChange, segmentRefs]);
+    // Clear previous highlights
+    markInstanceRef.current.unmark({
+      done: () => {
+        const matchedSegmentNumbers = new Set<number>();
+        const newMatchedElements: Element[] = [];
+
+        // Mark the search query
+        markInstanceRef.current!.mark(query, {
+          className: 'search-highlight',
+          caseSensitive: false,
+          separateWordSearch: false,
+          //acrossElements: true,
+          diacritics: true, // Enable diacritics insensitivity
+          synonyms: { 'ṃ': 'm', 'ṁ': 'm', 'ḥ': 'h', 'ś': 's', 'ṣ': 's', 'ṭ': 't', 'ṛ': 'r', 'ṇ': 'n' }, // Basic Sanskrit diacritics
+
+          accuracy: 'complementary', // Improved matching for diacritics
+          each: (element) => {
+            newMatchedElements.push(element);
+            
+            // Resolve segment number for this match
+            const segmentNumber = resolveSegmentFromElement(element);
+            if (segmentNumber !== null) {
+              matchedSegmentNumbers.add(segmentNumber);
+            }
+          },
+          done: (totalMarks) => {
+            matchedElementsRef.current = newMatchedElements;
+            setTotalMatches(totalMarks);
+            
+            // Update matched segments
+            const segmentArray = Array.from(matchedSegmentNumbers);
+            onMatchedSegmentsChange(segmentArray);
+            console.log('Matched Segments from In-Page Search:', segmentArray);
+            
+            // Highlight and scroll to first match
+            if (newMatchedElements.length > 0) {
+              setCurrentMatchIndex(0);
+              newMatchedElements[0].classList.add('search-highlight-current');
+              newMatchedElements[0].scrollIntoView({ behavior: 'smooth', block: 'center' });
+            } else {
+              setCurrentMatchIndex(0);
+            }
+          }
+        });
+      }
+    });
+  }, [containerRef, onMatchedSegmentsChange, resolveSegmentFromElement]);
 
   // Navigate to next match
   const goToNextMatch = useCallback(() => {
-    if (matchedElementsRef.current.length === 0) return;
+    const matches = matchedElementsRef.current;
+    if (matches.length === 0) return;
     
-    // Reset previous current match style
-    if (currentMatchIndex >= 0 && currentMatchIndex < matchedElementsRef.current.length) {
-      matchedElementsRef.current[currentMatchIndex].style.backgroundColor = 'rgba(255, 235, 59, 0.5)';
-    }
+    // Remove current highlight
+    matches[currentMatchIndex]?.classList.remove('search-highlight-current');
     
     // Calculate next index
-    const nextIndex = (currentMatchIndex + 1) % matchedElementsRef.current.length;
+    const nextIndex = (currentMatchIndex + 1) % matches.length;
     setCurrentMatchIndex(nextIndex);
     
-    // Highlight and scroll to new current match
-    matchedElementsRef.current[nextIndex].style.backgroundColor = 'rgba(255, 152, 0, 0.6)';
-    matchedElementsRef.current[nextIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    // Apply new highlight and scroll
+    matches[nextIndex].classList.add('search-highlight-current');
+    matches[nextIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
   }, [currentMatchIndex]);
 
   // Navigate to previous match
   const goToPreviousMatch = useCallback(() => {
-    if (matchedElementsRef.current.length === 0) return;
+    const matches = matchedElementsRef.current;
+    if (matches.length === 0) return;
     
-    // Reset previous current match style
-    if (currentMatchIndex >= 0 && currentMatchIndex < matchedElementsRef.current.length) {
-      matchedElementsRef.current[currentMatchIndex].style.backgroundColor = 'rgba(255, 235, 59, 0.5)';
-    }
+    // Remove current highlight
+    matches[currentMatchIndex]?.classList.remove('search-highlight-current');
     
     // Calculate previous index
-    const prevIndex = currentMatchIndex <= 0 
-      ? matchedElementsRef.current.length - 1 
-      : currentMatchIndex - 1;
+    const prevIndex = currentMatchIndex === 0 ? matches.length - 1 : currentMatchIndex - 1;
     setCurrentMatchIndex(prevIndex);
     
-    // Highlight and scroll to new current match
-    matchedElementsRef.current[prevIndex].style.backgroundColor = 'rgba(255, 152, 0, 0.6)';
-    matchedElementsRef.current[prevIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
+    // Apply new highlight and scroll
+    matches[prevIndex].classList.add('search-highlight-current');
+    matches[prevIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
   }, [currentMatchIndex]);
 
-  // Handle search query changes
+  // Handle search query changes with debouncing
   useEffect(() => {
-    // Debounce the search
     const timeoutId = setTimeout(() => {
       if (searchQuery !== previousQueryRef.current) {
         findMatches(searchQuery);
@@ -234,48 +193,37 @@ export const useInPageSearch = ({
     return () => clearTimeout(timeoutId);
   }, [searchQuery, findMatches]);
 
-  // Set up keyboard shortcut (Ctrl+F)
-  useEffect(() => {
-    const handleKeyDown = (e: KeyboardEvent) => {
-      // Ctrl+F or Cmd+F
-      if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
-        e.preventDefault();
-        setIsSearchVisible(prev => !prev);
-      }
-      
-      // Escape to close search
-      if (e.key === 'Escape' && isSearchVisible) {
+  useHotkeys([
+    ['mod+F', () => setIsSearchVisible(prev => !prev)],
+    ['Escape', () => {
+      if (isSearchVisible) {
         setIsSearchVisible(false);
-        clearHighlights();
-        setSearchQuery('');
-        onMatchedSegmentsChange([]);
       }
-      
-      // Enter to go to next match (when search is active)
-      if (e.key === 'Enter' && isSearchVisible && !e.shiftKey) {
-        e.preventDefault();
-        goToNextMatch();
-      }
-      
-      // Shift+Enter to go to previous match
-      if (e.key === 'Enter' && isSearchVisible && e.shiftKey) {
-        e.preventDefault();
-        goToPreviousMatch();
-      }
-    };
-
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isSearchVisible, clearHighlights, goToNextMatch, goToPreviousMatch, onMatchedSegmentsChange]);
+    }],
+  ]);
 
   // Clear highlights when search is closed
   useEffect(() => {
     if (!isSearchVisible) {
-      clearHighlights();
+      if (markInstanceRef.current) {
+        markInstanceRef.current.unmark();
+      }
+      matchedElementsRef.current = [];
       setSearchQuery('');
+      setTotalMatches(0);
+      setCurrentMatchIndex(0);
       onMatchedSegmentsChange([]);
     }
-  }, [isSearchVisible, clearHighlights, onMatchedSegmentsChange]);
+  }, [isSearchVisible, onMatchedSegmentsChange]);
+
+  // Cleanup on unmount
+  useEffect(() => {
+    return () => {
+      if (markInstanceRef.current) {
+        markInstanceRef.current.unmark();
+      }
+    };
+  }, []);
 
   return {
     searchQuery,
@@ -287,8 +235,13 @@ export const useInPageSearch = ({
     goToNextMatch,
     goToPreviousMatch,
     clearSearch: () => {
-      clearHighlights();
+      if (markInstanceRef.current) {
+        markInstanceRef.current.unmark();
+      }
+      matchedElementsRef.current = [];
       setSearchQuery('');
+      setTotalMatches(0);
+      setCurrentMatchIndex(0);
       onMatchedSegmentsChange([]);
     }
   };

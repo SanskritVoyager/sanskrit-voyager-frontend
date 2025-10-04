@@ -17,20 +17,7 @@ const SearchInputComponent = React.memo(
   ({ handleSearch, isLoading, classes, setQuery, currentInput, autofocus }: SearchInputProps) => {
     const [inputValue, setInputValue] = useState('');
 
-      const inputRef = useRef<HTMLInputElement>(null);
-
-      // Auto-focus effect
-      useEffect(() => {
-        if (autofocus && inputRef.current) {
-          // Small timeout to ensure the modal transition has started
-          const timeoutId = setTimeout(() => {
-            inputRef.current?.focus();
-            inputRef.current?.select(); // Optional: also select the text
-          }, 100);
-          
-          return () => clearTimeout(timeoutId);
-        }
-      }, [autofocus]);
+    
 
     return (
       <TextInput
@@ -39,6 +26,7 @@ const SearchInputComponent = React.memo(
         value={inputValue}
         autoCapitalize="off"
         autoCorrect="off"
+        autoFocus
         spellCheck={false}
         onChange={(event) => {
           const value = event.currentTarget.value;

@@ -288,7 +288,7 @@ mark:hover {
   height: calc(100vh - 56px);
   width: 16px; /* Width for the marker area */
   pointer-events: none; /* Let scrollbar events pass through */
-  z-index: 999; /* High z-index as requested */
+  z-index: 40; /* High z-index as requested */
 
 }
 
@@ -317,6 +317,12 @@ mark:hover {
   opacity: 0.7;
 }
 
+.searchMatchMarker {
+  background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-palette-2)); /* Search match color */
+    opacity: 0.1;
+    width: 4px;
+
+}
 
 
 

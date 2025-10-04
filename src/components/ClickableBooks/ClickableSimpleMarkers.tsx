@@ -16,7 +16,7 @@ interface ScrollMarkersProps {
 interface SegmentMarker {
   segmentNumber: number;
   positionPercent: number;
-  isSearchMatch?: boolean;
+  isSearchMatch: boolean;
 }
 
 const ScrollMarkers: React.FC<ScrollMarkersProps> = ({ 
@@ -41,12 +41,23 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
 
   // Calculate marker positions with type information
   const calculateMarkerPositions = useThrottledCallback(() => {
-    if (!containerRef.current) return;
-    
+    console.log('[Markers] Attempting to calculate positions...');
+
+    if (!containerRef.current) {
+      console.log('[Markers] Aborting: containerRef is null.');
+      return;
+    }
+
     const container = containerRef.current;
     const totalHeight = container.scrollHeight;
     
-    const segmentPositions = matchedBookSegments
+    // Combine both matched segments and search matched segments
+    const allSegments = new Set([...matchedBookSegments, ...searchMatchedSegments]);
+    
+    console.log(`[Markers] segmentRefs map size: ${segmentRefs.current.size}`);
+    console.log(`[Markers] allSegments size: ${allSegments.size}`);
+
+    const segmentPositions = Array.from(allSegments)
       .map(segmentNumber => {
         const element = segmentRefs.current.get(segmentNumber);
         if (!element) return null;
@@ -56,7 +67,7 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
         return {
           segmentNumber,
           positionPercent: Math.max(0, Math.min(100, positionPercent)),
-          // Mark if this is from a search
+          // Mark if this is from in-page search
           isSearchMatch: searchMatchedSegments.includes(segmentNumber)
         };
       })
@@ -87,12 +98,16 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
 
   // Effect for recalculating positions
   useEffect(() => {
-    if (initialRenderComplete && matchedBookSegments.length > 0) {
+    const hasSegments = matchedBookSegments.length > 0 || searchMatchedSegments.length > 0;
+    console.log(`[Markers Effect] Running. initialRenderComplete: ${initialRenderComplete}, hasSegments: ${hasSegments}`);
+
+    
+    if (initialRenderComplete && hasSegments) {
       const timer = setTimeout(() => {
         calculateMarkerPositions();
       }, 500);
       return () => clearTimeout(timer);
-    } else if (matchedBookSegments.length === 0) {
+    } else if (!hasSegments) {
       setProcessedMatches([]);
     }
   }, [matchedBookSegments, searchMatchedSegments, initialRenderComplete, calculateMarkerPositions]);
@@ -115,13 +130,6 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
           segment.isSearchMatch ? classes.searchMatchMarker : ''
         }`;
         
-        // Different colors for different types
-        const backgroundColor = segment.isSearchMatch
-          ? 'var(--mantine-color-yellow-5)'  // Yellow for search matches
-          : isActive
-          ? 'var(--mantine-color-orange-6)'   // Orange for active
-          : 'var(--mantine-color-orange-4)';   // Light orange for normal
-        
         return (
           <div
             key={segment.segmentNumber}
@@ -129,7 +137,6 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
             className={markerClass}
             style={{ 
               top: `${segment.positionPercent}%`,
-              backgroundColor,
               height: segment.isSearchMatch ? '14px' : isActive ? '24px' : '12px',
               width: segment.isSearchMatch ? '10px' : '8px',
               opacity: isActive ? 0.8 : segment.isSearchMatch ? 0.7 : 0.5

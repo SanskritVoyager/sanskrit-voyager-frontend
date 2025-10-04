@@ -126,6 +126,12 @@ transform: rotate(20deg);
   }
 }
 
+/*
+.burgerBurger:active {
+  filter: brightness(1.2);
+  transition-duration: 0.2s;
+} */
+
 /* Animation only for the closed burger */
 .burgerBurger:not([data-opened]):hover {
 

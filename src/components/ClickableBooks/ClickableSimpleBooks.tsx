@@ -128,6 +128,8 @@ const ClickableSimpleBooks = ({
   useEffect(() => {
     segmentRefs.current = new Map();
     setInitialRenderComplete(false);
+    setMatchedBookSegments([]);
+    setSearchMatchedSegments([]);
     foundNotes.current = 0;
     console.log('Segment refs map and note counter reset due to book change');
   }, [bookText]);
@@ -519,6 +521,7 @@ const ClickableSimpleBooks = ({
   foundNotes.current = 0;
 
   console.log('matchedBookSegments:', matchedBookSegments);
+  console.log(`[Books] Rendering. Passing segmentRefs with size: ${segmentRefs.current.size} to ScrollMarkers.`);
 
   return (
     <div className={classes.bookContainer} ref={containerRef} style={{ position: 'relative' }}>
