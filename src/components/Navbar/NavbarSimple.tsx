@@ -85,25 +85,9 @@ export function NavbarSimple({
         </Group>*/}
 
         {/* Content from NavbarSimple moved here */}
-        <Stack 
-        gap="3px" 
-        justify="flex-end"
-        style={{         
-          paddingTop: isSmallMobile ? '30px' : '60px',
-          paddingBottom: isSmallMobile ? '6px' : '12px',
-
-        }}>
+        <Stack gap="3px" justify="flex-end">
 
           
-
-          <DictionarySelectComponent
-            selectedDictionaries={selectedDictionaries}
-            setSelectedDictionaries={setSelectedDictionaries}
-          />
-
-          <BookSelect setBookTitle={handleBookSelect} bookTitle={bookTitle} />
-
-
           <Select
             data={[
               { value: 'IAST', label: 'Romanic (IAST)' },
@@ -126,8 +110,16 @@ export function NavbarSimple({
             }}
             style={{
               width: '100%',
+              paddingTop: isSmallMobile ? '30px' : '60px',
             }}
           />
+
+          <DictionarySelectComponent
+            selectedDictionaries={selectedDictionaries}
+            setSelectedDictionaries={setSelectedDictionaries}
+          />
+
+          <BookSelect setBookTitle={handleBookSelect} bookTitle={bookTitle} />
 
           {bookTitle !== null && (
             <TranslationControl textType={textType} setTextType={setTextType} />

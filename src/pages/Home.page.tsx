@@ -233,7 +233,7 @@ export function HomePage() {
         try {
             setIsLoadingBook(true);
             setBookText({}); // Clear previous book text
-            const response = await fetch(`/public/resources/books/${bookTitle}.json`);
+            const response = await fetch(`/resources/books/${bookTitle}.json`);
             const data = await response.json();
             setBookText(data);
           }  catch (error) {
