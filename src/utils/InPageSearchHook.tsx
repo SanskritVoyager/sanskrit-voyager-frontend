@@ -110,7 +110,7 @@ export const useInPageSearch = ({
           className: 'search-highlight',
           caseSensitive: false,
           separateWordSearch: false,
-          //acrossElements: true,
+          acrossElements: true,
           diacritics: true, // Enable diacritics insensitivity
           synonyms: { 'ṃ': 'm', 'ṁ': 'm', 'ḥ': 'h', 'ś': 's', 'ṣ': 's', 'ṭ': 't', 'ṛ': 'r', 'ṇ': 'n' }, // Basic Sanskrit diacritics
 
