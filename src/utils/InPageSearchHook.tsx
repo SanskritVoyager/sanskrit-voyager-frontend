@@ -112,7 +112,8 @@ export const useInPageSearch = ({
           separateWordSearch: false,
           acrossElements: true,
           diacritics: true, // Enable diacritics insensitivity
-          synonyms: { 'ṃ': 'm', 'ṁ': 'm', 'ḥ': 'h', 'ś': 's', 'ṣ': 's', 'ṭ': 't', 'ṛ': 'r', 'ṇ': 'n' }, // Basic Sanskrit diacritics
+          synonyms: { 'ṃ': 'm', 'ṁ': 'm', 'ḥ': 'h', 'ś': 's', 'ṣ': 's', 'ṭ': 't', 'ṛ': 'r', 'ṇ': 'n', 'ḍ': 'd' }, // Basic Sanskrit diacritics
+
 
           accuracy: 'complementary', // Improved matching for diacritics
           each: (element) => {
