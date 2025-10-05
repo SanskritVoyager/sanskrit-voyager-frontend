@@ -58,7 +58,6 @@ interface AdvancedSearchProps {
     toggle: () => void;
   };
   setIsNavbarVisible: (value: boolean) => void;
-  isAdvancedSearchVisible: boolean;
 }
 
 function AdvancedSearch({
@@ -74,7 +73,6 @@ function AdvancedSearch({
   matchedBookSegments,
   handleAdvancedSearch,
   setIsNavbarVisible,
-  isAdvancedSearchVisible,
 }: AdvancedSearchProps) {
   const [queryType, setQueryType] = useState('stemmed');
   const [filterMode, setFilterMode] = useState('include');

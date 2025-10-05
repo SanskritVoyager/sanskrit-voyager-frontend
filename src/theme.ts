@@ -62,15 +62,15 @@ export const theme = createTheme({
       '#c05f3b', // 9: darkest
     ],
     palette: [
-      '#2c5282', // blue
-      '#ac3e3e', // red
-      '#008080', // teal
+      '#2c5282', // 1blue
+      '#ac3e3e', // 2red
+      '#008080', // 3teal
       '#f5f4ee',
       '#f3f3f0', // 4: your main color
-      '#f0eee5', // used
-      '#4C8EE0', // lighter blue1
-      '#91B0D7', // lighter blue2
-      '#D6E9FF', // lightest blue
+      '#f0eee5', // 5used
+      '#4C8EE0', // 6lighter blue1
+      '#91B0D7', // 7lighter blue2
+      '#D6E9FF', // 8lightest blue
       '#c05f3b', // 9: darkest
     ],
   },

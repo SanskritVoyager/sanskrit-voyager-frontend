@@ -42,7 +42,7 @@
 
 /* Highlight styles that will be applied by the hook */
 :global(.search-highlight) {
-  background-color: rgba(220, 184, 85, 0.674) !important;
+  background-color: light-dark(rgba(255, 235, 59, 0.3), rgba(255, 235, 59, 0.2)) !important;
   color: inherit !important;
   border-radius: 2px;
   padding: 0 2px;
@@ -50,16 +50,21 @@
 }
 
 :global(.search-highlight-current) {
-  background-color: rgba(198, 121, 53, 0.705) !important;
+  background-color: light-dark(rgba(255, 152, 0, 0.4), rgba(255, 153, 0, 0.205)) !important;
 }
 
-/* Dark mode overrides */
-@media (prefers-color-scheme: dark) {
-  :global(.search-highlight) {
-    background-color: rgba(64, 203, 175, 0.35) !important; /* slightly darker yellow */
-  }
-  :global(.search-highlight-current) {
-    background-color: transparent !important; /* slightly darker orange */
-    border-color: var(--mantine-color-teal-6) !important;
-  }
+/* Dark mode border for current highlight 
+border: 1px solid var(--mantine-color-palette-7);
+[data-mantine-color-scheme="dark"] :global(.search-highlight-current) {
+  
+  
 }
+
+/* Dark mode border for current highlight
+[data-mantine-color-scheme="dark"] :global(.search-highlight) {
+}
+
+*/
+
+
+

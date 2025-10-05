@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
-import { ActionToggle } from '../components/ColorSchemeToggle/ColorSchemeToggle';
+import { ActionToggle } from '../components/Header/ColorSchemeToggle/ColorSchemeToggle';
 import {
   Select,
   MultiSelect,
@@ -89,9 +89,7 @@ export function HomePage() {
   const [isWordInfoVisible, setIsWordInfoVisible] = useState(false);
   const [displayInflectionTables, setDisplayInflectionTables] = useState(false);
   const [isLoadingWordData, setIsLoadingWordData] = useState(false);
-
   const [isAdvancedSearchVisible, handleAdvancedSearch] = useDisclosure(false);
-
   const [isNavbarVisible, setIsNavbarVisible] = useState(true);
 
   // ----- Derived state -----
@@ -109,6 +107,7 @@ export function HomePage() {
   const shouldUseColumn = isMobile || (isTablet && isNavbarVisible);
 
   const [searchMatchedSegments, setSearchMatchedSegments] = useState<number[]>([]);
+  const [inPageSearchTrigger, setInPageSearchTrigger] = useState<boolean | undefined>(undefined);
 
 
   // ----- Constants -----
@@ -341,6 +340,8 @@ export function HomePage() {
           isMobile={isMobile}
           isNavbarVisible={isNavbarVisible}
           handleAdvancedSearch={handleAdvancedSearch}
+          onToggleInPageSearch={() => setInPageSearchTrigger(prev => !prev)}
+          bookTitle={bookTitle}
         />
       </div>
 
@@ -506,7 +507,7 @@ export function HomePage() {
                   setMatchedBookSegments={setMatchedBookSegments}
                   searchMatchedSegments={searchMatchedSegments}
                   setSearchMatchedSegments={setSearchMatchedSegments}
-
+                  inPageSearchTrigger={inPageSearchTrigger}
                 />
               </div>
             </Grid.Col>
@@ -704,7 +705,6 @@ export function HomePage() {
           setMatchedBookSegments={setMatchedBookSegments}
           handleAdvancedSearch={handleAdvancedSearch}
           setIsNavbarVisible={setIsNavbarVisible}
-          isAdvancedSearchVisible={isAdvancedSearchVisible}
         />
       </Modal>
 

@@ -29,6 +29,7 @@ interface ClickableSimpleBooksProps {
   setClickedAdditionalWord: (word: string) => void;
   searchMatchedSegments: number[];
   setSearchMatchedSegments: React.Dispatch<React.SetStateAction<number[]>>;
+  inPageSearchTrigger?: boolean | undefined;
 }
 
 const ClickableSimpleBooks = ({
@@ -43,7 +44,8 @@ const ClickableSimpleBooks = ({
   matchedBookSegments,
   setMatchedBookSegments,
   searchMatchedSegments,
-  setSearchMatchedSegments
+  setSearchMatchedSegments,
+  inPageSearchTrigger
 }: ClickableSimpleBooksProps) => {
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const highlightedSpanRef = useRef<HTMLElement | null>(null);
@@ -73,6 +75,13 @@ const ClickableSimpleBooks = ({
     segmentRefs,
     onMatchedSegmentsChange: setSearchMatchedSegments
   });
+
+  // Toggle search when trigger changes (undefined on mount means it won't trigger)
+  React.useEffect(() => {
+    if (inPageSearchTrigger !== undefined) {
+      setIsSearchVisible(prev => !prev);
+    }
+  }, [inPageSearchTrigger, setIsSearchVisible]);
 
   // Combine matched segments from different sources
   const combinedMatchedSegments = React.useMemo(() => {

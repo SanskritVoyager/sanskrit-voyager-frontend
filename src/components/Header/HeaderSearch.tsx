@@ -15,10 +15,11 @@ import {
 import { useDisclosure, useDebouncedState, useHotkeys } from '@mantine/hooks';
 import { IconSearch, IconListSearch, IconMessageCircle } from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
-import { ActionToggle } from '../ColorSchemeToggle/ColorSchemeToggle';
+import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
 import React, { useState, useEffect, useRef } from 'react';
 import Logo from '../../utils/logo';
-import SearchToggle from '../AdvancedSearch/AdvancedSearchToggle';
+import SearchToggle from './AdvancedSearchToggle';
+import SearchHighlightToggle from './SearchHighlightToggle';
 
 
 
@@ -48,6 +49,8 @@ export function HeaderSearch({
   isNavbarVisible,
   isMobile,
   handleAdvancedSearch,
+  onToggleInPageSearch,
+  bookTitle,
 }: {
   onSearch: (query: string) => void;
   onToggleNavbar: () => void;
@@ -58,6 +61,8 @@ export function HeaderSearch({
     close: () => void;
     toggle: () => void;
   };
+  onToggleInPageSearch?: () => void;
+  bookTitle?: string | null;
 }) {
   const [opened, { toggle }] = useDisclosure(isNavbarVisible);
   const [entries, setEntries] = useState([]);
@@ -183,6 +188,12 @@ export function HeaderSearch({
 
           <ActionToggle />
           <SearchToggle handleAdvancedSearch={handleAdvancedSearch} isMobile={isMobile} />
+          {bookTitle && !isMobile && (
+            <SearchHighlightToggle
+              isMobile={isMobile}
+              onToggle={onToggleInPageSearch}
+            />
+          )}
         </Group>
 
         <Group grow preventGrowOverflow={false} wrap="nowrap" className={classes.groupContainer}>
