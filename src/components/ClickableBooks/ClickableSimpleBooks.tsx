@@ -281,6 +281,8 @@ const ClickableSimpleBooks = ({
                 {words.map((word: string, wordIndex: number) => {
                   const trimmedWord = word.trim();
                   if (!trimmedWord) return null;
+                  // Skip rendering standalone pipes - they're just separators
+                  if (trimmedWord === '|' || trimmedWord === '||') return null;
                   return (
                     <BookSpan
                       key={`${segmentIndex}-${wordIndex}`}
@@ -307,7 +309,9 @@ const ClickableSimpleBooks = ({
     };
 
     const formatLabelId = (raw?: string): string | undefined =>
-      raw ? raw.replace(/^[^_]*_/, '') : raw;
+      /*raw ? raw.replace(/^[^_]*_/, '') : raw; old pattern, removed a lot */
+      raw ? raw.replace(/_/g, ' ') : raw; /* new pattern, just replace underscores with spaces */
+
 
     if (element.tag === 'lg') {
       const rawId = extractXmlId(element.attributes);
