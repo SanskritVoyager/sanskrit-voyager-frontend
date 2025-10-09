@@ -71,15 +71,20 @@ export const InPageSearch: React.FC<InPageSearchProps> = ({
           p="xs"
           radius="md"
         >
-          <Group gap="xs" wrap="nowrap" pr={8}>
+          <Group gap={4} wrap="nowrap" pl={4}>
             <TextInput
+              variant='unstyled'
               ref={inputRef}
-              placeholder="Search in text..."
               value={localQuery}
+              placeholder="Search in text..."
               autoFocus
               onChange={(e) => setLocalQuery(e.currentTarget.value)}
-              leftSection={<IconSearch size={16} />}
               className={classes.searchInput}
+              rightSection = {
+                <Text size="sm" c="dimmed" className={classes.matchCounter}>
+                {totalMatches > 0 ? `${currentMatchIndex + 1} / ${totalMatches}` : '0 / 0'}
+              </Text>
+              }
               onKeyDown={getHotkeyHandler([
                     ['Enter', () => {
                     onNext();
@@ -92,29 +97,25 @@ export const InPageSearch: React.FC<InPageSearchProps> = ({
             
             {/* Show counter if a search is active */}
             
-              <Text size="sm" c="dimmed" className={classes.matchCounter}>
-                {totalMatches > 0 ? `${currentMatchIndex + 1} / ${totalMatches}` : '0 / 0'}
-              </Text>
+              
             
             
             {/* Only show navigation arrows if there are matches */}
             
               <>
                 <ActionIcon
-                  className ={ classes.upIcon }
+                  className ={`${classes.upIcon} ${totalMatches === 0? classes.disabledIcon : ''}`}
                   variant="subtle"
-                  onClick={onPrevious}
-                  disabled={totalMatches === 0}
+                  onClick={totalMatches === 0 ? undefined : onPrevious}
                   title="Previous match (Shift+Enter)"
                 >
                   <IconChevronUp size={16} />
                 </ActionIcon>
                 
                 <ActionIcon
-                  className= { classes.downIcon }
+                  className= {`${classes.downIcon} ${totalMatches === 0? classes.disabledIcon : ''}`}
                   variant="subtle"
-                  onClick={onNext}
-                  disabled={totalMatches === 0}
+                  onClick={totalMatches === 0 ? undefined : onNext}
                   title="Next match (Enter)"
                 >
                   <IconChevronDown size={16} />

@@ -18,6 +18,7 @@ const HighlightText: React.FC<HighlightTextProps> = ({ text, query, isSearchResu
       instance.mark(searchTerms, {
         separateWordSearch: true,
         diacritics: true, // Enable diacritic insensitivity
+        synonyms: { 'ṃ': 'm', 'ṁ': 'm', 'ḥ': 'h', 'ś': 's', 'ṣ': 's', 'ṭ': 't', 'ṛ': 'r', 'ṇ': 'n', 'ḍ': 'd' }, // Basic Sanskrit diacritics
         accuracy: 'complementary', // Improved matching for diacritics
         caseSensitive: false, // Case insensitive matching
       });
