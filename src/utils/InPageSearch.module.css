@@ -30,6 +30,7 @@
   text-align: center;
   color: light-dark(var(--mantine-color-grey-6), var(--mantine-color-dark-3));
   padding-right: 16px;
+  padding-left: 24px;
 }
 
 /* Ensure words remain clickable even with marks inside */
