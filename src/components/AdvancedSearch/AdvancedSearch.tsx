@@ -192,6 +192,9 @@ function AdvancedSearch({
     matchedSegments?: number[]
   ) => {
     if (onOpenText) {
+      // Clear previous markers first, before setting new ones
+      setMatchedBookSegments([]);
+      
       if (advancedSearchResults) {
         if (advancedSearchResults.type === 'books') {
           // Find the book in search results

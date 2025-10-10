@@ -137,7 +137,8 @@ const ClickableSimpleBooks = ({
   useEffect(() => {
     segmentRefs.current = new Map();
     setInitialRenderComplete(false);
-    setMatchedBookSegments([]);
+    // Don't clear matchedBookSegments here - it's managed by the parent
+    // and should persist when opening a book from advanced search
     setSearchMatchedSegments([]);
     foundNotes.current = 0;
     console.log('Segment refs map and note counter reset due to book change');
