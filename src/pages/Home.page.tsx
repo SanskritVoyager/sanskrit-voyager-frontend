@@ -216,7 +216,7 @@ export function HomePage() {
             // If API fails, try the local resource
             console.log('API fetch failed, trying local resource');
             // for offline add /public/ for online remove it or it won't load the books
-            const response = await fetch(`/public/resources/books/${bookTitle}.json`);
+            const response = await fetch(`/resources/books/${bookTitle}.json`);
             if (!response.ok) {
               throw new Error(`Failed to fetch: ${response.status}`);
             }
