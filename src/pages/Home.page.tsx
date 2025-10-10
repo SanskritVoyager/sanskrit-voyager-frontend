@@ -206,7 +206,7 @@ export function HomePage() {
   useEffect(() => {
     if (bookTitle) {
       const fetchData = async () => {
-        /*try {
+        try {
           setIsLoadingBook(true);
 
           try {
@@ -228,7 +228,9 @@ export function HomePage() {
         } finally {
           setIsLoadingBook(false);
         }
-      };*/
+      };
+
+      /*
         try {
             setIsLoadingBook(true);
             setBookText({}); // Clear previous book text
@@ -241,11 +243,12 @@ export function HomePage() {
           setIsLoadingBook(false);
         }
       };
+      */
 
       fetchData();
       console.log('book text:', bookText);
     }
-  }, [bookTitle]);
+  }, [bookTitle]); 
 
   // Function to fetch a book from the API
   const fetchBookFromApi = async (title: string) => {
