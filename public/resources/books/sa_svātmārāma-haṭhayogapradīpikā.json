@@ -35,9 +35,9 @@
   },
   "body": [
     {
-      "tag": "p",
+      "tag": "ChapterTitle",
       "attributes": {},
-      "text": "haṭha-yoga-pradīpikā\n(1)\nprathamopadeśaḥ",
+      "text": "prathamopadeśaḥ",
       "segment_number": 1
     },
     {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
       "text": "atha yama-niyamāḥ",
       "segment_number": 39
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
       "text": "atha āsanam",
       "segment_number": 45
@@ -809,7 +809,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
       "text": "atha siddhāsanam-",
       "children": [
@@ -997,7 +997,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
       "text": "atha padmāsanam-",
       "children": [
@@ -1141,7 +1141,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha siṃhāsanam-",
           "segment_number": 133
@@ -1201,7 +1201,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha bhadrāsanam-",
           "segment_number": 140
@@ -1515,15 +1515,15 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "trailer",
       "attributes": {},
       "text": "iti haṭha-pradīpikāyāṃ prathamopadeśaḥ /",
       "segment_number": 178
     },
     {
-      "tag": "p",
+      "tag": "ChapterTitle",
       "attributes": {},
-      "text": "(2)\ndvitīyopadeśaḥ",
+      "text": "dvitīyopadeśaḥ",
       "segment_number": 179
     },
     {
@@ -1999,7 +1999,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha bastiḥ-",
           "segment_number": 234
@@ -2071,7 +2071,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha netiḥ-",
           "segment_number": 243
@@ -2113,7 +2113,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha trāṭakam-",
           "segment_number": 248
@@ -2155,7 +2155,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha nauliḥ-",
           "segment_number": 253
@@ -2197,7 +2197,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha kapālabhātiḥ-",
           "segment_number": 258
@@ -2253,7 +2253,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
       "text": "atha gaja-karaṇī-",
       "children": [
@@ -2349,7 +2349,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha manonmanī-",
           "segment_number": 276
@@ -2391,7 +2391,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha kumbhaka-bhedāḥ--",
           "segment_number": 281
@@ -2469,7 +2469,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha sūrya-bhedanam-",
           "segment_number": 290
@@ -2529,7 +2529,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha ujjāyī-",
           "segment_number": 297
@@ -2589,7 +2589,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha sītkārī-",
           "segment_number": 304
@@ -2649,7 +2649,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha śītalī-",
           "segment_number": 311
@@ -2691,7 +2691,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha bhastrikā-",
           "segment_number": 316
@@ -2855,7 +2855,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
       "text": "atha bhrāmarī-",
       "children": [
@@ -2897,7 +2897,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha mūrcchā-",
           "segment_number": 340
@@ -2921,7 +2921,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha plāvinī-",
           "segment_number": 343
@@ -3103,13 +3103,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "trailer",
       "attributes": {},
       "text": "iti haṭha-pradīpikāyāṃ dvitīyopadeśaḥ /",
       "segment_number": 365
     },
     {
-      "tag": "p",
+      "tag": "ChapterTitle",
       "attributes": {},
       "text": "tṛtīyopadeśaḥ",
       "segment_number": 366
@@ -3281,7 +3281,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha mahā-mudrā-",
           "segment_number": 385
@@ -3455,7 +3455,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha mahā-bandhaḥ-",
           "segment_number": 405
@@ -3587,7 +3587,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha mahā-vedhaḥ-",
           "segment_number": 420
@@ -3707,7 +3707,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha khecarī-",
           "segment_number": 434
@@ -4163,7 +4163,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha uḍḍīyāna-bandhaḥ-",
           "segment_number": 487
@@ -4277,7 +4277,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha mūla-bandhaḥ-",
           "segment_number": 500
@@ -4445,7 +4445,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha jalandhara-bandhaḥ-",
           "segment_number": 519
@@ -4595,7 +4595,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha viparīta-karaṇī mudrā-",
           "segment_number": 536
@@ -4697,7 +4697,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha vajrolī-",
           "segment_number": 548
@@ -4865,7 +4865,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha sahajoliḥ-",
           "segment_number": 567
@@ -4939,7 +4939,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
       "text": "atha amarolī-",
       "children": [
@@ -5107,7 +5107,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha śakti-cālanam-",
           "segment_number": 595
@@ -5607,15 +5607,15 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "trailer",
       "attributes": {},
       "text": "iti haṭha-pradīpikāyāṃ tṛtīyopadeśaḥ /",
       "segment_number": 652
     },
     {
-      "tag": "p",
+      "tag": "ChapterTitle",
       "attributes": {},
-      "text": "(4)\ncaturthopadeśaḥ",
+      "text": "caturthopadeśaḥ",
       "segment_number": 653
     },
     {
@@ -6289,7 +6289,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha śāmbhavī-",
           "segment_number": 730
@@ -6445,7 +6445,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha khecarī-",
           "segment_number": 749
@@ -6973,7 +6973,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha ārambhāvasthā-",
           "segment_number": 810
@@ -7015,7 +7015,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha ghaṭāvasthā-",
           "segment_number": 815
@@ -7057,7 +7057,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha paricayāvasthā-",
           "segment_number": 820
@@ -7099,7 +7099,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {},
           "text": "atha niṣpatty-avasthā-",
           "segment_number": 825
@@ -7845,7 +7845,7 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "trailer",
       "attributes": {},
       "text": "iti haṭha-yoga-pradīpikāyāṃ samādhi-lakṣaṇaṃ nāma\ncaturthopadeśaḥ /",
       "segment_number": 911

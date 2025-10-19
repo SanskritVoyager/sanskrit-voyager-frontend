@@ -36,20 +36,23 @@
   },
   "body": [
     {
-      "tag": "p",
+      "tag": "ChapterTitle",
       "attributes": {},
       "text": "śivasūtra, prathama unmeṣa",
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "caitanyam ātmā // SivS_1.1 //",
-          "translated_text": "Consciousness is the <s>Ātman</s>",
-          "segment_number": 2
-        }
-      ],
       "translated_text": "The Śiva Sūtra, First Awakening",
       "segment_number": 1
+    },
+    {
+      "tag": "label",
+      "attributes": {},
+      "text": "SivS_1.1"
+    },
+    {
+      "tag": "quote",
+      "attributes": {},
+      "text": "caitanyam ātmā // SivS_1.1 //",
+      "translated_text": "Consciousness is the <s>Ātman</s>",
+      "segment_number": 2
     },
     {
       "tag": "p",
@@ -57,15 +60,25 @@
       "text": "* [<śivasūtravārtika:>",
       "children": [
         {
+          "tag": "label",
+          "attributes": {},
+          "text": "SivSV_1.1:1"
+        },
+        {
           "tag": "l",
           "attributes": {},
-          "text": "* caitanyaṃ citkriyārūpaṃ śivasya paramasya yat || SivSV_1.1:1 ||",
+          "text": "* caitanyaṃ citkriyārūpaṃ śivasya paramasya yat",
           "translated_text": "* Consciousness, which is the form of awareness and action, is of the Supreme <s>Śiva</s>",
           "segment_number": 4
         }
       ],
       "translated_text": "* Commentary on the Śiva Sūtra:",
       "segment_number": 3
+    },
+    {
+      "tag": "label",
+      "attributes": {},
+      "text": "SivSV_1.1:2"
     },
     {
       "tag": "l",
@@ -80,6 +93,11 @@
       "text": "* athavā ko 'yam ātmeti praṣṭ bodhayituṃ śiśūn || SivSV_1.1:3 ||",
       "translated_text": "* Or, who is this <s>Ātman</s>? To instruct the children,",
       "segment_number": 6
+    },
+    {
+      "tag": "label",
+      "attributes": {},
+      "text": "SivSV_1.1:3"
     },
     {
       "tag": "l",
@@ -1831,7 +1849,7 @@
       "segment_number": 251
     },
     {
-      "tag": "p",
+      "tag": "ChapterTitle",
       "attributes": {},
       "text": "śivasūtra, dvitīya unmeṣa",
       "children": [
@@ -2812,14 +2830,14 @@
       "segment_number": 388
     },
     {
-      "tag": "p",
+      "tag": "trailer",
       "attributes": {},
       "text": "* iti dvitīya unmeṣaḥ śāktopāyaprakāśakaḥ || SivSV_2.10:7 ||]",
       "translated_text": "* iti dvitīya unmeṣaḥ śāktopāyaprakāśakaḥ || SivSV_2.10:7 ||]",
       "segment_number": 389
     },
     {
-      "tag": "p",
+      "tag": "ChapterTitle",
       "attributes": {},
       "text": "śivasūtra, tṛtīya unmeṣa",
       "children": [
@@ -6474,14 +6492,14 @@
       "segment_number": 898
     },
     {
-      "tag": "l",
+      "tag": "trailer",
       "attributes": {},
       "text": "* ity unmeṣas tṛtīyo 'yam āṇavopāyasūcakaḥ || SivSV_3.45:9 ||",
       "translated_text": "* ity unmeṣas tṛtīyo 'yam āṇavopāyasūcakaḥ || SivSV_3.45:9 ||",
       "segment_number": 899
     },
     {
-      "tag": "l",
+      "tag": "trailer",
       "attributes": {},
       "text": "* iti śrīśivasūtrāṇāṃ rahasyārthopabṛṃhitam || SivSV_3.45:10 ||",
       "translated_text": "* iti śrīśivasūtrāṇāṃ rahasyārthopabṛṃhitam || SivSV_3.45:10 ||",
