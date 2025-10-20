@@ -19,7 +19,7 @@
 
 .searchInput {
   flex: 1;
-  min-width: 240px;
+  min-width: 230px;
   font-size: 16px;
   border-right: 1px solid light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-dark-4));
   padding-right: 12px;
