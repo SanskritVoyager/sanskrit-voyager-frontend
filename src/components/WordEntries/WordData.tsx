@@ -19,7 +19,7 @@ interface WordDataProps {
   data: Entry[] | null;
 }
 const WordData: React.FC<WordDataProps> = ({ data }) => {
-  console.log('Data:', data); // Log the entire data prop
+  // console.log('Data:', data); // Log the entire data prop
 
   if (!data) {
     return <div style={{ flex: 1 }}>No data</div>;
@@ -28,7 +28,7 @@ const WordData: React.FC<WordDataProps> = ({ data }) => {
   return (
     <div style={{ flex: 1 }}>
       {data.map((entry, index) => {
-        console.log('Entry:', entry); // Log each entry
+        // console.log('Entry:', entry); // Log each entry
 
         return (
           <div key={index}>
@@ -47,12 +47,12 @@ const WordData: React.FC<WordDataProps> = ({ data }) => {
             <p>{entry.description}</p>
             {entry.inflections &&
               entry.inflections.map((inflection, index) => {
-                console.log('Inflection:', inflection); // Log each inflection
+                // console.log('Inflection:', inflection); // Log each inflection
 
-                let caseAbbr = inflection.caseAbbr;
-                let numberAbbr = inflection.numberAbbr;
+                const { caseAbbr } = inflection;
+                const { numberAbbr } = inflection;
 
-                let caseFull = caseAbbr
+                const caseFull = caseAbbr
                   .split(',')
                   .map((abbr) => {
                     switch (abbr.trim()) {
@@ -78,7 +78,7 @@ const WordData: React.FC<WordDataProps> = ({ data }) => {
                   })
                   .join(', ');
 
-                let numberFull = numberAbbr
+                const numberFull = numberAbbr
                   .split(',')
                   .map((abbr) => {
                     switch (abbr.trim()) {
@@ -103,7 +103,7 @@ const WordData: React.FC<WordDataProps> = ({ data }) => {
               })}
 
             {entry.vocabularyEntries.map((item, index) => {
-              console.log('Vocabulary entry:', item); // Log each vocabulary entry
+              // console.log('Vocabulary entry:', item); // Log each vocabulary entry
 
               return (
                 <p

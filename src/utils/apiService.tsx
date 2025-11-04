@@ -20,9 +20,9 @@ export const fetchBookText = async (title: string): Promise<BookText> => {
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ title: title }), // Pass the title directly
+      body: JSON.stringify({ title }), // Pass the title directly
     });
-    console.log('title', title);
+    // console.log('title', title);
 
     const data = await handleApiError(response);
 
@@ -81,13 +81,13 @@ const formatApiResponseToBookText = (segments: any[], titleOrId: string): BookTe
     metadata: {
       original_title: title,
     },
-    body: segments.map((segment) => {
+    body: segments.map((segment) =>
       // Convert each segment to a TextElement
-      return {
+       ({
         segment_number: segment.segment_number,
         text: segment.text,
-      } as TextElement;
-    }),
+      } as TextElement)
+    ),
   };
 
   return bookText;

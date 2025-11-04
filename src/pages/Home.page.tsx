@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
-import { ActionToggle } from '../components/Header/ColorSchemeToggle/ColorSchemeToggle';
 import {
   Select,
   MultiSelect,
@@ -14,9 +13,7 @@ import {
   useMantineTheme,
   Transition,
   Modal,
-} from '@mantine/core';
-import { FileInput } from '@mantine/core';
-import { ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
+ FileInput, ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
 import {
   useDisclosure,
   useDebouncedState,
@@ -24,6 +21,15 @@ import {
   useHotkeys,
   useViewportSize,
 } from '@mantine/hooks';
+import {
+  IconVocabularyOff,
+  IconChevronUp,
+  IconChevronDown,
+  IconChevronsRight,
+  IconChevronRight,
+ IconClipboardCheck, IconCopy, IconClipboard } from '@tabler/icons-react';
+import { Analytics } from '@vercel/analytics/react';
+import { ActionToggle } from '../components/Header/ColorSchemeToggle/ColorSchemeToggle';
 import WordDataComponent from '@/components/WordEntries/WordDataComponent';
 import {
   fetchWordData,
@@ -33,14 +39,6 @@ import {
 } from '../utils/Api';
 import { HeaderSearch } from '@/components/Header/HeaderSearch';
 import { NavbarSimple } from '@/components/Navbar/NavbarSimple';
-import {
-  IconVocabularyOff,
-  IconChevronUp,
-  IconChevronDown,
-  IconChevronsRight,
-  IconChevronRight,
-} from '@tabler/icons-react';
-import { IconClipboardCheck, IconCopy, IconClipboard } from '@tabler/icons-react';
 import classes from './HomePage.module.css';
 import DictionarySelectComponent from '@/components/Navbar/DictionarySelect';
 import BookSelect from '@/components/Navbar/BookSelect';
@@ -52,7 +50,6 @@ import TranslationControl from '@/components/Navbar/TranslationControl';
 import LoadingSkeleton from '@/components/LoadingSkeleton';
 import AdvancedSearch from '@/components/AdvancedSearch/AdvancedSearch';
 import { SearchResult } from '@/types/searchTypes';
-import { Analytics } from '@vercel/analytics/react';
 import { useResponsive } from '@/context/ResponsiveContext';
 
 import { useContainerHeadroom } from '../hooks/useHeadroom';
@@ -108,7 +105,6 @@ export function HomePage() {
   const [searchMatchedSegments, setSearchMatchedSegments] = useState<number[]>([]);
   const [inPageSearchTrigger, setInPageSearchTrigger] = useState<boolean | undefined>(undefined);
   const [activeComponent, setActiveComponent] = useState<'clickableWords' | 'clickableSimpleBooks' | null>(null);
-
 
   // ----- Constants -----
 
@@ -225,7 +221,7 @@ export function HomePage() {
             await fetchBookFromApi(bookTitle);
           } catch (apiError) {
             // If API fails, try the local resource
-            console.log('API fetch failed, trying local resource');
+            // console.log('API fetch failed, trying local resource');
             // for offline add /public/ for online remove it or it won't load the books
             const response = await fetch(`/resources/books/${bookTitle}.json`);
             if (!response.ok) {
@@ -257,13 +253,13 @@ export function HomePage() {
       */
 
       fetchData();
-      console.log('book text:', bookText);
+      //console.log('book text:', bookText);
       // Set ClickableSimpleBooks as active when a book is selected
       setActiveComponent('clickableSimpleBooks');
       // Clear ClickableWords search states when switching to books
       setSearchMatchedSegments([]);
     }
-  }, [bookTitle]); 
+  }, [bookTitle]);
 
   // Function to fetch a book from the API
   const fetchBookFromApi = async (title: string) => {
@@ -543,7 +539,7 @@ export function HomePage() {
           >
             {(styles) => (
               <>
-                {/* For mobile when in WordInfoHalf mode, use ResizablePanel 
+                {/* For mobile when in WordInfoHalf mode, use ResizablePanel
                       it doesn't make sense to have the isLoadingState in the parent - it should be in the child
                       so many more things should be memoised*/}
                 {isMobile && isWordInfoHalf ? (
@@ -714,7 +710,7 @@ export function HomePage() {
           query={query}
           setQuery={setQuery}
           onSearch={(params) => {
-            console.log('Advanced search params:', params);
+            // console.log('Advanced search params:', params);
           }}
           setTargetSegmentNumber={setTargetSegmentNumber}
           onOpenText={(textId, bookTitle) => {

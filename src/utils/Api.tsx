@@ -1,5 +1,5 @@
 export async function fetchWordData(word: string) {
-  console.log('Posting word to API:', word); // Print the word
+  // console.log('Posting word to API:', word); // Print the word
 
   try {
     const response = await fetch('https://api.yogasutratrees.com/process', {
@@ -42,9 +42,8 @@ export async function transliterateText(inputText: string, value: string) {
 
     const processedText = await response.json();
     return processedText;
-  } else {
-    console.error('Missing text or transliteration_scheme');
   }
+    console.error('Missing text or transliteration_scheme');
 }
 
 export async function handleTranslate(inputText: string) {
@@ -64,12 +63,12 @@ export async function handleTranslate(inputText: string) {
   }
 
   const translatedText = await response.json();
-  console.log(translatedText);
+  // console.log(translatedText);
   return translatedText;
 }
 
 export async function fetchMultidictData(text: string, dictionary_names: string[]) {
-  console.log('Posting word to API:', text, 'With dictionary:', dictionary_names);
+  // console.log('Posting word to API:', text, 'With dictionary:', dictionary_names);
 
   try {
     const response = await fetch('https://api.yogasutratrees.com/process_new', {
@@ -78,8 +77,8 @@ export async function fetchMultidictData(text: string, dictionary_names: string[
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        text: text,
-        dictionary_names: dictionary_names,
+        text,
+        dictionary_names,
       }),
     });
 

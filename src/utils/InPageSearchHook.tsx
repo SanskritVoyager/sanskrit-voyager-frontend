@@ -11,7 +11,7 @@ interface UseInPageSearchProps {
 export const useInPageSearch = ({
   containerRef,
   segmentRefs,
-  onMatchedSegmentsChange
+  onMatchedSegmentsChange,
 }: UseInPageSearchProps) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [debounced] = useDebouncedValue(searchQuery, 200);
@@ -20,12 +20,10 @@ export const useInPageSearch = ({
   { base: 's', letters: 'śṣ' },
 ];
 
-
-
   const [isSearchVisible, setIsSearchVisible] = useState(false);
   const [currentMatchIndex, setCurrentMatchIndex] = useState(0);
   const [totalMatches, setTotalMatches] = useState(0);
-  
+
   const markInstanceRef = useRef<Mark | null>(null);
   const matchedElementsRef = useRef<Element[]>([]);
   const previousQueryRef = useRef('');
@@ -112,11 +110,11 @@ export const useInPageSearch = ({
           separateWordSearch: false,
           acrossElements: true,
           diacritics: true, // Enable diacritics insensitivity
-          synonyms: { 'ṃ': 'm', 'ṁ': 'm', 'ḥ': 'h', 'ś': 's', 'ṣ': 's', 'ṭ': 't', 'ṛ': 'r', 'ṇ': 'n', 'ḍ': 'd' }, // Basic Sanskrit diacritics
+          synonyms: { ṃ: 'm', ṁ: 'm', ḥ: 'h', ś: 's', ṣ: 's', ṭ: 't', ṛ: 'r', ṇ: 'n', ḍ: 'd' }, // Basic Sanskrit diacritics
           accuracy: 'complementary', // Improved matching for diacritics
           each: (element) => {
             newMatchedElements.push(element);
-            
+
             // Resolve segment number for this match
             const segmentNumber = resolveSegmentFromElement(element);
             if (segmentNumber !== null) {
@@ -126,12 +124,12 @@ export const useInPageSearch = ({
           done: (totalMarks) => {
             matchedElementsRef.current = newMatchedElements;
             setTotalMatches(totalMarks);
-            
+
             // Update matched segments
             const segmentArray = Array.from(matchedSegmentNumbers);
             onMatchedSegmentsChange(segmentArray);
-            console.log('Matched Segments from In-Page Search:', segmentArray);
-            
+            // console.log('Matched Segments from In-Page Search:', segmentArray);
+
             // Highlight and scroll to first match
             if (newMatchedElements.length > 0) {
               setCurrentMatchIndex(0);
@@ -140,9 +138,9 @@ export const useInPageSearch = ({
             } else {
               setCurrentMatchIndex(0);
             }
-          }
+          },
         });
-      }
+      },
     });
   }, [containerRef, onMatchedSegmentsChange, resolveSegmentFromElement]);
 
@@ -150,14 +148,14 @@ export const useInPageSearch = ({
   const goToNextMatch = useCallback(() => {
     const matches = matchedElementsRef.current;
     if (matches.length === 0) return;
-    
+
     // Remove current highlight
     matches[currentMatchIndex]?.classList.remove('search-highlight-current');
-    
+
     // Calculate next index
     const nextIndex = (currentMatchIndex + 1) % matches.length;
     setCurrentMatchIndex(nextIndex);
-    
+
     // Apply new highlight and scroll
     matches[nextIndex].classList.add('search-highlight-current');
     matches[nextIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -167,14 +165,14 @@ export const useInPageSearch = ({
   const goToPreviousMatch = useCallback(() => {
     const matches = matchedElementsRef.current;
     if (matches.length === 0) return;
-    
+
     // Remove current highlight
     matches[currentMatchIndex]?.classList.remove('search-highlight-current');
-    
+
     // Calculate previous index
     const prevIndex = currentMatchIndex === 0 ? matches.length - 1 : currentMatchIndex - 1;
     setCurrentMatchIndex(prevIndex);
-    
+
     // Apply new highlight and scroll
     matches[prevIndex].classList.add('search-highlight-current');
     matches[prevIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -216,13 +214,11 @@ export const useInPageSearch = ({
   }, [isSearchVisible, onMatchedSegmentsChange]);
 
   // Cleanup on unmount
-  useEffect(() => {
-    return () => {
+  useEffect(() => () => {
       if (markInstanceRef.current) {
         markInstanceRef.current.unmark();
       }
-    };
-  }, []);
+    }, []);
 
   return {
     searchQuery,
@@ -242,6 +238,6 @@ export const useInPageSearch = ({
       setTotalMatches(0);
       setCurrentMatchIndex(0);
       onMatchedSegmentsChange([]);
-    }
+    },
   };
 };
