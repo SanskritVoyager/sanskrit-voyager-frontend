@@ -48,15 +48,21 @@
       ],
       "segment_number": 1
     },
+
     {
       "tag": "p",
       "attributes": {},
       "text": "* [<śivasūtravārtika:>",
       "children": [
         {
+          "tag": "label",
+          "attributes": {},
+          "text": "|| SivSV_1.1:1 ||"
+        },
+        {
           "tag": "l",
           "attributes": {},
-          "text": "* caitanyaṃ citkriyārūpaṃ śivasya paramasya yat || SivSV_1.1:1 ||",
+          "text": "* caitanyaṃ citkriyārūpaṃ śivasya paramasya yat ",
           "segment_number": 4
         }
       ],

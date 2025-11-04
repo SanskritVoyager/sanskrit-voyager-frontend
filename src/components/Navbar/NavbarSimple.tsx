@@ -80,10 +80,6 @@ export function NavbarSimple({
   return (
     <nav className={classes.navbar}>
       <div className={classes.navbarMain}>
-        {/*<Group className={classes.header} justify="space-between">
-          <Code fw={700}>Sanskrit Reader</Code>
-        </Group>*/}
-
         {/* Content from NavbarSimple moved here */}
         <Stack gap="3px" justify="flex-end">
 
@@ -189,7 +185,7 @@ export function NavbarSimple({
         </Button>
         */}
 
-        {(isMobile || isTablet) && (
+        {(isMobile) && (
           <Button
             className={classes.feedbackButton}
             component="a"

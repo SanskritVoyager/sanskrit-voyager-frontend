@@ -78,7 +78,7 @@ const WordDataComponent = ({
                   block: 'start',
                 });
               } else {
-                console.log('Could not find new word element:', newWordToScrollTo);
+                // console.log('Could not find new word element:', newWordToScrollTo);
               }
             }, 150); // Increase timeout to ensure rendering completes
 
@@ -100,7 +100,6 @@ const WordDataComponent = ({
     <div className={classes.wordDataContainer}>
       {wordData &&
         wordData.map((entry, index) => {
-          // console.log(entry[2]);
           if (entry.length === 7) {
             const longEntry = entry as LongEntry;
             const shouldShowVocabulary = !hasWordAppearedBefore(longEntry[0], index);

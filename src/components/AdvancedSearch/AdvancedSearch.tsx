@@ -38,7 +38,6 @@ import { BookResult, SearchResult, SegmentResult } from '../../types/searchTypes
 import HighlightText from '../../utils/HighlightText';
 import SearchInputComponent from './AdvancedSearchInput';
 import AdvancedSearchResults from './AdvancedSearchResults';
-import { use } from 'chai';
 import filterData from '../../utils/filter_data.json';
 
 interface AdvancedSearchProps {
@@ -165,7 +164,7 @@ function AdvancedSearch({
 
       // Also pass the results to the parent component
       onSearch(data);
-      console.log('Search results:', data);
+      // console.log('Search results:', data);
     } catch (err: any) {
       setError(err.message || 'An error occurred while searching');
     } finally {
@@ -176,7 +175,7 @@ function AdvancedSearch({
   useEffect(() => {
     if (query.trim()) {
       // Only run search if query has content
-      console.log('query launching', query);
+      // console.log('query launching', query);
       handleSearch();
     }
   }, [query, searchType]);
@@ -212,11 +211,11 @@ function AdvancedSearch({
           );
         }
       }
-      console.log('matched_segments', matchedBookSegments);
+      // console.log('matched_segments', matchedBookSegments);
       setTargetSegmentNumber(segmentNumber || 0);
       onOpenText(textId, title);
       handleAdvancedSearch.close();
-      console.log(segmentNumber);
+      // console.log(segmentNumber);
       isMobile ? setIsNavbarVisible(false) : null;
     }
   };

@@ -41,10 +41,10 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
 
   // Calculate marker positions with type information
   const calculateMarkerPositions = useThrottledCallback(() => {
-    console.log('[Markers] Attempting to calculate positions...');
+    // console.log('[Markers] Attempting to calculate positions...');
 
     if (!containerRef.current) {
-      console.log('[Markers] Aborting: containerRef is null.');
+      // console.log('[Markers] Aborting: containerRef is null.');
       return;
     }
 
@@ -53,9 +53,9 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
     
     // Combine both matched segments and search matched segments
     const allSegments = new Set([...matchedBookSegments, ...searchMatchedSegments]);
-    
-    console.log(`[Markers] segmentRefs map size: ${segmentRefs.current.size}`);
-    console.log(`[Markers] allSegments size: ${allSegments.size}`);
+
+    // console.log(`[Markers] segmentRefs map size: ${segmentRefs.current.size}`);
+    // console.log(`[Markers] allSegments size: ${allSegments.size}`);
 
     const segmentPositions = Array.from(allSegments)
       .map(segmentNumber => {
@@ -94,12 +94,13 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
       resizeObserver.disconnect();
       window.removeEventListener('resize', updateRightEdgePosition);
     };
-  }, [updateRightEdgePosition]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []); // Run only once on mount
 
   // Effect for recalculating positions
   useEffect(() => {
     const hasSegments = matchedBookSegments.length > 0 || searchMatchedSegments.length > 0;
-    console.log(`[Markers Effect] Running. initialRenderComplete: ${initialRenderComplete}, hasSegments: ${hasSegments}`);
+    // console.log(`[Markers Effect] Running. initialRenderComplete: ${initialRenderComplete}, hasSegments: ${hasSegments}`);
 
     
     if (initialRenderComplete && hasSegments) {
@@ -110,7 +111,8 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
     } else if (!hasSegments) {
       setProcessedMatches([]);
     }
-  }, [matchedBookSegments, searchMatchedSegments, initialRenderComplete, calculateMarkerPositions]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [matchedBookSegments, searchMatchedSegments, initialRenderComplete]);
 
   if (processedMatches.length === 0) {
     return null;
@@ -127,7 +129,7 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
         const markerClass = `${classes.marker} ${
           isActive ? classes.activeMarker : ''
         } ${
-          segment.isSearchMatch ? classes.searchMatchMarker : ''
+          segment.isSearchMatch ? classes.searchMatchMarker : classes.bookMatchMarker
         }`;
         
         return (
@@ -141,7 +143,7 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
               width: segment.isSearchMatch ? '10px' : '8px',
               opacity: isActive ? 0.8 : segment.isSearchMatch ? 0.7 : 0.5
             }}
-            title={`${segment.isSearchMatch ? 'Search match - ' : ''}Go to segment ${segment.segmentNumber}`}
+            title={`${segment.isSearchMatch ? 'In-page search match' : 'Advanced search match'} - Go to segment ${segment.segmentNumber}`}
           />
         );
       })}

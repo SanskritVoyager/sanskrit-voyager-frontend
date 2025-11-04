@@ -11,7 +11,6 @@ import { useThrottledCallback, useThrottledState } from '@mantine/hooks';
 import ScrollMarkers from './ClickableSimpleMarkers';
 import BookSpan from './ClickableSimpleBooksSpan';
 import BookIndex from './BookIndex';
-import { set } from 'lodash';
 import { InPageSearch } from '@/utils/InPageSearchComponent';
 import { useInPageSearch } from '@/utils/InPageSearchHook';
 
@@ -85,12 +84,12 @@ const ClickableSimpleBooks = ({
 
   // Combine matched segments from different sources
   const combinedMatchedSegments = React.useMemo(() => {
-    console.log('Combining matched segments from advanced search and in-page search');
-    console.log('Matched Book Segments:', matchedBookSegments);
-    console.log('Search Matched Segments:', searchMatchedSegments);
+    // console.log('Combining matched segments from advanced search and in-page search');
+    // console.log('Matched Book Segments:', matchedBookSegments);
+    // console.log('Search Matched Segments:', searchMatchedSegments);
 
     const combined = new Set([...matchedBookSegments, ...searchMatchedSegments]);
-      console.log('Combined Matched Segments:', Array.from(combined));
+      // console.log('Combined Matched Segments:', Array.from(combined));
     return Array.from(combined);
   }, [matchedBookSegments, searchMatchedSegments]);
 
@@ -98,7 +97,7 @@ const ClickableSimpleBooks = ({
   const [initialRenderComplete, setInitialRenderComplete] = useState<boolean>(false);
   const renderCount = useRef(0);
   renderCount.current++;
-  console.log(`ClickableSimpleBooks render #${renderCount.current}`);
+  // console.log(`ClickableSimpleBooks render #${renderCount.current}`);
 
   // By using useMemo, the chapters are extracted only when bookText changes.
   const chapters = React.useMemo(() => {
@@ -129,7 +128,7 @@ const ClickableSimpleBooks = ({
     findChapters(bookText.body);
     chapterIdMap.current = idMap;
     if (extractedChapters.length > 0) {
-        console.log(`Found ${extractedChapters.length} chapters in book`);
+        // console.log(`Found ${extractedChapters.length} chapters in book`);
     }
     return extractedChapters;
   }, [bookText]);
@@ -141,19 +140,19 @@ const ClickableSimpleBooks = ({
     // and should persist when opening a book from advanced search
     setSearchMatchedSegments([]);
     foundNotes.current = 0;
-    console.log('Segment refs map and note counter reset due to book change');
+    // console.log('Segment refs map and note counter reset due to book change');
   }, [bookText]);
 
   const scrollToSegment = useCallback(
     (segmentNumber: number) => {
       if (!bookText.body) return;
-      console.log(`Scrolling to segment ${segmentNumber}`);
+      // console.log(`Scrolling to segment ${segmentNumber}`);
       const timeoutId = setTimeout(() => {
         const targetElement = segmentRefs.current.get(segmentNumber);
         if (targetElement) {
           targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
-          console.warn(`No ref found for segment ${segmentNumber}`);
+          // console.warn(`No ref found for segment ${segmentNumber}`);
           const domElement =
             document.getElementById(`segment-${segmentNumber}`) ||
             document.querySelector(`[data-segment-number="${segmentNumber}"]`);
@@ -175,7 +174,7 @@ const ClickableSimpleBooks = ({
   useEffect(() => {
     if (!initialRenderComplete && bookText.body && bookText.body.length > 0) {
       const timer = setTimeout(() => {
-        console.log('Setting initial render complete flag to true.');
+        // console.log('Setting initial render complete flag to true.');
         setInitialRenderComplete(true);
       }, 500);
       return () => clearTimeout(timer);
@@ -405,7 +404,7 @@ const ClickableSimpleBooks = ({
           ref={setSegmentRef}
           id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
           onClick={() => {
-            console.log('Clicked page/milestone:', attributes.n, attributes.ed, attributes.unit);
+            // console.log('Clicked page/milestone:', attributes.n, attributes.ed, attributes.unit);
           }}
         >
           <div className={classes.pageBreakTextContainer}>{pageText}</div>
@@ -534,8 +533,8 @@ const ClickableSimpleBooks = ({
 
   foundNotes.current = 0;
 
-  console.log('matchedBookSegments:', matchedBookSegments);
-  console.log(`[Books] Rendering. Passing segmentRefs with size: ${segmentRefs.current.size} to ScrollMarkers.`);
+  // console.log('matchedBookSegments:', matchedBookSegments);
+  // console.log(`[Books] Rendering. Passing segmentRefs with size: ${segmentRefs.current.size} to ScrollMarkers.`);
 
   return (
     <div className={classes.bookContainer} ref={containerRef} style={{ position: 'relative' }}>

@@ -60,7 +60,6 @@ import { useContainerHeadroom } from '../hooks/useHeadroom';
 import { fetchBookText } from '../utils/apiService';
 
 import ResizablePanel from '../components/ResizeHandler';
-import { set } from 'lodash';
 
 // unused
 interface Translation {
@@ -108,6 +107,7 @@ export function HomePage() {
 
   const [searchMatchedSegments, setSearchMatchedSegments] = useState<number[]>([]);
   const [inPageSearchTrigger, setInPageSearchTrigger] = useState<boolean | undefined>(undefined);
+  const [activeComponent, setActiveComponent] = useState<'clickableWords' | 'clickableSimpleBooks' | null>(null);
 
 
   // ----- Constants -----
@@ -202,6 +202,17 @@ export function HomePage() {
     }
   }, [selectedWord, selectedDictionaries]);
 
+  // Effect to track when textTranslit changes (ClickableWords becomes active)
+  useEffect(() => {
+    if (textTranslit !== '') {
+      setActiveComponent('clickableWords');
+      // Clear book-related search states when switching to ClickableWords
+      setSearchMatchedSegments([]);
+      setMatchedBookSegments([]);
+      setTargetSegmentNumber(null);
+    }
+  }, [textTranslit]);
+
   // Effect to fetch book text when a book is selected
   useEffect(() => {
     if (bookTitle) {
@@ -247,6 +258,10 @@ export function HomePage() {
 
       fetchData();
       console.log('book text:', bookText);
+      // Set ClickableSimpleBooks as active when a book is selected
+      setActiveComponent('clickableSimpleBooks');
+      // Clear ClickableWords search states when switching to books
+      setSearchMatchedSegments([]);
     }
   }, [bookTitle]); 
 
@@ -482,7 +497,7 @@ export function HomePage() {
                 }}
                 ref={textScrollRef}
               >
-                {textTranslit !== '' && (
+                {activeComponent === 'clickableWords' && textTranslit !== '' && (
                   <ClickableWords
                     lines={lines}
                     textTranslit={textTranslit}
@@ -496,22 +511,24 @@ export function HomePage() {
                   />
                 )}
 
-                <ClickableSimpleBooks
-                  bookText={bookText}
-                  setSelectedWord={setSelectedWord}
-                  wordData={wordData}
-                  setClickedAdditionalWord={setClickedAdditionalWord}
-                  textType={textType}
-                  isLoadingWordData={isLoadingWordData}
-                  targetSegmentNumber={targetSegmentNumber}
-                  setTargetSegmentNumber={setTargetSegmentNumber}
-                  query={query}
-                  matchedBookSegments={matchedBookSegments}
-                  setMatchedBookSegments={setMatchedBookSegments}
-                  searchMatchedSegments={searchMatchedSegments}
-                  setSearchMatchedSegments={setSearchMatchedSegments}
-                  inPageSearchTrigger={inPageSearchTrigger}
-                />
+                {activeComponent === 'clickableSimpleBooks' && (
+                  <ClickableSimpleBooks
+                    bookText={bookText}
+                    setSelectedWord={setSelectedWord}
+                    wordData={wordData}
+                    setClickedAdditionalWord={setClickedAdditionalWord}
+                    textType={textType}
+                    isLoadingWordData={isLoadingWordData}
+                    targetSegmentNumber={targetSegmentNumber}
+                    setTargetSegmentNumber={setTargetSegmentNumber}
+                    query={query}
+                    matchedBookSegments={matchedBookSegments}
+                    setMatchedBookSegments={setMatchedBookSegments}
+                    searchMatchedSegments={searchMatchedSegments}
+                    setSearchMatchedSegments={setSearchMatchedSegments}
+                    inPageSearchTrigger={inPageSearchTrigger}
+                  />
+                )}
               </div>
             </Grid.Col>
           ) : null}
