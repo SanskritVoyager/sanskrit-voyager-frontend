@@ -41,10 +41,12 @@
         {
           "tag": "text",
           "text": "tattirīyopaniṣat",
-          "segment_number": 2
+          "segment_number": 2,
+          "translated_text": "<s>Taittirīyopaniṣat</s>"
         }
       ],
-      "segment_number": 1
+      "segment_number": 1,
+      "translated_text": "Endowed with the commentary composed by the illustrious <s>Śaṅkarācārya</s>"
     },
     {
       "tag": "div",
@@ -57,7 +59,8 @@
           "tag": "head",
           "attributes": {},
           "text": "śikṣādhyāyaḥ",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "<s>Śikṣādhyāya</s> (The Chapter on Instruction)"
         },
         {
           "tag": "note",
@@ -236,7 +239,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.1.1"
           },
           "text": "oṃ śaṃ no mitraḥ śaṃ varuṇaḥ / śaṃ no bhavatvaryamā / śaṃ na indro bṛhaspatiḥ / śaṃ no viṣṇururukramaḥ / namo brahmaṇe / namaste vāyo / tvameva pratyakṣaṃ brahmāsi / tvāmevapratyakṣaṃ brahma vadiṣyāmi / ṛtaṃ vadiṣyāmi / satyaṃ vadiṣyāmi / tanmāmavatu / tadvaktāramavatu / avatu mām / avatu vaktāram // oṃ śāntiḥ śāntiḥ śāntiḥ // iti śikṣādhyāye prathamo 'nuvākaḥ //",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": "<s>Oṃ</s>. May <s>Mitra</s> be auspicious to us. May <s>Varuṇa</s> be auspicious to us. May <s>Aryaman</s> be auspicious to us. May <s>Indra</s> and <s>Bṛhaspati</s> be auspicious to us. May <s>Viṣṇu</s> of great strides be auspicious to us. Salutation to <s>Brahman</s>. Salutation to you, O <s>Vāyu</s>. You alone are the directly perceptible <s>Brahman</s>. I shall declare you alone as the directly perceptible <s>Brahman</s>. I shall speak what is right. I shall speak what is true. May that protect me. May that protect the teacher. May it protect me. May it protect the teacher. <s>Oṃ</s>, peace, peace, peace. Thus ends the first <s>anuvāka</s> of the <s>Śikṣādhyāya</s>."
         },
         {
           "tag": "note",
@@ -264,7 +268,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.2.1"
           },
           "text": "oṃ śīkṣāṃ vyākhyāsyāmaḥ / varṇaḥ svaraḥ / mātrā balam / sāma santānaḥ / ityuktaḥ śīkṣādhyāyaḥ // iti dvitīyo 'nuvādakaḥ //",
-          "segment_number": 5
+          "segment_number": 5,
+          "translated_text": "<s>Oṃ</s>. We shall expound <s>śīkṣā</s> (phonetics): <s>varṇa</s> (letter), <s>svara</s> (accent), <s>mātrā</s> (measure), <s>bala</s> (force), <s>sāma</s> (even delivery), and <s>santāna</s> (continuous junction) — thus has been stated the chapter on phonetics. Thus ends the second <s>anuvāka</s>."
         },
         {
           "tag": "note",
@@ -292,7 +297,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.1"
           },
           "text": "saha nau yaśaḥ / saha nau brahmavarcasam / athātaḥ saṃhitāyā upaniṣidaṃ vyākhyāsyāmaḥ / pañcasvadhikaraṇeṣu / adhilokamadhijyautiṣamadhividyamadhiprajamadhyātmam / tā mahāsaṃhitāyā ityācakṣate / athādhilokam / pṛthivī pūrvarūpam / dyauruttararūpam / ākāśaḥ sandhiḥ //",
-          "segment_number": 6
+          "segment_number": 6,
+          "translated_text": "May glory be ours together. May the splendor of sacred knowledge be ours together. Now, therefore, we shall expound the hidden teaching (<s>upaniṣad</s>) of <s>saṃhitā</s> (conjunction), under five headings: with reference to the worlds, with reference to the luminaries, with reference to knowledge, with reference to progeny, and with reference to the self. These are called the great conjunctions (<s>mahāsaṃhitā</s>). Now, with reference to the worlds: the earth is the prior form, heaven is the latter form, <s>ākāśa</s> (space) is the junction,"
         },
         {
           "tag": "note",
@@ -315,7 +321,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.2"
           },
           "text": "vāyuḥ sandhānam / ityadhilokam / athādhijautiṣam / agniḥ pūrvarūpam / āditya uttararūpam / āpaḥ sandhiḥ / vaidyutaḥ sandhānam / ityadhijyautiṣam / athādhividyam / ācāryaḥ pūrvarūpam //",
-          "segment_number": 7
+          "segment_number": 7,
+          "translated_text": "<s>Vāyu</s> (wind) is the medium of conjunction. Thus with reference to the worlds. Now, with reference to the luminaries: <s>Agni</s> (fire) is the prior form, <s>Āditya</s> (the sun) is the latter form, water is the junction, lightning is the medium of conjunction. Thus with reference to the luminaries. Now, with reference to knowledge: the teacher is the prior form,"
         },
         {
           "tag": "p",
@@ -323,7 +330,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.3"
           },
           "text": "antevāsyuttararūpam / vidyā sandhiḥ / pravacanaṃ sandhānam / ityadhividyam / athādhiprajam / mātā pūrvarūpam / pitottararūpam / prajā sandhiḥ / prajananaṃ sandhānam / ityadhiprajam //",
-          "segment_number": 8
+          "segment_number": 8,
+          "translated_text": "the student is the latter form, knowledge is the junction, instruction is the medium of conjunction. Thus with reference to knowledge. Now, with reference to progeny: the mother is the prior form, the father is the latter form, progeny is the junction, procreation is the medium of conjunction. Thus with reference to progeny."
         },
         {
           "tag": "p",
@@ -331,13 +339,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.3.4"
           },
           "text": "athādhyātmam / adharā hanuḥ pūrvarūpam / uttarā hanuruttara rūpam / vāksandhiḥ / jihvāsandhānam / ityadhyātmam / itīmā mahāsaṃhitāḥ / ya evametā mahāsaṃhitā vyākhyātā veda / sandhīyate prajayā paśubhiḥ / brahmavarcasenānnādyena suvargyeṇa lokena //",
-          "segment_number": 9
+          "segment_number": 9,
+          "translated_text": "Now, with reference to the self: the lower jaw is the prior form, the upper jaw is the latter form, speech is the junction, the tongue is the medium of conjunction. Thus with reference to the self. These are the great conjunctions. One who knows these great conjunctions as thus expounded becomes united with progeny, cattle, the splendor of sacred knowledge, food, and the heavenly world."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti tṛtīyo 'nuvākaḥ // 3 //",
-          "segment_number": 10
+          "segment_number": 10,
+          "translated_text": "Thus ends the third <s>anuvāka</s>. 3."
         },
         {
           "tag": "note",
@@ -389,7 +399,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.4.1"
           },
           "text": "yaśchandasāmṛṣabho viśvarūpaḥ / chandobhyo 'dhyamṛtātsaṃbabhūva / sa mendro medhayā spṛṇotu / amṛtasya deva dhāraṇo bhūyāsam / śarīraṃ me vicarṣaṇam / jihvā me madhumattamā / karṇābhyāṃ bhūri viśruvam / brahmaṇaḥ kośo 'si medhayā pihitaḥ / śrutaṃ me gopāya //",
-          "segment_number": 11
+          "segment_number": 11,
+          "translated_text": "He who is the bull of the Vedic hymns, who is of all forms, who arose from the immortal Vedic meters — may that <s>Indra</s> invigorate me with wisdom. O God, may I become a bearer of immortality. May my body be vigorous. May my tongue be exceedingly sweet. May I hear abundantly with my ears. You are the sheath of <s>Brahman</s>, covered over by worldly intelligence. Protect what I have heard."
         },
         {
           "tag": "p",
@@ -397,7 +408,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.4.2"
           },
           "text": "āvahantī vitanvānā kurvāṇācīramātmanaḥ / vāsāṃsi mama gāvaśca / annapāne ca sarvadā / tato me śriyamāvaha / lomaśāṃ paśubhiḥ saha svāhā / āmāyantu brahmacāriṇaḥ svāhā / vimāyantu brahmacāriṇaḥ svāhā / pramayantu brahmacāriṇaḥ svāhā / damāyantu brahmacāriṇaḥ svāhā / śamāyantu brahmacāriṇaḥ svāhā // śāmāyantu brahmacāriṇaḥ svāhā //",
-          "segment_number": 12
+          "segment_number": 12,
+          "translated_text": "She who brings and spreads forth, making lasting garments for herself — my clothes and cattle, food and drink at all times — therefore bring me prosperity, along with wool-bearing cattle. <s>Svāhā</s>! May <s>brahmacārins</s> (students of sacred knowledge) come to me. <s>Svāhā</s>! May <s>brahmacārins</s> come to me from all directions. <s>Svāhā</s>! May <s>brahmacārins</s> come to me well-prepared. <s>Svāhā</s>! May <s>brahmacārins</s> come to me with self-control. <s>Svāhā</s>! May <s>brahmacārins</s> come to me with tranquility. <s>Svāhā</s>!"
         },
         {
           "tag": "p",
@@ -405,13 +417,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.4.3"
           },
           "text": "yaśo jane 'sāni svāhā / śreyān vasyaso 'sāni svāhā / taṃ tvā bhaga praviśāni svāhā / sa mā bhaga praviśa svāhā / tasmin sahasraśākhe nibhagāhaṃ tvayi mṛje svāhā / yathāpaḥ pravatā yanti yathā māsā aharjaram / evaṃ māṃ brahmacāriṇaḥ / dhātarāyantu sarvataḥ svāhā / prativeśo 'si pra mā bhāhi pra mā padyasva //",
-          "segment_number": 13
+          "segment_number": 13,
+          "translated_text": "May I become famous among people. <s>Svāhā</s>! May I become greater than the wealthy. <s>Svāhā</s>! O <s>Bhaga</s>, may I enter into you. <s>Svāhā</s>! O <s>Bhaga</s>, do you enter into me. <s>Svāhā</s>! In you, who are of a thousand branches, O <s>Bhaga</s>, I cleanse myself. <s>Svāhā</s>! As waters flow downhill, as months flow into the year, so may <s>brahmacārins</s> come to me, O Creator, from all directions. <s>Svāhā</s>! You are a refuge; illumine me; come to me."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti caturtho 'nuvākaḥ // 4 //",
-          "segment_number": 14
+          "segment_number": 14,
+          "translated_text": "Thus ends the fourth <s>anuvāka</s>. 4."
         },
         {
           "tag": "note",
@@ -525,7 +539,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.5.1"
           },
           "text": "bhūrbhuvaḥ suvariti vā etāstisro vyāhṛtayaḥ / tāsāmu ha smaitāṃ caturthīm / māhācamasyaḥ pravedayate / maha iti / tat brahma / sa ātmā / aṅgānyanyā devatāḥ / bhūriti vā ayaṃ lokaḥ / bhuva ityantarikṣam / suvarityasau lokaḥ //",
-          "segment_number": 15
+          "segment_number": 15,
+          "translated_text": "<s>Bhūḥ</s>, <s>Bhuvaḥ</s>, <s>Suvaḥ</s> — these indeed are the three <s>vyāhṛtis</s> (sacred utterances). Of these, <s>Māhācamasya</s> made known the fourth: <s>Mahaḥ</s>. That is <s>Brahman</s>. That is the Self. The other deities are its limbs. <s>Bhūḥ</s> is indeed this world. <s>Bhuvaḥ</s> is the intermediate space. <s>Suvaḥ</s> is that world beyond."
         },
         {
           "tag": "p",
@@ -533,7 +548,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.5.2"
           },
           "text": "maha ityādityaḥ / ādityena vāva sarve loka mahīyante / bhūriti vā agniḥ / bhuva iti vāyuḥ / suvarityādityaḥ / maha iti candramāḥ / candramasā vāva sarvāṇi jyotiṃṣi mahīyante / bhūriti vā ṛcaḥ / bhuva iti sāmāni / suvariti yajūṃṣi //",
-          "segment_number": 16
+          "segment_number": 16,
+          "translated_text": "<s>Mahaḥ</s> is the sun. Through the sun indeed all worlds become great. <s>Bhūḥ</s> is indeed <s>Agni</s> (fire). <s>Bhuvaḥ</s> is <s>Vāyu</s> (wind). <s>Suvaḥ</s> is <s>Āditya</s> (the sun). <s>Mahaḥ</s> is the moon. Through the moon indeed all luminaries become great. <s>Bhūḥ</s> is indeed the <s>Ṛk</s> verses. <s>Bhuvaḥ</s> is the <s>Sāman</s> chants. <s>Suvaḥ</s> is the <s>Yajus</s> formulas."
         },
         {
           "tag": "p",
@@ -541,13 +557,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.5.3"
           },
           "text": "maha iti brahma / brahmaṇā vāva sarve vedā mahīyante / bhūriti vai prāṇaḥ / bhuva ityapānaḥ / suvariti vyānaḥ / maha ityannam / annena vāva sarve prāṇa mahīyante / tā vā etāścatasraścaturdha / catasraścatasro vyāhṛtayaḥ / tā yo veda / sa veda brahma / sarve 'smai devā balimāvahanti //",
-          "segment_number": 17
+          "segment_number": 17,
+          "translated_text": "<s>Mahaḥ</s> is <s>Brahman</s>. Through <s>Brahman</s> indeed all the Vedas become great. <s>Bhūḥ</s> is indeed <s>prāṇa</s> (the outbreath). <s>Bhuvaḥ</s> is <s>apāna</s> (the inbreath). <s>Suvaḥ</s> is <s>vyāna</s> (the diffused breath). <s>Mahaḥ</s> is food. Through food indeed all the vital breaths become great. These four are fourfold — four groups of four <s>vyāhṛtis</s>. One who knows these knows <s>Brahman</s>. All the gods bring offerings to such a one."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti pañcamo 'nuvākaḥ // 5 //",
-          "segment_number": 18
+          "segment_number": 18,
+          "translated_text": "Thus ends the fifth <s>anuvāka</s>. 5."
         },
         {
           "tag": "note",
@@ -640,7 +658,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.6.1"
           },
           "text": "sa ya eṣo 'ntarahṛdaya ākāśaḥ / tasminnayaṃ puruṣo manomayaḥ / amṛto hiraṇmayaḥ / antareṇa tāluke / ya eṣa stana ivāvalaṃbate / sendrayoniḥ / yatrāsau keśānto vivartate / vyapohya śīrṣakapāle / bhūrityagnau pratitiṣṭhati / bhuva iti vāyau //",
-          "segment_number": 19
+          "segment_number": 19,
+          "translated_text": "In this space within the heart, there is the person made of mind (<s>manomaya puruṣa</s>), immortal and golden. Between the two palates, that which hangs down like a nipple — that is the birthplace of <s>Indra</s>. Where the hair parts, splitting open the two halves of the skull: with <s>Bhūḥ</s> he rests in <s>Agni</s> (fire), with <s>Bhuvaḥ</s> in <s>Vāyu</s> (wind),"
         },
         {
           "tag": "note",
@@ -663,13 +682,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.6.2"
           },
           "text": "suvarityāditye / maha iti brahmaṇi / āpnoti svārājyam / āpnoti manasaspatim / vākpatiścakṣuṣpatiḥ / śrotraptirvijñānapatiḥ / etattato bhavati / ākāśaśarīraṃ brahma / satyātma prāṇārāmaṃ mana ānandam / śānti samṛddhamamṛtam / iti prācīnayogyopāssva //",
-          "segment_number": 20
+          "segment_number": 20,
+          "translated_text": "with <s>Suvaḥ</s> in <s>Āditya</s> (the sun), with <s>Mahaḥ</s> in <s>Brahman</s>. He attains self-sovereignty. He attains lordship over the mind, lordship over speech, lordship over sight, lordship over hearing, lordship over knowledge. Furthermore, he becomes this: <s>Brahman</s> whose body is space, whose nature is truth, whose delight is in <s>prāṇa</s> (the life-breath), whose bliss is the mind, who abounds in peace, who is immortal. Thus meditate, O <s>Prācīnayogya</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //",
-          "segment_number": 21
+          "segment_number": 21,
+          "translated_text": "Thus ends the sixth <s>anuvāka</s>. 6."
         },
         {
           "tag": "note",
@@ -735,13 +756,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.7.1"
           },
           "text": "pṛthivyantarikṣaṃ dyaurdiśo 'vāntaradiśāḥ / agnirvāyurādityaścandramā nakṣatrāṇi / āpa oṣadhayo vanaspataya ākāśa ātmā / ityadhibhūtam / athādhyātmam / prāṇo vyāno 'pāna udānaḥ samānaḥ / cakṣuḥ śrotraṃ mano vāk tvak / carma māṃsaṃ snāvāsthi majjā / etadadhividhāya ṛṣiravocat / pāṅktaṃ vā idaṃ sarvam / pāṅktenaiva pāṅktaṃ spṛṇotīti //",
-          "segment_number": 22
+          "segment_number": 22,
+          "translated_text": "Earth, intermediate space, heaven, the quarters, and the intermediate quarters; fire, wind, sun, moon, and stars; water, herbs, trees, space, and the self — this is with reference to beings (<s>adhibhūta</s>). Now with reference to the self (<s>adhyātma</s>): <s>prāṇa</s> (outbreath), <s>vyāna</s> (diffused breath), <s>apāna</s> (inbreath), <s>udāna</s> (upward breath), and <s>samāna</s> (equalizing breath); sight, hearing, mind, speech, and touch; skin, flesh, sinew, bone, and marrow. Having ordained this, the seer declared: all this is indeed fivefold; by the fivefold one completes the fivefold."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti saptamo 'nuvākaḥ // 7 //",
-          "segment_number": 23
+          "segment_number": 23,
+          "translated_text": "Thus ends the seventh <s>anuvāka</s>. 7."
         },
         {
           "tag": "note",
@@ -769,13 +792,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.8.1"
           },
           "text": "omiti brahma / omitīdaṃ sarvam / omityetadanukṛtirha sma vā apyo śrāvayetyāśrāvayanti / omiti sāmāni gāyanti / oṃśomiti śastrāṇi śaṃsanti / omityadhvaryuḥ pratigaraṃ pratigṛṇāti / omiti brahmā prasauti / omityagnihotramanujānāti / omiti brāhmaṇaḥ pravakṣyannāha brahmopāpnavānīti / brahmaivopāpnoti //",
-          "segment_number": 24
+          "segment_number": 24,
+          "translated_text": "<s>Oṃ</s> is <s>Brahman</s>. <s>Oṃ</s> is all this. <s>Oṃ</s> — this is the mark of assent: when they say 'recite,' they recite with <s>Oṃ</s>. With <s>Oṃ</s> they sing the <s>Sāman</s> chants. With <s>Oṃ Śom</s> they recite the <s>Śastra</s> hymns. With <s>Oṃ</s> the <s>Adhvaryu</s> priest gives the response. With <s>Oṃ</s> the <s>Brahman</s> priest gives permission. With <s>Oṃ</s> one consents to the <s>Agnihotra</s>. With <s>Oṃ</s> the <s>brāhmaṇa</s>, about to recite, says 'May I attain <s>Brahman</s>' — and he indeed attains <s>Brahman</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti aṣṭamo 'nuvākaḥ // 8 //",
-          "segment_number": 25
+          "segment_number": 25,
+          "translated_text": "Thus ends the eighth <s>anuvāka</s>. 8."
         },
         {
           "tag": "note",
@@ -858,13 +883,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.9.1"
           },
           "text": "ṛtaṃ ca svādhyāyapravacane ca / satyaṃ ca svādhyāyapravacane ca / tapaśca svādhyāyapravacane ca / damaśca svādhyāyapravacane ca / śamaśca svādhyāyapravacane ca / agnayaśca svādhyāyapravacane ca / agnihotraṃ ca svādhyāyapravacane ca / atithayaśca svādhyāyapravacane ca / mānuṣaṃ ca svādhyāyapravacane ca / prajā ca svādhyāyapravacane ca / prajanaśca svādhyāyapravacane ca / prajātiśca svādhyāyapravacane ca / satyamiti satyavacā rāthītaraḥ / tapa iti taponityaḥ pauruśiṣṭiḥ / svādhyāyapravacane eveti nāko maudagalyaḥ / taddhi tapastaddhi tapaḥ //",
-          "segment_number": 26
+          "segment_number": 26,
+          "translated_text": "Righteousness and self-study and teaching. Truth and self-study and teaching. Austerity and self-study and teaching. Self-control and self-study and teaching. Tranquility and self-study and teaching. The sacrificial fires and self-study and teaching. The <s>Agnihotra</s> and self-study and teaching. Hospitality and self-study and teaching. Humanity and self-study and teaching. Progeny and self-study and teaching. Procreation and self-study and teaching. Propagation and self-study and teaching. 'Truth alone' — so says <s>Satyavacas Rāthītara</s>. 'Austerity alone' — so says <s>Taponityā Pauruśiṣṭi</s>. 'Self-study and teaching alone' — so says <s>Nāka Maudgalya</s>. For that indeed is austerity; that indeed is austerity."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti navamo 'nuvākaḥ // 9 //",
-          "segment_number": 27
+          "segment_number": 27,
+          "translated_text": "Thus ends the ninth <s>anuvāka</s>. 9."
         },
         {
           "tag": "note",
@@ -892,13 +919,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.10.1"
           },
           "text": "ahaṃ vṛkṣasya rerivā / kīrtiḥ pṛṣṭhaṃ gireriva / ūrdhvapavitro vājinīva svamṛtamasmi / draviṇaṃ savarcasam / sumedha amṛtokṣitaḥ / iti triśaṅkorvedānuvacanam //",
-          "segment_number": 28
+          "segment_number": 28,
+          "translated_text": "I am the mover of the tree of the world. My fame rises high like the peak of a mountain. My source is the pure, the supremely pure; I am like the immortal essence that is in the sun. I am the radiant treasure. I am wise, immortal, and imperishable. Thus is the Vedic recitation of <s>Triśaṅku</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti daśamo 'nuvākaḥ // 10 //",
-          "segment_number": 29
+          "segment_number": 29,
+          "translated_text": "Thus ends the tenth <s>anuvāka</s>. 10."
         },
         {
           "tag": "note",
@@ -937,7 +966,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.1"
           },
           "text": "vedamanūcyācāryontevāsinamanuśāsti / satyaṃ vada / dharmaṃ cara / svādhyāyānmā pramadaḥ / ācāryāya priyaṃ dhanamāhṛtya prajātantuṃ mā vyavacchetsīḥ / satyānna pramaditavyam / dharmānna pramaditavyam / kuśalānna pramaditavyam / bhūtyaina pramaditavyam / svādhyāyapravacanābhyāṃ na pramaditavyam //",
-          "segment_number": 30
+          "segment_number": 30,
+          "translated_text": "Having taught the Veda, the teacher instructs the student: Speak the truth. Practice <s>dharma</s> (righteousness). Do not neglect self-study. Having brought the teacher the wealth dear to him, do not cut off the line of progeny. There should be no negligence regarding truth. There should be no negligence regarding <s>dharma</s>. There should be no negligence regarding welfare. There should be no negligence regarding prosperity. There should be no negligence regarding self-study and teaching."
         },
         {
           "tag": "p",
@@ -945,7 +975,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.2"
           },
           "text": "devapitṛkāryābhyāṃ na pramaditavyam / mātṛdevo bhava / pitṛdevo bhava / ācāryadevo bhava / atithidevo bhava / yānyanavadyāni karmāṇi / tāni sevitavyāni / no itarāṇi / yānyasmākaṃ sucaritāni / tāni tvayopāsyāni //",
-          "segment_number": 31
+          "segment_number": 31,
+          "translated_text": "There should be no negligence regarding duties to the gods and ancestors. Be one to whom the mother is a god. Be one to whom the father is a god. Be one to whom the teacher is a god. Be one to whom the guest is a god. Those actions that are blameless should be practiced, not others. Those of our deeds that are good should be followed by you,"
         },
         {
           "tag": "p",
@@ -953,7 +984,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.3"
           },
           "text": "no itarāṇi / ye ke cārumacchreyāṃso brāhmaṇāḥ / teṣāṃ tvayāsanena praśvasitavyam / śraddhayā deyam / aśraddhayādeyam / śriyā deyam / hriyā deyam / bhiyā deyam / saṃvidā deyam / atha yadi te karmavicikitsā vā vṛttavicikitsā vā syāt //",
-          "segment_number": 32
+          "segment_number": 32,
+          "translated_text": "not others. Those <s>brāhmaṇas</s> who are superior to us should be comforted by you with a seat and hospitality. Giving should be done with faith. It should not be done without faith. It should be done with abundance. It should be done with modesty. It should be done with reverence. It should be done with proper understanding. Now, if you should have any doubt regarding conduct or behavior —"
         },
         {
           "tag": "p",
@@ -961,13 +993,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.11.4"
           },
           "text": "ye tatra brāhmaṇāḥ saṃmarśinaḥ / yuktā āyuktāḥ / alūkṣā dharmakāmāḥ syuḥ / yathā te tatra varteran / tathā tatra vartethāḥ / athābhyākhyāteṣu / ye tatra brāhmaṇāḥ saṃmarśinaḥ / yuktā āyuktāḥ / alūkṣā dharmakāmāḥ syuḥ / yathā te teṣu varteran / tathā teṣu vartethāḥ / eṣa ādeśaḥ / eṣa upadeśaḥ / eṣā vedopaniṣat / etadanuśāsanam / evamupāsitavyam / evamu caitadupāsyam //",
-          "segment_number": 33
+          "segment_number": 33,
+          "translated_text": "Those <s>Brāhmaṇas</s> who are thoughtful, dutiful yet spontaneous, gentle and devoted to <s>dharma</s> — as they would conduct themselves there, so should you conduct yourself. And with regard to those who are accused: those <s>Brāhmaṇas</s> who are thoughtful, dutiful yet spontaneous, gentle and devoted to <s>dharma</s> — as they would conduct themselves toward them, so should you conduct yourself toward them. This is the injunction. This is the teaching. This is the secret teaching of the <s>Veda</s>. This is the instruction. Thus should it be meditated upon. And indeed, thus should this be meditated upon."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti ekādaśo 'nuvākaḥ // 11 //",
-          "segment_number": 34
+          "segment_number": 34,
+          "translated_text": "Thus ends the eleventh <s>anuvāka</s>. // 11 //"
         },
         {
           "tag": "note",
@@ -1652,13 +1686,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_1.12.1"
           },
           "text": "śaṃ no mitraḥ śaṃ varuṇaḥ / śaṃ no bhavatvaryamā / śaṃ na indro bṛhaspatiḥ / śaṃ no viṣṇururukramaḥ / namo brahmaṇe / namaste vāyo / tvameva pratyakṣaṃ brahmāsi / tvāmeva pratyakṣaṃ brahmāvādiṣam / ṛtamavādiṣam / satyamavādiṣam / tanmāmāvīt / tadvaktāramāvīt / āvīnmām / āvīt vaktāram / oṃ śāntiḥ śāntiḥ śāntiḥ //",
-          "segment_number": 35
+          "segment_number": 35,
+          "translated_text": "May <s>Mitra</s> be auspicious to us. May <s>Varuṇa</s> [be auspicious]. May <s>Aryaman</s> be auspicious to us. May <s>Indra</s> and <s>Bṛhaspati</s> [be auspicious] to us. May <s>Viṣṇu</s> of wide strides [be auspicious] to us. Salutation to <s>Brahman</s>. Salutation to you, O <s>Vāyu</s>. You alone are the directly perceptible <s>Brahman</s>. You alone I have declared to be the directly perceptible <s>Brahman</s>. I have spoken <s>ṛta</s> (cosmic order). I have spoken <s>satya</s> (truth). That has protected me. That has protected the speaker. It has protected me. It has protected the speaker. <s>Oṃ</s>. Peace, peace, peace."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti dvādaśo 'nuvākaḥ // 12 //",
-          "segment_number": 36
+          "segment_number": 36,
+          "translated_text": "Thus ends the twelfth <s>anuvāka</s>. // 12 //"
         },
         {
           "tag": "note",
@@ -1698,7 +1734,8 @@
           "tag": "head",
           "attributes": {},
           "text": "brahmānandavallī",
-          "segment_number": 37
+          "segment_number": 37,
+          "translated_text": "<s>Brahmānandavallī</s> (The Chapter on the Bliss of <s>Brahman</s>)"
         },
         {
           "tag": "note",
@@ -1720,13 +1757,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.1.1"
           },
           "text": "oṃ brahmavidāpnoti param / tadeṣābhuktā / satyaṃ jñānamanantaṃ brahma / yo veda nihitaṃ guhāyāṃ parame vyoman / so 'śnute sarvān kāmān saha / brahmaṇā vipaściteti / tasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ / ākāśādvāyuḥ / vāyoragniḥ / agnerāpaḥ / adabhyaḥ pṛthivī / pṛthivyā oṣadhayaḥ / oṣadhībhyonnam / annātpuruṣaḥ / sa vā eṣa puruṣo 'nnnarasamayaḥ / tasyedameva śiraḥ / ayaṃ dakṣiṇaḥ pakṣaḥ / ayamuttaraḥ pakṣaḥ / ayamātmā / idaṃ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
-          "segment_number": 38
+          "segment_number": 38,
+          "translated_text": "<s>Oṃ</s>. The knower of <s>Brahman</s> attains the Supreme. On this, the following [verse] is declared: '<s>Brahman</s> is truth, knowledge, infinite. He who knows it as hidden in the cave [of the heart], in the highest heaven — he enjoys all desires together with the omniscient <s>Brahman</s>.' From that Self, indeed, space (<s>ākāśa</s>) was born. From space, air (<s>vāyu</s>). From air, fire (<s>agni</s>). From fire, water (<s>āpaḥ</s>). From water, earth (<s>pṛthivī</s>). From earth, herbs (<s>oṣadhayaḥ</s>). From herbs, food (<s>anna</s>). From food, the person (<s>puruṣa</s>). This person is indeed made of the essence of food. Of him, this [head] is indeed the head. This is the right wing. This is the left wing. This is the self (trunk). This is the tail, the support. And on this too there is the following verse —"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti prathamo 'nuvākaḥ // 1 //",
-          "segment_number": 39
+          "segment_number": 39,
+          "translated_text": "Thus ends the first <s>anuvāka</s>. // 1 //"
         },
         {
           "tag": "note",
@@ -2409,13 +2448,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.2.1"
           },
           "text": "annādvai prajāḥ prajāyante / yāḥ kāśca pṛthivīṃśritāḥ / atho annenaiva jīvanti / athainadapi yantyantataḥ / annaṃ hi bhūtānāṃ jyeṣṭham / tasmāt sarvauṣadhamucyate / sarvaṃ vai te 'nnamāpnuvanti / ye 'nnaṃ brahmopāsate / annaṃ hi bhūtānāṃ jyeṣṭham / tasmāt sarvauṣadhamucyate / annādbhūtāni jāyante / jātānyannena vardhante / adyate 'tti ca bhūtāni / tasmādannaṃ taducyata iti / tasmādvā etasmādannarasamayāt / anyo 'ntara ātmā prāṇamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya prāṇa eva śiraḥ / vyāno dakṣiṇaḥ pakṣaḥ / apāna uttaraḥ pakṣaḥ / ākāśa ātmā / pṛthivī pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
-          "segment_number": 40
+          "segment_number": 40,
+          "translated_text": "From food, indeed, beings are born — whatever [beings] dwell on earth. Moreover, by food alone they live. And into it they pass at the end. Food is indeed the eldest of beings; therefore it is called the medicine for all. All food is indeed obtained by those who worship food as <s>Brahman</s>. Food is the eldest of beings; therefore it is called the medicine for all. From food, beings are born. Once born, they grow by food. It is eaten and it eats beings — therefore it is called food (<s>anna</s>). Different from this self made of the essence of food, there is an inner self made of <s>prāṇa</s> (vital breath). By that, this [food-self] is filled. This too has the form of a person. According to the person-form [of the food-self], this too has a person-form. Of it, <s>prāṇa</s> (out-breath) is the head, <s>vyāna</s> (diffused breath) the right wing, <s>apāna</s> (in-breath) the left wing, space (<s>ākāśa</s>) the self (trunk), earth the tail and support. And on this too there is the following verse —"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti dvitīyo 'nuvākaḥ // 2 //",
-          "segment_number": 41
+          "segment_number": 41,
+          "translated_text": "Thus ends the second <s>anuvāka</s>. // 2 //"
         },
         {
           "tag": "note",
@@ -2489,13 +2530,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.3.1"
           },
           "text": "prāṇaṃ devā anu prāṇanti / manuṣyāḥ paśavaśca ye / prāṇo hi bhūtānāmāyuḥ / tasmāt sarvāyuṣamucyate / sarvameva ta āyuryanti / ye prāṇaṃ brahmopāsate / prāṇo hi bhūtānāmāyuḥ / tasmāt sarvāyuṣamucyata iti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmāt prāṇamayāt / anyo 'ntara ātmā manomayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya yajureva śiraḥ / ṛgdakṣiṇaḥ pakṣaḥ / sāmottaraḥ pakṣaḥ / ādeśa ātmā / atharvāṅgirasaḥ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
-          "segment_number": 42
+          "segment_number": 42,
+          "translated_text": "The <s>devas</s> breathe following <s>prāṇa</s>, as do human beings and animals. <s>Prāṇa</s> is indeed the life of beings; therefore it is called 'the life of all.' Those who worship <s>prāṇa</s> as <s>Brahman</s> attain the full span of life. <s>Prāṇa</s> is indeed the life of beings; therefore it is called the life of all. Of this [prāṇa-self], the embodied self is the same as that of the preceding [food-self]. Different from this self made of <s>prāṇa</s>, there is an inner self made of mind (<s>manomaya</s>). By that, this [prāṇa-self] is filled. This too has the form of a person. According to the person-form [of the prāṇa-self], this too has a person-form. Of it, the <s>Yajur</s> [<s>Veda</s>] is the head, the <s>Ṛg</s> [<s>Veda</s>] the right wing, the <s>Sāma</s> [<s>Veda</s>] the left wing, the teaching (<s>ādeśa</s>) the self (trunk), the <s>Atharva-Aṅgirasa</s> [hymns] the tail and support. And on this too there is the following verse —"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti tṛtīyo 'nuvākaḥ // 3 //",
-          "segment_number": 43
+          "segment_number": 43,
+          "translated_text": "Thus ends the third <s>anuvāka</s>. // 3 //"
         },
         {
           "tag": "note",
@@ -2617,13 +2660,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.4.1"
           },
           "text": "yato vāco nivartante / aprāpya manasā saha / ānandaṃ brahmaṇo vidvān / na bibheti kadācaneti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmānmanomayāt / anyontara ātmā vijñānamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya śraddhaiva śiraḥ / ṛtaṃ dakṣiṇaḥ pakṣaḥ / satyamuttaraḥ pakṣaḥ / yoga ātmā / mahaḥ pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati //",
-          "segment_number": 44
+          "segment_number": 44,
+          "translated_text": "'From which words turn back, unable to reach it, together with the mind — the one who knows the bliss of <s>Brahman</s> fears nothing at any time.' Of this [mind-self], the embodied self is the same as that of the preceding [prāṇa-self]. Different from this self made of mind, there is an inner self made of understanding (<s>vijñānamaya</s>). By that, this [mind-self] is filled. This too has the form of a person. According to the person-form [of the mind-self], this too has a person-form. Of it, faith (<s>śraddhā</s>) is the head, <s>ṛta</s> (cosmic order) the right wing, <s>satya</s> (truth) the left wing, <s>yoga</s> the self (trunk), <s>mahas</s> (the great [principle]) the tail and support. And on this too there is the following verse —"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti caturtho 'nuvākaḥ // 4 //",
-          "segment_number": 45
+          "segment_number": 45,
+          "translated_text": "Thus ends the fourth <s>anuvāka</s>. // 4 //"
         },
         {
           "tag": "note",
@@ -2670,13 +2715,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.5.1"
           },
           "text": "vijñānaṃ yajñaṃ tanute / karmāṇi tanute 'pi ca / vijñānaṃ devāḥ sarve / brahma jyeṣṭhamupāsate / vijñānaṃ brahma cedveda / tasmaccenna pramādyati / śarīre pāpmano hitvā / sarvānkāmānsamaśnuta iti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / tasmādvā etasmādvijñānamayāt / anyo 'ntara ātmānandamayaḥ / tenaiṣa pūrṇaḥ / sa vā eṣa puruṣavidha eva / tasya puruṣavidhatām / anvayaṃ puruṣavidhaḥ / tasya priyameva śiraḥ / modo dakṣiṇaḥ pakṣaḥ / pramoda uttaraḥ pakṣaḥ / ānanda ātmā / brahma pucchaṃ pratiṣṭhā / tadapyeṣa śloko bhavati // TaittU_2,5.1 //",
-          "segment_number": 46
+          "segment_number": 46,
+          "translated_text": "Understanding (<s>vijñāna</s>) directs the sacrifice; it directs all actions too. All the <s>devas</s> worship understanding as <s>Brahman</s>, the eldest. If one knows understanding as <s>Brahman</s> and does not swerve from it, abandoning sins in the body, one enjoys all desires. Of this [vijñāna-self], the embodied self is the same as that of the preceding [mind-self]. Different from this self made of understanding, there is an inner self made of bliss (<s>ānandamaya</s>). By that, this [vijñāna-self] is filled. This too has the form of a person. According to the person-form [of the vijñāna-self], this too has a person-form. Of it, joy (<s>priya</s>) is the head, delight (<s>moda</s>) the right wing, great delight (<s>pramoda</s>) the left wing, bliss (<s>ānanda</s>) the self (trunk), <s>Brahman</s> the tail and support. And on this too there is the following verse —"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti pañcamo 'nuvākaḥ // 5 //",
-          "segment_number": 47
+          "segment_number": 47,
+          "translated_text": "Thus ends the fifth <s>anuvāka</s>. // 5 //"
         },
         {
           "tag": "note",
@@ -2847,13 +2894,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.6.1"
           },
           "text": "asanneva sa bhavati / asadabrahmeti veda cet / asti brahmeti cedveda / santamenaṃ tato viduriti / tasyaiṣa eva śārīra ātmā / yaḥ pūrvasya / athāto 'nupraśnāḥ / utāvidvānamuṃ lokaṃ pretya / kaścana gacchatī3 āho vidvānamuṃ lokaṃ pretya kaścitsamaśnutā3u / so 'kāmayata / bahu syāṃ prajāyeyeti / sa tapo 'tapyata / sa tapastaptvā / idaṃ sarvamasṛjata / yadidaṃ kiñca / tatsṛṣṭvā / tadevānuprāviśat / tadanupraviśya / sacca tyaccābhavat / niruktaṃ cāniruktaṃ ca / nilayanaṃ cānilayanaṃ ca / vijñānaṃ cāvijñānaṃ ca / satyaṃ cānṛtaṃ ca satyamabhavat / yadidaṃ kiñca / tatsatyamityācakṣate / a tadapyeṣa śloko bhavati //",
-          "segment_number": 48
+          "segment_number": 48,
+          "translated_text": "If one thinks '<s>Brahman</s> is non-existent,' one becomes non-existent oneself. If one knows '<s>Brahman</s> exists,' then they know one as existing. Of this [bliss-self], the embodied self is the same as that of the preceding [vijñāna-self]. Now, the following questions [arise]: Does the ignorant one, after departing, reach that world? Or does the wise one, after departing, attain that world? He desired: 'May I become many, may I be born.' He performed <s>tapas</s> (austerity). Having performed <s>tapas</s>, He created all this — whatever there is. Having created it, He entered into it. Having entered into it, He became both the manifest (<s>sat</s>) and the unmanifest (<s>tyat</s>), the defined and the undefined, the supported and the unsupported, the conscious and the unconscious, the real and the unreal. He became the real — whatever there is. That is what they call 'the Real' (<s>Satya</s>). And on this too there is the following verse —"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //",
-          "segment_number": 49
+          "segment_number": 49,
+          "translated_text": "Thus ends the sixth <s>anuvāka</s>. // 6 //"
         },
         {
           "tag": "note",
@@ -3161,13 +3210,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.7.1"
           },
           "text": "asadvā idamagra āsīt / tato vai sadajāyata / tadātmānaṃ svayamakuruta / tasmāttatsukṛtamucyata iti / yadvai tat sukṛtam / raso vai saḥ / rasaṃ hyevāyaṃ labdhvānandī bhavati / ko hyevānyātkaḥ prāṇyāt / yadeṣa ākāśa ānando na syāt / eṣa hyevānandayāti / yadā hyevaiṣa etasminnadṛśye 'nātmye 'nirukte 'nilayane 'bhayaṃ pratiṣṭhāṃ vindate / atha so 'bhayaṃ gato bhavati / yadā hyevaiṣa etasminnudaramantaraṃ kurute / atha tasya bhayaṃ bhavati / tatveva bhayaṃ viduṣo 'manvānasya / tadapyeṣa śloko bhavati //",
-          "segment_number": 50
+          "segment_number": 50,
+          "translated_text": "In the beginning, this [universe] was indeed non-existent. From that, the existent was born. That made itself by itself; therefore it is called the self-made (<s>sukṛta</s>). That which is self-made — He is indeed the essence (<s>rasa</s>). For truly, having obtained the essence, one becomes blissful. Who indeed would breathe, who would live, if this bliss (<s>ānanda</s>) were not in space? It is He indeed who bestows bliss. When one finds fearless rest in that which is invisible, bodiless, inexpressible, and without support — then one has reached fearlessness. But when one makes even the slightest distinction in it, then there is fear for that one. That very [<s>Brahman</s>] is the source of fear for the one who thinks he knows, [yet does] not reflect [properly]. And on this too there is the following verse —"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti saptamo 'nuvākaḥ // 7 //",
-          "segment_number": 51
+          "segment_number": 51,
+          "translated_text": "Thus ends the seventh <s>anuvāka</s>. // 7 //"
         },
         {
           "tag": "note",
@@ -3214,7 +3265,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.1"
           },
           "text": "bhīṣāsmādvātaḥ pavate / bhīṣodeti sūryaḥ / bhīṣāsmādagniścendraśca / mṛtyurdhāvati pañcama iti / saiṣānandasya mīmāṃsā bhavati / yuvā syātsādhuyuvādhyāyakaḥ / āśiṣṭho dṛḍhiṣṭho baliṣṭhaḥ / tasyeyaṃ pṛthivī sarvā vittasya pūrṇā syāt / sa eko mānuṣa ānandaḥ / te ye śataṃ mānuṣā ānandāḥ //",
-          "segment_number": 52
+          "segment_number": 52,
+          "translated_text": "Out of fear of Him, the wind blows. Out of fear, the sun rises. Out of fear of Him, <s>Agni</s> and <s>Indra</s> [function], and Death runs as the fifth. This is the examination of bliss (<s>ānandamīmāṃsā</s>): Suppose a young man — a good young man, well-read, most resolute, most firm, most strong — and suppose this entire earth, filled with wealth, were his. That is one unit of human bliss. A hundred units of human bliss"
         },
         {
           "tag": "p",
@@ -3222,7 +3274,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.2"
           },
           "text": "sa eko manuṣyagandharvāṇāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ manuṣyagandharvāṇāmānandāḥ / sa eko devagandharvāṇāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ devagandharvāṇāmānandāḥ / sa ekaḥ pitṝṇāṃ ciralokalokānāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ pitṝṇāṃ ciralokalokānāmānandāḥ / sa eka ājānajānāṃ devānāmānandaḥ //",
-          "segment_number": 53
+          "segment_number": 53,
+          "translated_text": "equal one unit of bliss of the human <s>Gandharvas</s> — and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of the human <s>Gandharvas</s> equal one unit of bliss of the celestial <s>Gandharvas</s> — and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of the celestial <s>Gandharvas</s> equal one unit of bliss of the <s>Pitṛs</s> in their long-enduring worlds — and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of the <s>Pitṛs</s> in their long-enduring worlds equal one unit of bliss of the <s>devas</s> born in heaven (<s>ājānaja</s>) —"
         },
         {
           "tag": "p",
@@ -3230,7 +3283,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.3"
           },
           "text": "śrotriyasya cākāmahatasya / te ye śatam ājānajānāṃ devānāmānandāḥ / sa ekaḥ karmadevānāṃ devānāmānandaḥ / ye karmaṇā devānapiyanti / śrotriyasya cākāmahatasya / te ye śataṃ karmadevānāṃ devānāmānandāḥ / sa eko devānāmānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ devānāmānandāḥ / sa eka indrasyānandaḥ //",
-          "segment_number": 54
+          "segment_number": 54,
+          "translated_text": "and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of the <s>devas</s> born in heaven equal one unit of bliss of the <s>devas</s> who have attained divinity through ritual action (<s>karmadevāḥ</s>) — those who reach the <s>devas</s> by their actions — and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of the <s>karma-devas</s> equal one unit of bliss of the <s>devas</s> — and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of the <s>devas</s> equal one unit of bliss of <s>Indra</s> —"
         },
         {
           "tag": "p",
@@ -3238,7 +3292,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.4"
           },
           "text": "śrotriyasya cākāmahatasya / te ye śatamindrasyānandāḥ / sa eko bṛhaspaterānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ bṛhaspaterānandāḥ / sa ekaḥ prajāpaterānandaḥ / śrotriyasya cākāmahatasya / te ye śataṃ prajāpaterānandāḥ / sa eko brahmaṇa ānandaḥ / śrotriyasya cākāmahatasya //",
-          "segment_number": 55
+          "segment_number": 55,
+          "translated_text": "and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of <s>Indra</s> equal one unit of bliss of <s>Bṛhaspati</s> — and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of <s>Bṛhaspati</s> equal one unit of bliss of <s>Prajāpati</s> — and also of a <s>Vedic</s> scholar free from desire. A hundred units of bliss of <s>Prajāpati</s> equal one unit of bliss of <s>Brahman</s> — and also of a <s>Vedic</s> scholar free from desire."
         },
         {
           "tag": "note",
@@ -3285,13 +3340,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.8.5"
           },
           "text": "sa yaścāyaṃ puruṣe / yaścāsāvāditye / sa ekaḥ / sa ya evaṃvit / asmāllokātpretya / etamannamayamātmānamupasaṅkrāmati / etaṃ prāṇamayamātmānamupasaṅkrāmati / etaṃ manomayamātmānamupasaṅkrāmati / etaṃ vijñānamayamātmānamupasaṅkrāmati / etamānandamayamātmānamupasaṅkrāmati / tadapyeṣa śloko bhavati //",
-          "segment_number": 56
+          "segment_number": 56,
+          "translated_text": "He who is this [self] in the person, and he who is yonder in the sun — he is one. He who knows thus, departing from this world, attains this self made of food (<s>annamaya</s>), attains this self made of vital breath (<s>prāṇamaya</s>), attains this self made of mind (<s>manomaya</s>), attains this self made of understanding (<s>vijñānamaya</s>), attains this self made of bliss (<s>ānandamaya</s>). On this there is also this verse: //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti aṣṭamo 'nuvākaḥ // 8 //",
-          "segment_number": 57
+          "segment_number": 57,
+          "translated_text": "Thus ends the eighth <s>anuvāka</s>. // 8 //"
         },
         {
           "tag": "note",
@@ -3648,19 +3705,22 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_2.9.1"
           },
           "text": "yato vāco nivartante / aprāpya manasā saha / ānandaṃ brahmaṇo vidvān / na bibheti kutaścaneti / etaṃ ha vāva na tapati / kimahaṃ sādhu nākaravam / kimahaṃ pāpamakaravamiti / sa ya evaṃ vidvānete ātmānaṃ spṛṇute / ubhe hyevaiṣa ete ātmānaṃ spṛṇute / ya evaṃ veda / ityupaniṣat //",
-          "segment_number": 58
+          "segment_number": 58,
+          "translated_text": "From which words turn back, together with the mind, not having reached [it] — the wise one who knows the bliss of <s>Brahman</s> fears nothing whatsoever. This [thought] indeed does not torment him: 'Why did I not do good? Why did I commit evil?' He who knows thus regards both of these as the Self. Indeed, he who knows thus regards both of these as the Self. This is the <s>Upaniṣad</s>. //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti navamo 'nuvākaḥ // 9 //",
-          "segment_number": 59
+          "segment_number": 59,
+          "translated_text": "Thus ends the ninth <s>anuvāka</s>. // 9 //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti brahmavallī //",
-          "segment_number": 60
+          "segment_number": 60,
+          "translated_text": "Thus ends the <s>Brahmavallī</s>. //"
         },
         {
           "tag": "note",
@@ -3695,7 +3755,8 @@
           "tag": "head",
           "attributes": {},
           "text": "bhṛguvallī",
-          "segment_number": 61
+          "segment_number": 61,
+          "translated_text": "<s>Bhṛguvallī</s>"
         },
         {
           "tag": "note",
@@ -3745,13 +3806,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.1.1"
           },
           "text": "bhṛgurvai vāruṇiḥ / varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / tasmā etatprovāca / annaṃ prāṇaṃ cakṣuḥ śrotraṃ mano vācamiti / taṃ hovāca / yato vā imāni bhūtāni jāyante / yena jātāni jīvanti / yatprayanyabhisaṃviśanti / tadvijijñāsasva / tadbrahmeti / sa tapo 'tapyata / sa tapastaptvā //",
-          "segment_number": 62
+          "segment_number": 62,
+          "translated_text": "<s>Bhṛgu</s>, the son of <s>Varuṇa</s>, approached his father <s>Varuṇa</s> [saying]: 'Teach me, revered sir, <s>Brahman</s>.' To him he declared this: 'Food, breath, sight, hearing, mind, and speech.' He said to him: 'That from which these beings are born, that by which, once born, they live, that into which, departing, they enter — seek to know that. That is <s>Brahman</s>.' He performed <s>tapas</s> (austerity). Having performed <s>tapas</s>: //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti prathamo 'nuvākaḥ // 1 //",
-          "segment_number": 63
+          "segment_number": 63,
+          "translated_text": "Thus ends the first <s>anuvāka</s>. // 1 //"
         },
         {
           "tag": "note",
@@ -3820,13 +3883,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.2.1"
           },
           "text": "annaṃ brahmeti vyajānāt / annādadhyeva khalvimāni bhutāni jāyante / annena jātāni jīvanti / annaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //",
-          "segment_number": 64
+          "segment_number": 64,
+          "translated_text": "He understood that food (<s>anna</s>) is <s>Brahman</s>. For from food alone indeed are these beings born; by food, once born, they live; into food, departing, they enter. Having understood that, he again approached his father <s>Varuṇa</s> [saying]: 'Teach me, revered sir, <s>Brahman</s>.' He said to him: 'Seek to know <s>Brahman</s> through <s>tapas</s>. <s>Tapas</s> is <s>Brahman</s>.' He performed <s>tapas</s>. Having performed <s>tapas</s>: //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti dvitīyo 'nuvākaḥ // 2 //",
-          "segment_number": 65
+          "segment_number": 65,
+          "translated_text": "Thus ends the second <s>anuvāka</s>. // 2 //"
         },
         {
           "tag": "note",
@@ -3856,13 +3921,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.3.1"
           },
           "text": "prāṇo brahmeti vyajānāt / prāṇādadhyeva khalvimāni bhūtāni jāyante / prāṇena jātāni jīvanti / prāṇaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā // 1 //",
-          "segment_number": 66
+          "segment_number": 66,
+          "translated_text": "He understood that breath (<s>prāṇa</s>) is <s>Brahman</s>. For from breath alone indeed are these beings born; by breath, once born, they live; into breath, departing, they enter. Having understood that, he again approached his father <s>Varuṇa</s> [saying]: 'Teach me, revered sir, <s>Brahman</s>.' He said to him: 'Seek to know <s>Brahman</s> through <s>tapas</s>. <s>Tapas</s> is <s>Brahman</s>.' He performed <s>tapas</s>. Having performed <s>tapas</s>: // 1 //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti tṛtīyo 'nuvākaḥ // 3 //",
-          "segment_number": 67
+          "segment_number": 67,
+          "translated_text": "Thus ends the third <s>anuvāka</s>. // 3 //"
         },
         {
           "tag": "p",
@@ -3870,13 +3937,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.4.1"
           },
           "text": "mano brahmeti vyajānāt / manaso hyeva khalvimāni bhūtāni jāyante / manasā jātāni jīvanti / manaḥ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //",
-          "segment_number": 68
+          "segment_number": 68,
+          "translated_text": "He understood that mind (<s>manas</s>) is <s>Brahman</s>. For from mind alone indeed are these beings born; by mind, once born, they live; into mind, departing, they enter. Having understood that, he again approached his father <s>Varuṇa</s> [saying]: 'Teach me, revered sir, <s>Brahman</s>.' He said to him: 'Seek to know <s>Brahman</s> through <s>tapas</s>. <s>Tapas</s> is <s>Brahman</s>.' He performed <s>tapas</s>. Having performed <s>tapas</s>: //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti caturtho 'nuvākaḥ // 4 //",
-          "segment_number": 69
+          "segment_number": 69,
+          "translated_text": "Thus ends the fourth <s>anuvāka</s>. // 4 //"
         },
         {
           "tag": "p",
@@ -3884,13 +3953,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.5.1"
           },
           "text": "vijñānaṃ brahmeti vyajānāt / vijñānādadhyeva khalvimāni bhūtāni jāyante / vijñānena jātāni jīvanti / vijñānaṃ prayantyabhisaṃviśantīti / tadvijñāya / punareva varuṇaṃ pitaramupasasāra / adhīhi bhagavo brahmeti / taṃ hovāca / tapasā brahma vijijñāsasva / tapo brahmeti / sa tapo 'tapyata / sa tapastaptvā //",
-          "segment_number": 70
+          "segment_number": 70,
+          "translated_text": "He understood that understanding (<s>vijñāna</s>) is <s>Brahman</s>. For from understanding alone indeed are these beings born; by understanding, once born, they live; into understanding, departing, they enter. Having understood that, he again approached his father <s>Varuṇa</s> [saying]: 'Teach me, revered sir, <s>Brahman</s>.' He said to him: 'Seek to know <s>Brahman</s> through <s>tapas</s>. <s>Tapas</s> is <s>Brahman</s>.' He performed <s>tapas</s>. Having performed <s>tapas</s>: //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti pañcamo 'nuvākaḥ // 5 //",
-          "segment_number": 71
+          "segment_number": 71,
+          "translated_text": "Thus ends the fifth <s>anuvāka</s>. // 5 //"
         },
         {
           "tag": "p",
@@ -3898,13 +3969,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.6.1"
           },
           "text": "ānando brahmeti vyajānāt / ānandādhyeva khalvimāni bhūtāni jāyante / ānandena jātāni jīvanti / ānandaṃ prayantyabhisaṃviśantīti / saiṣā bhārgavī vāruṇī vidyā / parame vyomanpratiṣṭhitā / sa ya evaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //",
-          "segment_number": 72
+          "segment_number": 72,
+          "translated_text": "He understood that bliss (<s>ānanda</s>) is <s>Brahman</s>. For from bliss alone indeed are these beings born; by bliss, once born, they live; into bliss, departing, they enter. This is the knowledge of <s>Bhṛgu</s>, the son of <s>Varuṇa</s>, established in the highest heaven. He who knows thus is firmly established. He becomes a possessor of food and an eater of food. He becomes great in offspring, cattle, and the splendor of sacred knowledge. Great in fame. //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti ṣaṣṭho 'nuvākaḥ // 6 //",
-          "segment_number": 73
+          "segment_number": 73,
+          "translated_text": "Thus ends the sixth <s>anuvāka</s>. // 6 //"
         },
         {
           "tag": "note",
@@ -3927,13 +4000,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.7.1"
           },
           "text": "annaṃ na nindyāt / tadavratam / prāṇo vā annam / śarīramannādam / prāṇe śarīraṃ pratiṣṭhitam / śarīre prāṇaḥ pratiṣṭhitaḥ / tadetadannmanne pratiṣṭhitam / sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //",
-          "segment_number": 74
+          "segment_number": 74,
+          "translated_text": "One should not despise food. That is the vow. Breath indeed is food; the body is the eater of food. The body is established in breath; breath is established in the body. Thus food is established in food. He who knows this — that food is established in food — is firmly established. He becomes a possessor of food and an eater of food. He becomes great in offspring, cattle, and the splendor of sacred knowledge. Great in fame. //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti saptamo 'nuvākaḥ // 7 //",
-          "segment_number": 75
+          "segment_number": 75,
+          "translated_text": "Thus ends the seventh <s>anuvāka</s>. // 7 //"
         },
         {
           "tag": "note",
@@ -3956,13 +4031,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.8.1"
           },
           "text": "annaṃ na paricakṣīta / tadavratam / āpo vā annam / jyotirannādam / apsu jyotiḥ pratiṣṭhitam / jyotiṣyāpaḥ pratiṣṭhitāḥ / tadetadannamanne pratiṣṭhitam /sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahān kīrtyā //",
-          "segment_number": 76
+          "segment_number": 76,
+          "translated_text": "One should not reject food. That is the vow. Water indeed is food; fire is the eater of food. Fire is established in water; water is established in fire. Thus food is established in food. He who knows this — that food is established in food — is firmly established. He becomes a possessor of food and an eater of food. He becomes great in offspring, cattle, and the splendor of sacred knowledge. Great in fame. //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti aṣṭamo 'nuvākaḥ // 8 //",
-          "segment_number": 77
+          "segment_number": 77,
+          "translated_text": "Thus ends the eighth <s>anuvāka</s>. // 8 //"
         },
         {
           "tag": "note",
@@ -3985,13 +4062,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.9.1"
           },
           "text": "annaṃ bahu kurvīta / tadavratam / pṛthivī vā annam / ākāśo 'nnādaḥ / pṛthivyāmākāśaḥ pratiṣṭhitaḥ / ākāśe pṛthivī pratiṣṭhitā / tadetadannamanne pratiṣṭhitam / sa ya etadannamanne pratiṣṭhitaṃ veda pratitiṣṭhati / annavānannādo bhavati / mahānbhavati prajayā paśubhirbrahmavarcasena / mahānkīrtyā //",
-          "segment_number": 78
+          "segment_number": 78,
+          "translated_text": "One should prepare food in abundance. That is the vow. Earth indeed is food; space is the eater of food. In earth, space is established; in space, earth is established. Thus food is established in food. He who knows this — that food is established in food — is firmly established. He becomes a possessor of food and an eater of food. He becomes great in offspring, cattle, and the splendor of sacred knowledge. Great in fame. //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti navamo 'nuvākaḥ // 9 //",
-          "segment_number": 79
+          "segment_number": 79,
+          "translated_text": "Thus ends the ninth <s>anuvāka</s>. // 9 //"
         },
         {
           "tag": "note",
@@ -4014,7 +4093,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.1"
           },
           "text": "na kañcana vasatau pratyācakṣīta / tadavratam / tasmādyayā kayā ca vidhayā bahvannaṃ prāpnuyāt / arādhyasmā annamityācakṣate / etadvai mukhato 'naṃ rāddham / mukhato 'smā annaṃ rādhyate / etadvai madhyato 'naṃ rāddham / madhyato 'smā annaṃ rādhyate / edadvai antato 'nnaṃ rāddham / antato 'smā annaṃ rādhyate //",
-          "segment_number": 80
+          "segment_number": 80,
+          "translated_text": "One should not turn away anyone at one's dwelling. That is the vow. Therefore, by whatever means, one should acquire abundant food. They declare to him: 'Food has been prepared for you.' If this [food] has been prepared with devotion from the beginning, food is prepared for him from the beginning. If this [food] has been prepared with devotion in the middle, food is prepared for him in the middle. If this [food] has been prepared with devotion at the end, food is prepared for him at the end. //"
         },
         {
           "tag": "note",
@@ -4037,7 +4117,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.2"
           },
           "text": "kṣema iti vāci / yogakṣema iti prāṇāpānayoḥ / karmeti hastayoḥ / gatiriti pādayoḥ / vimuktiriti pāyau / iti mānuṣīḥ samājñāḥ / atha daivīḥ / tṛptiriti vṛṣṭau / balamiti vidyuti //",
-          "segment_number": 81
+          "segment_number": 81,
+          "translated_text": "Security (<s>kṣema</s>) — [this is <s>Brahman</s> recognized] in speech. Acquisition and security (<s>yogakṣema</s>) — in the <s>prāṇa</s> and <s>apāna</s>. Action (<s>karma</s>) — in the hands. Movement (<s>gati</s>) — in the feet. Release (<s>vimukti</s>) — in the excretory organ. These are the human recognitions. Now the divine: Satisfaction (<s>tṛpti</s>) — in rain. Strength (<s>bala</s>) — in lightning. //"
         },
         {
           "tag": "note",
@@ -4060,7 +4141,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.3"
           },
           "text": "yaśa iti paśuṣu / jyotiriti nakṣatreṣu / prajātiramṛtamānanda ityupasthe / sarvamityākāśe / tatpratiṣṭhetyupāsīta / pratiṣṭhāvān bhavati / tanmaha ityupāsīta / mahānbhavati / tanmana ityupāsīta / mānavānbhavati //",
-          "segment_number": 82
+          "segment_number": 82,
+          "translated_text": "Fame (<s>yaśas</s>) — in cattle. Light (<s>jyotis</s>) — in the stars. Progeny, immortality, and bliss (<s>prajāti</s>, <s>amṛta</s>, <s>ānanda</s>) — in the generative organ. Everything (<s>sarvam</s>) — in space. One should meditate on that as 'the foundation' — one becomes firmly established. One should meditate on that as 'the great' — one becomes great. One should meditate on that as 'mind' — one becomes possessed of mind. //"
         },
         {
           "tag": "note",
@@ -4107,7 +4189,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.4"
           },
           "text": "tannama ityupāsīta / namyante 'smai kāmāḥ / tadabrahmetyupāsīta / brahmavānbhavati / tadabrahmaṇaḥ parimara ityupāsīta / paryeṇaṃ mriyante dviṣantaḥ sapatnāḥ / pari ye 'priyā bhrātṛvyāḥ / sa yaścāyaṃ puruṣe / yaścāsāvāditye / sa ekaḥ //",
-          "segment_number": 83
+          "segment_number": 83,
+          "translated_text": "One should meditate on that as 'homage' (<s>namas</s>) — desires bow down before him. One should meditate on that as '<s>Brahman</s>' — one becomes possessed of <s>Brahman</s>. One should meditate on that as 'the dying-around of <s>Brahman</s>' — his hateful rivals die around him, and [so do] those kinsmen who are unfriendly. He who is this [self] in the person, and he who is yonder in the sun — he is one. //"
         },
         {
           "tag": "note",
@@ -4242,7 +4325,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.5"
           },
           "text": "sa ya evaṃvit / asmāllokātpretya / etamannamayamātmānamupasaṅkramya /etaṃ prāṇamayamātmānamupasaṅkramya / etaṃ manomayamātmānamupasaṅkramya / etaṃ vijñānamayamātmānamupasaṅkramya / etamānandamayamātmānamupasaṅkramya / imāṃllokankāmānnī kāmarūpyanusañcaran / etat sāma gāyannāste / hā3vu hā3vu hā3vu //",
-          "segment_number": 84
+          "segment_number": 84,
+          "translated_text": "He who knows thus, departing from this world, having attained this self made of food, having attained this self made of breath, having attained this self made of mind, having attained this self made of understanding, having attained this self made of bliss, roaming through these worlds, eating what he desires, assuming what form he desires — he sits singing this <s>Sāman</s>: Hā vu, hā vu, hā vu! //"
         },
         {
           "tag": "note",
@@ -4289,13 +4373,15 @@
             "{http://www.w3.org/XML/1998/namespace}id": "TaittU_3.10.6"
           },
           "text": "ahamannamahamannamahamannam / ahamannādo3 'hamannādo3 'hamannādaḥ / ahaṃ ślokakṛdahaṃ ślokakṛdahaṃ ślokakṛt / ahamasmi prathamajā ṛtā3sya / pūrvaṃ devebhyo 'mṛtasya nā3bhāyi / yo mā dadāti sa ideva mā3vāḥ / ahamannamannamadantamā3dmi / ahaṃ viśvaṃ bhuvanamabhyabhavā3m / suvarna jyotiḥ / ya evaṃ veda / ityupaniṣat //",
-          "segment_number": 85
+          "segment_number": 85,
+          "translated_text": "'I am food! I am food! I am food! I am the eater of food! I am the eater of food! I am the eater of food! I am the maker of the verse! I am the maker of the verse! I am the maker of the verse! I am the firstborn of the cosmic order (<s>ṛta</s>)! Before the gods, [I was] at the navel of immortality! He who gives me — he alone thus preserves me! I am food — I eat him who eats food! I have overcome the whole world! [I am] golden light!' He who knows thus — this is the <s>Upaniṣad</s>. //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti daśamo 'nuvākaḥ // iti bhugṛvallī // iti taittirīyopaniṣat //",
-          "segment_number": 86
+          "segment_number": 86,
+          "translated_text": "Thus ends the tenth <s>anuvāka</s>. // Thus ends the <s>Bhṛguvallī</s>. // Thus ends the <s>Taittirīya Upaniṣad</s>. //"
         },
         {
           "tag": "note",

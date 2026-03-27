@@ -54,10 +54,12 @@
             {
               "tag": "text",
               "text": "yamasmṛtiḥ |",
-              "segment_number": 2
+              "segment_number": 2,
+              "translated_text": "<s>Yamasmṛti</s>."
             }
           ],
-          "segment_number": 1
+          "segment_number": 1,
+          "translated_text": "<s>Oṃ</s> <s>tatsad</s> — salutation to <s>Brahman</s>."
         },
         {
           "tag": "lg",
@@ -76,7 +78,8 @@
                     "n": "a"
                   },
                   "text": "śrutismṛtyuditaṃ dharmaṃ",
-                  "segment_number": 3
+                  "segment_number": 3,
+                  "translated_text": "The <s>dharma</s> declared in <s>Śruti</s> and <s>Smṛti</s>,"
                 },
                 {
                   "tag": "seg",
@@ -85,12 +88,14 @@
                     "n": "b"
                   },
                   "text": "varṇānām anupūrvaśaḥ",
-                  "segment_number": 4
+                  "segment_number": 4,
+                  "translated_text": "for the <s>varṇas</s> in due order,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 5
+                  "segment_number": 5,
+                  "translated_text": ""
                 }
               ]
             },
@@ -105,7 +110,8 @@
                     "n": "c"
                   },
                   "text": "prābravīd ṛṣibhiḥ pṛṣṭo",
-                  "segment_number": 6
+                  "segment_number": 6,
+                  "translated_text": "was expounded, when asked by the sages,"
                 },
                 {
                   "tag": "seg",
@@ -114,12 +120,14 @@
                     "n": "d"
                   },
                   "text": "munīnām agraṇīr yamaḥ",
-                  "segment_number": 7
+                  "segment_number": 7,
+                  "translated_text": "by <s>Yama</s>, the foremost among munis."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 8
+                  "segment_number": 8,
+                  "translated_text": ""
                 }
               ]
             }
@@ -142,7 +150,8 @@
                     "n": "a"
                   },
                   "text": "yo bhuñjāno 'śucir vāpi",
-                  "segment_number": 9
+                  "segment_number": 9,
+                  "translated_text": "He who, while eating or being impure,"
                 },
                 {
                   "tag": "seg",
@@ -151,12 +160,14 @@
                     "n": "b"
                   },
                   "text": "caṇḍālaṃ patitaṃ spṛśet",
-                  "segment_number": 10
+                  "segment_number": 10,
+                  "translated_text": "touches a <s>caṇḍāla</s> or an outcaste,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 11
+                  "segment_number": 11,
+                  "translated_text": ""
                 }
               ]
             },
@@ -171,7 +182,8 @@
                     "n": "c"
                   },
                   "text": "krodhād ajñānato vāpi",
-                  "segment_number": 12
+                  "segment_number": 12,
+                  "translated_text": "whether out of anger or out of ignorance —"
                 },
                 {
                   "tag": "seg",
@@ -180,12 +192,14 @@
                     "n": "d"
                   },
                   "text": "tasya vakṣyāmi niṣkṛtim",
-                  "segment_number": 13
+                  "segment_number": 13,
+                  "translated_text": "I shall declare the expiation for him."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 14
+                  "segment_number": 14,
+                  "translated_text": ""
                 }
               ]
             }
@@ -208,7 +222,8 @@
                     "n": "a"
                   },
                   "text": "ṣaḍrātraṃ vā trirātraṃ vā",
-                  "segment_number": 15
+                  "segment_number": 15,
+                  "translated_text": "He should observe a fast of six nights or three nights,"
                 },
                 {
                   "tag": "seg",
@@ -217,12 +232,14 @@
                     "n": "b"
                   },
                   "text": "yathāsaṃkhyaṃ samācaret",
-                  "segment_number": 16
+                  "segment_number": 16,
+                  "translated_text": "respectively, as prescribed;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 17
+                  "segment_number": 17,
+                  "translated_text": ""
                 }
               ]
             },
@@ -237,7 +254,8 @@
                     "n": "c"
                   },
                   "text": "snātvā triṣavaṇaṃ vipraḥ",
-                  "segment_number": 18
+                  "segment_number": 18,
+                  "translated_text": "having bathed at the three <s>savanas</s> (morning, midday, and evening pressings), a <s>brāhmaṇa</s>"
                 },
                 {
                   "tag": "seg",
@@ -246,12 +264,14 @@
                     "n": "d"
                   },
                   "text": "pañcagavyena śudhyati",
-                  "segment_number": 19
+                  "segment_number": 19,
+                  "translated_text": "is purified by <s>pañcagavya</s> (the five cow-products)."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 20
+                  "segment_number": 20,
+                  "translated_text": ""
                 }
               ]
             }
@@ -274,7 +294,8 @@
                     "n": "a"
                   },
                   "text": "bhuñjānasya tu viprasya",
-                  "segment_number": 21
+                  "segment_number": 21,
+                  "translated_text": "If, while a <s>brāhmaṇa</s> is eating,"
                 },
                 {
                   "tag": "seg",
@@ -283,12 +304,14 @@
                     "n": "b"
                   },
                   "text": "kadācit sravate gudam",
-                  "segment_number": 22
+                  "segment_number": 22,
+                  "translated_text": "his bowel happens to discharge,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 23
+                  "segment_number": 23,
+                  "translated_text": ""
                 }
               ]
             },
@@ -303,7 +326,8 @@
                     "n": "c"
                   },
                   "text": "ucchiṣṭatve 'śucitve ca",
-                  "segment_number": 24
+                  "segment_number": 24,
+                  "translated_text": "in the state of having leavings in the mouth or being impure,"
                 },
                 {
                   "tag": "seg",
@@ -312,12 +336,14 @@
                     "n": "d"
                   },
                   "text": "tasya śaucaṃ vinirdiśet",
-                  "segment_number": 25
+                  "segment_number": 25,
+                  "translated_text": "one should prescribe the purification for him."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 26
+                  "segment_number": 26,
+                  "translated_text": ""
                 }
               ]
             }
@@ -340,7 +366,8 @@
                     "n": "a"
                   },
                   "text": "pūrvaṃ kṛtvā dvijaḥ śaucaṃ",
-                  "segment_number": 27
+                  "segment_number": 27,
+                  "translated_text": "The twice-born should first perform purification,"
                 },
                 {
                   "tag": "seg",
@@ -349,12 +376,14 @@
                     "n": "b"
                   },
                   "text": "paścād apa upaspṛśet",
-                  "segment_number": 28
+                  "segment_number": 28,
+                  "translated_text": "and then sip water (<s>ācamana</s>);"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 29
+                  "segment_number": 29,
+                  "translated_text": ""
                 }
               ]
             },
@@ -369,7 +398,8 @@
                     "n": "c"
                   },
                   "text": "ahorātroṣito bhūtvā",
-                  "segment_number": 30
+                  "segment_number": 30,
+                  "translated_text": "having fasted for a day and a night,"
                 },
                 {
                   "tag": "seg",
@@ -378,12 +408,14 @@
                     "n": "d"
                   },
                   "text": "pañcagavyena śudhyati",
-                  "segment_number": 31
+                  "segment_number": 31,
+                  "translated_text": "he is purified by <s>pañcagavya</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 32
+                  "segment_number": 32,
+                  "translated_text": ""
                 }
               ]
             }
@@ -406,7 +438,8 @@
                     "n": "a"
                   },
                   "text": "nigiranyadi meheta",
-                  "segment_number": 33
+                  "segment_number": 33,
+                  "translated_text": "If one urinates while swallowing food,"
                 },
                 {
                   "tag": "seg",
@@ -415,12 +448,14 @@
                     "n": "b"
                   },
                   "text": "bhuktvā vā mehane kṛte",
-                  "segment_number": 34
+                  "segment_number": 34,
+                  "translated_text": "or urinates after having eaten,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 35
+                  "segment_number": 35,
+                  "translated_text": ""
                 }
               ]
             },
@@ -435,7 +470,8 @@
                     "n": "c"
                   },
                   "text": "ahorātroṣito bhūtvā",
-                  "segment_number": 36
+                  "segment_number": 36,
+                  "translated_text": "having fasted for a day and a night,"
                 },
                 {
                   "tag": "seg",
@@ -444,12 +480,14 @@
                     "n": "d"
                   },
                   "text": "juhuyāt sarpiṣāhutīḥ",
-                  "segment_number": 37
+                  "segment_number": 37,
+                  "translated_text": "he should offer oblations of ghee into the fire."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 38
+                  "segment_number": 38,
+                  "translated_text": ""
                 }
               ]
             }
@@ -472,7 +510,8 @@
                     "n": "a"
                   },
                   "text": "yadā bhojanakāle syād",
-                  "segment_number": 39
+                  "segment_number": 39,
+                  "translated_text": "When at mealtime a <s>brāhmaṇa</s>"
                 },
                 {
                   "tag": "seg",
@@ -481,12 +520,14 @@
                     "n": "b"
                   },
                   "text": "aśucir brāhmaṇaḥ kvacit",
-                  "segment_number": 40
+                  "segment_number": 40,
+                  "translated_text": "happens to become impure,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 41
+                  "segment_number": 41,
+                  "translated_text": ""
                 }
               ]
             },
@@ -501,7 +542,8 @@
                     "n": "c"
                   },
                   "text": "bhūmau nidhāya tad grāsaṃ",
-                  "segment_number": 42
+                  "segment_number": 42,
+                  "translated_text": "placing that morsel on the ground"
                 },
                 {
                   "tag": "seg",
@@ -510,12 +552,14 @@
                     "n": "d"
                   },
                   "text": "snātvā śuddhim avāpnuyāt",
-                  "segment_number": 43
+                  "segment_number": 43,
+                  "translated_text": "and bathing, he attains purity."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 44
+                  "segment_number": 44,
+                  "translated_text": ""
                 }
               ]
             }
@@ -538,7 +582,8 @@
                     "n": "a"
                   },
                   "text": "bhakṣayitvā tu tad grāsam",
-                  "segment_number": 45
+                  "segment_number": 45,
+                  "translated_text": "But if he has swallowed that morsel,"
                 },
                 {
                   "tag": "seg",
@@ -547,12 +592,14 @@
                     "n": "b"
                   },
                   "text": "upavāsena śudhyati",
-                  "segment_number": 46
+                  "segment_number": 46,
+                  "translated_text": "he is purified by a one-day fast;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 47
+                  "segment_number": 47,
+                  "translated_text": ""
                 }
               ]
             },
@@ -567,7 +614,8 @@
                     "n": "c"
                   },
                   "text": "aśitvā caiva tat sarvaṃ",
-                  "segment_number": 48
+                  "segment_number": 48,
+                  "translated_text": "and if he has eaten all of it,"
                 },
                 {
                   "tag": "seg",
@@ -576,12 +624,14 @@
                     "n": "d"
                   },
                   "text": "trirātreṇaiva śudhyati",
-                  "segment_number": 49
+                  "segment_number": 49,
+                  "translated_text": "he is purified by a three-night fast."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 50
+                  "segment_number": 50,
+                  "translated_text": ""
                 }
               ]
             }
@@ -604,7 +654,8 @@
                     "n": "a"
                   },
                   "text": "aśnataś ced virekaḥ syād",
-                  "segment_number": 51
+                  "segment_number": 51,
+                  "translated_text": "If while eating there is a purging of the bowels,"
                 },
                 {
                   "tag": "seg",
@@ -613,12 +664,14 @@
                     "n": "b"
                   },
                   "text": "asvasthas triśataṃ japet",
-                  "segment_number": 52
+                  "segment_number": 52,
+                  "translated_text": "one who is unwell should recite three hundred times;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 53
+                  "segment_number": 53,
+                  "translated_text": ""
                 }
               ]
             },
@@ -633,7 +686,8 @@
                     "n": "c"
                   },
                   "text": "svasthas trīṇi sahasrāṇi",
-                  "segment_number": 54
+                  "segment_number": 54,
+                  "translated_text": "one who is well should recite three thousand times —"
                 },
                 {
                   "tag": "seg",
@@ -642,12 +696,14 @@
                     "n": "d"
                   },
                   "text": "gāyatryāḥ śodhanaṃ param",
-                  "segment_number": 55
+                  "segment_number": 55,
+                  "translated_text": "the <s>Gāyatrī</s> is the supreme purifier."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 56
+                  "segment_number": 56,
+                  "translated_text": ""
                 }
               ]
             }
@@ -670,7 +726,8 @@
                     "n": "a"
                   },
                   "text": "caṇḍālaiḥ śvapacaiḥ spṛṣṭo",
-                  "segment_number": 57
+                  "segment_number": 57,
+                  "translated_text": "A twice-born who is touched by <s>caṇḍālas</s> or <s>śvapacas</s>,"
                 },
                 {
                   "tag": "seg",
@@ -679,12 +736,14 @@
                     "n": "b"
                   },
                   "text": "viṇmūtre tu kṛte dvijaḥ",
-                  "segment_number": 58
+                  "segment_number": 58,
+                  "translated_text": "or who has excreted urine or feces in their presence,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 59
+                  "segment_number": 59,
+                  "translated_text": ""
                 }
               ]
             },
@@ -699,7 +758,8 @@
                     "n": "c"
                   },
                   "text": "trirātraṃ tu prakurvīta",
-                  "segment_number": 60
+                  "segment_number": 60,
+                  "translated_text": "should observe a three-night penance;"
                 },
                 {
                   "tag": "seg",
@@ -708,12 +768,14 @@
                     "n": "d"
                   },
                   "text": "bhuktvocchiṣṭaḥ ṣaḍ ācaret",
-                  "segment_number": 61
+                  "segment_number": 61,
+                  "translated_text": "if he has eaten their leavings, he should observe six nights."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 62
+                  "segment_number": 62,
+                  "translated_text": ""
                 }
               ]
             }
@@ -736,7 +798,8 @@
                     "n": "a"
                   },
                   "text": "udakyāṃ sūtikāṃ vāpi",
-                  "segment_number": 63
+                  "segment_number": 63,
+                  "translated_text": "If an outcaste touches a menstruating woman"
                 },
                 {
                   "tag": "seg",
@@ -745,12 +808,14 @@
                     "n": "b"
                   },
                   "text": "saṃspṛśed antyajo yadi",
-                  "segment_number": 64
+                  "segment_number": 64,
+                  "translated_text": "or a woman in her lying-in period,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 65
+                  "segment_number": 65,
+                  "translated_text": ""
                 }
               ]
             },
@@ -765,7 +830,8 @@
                     "n": "c"
                   },
                   "text": "trirātreṇa viśuddhiḥ syād",
-                  "segment_number": 66
+                  "segment_number": 66,
+                  "translated_text": "purification is achieved by a three-night fast —"
                 },
                 {
                   "tag": "seg",
@@ -774,12 +840,14 @@
                     "n": "d"
                   },
                   "text": "iti śātātapo 'bravīt",
-                  "segment_number": 67
+                  "segment_number": 67,
+                  "translated_text": "thus declared <s>Śātātapa</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 68
+                  "segment_number": 68,
+                  "translated_text": ""
                 }
               ]
             }
@@ -802,7 +870,8 @@
                     "n": "a"
                   },
                   "text": "rajasvalā tu saṃspṛṣṭā",
-                  "segment_number": 69
+                  "segment_number": 69,
+                  "translated_text": "A menstruating woman who is touched"
                 },
                 {
                   "tag": "seg",
@@ -811,12 +880,14 @@
                     "n": "b"
                   },
                   "text": "śvamātaṅgādivāyasaiḥ",
-                  "segment_number": 70
+                  "segment_number": 70,
+                  "translated_text": "by dogs, elephants, crows, and the like,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 71
+                  "segment_number": 71,
+                  "translated_text": ""
                 }
               ]
             },
@@ -831,7 +902,8 @@
                     "n": "c"
                   },
                   "text": "nirāhārā śucis tiṣṭhet",
-                  "segment_number": 72
+                  "segment_number": 72,
+                  "translated_text": "should remain fasting and pure;"
                 },
                 {
                   "tag": "seg",
@@ -840,12 +912,14 @@
                     "n": "d"
                   },
                   "text": "kālasnānena śudhyati",
-                  "segment_number": 73
+                  "segment_number": 73,
+                  "translated_text": "she is purified by the bath at the proper time."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 74
+                  "segment_number": 74,
+                  "translated_text": ""
                 }
               ]
             }
@@ -868,7 +942,8 @@
                     "n": "a"
                   },
                   "text": "rajasvale yadā nāryāv",
-                  "segment_number": 75
+                  "segment_number": 75,
+                  "translated_text": "When two menstruating women"
                 },
                 {
                   "tag": "seg",
@@ -877,12 +952,14 @@
                     "n": "b"
                   },
                   "text": "anyonyaṃ spṛśate(taḥ) kvacit",
-                  "segment_number": 76
+                  "segment_number": 76,
+                  "translated_text": "happen to touch each other,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 77
+                  "segment_number": 77,
+                  "translated_text": ""
                 }
               ]
             },
@@ -897,7 +974,8 @@
                     "n": "c"
                   },
                   "text": "śudhyataḥ pañcagavyena",
-                  "segment_number": 78
+                  "segment_number": 78,
+                  "translated_text": "they are purified by <s>pañcagavya</s>"
                 },
                 {
                   "tag": "seg",
@@ -906,12 +984,14 @@
                     "n": "d"
                   },
                   "text": "brahmakūrcena copari",
-                  "segment_number": 79
+                  "segment_number": 79,
+                  "translated_text": "and additionally by <s>brahma-kūrca</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 80
+                  "segment_number": 80,
+                  "translated_text": ""
                 }
               ]
             }
@@ -934,7 +1014,8 @@
                     "n": "a"
                   },
                   "text": "ucchiṣṭena ca saṃspṛṣṭā",
-                  "segment_number": 81
+                  "segment_number": 81,
+                  "translated_text": "If a menstruating woman is touched"
                 },
                 {
                   "tag": "seg",
@@ -943,12 +1024,14 @@
                     "n": "b"
                   },
                   "text": "kadācit strī rajasvalā",
-                  "segment_number": 82
+                  "segment_number": 82,
+                  "translated_text": "by one who has food-leavings in the mouth,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 83
+                  "segment_number": 83,
+                  "translated_text": ""
                 }
               ]
             },
@@ -963,7 +1046,8 @@
                     "n": "c"
                   },
                   "text": "kṛcchreṇa śuddhim āpnoti",
-                  "segment_number": 84
+                  "segment_number": 84,
+                  "translated_text": "she attains purification through a <s>kṛcchra</s> penance;"
                 },
                 {
                   "tag": "seg",
@@ -972,12 +1056,14 @@
                     "n": "d"
                   },
                   "text": "śūdrā dānopavāsataḥ",
-                  "segment_number": 85
+                  "segment_number": 85,
+                  "translated_text": "a <s>śūdra</s> woman, through charity and fasting."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 86
+                  "segment_number": 86,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1000,7 +1086,8 @@
                     "n": "a"
                   },
                   "text": "anucchiṣṭena saṃspṛṣṭe",
-                  "segment_number": 87
+                  "segment_number": 87,
+                  "translated_text": "When one is touched by a person who is not impure with food-leavings,"
                 },
                 {
                   "tag": "seg",
@@ -1009,12 +1096,14 @@
                     "n": "b"
                   },
                   "text": "snānaṃ yena vidhīyate",
-                  "segment_number": 88
+                  "segment_number": 88,
+                  "translated_text": "bathing is prescribed for him;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 89
+                  "segment_number": 89,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1029,7 +1118,8 @@
                     "n": "c"
                   },
                   "text": "tenaivocchiṣṭasaṃspṛṣṭaḥ",
-                  "segment_number": 90
+                  "segment_number": 90,
+                  "translated_text": "but one touched by a person with food-leavings"
                 },
                 {
                   "tag": "seg",
@@ -1038,12 +1128,14 @@
                     "n": "d"
                   },
                   "text": "prājāpatyaṃ samācaret",
-                  "segment_number": 91
+                  "segment_number": 91,
+                  "translated_text": "should perform a <s>prājāpatya</s> penance."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 92
+                  "segment_number": 92,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1066,7 +1158,8 @@
                     "n": "a"
                   },
                   "text": "ṛtau tu garbhaśaṅkitvāt",
-                  "segment_number": 93
+                  "segment_number": 93,
+                  "translated_text": "During the fertile season, bathing after intercourse"
                 },
                 {
                   "tag": "seg",
@@ -1075,12 +1168,14 @@
                     "n": "b"
                   },
                   "text": "snānaṃ maithuninaḥ smṛtam",
-                  "segment_number": 94
+                  "segment_number": 94,
+                  "translated_text": "is prescribed, owing to the possibility of conception;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 95
+                  "segment_number": 95,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1095,7 +1190,8 @@
                     "n": "c"
                   },
                   "text": "anṛtau tu striyaṃ gatvā",
-                  "segment_number": 96
+                  "segment_number": 96,
+                  "translated_text": "but having gone to a woman outside the fertile season,"
                 },
                 {
                   "tag": "seg",
@@ -1104,12 +1200,14 @@
                     "n": "d"
                   },
                   "text": "śaucaṃ mūtrapurīṣavat",
-                  "segment_number": 97
+                  "segment_number": 97,
+                  "translated_text": "the purification is the same as for urine and feces."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 98
+                  "segment_number": 98,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1132,7 +1230,8 @@
                     "n": "a"
                   },
                   "text": "ubhāv apy aśucī syātāṃ",
-                  "segment_number": 99
+                  "segment_number": 99,
+                  "translated_text": "Both husband and wife become impure"
                 },
                 {
                   "tag": "seg",
@@ -1141,12 +1240,14 @@
                     "n": "b"
                   },
                   "text": "daṃpatī śayanaṃ gatau",
-                  "segment_number": 100
+                  "segment_number": 100,
+                  "translated_text": "when they have gone to bed together;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 101
+                  "segment_number": 101,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1161,7 +1262,8 @@
                     "n": "c"
                   },
                   "text": "śayanād utthitā nārī",
-                  "segment_number": 102
+                  "segment_number": 102,
+                  "translated_text": "the woman who has risen from the bed"
                 },
                 {
                   "tag": "seg",
@@ -1170,12 +1272,14 @@
                     "n": "d"
                   },
                   "text": "śuciḥ syād aśuciḥ pumān",
-                  "segment_number": 103
+                  "segment_number": 103,
+                  "translated_text": "becomes pure, but the man remains impure."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 104
+                  "segment_number": 104,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1198,7 +1302,8 @@
                     "n": "a"
                   },
                   "text": "bhartuḥ śarīraṃ śuśrūṣāṃ",
-                  "segment_number": 105
+                  "segment_number": 105,
+                  "translated_text": "A wife who, out of wickedness,"
                 },
                 {
                   "tag": "seg",
@@ -1207,12 +1312,14 @@
                     "n": "b"
                   },
                   "text": "daurātmyād aprakurvatī",
-                  "segment_number": 106
+                  "segment_number": 106,
+                  "translated_text": "fails to render service to her husband's body,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 107
+                  "segment_number": 107,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1227,7 +1334,8 @@
                     "n": "c"
                   },
                   "text": "daṇḍyā dvādaśakaṃ nārī",
-                  "segment_number": 108
+                  "segment_number": 108,
+                  "translated_text": "should be punished for twelve years,"
                 },
                 {
                   "tag": "seg",
@@ -1236,12 +1344,14 @@
                     "n": "d"
                   },
                   "text": "varṣaṃ tyājyā dhanaṃ vinā",
-                  "segment_number": 109
+                  "segment_number": 109,
+                  "translated_text": "and abandoned without her property."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 110
+                  "segment_number": 110,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1264,7 +1374,8 @@
                     "n": "a"
                   },
                   "text": "tyajanto 'patitān bandhūn",
-                  "segment_number": 111
+                  "segment_number": 111,
+                  "translated_text": "Those who abandon relatives who are not outcastes"
                 },
                 {
                   "tag": "seg",
@@ -1273,12 +1384,14 @@
                     "n": "b"
                   },
                   "text": "daṇḍyā uttamasāhasam",
-                  "segment_number": 112
+                  "segment_number": 112,
+                  "translated_text": "should be fined the highest amercement (<s>uttamasāhasa</s>);"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 113
+                  "segment_number": 113,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1293,7 +1406,8 @@
                     "n": "c"
                   },
                   "text": "pitā hi patitaḥ kāmaṃ",
-                  "segment_number": 114
+                  "segment_number": 114,
+                  "translated_text": "for a father may indeed become an outcaste,"
                 },
                 {
                   "tag": "seg",
@@ -1302,12 +1416,14 @@
                     "n": "d"
                   },
                   "text": "na tu mātā kadācana",
-                  "segment_number": 115
+                  "segment_number": 115,
+                  "translated_text": "but never a mother."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 116
+                  "segment_number": 116,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1330,7 +1446,8 @@
                     "n": "a"
                   },
                   "text": "ātmānaṃ ghātayed yas tu",
-                  "segment_number": 117
+                  "segment_number": 117,
+                  "translated_text": "He who attempts to kill himself"
                 },
                 {
                   "tag": "seg",
@@ -1339,12 +1456,14 @@
                     "n": "b"
                   },
                   "text": "rajjvādibhir upakramaiḥ",
-                  "segment_number": 118
+                  "segment_number": 118,
+                  "translated_text": "by means of a rope and such devices —"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 119
+                  "segment_number": 119,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1359,7 +1478,8 @@
                     "n": "c"
                   },
                   "text": "mṛto 'medhyena leptavyo",
-                  "segment_number": 120
+                  "segment_number": 120,
+                  "translated_text": "if dead, he should be smeared with impure substances;"
                 },
                 {
                   "tag": "seg",
@@ -1368,12 +1488,14 @@
                     "n": "d"
                   },
                   "text": "jīvato dviśataṃ damaḥ",
-                  "segment_number": 121
+                  "segment_number": 121,
+                  "translated_text": "if alive, the fine is two hundred <s>paṇas</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 122
+                  "segment_number": 122,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1396,7 +1518,8 @@
                     "n": "a"
                   },
                   "text": "daṇḍyās tat putramitrāṇi",
-                  "segment_number": 123
+                  "segment_number": 123,
+                  "translated_text": "His sons and friends should be fined"
                 },
                 {
                   "tag": "seg",
@@ -1405,12 +1528,14 @@
                     "n": "b"
                   },
                   "text": "pratyekaṃ paṇikaṃ damam",
-                  "segment_number": 124
+                  "segment_number": 124,
+                  "translated_text": "one <s>paṇika</s> each;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 125
+                  "segment_number": 125,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1425,7 +1550,8 @@
                     "n": "c"
                   },
                   "text": "prāyaścittaṃ tataḥ kuryur",
-                  "segment_number": 126
+                  "segment_number": 126,
+                  "translated_text": "and then they should perform <s>prāyaścitta</s> (expiation)"
                 },
                 {
                   "tag": "seg",
@@ -1434,12 +1560,14 @@
                     "n": "d"
                   },
                   "text": "yathā śāstrapracoditam",
-                  "segment_number": 127
+                  "segment_number": 127,
+                  "translated_text": "as enjoined by the <s>śāstra</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 128
+                  "segment_number": 128,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1462,7 +1590,8 @@
                     "n": "a"
                   },
                   "text": "jalādyudbandhanabhraṣṭāḥ",
-                  "segment_number": 129
+                  "segment_number": 129,
+                  "translated_text": "Those who have been rescued from drowning, hanging,"
                 },
                 {
                   "tag": "seg",
@@ -1471,12 +1600,14 @@
                     "n": "b"
                   },
                   "text": "pravrajyānāśakacyutāḥ",
-                  "segment_number": 130
+                  "segment_number": 130,
+                  "translated_text": "or who have fallen from renunciation or a fast unto death,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 131
+                  "segment_number": 131,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1491,7 +1622,8 @@
                     "n": "c"
                   },
                   "text": "viṣaprapatanaprāya",
-                  "segment_number": 132
+                  "segment_number": 132,
+                  "translated_text": "or from poison, falling from a height, or near-fatal"
                 },
                 {
                   "tag": "seg",
@@ -1500,12 +1632,14 @@
                     "n": "d"
                   },
                   "text": "śastraghātahatāś ca ye",
-                  "segment_number": 133
+                  "segment_number": 133,
+                  "translated_text": "weapon-wounds — those who have been struck down,"
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 134
+                  "segment_number": 134,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1528,7 +1662,8 @@
                     "n": "a"
                   },
                   "text": "navaite pratyavasitāḥ",
-                  "segment_number": 135
+                  "segment_number": 135,
+                  "translated_text": "these nine who have turned back from suicide"
                 },
                 {
                   "tag": "seg",
@@ -1537,12 +1672,14 @@
                     "n": "b"
                   },
                   "text": "sarvalokabahiṣkṛtāḥ",
-                  "segment_number": 136
+                  "segment_number": 136,
+                  "translated_text": "are excluded from all social intercourse;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 137
+                  "segment_number": 137,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1557,7 +1694,8 @@
                     "n": "c"
                   },
                   "text": "cāndrāyaṇena śudhyanti",
-                  "segment_number": 138
+                  "segment_number": 138,
+                  "translated_text": "they are purified by a <s>cāndrāyaṇa</s> penance"
                 },
                 {
                   "tag": "seg",
@@ -1566,12 +1704,14 @@
                     "n": "d"
                   },
                   "text": "taptakṛcchradvayena vā",
-                  "segment_number": 139
+                  "segment_number": 139,
+                  "translated_text": "or by two <s>taptakṛcchra</s> penances."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 140
+                  "segment_number": 140,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1594,7 +1734,8 @@
                     "n": "a"
                   },
                   "text": "ubhayāvasitaḥ pāpaḥ",
-                  "segment_number": 141
+                  "segment_number": 141,
+                  "translated_text": "A sinner who has attempted both ways"
                 },
                 {
                   "tag": "seg",
@@ -1603,12 +1744,14 @@
                     "n": "b"
                   },
                   "text": "śyāmāc chabalakāc cyutaḥ",
-                  "segment_number": 142
+                  "segment_number": 142,
+                  "translated_text": "and fallen from the dark and the spotted cow vow,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 143
+                  "segment_number": 143,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1623,7 +1766,8 @@
                     "n": "c"
                   },
                   "text": "cāndrāyaṇābhyāṃ śudhyeta",
-                  "segment_number": 144
+                  "segment_number": 144,
+                  "translated_text": "is purified by two <s>cāndrāyaṇas</s>,"
                 },
                 {
                   "tag": "seg",
@@ -1632,12 +1776,14 @@
                     "n": "d"
                   },
                   "text": "dattvā dhenuṃ tathā vṛṣam",
-                  "segment_number": 145
+                  "segment_number": 145,
+                  "translated_text": "and by giving a cow and a bull."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 146
+                  "segment_number": 146,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1660,7 +1806,8 @@
                     "n": "a"
                   },
                   "text": "śvaśṛgālaplavaṅgādyair",
-                  "segment_number": 147
+                  "segment_number": 147,
+                  "translated_text": "One bitten by dogs, jackals, monkeys, and such animals,"
                 },
                 {
                   "tag": "seg",
@@ -1669,12 +1816,14 @@
                     "n": "b"
                   },
                   "text": "mānuṣaiś ca ratiṃ vinā",
-                  "segment_number": 148
+                  "segment_number": 148,
+                  "translated_text": "or by humans — excluding sexual contact —"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 149
+                  "segment_number": 149,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1689,7 +1838,8 @@
                     "n": "c"
                   },
                   "text": "daṣṭaḥ snātvā śuciḥ sadyo",
-                  "segment_number": 150
+                  "segment_number": 150,
+                  "translated_text": "is immediately purified by bathing,"
                 },
                 {
                   "tag": "seg",
@@ -1698,12 +1848,14 @@
                     "n": "d"
                   },
                   "text": "divā saṃdhyāsu rātriṣu",
-                  "segment_number": 151
+                  "segment_number": 151,
+                  "translated_text": "whether by day, at the <s>saṃdhyās</s> (twilight junctures), or at night."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 152
+                  "segment_number": 152,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1726,7 +1878,8 @@
                     "n": "a"
                   },
                   "text": "ajñānād brāhmaṇo bhuktvā",
-                  "segment_number": 153
+                  "segment_number": 153,
+                  "translated_text": "A <s>brāhmaṇa</s> who unknowingly eats"
                 },
                 {
                   "tag": "seg",
@@ -1735,12 +1888,14 @@
                     "n": "b"
                   },
                   "text": "caṇḍālānnaṃ kadācana",
-                  "segment_number": 154
+                  "segment_number": 154,
+                  "translated_text": "the food of a <s>caṇḍāla</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 155
+                  "segment_number": 155,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1755,7 +1910,8 @@
                     "n": "c"
                   },
                   "text": "gomūtrayāvakāhāro",
-                  "segment_number": 156
+                  "segment_number": 156,
+                  "translated_text": "subsisting on cow-urine and barley gruel,"
                 },
                 {
                   "tag": "seg",
@@ -1764,12 +1920,14 @@
                     "n": "d"
                   },
                   "text": "māsārdhena viśudhyati",
-                  "segment_number": 157
+                  "segment_number": 157,
+                  "translated_text": "is purified in half a month."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 158
+                  "segment_number": 158,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1792,7 +1950,8 @@
                     "n": "a"
                   },
                   "text": "gobrāhmaṇagṛhaṃ dagdhā",
-                  "segment_number": 159
+                  "segment_number": 159,
+                  "translated_text": "One who has set fire to a cow-pen or a <s>brāhmaṇa</s>'s house,"
                 },
                 {
                   "tag": "seg",
@@ -1801,12 +1960,14 @@
                     "n": "b"
                   },
                   "text": "mṛtaṃ codbandhanādinā",
-                  "segment_number": 160
+                  "segment_number": 160,
+                  "translated_text": "or who finds a dead person hanged and the like,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 161
+                  "segment_number": 161,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1821,7 +1982,8 @@
                     "n": "c"
                   },
                   "text": "pāśāṃś chittvā tathā tasya",
-                  "segment_number": 162
+                  "segment_number": 162,
+                  "translated_text": "and cuts the ropes — for that,"
                 },
                 {
                   "tag": "seg",
@@ -1830,12 +1992,14 @@
                     "n": "d"
                   },
                   "text": "kṛcchram ekaṃ cared dvijaḥ",
-                  "segment_number": 163
+                  "segment_number": 163,
+                  "translated_text": "a twice-born should perform one <s>kṛcchra</s> penance."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 164
+                  "segment_number": 164,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1858,7 +2022,8 @@
                     "n": "a"
                   },
                   "text": "caṇḍālapukkasānāṃ ca",
-                  "segment_number": 165
+                  "segment_number": 165,
+                  "translated_text": "Having eaten the food of <s>caṇḍālas</s> and <s>pukkasas</s>,"
                 },
                 {
                   "tag": "seg",
@@ -1867,12 +2032,14 @@
                     "n": "b"
                   },
                   "text": "bhuktvā gatvā ca yoṣitam",
-                  "segment_number": 166
+                  "segment_number": 166,
+                  "translated_text": "or having gone to their women,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 167
+                  "segment_number": 167,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1887,7 +2054,8 @@
                     "n": "c"
                   },
                   "text": "kṛcchrābdam ācarej jñānād",
-                  "segment_number": 168
+                  "segment_number": 168,
+                  "translated_text": "one should perform a <s>kṛcchra</s> for one year if done knowingly;"
                 },
                 {
                   "tag": "seg",
@@ -1896,12 +2064,14 @@
                     "n": "d"
                   },
                   "text": "ajñānād aindavadvayam",
-                  "segment_number": 169
+                  "segment_number": 169,
+                  "translated_text": "if unknowingly, two <s>cāndrāyaṇas</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 170
+                  "segment_number": 170,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1924,7 +2094,8 @@
                     "n": "a"
                   },
                   "text": "kāpālikānnabhoktṝṇāṃ",
-                  "segment_number": 171
+                  "segment_number": 171,
+                  "translated_text": "For those who eat the food of <s>Kāpālikas</s>,"
                 },
                 {
                   "tag": "seg",
@@ -1933,12 +2104,14 @@
                     "n": "b"
                   },
                   "text": "tannārīgāmināṃ tathā",
-                  "segment_number": 172
+                  "segment_number": 172,
+                  "translated_text": "and likewise for those who go to their women,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 173
+                  "segment_number": 173,
+                  "translated_text": ""
                 }
               ]
             },
@@ -1953,7 +2126,8 @@
                     "n": "c"
                   },
                   "text": "kṛcchrābdam ācarej jñānād",
-                  "segment_number": 174
+                  "segment_number": 174,
+                  "translated_text": "one should perform a <s>kṛcchra</s> for one year if done knowingly;"
                 },
                 {
                   "tag": "seg",
@@ -1962,12 +2136,14 @@
                     "n": "d"
                   },
                   "text": "ajñānād aindavadvayam",
-                  "segment_number": 175
+                  "segment_number": 175,
+                  "translated_text": "if unknowingly, two <s>cāndrāyaṇas</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 176
+                  "segment_number": 176,
+                  "translated_text": ""
                 }
               ]
             }
@@ -1990,7 +2166,8 @@
                     "n": "a"
                   },
                   "text": "agamyāgamane vipro",
-                  "segment_number": 177
+                  "segment_number": 177,
+                  "translated_text": "A <s>brāhmaṇa</s> who approaches a forbidden woman,"
                 },
                 {
                   "tag": "seg",
@@ -1999,12 +2176,14 @@
                     "n": "b"
                   },
                   "text": "madyagomāṃsabhaksaṇe",
-                  "segment_number": 178
+                  "segment_number": 178,
+                  "translated_text": "or who consumes liquor, beef, or meat,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 179
+                  "segment_number": 179,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2019,7 +2198,8 @@
                     "n": "c"
                   },
                   "text": "taptakṛcchraparikṣipto",
-                  "segment_number": 180
+                  "segment_number": 180,
+                  "translated_text": "being enclosed by a <s>taptakṛcchra</s> penance"
                 },
                 {
                   "tag": "seg",
@@ -2028,12 +2208,14 @@
                     "n": "d"
                   },
                   "text": "mauñjī homena śudhyati",
-                  "segment_number": 181
+                  "segment_number": 181,
+                  "translated_text": "and wearing the <s>mauñjī</s> (muñja-grass girdle), is purified by a fire-offering."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 182
+                  "segment_number": 182,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2056,7 +2238,8 @@
                     "n": "a"
                   },
                   "text": "mahāpātakakartāraś",
-                  "segment_number": 183
+                  "segment_number": 183,
+                  "translated_text": "The perpetrators of the four great sins (<s>mahāpātakas</s>),"
                 },
                 {
                   "tag": "seg",
@@ -2065,12 +2248,14 @@
                     "n": "b"
                   },
                   "text": "catvāro 'py aviśeṣataḥ",
-                  "segment_number": 184
+                  "segment_number": 184,
+                  "translated_text": "without distinction,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 185
+                  "segment_number": 185,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2085,7 +2270,8 @@
                     "n": "c"
                   },
                   "text": "agniṃ praviśya śudhyanti",
-                  "segment_number": 186
+                  "segment_number": 186,
+                  "translated_text": "are purified by entering fire,"
                 },
                 {
                   "tag": "seg",
@@ -2094,12 +2280,14 @@
                     "n": "d"
                   },
                   "text": "sthitvā vā mahati kratau",
-                  "segment_number": 187
+                  "segment_number": 187,
+                  "translated_text": "or by standing in a great sacrificial rite."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 188
+                  "segment_number": 188,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2122,7 +2310,8 @@
                     "n": "a"
                   },
                   "text": "rahasyakaraṇe 'py evaṃ",
-                  "segment_number": 189
+                  "segment_number": 189,
+                  "translated_text": "Even for a secret transgression, a man"
                 },
                 {
                   "tag": "seg",
@@ -2131,12 +2320,14 @@
                     "n": "b"
                   },
                   "text": "māsam abhyasya pūruṣaḥ",
-                  "segment_number": 190
+                  "segment_number": 190,
+                  "translated_text": "who practices it for a month,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 191
+                  "segment_number": 191,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2151,7 +2342,8 @@
                     "n": "c"
                   },
                   "text": "aghamarṣaṇasūktaṃ vā",
-                  "segment_number": 192
+                  "segment_number": 192,
+                  "translated_text": "is purified by the <s>Aghamarṣaṇa-sūkta</s>,"
                 },
                 {
                   "tag": "seg",
@@ -2160,12 +2352,14 @@
                     "n": "d"
                   },
                   "text": "śudhyed antarjale sthitaḥ",
-                  "segment_number": 193
+                  "segment_number": 193,
+                  "translated_text": "standing immersed in water."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 194
+                  "segment_number": 194,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2188,7 +2382,8 @@
                     "n": "a"
                   },
                   "text": "rajakaś carmakāraś ca",
-                  "segment_number": 195
+                  "segment_number": 195,
+                  "translated_text": "A washerman, a leather-worker,"
                 },
                 {
                   "tag": "seg",
@@ -2197,12 +2392,14 @@
                     "n": "b"
                   },
                   "text": "naṭo buruḍa eva ca",
-                  "segment_number": 196
+                  "segment_number": 196,
+                  "translated_text": "an actor, and a <s>buruḍa</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 197
+                  "segment_number": 197,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2217,7 +2414,8 @@
                     "n": "c"
                   },
                   "text": "kaivartamedabhillāś ca",
-                  "segment_number": 198
+                  "segment_number": 198,
+                  "translated_text": "a fisherman, a <s>meda</s>, and a <s>bhilla</s> —"
                 },
                 {
                   "tag": "seg",
@@ -2226,12 +2424,14 @@
                     "n": "d"
                   },
                   "text": "saptaite antyajāḥ smṛtāḥ",
-                  "segment_number": 199
+                  "segment_number": 199,
+                  "translated_text": "these seven are known as outcastes (<s>antyajas</s>)."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 200
+                  "segment_number": 200,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2254,7 +2454,8 @@
                     "n": "a"
                   },
                   "text": "bhuktvā caiṣāṃ striyo gatvā",
-                  "segment_number": 201
+                  "segment_number": 201,
+                  "translated_text": "Having eaten their food, gone to their women,"
                 },
                 {
                   "tag": "seg",
@@ -2263,12 +2464,14 @@
                     "n": "b"
                   },
                   "text": "pītvāpaḥ pratigṛhya ca",
-                  "segment_number": 202
+                  "segment_number": 202,
+                  "translated_text": "drunk their water, or accepted gifts from them,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 203
+                  "segment_number": 203,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2283,7 +2486,8 @@
                     "n": "c"
                   },
                   "text": "kṛcchrābdam ācarej jñānād",
-                  "segment_number": 204
+                  "segment_number": 204,
+                  "translated_text": "one should perform a <s>kṛcchra</s> for one year if done knowingly;"
                 },
                 {
                   "tag": "seg",
@@ -2292,12 +2496,14 @@
                     "n": "d"
                   },
                   "text": "ajñānād aindavadvayam",
-                  "segment_number": 205
+                  "segment_number": 205,
+                  "translated_text": "if unknowingly, two <s>cāndrāyaṇas</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 206
+                  "segment_number": 206,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2320,7 +2526,8 @@
                     "n": "a"
                   },
                   "text": "mātaraṃ gurupatnīṃ ca",
-                  "segment_number": 207
+                  "segment_number": 207,
+                  "translated_text": "Having gone to one's mother, the teacher's wife,"
                 },
                 {
                   "tag": "seg",
@@ -2329,12 +2536,14 @@
                     "n": "b"
                   },
                   "text": "svasṛduhitarau snuṣām",
-                  "segment_number": 208
+                  "segment_number": 208,
+                  "translated_text": "one's sister, daughter, or daughter-in-law,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 209
+                  "segment_number": 209,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2349,7 +2558,8 @@
                     "n": "c"
                   },
                   "text": "gatvaitāḥ praviśed agniṃ",
-                  "segment_number": 210
+                  "segment_number": 210,
+                  "translated_text": "one should enter fire after approaching them;"
                 },
                 {
                   "tag": "seg",
@@ -2358,12 +2568,14 @@
                     "n": "d"
                   },
                   "text": "nānyā śuddhir vidhīyate",
-                  "segment_number": 211
+                  "segment_number": 211,
+                  "translated_text": "no other purification is prescribed."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 212
+                  "segment_number": 212,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2386,7 +2598,8 @@
                     "n": "a"
                   },
                   "text": "rājñāṃ pravrajitāṃ dhātrīṃ",
-                  "segment_number": 213
+                  "segment_number": 213,
+                  "translated_text": "For approaching a queen, a female renunciant, a wet-nurse,"
                 },
                 {
                   "tag": "seg",
@@ -2395,12 +2608,14 @@
                     "n": "b"
                   },
                   "text": "tathā varṇottamām api",
-                  "segment_number": 214
+                  "segment_number": 214,
+                  "translated_text": "or a woman of a higher <s>varṇa</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 215
+                  "segment_number": 215,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2415,7 +2630,8 @@
                     "n": "c"
                   },
                   "text": "kṛcchradvayaṃ prakurvīta",
-                  "segment_number": 216
+                  "segment_number": 216,
+                  "translated_text": "one should perform a double <s>kṛcchra</s>,"
                 },
                 {
                   "tag": "seg",
@@ -2424,12 +2640,14 @@
                     "n": "d"
                   },
                   "text": "sa gotrām abhigamya ca",
-                  "segment_number": 217
+                  "segment_number": 217,
+                  "translated_text": "and also for approaching a woman of the same <s>gotra</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 218
+                  "segment_number": 218,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2452,7 +2670,8 @@
                     "n": "a"
                   },
                   "text": "anyāsu pitṛgotrāsu",
-                  "segment_number": 219
+                  "segment_number": 219,
+                  "translated_text": "For approaching women of one's father's <s>gotra</s>"
                 },
                 {
                   "tag": "seg",
@@ -2461,12 +2680,14 @@
                     "n": "b"
                   },
                   "text": "mātṛgotragatāsv api",
-                  "segment_number": 220
+                  "segment_number": 220,
+                  "translated_text": "or one's mother's <s>gotra</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 221
+                  "segment_number": 221,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2481,7 +2702,8 @@
                     "n": "c"
                   },
                   "text": "paradāreṣu sarveṣu",
-                  "segment_number": 222
+                  "segment_number": 222,
+                  "translated_text": "and for all cases of adultery,"
                 },
                 {
                   "tag": "seg",
@@ -2490,12 +2712,14 @@
                     "n": "d"
                   },
                   "text": "kṛcchraṃ sāṃtapanaṃ caret",
-                  "segment_number": 223
+                  "segment_number": 223,
+                  "translated_text": "one should perform the <s>sāṃtapana kṛcchra</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 224
+                  "segment_number": 224,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2518,7 +2742,8 @@
                     "n": "a"
                   },
                   "text": "veśyābhigamane pāpaṃ",
-                  "segment_number": 225
+                  "segment_number": 225,
+                  "translated_text": "The twice-born dispel the sin"
                 },
                 {
                   "tag": "seg",
@@ -2527,12 +2752,14 @@
                     "n": "b"
                   },
                   "text": "vyapohanti dvijātayaḥ",
-                  "segment_number": 226
+                  "segment_number": 226,
+                  "translated_text": "of visiting a prostitute"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 227
+                  "segment_number": 227,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2547,7 +2774,8 @@
                     "n": "c"
                   },
                   "text": "pītvā sakṛt sutaptaṃ ca",
-                  "segment_number": 228
+                  "segment_number": 228,
+                  "translated_text": "by drinking once well-heated"
                 },
                 {
                   "tag": "seg",
@@ -2556,12 +2784,14 @@
                     "n": "d"
                   },
                   "text": "pañcarātraṃ kuśodakam",
-                  "segment_number": 229
+                  "segment_number": 229,
+                  "translated_text": "<s>kuśa</s>-grass water for five nights."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 230
+                  "segment_number": 230,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2584,7 +2814,8 @@
                     "n": "a"
                   },
                   "text": "gurutalpavrataṃ kecit",
-                  "segment_number": 231
+                  "segment_number": 231,
+                  "translated_text": "Some prescribe the vow for violating the teacher's bed (<s>gurutalpa</s>),"
                 },
                 {
                   "tag": "seg",
@@ -2593,12 +2824,14 @@
                     "n": "b"
                   },
                   "text": "kecid brahmahaṇo vratam",
-                  "segment_number": 232
+                  "segment_number": 232,
+                  "translated_text": "some the vow for killing a <s>brāhmaṇa</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 233
+                  "segment_number": 233,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2613,7 +2846,8 @@
                     "n": "c"
                   },
                   "text": "goghnasya kecid icchanti",
-                  "segment_number": 234
+                  "segment_number": 234,
+                  "translated_text": "some prescribe the vow for cow-slaughter,"
                 },
                 {
                   "tag": "seg",
@@ -2622,12 +2856,14 @@
                     "n": "d"
                   },
                   "text": "kecic caivāvakīrṇinaḥ",
-                  "segment_number": 235
+                  "segment_number": 235,
+                  "translated_text": "and some the vow for a <s>brahmacārin</s> who breaks his vow."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 236
+                  "segment_number": 236,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2650,7 +2886,8 @@
                     "n": "a"
                   },
                   "text": "daṇḍād ūrdhvaprahāreṇa",
-                  "segment_number": 237
+                  "segment_number": 237,
+                  "translated_text": "He who strikes a cow with a stick"
                 },
                 {
                   "tag": "seg",
@@ -2659,12 +2896,14 @@
                     "n": "b"
                   },
                   "text": "yas tu gāṃ vinipātayet",
-                  "segment_number": 238
+                  "segment_number": 238,
+                  "translated_text": "with an upward blow and brings her down,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 239
+                  "segment_number": 239,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2679,7 +2918,8 @@
                     "n": "c"
                   },
                   "text": "dviguṇaṃ go vrataṃ tasya",
-                  "segment_number": 240
+                  "segment_number": 240,
+                  "translated_text": "for him a double cow-penance"
                 },
                 {
                   "tag": "seg",
@@ -2688,12 +2928,14 @@
                     "n": "d"
                   },
                   "text": "prāyaścittaṃ vinirdiśet",
-                  "segment_number": 241
+                  "segment_number": 241,
+                  "translated_text": "should be prescribed as <s>prāyaścitta</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 242
+                  "segment_number": 242,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2716,7 +2958,8 @@
                     "n": "a"
                   },
                   "text": "aṅguṣṭhamātrasthūlas tu",
-                  "segment_number": 243
+                  "segment_number": 243,
+                  "translated_text": "A stick as thick as a thumb"
                 },
                 {
                   "tag": "seg",
@@ -2725,12 +2968,14 @@
                     "n": "b"
                   },
                   "text": "bāhumātrapramāṇakaḥ",
-                  "segment_number": 244
+                  "segment_number": 244,
+                  "translated_text": "and one arm's length in measure,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 245
+                  "segment_number": 245,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2745,7 +2990,8 @@
                     "n": "c"
                   },
                   "text": "sārdraś ca sa palāśaś ca",
-                  "segment_number": 246
+                  "segment_number": 246,
+                  "translated_text": "moist and with leaves —"
                 },
                 {
                   "tag": "seg",
@@ -2754,12 +3000,14 @@
                     "n": "d"
                   },
                   "text": "godaṇḍaḥ parikīrtitaḥ",
-                  "segment_number": 247
+                  "segment_number": 247,
+                  "translated_text": "that is called the cow-stick (<s>godaṇḍa</s>)."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 248
+                  "segment_number": 248,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2782,7 +3030,8 @@
                     "n": "a"
                   },
                   "text": "gavāṃ nipātane caiva",
-                  "segment_number": 249
+                  "segment_number": 249,
+                  "translated_text": "If, when a cow is struck down,"
                 },
                 {
                   "tag": "seg",
@@ -2791,12 +3040,14 @@
                     "n": "b"
                   },
                   "text": "garbho 'pi saṃpated yadi",
-                  "segment_number": 250
+                  "segment_number": 250,
+                  "translated_text": "the fetus also falls,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 251
+                  "segment_number": 251,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2811,7 +3062,8 @@
                     "n": "c"
                   },
                   "text": "ekaikaśaś caret kṛcchraṃ",
-                  "segment_number": 252
+                  "segment_number": 252,
+                  "translated_text": "one should perform a <s>kṛcchra</s> for each one separately,"
                 },
                 {
                   "tag": "seg",
@@ -2820,12 +3072,14 @@
                     "n": "d"
                   },
                   "text": "yathā pūrvaṃ tathā punaḥ",
-                  "segment_number": 253
+                  "segment_number": 253,
+                  "translated_text": "as before, so again."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 254
+                  "segment_number": 254,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2848,7 +3102,8 @@
                     "n": "a"
                   },
                   "text": "pādam utpannamātre tu",
-                  "segment_number": 255
+                  "segment_number": 255,
+                  "translated_text": "One quarter of the penance when merely conceived,"
                 },
                 {
                   "tag": "seg",
@@ -2857,12 +3112,14 @@
                     "n": "b"
                   },
                   "text": "dvau pādau gātrasaṃbhave",
-                  "segment_number": 256
+                  "segment_number": 256,
+                  "translated_text": "two quarters when limbs have formed,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 257
+                  "segment_number": 257,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2877,7 +3134,8 @@
                     "n": "c"
                   },
                   "text": "pādonaṃ kṛcchram ācaṣṭe",
-                  "segment_number": 258
+                  "segment_number": 258,
+                  "translated_text": "three-quarters of a <s>kṛcchra</s> is prescribed"
                 },
                 {
                   "tag": "seg",
@@ -2886,12 +3144,14 @@
                     "n": "d"
                   },
                   "text": "hatvā garbham acetanam",
-                  "segment_number": 259
+                  "segment_number": 259,
+                  "translated_text": "for killing an unconscious fetus;"
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 260
+                  "segment_number": 260,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2914,7 +3174,8 @@
                     "n": "a"
                   },
                   "text": "aṅgapratyaṅgasaṃpūrṇe",
-                  "segment_number": 261
+                  "segment_number": 261,
+                  "translated_text": "when the fetus is complete with all limbs and parts,"
                 },
                 {
                   "tag": "seg",
@@ -2923,12 +3184,14 @@
                     "n": "b"
                   },
                   "text": "garbhe retaḥ samanvite",
-                  "segment_number": 262
+                  "segment_number": 262,
+                  "translated_text": "endowed with vital fluid,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 263
+                  "segment_number": 263,
+                  "translated_text": ""
                 }
               ]
             },
@@ -2943,7 +3206,8 @@
                     "n": "c"
                   },
                   "text": "ekaikaśaś caret kṛcchram",
-                  "segment_number": 264
+                  "segment_number": 264,
+                  "translated_text": "one should perform a full <s>kṛcchra</s> for each —"
                 },
                 {
                   "tag": "seg",
@@ -2952,12 +3216,14 @@
                     "n": "d"
                   },
                   "text": "eṣā goghnasya niṣkṛtiḥ",
-                  "segment_number": 265
+                  "segment_number": 265,
+                  "translated_text": "this is the expiation for cow-slaughter."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 266
+                  "segment_number": 266,
+                  "translated_text": ""
                 }
               ]
             }
@@ -2980,7 +3246,8 @@
                     "n": "a"
                   },
                   "text": "bandhane rodhane caiva",
-                  "segment_number": 267
+                  "segment_number": 267,
+                  "translated_text": "In tying up, confining,"
                 },
                 {
                   "tag": "seg",
@@ -2989,12 +3256,14 @@
                     "n": "b"
                   },
                   "text": "pāṣāṇe vā gavāṃ rujā",
-                  "segment_number": 268
+                  "segment_number": 268,
+                  "translated_text": "or injury from stones to cows,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 269
+                  "segment_number": 269,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3009,7 +3278,8 @@
                     "n": "c"
                   },
                   "text": "saṃpadyate cen maraṇaṃ",
-                  "segment_number": 270
+                  "segment_number": 270,
+                  "translated_text": "if death results,"
                 },
                 {
                   "tag": "seg",
@@ -3018,12 +3288,14 @@
                     "n": "d"
                   },
                   "text": "nimittī naiva lipyate",
-                  "segment_number": 271
+                  "segment_number": 271,
+                  "translated_text": "the one who caused it is not tainted."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 272
+                  "segment_number": 272,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3046,7 +3318,8 @@
                     "n": "a"
                   },
                   "text": "mūrchitaḥ patito vāpi",
-                  "segment_number": 273
+                  "segment_number": 273,
+                  "translated_text": "If the cow, having fainted or fallen,"
                 },
                 {
                   "tag": "seg",
@@ -3055,12 +3328,14 @@
                     "n": "b"
                   },
                   "text": "daṇḍenābhihatas tathā",
-                  "segment_number": 274
+                  "segment_number": 274,
+                  "translated_text": "or having been struck by a stick,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 275
+                  "segment_number": 275,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3075,7 +3350,8 @@
                     "n": "c"
                   },
                   "text": "utthāya ṣaṭpadaṃ gacchet",
-                  "segment_number": 276
+                  "segment_number": 276,
+                  "translated_text": "gets up and walks six steps,"
                 },
                 {
                   "tag": "seg",
@@ -3084,12 +3360,14 @@
                     "n": "d"
                   },
                   "text": "sapta pañca daśāpi vā",
-                  "segment_number": 277
+                  "segment_number": 277,
+                  "translated_text": "or seven, five, or ten,"
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 278
+                  "segment_number": 278,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3112,7 +3390,8 @@
                     "n": "a"
                   },
                   "text": "grāsaṃ vā yadi gṛhṇīyāt",
-                  "segment_number": 279
+                  "segment_number": 279,
+                  "translated_text": "or if she takes a morsel of food,"
                 },
                 {
                   "tag": "seg",
@@ -3121,12 +3400,14 @@
                     "n": "b"
                   },
                   "text": "toyaṃ vāpi pibed yadi",
-                  "segment_number": 280
+                  "segment_number": 280,
+                  "translated_text": "or if she drinks water,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 281
+                  "segment_number": 281,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3141,7 +3422,8 @@
                     "n": "c"
                   },
                   "text": "pūrvavyādhipranaṣṭānāṃ",
-                  "segment_number": 282
+                  "segment_number": 282,
+                  "translated_text": "for those that perish from a prior disease,"
                 },
                 {
                   "tag": "seg",
@@ -3150,12 +3432,14 @@
                     "n": "d"
                   },
                   "text": "prāyaścittaṃ na vidyate",
-                  "segment_number": 283
+                  "segment_number": 283,
+                  "translated_text": "no <s>prāyaścitta</s> is prescribed."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 284
+                  "segment_number": 284,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3178,7 +3462,8 @@
                     "n": "a"
                   },
                   "text": "kāṣṭhaloṣṭāśmabhir gāvaḥ",
-                  "segment_number": 285
+                  "segment_number": 285,
+                  "translated_text": "If cows are killed by wood, clods of earth,"
                 },
                 {
                   "tag": "seg",
@@ -3187,12 +3472,14 @@
                     "n": "b"
                   },
                   "text": "śastrair vā nihatā yadi",
-                  "segment_number": 286
+                  "segment_number": 286,
+                  "translated_text": "stones, or weapons,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 287
+                  "segment_number": 287,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3207,7 +3494,8 @@
                     "n": "c"
                   },
                   "text": "prāyaścittaṃ kathaṃ tatra",
-                  "segment_number": 288
+                  "segment_number": 288,
+                  "translated_text": "what <s>prāyaścitta</s> applies in each case"
                 },
                 {
                   "tag": "seg",
@@ -3216,12 +3504,14 @@
                     "n": "d"
                   },
                   "text": "śāstre śāstre nigadyate",
-                  "segment_number": 289
+                  "segment_number": 289,
+                  "translated_text": "is stated in the respective <s>śāstras</s>:"
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 290
+                  "segment_number": 290,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3244,7 +3534,8 @@
                     "n": "a"
                   },
                   "text": "kāṣṭhe sāṃtapanaṃ kuryāt",
-                  "segment_number": 291
+                  "segment_number": 291,
+                  "translated_text": "for wood, one should perform <s>sāṃtapana</s>;"
                 },
                 {
                   "tag": "seg",
@@ -3253,12 +3544,14 @@
                     "n": "b"
                   },
                   "text": "prājāpatyaṃ tu loṣṭake",
-                  "segment_number": 292
+                  "segment_number": 292,
+                  "translated_text": "for a clod, <s>prājāpatya</s>;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 293
+                  "segment_number": 293,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3273,7 +3566,8 @@
                     "n": "c"
                   },
                   "text": "taptakṛcchraṃ tu pāṣāṇe",
-                  "segment_number": 294
+                  "segment_number": 294,
+                  "translated_text": "for a stone, <s>taptakṛcchra</s>;"
                 },
                 {
                   "tag": "seg",
@@ -3282,12 +3576,14 @@
                     "n": "d"
                   },
                   "text": "śastre cāpy atikṛcchrakam",
-                  "segment_number": 295
+                  "segment_number": 295,
+                  "translated_text": "and for a weapon, <s>atikṛcchra</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 296
+                  "segment_number": 296,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3310,7 +3606,8 @@
                     "n": "a"
                   },
                   "text": "auṣadhaṃ sneham āhāraṃ",
-                  "segment_number": 297
+                  "segment_number": 297,
+                  "translated_text": "When one gives medicine, oil, or food"
                 },
                 {
                   "tag": "seg",
@@ -3319,12 +3616,14 @@
                     "n": "b"
                   },
                   "text": "dadad gobrāhmaṇeṣu tu",
-                  "segment_number": 298
+                  "segment_number": 298,
+                  "translated_text": "to cows or <s>brāhmaṇas</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 299
+                  "segment_number": 299,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3339,7 +3638,8 @@
                     "n": "c"
                   },
                   "text": "dīyamāne vipattiḥ syāt",
-                  "segment_number": 300
+                  "segment_number": 300,
+                  "translated_text": "and calamity befalls while it is being given,"
                 },
                 {
                   "tag": "seg",
@@ -3348,12 +3648,14 @@
                     "n": "d"
                   },
                   "text": "prāyaścittaṃ na vidyate",
-                  "segment_number": 301
+                  "segment_number": 301,
+                  "translated_text": "no <s>prāyaścitta</s> is prescribed."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 302
+                  "segment_number": 302,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3376,7 +3678,8 @@
                     "n": "a"
                   },
                   "text": "tailabhaiṣajyapāne ca",
-                  "segment_number": 303
+                  "segment_number": 303,
+                  "translated_text": "In the administration of oil or medicinal drinks,"
                 },
                 {
                   "tag": "seg",
@@ -3385,12 +3688,14 @@
                     "n": "b"
                   },
                   "text": "bheṣajānāṃ ca bhakṣaṇe",
-                  "segment_number": 304
+                  "segment_number": 304,
+                  "translated_text": "or in the consuming of medicines,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 305
+                  "segment_number": 305,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3405,7 +3710,8 @@
                     "n": "c"
                   },
                   "text": "niḥśalyakaraṇe caiva",
-                  "segment_number": 306
+                  "segment_number": 306,
+                  "translated_text": "or in the extraction of foreign objects from wounds,"
                 },
                 {
                   "tag": "seg",
@@ -3414,12 +3720,14 @@
                     "n": "d"
                   },
                   "text": "prāyaścittaṃ na vidyate",
-                  "segment_number": 307
+                  "segment_number": 307,
+                  "translated_text": "no <s>prāyaścitta</s> is prescribed."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 308
+                  "segment_number": 308,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3442,7 +3750,8 @@
                     "n": "a"
                   },
                   "text": "vatsānāṃ kaṇṭhabandhena",
-                  "segment_number": 309
+                  "segment_number": 309,
+                  "translated_text": "For tying calves by the neck,"
                 },
                 {
                   "tag": "seg",
@@ -3451,12 +3760,14 @@
                     "n": "b"
                   },
                   "text": "kriyayā bheṣajena tu",
-                  "segment_number": 310
+                  "segment_number": 310,
+                  "translated_text": "for medical treatment,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 311
+                  "segment_number": 311,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3471,7 +3782,8 @@
                     "n": "c"
                   },
                   "text": "sāyaṃ saṃgopanārthaṃ ca",
-                  "segment_number": 312
+                  "segment_number": 312,
+                  "translated_text": "and for the purpose of herding them in the evening —"
                 },
                 {
                   "tag": "seg",
@@ -3480,12 +3792,14 @@
                     "n": "d"
                   },
                   "text": "na doṣo rodha bandhayoḥ",
-                  "segment_number": 313
+                  "segment_number": 313,
+                  "translated_text": "there is no fault in confining or tying."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 314
+                  "segment_number": 314,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3508,7 +3822,8 @@
                     "n": "a"
                   },
                   "text": "pāde caivāsya romāṇi",
-                  "segment_number": 315
+                  "segment_number": 315,
+                  "translated_text": "At one quarter of the penance, only the body hair is shaved;"
                 },
                 {
                   "tag": "seg",
@@ -3517,12 +3832,14 @@
                     "n": "b"
                   },
                   "text": "dvi pāde śmaśrukevalam",
-                  "segment_number": 316
+                  "segment_number": 316,
+                  "translated_text": "at two quarters, the beard alone;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 317
+                  "segment_number": 317,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3537,7 +3854,8 @@
                     "n": "c"
                   },
                   "text": "tripāde tu śikhāvarjaṃ",
-                  "segment_number": 318
+                  "segment_number": 318,
+                  "translated_text": "at three quarters, all hair except the topknot;"
                 },
                 {
                   "tag": "seg",
@@ -3546,12 +3864,14 @@
                     "n": "d"
                   },
                   "text": "mūle sarvaṃ samācaret",
-                  "segment_number": 319
+                  "segment_number": 319,
+                  "translated_text": "at the full penance, everything should be shaved."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 320
+                  "segment_number": 320,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3574,7 +3894,8 @@
                     "n": "a"
                   },
                   "text": "sarvān keśān samuddhṛtya",
-                  "segment_number": 321
+                  "segment_number": 321,
+                  "translated_text": "Having removed all the hair,"
                 },
                 {
                   "tag": "seg",
@@ -3583,12 +3904,14 @@
                     "n": "b"
                   },
                   "text": "cchedayed aṅguladvayam",
-                  "segment_number": 322
+                  "segment_number": 322,
+                  "translated_text": "one should cut it to the length of two finger-breadths;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 323
+                  "segment_number": 323,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3603,7 +3926,8 @@
                     "n": "c"
                   },
                   "text": "evam eva hi nārīṇāṃ",
-                  "segment_number": 324
+                  "segment_number": 324,
+                  "translated_text": "thus indeed for women,"
                 },
                 {
                   "tag": "seg",
@@ -3612,12 +3936,14 @@
                     "n": "d"
                   },
                   "text": "muṇḍamuṇḍāpanaṃ smṛtam",
-                  "segment_number": 325
+                  "segment_number": 325,
+                  "translated_text": "cutting to this length is prescribed instead of full shaving."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 326
+                  "segment_number": 326,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3640,7 +3966,8 @@
                     "n": "a"
                   },
                   "text": "na striyā vapanaṃ kāryaṃ",
-                  "segment_number": 327
+                  "segment_number": 327,
+                  "translated_text": "A woman should not have her head shaved,"
                 },
                 {
                   "tag": "seg",
@@ -3649,12 +3976,14 @@
                     "n": "b"
                   },
                   "text": "na ca vīrāsanaṃ tathā",
-                  "segment_number": 328
+                  "segment_number": 328,
+                  "translated_text": "nor should she sit in the <s>vīrāsana</s> posture,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 329
+                  "segment_number": 329,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3669,7 +3998,8 @@
                     "n": "c"
                   },
                   "text": "na ca goṣṭhe nivāsaṃ ca",
-                  "segment_number": 330
+                  "segment_number": 330,
+                  "translated_text": "nor should she dwell in a cow-pen,"
                 },
                 {
                   "tag": "seg",
@@ -3678,12 +4008,14 @@
                     "n": "d"
                   },
                   "text": "na gacchantīm anuvrajet",
-                  "segment_number": 331
+                  "segment_number": 331,
+                  "translated_text": "nor should she follow the cow on its wanderings."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 332
+                  "segment_number": 332,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3706,7 +4038,8 @@
                     "n": "a"
                   },
                   "text": "rājā vā rāja putro vā",
-                  "segment_number": 333
+                  "segment_number": 333,
+                  "translated_text": "For a king, a prince,"
                 },
                 {
                   "tag": "seg",
@@ -3715,12 +4048,14 @@
                     "n": "b"
                   },
                   "text": "brāhmaṇo vā bahuśrutaḥ",
-                  "segment_number": 334
+                  "segment_number": 334,
+                  "translated_text": "or a learned <s>brāhmaṇa</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 335
+                  "segment_number": 335,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3735,7 +4070,8 @@
                     "n": "c"
                   },
                   "text": "akṛtvā vapanaṃ teṣāṃ",
-                  "segment_number": 336
+                  "segment_number": 336,
+                  "translated_text": "one should prescribe <s>prāyaścitta</s>"
                 },
                 {
                   "tag": "seg",
@@ -3744,12 +4080,14 @@
                     "n": "d"
                   },
                   "text": "prāyaścittaṃ vinirdiśet",
-                  "segment_number": 337
+                  "segment_number": 337,
+                  "translated_text": "without requiring them to shave."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 338
+                  "segment_number": 338,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3772,7 +4110,8 @@
                     "n": "a"
                   },
                   "text": "keśānāṃ rakṣaṇārthaṃ ca",
-                  "segment_number": 339
+                  "segment_number": 339,
+                  "translated_text": "For the sake of preserving the hair,"
                 },
                 {
                   "tag": "seg",
@@ -3781,12 +4120,14 @@
                     "n": "b"
                   },
                   "text": "dviguṇaṃ vratam ādiśet",
-                  "segment_number": 340
+                  "segment_number": 340,
+                  "translated_text": "a double vow should be prescribed;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 341
+                  "segment_number": 341,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3801,7 +4142,8 @@
                     "n": "c"
                   },
                   "text": "dviguṇe tu vrate cīrṇe",
-                  "segment_number": 342
+                  "segment_number": 342,
+                  "translated_text": "and when the double vow is performed,"
                 },
                 {
                   "tag": "seg",
@@ -3810,12 +4152,14 @@
                     "n": "d"
                   },
                   "text": "dviguṇaiva tu dakṣiṇā",
-                  "segment_number": 343
+                  "segment_number": 343,
+                  "translated_text": "the ritual fee (<s>dakṣiṇā</s>) should also be doubled."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 344
+                  "segment_number": 344,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3838,7 +4182,8 @@
                     "n": "a"
                   },
                   "text": "dviguṇaṃ cen na dattaṃ ca",
-                  "segment_number": 345
+                  "segment_number": 345,
+                  "translated_text": "If the doubled fee is not given"
                 },
                 {
                   "tag": "seg",
@@ -3847,12 +4192,14 @@
                     "n": "b"
                   },
                   "text": "keśāṃś ca parirakṣayet",
-                  "segment_number": 346
+                  "segment_number": 346,
+                  "translated_text": "while the hair is preserved,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 347
+                  "segment_number": 347,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3867,7 +4214,8 @@
                     "n": "c"
                   },
                   "text": "pāpaṃ na kṣīyate hantur",
-                  "segment_number": 348
+                  "segment_number": 348,
+                  "translated_text": "the sin of the killer is not diminished,"
                 },
                 {
                   "tag": "seg",
@@ -3876,12 +4224,14 @@
                     "n": "d"
                   },
                   "text": "dātā ca narakaṃ vrajet",
-                  "segment_number": 349
+                  "segment_number": 349,
+                  "translated_text": "and the one who prescribes the penance goes to hell."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 350
+                  "segment_number": 350,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3904,7 +4254,8 @@
                     "n": "a"
                   },
                   "text": "aśrautasmārtavihitaṃ",
-                  "segment_number": 351
+                  "segment_number": 351,
+                  "translated_text": "Those who prescribe a <s>prāyaścitta</s>"
                 },
                 {
                   "tag": "seg",
@@ -3913,12 +4264,14 @@
                     "n": "b"
                   },
                   "text": "prāyaścittaṃ vadanti ye",
-                  "segment_number": 352
+                  "segment_number": 352,
+                  "translated_text": "not sanctioned by <s>Śruti</s> or <s>Smṛti</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 353
+                  "segment_number": 353,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3933,7 +4286,8 @@
                     "n": "c"
                   },
                   "text": "tān dharmavighnakartṝṃś ca",
-                  "segment_number": 354
+                  "segment_number": 354,
+                  "translated_text": "those obstructors of <s>dharma</s> —"
                 },
                 {
                   "tag": "seg",
@@ -3942,12 +4296,14 @@
                     "n": "d"
                   },
                   "text": "rājā daṇḍena pīḍayet",
-                  "segment_number": 355
+                  "segment_number": 355,
+                  "translated_text": "the king should punish them with a fine."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 356
+                  "segment_number": 356,
+                  "translated_text": ""
                 }
               ]
             }
@@ -3970,7 +4326,8 @@
                     "n": "a"
                   },
                   "text": "na cet tān pīḍayed rājā",
-                  "segment_number": 357
+                  "segment_number": 357,
+                  "translated_text": "If the king does not punish them,"
                 },
                 {
                   "tag": "seg",
@@ -3979,12 +4336,14 @@
                     "n": "b"
                   },
                   "text": "kathañcit kāmamohitaḥ",
-                  "segment_number": 358
+                  "segment_number": 358,
+                  "translated_text": "being somehow deluded by desire,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 359
+                  "segment_number": 359,
+                  "translated_text": ""
                 }
               ]
             },
@@ -3999,7 +4358,8 @@
                     "n": "c"
                   },
                   "text": "tat pāpaṃ śatadhā bhūtvā",
-                  "segment_number": 360
+                  "segment_number": 360,
+                  "translated_text": "that sin, multiplied a hundredfold,"
                 },
                 {
                   "tag": "seg",
@@ -4008,12 +4368,14 @@
                     "n": "d"
                   },
                   "text": "tam eva parisarpati",
-                  "segment_number": 361
+                  "segment_number": 361,
+                  "translated_text": "descends upon him alone."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 362
+                  "segment_number": 362,
+                  "translated_text": ""
                 }
               ]
             }
@@ -4036,7 +4398,8 @@
                     "n": "a"
                   },
                   "text": "prāyaścitte tataś cīrṇe",
-                  "segment_number": 363
+                  "segment_number": 363,
+                  "translated_text": "After the <s>prāyaścitta</s> has been performed,"
                 },
                 {
                   "tag": "seg",
@@ -4045,12 +4408,14 @@
                     "n": "b"
                   },
                   "text": "kuryād brāhmaṇabhojanam",
-                  "segment_number": 364
+                  "segment_number": 364,
+                  "translated_text": "one should feed <s>brāhmaṇas</s>;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 365
+                  "segment_number": 365,
+                  "translated_text": ""
                 }
               ]
             },
@@ -4065,7 +4430,8 @@
                     "n": "c"
                   },
                   "text": "viṃśatiṃ gāvṛṣaṃ caiva",
-                  "segment_number": 366
+                  "segment_number": 366,
+                  "translated_text": "and one should give twenty cows and a bull"
                 },
                 {
                   "tag": "seg",
@@ -4074,12 +4440,14 @@
                     "n": "d"
                   },
                   "text": "dadyāt teṣāṃ ca dakṣiṇām",
-                  "segment_number": 367
+                  "segment_number": 367,
+                  "translated_text": "as <s>dakṣiṇā</s> (fee) to them."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 368
+                  "segment_number": 368,
+                  "translated_text": ""
                 }
               ]
             }
@@ -4102,7 +4470,8 @@
                     "n": "a"
                   },
                   "text": "kṛmibhir vraṇasaṃbhūtair",
-                  "segment_number": 369
+                  "segment_number": 369,
+                  "translated_text": "When cows are brought down by worms born from wounds,"
                 },
                 {
                   "tag": "seg",
@@ -4111,12 +4480,14 @@
                     "n": "b"
                   },
                   "text": "makṣikābhiś ca pātitaiḥ",
-                  "segment_number": 370
+                  "segment_number": 370,
+                  "translated_text": "or by flies,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 371
+                  "segment_number": 371,
+                  "translated_text": ""
                 }
               ]
             },
@@ -4131,7 +4502,8 @@
                     "n": "c"
                   },
                   "text": "kṛcchrārdhaṃ saṃprakurvīta",
-                  "segment_number": 372
+                  "segment_number": 372,
+                  "translated_text": "one should perform half a <s>kṛcchra</s>"
                 },
                 {
                   "tag": "seg",
@@ -4140,12 +4512,14 @@
                     "n": "d"
                   },
                   "text": "śaktyā dadyāc ca dakṣiṇām",
-                  "segment_number": 373
+                  "segment_number": 373,
+                  "translated_text": "and give <s>dakṣiṇā</s> according to one's ability."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 374
+                  "segment_number": 374,
+                  "translated_text": ""
                 }
               ]
             }
@@ -4168,7 +4542,8 @@
                     "n": "a"
                   },
                   "text": "prāyaścittaṃ ca kṛtvā vai",
-                  "segment_number": 375
+                  "segment_number": 375,
+                  "translated_text": "Having performed the <s>prāyaścitta</s>"
                 },
                 {
                   "tag": "seg",
@@ -4177,12 +4552,14 @@
                     "n": "b"
                   },
                   "text": "bhojayitvā dvijottamān",
-                  "segment_number": 376
+                  "segment_number": 376,
+                  "translated_text": "and having fed the best of twice-born,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 377
+                  "segment_number": 377,
+                  "translated_text": ""
                 }
               ]
             },
@@ -4197,7 +4574,8 @@
                     "n": "c"
                   },
                   "text": "suvarṇam āṣakaṃ dadyāt",
-                  "segment_number": 378
+                  "segment_number": 378,
+                  "translated_text": "one should give gold equal to one <s>āṣaka</s> (a small weight);"
                 },
                 {
                   "tag": "seg",
@@ -4206,12 +4584,14 @@
                     "n": "d"
                   },
                   "text": "tataḥ śuddhir vidhīyate",
-                  "segment_number": 379
+                  "segment_number": 379,
+                  "translated_text": "then purification is ordained."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 380
+                  "segment_number": 380,
+                  "translated_text": ""
                 }
               ]
             }
@@ -4234,7 +4614,8 @@
                     "n": "a"
                   },
                   "text": "caṇḍālaśvapacaiḥ spṛṣṭe",
-                  "segment_number": 381
+                  "segment_number": 381,
+                  "translated_text": "When one is touched by <s>caṇḍālas</s> or <s>śvapacas</s> at night,"
                 },
                 {
                   "tag": "seg",
@@ -4243,12 +4624,14 @@
                     "n": "b"
                   },
                   "text": "niśi snānaṃ vidhīyate",
-                  "segment_number": 382
+                  "segment_number": 382,
+                  "translated_text": "bathing is prescribed;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 383
+                  "segment_number": 383,
+                  "translated_text": ""
                 }
               ]
             },
@@ -4263,7 +4646,8 @@
                     "n": "c"
                   },
                   "text": "na vaset tatra rātrau tu",
-                  "segment_number": 384
+                  "segment_number": 384,
+                  "translated_text": "one should not stay there at night,"
                 },
                 {
                   "tag": "seg",
@@ -4272,12 +4656,14 @@
                     "n": "d"
                   },
                   "text": "sadyaḥ snānena śudhyati",
-                  "segment_number": 385
+                  "segment_number": 385,
+                  "translated_text": "and is purified immediately by bathing."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 386
+                  "segment_number": 386,
+                  "translated_text": ""
                 }
               ]
             }
@@ -4300,7 +4686,8 @@
                     "n": "a"
                   },
                   "text": "atha vased yadā rātrāv",
-                  "segment_number": 387
+                  "segment_number": 387,
+                  "translated_text": "But if one stays the night"
                 },
                 {
                   "tag": "seg",
@@ -4309,12 +4696,14 @@
                     "n": "b"
                   },
                   "text": "ajñānād avicakṣaṇaḥ",
-                  "segment_number": 388
+                  "segment_number": 388,
+                  "translated_text": "unknowingly and without discernment,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 389
+                  "segment_number": 389,
+                  "translated_text": ""
                 }
               ]
             },
@@ -4329,7 +4718,8 @@
                     "n": "c"
                   },
                   "text": "tadā tasya tu tat pāpaṃ",
-                  "segment_number": 390
+                  "segment_number": 390,
+                  "translated_text": "then the sin from that contact"
                 },
                 {
                   "tag": "seg",
@@ -4338,12 +4728,14 @@
                     "n": "d"
                   },
                   "text": "śatadhā parivartate",
-                  "segment_number": 391
+                  "segment_number": 391,
+                  "translated_text": "revolves a hundredfold."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 392
+                  "segment_number": 392,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4366,7 +4758,8 @@
                     "n": "a"
                   },
                   "text": "udgacchanti hi nakṣatrāṇy",
-                  "segment_number": 393
+                  "segment_number": 393,
+                  "translated_text": "When the <s>nakṣatras</s> (lunar asterisms) rise,"
                 },
                 {
                   "tag": "seg",
@@ -4375,12 +4768,14 @@
                     "n": "b"
                   },
                   "text": "upariṣṭāc ca ye grahāḥ",
-                  "segment_number": 394
+                  "segment_number": 394,
+                  "translated_text": "and the planets that are above,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 395
+                  "segment_number": 395,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4395,7 +4790,8 @@
                     "n": "c"
                   },
                   "text": "saṃspṛṣṭe raśmibhis teṣām",
-                  "segment_number": 396
+                  "segment_number": 396,
+                  "translated_text": "when the water is touched by their rays,"
                 },
                 {
                   "tag": "seg",
@@ -4404,12 +4800,14 @@
                     "n": "d"
                   },
                   "text": "udake snānam ācaret",
-                  "segment_number": 397
+                  "segment_number": 397,
+                  "translated_text": "one should perform bathing."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 398
+                  "segment_number": 398,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4432,7 +4830,8 @@
                     "n": "a"
                   },
                   "text": "kuḍyāntarjalavalmīka",
-                  "segment_number": 399
+                  "segment_number": 399,
+                  "translated_text": "From walls, from water within ant-hills,"
                 },
                 {
                   "tag": "seg",
@@ -4441,12 +4840,14 @@
                     "n": "b"
                   },
                   "text": "mūṣikotkaravartmasu",
-                  "segment_number": 400
+                  "segment_number": 400,
+                  "translated_text": "from rat-burrows and pathways,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 401
+                  "segment_number": 401,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4461,7 +4862,8 @@
                     "n": "c"
                   },
                   "text": "śmaśāne śaucaśeṣe ca",
-                  "segment_number": 402
+                  "segment_number": 402,
+                  "translated_text": "from cremation grounds and from places where purification residue remains,"
                 },
                 {
                   "tag": "seg",
@@ -4470,12 +4872,14 @@
                     "n": "d"
                   },
                   "text": "na grāhyāḥ sapta mṛttikāḥ",
-                  "segment_number": 403
+                  "segment_number": 403,
+                  "translated_text": "the seven types of earth should not be collected."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 404
+                  "segment_number": 404,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4498,7 +4902,8 @@
                     "n": "a"
                   },
                   "text": "iṣṭāpūrtaṃ tu kartavyaṃ",
-                  "segment_number": 405
+                  "segment_number": 405,
+                  "translated_text": "<s>Iṣṭāpūrta</s> (sacrificial and charitable merit) should be performed"
                 },
                 {
                   "tag": "seg",
@@ -4507,12 +4912,14 @@
                     "n": "b"
                   },
                   "text": "brāhmaṇena prayatnataḥ",
-                  "segment_number": 406
+                  "segment_number": 406,
+                  "translated_text": "by a <s>brāhmaṇa</s> with great effort."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 407
+                  "segment_number": 407,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4527,7 +4934,8 @@
                     "n": "c"
                   },
                   "text": "iṣṭena labhate svargaṃ",
-                  "segment_number": 408
+                  "segment_number": 408,
+                  "translated_text": "Through <s>iṣṭa</s> (sacrifice) one obtains heaven;"
                 },
                 {
                   "tag": "seg",
@@ -4536,12 +4944,14 @@
                     "n": "d"
                   },
                   "text": "pūrte mokṣaṃ samaśnute",
-                  "segment_number": 409
+                  "segment_number": 409,
+                  "translated_text": "through <s>pūrta</s> (charitable works) one attains liberation."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 410
+                  "segment_number": 410,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4564,7 +4974,8 @@
                     "n": "a"
                   },
                   "text": "vittāpekṣaṃ bhaved iṣṭaṃ",
-                  "segment_number": 411
+                  "segment_number": 411,
+                  "translated_text": "<s>Iṣṭa</s> (sacrifice) depends upon wealth;"
                 },
                 {
                   "tag": "seg",
@@ -4573,12 +4984,14 @@
                     "n": "b"
                   },
                   "text": "taḍāgaṃ pūrtam ucyate",
-                  "segment_number": 412
+                  "segment_number": 412,
+                  "translated_text": "a tank is said to be <s>pūrta</s> (meritorious work),"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 413
+                  "segment_number": 413,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4593,7 +5006,8 @@
                     "n": "c"
                   },
                   "text": "ārāmaś ca viśeṣeṇa",
-                  "segment_number": 414
+                  "segment_number": 414,
+                  "translated_text": "and gardens especially,"
                 },
                 {
                   "tag": "seg",
@@ -4602,12 +5016,14 @@
                     "n": "d"
                   },
                   "text": "devadroṇyas tathaiva ca",
-                  "segment_number": 415
+                  "segment_number": 415,
+                  "translated_text": "and likewise temple water-troughs."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 416
+                  "segment_number": 416,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4630,7 +5046,8 @@
                     "n": "a"
                   },
                   "text": "vāpī kūpataḍāgāni",
-                  "segment_number": 417
+                  "segment_number": 417,
+                  "translated_text": "Wells, step-wells, and tanks,"
                 },
                 {
                   "tag": "seg",
@@ -4639,12 +5056,14 @@
                     "n": "b"
                   },
                   "text": "devatāyatanāni ca",
-                  "segment_number": 418
+                  "segment_number": 418,
+                  "translated_text": "and temples of deities,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 419
+                  "segment_number": 419,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4659,7 +5078,8 @@
                     "n": "c"
                   },
                   "text": "patitāny uddhared yas tu",
-                  "segment_number": 420
+                  "segment_number": 420,
+                  "translated_text": "whoever restores those that have fallen into disrepair,"
                 },
                 {
                   "tag": "seg",
@@ -4668,12 +5088,14 @@
                     "n": "d"
                   },
                   "text": "sa pūrtaphalam aśnute",
-                  "segment_number": 421
+                  "segment_number": 421,
+                  "translated_text": "he obtains the fruit of <s>pūrta</s> (charitable merit)."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 422
+                  "segment_number": 422,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4696,7 +5118,8 @@
                     "n": "a"
                   },
                   "text": "śuklāyā mūtraṃ gṛhṇīyāt",
-                  "segment_number": 423
+                  "segment_number": 423,
+                  "translated_text": "One should collect urine from a white cow,"
                 },
                 {
                   "tag": "seg",
@@ -4705,12 +5128,14 @@
                     "n": "b"
                   },
                   "text": "kṛṣṇāyā goḥ śakṛt tathā",
-                  "segment_number": 424
+                  "segment_number": 424,
+                  "translated_text": "and dung from a black cow,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 425
+                  "segment_number": 425,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4725,7 +5150,8 @@
                     "n": "c"
                   },
                   "text": "tāmrāyāś ca payo grāhyaṃ",
-                  "segment_number": 426
+                  "segment_number": 426,
+                  "translated_text": "milk should be taken from a tawny cow,"
                 },
                 {
                   "tag": "seg",
@@ -4734,12 +5160,14 @@
                     "n": "d"
                   },
                   "text": "śvetāyā dadhi cocyate",
-                  "segment_number": 427
+                  "segment_number": 427,
+                  "translated_text": "and curd is prescribed from a white cow."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 428
+                  "segment_number": 428,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4762,7 +5190,8 @@
                     "n": "a"
                   },
                   "text": "kapilāyā ghṛtaṃ grāhyaṃ",
-                  "segment_number": 429
+                  "segment_number": 429,
+                  "translated_text": "Ghee should be taken from a reddish-brown cow;"
                 },
                 {
                   "tag": "seg",
@@ -4771,12 +5200,14 @@
                     "n": "b"
                   },
                   "text": "mahāpātakanāśanam",
-                  "segment_number": 430
+                  "segment_number": 430,
+                  "translated_text": "it destroys great sins."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 431
+                  "segment_number": 431,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4791,7 +5222,8 @@
                     "n": "c"
                   },
                   "text": "sarvatīrthe nadī toye",
-                  "segment_number": 432
+                  "segment_number": 432,
+                  "translated_text": "At every <s>tīrtha</s> (sacred ford), in river water,"
                 },
                 {
                   "tag": "seg",
@@ -4800,12 +5232,14 @@
                     "n": "d"
                   },
                   "text": "kuśair dravyaṃ pṛthak pṛthak",
-                  "segment_number": 433
+                  "segment_number": 433,
+                  "translated_text": "each substance separately with <s>kuśa</s> grass,"
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 434
+                  "segment_number": 434,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4828,7 +5262,8 @@
                     "n": "a"
                   },
                   "text": "āhṛtya praṇavenaiva hy",
-                  "segment_number": 435
+                  "segment_number": 435,
+                  "translated_text": "having gathered them with <s>praṇava</s> (the syllable Oṃ) indeed,"
                 },
                 {
                   "tag": "seg",
@@ -4837,12 +5272,14 @@
                     "n": "b"
                   },
                   "text": "utthāpya praṇavena ca",
-                  "segment_number": 436
+                  "segment_number": 436,
+                  "translated_text": "and having raised them with <s>praṇava</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 437
+                  "segment_number": 437,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4857,7 +5294,8 @@
                     "n": "c"
                   },
                   "text": "praṇavena samāloḍya",
-                  "segment_number": 438
+                  "segment_number": 438,
+                  "translated_text": "having stirred them with <s>praṇava</s>,"
                 },
                 {
                   "tag": "seg",
@@ -4866,12 +5304,14 @@
                     "n": "d"
                   },
                   "text": "praṇavena tu saṃpibet",
-                  "segment_number": 439
+                  "segment_number": 439,
+                  "translated_text": "one should drink them with <s>praṇava</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 440
+                  "segment_number": 440,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4894,7 +5334,8 @@
                     "n": "a"
                   },
                   "text": "pālāśe madhyame parṇe",
-                  "segment_number": 441
+                  "segment_number": 441,
+                  "translated_text": "In the middle leaf of a <s>palāśa</s> (Butea frondosa) tree,"
                 },
                 {
                   "tag": "seg",
@@ -4903,12 +5344,14 @@
                     "n": "b"
                   },
                   "text": "bhāṇḍe tāmramaye tathā",
-                  "segment_number": 442
+                  "segment_number": 442,
+                  "translated_text": "or in a copper vessel,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 443
+                  "segment_number": 443,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4923,7 +5366,8 @@
                     "n": "c"
                   },
                   "text": "pibet puṣkaraparṇe vā",
-                  "segment_number": 444
+                  "segment_number": 444,
+                  "translated_text": "one should drink from a lotus leaf, or"
                 },
                 {
                   "tag": "seg",
@@ -4932,12 +5376,14 @@
                     "n": "d"
                   },
                   "text": "tāmre vā mṛnmaye śubhe",
-                  "segment_number": 445
+                  "segment_number": 445,
+                  "translated_text": "from a copper or an auspicious earthen vessel."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 446
+                  "segment_number": 446,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -4960,7 +5406,8 @@
                     "n": "a"
                   },
                   "text": "sūtake tu samutpanne",
-                  "segment_number": 447
+                  "segment_number": 447,
+                  "translated_text": "When a birth-impurity has arisen,"
                 },
                 {
                   "tag": "seg",
@@ -4969,12 +5416,14 @@
                     "n": "b"
                   },
                   "text": "dvitīye samupasthite",
-                  "segment_number": 448
+                  "segment_number": 448,
+                  "translated_text": "and a second one occurs,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 449
+                  "segment_number": 449,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -4989,7 +5438,8 @@
                     "n": "c"
                   },
                   "text": "dvitīye nāsti doṣas tu",
-                  "segment_number": 450
+                  "segment_number": 450,
+                  "translated_text": "in the second there is no fault;"
                 },
                 {
                   "tag": "seg",
@@ -4998,12 +5448,14 @@
                     "n": "d"
                   },
                   "text": "prathamenaiva śudhyati",
-                  "segment_number": 451
+                  "segment_number": 451,
+                  "translated_text": "purification comes by the first alone."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 452
+                  "segment_number": 452,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5026,7 +5478,8 @@
                     "n": "a"
                   },
                   "text": "jātena śudhyate jātaṃ",
-                  "segment_number": 453
+                  "segment_number": 453,
+                  "translated_text": "The birth-impurity is purified by the birth itself;"
                 },
                 {
                   "tag": "seg",
@@ -5035,12 +5488,14 @@
                     "n": "b"
                   },
                   "text": "mṛtena mṛtakaṃ tathā",
-                  "segment_number": 454
+                  "segment_number": 454,
+                  "translated_text": "likewise death-impurity by the death itself."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 455
+                  "segment_number": 455,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5055,7 +5510,8 @@
                     "n": "c"
                   },
                   "text": "garbhasaṃsravaṇe māse",
-                  "segment_number": 456
+                  "segment_number": 456,
+                  "translated_text": "In the case of miscarriage, according to the month,"
                 },
                 {
                   "tag": "seg",
@@ -5064,12 +5520,14 @@
                     "n": "d"
                   },
                   "text": "trīṇy ahāni vinirdiśet",
-                  "segment_number": 457
+                  "segment_number": 457,
+                  "translated_text": "three days should be prescribed."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 458
+                  "segment_number": 458,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5092,7 +5550,8 @@
                     "n": "a"
                   },
                   "text": "rātribhir māsatulyābhir",
-                  "segment_number": 459
+                  "segment_number": 459,
+                  "translated_text": "By nights equal in number to the months of pregnancy,"
                 },
                 {
                   "tag": "seg",
@@ -5101,12 +5560,14 @@
                     "n": "b"
                   },
                   "text": "garbhasrāve viśudhyati",
-                  "segment_number": 460
+                  "segment_number": 460,
+                  "translated_text": "purification from miscarriage is achieved."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 461
+                  "segment_number": 461,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5121,7 +5582,8 @@
                     "n": "c"
                   },
                   "text": "rajasy uparate sādhvī",
-                  "segment_number": 462
+                  "segment_number": 462,
+                  "translated_text": "A virtuous woman, when her menstrual period has ceased,"
                 },
                 {
                   "tag": "seg",
@@ -5130,12 +5592,14 @@
                     "n": "d"
                   },
                   "text": "snānena strī rajasvalā",
-                  "segment_number": 463
+                  "segment_number": 463,
+                  "translated_text": "a menstruating woman is purified by bathing."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 464
+                  "segment_number": 464,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5158,7 +5622,8 @@
                     "n": "a"
                   },
                   "text": "svagotrād bhraśyate nārī",
-                  "segment_number": 465
+                  "segment_number": 465,
+                  "translated_text": "A woman separates from her natal <s>gotra</s> (lineage)"
                 },
                 {
                   "tag": "seg",
@@ -5167,12 +5632,14 @@
                     "n": "b"
                   },
                   "text": "vivāhāt saptame pade",
-                  "segment_number": 466
+                  "segment_number": 466,
+                  "translated_text": "at the seventh step of marriage."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 467
+                  "segment_number": 467,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5187,7 +5654,8 @@
                     "n": "c"
                   },
                   "text": "svāmigotreṇa kartavyās",
-                  "segment_number": 468
+                  "segment_number": 468,
+                  "translated_text": "With the husband's <s>gotra</s>, the rites of"
                 },
                 {
                   "tag": "seg",
@@ -5196,12 +5664,14 @@
                     "n": "d"
                   },
                   "text": "tasyāḥ piṇḍodakaṃ kriyāḥ",
-                  "segment_number": 469
+                  "segment_number": 469,
+                  "translated_text": "<s>piṇḍa</s> (ancestral offering) and water-offering should be performed for her."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 470
+                  "segment_number": 470,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5224,7 +5694,8 @@
                     "n": "a"
                   },
                   "text": "dve pituḥ piṇḍadānaṃ syāt",
-                  "segment_number": 471
+                  "segment_number": 471,
+                  "translated_text": "Two <s>piṇḍas</s> (ancestral offerings) should be given for the father;"
                 },
                 {
                   "tag": "seg",
@@ -5233,12 +5704,14 @@
                     "n": "b"
                   },
                   "text": "piṇḍe piṇḍe dvināmatā",
-                  "segment_number": 472
+                  "segment_number": 472,
+                  "translated_text": "in each <s>piṇḍa</s>, two names are invoked."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 473
+                  "segment_number": 473,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5253,7 +5726,8 @@
                     "n": "c"
                   },
                   "text": "ṣaṇṇāṃ deyās trayaḥ piṇḍā",
-                  "segment_number": 474
+                  "segment_number": 474,
+                  "translated_text": "Three <s>piṇḍas</s> should be given for six persons;"
                 },
                 {
                   "tag": "seg",
@@ -5262,12 +5736,14 @@
                     "n": "d"
                   },
                   "text": "evaṃ dātā na muhyati",
-                  "segment_number": 475
+                  "segment_number": 475,
+                  "translated_text": "thus the giver is not confused."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 476
+                  "segment_number": 476,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5290,7 +5766,8 @@
                     "n": "a"
                   },
                   "text": "svena bhartrā saha śrāddhaṃ",
-                  "segment_number": 477
+                  "segment_number": 477,
+                  "translated_text": "The mother partakes of the <s>śrāddha</s> (ancestral rite) together with her own husband,"
                 },
                 {
                   "tag": "seg",
@@ -5299,12 +5776,14 @@
                     "n": "b"
                   },
                   "text": "mātā bhuktvā sa daivatam",
-                  "segment_number": 478
+                  "segment_number": 478,
+                  "translated_text": "having eaten with the deity."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 479
+                  "segment_number": 479,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5319,7 +5798,8 @@
                     "n": "c"
                   },
                   "text": "pitāmahy api svenaiva",
-                  "segment_number": 480
+                  "segment_number": 480,
+                  "translated_text": "The paternal grandmother likewise with her own husband,"
                 },
                 {
                   "tag": "seg",
@@ -5328,12 +5808,14 @@
                     "n": "d"
                   },
                   "text": "svenaiva prapitāmahī",
-                  "segment_number": 481
+                  "segment_number": 481,
+                  "translated_text": "and the great-grandmother with her own."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 482
+                  "segment_number": 482,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5356,7 +5838,8 @@
                     "n": "a"
                   },
                   "text": "varṣe varṣe tu kurvīta",
-                  "segment_number": 483
+                  "segment_number": 483,
+                  "translated_text": "Year after year one should perform"
                 },
                 {
                   "tag": "seg",
@@ -5365,12 +5848,14 @@
                     "n": "b"
                   },
                   "text": "mātāpitros tu satkṛtim",
-                  "segment_number": 484
+                  "segment_number": 484,
+                  "translated_text": "the honoring of one's mother and father."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 485
+                  "segment_number": 485,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5385,7 +5870,8 @@
                     "n": "c"
                   },
                   "text": "adaivaṃ bhojayec chrāddhaṃ",
-                  "segment_number": 486
+                  "segment_number": 486,
+                  "translated_text": "One should feed at the <s>śrāddha</s> without a deity-portion,"
                 },
                 {
                   "tag": "seg",
@@ -5394,12 +5880,14 @@
                     "n": "d"
                   },
                   "text": "piṇḍam ekaṃ tu nirvapet",
-                  "segment_number": 487
+                  "segment_number": 487,
+                  "translated_text": "and offer a single <s>piṇḍa</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 488
+                  "segment_number": 488,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5422,7 +5910,8 @@
                     "n": "a"
                   },
                   "text": "nityaṃ naimittikaṃ kāmyaṃ",
-                  "segment_number": 489
+                  "segment_number": 489,
+                  "translated_text": "The regular, the occasional, the desire-fulfilling,"
                 },
                 {
                   "tag": "seg",
@@ -5431,12 +5920,14 @@
                     "n": "b"
                   },
                   "text": "vṛddhiśrāddham athāparam",
-                  "segment_number": 490
+                  "segment_number": 490,
+                  "translated_text": "and the <s>vṛddhiśrāddha</s> (joyous ancestral rite),"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 491
+                  "segment_number": 491,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5451,7 +5942,8 @@
                     "n": "c"
                   },
                   "text": "pārvaṇaṃ ceti vijñeyaṃ",
-                  "segment_number": 492
+                  "segment_number": 492,
+                  "translated_text": "and the <s>pārvaṇa</s> (fortnightly rite) -- these should be known"
                 },
                 {
                   "tag": "seg",
@@ -5460,12 +5952,14 @@
                     "n": "d"
                   },
                   "text": "śrāddhaṃ pañcavidhaṃ budhaiḥ",
-                  "segment_number": 493
+                  "segment_number": 493,
+                  "translated_text": "as five types of <s>śrāddha</s> by the wise."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 494
+                  "segment_number": 494,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5488,7 +5982,8 @@
                     "n": "a"
                   },
                   "text": "grahoparāge saṃkrāntau",
-                  "segment_number": 495
+                  "segment_number": 495,
+                  "translated_text": "During an eclipse of a planet, at the <s>saṃkrānti</s> (solstice/equinox),"
                 },
                 {
                   "tag": "seg",
@@ -5497,12 +5992,14 @@
                     "n": "b"
                   },
                   "text": "parvotsavamahālaye",
-                  "segment_number": 496
+                  "segment_number": 496,
+                  "translated_text": "at festival days, great occasions, and <s>mahālaya</s> (ancestral fortnight),"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 497
+                  "segment_number": 497,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5517,7 +6014,8 @@
                     "n": "c"
                   },
                   "text": "nirvapet trīn naraḥ piṇḍān",
-                  "segment_number": 498
+                  "segment_number": 498,
+                  "translated_text": "a man should offer three <s>piṇḍas</s>,"
                 },
                 {
                   "tag": "seg",
@@ -5526,12 +6024,14 @@
                     "n": "d"
                   },
                   "text": "ekam eva mṛte 'hani",
-                  "segment_number": 499
+                  "segment_number": 499,
+                  "translated_text": "but only one on the day of death."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 500
+                  "segment_number": 500,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5554,7 +6054,8 @@
                     "n": "a"
                   },
                   "text": "anūḍhā na pṛthak kanyā",
-                  "segment_number": 501
+                  "segment_number": 501,
+                  "translated_text": "An unmarried girl is not separate"
                 },
                 {
                   "tag": "seg",
@@ -5563,12 +6064,14 @@
                     "n": "b"
                   },
                   "text": "piṇḍe gotre ca sūtake",
-                  "segment_number": 502
+                  "segment_number": 502,
+                  "translated_text": "in <s>piṇḍa</s>, <s>gotra</s>, or birth-impurity."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 503
+                  "segment_number": 503,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5583,7 +6086,8 @@
                     "n": "c"
                   },
                   "text": "pāṇigrahaṇamantrābhyāṃ",
-                  "segment_number": 504
+                  "segment_number": 504,
+                  "translated_text": "By the two mantras of <s>pāṇigrahaṇa</s> (the marriage hand-clasping),"
                 },
                 {
                   "tag": "seg",
@@ -5592,12 +6096,14 @@
                     "n": "d"
                   },
                   "text": "svagotrād bhraśyate tataḥ",
-                  "segment_number": 505
+                  "segment_number": 505,
+                  "translated_text": "she then separates from her natal <s>gotra</s>."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 506
+                  "segment_number": 506,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5620,7 +6126,8 @@
                     "n": "a"
                   },
                   "text": "yena yena tu varṇena",
-                  "segment_number": 507
+                  "segment_number": 507,
+                  "translated_text": "By whichever <s>varṇa</s> (social class)"
                 },
                 {
                   "tag": "seg",
@@ -5629,12 +6136,14 @@
                     "n": "b"
                   },
                   "text": "yā kanyā pariṇīyate",
-                  "segment_number": 508
+                  "segment_number": 508,
+                  "translated_text": "a girl is married,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 509
+                  "segment_number": 509,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5649,7 +6158,8 @@
                     "n": "c"
                   },
                   "text": "tat samaṃ sūtakaṃ yāti",
-                  "segment_number": 510
+                  "segment_number": 510,
+                  "translated_text": "she shares the same birth-impurity as that family,"
                 },
                 {
                   "tag": "seg",
@@ -5658,12 +6168,14 @@
                     "n": "d"
                   },
                   "text": "tathā piṇḍodake 'pi ca",
-                  "segment_number": 511
+                  "segment_number": 511,
+                  "translated_text": "and likewise in <s>piṇḍa</s> and water-offerings."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 512
+                  "segment_number": 512,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5686,7 +6198,8 @@
                     "n": "a"
                   },
                   "text": "vivāhe caiva saṃvṛtte",
-                  "segment_number": 513
+                  "segment_number": 513,
+                  "translated_text": "When the marriage has been performed,"
                 },
                 {
                   "tag": "seg",
@@ -5695,12 +6208,14 @@
                     "n": "b"
                   },
                   "text": "caturthe 'hani rātriṣu",
-                  "segment_number": 514
+                  "segment_number": 514,
+                  "translated_text": "on the fourth night,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 515
+                  "segment_number": 515,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5715,7 +6230,8 @@
                     "n": "c"
                   },
                   "text": "ekatvaṃ sā vrajed bhartuḥ",
-                  "segment_number": 516
+                  "segment_number": 516,
+                  "translated_text": "she becomes one with her husband"
                 },
                 {
                   "tag": "seg",
@@ -5724,12 +6240,14 @@
                     "n": "d"
                   },
                   "text": "piṇḍe gotre ca sūtake",
-                  "segment_number": 517
+                  "segment_number": 517,
+                  "translated_text": "in <s>piṇḍa</s>, <s>gotra</s>, and birth-impurity."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 518
+                  "segment_number": 518,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5752,7 +6270,8 @@
                     "n": "a"
                   },
                   "text": "prathame 'hni dvitīye vā",
-                  "segment_number": 519
+                  "segment_number": 519,
+                  "translated_text": "On the first day, or the second,"
                 },
                 {
                   "tag": "seg",
@@ -5761,12 +6280,14 @@
                     "n": "b"
                   },
                   "text": "tṛtīye vā caturthake",
-                  "segment_number": 520
+                  "segment_number": 520,
+                  "translated_text": "or the third or the fourth,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 521
+                  "segment_number": 521,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5781,7 +6302,8 @@
                     "n": "c"
                   },
                   "text": "asthi saṃcayanaṃ kāryaṃ",
-                  "segment_number": 522
+                  "segment_number": 522,
+                  "translated_text": "the collection of bones should be performed"
                 },
                 {
                   "tag": "seg",
@@ -5790,12 +6312,14 @@
                     "n": "d"
                   },
                   "text": "bandhubhir hitabuddhibhiḥ",
-                  "segment_number": 523
+                  "segment_number": 523,
+                  "translated_text": "by kinsmen with benevolent intent."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 524
+                  "segment_number": 524,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5818,7 +6342,8 @@
                     "n": "a"
                   },
                   "text": "caturthe pañcame caiva",
-                  "segment_number": 525
+                  "segment_number": 525,
+                  "translated_text": "On the fourth, the fifth,"
                 },
                 {
                   "tag": "seg",
@@ -5827,12 +6352,14 @@
                     "n": "b"
                   },
                   "text": "saptame navame tathā",
-                  "segment_number": 526
+                  "segment_number": 526,
+                  "translated_text": "the seventh, and likewise the ninth,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 527
+                  "segment_number": 527,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5847,7 +6374,8 @@
                     "n": "c"
                   },
                   "text": "asthisaṃcayanaṃ proktaṃ",
-                  "segment_number": 528
+                  "segment_number": 528,
+                  "translated_text": "bone-collection is prescribed"
                 },
                 {
                   "tag": "seg",
@@ -5856,12 +6384,14 @@
                     "n": "d"
                   },
                   "text": "varṇānām anupūrvaśaḥ",
-                  "segment_number": 529
+                  "segment_number": 529,
+                  "translated_text": "for the <s>varṇas</s> (social classes) in order."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 530
+                  "segment_number": 530,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5884,7 +6414,8 @@
                     "n": "a"
                   },
                   "text": "ekādaśāhe pretasya",
-                  "segment_number": 531
+                  "segment_number": 531,
+                  "translated_text": "On the eleventh day after death,"
                 },
                 {
                   "tag": "seg",
@@ -5893,12 +6424,14 @@
                     "n": "b"
                   },
                   "text": "yasya cotsṛjyate vṛṣaḥ",
-                  "segment_number": 532
+                  "segment_number": 532,
+                  "translated_text": "for the deceased for whom a bull is released,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 533
+                  "segment_number": 533,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5913,7 +6446,8 @@
                     "n": "c"
                   },
                   "text": "mucyate pretalokāt sa",
-                  "segment_number": 534
+                  "segment_number": 534,
+                  "translated_text": "he is freed from the world of the dead"
                 },
                 {
                   "tag": "seg",
@@ -5922,12 +6456,14 @@
                     "n": "d"
                   },
                   "text": "svargaloke mahīyate",
-                  "segment_number": 535
+                  "segment_number": 535,
+                  "translated_text": "and is honored in the heavenly world."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 536
+                  "segment_number": 536,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -5950,7 +6486,8 @@
                     "n": "a"
                   },
                   "text": "gaṅgā toyeṣu yasyāsthi",
-                  "segment_number": 537
+                  "segment_number": 537,
+                  "translated_text": "He whose bones float"
                 },
                 {
                   "tag": "seg",
@@ -5959,12 +6496,14 @@
                     "n": "b"
                   },
                   "text": "plavate śubhakarmaṇaḥ",
-                  "segment_number": 538
+                  "segment_number": 538,
+                  "translated_text": "in the waters of the <s>Gaṅgā</s>, the doer of auspicious deeds,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 539
+                  "segment_number": 539,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -5979,7 +6518,8 @@
                     "n": "c"
                   },
                   "text": "na tasya punar āvṛttir",
-                  "segment_number": 540
+                  "segment_number": 540,
+                  "translated_text": "for him there is no return"
                 },
                 {
                   "tag": "seg",
@@ -5988,12 +6528,14 @@
                     "n": "d"
                   },
                   "text": "brahmalokāt kathañcana",
-                  "segment_number": 541
+                  "segment_number": 541,
+                  "translated_text": "from the world of <s>Brahman</s>, by any means."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 542
+                  "segment_number": 542,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6016,7 +6558,8 @@
                     "n": "a"
                   },
                   "text": "yāvadasthi manuṣyāṇāṃ",
-                  "segment_number": 543
+                  "segment_number": 543,
+                  "translated_text": "As long as the bones of human beings"
                 },
                 {
                   "tag": "seg",
@@ -6025,12 +6568,14 @@
                     "n": "b"
                   },
                   "text": "gaṅgātoyeṣu tiṣṭhati",
-                  "segment_number": 544
+                  "segment_number": 544,
+                  "translated_text": "remain in the waters of the <s>Gaṅgā</s>,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 545
+                  "segment_number": 545,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6045,7 +6590,8 @@
                     "n": "c"
                   },
                   "text": "tāvadvarṣasahasrāṇi",
-                  "segment_number": 546
+                  "segment_number": 546,
+                  "translated_text": "for that many thousands of years"
                 },
                 {
                   "tag": "seg",
@@ -6054,12 +6600,14 @@
                     "n": "d"
                   },
                   "text": "svargaloke mahīyate",
-                  "segment_number": 547
+                  "segment_number": 547,
+                  "translated_text": "one is honored in the heavenly world."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 548
+                  "segment_number": 548,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6082,7 +6630,8 @@
                     "n": "a"
                   },
                   "text": "nābhimātre jale sthitvā",
-                  "segment_number": 549
+                  "segment_number": 549,
+                  "translated_text": "Standing in water up to the navel,"
                 },
                 {
                   "tag": "seg",
@@ -6091,12 +6640,14 @@
                     "n": "b"
                   },
                   "text": "hṛdayenānucintayet",
-                  "segment_number": 550
+                  "segment_number": 550,
+                  "translated_text": "one should contemplate in the heart:"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 551
+                  "segment_number": 551,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6111,7 +6662,8 @@
                     "n": "c"
                   },
                   "text": "āgacchantu me pitaro",
-                  "segment_number": 552
+                  "segment_number": 552,
+                  "translated_text": "\"May my ancestors come,"
                 },
                 {
                   "tag": "seg",
@@ -6120,12 +6672,14 @@
                     "n": "d"
                   },
                   "text": "gṛhṇantv etāñ jalāñjalīn",
-                  "segment_number": 553
+                  "segment_number": 553,
+                  "translated_text": "may they accept these water-offerings.\""
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 554
+                  "segment_number": 554,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6148,7 +6702,8 @@
                     "n": "a"
                   },
                   "text": "hastau kṛtvā susaṃyuktau",
-                  "segment_number": 555
+                  "segment_number": 555,
+                  "translated_text": "Having joined both hands together,"
                 },
                 {
                   "tag": "seg",
@@ -6157,12 +6712,14 @@
                     "n": "b"
                   },
                   "text": "pūrayitvā jalena ca",
-                  "segment_number": 556
+                  "segment_number": 556,
+                  "translated_text": "and having filled them with water,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 557
+                  "segment_number": 557,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6177,7 +6734,8 @@
                     "n": "c"
                   },
                   "text": "gośṛṅgamāṭram uddhṛtya",
-                  "segment_number": 558
+                  "segment_number": 558,
+                  "translated_text": "lifting up an amount equal to a cow's horn,"
                 },
                 {
                   "tag": "seg",
@@ -6186,12 +6744,14 @@
                     "n": "d"
                   },
                   "text": "jalamadhye jalaṃ kṣipet",
-                  "segment_number": 559
+                  "segment_number": 559,
+                  "translated_text": "one should release the water into the water."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 560
+                  "segment_number": 560,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6214,7 +6774,8 @@
                     "n": "a"
                   },
                   "text": "ākāśe ca kṣiped vāri",
-                  "segment_number": 561
+                  "segment_number": 561,
+                  "translated_text": "One should cast water into the sky,"
                 },
                 {
                   "tag": "seg",
@@ -6223,12 +6784,14 @@
                     "n": "b"
                   },
                   "text": "vāristho dakṣiṇāmukhaḥ",
-                  "segment_number": 562
+                  "segment_number": 562,
+                  "translated_text": "standing in water, facing south."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 563
+                  "segment_number": 563,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6243,7 +6806,8 @@
                     "n": "c"
                   },
                   "text": "pitṝṇāṃ sthānam ākāśaṃ",
-                  "segment_number": 564
+                  "segment_number": 564,
+                  "translated_text": "The abode of the <s>pitṛs</s> (ancestors) is the sky,"
                 },
                 {
                   "tag": "seg",
@@ -6252,12 +6816,14 @@
                     "n": "d"
                   },
                   "text": "dakṣiṇā dik tathaiva ca",
-                  "segment_number": 565
+                  "segment_number": 565,
+                  "translated_text": "and likewise the southern direction."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 566
+                  "segment_number": 566,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6280,7 +6846,8 @@
                     "n": "a"
                   },
                   "text": "āpo devagaṇāḥ proktā",
-                  "segment_number": 567
+                  "segment_number": 567,
+                  "translated_text": "The waters are declared to be the host of gods;"
                 },
                 {
                   "tag": "seg",
@@ -6289,12 +6856,14 @@
                     "n": "b"
                   },
                   "text": "āpaḥ pitṛgaṇās tathā",
-                  "segment_number": 568
+                  "segment_number": 568,
+                  "translated_text": "the waters are likewise the host of ancestors."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 569
+                  "segment_number": 569,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6309,7 +6878,8 @@
                     "n": "c"
                   },
                   "text": "tasmād apsu jalaṃ deyaṃ",
-                  "segment_number": 570
+                  "segment_number": 570,
+                  "translated_text": "Therefore, one who desires the welfare of the ancestors"
                 },
                 {
                   "tag": "seg",
@@ -6318,12 +6888,14 @@
                     "n": "d"
                   },
                   "text": "pitṝṇāṃ hitam icchatā",
-                  "segment_number": 571
+                  "segment_number": 571,
+                  "translated_text": "should offer water-libations in water."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 572
+                  "segment_number": 572,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6346,7 +6918,8 @@
                     "n": "a"
                   },
                   "text": "divā sūryāṃśubhis taptaṃ",
-                  "segment_number": 573
+                  "segment_number": 573,
+                  "translated_text": "By day, heated by the rays of the sun;"
                 },
                 {
                   "tag": "seg",
@@ -6355,12 +6928,14 @@
                     "n": "b"
                   },
                   "text": "rātrau nakṣatramārutaiḥ",
-                  "segment_number": 574
+                  "segment_number": 574,
+                  "translated_text": "by night, by the stars and the wind;"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 575
+                  "segment_number": 575,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6375,7 +6950,8 @@
                     "n": "c"
                   },
                   "text": "saṃdhyayor apy ubhābhyāṃ ca",
-                  "segment_number": 576
+                  "segment_number": 576,
+                  "translated_text": "and at both twilights,"
                 },
                 {
                   "tag": "seg",
@@ -6384,12 +6960,14 @@
                     "n": "d"
                   },
                   "text": "pavitraṃ sarvadā jalam",
-                  "segment_number": 577
+                  "segment_number": 577,
+                  "translated_text": "water is always pure."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 578
+                  "segment_number": 578,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6412,7 +6990,8 @@
                     "n": "a"
                   },
                   "text": "svabhāvayuktam avyāptam",
-                  "segment_number": 579
+                  "segment_number": 579,
+                  "translated_text": "Naturally endowed and not contaminated"
                 },
                 {
                   "tag": "seg",
@@ -6421,12 +7000,14 @@
                     "n": "b"
                   },
                   "text": "amedhyena sadā śuci",
-                  "segment_number": 580
+                  "segment_number": 580,
+                  "translated_text": "by impurity, always pure,"
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 581
+                  "segment_number": 581,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6441,7 +7022,8 @@
                     "n": "c"
                   },
                   "text": "bhāṇḍasthaṃ dharaṇīsthaṃ vā",
-                  "segment_number": 582
+                  "segment_number": 582,
+                  "translated_text": "whether stored in a vessel or resting on the ground,"
                 },
                 {
                   "tag": "seg",
@@ -6450,12 +7032,14 @@
                     "n": "d"
                   },
                   "text": "pavitraṃ sarvadā jalam",
-                  "segment_number": 583
+                  "segment_number": 583,
+                  "translated_text": "water is always pure."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 584
+                  "segment_number": 584,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6478,7 +7062,8 @@
                     "n": "a"
                   },
                   "text": "devatānāṃ pitṝṇāṃ ca",
-                  "segment_number": 585
+                  "segment_number": 585,
+                  "translated_text": "For the gods and for the ancestors,"
                 },
                 {
                   "tag": "seg",
@@ -6487,12 +7072,14 @@
                     "n": "b"
                   },
                   "text": "jale dadyāj jalāñjalīn",
-                  "segment_number": 586
+                  "segment_number": 586,
+                  "translated_text": "one should offer water-libations in water."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 587
+                  "segment_number": 587,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6507,7 +7094,8 @@
                     "n": "c"
                   },
                   "text": "asaṃskṛtapramītānāṃ",
-                  "segment_number": 588
+                  "segment_number": 588,
+                  "translated_text": "For those who died without sacraments,"
                 },
                 {
                   "tag": "seg",
@@ -6516,12 +7104,14 @@
                     "n": "d"
                   },
                   "text": "sthale dadyāj jalāñjalīn",
-                  "segment_number": 589
+                  "segment_number": 589,
+                  "translated_text": "one should offer water-libations on dry ground."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 590
+                  "segment_number": 590,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6544,7 +7134,8 @@
                     "n": "a"
                   },
                   "text": "śrāddhe havanakāle ca",
-                  "segment_number": 591
+                  "segment_number": 591,
+                  "translated_text": "At the <s>śrāddha</s> and at the time of oblation,"
                 },
                 {
                   "tag": "seg",
@@ -6553,12 +7144,14 @@
                     "n": "b"
                   },
                   "text": "dadyād ekena pāṇinā",
-                  "segment_number": 592
+                  "segment_number": 592,
+                  "translated_text": "one should give with one hand."
                 },
                 {
                   "tag": "text",
                   "text": "/",
-                  "segment_number": 593
+                  "segment_number": 593,
+                  "translated_text": "/"
                 }
               ]
             },
@@ -6573,7 +7166,8 @@
                     "n": "c"
                   },
                   "text": "ubhābhyāṃ tarpaṇe dadyād",
-                  "segment_number": 594
+                  "segment_number": 594,
+                  "translated_text": "With both hands one should give at <s>tarpaṇa</s> (water-libation);"
                 },
                 {
                   "tag": "seg",
@@ -6582,12 +7176,14 @@
                     "n": "d"
                   },
                   "text": "iti dharmo vyavasthitaḥ",
-                  "segment_number": 595
+                  "segment_number": 595,
+                  "translated_text": "thus is the <s>dharma</s> established."
                 },
                 {
                   "tag": "text",
                   "text": "//",
-                  "segment_number": 596
+                  "segment_number": 596,
+                  "translated_text": "//"
                 }
               ]
             }
@@ -6597,13 +7193,15 @@
           "tag": "p",
           "attributes": {},
           "text": "iti yamapraṇītaṃ dharmaśāstraṃ samāptam ||",
-          "segment_number": 597
+          "segment_number": 597,
+          "translated_text": "Thus ends the <s>dharmaśāstra</s> (law treatise) composed by <s>Yama</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "samāpteyaṃ yamasmṛtiḥ ||",
-          "segment_number": 598
+          "segment_number": 598,
+          "translated_text": "This <s>Yamasmṛti</s> is concluded."
         }
       ]
     }

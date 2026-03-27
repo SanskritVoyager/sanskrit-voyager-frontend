@@ -571,7 +571,8 @@
         {
           "tag": "head",
           "text": "Sarvajñasiddhi",
-          "segment_number": 1
+          "segment_number": 1,
+          "translated_text": "<s>Sarvajñasiddhi</s> (Proof of Omniscience)"
         },
         {
           "tag": "lb",
@@ -600,7 +601,8 @@
         {
           "tag": "p",
           "text": "sarvajñacaraṇāmbhojapraṇipātapuraḥsaram |",
-          "segment_number": 2
+          "segment_number": 2,
+          "translated_text": "Preceded by prostration at the lotus-feet of the Omniscient One (<s>Sarvajña</s>),"
         },
         {
           "tag": "lb",
@@ -647,10 +649,12 @@
                   ]
                 }
               ],
-              "segment_number": 4
+              "segment_number": 4,
+              "translated_text": "..."
             }
           ],
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "for the proof of omniscience, by us"
         },
         {
           "tag": "lb",
@@ -696,7 +700,8 @@
                 {
                   "t": "text",
                   "text": "yat pramāṇasaṃvādi niścitārthavacanaṃ tat sākṣāt parampa",
-                  "segment_number": 5
+                  "segment_number": 5,
+                  "translated_text": "A statement whose determined content accords with a means of valid knowledge (<s>pramāṇa</s>) is, either directly or through"
                 },
                 {
                   "tag": "lb",
@@ -708,7 +713,8 @@
                 {
                   "t": "text",
                   "text": "rayā",
-                  "segment_number": 6
+                  "segment_number": 6,
+                  "translated_text": "a tradition (<s>paramparā</s>),"
                 },
                 {
                   "tag": "supplied",
@@ -716,12 +722,14 @@
                     "resp": "#sajña-bue"
                   },
                   "text": "vā",
-                  "segment_number": 7
+                  "segment_number": 7,
+                  "translated_text": "or"
                 },
                 {
                   "t": "text",
                   "text": "tadarthasākṣātkārijñānapūrvakam |",
-                  "segment_number": 8
+                  "segment_number": 8,
+                  "translated_text": "preceded by a cognition that directly perceives that [stated] object."
                 },
                 {
                   "tag": "lb",
@@ -732,7 +740,8 @@
                 {
                   "t": "text",
                   "text": "yathā dahano dāhaka iti vacanam |",
-                  "segment_number": 9
+                  "segment_number": 9,
+                  "translated_text": "For example, the statement 'fire is a burner.'"
                 },
                 {
                   "tag": "lb",
@@ -743,7 +752,8 @@
                 {
                   "t": "text",
                   "text": "pramāṇaniścitārthavacanaṃ cedam |",
-                  "segment_number": 10
+                  "segment_number": 10,
+                  "translated_text": "And this [statement under consideration] is a statement whose content is determined by a means of valid knowledge:"
                 },
                 {
                   "tag": "lb",
@@ -754,7 +764,8 @@
                 {
                   "t": "text",
                   "text": "kṣaṇikāḥ sarvasaṃskārā ity arthataḥ kāryahetuḥ |",
-                  "segment_number": 11
+                  "segment_number": 11,
+                  "translated_text": "'All conditioned things (<s>saṃskāra</s>) are momentary' — this, in substance, is a [valid] reason based on effect (<s>kāryahetu</s>)."
                 },
                 {
                   "tag": "lb",
@@ -765,7 +776,8 @@
                 {
                   "t": "text",
                   "text": "nāsyāsiddhiḥ sarvabhāvakṣaṇabhaṅgaprasādhanād asya vacanasya",
-                  "segment_number": 12
+                  "segment_number": 12,
+                  "translated_text": "There is no unestablishedness (<s>asiddhi</s>) of this [reason], since all entities are proven to be momentary (<s>kṣaṇabhaṅga</s>) — because this statement"
                 },
                 {
                   "tag": "lb",
@@ -776,7 +788,8 @@
                 {
                   "t": "text",
                   "text": "satyārthatvāt |",
-                  "segment_number": 13
+                  "segment_number": 13,
+                  "translated_text": "has a true content."
                 },
                 {
                   "tag": "lb",
@@ -787,7 +800,8 @@
                 {
                   "t": "text",
                   "text": "nāpi virodhaḥ sapakṣe bhāvāt |",
-                  "segment_number": 14
+                  "segment_number": 14,
+                  "translated_text": "Nor is there contradiction (<s>virodha</s>), since [the reason] is present in the positive instance (<s>sapakṣa</s>)."
                 },
                 {
                   "tag": "lb",
@@ -798,7 +812,8 @@
                 {
                   "t": "text",
                   "text": "na cānaikāntikaḥ vacanamātrasya saṃśayaviparyāsapūrvakatve 'pi",
-                  "segment_number": 15
+                  "segment_number": 15,
+                  "translated_text": "Nor is it inconclusive (<s>anaikāntika</s>): although a mere statement can be preceded by doubt or error,"
                 },
                 {
                   "tag": "lb",
@@ -809,7 +824,8 @@
                 {
                   "t": "text",
                   "text": "pramāṇaniścitārthavacanasya sākṣāt pāramparyeṇa",
-                  "segment_number": 16
+                  "segment_number": 16,
+                  "translated_text": "a statement whose content is determined by a means of valid knowledge is, either directly or through a tradition,"
                 },
                 {
                   "tag": "supplied",
@@ -817,12 +833,14 @@
                     "resp": "#sajña-bue"
                   },
                   "text": "vā",
-                  "segment_number": 17
+                  "segment_number": 17,
+                  "translated_text": "or"
                 },
                 {
                   "t": "text",
                   "text": "tadartha",
-                  "segment_number": 18
+                  "segment_number": 18,
+                  "translated_text": "that object —"
                 },
                 {
                   "tag": "lb",
@@ -834,7 +852,8 @@
                 {
                   "t": "text",
                   "text": "sākṣātkārijñānapūrvakatvāt | anyathā niyamena pramāṇasaṃvā",
-                  "segment_number": 19
+                  "segment_number": 19,
+                  "translated_text": "preceded by a cognition that directly perceives [it]; otherwise there would be no invariable"
                 },
                 {
                   "tag": "lb",
@@ -846,7 +865,8 @@
                 {
                   "t": "text",
                   "text": "dā",
-                  "segment_number": 20
+                  "segment_number": 20,
+                  "translated_text": "accordance"
                 }
               ]
             },
@@ -860,7 +880,8 @@
             {
               "t": "text",
               "text": "yogāt",
-              "segment_number": 21
+              "segment_number": 21,
+              "translated_text": "with a valid means of knowledge"
             },
             {
               "tag": "note",
@@ -914,7 +935,8 @@
             {
               "t": "text",
               "text": "|",
-              "segment_number": 22
+              "segment_number": 22,
+              "translated_text": "."
             },
             {
               "tag": "lb",
@@ -925,7 +947,8 @@
             {
               "t": "text",
               "text": "na tv asmadādīnāṃ kṣaṇabhaṅgasādhanam anumānam utpadyate | na",
-              "segment_number": 23
+              "segment_number": 23,
+              "translated_text": "However, the inference (<s>anumāna</s>) proving momentariness does not arise for people like us; nor"
             },
             {
               "tag": "lb",
@@ -936,7 +959,8 @@
             {
               "t": "text",
               "text": "ca tadviṣayam adhyakṣaṃ vidyate | tad api pratyakṣadarśipu",
-              "segment_number": 24
+              "segment_number": 24,
+              "translated_text": "is there direct perception (<s>adhyakṣa</s>) having that [momentariness] as its object. Yet even that [inference] arises through the instruction of a person who sees directly (<s>pratyakṣadarśin</s>)"
             },
             {
               "tag": "lb",
@@ -948,7 +972,8 @@
             {
               "t": "text",
               "text": "ruṣopadeśadvāreṇotpadyata",
-              "segment_number": 25
+              "segment_number": 25,
+              "translated_text": ","
             },
             {
               "tag": "note",
@@ -982,7 +1007,8 @@
             {
               "t": "text",
               "text": "iti paramparayā pratyakṣapūrvakam",
-              "segment_number": 26
+              "segment_number": 26,
+              "translated_text": "so through tradition, it is preceded by direct perception"
             },
             {
               "tag": "lb",
@@ -993,7 +1019,8 @@
             {
               "t": "text",
               "text": "eva |",
-              "segment_number": 27
+              "segment_number": 27,
+              "translated_text": "alone."
             }
           ]
         },
@@ -1037,7 +1064,8 @@
             {
               "t": "text",
               "text": "sādhanādhīnajanmano 'sya",
-              "segment_number": 29
+              "segment_number": 29,
+              "translated_text": "of this [inference], whose origination depends on the proof,"
             },
             {
               "tag": "lb",
@@ -1048,10 +1076,12 @@
             {
               "t": "text",
               "text": "kathaṃ paropadeśapūrvakatvam iti cet |",
-              "segment_number": 30
+              "segment_number": 30,
+              "translated_text": "how can it be preceded by another's instruction? — if [objected] thus:"
             }
           ],
-          "segment_number": 28
+          "segment_number": 28,
+          "translated_text": "[The reason] whose birth depends on the proof, [which has] a pervasion established by a sublating valid cognition (<s>bādhaka-pramāṇa</s>) —"
         },
         {
           "tag": "lb",
@@ -1072,7 +1102,8 @@
             {
               "t": "text",
               "text": "akṣaṇikam iti saṃśaya eva na syāt | asati cāsmin na sādhanaṃ",
-              "segment_number": 32
+              "segment_number": 32,
+              "translated_text": "non-momentary?' would simply not arise. And in the absence of that [doubt], the proof"
             },
             {
               "tag": "lb",
@@ -1083,10 +1114,12 @@
             {
               "t": "text",
               "text": "pravarteta |",
-              "segment_number": 33
+              "segment_number": 33,
+              "translated_text": "would not proceed."
             }
           ],
-          "segment_number": 31
+          "segment_number": 31,
+          "translated_text": "If another's instruction did not exist, the doubt 'Is what is established momentary or"
         },
         {
           "tag": "lb",
@@ -1114,7 +1147,8 @@
             {
               "t": "text",
               "text": "viparyayanimittena",
-              "segment_number": 35
+              "segment_number": 35,
+              "translated_text": "[It would be prevented] by a cause of error."
             },
             {
               "tag": "note",
@@ -1148,10 +1182,12 @@
             {
               "t": "text",
               "text": "|",
-              "segment_number": 36
+              "segment_number": 36,
+              "translated_text": ""
             }
           ],
-          "segment_number": 34
+          "segment_number": 34,
+          "translated_text": "[Objection:] Surely, even without another's instruction, doubt that arises — by what could it be prevented?"
         },
         {
           "tag": "lb",
@@ -1169,12 +1205,14 @@
                 "resp": "#sajña-bue"
               },
               "text": "t",
-              "segment_number": 38
+              "segment_number": 38,
+              "translated_text": ","
             },
             {
               "t": "text",
               "text": "thāne saty api hi sadṛśāparāparokṣād",
-              "segment_number": 39
+              "segment_number": 39,
+              "translated_text": "even when the occasion [for inference] is present, for a dull-witted person who has been deceived by a non-direct perception that resembles [direct perception],"
             },
             {
               "tag": "surplus",
@@ -1182,12 +1220,14 @@
                 "resp": "#sajña-bue"
               },
               "text": "a",
-              "segment_number": 40
+              "segment_number": 40,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "vipra",
-              "segment_number": 41
+              "segment_number": 41,
+              "translated_text": "the mistaken"
             },
             {
               "tag": "lb",
@@ -1199,7 +1239,8 @@
             {
               "t": "text",
               "text": "labdhasya mandabuddheḥ sa evāyam iti pūrvāparikatvādhyavasāyo",
-              "segment_number": 42
+              "segment_number": 42,
+              "translated_text": "determination 'this is the very same [thing]' — the conviction that [things have] identity between earlier and later —"
             },
             {
               "tag": "lb",
@@ -1210,7 +1251,8 @@
             {
               "t": "text",
               "text": "naiva",
-              "segment_number": 43
+              "segment_number": 43,
+              "translated_text": "never"
             },
             {
               "tag": "note",
@@ -1244,7 +1286,8 @@
             {
               "t": "text",
               "text": "vivartate | tadatattvasaṃśayaḥ paropadeśaṃ vinā kathaṃ",
-              "segment_number": 44
+              "segment_number": 44,
+              "translated_text": "changes. How could the doubt about whether that [thing] is [momentary] or not arise without another's instruction,"
             },
             {
               "tag": "lb",
@@ -1255,7 +1298,8 @@
             {
               "t": "text",
               "text": "bhavi",
-              "segment_number": 45
+              "segment_number": 45,
+              "translated_text": "come"
             },
             {
               "tag": "pb",
@@ -1267,7 +1311,8 @@
             {
               "t": "text",
               "text": "tum utpadyate",
-              "segment_number": 46
+              "segment_number": 46,
+              "translated_text": "into being?"
             },
             {
               "tag": "note",
@@ -1298,10 +1343,12 @@
             {
               "t": "text",
               "text": "|",
-              "segment_number": 47
+              "segment_number": 47,
+              "translated_text": ""
             }
           ],
-          "segment_number": 37
+          "segment_number": 37,
+          "translated_text": "[Regarding] inference"
         },
         {
           "tag": "lb",
@@ -1319,12 +1366,14 @@
                 "resp": "#sajña-bue"
               },
               "text": "|",
-              "segment_number": 49
+              "segment_number": 49,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "pratyakṣadarśina eveti",
-              "segment_number": 50
+              "segment_number": 50,
+              "translated_text": "But that it must be from one who sees directly (<s>pratyakṣadarśin</s>) alone —"
             },
             {
               "tag": "lb",
@@ -1335,10 +1384,12 @@
             {
               "t": "text",
               "text": "tu kutaḥ | anumātur apy upadeśād asau bhavann upapanna eva |",
-              "segment_number": 51
+              "segment_number": 51,
+              "translated_text": "whence [is that claimed]? Even from the instruction of one who infers (<s>anumātṛ</s>), that [doubt] arising is indeed reasonable."
             }
           ],
-          "segment_number": 48
+          "segment_number": 48,
+          "translated_text": "Granted, doubt arises from another's instruction."
         },
         {
           "tag": "lb",
@@ -1359,10 +1410,12 @@
             {
               "t": "text",
               "text": "vaktavyam |",
-              "segment_number": 53
+              "segment_number": 53,
+              "translated_text": "[from where does it come?]"
             }
           ],
-          "segment_number": 52
+          "segment_number": 52,
+          "translated_text": "[Reply:] Surely, for that inferrer too, the source of the doubt that causes the arising of inference must be stated —"
         },
         {
           "tag": "lb",
@@ -1373,7 +1426,8 @@
         {
           "tag": "p",
           "text": "anumātrantaropadeśād iti cet |",
-          "segment_number": 54
+          "segment_number": 54,
+          "translated_text": "If [you say] from the instruction of another inferrer —"
         },
         {
           "tag": "lb",
@@ -1391,15 +1445,18 @@
                 "resp": "#sajña-bue"
               },
               "text": "|",
-              "segment_number": 56
+              "segment_number": 56,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "tatrāpy asya paryanuyogasya samānatvāt |",
-              "segment_number": 57
+              "segment_number": 57,
+              "translated_text": "because the same objection applies there as well."
             }
           ],
-          "segment_number": 55
+          "segment_number": 55,
+          "translated_text": "no,"
         },
         {
           "tag": "lb",
@@ -1421,10 +1478,12 @@
             {
               "t": "text",
               "text": "tṛsaṃśayān na doṣa iti cet |",
-              "segment_number": 59
+              "segment_number": 59,
+              "translated_text": ""
             }
           ],
-          "segment_number": 58
+          "segment_number": 58,
+          "translated_text": "If [you say] there is no fault since the doubt of each successive inferrer is preceded by the instruction of a beginningless [series of] prior inferrers —"
         },
         {
           "tag": "lb",
@@ -1442,12 +1501,14 @@
                 "resp": "#sajña-bue"
               },
               "text": "|",
-              "segment_number": 61
+              "segment_number": 61,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "sarveṣām evāvidyānubandhasya sadṛśāparāparokṣād",
-              "segment_number": 62
+              "segment_number": 62,
+              "translated_text": "because for all [persons], the connection with ignorance (<s>avidyā</s>) is the same, and this non-direct perception resembling [direct perception]"
             },
             {
               "tag": "lb",
@@ -1458,7 +1519,8 @@
             {
               "t": "text",
               "text": "asya ca vimatakāraṇasya",
-              "segment_number": 63
+              "segment_number": 63,
+              "translated_text": "is the cause of the erroneous [conviction] under dispute,"
             },
             {
               "tag": "note",
@@ -1505,7 +1567,8 @@
             {
               "t": "text",
               "text": "sādhāraṇatvenānumānahetoḥ",
-              "segment_number": 64
+              "segment_number": 64,
+              "translated_text": "[and since this cause] is common [to all], the cause of the doubt that is the reason for inference"
             },
             {
               "tag": "note",
@@ -1539,7 +1602,8 @@
             {
               "t": "text",
               "text": "saṃśayasya",
-              "segment_number": 65
+              "segment_number": 65,
+              "translated_text": "[namely, doubt]"
             },
             {
               "tag": "lb",
@@ -1550,7 +1614,8 @@
             {
               "t": "text",
               "text": "svaviruddhaviparyāsāviruddhe manasi niravakāśatvād anumātṛ",
-              "segment_number": 66
+              "segment_number": 66,
+              "translated_text": "has no scope in a mind that is not free from the contrary error — therefore inferrer-hood would be impossible. For if there were some instructor who had seen directly,"
             },
             {
               "tag": "lb",
@@ -1562,7 +1627,8 @@
             {
               "t": "text",
               "text": "tvāyogāt | yadi hi sākṣāddraṣṭā kaścid upadeṣṭā bhavet",
-              "segment_number": 67
+              "segment_number": 67,
+              "translated_text": ""
             },
             {
               "tag": "surplus",
@@ -1570,7 +1636,8 @@
                 "resp": "#sajña-bue"
               },
               "text": "|",
-              "segment_number": 68
+              "segment_number": 68,
+              "translated_text": ""
             },
             {
               "tag": "lb",
@@ -1581,7 +1648,8 @@
             {
               "t": "text",
               "text": "bhavet",
-              "segment_number": 69
+              "segment_number": 69,
+              "translated_text": "then there would be"
             },
             {
               "tag": "note",
@@ -1618,12 +1686,14 @@
                 "resp": "#sajña-bue"
               },
               "text": "tadupadeśoktena saṃśayaḥ kaścid anumātā",
-              "segment_number": 70
+              "segment_number": 70,
+              "translated_text": "doubt arising from his instruction, [and] some [person would become] an inferrer;"
             },
             {
               "t": "text",
               "text": "tadupadeśo",
-              "segment_number": 71
+              "segment_number": 71,
+              "translated_text": "from [that inferrer's] instruction"
             },
             {
               "tag": "lb",
@@ -1635,7 +1705,8 @@
             {
               "t": "text",
               "text": "ktena",
-              "segment_number": 72
+              "segment_number": 72,
+              "translated_text": ","
             },
             {
               "tag": "note",
@@ -1669,7 +1740,8 @@
             {
               "t": "text",
               "text": "saṃśayaḥ",
-              "segment_number": 73
+              "segment_number": 73,
+              "translated_text": "[there would arise] doubt;"
             },
             {
               "tag": "supplied",
@@ -1677,12 +1749,14 @@
                 "resp": "#sajña-bue"
               },
               "text": "|",
-              "segment_number": 74
+              "segment_number": 74,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "pare 'pi puruṣā bhave",
-              "segment_number": 75
+              "segment_number": 75,
+              "translated_text": "other persons too would"
             },
             {
               "tag": "pb",
@@ -1694,7 +1768,8 @@
             {
               "t": "text",
               "text": "yur",
-              "segment_number": 76
+              "segment_number": 76,
+              "translated_text": "become"
             },
             {
               "tag": "lb",
@@ -1705,7 +1780,8 @@
             {
               "t": "text",
               "text": "anumātāraḥ | sākṣād",
-              "segment_number": 77
+              "segment_number": 77,
+              "translated_text": "inferrers. But in the absence of a person who has seen directly,"
             },
             {
               "tag": "supplied",
@@ -1713,12 +1789,14 @@
                 "resp": "#sajña-bue"
               },
               "text": "d",
-              "segment_number": 78
+              "segment_number": 78,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "raṣṭari",
-              "segment_number": 79
+              "segment_number": 79,
+              "translated_text": ""
             },
             {
               "tag": "note",
@@ -1752,7 +1830,8 @@
             {
               "t": "text",
               "text": "punar asati puruṣe jñātur avi",
-              "segment_number": 80
+              "segment_number": 80,
+              "translated_text": "since there is no arising of non-erroneous tendencies (<s>vāsanā</s>) in the knower — and hence no convention (<s>samaya</s>) — and hence no arising"
             },
             {
               "tag": "lb",
@@ -1764,7 +1843,8 @@
             {
               "t": "text",
               "text": "paryāsavāsanānām udbhedābhāvena samayābhāvād ajāyamāne anumāne",
-              "segment_number": 81
+              "segment_number": 81,
+              "translated_text": "of inference [at all],"
             },
             {
               "tag": "lb",
@@ -1775,7 +1855,8 @@
             {
               "t": "text",
               "text": "katham anumātṛtvaṃ nama | tasmāt sākṣāddraṣṭopadeṣṭā kaścid",
-              "segment_number": 82
+              "segment_number": 82,
+              "translated_text": "how could there be inferrer-hood? Therefore, some instructor who has seen directly must be accepted. And whoever is an instructor who directly perceives the momentariness of all <s>dharmas</s> and the like —"
             },
             {
               "tag": "lb",
@@ -1786,7 +1867,8 @@
             {
               "t": "text",
               "text": "eṣṭavyaḥ | yaś ca sarvadharmakṣaṇikatvādisākṣātkāry upadeṣṭā",
-              "segment_number": 83
+              "segment_number": 83,
+              "translated_text": ""
             },
             {
               "tag": "lb",
@@ -1797,7 +1879,8 @@
             {
               "t": "text",
               "text": "sa bhagavān",
-              "segment_number": 84
+              "segment_number": 84,
+              "translated_text": "that is the <s>Bhagavān</s> (Blessed One),"
             },
             {
               "tag": "surplus",
@@ -1805,15 +1888,18 @@
                 "resp": "#sajña-bue"
               },
               "text": "|",
-              "segment_number": 85
+              "segment_number": 85,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "surāsuraśiromaṇiḥ sarvajña iti |",
-              "segment_number": 86
+              "segment_number": 86,
+              "translated_text": "the crest-jewel of gods and <s>asuras</s>, the Omniscient One (<s>Sarvajña</s>)."
             }
           ],
-          "segment_number": 60
+          "segment_number": 60,
+          "translated_text": "no,"
         },
         {
           "tag": "lb",
@@ -1827,7 +1913,8 @@
             {
               "tag": "l",
               "text": "kṛtvā sarvavidaḥ siddhiṃ puṇyam āsāditaṃ mayā |",
-              "segment_number": 87
+              "segment_number": 87,
+              "translated_text": "Having accomplished the proof of the All-Knowing One, the merit attained by me —"
             },
             {
               "tag": "lb",
@@ -1838,7 +1925,8 @@
             {
               "tag": "l",
               "text": "etena sakalo lokaḥ sārvajñaṃ padam āpnuyāt ||",
-              "segment_number": 88
+              "segment_number": 88,
+              "translated_text": "by this, may the entire world attain the state of omniscience (<s>sārvajña</s>)!"
             }
           ]
         },
@@ -1851,7 +1939,8 @@
         {
           "tag": "trailer",
           "text": "paṇḍitajitāreḥ sarvajñasiddhiḥ ||",
-          "segment_number": 89
+          "segment_number": 89,
+          "translated_text": "|| The <s>Sarvajñasiddhi</s> (Proof of Omniscience) of the learned <s>Jitāri</s> [is complete]. ||"
         }
       ]
     }

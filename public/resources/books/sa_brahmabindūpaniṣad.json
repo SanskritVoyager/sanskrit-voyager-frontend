@@ -43,21 +43,21 @@
           "tag": "l",
           "attributes": {},
           "text": "oṃ",
-          "translated_text": "Om",
+          "translated_text": "<s>Oṃ</s>.",
           "segment_number": 1
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mano hi dvividhaṃ proktaṃ śuddhaṃ cāśuddham eva ca /",
-          "translated_text": "The mind is indeed said to be of two kinds, pure and impure,",
+          "translated_text": "The mind is said to be of two kinds: pure and impure.",
           "segment_number": 2
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "aśuddhaṃ kāmasaṃkalpaṃ śuddhaṃ kāmavivarjitam // BrbUp_1 //",
-          "translated_text": "the impure is filled with desire, the pure is devoid of desire.",
+          "translated_text": "The impure is that which is tainted by desire and intention; the pure is that which is free from desire. (1)",
           "segment_number": 3
         }
       ]
@@ -70,14 +70,14 @@
           "tag": "l",
           "attributes": {},
           "text": "mana eva manuṣyāṇāṃ kāraṇaṃ bandhamokṣayoḥ /",
-          "translated_text": "The mind alone is the cause for bondage and liberation of men,",
+          "translated_text": "The mind alone is the cause of bondage and liberation for human beings.",
           "segment_number": 4
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bandhāya viṣayāsaktaṃ muktyai nirviṣayaṃ smṛtam // BrbUp_2 //",
-          "translated_text": "attachment to objects is for bondage, non-attachment is considered for liberation.",
+          "translated_text": "Attached to sense-objects, it leads to bondage; free from sense-objects, it is remembered as [leading to] liberation. (2)",
           "segment_number": 5
         }
       ]
@@ -90,14 +90,14 @@
           "tag": "l",
           "attributes": {},
           "text": "yato nirviṣayasyāsya manaso muktir iṣyate /",
-          "translated_text": "Since liberation of this mind is desired when it is devoid of objects,",
+          "translated_text": "Since liberation is desired for the mind that is free from sense-objects,",
           "segment_number": 6
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tasmān nirviṣayaṃ nityaṃ manaḥ kāryaṃ mumukṣuṇā // BrbUp_3 //",
-          "translated_text": "therefore, the mind should always be made free of objects by the seeker of liberation.",
+          "translated_text": "therefore the seeker of liberation should always make the mind free from sense-objects. (3)",
           "segment_number": 7
         }
       ]
@@ -110,14 +110,14 @@
           "tag": "l",
           "attributes": {},
           "text": "nirastaviṣayāsaṅgaṃ saṃniruddhaṃ mano hṛdi /",
-          "translated_text": "When the mind, devoid of attachment to objects, is restrained in the heart,",
+          "translated_text": "When the mind, freed from attachment to sense-objects and restrained in the heart,",
           "segment_number": 8
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yadā yāty unmanībhāvaṃ tadā tat paramamadam // BrbUp_4 //",
-          "translated_text": "then it attains the state of <s>Unmani</s>, which is the supreme bliss.",
+          "translated_text": "attains the state beyond mind (<s>unmanībhāva</s>), then that is the supreme bliss. (4)",
           "segment_number": 9
         }
       ]
@@ -130,14 +130,14 @@
           "tag": "l",
           "attributes": {},
           "text": "tāvad eva niroddhavyaṃ yāvaddhṛdi gataṃ kṣayam /",
-          "translated_text": "It should be restrained until it reaches dissolution in the heart,",
+          "translated_text": "It should be restrained until it reaches dissolution in the heart.",
           "segment_number": 10
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "etaj jñānaṃ ca mokṣaṃ ca ato 'nyo granthavistaraḥ // BrbUp_5 //",
-          "translated_text": "this is knowledge and liberation; all else is an extension of texts.",
+          "translated_text": "This is knowledge and this is liberation; all else is mere expansion of texts. (5)",
           "segment_number": 11
         }
       ]
@@ -150,14 +150,14 @@
           "tag": "l",
           "attributes": {},
           "text": "naiva cintyaṃ na cācintyam acintyaṃ cintyam eva ca /",
-          "translated_text": "It is neither to be thought of nor not thought of; it is indeed beyond thought and thought itself,",
+          "translated_text": "Neither to be thought upon, nor not to be thought upon; the unthinkable is indeed to be thought upon.",
           "segment_number": 12
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pakṣapātavinirmuktaṃ brahma sampadyate tadā // BrbUp_6 //",
-          "translated_text": "free from biases, one attains <s>Brahman</s> then.",
+          "translated_text": "When free from all partiality, <s>Brahman</s> is then attained. (6)",
           "segment_number": 13
         }
       ]
@@ -170,14 +170,14 @@
           "tag": "l",
           "attributes": {},
           "text": "svareṇa saṃdhayed yogam asvaraṃ bhāvayet param /",
-          "translated_text": "One should unite with <s>Yoga</s> through sound, meditate on the ultimate without sound,",
+          "translated_text": "Through sound (<s>svara</s>), one should practice <s>yoga</s>; the supreme should be contemplated as beyond sound.",
           "segment_number": 14
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "asvareṇa hi bhāvena bhāvo nābhāva iṣyate // BrbUp_7 //",
-          "translated_text": "for by the state without sound, existence is not non-existence.",
+          "translated_text": "Through contemplation of the soundless, true being arises, not non-being. (7)",
           "segment_number": 15
         }
       ]
@@ -190,14 +190,14 @@
           "tag": "l",
           "attributes": {},
           "text": "tad eva niṣkalaṃ brahma nirvikalpaṃ nirañjanam /",
-          "translated_text": "That alone is the undivided <s>Brahman</s>, without alternatives, stainless,",
+          "translated_text": "That itself is the partless <s>Brahman</s>, without mental constructions, unstained.",
           "segment_number": 16
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tad brahmāham iti jñātvā brahma sampadyate dhruvam // BrbUp_8 //",
-          "translated_text": "knowing 'I am that <s>Brahman</s>', one certainly becomes <s>Brahman</s>.",
+          "translated_text": "Knowing 'I am that <s>Brahman</s>,' one certainly attains <s>Brahman</s>. (8)",
           "segment_number": 17
         }
       ]
@@ -210,14 +210,14 @@
           "tag": "l",
           "attributes": {},
           "text": "nirvikalpam anantaṃ ca hetudṛṣṭāntavarjitam /",
-          "translated_text": "Without alternatives, infinite, devoid of cause and example,",
+          "translated_text": "Without mental constructions, infinite, devoid of reasoning and illustration,",
           "segment_number": 18
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "aprameyam anādyaṃ ca jñātvā ca paramaṃ śivam // BrbUp_9 //",
-          "translated_text": "knowing the immeasurable, beginningless and supreme <s>Śiva</s>.",
+          "translated_text": "immeasurable, beginningless — knowing the supreme <s>Śiva</s> (the Auspicious One). (9)",
           "segment_number": 19
         }
       ]
@@ -230,14 +230,14 @@
           "tag": "l",
           "attributes": {},
           "text": "na nirodho na cotpattir na vandyo na ca śāsanam /",
-          "translated_text": "There is no cessation, no origination, no one to worship, no governance,",
+          "translated_text": "There is no cessation, no arising, no one in bondage, no spiritual discipline,",
           "segment_number": 20
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "na mumukṣā na muktiś ca ity eṣā paramārthatā // BrbUp_10 //",
-          "translated_text": "no desire for liberation, no liberation, this is the ultimate truth.",
+          "translated_text": "no seeker of liberation, no liberation — this is the ultimate truth. (10)",
           "segment_number": 21
         }
       ]
@@ -250,14 +250,14 @@
           "tag": "l",
           "attributes": {},
           "text": "eka evātmā mantavyo jāgratsvapnasuṣuptiṣu /",
-          "translated_text": "The one <s>Ātman</s> should be contemplated in waking, dreaming, and deep sleep,",
+          "translated_text": "The <s>Ātman</s> (Self) alone should be known in waking, dream, and deep sleep.",
           "segment_number": 22
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sthānatrayād vyatītasya punarjanma na vidyate // BrbUp_11 //",
-          "translated_text": "for one who transcends the three states, there is no rebirth.",
+          "translated_text": "For one who has transcended the three states, there is no rebirth. (11)",
           "segment_number": 23
         }
       ]
@@ -270,14 +270,14 @@
           "tag": "l",
           "attributes": {},
           "text": "eka eva hi bhūtātmā bhūte bhūte vyavasthitaḥ /",
-          "translated_text": "The one <s>Ātman</s> indeed resides in each being,",
+          "translated_text": "The one Self of beings is established in each and every being.",
           "segment_number": 24
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "ekadhā bahudhā caiva dṛśyate jalacandravat // BrbUp_12 //",
-          "translated_text": "seen as one and many, like the moon reflected in water.",
+          "translated_text": "It is seen as one and as many, like the moon reflected in water. (12)",
           "segment_number": 25
         }
       ]
@@ -290,14 +290,14 @@
           "tag": "l",
           "attributes": {},
           "text": "ghaṭasaṃbhṛtam ākāśaṃ līyamāne ghaṭe yathā /",
-          "translated_text": "Just as the space within a pot merges when the pot is dissolved,",
+          "translated_text": "Just as the space enclosed in a pot — when the pot is dissolved,",
           "segment_number": 26
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "ghaṭo līyeta nākāśaṃ tadvaj jīvo ghaṭopamaḥ // BrbUp_13 //",
-          "translated_text": "the pot merges, not the space; similarly, the <s>Jīva</s> is like the pot.",
+          "translated_text": "the pot dissolves, not the space — so the individual soul (<s>jīva</s>) is like the pot. (13)",
           "segment_number": 27
         }
       ]
@@ -310,14 +310,14 @@
           "tag": "l",
           "attributes": {},
           "text": "ghaṭavad vividhākāraṃ bhidyamānaṃ punaḥ punaḥ /",
-          "translated_text": "Like a pot with various forms, breaking again and again,",
+          "translated_text": "Like a pot, taking on various forms, being broken again and again —",
           "segment_number": 28
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tadbhagnaṃ na ca jānāti sa jānāti ca nityaśaḥ // BrbUp_14 //",
-          "translated_text": "it does not know its own destruction, yet it knows eternally.",
+          "translated_text": "it does not know that which is broken, but It (the Self) knows eternally. (14)",
           "segment_number": 29
         }
       ]
@@ -330,14 +330,14 @@
           "tag": "l",
           "attributes": {},
           "text": "śabdamāyāvṛto yāvat tāvat tiṣṭhati puṣkare /",
-          "translated_text": "Covered by the illusion of sound, it remains in the lotus,",
+          "translated_text": "As long as one is enveloped by the illusion of words, so long one remains in the lotus [of the heart].",
           "segment_number": 30
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhinne tamasi caikatvam ekam evānupaśyati // BrbUp_15 //",
-          "translated_text": "when the darkness is pierced, it perceives the oneness alone.",
+          "translated_text": "When the darkness is pierced, one sees the one unity alone. (15)",
           "segment_number": 31
         }
       ]
@@ -350,14 +350,14 @@
           "tag": "l",
           "attributes": {},
           "text": "śabdākṣaraṃ paraṃ brahma yasmin kṣīṇe yad akṣaram /",
-          "translated_text": "The imperishable sound, the supreme <s>Brahman</s>, in which the imperishable resides,",
+          "translated_text": "The word-syllable (<s>śabdākṣara</s>) is the supreme <s>Brahman</s>; when it is exhausted, that which is imperishable remains.",
           "segment_number": 32
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tad vidvān akṣaraṃ dhyāyed yadīcchecchāntim ātmanaḥ // BrbUp_16 //",
-          "translated_text": "the wise one should meditate on the imperishable if he desires peace for the self.",
+          "translated_text": "The wise one should meditate on the imperishable, if one desires peace for the self. (16)",
           "segment_number": 33
         }
       ]
@@ -370,14 +370,14 @@
           "tag": "l",
           "attributes": {},
           "text": "dve vidye veditavye tu śabdabrahma paraṃ ca yat /",
-          "translated_text": "Two knowledges are to be known, the <s>Śabda-Brahman</s> and that which is supreme,",
+          "translated_text": "Two kinds of knowledge are to be known: <s>Śabdabrahman</s> (Word-Brahman) and the supreme beyond it.",
           "segment_number": 34
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "śabdabrahmaṇi niṣṇātaḥ paraṃ brahmādhigacchati // BrbUp_17 //",
-          "translated_text": "one who is skilled in <s>Śabda-Brahman</s> attains the supreme <s>Brahman</s>.",
+          "translated_text": "One who is proficient in <s>Śabdabrahman</s> attains the supreme <s>Brahman</s>. (17)",
           "segment_number": 35
         }
       ]
@@ -390,14 +390,14 @@
           "tag": "l",
           "attributes": {},
           "text": "grantham abhyasya medhāvī jñānavijñānatattvataḥ /",
-          "translated_text": "The wise one, having studied the texts, in essence of knowledge and wisdom,",
+          "translated_text": "The wise one, having studied the texts with [the aim of gaining] knowledge and realization,",
           "segment_number": 36
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "palālam iva dhānyārthī tyajed grantham aśeṣataḥ // BrbUp_18 //",
-          "translated_text": "like a seeker of grain discards the husk, should completely abandon the texts.",
+          "translated_text": "should discard all texts entirely, as one seeking grain discards the chaff. (18)",
           "segment_number": 37
         }
       ]
@@ -410,14 +410,14 @@
           "tag": "l",
           "attributes": {},
           "text": "gavām anekavarṇānāṃ kṣīrasyāpy ekavarṇatā /",
-          "translated_text": "Of cows of various colors, the milk has indeed one color,",
+          "translated_text": "Of cows of various colors, the milk is of one color alone.",
           "segment_number": 38
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "kṣīravat paśyate jñānaṃ liṅginas tu gavāṃ yathā // BrbUp_19 //",
-          "translated_text": "like milk, knowledge is seen in the embodied, just as with cows.",
+          "translated_text": "Knowledge is seen like the milk; the embodied beings are like the cows. (19)",
           "segment_number": 39
         }
       ]
@@ -430,14 +430,14 @@
           "tag": "l",
           "attributes": {},
           "text": "ghṛtam iva payasi nigūḍhaṃ bhūte bhūte ca vasati vijñānam /",
-          "translated_text": "Like ghee hidden in milk, knowledge resides in each being,",
+          "translated_text": "Like ghee hidden in milk, consciousness dwells in every being.",
           "segment_number": 40
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "satataṃ manthayitavyaṃ manasā manthānabhūtena // BrbUp_20 //",
-          "translated_text": "constantly churned by the mind, which is like the churning rod.",
+          "translated_text": "It should be constantly churned with the mind as the churning stick. (20)",
           "segment_number": 41
         }
       ]
@@ -450,14 +450,14 @@
           "tag": "l",
           "attributes": {},
           "text": "jñānanetraṃ samādāya cared vahnim ataḥ param /",
-          "translated_text": "Taking the eye of knowledge, one should proceed beyond the fire,",
+          "translated_text": "Taking knowledge as the eye, one should extract the fire beyond.",
           "segment_number": 42
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "niṣkalaṃ nirmalaṃ śāntaṃ tad brahmāham iti smṛtam // BrbUp_21 //",
-          "translated_text": "the undivided, pure, peaceful, that is remembered as 'I am <s>Brahman</s>'.",
+          "translated_text": "Partless, pure, peaceful — 'I am that <s>Brahman</s>' is the established teaching. (21)",
           "segment_number": 43
         }
       ]
@@ -470,14 +470,14 @@
           "tag": "l",
           "attributes": {},
           "text": "sarvabhūtādhivāsaṃ ca yad bhūteṣu vasaty adhi /",
-          "translated_text": "That which resides as the abode of all beings,",
+          "translated_text": "That which is the dwelling place of all beings, and which dwells within all beings,",
           "segment_number": 44
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sarvānugrāhakatvena tad asmy ahaṃ vāsudeva // BrbUp_22 //",
-          "translated_text": "by being the benefactor of all, I am that <s>Vāsudeva</s>.",
+          "translated_text": "by being the benefactor of all — 'I am that <s>Vāsudeva</s>.' (22)",
           "segment_number": 45
         }
       ]

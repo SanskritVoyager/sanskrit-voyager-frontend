@@ -38,13 +38,15 @@
       "tag": "p",
       "attributes": {},
       "text": "Mahāpratisarāvidyāvidhi",
-      "segment_number": 1
+      "segment_number": 1,
+      "translated_text": "<s>Mahāpratisarāvidyāvidhi</s> (The Ritual Procedure of the Great <s>Pratisarā</s> <s>Vidyā</s>)"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "namo bhagavatyai āryamahāpratisarāyai //",
-      "segment_number": 2
+      "segment_number": 2,
+      "translated_text": "Homage to the Blessed Noble <s>Mahāpratisarā</s>!"
     },
     {
       "tag": "lg",
@@ -54,13 +56,15 @@
           "tag": "l",
           "attributes": {},
           "text": "natvā pratisarāṃ bhaktyā sarvabuddhābhinanditām /",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "Having bowed with devotion to <s>Pratisarā</s>, who is praised by all <s>Buddhas</s>,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vibhūtyai sarvasattvānāṃ taccakraṃ likhyate mayā //",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": "for the benefit of all beings, her <s>cakra</s> (protective diagram) is written by me."
         }
       ]
     },
@@ -68,37 +72,43 @@
       "tag": "p",
       "attributes": {},
       "text": "śuciḥ samāhitaḥ san balyādikaṃ dattvā nirmuṣṭihastapramāṇāṃ bhūrjatvacaṃ vastraṃ vā samādāya prathamaṃ tāvac caturaṅgulapramāṇaṃ puṭam ekaṃ likhet // tanmadhye 'rdhendubindubhūṣitaṃ hūṃkārāṣṭakaveṣṭitaṃ praiṃkāram / tanmadhye mantram /",
-      "segment_number": 5
+      "segment_number": 5,
+      "translated_text": "Being pure and composed, having offered <s>bali</s> (ritual offerings) and the like, one should take a piece of birch bark or cloth the size of a closed fist. First, one should draw one enclosure (<s>puṭa</s>) measuring four finger-widths. In its center, [write] the syllable 'praiṃ' adorned with a half-moon and dot (<s>ardhendubindu</s>), encircled by eight 'hūṃ' syllables. In its center, the <s>mantra</s>:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ maṇidhari vajriṇi mahāpratisare dhārakasya rakṣaṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 6
+      "segment_number": 6,
+      "translated_text": "Oṃ <s>maṇidhari vajriṇi mahāpratisare</s>, protect the bearer (<s>dhāraka</s>), bestow peace and prosperity! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tato bāhye 'rdhāṅgulapuṭadvayam // tatra prathame puṭe mantram oṃ maṇītipūrvakam eva / dvitīye tathaiva dvidhā / tato bāhye tryaṅgulapuṭam ekam / tatra caturdikṣu catuḥpadmadale rekhādvitaya saṃdhau pūrvādidikkrameṇa mantraṃ likhet //",
-      "segment_number": 7
+      "segment_number": 7,
+      "translated_text": "Then, on the outside, two enclosures of half a finger-width each. In the first enclosure, the <s>mantra</s> beginning with 'oṃ maṇi-' as before. In the second, likewise in two [lines]. Then, on the outside, one enclosure of three finger-widths. Therein, at the junctures of two lines on four lotus-petals in the four directions, one should write the <s>mantras</s> in the order of east and other directions:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ vimale vipule jayavare amṛte dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 8
+      "segment_number": 8,
+      "translated_text": "Oṃ <s>vimale vipule jayavare amṛte</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "dakṣiṇe //",
-      "segment_number": 9
+      "segment_number": 9,
+      "translated_text": "In the south:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ amṛtavilokini garbhasaṃrakṣaṇi ākarṣaṇi dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā /",
-      "segment_number": 10
+      "segment_number": 10,
+      "translated_text": "Oṃ <s>amṛtavilokini garbhasaṃrakṣaṇi ākarṣaṇi</s>, protect the bearer, bestow peace and prosperity! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
@@ -110,12 +120,14 @@
             "rend": "blue"
           },
           "text": "[Mpvv, Page 477]",
-          "segment_number": 11
+          "segment_number": 11,
+          "translated_text": "[Mpvv, Page 477]"
         },
         {
           "tag": "text",
           "text": "paścime //",
-          "segment_number": 12
+          "segment_number": 12,
+          "translated_text": "In the west:"
         }
       ]
     },
@@ -123,91 +135,106 @@
       "tag": "p",
       "attributes": {},
       "text": "oṃ bhara 2 saṃbhara 2 indriyabalaviśodhani dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 ruru cale svāhā //",
-      "segment_number": 13
+      "segment_number": 13,
+      "translated_text": "Oṃ <s>bhara bhara saṃbhara saṃbhara indriyabalaviśodhani</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ ruru cale svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "uttare //",
-      "segment_number": 14
+      "segment_number": 14,
+      "translated_text": "In the north:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ amṛtavare vara vara pravaraviśuddhe dhārakasya rakṣāṃ śāntipuṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 15
+      "segment_number": 15,
+      "translated_text": "Oṃ <s>amṛtavare vara vara pravaraviśuddhe</s>, protect the bearer, bestow peace and prosperity! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "dalānāṃ madhye hūṃkārāṣṭakaveṣṭitapraiṃkāramadhye maṇidharītyādi mantraṃ likhet // caturvidikṣu catustriśūkavajrārdhagarbhe āgneyādikoṇakrameṇa mantraṃ likhet //",
-      "segment_number": 16
+      "segment_number": 16,
+      "translated_text": "In the center of the petals, one should write the <s>mantra</s> beginning with '<s>maṇidharī</s>' etc. within the syllable 'praiṃ' encircled by eight 'hūṃ' syllables. In the four intermediate directions, within the half-bodies of four trident-<s>vajras</s>, one should write the <s>mantras</s> in the order of southeast and other corners:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ visphoṭavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 17
+      "segment_number": 17,
+      "translated_text": "Oṃ <s>visphoṭavajriṇi</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "nairṛtye //",
-      "segment_number": 18
+      "segment_number": 18,
+      "translated_text": "In the southwest:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ amṛtavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 19
+      "segment_number": 19,
+      "translated_text": "Oṃ <s>amṛtavare</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vāyavye /",
-      "segment_number": 20
+      "segment_number": 20,
+      "translated_text": "In the northwest:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ vimale dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 21
+      "segment_number": 21,
+      "translated_text": "Oṃ <s>vimale</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "aiśāne /",
-      "segment_number": 22
+      "segment_number": 22,
+      "translated_text": "In the northeast:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ jayavare dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 23
+      "segment_number": 23,
+      "translated_text": "Oṃ <s>jayavare</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "padmadalatriśūkavajrārdhayor aṣṭasaṃdhiṣu āgneyādidikkrameṇa /",
-      "segment_number": 24
+      "segment_number": 24,
+      "translated_text": "At the eight junctures of the lotus-petals and half-trident-<s>vajras</s>, in the order of southeast and other directions:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ niśumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā // oṃ śumbhavajriṇi dhārakasya rakṣāṃ kuru hūṃ 2 phaṭ 2 svāhā //",
-      "segment_number": 25
+      "segment_number": 25,
+      "translated_text": "Oṃ <s>niśumbhavajriṇi</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ svāhā! Oṃ <s>śumbhavajriṇi</s>, protect the bearer! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "iti mantradvayam ekāntaritaṃ likhet // tato bāhye 'rdhāṅgulapramāṇapuṭacatuṣṭayaṃ kuryāt / tataḥ prathame puṭe hrīḥkārapaṅktim ekāṃ likhet // //",
-      "segment_number": 26
+      "segment_number": 26,
+      "translated_text": "These two <s>mantras</s> should be written alternating. Then, on the outside, one should make four enclosures of half a finger-width each. In the first enclosure, one should write one row of 'hrīḥ' syllables."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "dvitīye /",
-      "segment_number": 27
+      "segment_number": 27,
+      "translated_text": "In the second:"
     },
     {
       "tag": "p",
@@ -219,12 +246,14 @@
             "rend": "blue"
           },
           "text": "[Mpvv, Page 478]",
-          "segment_number": 28
+          "segment_number": 28,
+          "translated_text": "[Mpvv, Page 478]"
         },
         {
           "tag": "text",
           "text": "oṃ aparājite mahādevi traṭ / oṃ kālakarṇi kṛt / oṃ padmakuṇḍali paṃ / oṃ puṣpadantini hūṃ // oṃ maṇyaṅkuśi hūṃ // oṃ vajraśṛṅkhale phuṃ / oṃ śvete vaṃ / oṃ mahāśvete phaṃ / oṃ mahākāli hrīḥ / oṃ vajrarati kṛt / oṃ vajrakāli hrīḥ / oṃ vajrapāśi pheḥ / oṃ vajrapāśi bhṛt // oṃ vajrapāṇi mahābale dhīḥ / oṃ vajramāle māṃ / oṃ amṛtakuṇḍali svāhā / oṃ jvala 2 hūṃ phaṭ svaḥ / oṃ ṭakki hūm jaḥ svāhā // //",
-          "segment_number": 29
+          "segment_number": 29,
+          "translated_text": "Oṃ <s>Aparājite</s> <s>Mahādevī</s> traṭ! Oṃ <s>Kālakarṇi</s> kṛt! Oṃ <s>Padmakuṇḍali</s> paṃ! Oṃ <s>Puṣpadantini</s> hūṃ! Oṃ <s>Maṇyaṅkuśi</s> hūṃ! Oṃ <s>Vajraśṛṅkhale</s> phuṃ! Oṃ <s>Śvete</s> vaṃ! Oṃ <s>Mahāśvete</s> phaṃ! Oṃ <s>Mahākāli</s> hrīḥ! Oṃ <s>Vajrarati</s> kṛt! Oṃ <s>Vajrakāli</s> hrīḥ! Oṃ <s>Vajrapāśi</s> pheḥ! Oṃ <s>Vajrapāśi</s> bhṛt! Oṃ <s>Vajrapāṇi</s> <s>Mahābala</s> dhīḥ! Oṃ <s>Vajramāle</s> māṃ! Oṃ <s>Amṛtakuṇḍali</s> svāhā! Oṃ jvala jvala hūṃ phaṭ svaḥ! Oṃ ṭakki hūṃ jaḥ svāhā!"
         }
       ]
     },
@@ -232,19 +261,22 @@
       "tag": "p",
       "attributes": {},
       "text": "tṛtīye /",
-      "segment_number": 30
+      "segment_number": 30,
+      "translated_text": "In the third:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ cūḍe hrīḥ / oṃ suvarṇakeśi kṛt // oṃ piṅgale laṃ // oṃ vidyunmālini jaḥ hūṃ / oṃ śāntikari hūṃ / oṃ puṣṭibalavardhani haḥ / oṃ śumbhakari hūṃ / oṃ maṇidhari hūṃ // oṃ ratnamakuṭamālādhari hrīḥ / oṃ mahāpratisare praṃ / oṃ dhuru 2 muru 2 huru 2 meru 2 hūṃ 2 / oṃ balavardhani hoḥ / oṃ ruru cale hūṃ 2 phaṭ 2 svāhā / oṃ maṇidhari mahāpratisare dhārakasya rakṣāṃ śāntiṃ puṣṭiṃ kuru hūṃ 2 phaṭ 2 svāhā // //",
-      "segment_number": 31
+      "segment_number": 31,
+      "translated_text": "Oṃ <s>Cūḍe</s> hrīḥ! Oṃ <s>Suvarṇakeśi</s> kṛt! Oṃ <s>Piṅgale</s> laṃ! Oṃ <s>Vidyunmālini</s> jaḥ hūṃ! Oṃ <s>Śāntikari</s> hūṃ! Oṃ <s>Puṣṭibalavardhani</s> haḥ! Oṃ <s>Śumbhakari</s> hūṃ! Oṃ <s>Maṇidhari</s> hūṃ! Oṃ <s>Ratnamakuṭamālādhari</s> hrīḥ! Oṃ <s>Mahāpratisare</s> praṃ! Oṃ dhuru dhuru muru muru huru huru meru meru hūṃ hūṃ! Oṃ <s>Balavardhani</s> hoḥ! Oṃ ruru cale hūṃ hūṃ phaṭ phaṭ svāhā! Oṃ <s>maṇidhari mahāpratisare</s>, protect the bearer, bestow peace and prosperity! Hūṃ hūṃ phaṭ phaṭ svāhā!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "caturthe /",
-      "segment_number": 32
+      "segment_number": 32,
+      "translated_text": "In the fourth:"
     },
     {
       "tag": "p",
@@ -257,33 +289,39 @@
             "rend": "blue"
           },
           "text": "[Mpvv, Page 479]",
-          "segment_number": 34
+          "segment_number": 34,
+          "translated_text": "[Mpvv, Page 479]"
         },
         {
           "tag": "text",
           "text": "sarvabhayebhyaḥ dhīḥ / oṃ devi śrīḥ / oṃ padme paṃ / oṃ maṇidhari vajriṇi hūṃ // oṃ locane lāṃ / oṃ māmaki māṃ / oṃ pāṇḍare pāṃ / oṃ vasudhāre vaṃ // oṃ kurukulle hrīḥ / oṃ bhṛkuṭi bhṛṃ / oṃ bhrūṃ hūṃ bhrūṃ āḥ // //",
-          "segment_number": 35
+          "segment_number": 35,
+          "translated_text": "from all fears, dhīḥ. Oṃ <s>Devī</s> śrīḥ. Oṃ <s>Padme</s> paṃ. Oṃ <s>Maṇidharī Vajriṇī</s> hūṃ. Oṃ <s>Locanā</s> lāṃ. Oṃ <s>Māmakī</s> māṃ. Oṃ <s>Pāṇḍarā</s> pāṃ. Oṃ <s>Vasudhārā</s> vaṃ. Oṃ <s>Kurukullā</s> hrīḥ. Oṃ <s>Bhṛkuṭī</s> bhṛṃ. Oṃ bhrūṃ hūṃ bhrūṃ āḥ."
         }
       ],
-      "segment_number": 33
+      "segment_number": 33,
+      "translated_text": "Oṃ <s>Tāre</s> tāṃ aḥ. Oṃ muḥ. Oṃ āḥ <s>Rākṣasī Ekajaṭā</s> jñāṃ. Oṃ <s>Buddhe Kṣitike</s> he hūṃ. Oṃ <s>Kāpālinī</s> hūṃ. Oṃ <s>Laṅkeśvarī</s> khaṃ. Oṃ <s>Dhanye</s> laṃ. Oṃ <s>Keśinī</s> aṃ. Oṃ <s>Laṅkeśvarī</s> muḥ. Oṃ <s>Hārītī</s> hāṃ hrīṃ. Oṃ <s>Pāñcike</s> keṃ. Oṃ <s>Śaṅkhinī</s> saṃ kaṭ. Oṃ <s>Kūṭadantinī</s> kaṭ. Oṃ <s>Śriyādevī</s> śrīḥ. Oṃ <s>Sarasvatī</s> baṃ. Oṃ protect, protect the bearer"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tato bāhye dvyaṅgulapramāṇaṃ puṭam ekaṃ kuryāt // tatra ūrdhvaśiraskāny aṣṭacatvāriṃśad vajrāṇi paṅktyā saṃlikhet // vajradvitayasaṃdhau paścimādidikkrameṇa laṃ kṣuṃ kīṃ klūṃ īṃ bhrūṃ phaṃ maḥ khaṃ haḥ yāṃ jrīṃ āṃ hrīḥ rīṃ ḍrīṃ līṃ hīṃ suṃ kraṃ jaḥ dhāṃ proṃ hoḥ hūṃ āḥ phaṭ jaṃ smaṃ laṃ kaṃ baṃ ṛṃ plūṃ treṃ bhoṃ bhraṃ oṃ aṃ bhrāṃ kṣīṃ vīṃ heḥ jīṃ ruṃ rūṃ aṃ saṃ / 48 //",
-      "segment_number": 36
+      "segment_number": 36,
+      "translated_text": "Then, on the outside, one should make a border of two finger-breadths in width. Therein, one should inscribe in rows forty-eight <s>vajras</s> (thunderbolts) with their points facing upward. At the junction of each pair of <s>vajras</s>, proceeding from the western direction, [write the seed syllables]: laṃ kṣuṃ kīṃ klūṃ īṃ bhrūṃ phaṃ maḥ khaṃ haḥ yāṃ jrīṃ āṃ hrīḥ rīṃ ḍrīṃ līṃ hīṃ suṃ kraṃ jaḥ dhāṃ proṃ hoḥ hūṃ āḥ phaṭ jaṃ smaṃ laṃ kaṃ baṃ ṛṃ plūṃ treṃ bhoṃ bhraṃ oṃ aṃ bhrāṃ kṣīṃ vīṃ heḥ jīṃ ruṃ rūṃ aṃ saṃ — forty-eight in all."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tato bāhye tryaṅgulapramāṇaṃ puṭam ekaṃ kuryāt // tatra vikasitāṣṭadalasakesarapaṭṭabaddhadaṇḍapadmāni likhed aṣṭacatvāriṃśat // tadupari aṣṭacatvāriṃśac cihnāni likhet // cakram / khaḍgam / dhanum / śaram / vajram / mudgaram / dakṣiṇāvartaśaṅkham / vajradhvajam / cintāmaṇiratnam / pāśam / paraśum / triśūlam / aṅkuśam / chatram // padmam / śaktim // 16 // iti triguṇīkṛtya likhet // sarvāṇy akṣarāṇi bāhyaśiraskāni likhanīyānīti //",
-      "segment_number": 37
+      "segment_number": 37,
+      "translated_text": "Then, on the outside, one should make a border of three finger-breadths in width. Therein, one should draw forty-eight fully blooming eight-petalled lotuses with pistils, bound to stems on a band. Above those, one should draw forty-eight insignia (<s>cihna</s>): a wheel (<s>cakra</s>), a sword (<s>khaḍga</s>), a bow (<s>dhanus</s>), an arrow (<s>śara</s>), a thunderbolt (<s>vajra</s>), a mace (<s>mudgara</s>), a right-turning conch (<s>dakṣiṇāvartaśaṅkha</s>), a vajra-banner (<s>vajradhvaja</s>), a wish-fulfilling jewel (<s>cintāmaṇiratna</s>), a noose (<s>pāśa</s>), an axe (<s>paraśu</s>), a trident (<s>triśūla</s>), a hook (<s>aṅkuśa</s>), a parasol (<s>chatra</s>), a lotus (<s>padma</s>), and a spear (<s>śakti</s>) — sixteen [symbols], which are to be drawn tripled [to make forty-eight]. All syllables should be inscribed with their heads facing outward."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "āryamahāpratisarāyā vidyāvidhiḥ samāptaḥ // //",
-      "segment_number": 38
+      "segment_number": 38,
+      "translated_text": "The ritual manual (<s>vidyāvidhi</s>) of the Noble <s>Mahāpratisarā</s> is complete."
     }
   ]
 }

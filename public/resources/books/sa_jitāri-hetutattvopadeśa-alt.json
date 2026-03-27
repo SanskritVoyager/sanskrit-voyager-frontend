@@ -39,13 +39,15 @@
       "tag": "p",
       "attributes": {},
       "text": "Hetutattvopadeśaḥ",
-      "segment_number": 1
+      "segment_number": 1,
+      "translated_text": "<s>Hetutattvopadeśaḥ</s> (Instruction on the Nature of Reasons)"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mañjuśrīkumārabhūtāya namaḥ",
-      "segment_number": 2
+      "segment_number": 2,
+      "translated_text": "Homage to <s>Mañjuśrī</s>, the youthful one."
     },
     {
       "tag": "lg",
@@ -55,13 +57,15 @@
           "tag": "l",
           "attributes": {},
           "text": "1. sādhanaṃ dūṣaṇaṃ caiva sābhāsaṃ parasaṃvide /",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "1. Proof (<s>sādhana</s>) and refutation (<s>dūṣaṇa</s>), together with their semblances, are for the understanding of others;"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pratyakṣamanumānaṃ ca sābhāsaṃ tvātmasaṃvide //",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": "<s>pratyakṣa</s> (direct perception) and <s>anumāna</s> (inference), together with their semblances, are for one's own understanding."
         }
       ]
     },
@@ -69,13 +73,15 @@
       "tag": "p",
       "attributes": {},
       "text": "ayaṃ śāstrārtharāṃgrahaḥ //",
-      "segment_number": 5
+      "segment_number": 5,
+      "translated_text": "This is the summary of the meaning of the treatise."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "2. vādinā svayaṃ sādhayitumiṣṭo 'rthaḥ sādhyaḥ / yena sādhyate tatsādhanam //",
-      "segment_number": 6
+      "segment_number": 6,
+      "translated_text": "2. The object that the proponent himself wishes to establish is the <s>sādhya</s> (what is to be proved). That by which it is proved is the <s>sādhana</s> (means of proof)."
     },
     {
       "tag": "p",
@@ -88,87 +94,102 @@
             "rend": "it"
           },
           "text": "ca",
-          "segment_number": 8
+          "segment_number": 8,
+          "translated_text": "indeed,"
         },
         {
           "tag": "text",
           "text": "asattvameva niścitamiti tṛtīyaṃ rūpam //",
-          "segment_number": 9
+          "segment_number": 9,
+          "translated_text": "definite non-existence is the third characteristic."
         }
       ],
-      "segment_number": 7
+      "segment_number": 7,
+      "translated_text": "3. The triple characteristic (<s>trairūpya</s>) of the <s>hetu</s> (reason) is stated. What then is this triple characteristic? Existence in the <s>pakṣa</s> (thesis-subject) alone is the first characteristic. Existence only in the <s>sapakṣa</s> (similar case) is the second characteristic. In the <s>vipakṣa</s> (dissimilar case),"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "4. tatra pakṣaḥ prasiddho dharmī prasiddhaviśeṣaṇena viśiṣṭaḥ svayaṃ sādhayitumiṣṭaḥ pratyakṣādyaviruddhaḥ / yathā dharmī śabdo 'nitya iti viśeṣaṇena viśiṣṭaḥ sādhyaḥ / kṛtakatvāditi heturbhavatīti //",
-      "segment_number": 10
+      "segment_number": 10,
+      "translated_text": "4. Therein, the <s>pakṣa</s> (thesis) is a well-known <s>dharmin</s> (property-possessor), qualified by a well-known qualifier, which one wishes to establish oneself, and which is not contradicted by <s>pratyakṣa</s> (direct perception) and the rest. For example, the <s>dharmin</s> 'sound' qualified by the qualifier 'non-eternal' is the <s>sādhya</s> (what is to be proved). 'Because of being produced' serves as the <s>hetu</s> (reason)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "5. kaḥ punaḥ sapakṣaḥ / sādhyadharmasāmānyena samānaḥ sapakṣaḥ / yathā ghaṭādiriti //",
-      "segment_number": 11
+      "segment_number": 11,
+      "translated_text": "5. What then is the <s>sapakṣa</s> (similar case)? That which is similar through commonality with the property to be proved is the <s>sapakṣa</s>. For example, a pot and the like."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "6. ko hetorvipakṣaḥ / yatra sādhyābhāvāddhetvabhāvo niścayena pradarśyate / yathākāśādiḥ //",
-      "segment_number": 12
+      "segment_number": 12,
+      "translated_text": "6. What is the <s>vipakṣa</s> (dissimilar case) of the <s>hetu</s> (reason)? That wherein, due to the absence of the <s>sādhya</s> (property to be proved), the absence of the <s>hetu</s> (reason) is demonstrated with certainty. For example, space (<s>ākāśa</s>) and the like."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "7. trirūpahetupradarśanena parāvagamanimittaṃ kṛtaḥ prayogaḥ parārthānumānabhityucyate / yathā śabdo 'nitya iti pakṣavacanam / kṛtakatvāditi hetuvacanam / ghaṭādivaditi sapakṣavacanam / ākāśādivaditi vipakṣavacanam //",
-      "segment_number": 13
+      "segment_number": 13,
+      "translated_text": "7. The formulation made for the purpose of communicating to others through the demonstration of the triple-characterized <s>hetu</s> (reason) is called <s>parārthānumāna</s> (inference for others). For example, 'Sound is non-eternal' is the statement of the <s>pakṣa</s> (thesis). 'Because of being produced' is the statement of the <s>hetu</s> (reason). 'Like a pot and such' is the statement of the <s>sapakṣa</s> (similar case). 'Unlike space and such' is the statement of the <s>vipakṣa</s> (dissimilar case)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "8. sa punardvividho dṛśyate / sādharmyeṇa vaidharmyeṇa ca //",
-      "segment_number": 14
+      "segment_number": 14,
+      "translated_text": "8. This is seen to be of two kinds: through similarity (<s>sādharmya</s>) and through dissimilarity (<s>vaidharmya</s>)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "9. tatra sādharmyeṇa tāvat / yatkṛtakaṃ tatsarvamanityaṃ dṛṣṭam / yatha ghaṭādiḥ / śabdo 'pi kṛtaka iti //",
-      "segment_number": 15
+      "segment_number": 15,
+      "translated_text": "9. Of these, through similarity first: Whatever is produced is all seen to be non-eternal, like a pot and such. Sound too is produced."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "10. vaidharmyeṇāpyanityatvābhāve kṛtakatvābhāvaḥ / yathākāśādiḥ / śabdastu kṛtaka iti //",
-      "segment_number": 16
+      "segment_number": 16,
+      "translated_text": "10. Through dissimilarity also: In the absence of non-eternality, there is absence of being produced, like space and such. But sound is produced."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "11. kaḥ punaḥ pakṣābhāsaḥ / pakṣābhāso vastuto na pakṣaḥ / pratyakṣādivirodhādayaṃ pakṣābhāsaḥ //",
-      "segment_number": 17
+      "segment_number": 17,
+      "translated_text": "11. What then is a <s>pakṣābhāsa</s> (semblance of thesis)? A <s>pakṣābhāsa</s> is in reality not a <s>pakṣa</s> (thesis). Due to contradiction with <s>pratyakṣa</s> (direct perception) and the rest, this is a <s>pakṣābhāsa</s>."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "12. yathā dhūmādirdharmī buddhimaddhetūtpannaḥ sādhya iti pratyakṣaviruddhaḥ pakṣābhāsaḥ / pratyakṣato vahnerdhūmotpattidarśanāt //",
-      "segment_number": 18
+      "segment_number": 18,
+      "translated_text": "12. For example, the <s>pakṣābhāsa</s> contradicted by <s>pratyakṣa</s> (direct perception) is: 'Smoke and such, as <s>dharmin</s> (subject), is to be proved as produced from an intelligent cause.' This is because the production of smoke from fire is observed through direct perception."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "13. anumānaviruddho yathā / vedavacanaṃ dharmyapauruṣeyamiti sādhye śabdaḥ prayatnānantarīyaka iti pauruṣeyatvasya siddheḥ //",
-      "segment_number": 19
+      "segment_number": 19,
+      "translated_text": "13. Contradicted by <s>anumāna</s> (inference), for example: When the <s>sādhya</s> is 'Vedic speech, as <s>dharmin</s>, is non-personal (not created by a person),' sound being produced immediately after effort establishes its personal origin."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "14. svavacanaviruddho yathā / anumānaṃ na pramāṇamiti / parāvagamāya vākyaprayogaḥ parārthānumānamiti nirdeśāt //",
-      "segment_number": 20
+      "segment_number": 20,
+      "translated_text": "14. Contradicted by one's own statement, for example: '<s>Anumāna</s> (inference) is not a <s>pramāṇa</s> (means of valid knowledge).' This is because the verbal formulation for communicating to others is designated as <s>parārthānumāna</s> (inference for others)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "15. lokaviruddho yathā / śuci naraśiraḥ kapālaṃ prāṇyaṅgatvāc chaṅkhaśuktivaditi //",
-      "segment_number": 21
+      "segment_number": 21,
+      "translated_text": "15. Contradicted by common convention (<s>loka</s>), for example: 'A human skull is pure, because it is a part of a living being, like a conch shell or oyster shell.'"
     },
     {
       "tag": "p",
@@ -181,12 +202,14 @@
             "rend": "it"
           },
           "text": "tat",
-          "segment_number": 23
+          "segment_number": 23,
+          "translated_text": "that"
         },
         {
           "tag": "text",
           "text": "anityam / yadyāvatkālasthāyi",
-          "segment_number": 24
+          "segment_number": 24,
+          "translated_text": "is non-eternal; whatever endures for any length of time,"
         },
         {
           "tag": "hi",
@@ -194,57 +217,67 @@
             "rend": "it"
           },
           "text": "tat",
-          "segment_number": 25
+          "segment_number": 25,
+          "translated_text": "that"
         },
         {
           "tag": "text",
           "text": "sarvaṃ nityamiti laukikapratīteḥ //",
-          "segment_number": 26
+          "segment_number": 26,
+          "translated_text": "is all eternal' — because of common worldly understanding."
         }
       ],
-      "segment_number": 22
+      "segment_number": 22,
+      "translated_text": "16. Contradicted by accepted understanding (<s>pratīti</s>), for example: 'Whatever endures for any length of time,"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "17. aprasiddhaviśeṣaṇo yathā / vaiśeṣikasya sāṃkhyaṃ prati śabdo vināśīti //",
-      "segment_number": 27
+      "segment_number": 27,
+      "translated_text": "17. With an unestablished qualifier, for example: The <s>Vaiśeṣika</s>'s [thesis] to the <s>Sāṃkhya</s>: 'Sound is destructible.'"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "18. aprasiddhaviśeṣyo yathā / sāṃkhyasya bauddhaṃ pratyātmā cetana iti sādhyam //",
-      "segment_number": 28
+      "segment_number": 28,
+      "translated_text": "18. With an unestablished qualificand, for example: The <s>Sāṃkhya</s>'s [thesis] to the <s>Bauddha</s> (Buddhist): 'The self (<s>ātman</s>) is conscious' as the <s>sādhya</s>."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "19. aprasiddhobhayo yathā / vaiśeṣikasya bauddhaṃ prati samavāyikāraṇamātmeti kāyaḥ sthirasvabhāva iti vā //",
-      "segment_number": 29
+      "segment_number": 29,
+      "translated_text": "19. With both unestablished, for example: The <s>Vaiśeṣika</s>'s [thesis] to the <s>Bauddha</s>: 'The body, whose <s>samavāyikāraṇa</s> (inherent cause) is the self, has a stable nature.'"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "20. pakṣābhāsā uktāḥ //",
-      "segment_number": 30
+      "segment_number": 30,
+      "translated_text": "20. The <s>pakṣābhāsas</s> (semblances of thesis) have been stated."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "21. kīdṛśo hetvābhāsaḥ / yo heturivābhāsate na tu hetutvena sidhyati //",
-      "segment_number": 31
+      "segment_number": 31,
+      "translated_text": "21. What kind is a <s>hetvābhāsa</s> (semblance of a reason)? That which appears like a <s>hetu</s> (reason) but is not established as a valid reason."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "22. hetvābhāsastrividhaḥ / asiddho viruddho 'naikāntikaśca //",
-      "segment_number": 32
+      "segment_number": 32,
+      "translated_text": "22. The <s>hetvābhāsa</s> (semblance of a reason) is threefold: unestablished (<s>asiddha</s>), contradictory (<s>viruddha</s>), and inconclusive (<s>anaikāntika</s>)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "23. tatra pakṣāsiddherasiddha iti hetvābhāsaḥ //",
-      "segment_number": 33
+      "segment_number": 33,
+      "translated_text": "23. Therein, that which is unestablished in the <s>pakṣa</s> (thesis-subject) is the <s>hetvābhāsa</s> called 'unestablished.'"
     },
     {
       "tag": "p",
@@ -257,105 +290,123 @@
             "rend": "it"
           },
           "text": "yaḥ",
-          "segment_number": 35
+          "segment_number": 35,
+          "translated_text": "that"
         },
         {
           "tag": "text",
           "text": "sa viruddha iti hetvābhāsaḥ sādhyaviparītasiddheḥ //",
-          "segment_number": 36
+          "segment_number": 36,
+          "translated_text": "is the <s>hetvābhāsa</s> called 'contradictory,' because it establishes the opposite of the <s>sādhya</s> (what is to be proved)."
         }
       ],
-      "segment_number": 34
+      "segment_number": 34,
+      "translated_text": "24. That which is absent in the <s>pakṣa</s> (thesis-subject) and in the <s>sapakṣa</s> (similar case), but present in the <s>vipakṣa</s> (dissimilar case) —"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "25. sapakṣavipakṣayorubhayorbhāve 'bhāve vā saṃśaye vāsiddhapratibandho yo hetuḥ so 'naikāntiko hetvābhāsaḥ / vādiprativādibhyāṃ sādhayitumiṣṭasyaikāntenāsiddheḥ //",
-      "segment_number": 37
+      "segment_number": 37,
+      "translated_text": "25. A <s>hetu</s> (reason) whose connection is not established, whether present or absent in both <s>sapakṣa</s> and <s>vipakṣa</s>, or doubtful, is the <s>hetvābhāsa</s> called 'inconclusive' (<s>anaikāntika</s>), because what is desired to be established by both proponent and opponent is not conclusively established."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "26. ubhayāsiddho yathā / śabdasyānityatve sādhye hetuścākṣuṣatvaṃ vādiprativādinorasiddha iti //",
-      "segment_number": 38
+      "segment_number": 38,
+      "translated_text": "26. Unestablished for both parties, for example: When the non-eternality of sound is to be proved, the <s>hetu</s> 'being visible' is unestablished for both proponent and opponent."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "27. cetanastaruriti sādhye sarvatvagapaharaṇe maraṇāditi hetuḥ prativādinaṃ bauddhaṃ pratyasiddha iti prativādyasiddhaścittādinirodhasya bauddhasyeṣṭatvāt //",
-      "segment_number": 39
+      "segment_number": 39,
+      "translated_text": "27. When the <s>sādhya</s> is 'Trees are conscious,' the <s>hetu</s> 'because they die when all bark is removed' is unestablished for the opponent, the <s>Bauddha</s> (Buddhist), and is thus 'unestablished for the opponent,' since the Buddhist accepts the cessation of mind (<s>citta</s>) and such."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "28. acetanāḥ sukhādaya iti sādhye utpattimattvāditi hetuḥ sāṃkhyasya svayaṃ vādino 'siddha iti vādyasiddhaḥ //",
-      "segment_number": 40
+      "segment_number": 40,
+      "translated_text": "28. When the thesis to be proved is 'pleasure and so forth are non-conscious,' the reason 'because they possess origination' is unestablished for the <s>Sāṃkhya</s> proponent himself — this is <s>vādyasiddha</s> (unestablished for the proponent)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "29. vaiśeṣikeṇa prativādinaṃ bauddhaṃ prati pṛthivyādirdharmī kārya iti sādhya ekaikakṣaṇavadanyānyotpādāditi vādinaḥ svayamasiddhaḥ / siddhe 'pyutpāda ekaikakṣaṇavadanyānyotpādāsiddheḥ //",
-      "segment_number": 41
+      "segment_number": 41,
+      "translated_text": "29. When the <s>Vaiśeṣika</s>, against the Buddhist opponent, [takes] earth and so forth as the subject and 'is an effect' as the thesis to be proved, the reason 'because of successive origination moment by moment' is unestablished for the proponent himself; even if origination is established, the successive origination moment by moment is unestablished."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "30. pakṣaikadeśāsiddho yathā / cetanāstaravaḥ svāpāditi hetuścandane vādinaḥ svayaṃ pakṣaikadeśe 'siddhaḥ / na hi sarve vṛkṣā rātrau patrasaṃkocabhājaḥ //",
-      "segment_number": 42
+      "segment_number": 42,
+      "translated_text": "30. An example of <s>pakṣaikadeśāsiddha</s> (unestablished in part of the thesis) is as follows: When 'trees are conscious' is the thesis, the reason 'because of sleep' is, for the proponent himself, unestablished in part of the thesis regarding sandalwood; for not all trees exhibit the folding of leaves at night."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "31. evameva kṣityādirgharmī buddhimajjāta iti sādhye kāryamiti heturbauddhaṃ pratyasiddhaḥ pratyakṣānupalambhābhyāṃ kāryakāraṇasambandhasiddhasvarūpeṇa kṣityādīnāṃ siddheḥ / vāsabhojanādisiddhiriti cettadā pakṣaikadeśāsiddhiḥ //",
-      "segment_number": 43
+      "segment_number": 43,
+      "translated_text": "31. Likewise, when earth and so forth is the subject and 'born from an intelligent [creator]' is the thesis, the reason 'because it is an effect' is unestablished for the Buddhist [opponent], since for him earth and so forth are established through their own nature by <s>pratyakṣa</s> (direct perception) and <s>anupalambha</s> (non-apprehension) as having the nature of cause-effect relationship. If [one says] 'it is established through the provision of clothing, food, etc.,' then it is <s>pakṣaikadeśāsiddhi</s> (partially unestablished in the thesis)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "32. saṃdigdhāsiddho yathā / yadīha dhūmaḥ syādatra vahniḥ syāditi sādhye hetvaniścayāt //",
-      "segment_number": 44
+      "segment_number": 44,
+      "translated_text": "32. An example of <s>saṃdigdhāsiddha</s> (doubtfully unestablished): 'If there is smoke here, there would be fire here' — because of the uncertainty of the reason."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "33. saṃdigdhadharmyasiddho yathā / eṣvanekeṣu nikuñjeṣu kasmiṃścin nikuñje mayūra iti sādhye kekāyitāditi heturiti //",
-      "segment_number": 45
+      "segment_number": 45,
+      "translated_text": "33. An example of <s>saṃdigdhadharmyasiddha</s> (unestablished due to a doubtful subject): 'In some grove among these many groves, there is a peacock' — the reason being 'because of the cry.'"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "34. dharmyasiddhāvapyasiddho yathā / dharmyātmā sarvavyāpīti sādhye sarvatropalabhyamānaguṇatvāditi heturiti //",
-      "segment_number": 46
+      "segment_number": 46,
+      "translated_text": "34. An example of being unestablished even when the subject is established: When the subject is the <s>ātman</s> (self), 'all-pervading' is the thesis, the reason is 'because of qualities being perceived everywhere.'"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "35. navaite 'siddhā hetvābhāsāḥ //",
-      "segment_number": 47
+      "segment_number": 47,
+      "translated_text": "35. These are the nine unestablished <s>hetvābhāsas</s> (fallacious reasons)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "36. kīdṛśaḥ punaranaikāntiko hetvābhāsaḥ / ucyate /",
-      "segment_number": 48
+      "segment_number": 48,
+      "translated_text": "36. Now, what kind of <s>hetvābhāsa</s> (fallacious reason) is the <s>anaikāntika</s> (inconclusive) one? It is stated:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "37. yathā śabdasya nityatvādike dharme sādhye prameyatvāditi hetuḥ sapakṣavipakṣayoḥ sarvatra varttamānaḥ sādhāraṇo 'naikāntika iti //",
-      "segment_number": 49
+      "segment_number": 49,
+      "translated_text": "37. For example, when permanence and so forth of sound is the property to be proved, the reason 'because it is <s>prameya</s> (knowable),' being present everywhere in both <s>sapakṣa</s> (similar instances) and <s>vipakṣa</s> (dissimilar instances), is a <s>sādhāraṇa anaikāntika</s> (common inconclusive reason)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "38. evaṃ śabdo nitya iti sādhye śrāvaṇatvāditi hetuḥ sapakṣe vipakṣe cāvṛtterasādhāraṇo 'naikāntikaḥ //",
-      "segment_number": 50
+      "segment_number": 50,
+      "translated_text": "38. Likewise, when 'sound is permanent' is the thesis, the reason 'because of being audible,' not occurring in either <s>sapakṣa</s> or <s>vipakṣa</s>, is an <s>asādhāraṇa anaikāntika</s> (uncommon inconclusive reason)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "39. evaṃ śabdasyāprayatnānantarīyakatve sādhye 'nityatvāditi hetuḥ sapakṣaikadeśavṛtti rvipakṣavyāpyanaikāntikaḥ / aprayatnānantarīyakasya śabdasya sapakṣaḥ vidyudākāśādiḥ / tatra sapakṣaikadeśe vidyudādāvanityatvaṃ varttate / nākāśādau / vipakṣāḥ prayatnānantarīyakādayaḥ sarve / teṣu sarveṣvasti //",
-      "segment_number": 51
+      "segment_number": 51,
+      "translated_text": "39. Likewise, when 'sound is not produced by effort' is the thesis, the reason 'because of being impermanent' occurs in only part of the <s>sapakṣa</s> and pervades the <s>vipakṣa</s>, [making it] an inconclusive reason occurring in part of the similar instances and pervading the dissimilar instances. The <s>sapakṣa</s> of sound not produced by effort is lightning, space, etc. Among those, impermanence occurs in part of the <s>sapakṣa</s>, namely lightning and so forth, but not in space and so forth. The <s>vipakṣa</s> consists of all [things] produced by effort and so forth; it is present in all of those."
     },
     {
       "tag": "p",
@@ -368,99 +419,116 @@
             "rend": "it"
           },
           "text": "vidyate",
-          "segment_number": 53
+          "segment_number": 53,
+          "translated_text": "[It] is present"
         },
         {
           "tag": "text",
           "text": "/ aprayatnānantarīyako vipakṣaḥ puna rvidyudākāśādiḥ / tatraikadeśe vidyudādau varttate nākāśādau / tasmādayaṃ vipakṣaikadeśavṛttiḥ sapakṣavyāpyanaikāntiko hetuḥ //",
-          "segment_number": 54
+          "segment_number": 54,
+          "translated_text": "The <s>vipakṣa</s> of 'not produced by effort' is lightning, space, and so forth. Among those, it occurs in part, namely in lightning and so forth, but not in space and so forth. Therefore, this is a <s>vipakṣaikadeśavṛtti sapakṣavyāpi anaikāntika</s> (inconclusive reason occurring in part of the dissimilar instances and pervading the similar instances)."
         }
       ],
-      "segment_number": 52
+      "segment_number": 52,
+      "translated_text": "40. Likewise, when 'sound is produced by effort' is the thesis, the reason 'because of being impermanent' is present everywhere in [instances like] a pot and so forth."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "41. ubhayapakṣaikadeśavṛttiranaikāntiko yathā / dharmī śabdo nitya iti sādhye 'mūrttatvāditi hetuḥ / paramāṇvākāśādiḥ sapakṣaḥ / tatra sapakṣaikadeśa ākāśe 'mūrttatvaṃ vidyate na paramāṇau paramāṇūnāṃ mūrttatvāt / ghaṭasukhādiranityo vipakṣaḥ / tadekadeśe sukhādau vidyate na ghaṭādāviti //",
-      "segment_number": 55
+      "segment_number": 55,
+      "translated_text": "41. An example of an <s>anaikāntika</s> (inconclusive reason) occurring in part of both sides: When the subject is sound and 'permanent' is the thesis, the reason is 'because of being formless.' The <s>sapakṣa</s> is atoms, space, etc. Among the <s>sapakṣa</s>, formlessness is found in space, not in atoms, since atoms are corporeal. The <s>vipakṣa</s> of impermanent [things] is pot, pleasure, etc. Among those, it is found in the part of pleasure and so forth, not in pot and so forth."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "42. evaṃ saṃdigdhavipakṣavyāvṛttiḥ sapakṣavyāpyanaikāntiko heturyathā / kapilādi rdharmyasarvajña iti sādhye vaktṛtvāditi hetū rathyāpuruṣādau sapakṣe vidyate vipakṣe sarvajñe saṃdigdhaḥ / sarvajñasyātīndriyatvādvaktṛtvamasti na veti saṃdehaḥ //",
-      "segment_number": 56
+      "segment_number": 56,
+      "translated_text": "42. Likewise, an inconclusive reason that pervades the <s>sapakṣa</s> but has doubtful exclusion from the <s>vipakṣa</s>: When <s>Kapila</s> and so forth is the subject, 'omniscient' is the thesis, the reason 'because of being a speaker' is present in the <s>sapakṣa</s> of ordinary persons and so forth, but is doubtful regarding the <s>vipakṣa</s> of the omniscient one, since the omniscient one is beyond the senses, there is doubt whether the quality of being a speaker exists or not."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "43. evaṃ saṃdigdhasapakṣavṛttirvipakṣavyāpyanaikāntiko heturyathā / ṛṣabhavardhamānādi rdharmī sarvajña iti sādhye kevalaśāstrakarttṛtvāditi hetuḥ sapakṣe sarvajñe saṃdigdhaḥ / sarvajñasyātīndriyatvāt kevalaśāstrakarttari saṃdehaḥ / vipakṣe...........ādāvasarvajñe 'stīti //",
-      "segment_number": 57
+      "segment_number": 57,
+      "translated_text": "43. Likewise, an inconclusive reason that pervades the <s>vipakṣa</s> but has doubtful occurrence in the <s>sapakṣa</s>: When <s>Ṛṣabha</s>, <s>Vardhamāna</s>, and so forth is the subject, 'omniscient' is the thesis, the reason 'because of being the sole author of scriptures' is doubtful in the <s>sapakṣa</s> of the omniscient one, since the omniscient one is beyond the senses, there is doubt about being the sole author of scriptures. In the <s>vipakṣa</s> of the non-omniscient [...] and so forth, it is present."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "44. anvayavyatirekayoḥ saṃdehe 'naikāntiko heturyathā / jīvaccharīraṃ sātmakaṃ prāṇādimatvāditi hetuḥ / jīvaccharīrasambandhī prāṇādiḥ sātmake nirātmake vā varttamāno vyāvṛtto vetyaniścayaḥ //",
-      "segment_number": 58
+      "segment_number": 58,
+      "translated_text": "44. An inconclusive reason when there is doubt about both positive and negative concomitance (<s>anvaya</s> and <s>vyatireka</s>): The reason 'because of possessing <s>prāṇa</s> (vital breath) and so forth' [to prove] 'a living body has a self.' Whether <s>prāṇa</s> and so forth, connected with the living body, occurs in or is excluded from what has a self or what is without a self — this is uncertain."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "45. tataḥ kevalānvayī heturdṛṣṭāntābhāvāt //",
-      "segment_number": 59
+      "segment_number": 59,
+      "translated_text": "45. Therefore, the <s>kevalānvayī</s> (purely positive) reason is [inconclusive] due to the absence of an example."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "46. evaṃ dvitīyo 'pi kevalavyatirekī / jīvaccharīramidaṃ na nirātmakaṃ prāṇādyabhāvaprasaṅgāditi / dṛṣṭāntābhāvādanvayasyāniścayo vyatirekasya ca niścaya ityayaṃ saṃdigdho hetuḥ //",
-      "segment_number": 60
+      "segment_number": 60,
+      "translated_text": "46. Similarly, the second type of purely negative reasoning (<s>kevalavyatirekī</s>): 'This living body is not without a self, because of the undesirable consequence of the absence of breath and such.' Due to the absence of a positive example, the positive concomitance (<s>anvaya</s>) is uncertain while the negative concomitance (<s>vyatireka</s>) is certain — thus this is a doubtful <s>hetu</s> (reason)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "47. ete daśānaikāntikahetvābhāsā udāhṛtāḥ //",
-      "segment_number": 61
+      "segment_number": 61,
+      "translated_text": "47. These ten inconclusive <s>hetvābhāsas</s> (semblances of reasons) have been illustrated."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "48. viruddhā hetvābhāsāḥ kīdṛśāḥ //",
-      "segment_number": 62
+      "segment_number": 62,
+      "translated_text": "48. What are the contradictory (<s>viruddha</s>) <s>hetvābhāsas</s> (semblances of reasons) like?"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "49. yathā dharmī śabdo nitya iti sādhyadharmaḥ / kṛtakatvādākāśādivadityayaṃ heturghaṭādau vipakṣa eva vidyate na sapakṣe //",
-      "segment_number": 63
+      "segment_number": 63,
+      "translated_text": "49. For example, the <s>dharmin</s> (subject) is sound, and the <s>sādhya</s> (property to be proved) is 'eternal.' The <s>hetu</s> 'because of being produced, like space and such' — this reason exists only in the <s>vipakṣa</s> (dissimilar case) such as a pot, and not in the <s>sapakṣa</s> (similar case)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "50. evaṃ dharmī śabdo nitya iti sādhye prayatnānantarīyakatvāditi hetuḥ sapakṣa ākāśādau nāsti ghaṭādāvekadeśe 'sti vidyudādau nāstīti / imau dvau hetū dharmasvarūpaviparītasādhanau //",
-      "segment_number": 64
+      "segment_number": 64,
+      "translated_text": "50. Similarly, when the <s>sādhya</s> is 'sound is eternal,' the <s>hetu</s> 'because it arises immediately after effort' is absent in the <s>sapakṣa</s> such as space, and present in only some of the <s>vipakṣa</s> such as a pot, but absent in lightning and such. These two reasons establish the opposite of the property of the <s>dharma</s> (the <s>sādhya</s>)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "51. dharmisvarūpaviparītasādhano dvividho yathā / ete cakṣurādayaḥ parārthā iti sādhyadharmaḥ saṃghātatvāditi hetuḥ śayanāsanādivaditi sapakṣanirdeśaḥ / ayaṃ heturyathā cakṣurādeḥ pārārthyaṃ sādhayati tathā saṃhatatvamapi parasya sādhayati / śayanāsanādeḥ saṃhatadevadattādiparārthatvadarśanāt //",
-      "segment_number": 65
+      "segment_number": 65,
+      "translated_text": "51. That which establishes the opposite of the nature of the <s>dharmin</s> (subject) is of two kinds, for example: 'These eyes and such are for the sake of another' is the <s>sādhya</s>. 'Because of being composite' is the <s>hetu</s>. 'Like a bed, seat, and such' is the statement of the <s>sapakṣa</s>. This <s>hetu</s>, just as it establishes that the eyes and such serve another's purpose, also establishes for the opponent that the composite nature [implies another being], since beds, seats, and such, being composite, are observed to serve another such as <s>Devadatta</s>."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "52. dharmisvarūpaviparītasādhano yathā / dharmyādirbuddhimataḥ kāraṇādutpadyata iti sādhye sāśratvāditi hetuḥ / ghaṭādivaditi sapakṣanirdeśaḥ / yathānena hetunā buddhimaddhetuto jātatvaṃ sādhyate tathā buddhimatkarttuḥ sāśrayatvamapi sādhyate //",
-      "segment_number": 66
+      "segment_number": 66,
+      "translated_text": "52. That which establishes the opposite of the nature of the <s>dharmin</s>, for example: When the <s>sādhya</s> is 'The <s>dharmin</s> and such arises from an intelligent cause,' the <s>hetu</s> is 'because of having a support.' 'Like a pot and such' is the statement of the <s>sapakṣa</s>. Just as this <s>hetu</s> establishes origination from an intelligent cause, it also establishes that the intelligent maker has a support."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "53. dharmiviśeṣaviparītasādhano yathā / vaiśeṣikeṇa yogācāraṃ prati dharmyātmā cetanā iti sādhye vijñānādhiṣṭhānāditi hetu ryathācetanamātmānaṃ cetanaṃ sādhayati tathāyaṃ heturanityamapi sādhayati vijñānasyānityatvāt //",
-      "segment_number": 67
+      "segment_number": 67,
+      "translated_text": "53. That which establishes the opposite of a particular attribute of the <s>dharmin</s> (subject), for example: The <s>Vaiśeṣika</s>'s [thesis] to the <s>Yogācāra</s>: when the <s>sādhya</s> is 'The self (<s>ātman</s>), as <s>dharmin</s>, is conscious,' the <s>hetu</s> is 'because it is the substratum of consciousness (<s>vijñāna</s>).' Just as this <s>hetu</s> establishes the unconscious self as conscious, it also establishes [the self] as non-eternal, since consciousness is non-eternal."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "54. pañcabhiretairviruddhā hetvābhāsāḥ pradarśitāḥ //",
-      "segment_number": 68
+      "segment_number": 68,
+      "translated_text": "54. Through these five, the contradictory (<s>viruddha</s>) <s>hetvābhāsas</s> (semblances of reasons) have been demonstrated."
     },
     {
       "tag": "p",
@@ -473,12 +541,14 @@
             "rend": "it"
           },
           "text": "tatra",
-          "segment_number": 70
+          "segment_number": 70,
+          "translated_text": "that"
         },
         {
           "tag": "text",
           "text": "asti / tadyathā kasmiṃściddeśe 'vidyamāno ghaṭaḥ / nopalabhyate",
-          "segment_number": 71
+          "segment_number": 71,
+          "translated_text": "does not exist there — just as a pot not present in a certain place [is not perceived there].',"
         },
         {
           "tag": "hi",
@@ -486,39 +556,46 @@
             "rend": "it"
           },
           "text": "ca",
-          "segment_number": 72
+          "segment_number": 72,
+          "translated_text": "and"
         },
         {
           "tag": "text",
           "text": "upalabdhilakṣaṇaprāptaṃ sāmānyaṃ vyaktyantarāleṣviti / ayamanupalambhahetuḥ pūrvoktaśca svabhāvahetuḥ / anayoḥ parasparavirodhena saṃśayajanakatvāt / sapakṣādanyo dṛṣṭānto na kaścidastīti sapakṣa evāyaṃ sādharmyeṇa dṛṣṭānto bhavati /",
-          "segment_number": 73
+          "segment_number": 73,
+          "translated_text": "the universal, having fulfilled the conditions for perception, is not perceived in the intervals between particulars — this is a <s>hetu</s> based on non-apprehension (<s>anupalambha</s>), and the former is a <s>hetu</s> based on essential nature. Because these two, being mutually contradictory, generate doubt, and since there is no example other than the <s>sapakṣa</s>, this serves as the positive example through similarity."
         }
       ],
-      "segment_number": 69
+      "segment_number": 69,
+      "translated_text": "55. The <s>viruddhāvyabhicārī</s> (contradictory-yet-non-deviating) is nowhere a genuine fallacy of the reason, so it is not proper to adduce an example of it. If an example is stated [nonetheless]: 'Whatever is connected simultaneously with its own relata stationed in all places is omnipresent, like space. The universal (<s>sāmānya</s>) is simultaneously connected with its own relata stationed in all places' — this is the <s>Pailuka</s>'s (Vaiśeṣika's) argument using a <s>svabhāvahetu</s> (reason based on essential nature). The second argument is the <s>Paiṭhara</s>'s (Sāṃkhya's): 'Whatever, having fulfilled the conditions for being perceived, is not perceived where [expected],"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "56. tatra kīdṛśā dṛṣṭāntābhāsāḥ //",
-      "segment_number": 74
+      "segment_number": 74,
+      "translated_text": "56. Therein, what are the <s>dṛṣṭāntābhāsas</s> (semblances of examples) like?"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "57. sādharmyeṇa tāvat //",
-      "segment_number": 75
+      "segment_number": 75,
+      "translated_text": "57. Through similarity (<s>sādharmya</s>) first:"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "58. nityaḥ śabdo 'mūrttatvātkarmavaditi sādhyavikalaḥ karmaṇo 'nityatvāt //",
-      "segment_number": 76
+      "segment_number": 76,
+      "translated_text": "58. 'Sound is eternal, because of being formless, like action (<s>karma</s>)' — this lacks the <s>sādhya</s> (property to be proved), since action is non-eternal."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "59. nityaḥ śabdo 'mūrttatvātparamāṇuvaditi sādhanavikalaḥ paramāṇormūrttatvāt //",
-      "segment_number": 77
+      "segment_number": 77,
+      "translated_text": "59. 'Sound is eternal, because of being formless, like an atom (<s>paramāṇu</s>)' — this lacks the <s>sādhana</s> (reason), since an atom has form."
     },
     {
       "tag": "p",
@@ -531,27 +608,32 @@
             "rend": "it"
           },
           "text": "sādhana",
-          "segment_number": 79
+          "segment_number": 79,
+          "translated_text": "and the <s>sādhana</s>"
         },
         {
           "tag": "text",
           "text": "vikalaḥ //",
-          "segment_number": 80
+          "segment_number": 80,
+          "translated_text": "(both the property to be proved and the reason)."
         }
       ],
-      "segment_number": 78
+      "segment_number": 78,
+      "translated_text": "60. 'Sound is eternal, because of being formless, like a pot' — this lacks both the <s>sādhya</s>"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "61. evaṃ saṃdigdhasādhyadharmo dṛṣṭāntābhāso yathā / dharmī puruṣaḥ kaścidrāgādimān vacanādrathyāpuruṣavaditi / rathyāpuruṣadṛṣṭānte rāgādimattvaṃ saṃdigdham / paracittānumānasya duṣkaratvāt //",
-      "segment_number": 81
+      "segment_number": 81,
+      "translated_text": "61. Similarly, a <s>dṛṣṭāntābhāsa</s> (semblance of example) with a doubtful <s>sādhya</s> property, for example: 'A certain person, as <s>dharmin</s>, has passion (<s>rāga</s>) and such, because of speech, like a person on the street.' In the street-person example, the possession of passion and such is doubtful, because inferring another's mind is difficult."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "62. saṃdigdhasādhanadharmo yathā / maraṇadharmā puruṣa iti sādhye rāgādimattvāditi hetū rathyāpuruṣadṛṣṭānte saṃdigdhaḥ / vītarāgasyāpi sarāgavaccalatvāt //",
-      "segment_number": 82
+      "segment_number": 82,
+      "translated_text": "62. With a doubtful <s>sādhana</s> (reason) property, for example: When the <s>sādhya</s> is 'A person is subject to death,' the <s>hetu</s> 'because of having passion and such' is doubtful in the street-person example, since even one free from passion may move about like one with passion."
     },
     {
       "tag": "p",
@@ -564,81 +646,95 @@
             "rend": "it"
           },
           "text": "a",
-          "segment_number": 84
+          "segment_number": 84,
+          "translated_text": "is not"
         },
         {
           "tag": "text",
           "text": "sarvajña iti sādhye rāgādimattvāditi hetuḥ / rathyāpuruṣadṛṣṭānte sādhyaṃ sādhanaṃ ca saṃdigdham //",
-          "segment_number": 85
+          "segment_number": 85,
+          "translated_text": "omniscient,' the <s>hetu</s> is 'because of having passion and such.' In the street-person example, both the <s>sādhya</s> and the <s>sādhana</s> are doubtful."
         }
       ],
-      "segment_number": 83
+      "segment_number": 83,
+      "translated_text": "63. A <s>dṛṣṭāntābhāsa</s> (semblance of example) with both properties doubtful, for example: When the <s>sādhya</s> is 'A certain person, as <s>dharmin</s>,"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "64. ananvayo 'pradarśitānvayo viparītānvayaśca dṛṣṭāntābhāsāḥ //",
-      "segment_number": 86
+      "segment_number": 86,
+      "translated_text": "64. Without positive concomitance (<s>ananvaya</s>), with undemonstrated positive concomitance, and with reversed positive concomitance — these are <s>dṛṣṭāntābhāsas</s> (semblances of examples)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "65. tatrānanvayo yathā / yo vaktā sa rāgādimān rathyāpuruṣavat / vaktṛtvarāgādimattvayoḥ kāryakāraṇabhāvapratiṣedhāt //",
-      "segment_number": 87
+      "segment_number": 87,
+      "translated_text": "65. Therein, the <s>ananvaya</s> (non-concomitance) [fallacy] is as follows: 'Whoever is a speaker possesses <s>rāga</s> (passion) and the like, like a man on the street.' This is because the causal relation between being a speaker and possessing passion and the like is negated."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "66. apradarśitānvayo yathā / anityaḥ śabdaḥ kṛtakatvāditi / atrānvayavyāptirapradarśitā / vaktṛdoṣādayaṃ dṛṣṭāntābhāsaḥ //",
-      "segment_number": 88
+      "segment_number": 88,
+      "translated_text": "66. The <s>apradarśitānvaya</s> (unshown positive concomitance) is as follows: 'Sound is non-eternal, because of being produced.' Here the positive pervasion (<s>anvayavyāpti</s>) is not demonstrated. Due to the fault of the speaker, this is a <s>dṛṣṭāntābhāsa</s> (semblance of an example)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "67. viparītānvayo yathā / yadanityaṃ tatkṛtakamiti / ghaṭādivaditi / atrānityatvaṃ sādhyam / sādhyena sādhanasya vyāptirdarśanīyā sādhanena tu sādhyasya vyāptirdarśitā / tato viparītānvayo dṛṣṭāntābhāsaḥ //",
-      "segment_number": 89
+      "segment_number": 89,
+      "translated_text": "67. The <s>viparītānvaya</s> (reversed positive concomitance) is as follows: 'Whatever is non-eternal is produced, like a pot and such.' Here non-eternality is the <s>sādhya</s> (what is to be proved). The pervasion of the <s>sādhana</s> (means of proof) by the <s>sādhya</s> should be demonstrated, but instead the pervasion of the <s>sādhya</s> by the <s>sādhana</s> has been shown. Therefore, the reversed positive concomitance is a <s>dṛṣṭāntābhāsa</s> (semblance of an example)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "68. sādharmyeṇaite nava dṛṣṭāntābhāsā uktāḥ //",
-      "segment_number": 90
+      "segment_number": 90,
+      "translated_text": "68. These nine <s>dṛṣṭāntābhāsas</s> (semblances of examples) through similarity (<s>sādharmya</s>) have been stated."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "69. vaidharmyeṇa dṛṣṭāntābhāsā ucyante //",
-      "segment_number": 91
+      "segment_number": 91,
+      "translated_text": "69. The <s>dṛṣṭāntābhāsas</s> (semblances of examples) through dissimilarity (<s>vaidharmya</s>) are now stated."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "70. sādhyāvyāvṛtto dṛṣṭāntābhāso yathā / nityaḥ śabdo 'mūrttatvātparamāṇuvaditi / iha paramāṇurvaidharmyadṛṣṭānta iti sādhanadharmo 'mūrttatvaṃ vyāvṛttaṃ mūrttatvātparamāṇunām / sādhyadharmo nityatvaṃ na vyāvṛttaṃ nityatvātparamāṇunāmiti //",
-      "segment_number": 92
+      "segment_number": 92,
+      "translated_text": "70. The <s>sādhyāvyāvṛtta</s> (non-exclusion of the probandum) <s>dṛṣṭāntābhāsa</s> is as follows: 'Sound is eternal because of being formless, like an atom.' Here the atom is the dissimilarity example. The <s>sādhana</s>-property 'formlessness' is excluded, since atoms are not formless. But the <s>sādhya</s>-property 'eternality' is not excluded, since atoms are eternal."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "71. sādhanāvyāvṛtto yathā / nityaḥ śabdo 'mūrttatvāt karmavaditi / iha sādhyadharmo nityatvaṃ vyāvṛttaṃ karmaṇo 'nityatvāt sādhanadharmo na vyāvṛtto 'mūrttatvātkarmaṇaḥ //",
-      "segment_number": 93
+      "segment_number": 93,
+      "translated_text": "71. The <s>sādhanāvyāvṛtta</s> (non-exclusion of the probans) is as follows: 'Sound is eternal because of being formless, like <s>karma</s> (action).' Here the <s>sādhya</s>-property 'eternality' is excluded, since <s>karma</s> is non-eternal. But the <s>sādhana</s>-property is not excluded, since <s>karma</s> is formless."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "72. ubhayāvyāvṛtto yathā / nityaḥ śabdo 'mūrttatvādākāśādivaditi / atrākāśādervaidharmyadṛṣṭāntāt sādhyaṃ sādhanaṃ ca na vyāvṛttam //",
-      "segment_number": 94
+      "segment_number": 94,
+      "translated_text": "72. The <s>ubhayāvyāvṛtta</s> (non-exclusion of both) is as follows: 'Sound is eternal because of being formless, like space and such.' Here, from the dissimilarity example of space and such, neither the <s>sādhya</s> nor the <s>sādhana</s> is excluded."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "73. tathā saṃdigdhasādhyavyatirekaḥ saṃdigdhasādhanavyatirekaḥ saṃdigdhobhayavyatirekaśca //",
-      "segment_number": 95
+      "segment_number": 95,
+      "translated_text": "73. Likewise there are <s>saṃdigdhasādhyavyatireka</s> (doubtful exclusion of the probandum), <s>saṃdigdhasādhanavyatireka</s> (doubtful exclusion of the probans), and <s>saṃdigdhobhayavyatireka</s> (doubtful exclusion of both)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "74. saṃdigdhasādhyavyatireko dṛṣṭāntābhāso yathā / asarvajñāḥ kapilādayo 'vidyamānasarvajñatāliṅgabhūtakevalaśāstrakarttṛtvāditi / atra vaidharmyeṇodāharaṇamucyate / yaḥ sarvajñaḥ sa jyotirjñānādikamupadiṣṭavān / tadyathā ṛṣabhavarddhamānādiriti / iha vaidharmyodāharaṇa ukta ṛṣabhavardhamānāderasarvajñatvaṃ vyāvṛttamavyāvṛttaṃ veti saṃdehaḥ //",
-      "segment_number": 96
+      "segment_number": 96,
+      "translated_text": "74. The <s>saṃdigdhasādhyavyatireka</s> (doubtful exclusion of the probandum) <s>dṛṣṭāntābhāsa</s> is as follows: '<s>Kapila</s> and others are not omniscient, because of merely being authors of scriptures that lack the marks of omniscience.' Here the dissimilarity example is stated: 'Whoever is omniscient has taught knowledge of luminaries and such; for example, <s>Ṛṣabha</s>, <s>Vardhamāna</s>, and others.' In this dissimilarity example of <s>Ṛṣabha</s>, <s>Vardhamāna</s>, and others, there is doubt whether non-omniscience is excluded or not excluded."
     },
     {
       "tag": "p",
@@ -651,15 +747,18 @@
             "rend": "it"
           },
           "text": "sādhana",
-          "segment_number": 98
+          "segment_number": 98,
+          "translated_text": "the <s>sādhana</s> (probans)"
         },
         {
           "tag": "text",
           "text": "dharmasya vyāvṛttiḥ saṃdigdhā //",
-          "segment_number": 99
+          "segment_number": 99,
+          "translated_text": "property, is doubtful."
         }
       ],
-      "segment_number": 97
+      "segment_number": 97,
+      "translated_text": "75. The <s>saṃdigdhasādhanavyatireka</s> (doubtful exclusion of the probans) is as follows: Here a Brahmin learned in the three Vedas [argues]: '<s>Kapila</s>, <s>Kaṇāda</s>, and such persons' words should not be accepted, because they possess <s>rāga</s> (passion) and the like.' Here the dissimilarity example is stated: 'Whoever's words should be accepted does not possess passion and the like, such as <s>Gotama</s> and others, the composers of <s>dharmaśāstras</s> (law texts).' From <s>Gotama</s> and others, the exclusion of possessing passion,"
     },
     {
       "tag": "p",
@@ -672,45 +771,53 @@
             "rend": "it"
           },
           "text": "vai",
-          "segment_number": 101
+          "segment_number": 101,
+          "translated_text": "the"
         },
         {
           "tag": "text",
           "text": "dharmyadṛṣṭāntād vītarāgatvaparigrahāgrahayoḥ sādhyasādhanadharmayorvyatireko 'vyatireko veti saṃdehaḥ / prāgalabdhasya vastuno lābhaḥ parigrahaḥ labdhasyāparivarjanamāgrahaḥ / ubhayorapi tayo rṛṣabhe sambhavaḥ / chatracāmaramahādundubhīnāṃ parigrahāgrahaśravaṇāt /",
-          "segment_number": 102
+          "segment_number": 102,
+          "translated_text": "dissimilarity example, there is doubt whether freedom from passion and grasping/clinging to possessions — the <s>sādhya</s> and <s>sādhana</s> properties — are excluded or not. Acquisition of something not previously obtained is grasping (<s>parigraha</s>); non-relinquishment of something already obtained is clinging (<s>āgraha</s>). Both of these are possible regarding <s>Ṛṣabha</s>, since we hear of his grasping and clinging to royal parasols, fly-whisks, and great drums."
         }
       ],
-      "segment_number": 100
+      "segment_number": 100,
+      "translated_text": "76. The <s>saṃdigdhobhayavyatireka</s> (doubtful exclusion of both) is as follows: '<s>Kapila</s> and others are not free from passion, because of grasping and clinging to possessions.' Here the dissimilarity example is stated: 'Whoever is free from passion does not grasp and cling to possessions, like <s>Ṛṣabha</s>, <s>Vardhamāna</s>, and others.' From <s>Ṛṣabha</s> and others,"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "77. avyatireko vaidharmyadṛṣṭāntābhāso 'pradarśitavyatireko viparītavyatirekaśceti //",
-      "segment_number": 103
+      "segment_number": 103,
+      "translated_text": "77. <s>Avyatireka</s> (non-exclusion) is a <s>vaidharmya</s> (dissimilarity) <s>dṛṣṭāntābhāsa</s> (semblance of an example); [likewise] <s>apradarśitavyatireka</s> (unshown exclusion) and <s>viparītavyatireka</s> (reversed exclusion)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "78. avyatireko yathā / kapilādiravītarāgo vaktṛtvāt / yatrāvītarāgatvaṃ nāsti na sa vaktā yathopalakhaṇḍa iti / yadyapīdamupalakhaṇḍādvyāvṛttaṃ tathāpi sarvasmādvītarāgādvaktṛtvaṃ na vyāvṛttaṃ sandehāt //",
-      "segment_number": 104
+      "segment_number": 104,
+      "translated_text": "78. <s>Avyatireka</s> (non-exclusion) is as follows: '<s>Kapila</s> and others are not free from passion, because of being speakers. Wherever there is no non-freedom from passion, that is not a speaker, like a piece of stone.' Although this is excluded from a piece of stone, nevertheless being a speaker is not excluded from every one who is free from passion, due to doubt."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "79. apradarśitavyatireko yathā / anityaḥ śabdaḥ kṛtakatvādākāśādivaditi / paramārthataḥ samyagudāhṛto 'pi vakturaparādhāddṛṣṭāntābhāsaḥ / parārthānumāne vakturguṇadoṣayordvayo rvicāraṇīyatvāt / evaṃ yannityaṃ tatsarvaṃ niyatamakṛtakaṃ dṛśyate yathākāśādiriti vāgvibhāgo vaktrā karttavyaḥ / pūrvavarttino vyatirekasyāpradarśanādapradarśitavyatirekaḥ //",
-      "segment_number": 105
+      "segment_number": 105,
+      "translated_text": "79. <s>Apradarśitavyatireka</s> (unshown exclusion) is as follows: 'Sound is non-eternal, because of being produced, unlike space and such.' Although in ultimate reality this is correctly exemplified, due to the speaker's fault it is a <s>dṛṣṭāntābhāsa</s> (semblance of an example), because in <s>parārthānumāna</s> (inference for others) the merits and faults of the speaker are to be examined. Thus the speaker should make the verbal distinction: 'Whatever is eternal is all invariably seen to be non-produced, like space and such.' Because the preceding exclusion (<s>vyatireka</s>) was not demonstrated, this is an 'unshown exclusion.'"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "80. viparītavyatireko yathā / yadakṛtakaṃ tannityaṃ dṛṣṭamiti / iha tu sādhyaviparīte vyāptirdarśanīyā / tena yadyatsādhyaviparītaṃ tattanniyataṃ sādhanaviparītaṃ bhavet //",
-      "segment_number": 106
+      "segment_number": 106,
+      "translated_text": "80. The inverted exclusion (<s>viparīta vyatireka</s>) is as follows: 'Whatever is not produced is seen to be eternal.' Here, however, the pervasion (<s>vyāpti</s>) must be shown in the opposite of the <s>sādhya</s> (what is to be proved). By that, whatever is the opposite of the <s>sādhya</s>, that must necessarily be the opposite of the <s>sādhana</s> (means of proof)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "81. aṣṭādaśa dṛṣṭāntābhāsā uktāḥ //",
-      "segment_number": 107
+      "segment_number": 107,
+      "translated_text": "81. Eighteen fallacious examples (<s>dṛṣṭāntābhāsas</s>) have been stated."
     },
     {
       "tag": "p",
@@ -723,15 +830,18 @@
             "rend": "it"
           },
           "text": "prati",
-          "segment_number": 109
+          "segment_number": 109,
+          "translated_text": "the"
         },
         {
           "tag": "text",
           "text": "vādī dūṣaṇamupanyasyati / tasya dūṣaṇasya pūrvapakṣavādino 'bhīṣṭārthasiddhau pratibandhakatvātsādhananyūnatodbhāvanameva dūṣaṇamucyate / tasmātsādhanavaddūṣaṇalakṣaṇavibhagāḥ pṛthag noktaḥ //",
-          "segment_number": 110
+          "segment_number": 110,
+          "translated_text": "opponent presents refutation (<s>dūṣaṇa</s>). That refutation, because it obstructs the establishment of the desired object of the <s>pūrvapakṣa</s> (prior thesis) proponent, is called refutation precisely as the demonstration of deficiency in the proof. Therefore, like proof, the separate divisions of the definition of refutation are not stated separately."
         }
       ],
-      "segment_number": 108
+      "segment_number": 108,
+      "translated_text": "82. Through these very semblances of thesis, reason, and example, because of the incompleteness of the proof by the proponent,"
     },
     {
       "tag": "p",
@@ -744,15 +854,18 @@
             "rend": "it"
           },
           "text": "tadā",
-          "segment_number": 112
+          "segment_number": 112,
+          "translated_text": "then"
         },
         {
           "tag": "text",
           "text": "sa dūṣaṇābhāso jātiriti / abhūtadoṣodbhāvanaṃ viparītottaraṃ jātirityucyate / yathā pakṣadoṣābhāve pakṣadoṣodbhāvanaṃ hetudoṣābhāve hetudoṣodbhāvanaṃ dṛṣṭāntadoṣābhāve ca dṛṣṭāntadoṣodbhāvanaṃ dūṣaṇābhāsa iti //",
-          "segment_number": 113
+          "segment_number": 113,
+          "translated_text": "that semblance of refutation is called a futile rejoinder (<s>jāti</s>). The raising of a non-existent fault, a wrong reply, is called <s>jāti</s>. For example, raising a fault of the thesis when there is no fault in the thesis, raising a fault of the reason when there is no fault in the reason, and raising a fault of the example when there is no fault in the example — this is a semblance of refutation."
         }
       ],
-      "segment_number": 111
+      "segment_number": 111,
+      "translated_text": "83. A semblance of refutation (<s>dūṣaṇābhāsa</s>) is called refutation only [erroneously] by the opponent. When he raises a non-existent fault against the <s>pūrvapakṣa</s> proponent,"
     },
     {
       "tag": "p",
@@ -765,105 +878,123 @@
             "rend": "it"
           },
           "text": "udāharaṇam",
-          "segment_number": 115
+          "segment_number": 115,
+          "translated_text": "the example (<s>udāharaṇa</s>),"
         },
         {
           "tag": "text",
           "text": "upanayaḥ nigamanaṃ ceti pañcāvayavaṃ sādhanamiti / yathānityaḥ śabdaḥ iti pratijñā / kṛtakatvāditi hetuḥ / yatkṛtakaṃ sarvaṃ tadanityaṃ dṛṣṭaṃ yathā ghaṭādirityudāharaṇam / tathā śabdo 'pi kṛtaka iti upanayaḥ / tasmādanitya iti nigamanam / dṛṣṭāntapratītasāmarthyasya hetordharmiṇyupasaṃhāra upanaya iti / pratijñāyā punaḥ śravaṇaṃ nigamanamityucyate / maivamanvayo vyatirekaḥ pakṣadharmaśceti trayeṇaiva sādhyārthasiddheḥ //",
-          "segment_number": 116
+          "segment_number": 116,
+          "translated_text": "the application (<s>upanaya</s>), and the conclusion (<s>nigamana</s>) — thus proof consists of five members (<s>pañcāvayava</s>). For example, 'Sound is non-eternal' is the proposition. 'Because of being produced' is the reason. 'Whatever is produced is all seen to be non-eternal, like a pot and such' is the example. 'Sound too is produced' is the application. 'Therefore it is non-eternal' is the conclusion. The application is the subsumption of the reason — whose capacity is understood through the example — under the subject (<s>dharmin</s>). The hearing again of the proposition is called the conclusion. [But we say:] Not so, because the establishment of the object to be proved is accomplished by just three [elements]: positive concomitance (<s>anvaya</s>), negative concomitance (<s>vyatireka</s>), and the property of the subject (<s>pakṣadharma</s>)."
         }
       ],
-      "segment_number": 114
+      "segment_number": 114,
+      "translated_text": "84. Therein, others say: The proposition (<s>pratijñā</s>), the reason (<s>hetu</s>),"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "85. evaṃ vādakāle vyāptipūrvaka eva prayogaḥ / yatkṛtakaṃ sarvaṃ tadanityaṃ dṛṣṭaṃ yathā ghaṭādiriti dṛṣṭānte sādhyasādhanayorvyāptipratipādanamanvaya ityucyate //",
-      "segment_number": 117
+      "segment_number": 117,
+      "translated_text": "85. Thus, at the time of debate, the formulation is always preceded by pervasion (<s>vyāpti</s>). 'Whatever is produced is all seen to be non-eternal, like a pot and such' — the demonstration of pervasion between the <s>sādhya</s> and <s>sādhana</s> in the example is called positive concomitance (<s>anvaya</s>)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "86. vipakṣe punaḥ sādhyavyāvṛttyā sādhanavyāvṛttirvyatireka ityucyate / yathānityatvābhāve kṛtakatvābhāvaḥ syādyathākāśādiḥ //",
-      "segment_number": 118
+      "segment_number": 118,
+      "translated_text": "86. In the dissimilar case (<s>vipakṣa</s>), the exclusion of the means of proof (<s>sādhana</s>) through the exclusion of the property to be proved (<s>sādhya</s>) is called negative concomitance (<s>vyatireka</s>). For example, in the absence of non-eternality, there would be absence of being produced, as in space (<s>ākāśa</s>) and the like."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "87. śabdo 'pi kṛtaka iti pakṣadharma ucyate / pratijñā nigamanaṃ ca sarvathā na vaktavye //",
-      "segment_number": 119
+      "segment_number": 119,
+      "translated_text": "87. 'Sound too is produced' is called the property of the subject (<s>pakṣadharma</s>). The proposition (<s>pratijñā</s>) and conclusion (<s>nigamana</s>) need not be stated at all."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "88. tathā sādharmyaprayoge 'nvayavacanasāmarthyādvyatirekāvagamādayaṃ pṛthag nocyate / yathā yatkṛtakaṃ sarvaṃ tadanityaṃ dṛṣṭaṃ yathā ghaṭādiḥ śabdo 'pi kṛtaka iti sādharmyaprayogaḥ / vaidharmyaprayoge vyatirekavacanasāmarthyādanvayapratītiḥ / atra punaranvayo na vācyaḥ / yannityaṃ tadakṛtakaṃ dṛṣṭaṃ yathākāśādiḥ śabdastu kṛtaka iti vaidharmyaprayogaḥ //",
-      "segment_number": 120
+      "segment_number": 120,
+      "translated_text": "88. Similarly, in the formulation through similarity (<s>sādharmya</s>), because the understanding of negative concomitance (<s>vyatireka</s>) follows from the force of the statement of positive concomitance (<s>anvaya</s>), it need not be stated separately. For example, 'Whatever is produced is all seen to be non-eternal, like a pot and such; sound too is produced' — this is the formulation through similarity. In the formulation through dissimilarity (<s>vaidharmya</s>), the understanding of positive concomitance follows from the force of the statement of negative concomitance. Here, positive concomitance need not be stated again. 'Whatever is eternal is seen to be not produced, like space and such; but sound is produced' — this is the formulation through dissimilarity."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "89. sādhanābhāso dūṣaṇābhāsaścoktaḥ //",
-      "segment_number": 121
+      "segment_number": 121,
+      "translated_text": "89. The semblance of proof (<s>sādhanābhāsa</s>) and the semblance of refutation (<s>dūṣaṇābhāsa</s>) have been stated."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "90. kiṃ nāma pratyakṣamiti / pratyakṣaṃ kalpanāpoḍhamabhrāntam / akṣaṃ pratigatamāśritaṃ yadvijñānaṃ tatpratyakṣam / pañcendriyāśritaṃ jñānamityarthaḥ / atyādayaḥ krāntādyarthe dvitīyayeti samāsenābhidheyaliṅgaḥ pratyakṣaśabdaḥ siddhaḥ / pratyakṣo 'vabodhaḥ pratyakṣā buddhiḥ pratyakṣaṃ jñānaṃ ceti yuktaṃ bhavati //",
-      "segment_number": 122
+      "segment_number": 122,
+      "translated_text": "90. What is called <s>pratyakṣa</s> (direct perception)? <s>Pratyakṣa</s> is free from conceptual construction (<s>kalpanāpoḍha</s>) and non-erroneous (<s>abhrānta</s>). That cognition which has gone to, relied upon the sense faculties (<s>akṣa</s>), is <s>pratyakṣa</s>. The meaning is: knowledge dependent on the five senses. By the rule that prefixes like 'prati' take the accusative in the sense of 'having gone to,' the word <s>pratyakṣa</s> is established in brief as having the gender of its referent. Thus it is proper to say <s>pratyakṣa</s> awareness (masculine), <s>pratyakṣa</s> intellect (feminine), <s>pratyakṣa</s> knowledge (neuter)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "91. cakṣuḥ śrotraṃ nāsikā jihvā kāyaśceti pañcendriyāṇi / tadāśritasya jñānasya pañca grāhyaviṣayā rūpaṃ śabdo gandho rasaḥ spraṣṭavyañceti pañcaiva prameyāṇi //",
-      "segment_number": 123
+      "segment_number": 123,
+      "translated_text": "91. The eye, ear, nose, tongue, and body — these are the five sense faculties (<s>pañcendriyāṇi</s>). The five objects to be apprehended by knowledge dependent on them — form (<s>rūpa</s>), sound (<s>śabda</s>), smell (<s>gandha</s>), taste (<s>rasa</s>), and the tangible (<s>spraṣṭavya</s>) — are the five objects of valid cognition (<s>prameya</s>)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "92. tacca pratyakṣaṃ nāmajātyādikalpanāpoḍhaṃ nirvikalpaṃ vā yadi punarabhrāntaṃ pramāṇamucyate pradarśitārthe 'visaṃvādāt /",
-      "segment_number": 124
+      "segment_number": 124,
+      "translated_text": "92. And that <s>pratyakṣa</s> (direct perception), free from conceptual construction of name, genus, and so forth — that is, <s>nirvikalpaka</s> (non-conceptual) — if moreover non-erroneous, is called a <s>pramāṇa</s> (means of valid knowledge), because it does not deceive regarding the object it presents."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "93. tatra nāmavikalpaḥ devadatto 'yamiti jñānam / jātivikalpo 'yaṃ gauriti jñānam / viśeṣyaviśeṣaṇavikalpo nīlamutpalamiti / anyo 'pi savikalpaḥ pratyakṣābhāsaḥ / vidyamāne 'rthe vibhramastaimirikasya dvicandrajñānam / śuktau rajatajñānam / ayaṃ sthāṇurvā puruṣo veti jñānaṃ ca / jñānāntaramapi pratyakṣābhāsaḥ pradarśitārthāprāpakatvāt //",
-      "segment_number": 125
+      "segment_number": 125,
+      "translated_text": "93. Therein, conceptual construction of name is the cognition 'This is <s>Devadatta</s>.' Conceptual construction of genus is the cognition 'This is a cow.' Conceptual construction of qualificand and qualifier is 'a blue lotus.' Any other conceptual cognition is also a semblance of direct perception (<s>pratyakṣābhāsa</s>). Error regarding an existing object: the cognition of two moons by one with an eye disease (<s>taimirika</s>); the cognition of silver in mother-of-pearl; and the cognition 'This is either a tree-trunk or a person.' Any other such cognition is also a semblance of direct perception, because it does not lead to the object it presents."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "94. tatra pratyakṣaṃ trividham / vyāvahārikamindriyajñānaṃ sarvacittacaittānāmātmasaṃvedanaṃ svasaṃvedanaṃ bhūtārthabhāvanāsphuṭaprakarṣaparyantajaṃ yogijñānaṃ ceti //",
-      "segment_number": 126
+      "segment_number": 126,
+      "translated_text": "94. Therein, <s>pratyakṣa</s> (direct perception) is threefold: conventional sensory knowledge (<s>vyāvahārika indriyajñāna</s>), self-awareness (<s>svasaṃvedana</s>) as the self-cognition of all <s>citta</s> (mind) and <s>caittas</s> (mental factors), and yogic knowledge (<s>yogijñāna</s>) born at the culmination of clear excellence in the cultivation of real objects."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "95. tasya viṣayaḥ svalakṣaṇam / arthakriyāsamarthaṃ svalakṣaṇam / na sāmānyamarthakriyāsamartham /",
-      "segment_number": 127
+      "segment_number": 127,
+      "translated_text": "95. Its object is the <s>svalakṣaṇa</s> (particular characteristic). The <s>svalakṣaṇa</s> is that which is capable of causal efficacy (<s>arthakriyāsamartha</s>). The <s>sāmānya</s> (universal) is not capable of causal efficacy."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "96. tadeva ca pratyakṣaṃ pramāṇamarthapratītirūpatvāt phalamapi / tathātvena ca pramāṇaphalayorna manāgapi bhedaḥ //",
-      "segment_number": 128
+      "segment_number": 128,
+      "translated_text": "96. That very <s>pratyakṣa</s> (direct perception) is both the <s>pramāṇa</s> (means of valid knowledge) and, being of the nature of apprehension of the object, also the <s>phala</s> (result). And as such, there is not the slightest distinction between <s>pramāṇa</s> and <s>phala</s>."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "97. dvividhamanumānaṃ svārthaṃ parārthaṃ ca //",
-      "segment_number": 129
+      "segment_number": 129,
+      "translated_text": "97. <s>Anumāna</s> (inference) is twofold: <s>svārtha</s> (for oneself) and <s>parārtha</s> (for others)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "98. tatra svārthaṃ tāvat pakṣadharmagrahaṇāt sādhyasādhanasambandhasmṛteḥ paścāt pratipatturarthasya yathāvadyā pratītistadeva svārthānumānam //",
-      "segment_number": 130
+      "segment_number": 130,
+      "translated_text": "98. Therein, <s>svārthānumāna</s> (inference for oneself) is as follows: after the apprehension of the <s>pakṣadharma</s> (property of the thesis-subject) and the recollection of the connection between <s>sādhya</s> (what is to be proved) and <s>sādhana</s> (means of proof), the exact cognition of the object for the cognizer—that itself is <s>svārthānumāna</s>."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "99. pakṣadharmastriprakāra eva kāryaṃ svabhāvo 'nupalabdhiśca //",
-      "segment_number": 131
+      "segment_number": 131,
+      "translated_text": "99. The <s>pakṣadharma</s> (property of the thesis-subject) is of three kinds only: <s>kārya</s> (effect), <s>svabhāva</s> (essential nature), and <s>anupalabdhi</s> (non-apprehension)."
     },
     {
       "tag": "p",
@@ -876,81 +1007,95 @@
             "rend": "it"
           },
           "text": "tatra",
-          "segment_number": 133
+          "segment_number": 133,
+          "translated_text": "there,"
         },
         {
           "tag": "text",
           "text": "agniryathā mahānasādau / atrapi dhūmasadbhāvāditi / agnyabhāve dhūmābhāvo yathā sajale deśa iti atra tu dhūmāditi //",
-          "segment_number": 134
+          "segment_number": 134,
+          "translated_text": "there is fire, as in a kitchen and such places. Here too, because of the existence of smoke. In the absence of fire, there is absence of smoke, as in a watery place. Here, however, the inference proceeds from smoke."
         }
       ],
-      "segment_number": 132
+      "segment_number": 132,
+      "translated_text": "100. When the cause-effect relationship is established, the <s>kārya</s> (effect) serves as the <s>hetu</s> (reason). For example, where there is smoke,"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "101. svabhāvo hetuḥ / vṛkṣo 'yaṃ śiṃśapātvāt pūrvavyavahārāpannaśiṃśapāvat / vṛkṣābhāve śiṃśapābhāvo yathā vṛkṣarahite pradeśe / iha punastena vyāpakena rūpeṇa vyāpyo hetuḥ //",
-      "segment_number": 135
+      "segment_number": 135,
+      "translated_text": "101. <s>Svabhāva</s> (essential nature) as <s>hetu</s> (reason): 'This is a tree, because of being a <s>śiṃśapā</s> (Dalbergia sissoo), like a <s>śiṃśapā</s> previously encountered in common usage.' In the absence of treeness, there is absence of <s>śiṃśapā</s>-ness, as in a place devoid of trees. Here, the <s>hetu</s> is the pervaded (<s>vyāpya</s>) in the form of the pervader (<s>vyāpaka</s>)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "102. anupalabdhihetuḥ / atra ghaṭo nāstupalabdhilakṣaṇaprāptasyānupalabdheḥ śaśaviṣāṇādivat / atrāpi yadopalabdhiyogyānupalabdhāvupalabdhiyogyābhāvavyāptirniścīyate tadāyaṃ hetustatpratipādako bhavati //",
-      "segment_number": 136
+      "segment_number": 136,
+      "translated_text": "102. <s>Anupalabdhi</s> (non-apprehension) as <s>hetu</s> (reason): 'There is no pot here, because of the non-apprehension of what fulfills the conditions of apprehension, like a hare's horn and such.' Here too, when it is ascertained that non-apprehension of what is fit to be apprehended is pervaded by the absence of what is fit to be apprehended, then this <s>hetu</s> becomes the demonstrator of that."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "103. kīdṛśā anumānābhāsāḥ / pūrvavaccheṣavatsāmānyatodṛṣṭañca parakalpitāni sarvāṇi anumānānyanumānābhāsāḥ / teṣāṃ tādātmyadutpattilakṣaṇena pratibandhābhāvāt / hetuphalasambandhe vyāpyavyāpakasambandhe ca siddhe sādhyasādhanasambandho bhavati nānyathā visaṃvādakatvāt //",
-      "segment_number": 137
+      "segment_number": 137,
+      "translated_text": "103. What are the <s>anumānābhāsas</s> (semblances of inference) like? All inferences constructed by others, such as <s>pūrvavat</s> (based on prior observation), <s>śeṣavat</s> (based on remainder), and <s>sāmānyatodṛṣṭa</s> (based on general observation), are <s>anumānābhāsas</s>. Because they lack the invariable connection (<s>pratibandha</s>) characterized by identity (<s>tādātmya</s>) or origination (<s>utpatti</s>). When the cause-effect relationship and the pervaded-pervader relationship are established, the connection between <s>sādhya</s> and <s>sādhana</s> obtains, and not otherwise, because it would be deceptive."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "104. yathā megho 'yaṃ vṛṣṭimān dṛśyate / gambhīranirghoṣavattvādityatra gambhīraghoṣavato meghādvṛṣṭyanudbhavasambhavāt /",
-      "segment_number": 138
+      "segment_number": 138,
+      "translated_text": "104. For example: 'This cloud is seen to be rain-bearing, because of having deep rumbling.' Here, because it is possible for rain not to arise from a cloud with deep rumbling,"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "105. yathopariṣṭādvṛṣṭaṃ nadīvṛddhidarśanāditi / nadīnirodhādapi nadīvṛddhidarśanāt //",
-      "segment_number": 139
+      "segment_number": 139,
+      "translated_text": "105. For example: 'It has rained upstream, because of observing the river's rise.' But the rise of a river can also be observed from a dam obstruction."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "106. evamime taṇḍulāḥ siddhā ekapātramadhyavartitvād dṛṣṭataṇḍulavat //",
-      "segment_number": 140
+      "segment_number": 140,
+      "translated_text": "106. Likewise: 'These grains of rice are cooked, because of being in one pot, like previously observed rice.'"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "107. imāni phalāni pakvānyekaśākhāto jātatvādbhuktaphalavadityatra prāyeṇaivaṃ dṛṣṭe 'pi sādhyasādhanayorvisaṃvāda eva //",
-      "segment_number": 141
+      "segment_number": 141,
+      "translated_text": "107. 'These fruits are ripe, because of growing on a single branch, like a previously eaten fruit.' Here, even though this is generally observed, there is only deviation between the <s>sādhya</s> and <s>sādhana</s>."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "108. yatpārthivaṃ tatsarvaṃ lohalekhyaṃ dṛśyate yathā vṛkṣādaya iti / atra vajro 'pi pārthivaḥ //",
-      "segment_number": 142
+      "segment_number": 142,
+      "translated_text": "108. 'Whatever is earthen, all that is seen to be scratchable by iron, like trees and such.' Here, a diamond is also earthen yet not scratchable by iron."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "109. ye prāṇinaste sarve sakandharā yathoṣṭrādaya iti / atra kulīro 'pi prāṇī //",
-      "segment_number": 143
+      "segment_number": 143,
+      "translated_text": "109. 'Those that are living beings, they all have shoulders, like camels and such.' Here, a crab is also a living being yet has no shoulders."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "110. yaddravadravyaṃ tadārdraṃ dṛśyate yathā jalamiti / atra raso 'pi dravadravyam //",
-      "segment_number": 144
+      "segment_number": 144,
+      "translated_text": "110. 'Whatever is a liquid substance, that is seen to be wet, like water.' Here, mercury is also a liquid substance yet is not wet in the same way."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "111. evamanye 'pyanumānābhāsā dṛśyante //",
-      "segment_number": 145
+      "segment_number": 145,
+      "translated_text": "111. Thus other <s>anumānābhāsas</s> (semblances of inference) are also observed."
     },
     {
       "tag": "p",
@@ -962,12 +1107,14 @@
             "rend": "it"
           },
           "text": "iti",
-          "segment_number": 146
+          "segment_number": 146,
+          "translated_text": "Thus,"
         },
         {
           "tag": "text",
           "text": "paṇḍitapravarajitāripādakṛto hetutattvopadeśaḥ sampūrṇaḥ /",
-          "segment_number": 147
+          "segment_number": 147,
+          "translated_text": "The <s>Hetutattvopadeśa</s> (Instruction on the Nature of Reasons), composed by the eminent scholar <s>Jitāri</s>, is complete."
         }
       ]
     },
@@ -975,7 +1122,8 @@
       "tag": "p",
       "attributes": {},
       "text": "bhāratīyopādhyāyena paṇḍitena kumārakalasena bhāṣāntarakārakeṇa bhikṣuṇā śākyaprabheṇa ca bhoṭabhāṣāyāṃ vipariṇamayya saṃśodhya ca vinyastaḥ //",
-      "segment_number": 148
+      "segment_number": 148,
+      "translated_text": "Translated into Tibetan, corrected, and arranged by the Indian preceptor, the scholar <s>Kumārakalasa</s>, and the translator-monk <s>Śākyaprabha</s>."
     }
   ]
 }

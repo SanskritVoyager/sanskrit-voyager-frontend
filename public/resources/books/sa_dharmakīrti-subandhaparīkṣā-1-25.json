@@ -43,73 +43,85 @@
           "tag": "p",
           "attributes": {},
           "text": "Explanatory Remarks",
-          "segment_number": 1
+          "segment_number": 1,
+          "translated_text": "Explanatory Remarks"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "A number of five figures at the left side indicates the location of the key word\nin the basic texts. In the case of the SV, the HB and the VN, the first three figures\nindicate the page number, and the last two indicate the line number (for example,\nSV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the\nPV and the NB, the second figure indicates the chapter number and the last three\nfigures indicate the karika or sutra number (for example, PV02232=PV, the\nPramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra 15.\nIn the case of the SP, the last two figures indicate the karika number (for example,\nSP00015=SP, v.15).",
-          "segment_number": 2
+          "segment_number": 2,
+          "translated_text": "A number of five figures at the left side indicates the location of the key word in the basic texts. In the case of the SV, the HB and the VN, the first three figures indicate the page number, and the last two indicate the line number (for example, SV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the PV and the NB, the second figure indicates the chapter number and the last three figures indicate the <s>kārikā</s> or <s>sūtra</s> number (for example, PV02232=PV, the <s>Pramāṇasiddhi</s>-chapter v.232; NB03015=NB, the <s>Parārthānumāna</s>-chapter <s>sūtra</s> 15. In the case of the SP, the last two figures indicate the <s>kārikā</s> number (for example, SP00015=SP, v.15)."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3. In this database, sentences are artificially divided into word-units, although they\ninvolve a phonetic fusion or union in the basic texts. Further, compound words are\ndivided into their shortest constitutive elements (we use a hyphen to indicate that\nhyphenated elements originally form a compound word) with the following\nexceptions:",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "3. In this database, sentences are artificially divided into word-units, although they involve a phonetic fusion or union in the basic texts. Further, compound words are divided into their shortest constitutive elements (we use a hyphen to indicate that hyphenated elements originally form a compound word) with the following exceptions:"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of attachment to\nwords or compound words.",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": "3.1. The prefixes a-, dur-, niḥ- remain undivided, irrespective of attachment to words or compound words."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But suffixes\nmaking a possessive adjective, for example -vat, -mat, remain undivided, and terms\nsuch as a numeral+ -dha/-vidha/-prakara remain also undivided.",
-          "segment_number": 5
+          "segment_number": 5,
+          "translated_text": "3.2. Suffixes making an adverb, for example -vat, -vaśa, are divided. But suffixes making a possessive adjective, for example -vat, -mat, remain undivided, and terms such as a numeral + -dhā/-vidhā/-prakāra remain also undivided."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta fundamentally\nremain undivided. For example: karyakaranabhava/-bhuta/-ta.",
-          "segment_number": 6
+          "segment_number": 6,
+          "translated_text": "3.3. Compound words with the suffixes -tā/-tva or -bhāva/-bhūta fundamentally remain undivided. For example: <s>kāryakāraṇabhāva</s>/-bhūta/-tā."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the\nwordhead fundamentally remain undivided. For example: evamjatiya, tadutpatti,\ntathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.",
-          "segment_number": 7
+          "segment_number": 7,
+          "translated_text": "3.4. Compound words with evam-, tat-, tathā-, para-, yathā-, su-, sva- in the word-head fundamentally remain undivided. For example: <s>evaṃjātīya</s>, <s>tadutpatti</s>, <s>tathākṛta</s>, <s>paratantra</s>, <s>yathārtha</s>, <s>yathāsvam</s>, <s>sujñānatva</s>, <s>svabhāva</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.5. Some compound words which are regarded as terminology remain also\nundivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,\nparamartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,\nsamtanaparinama, samanyalaksana, svabhavapratibandha.",
-          "segment_number": 8
+          "segment_number": 8,
+          "translated_text": "3.5. Some compound words which are regarded as terminology remain also undivided. For example: <s>agnihotra</s>, <s>ayogavyavaccheda</s>, <s>arthāpatti</s>, <s>padārtha</s>, <s>paramārtha</s>, <s>prasajyapratiṣedha</s>, <s>viruddhavyabhicārin</s>, <s>samanantarapratyaya</s>, <s>saṃtānapariṇāma</s>, <s>sāmānyalakṣaṇa</s>, <s>svabhāvapratibandha</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "4. Those terms whose wordhead is subject to the Sandhi rules (for example, -d\ndhetu-) are cited in their original form (for example, -d *hetu-) for the sake of\nusing this database to make an KWIC index.",
-          "segment_number": 9
+          "segment_number": 9,
+          "translated_text": "4. Those terms whose word-head is subject to the <s>sandhi</s> rules (for example, -d dhetu-) are cited in their original form (for example, -d *hetu-) for the sake of using this database to make a KWIC index."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "1. August. 1997 / Tsukuba\nMotoi ONO",
-          "segment_number": 10
+          "segment_number": 10,
+          "translated_text": "1 August 1997 / Tsukuba — <s>Motoi Ono</s>"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "Note:\n  This database is quite a tentative one, and I must admit that there are a lot of\nerrors and defects in this version. I would appreciate it very much if the user would\npoint out any errors in this version so that we can make a better new version in the\nfuture.",
-          "segment_number": 11
+          "segment_number": 11,
+          "translated_text": "Note: This database is quite a tentative one, and I must admit that there are a lot of errors and defects in this version. I would appreciate it very much if the user would point out any errors in this version so that we can make a better new version in the future."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "E-mail: ono@logos.tsukuba.ac.jp",
-          "segment_number": 12
+          "segment_number": 12,
+          "translated_text": "E-mail: ono@logos.tsukuba.ac.jp"
         }
       ]
     },
@@ -121,7 +133,8 @@
           "tag": "p",
           "attributes": {},
           "text": "00001 pāratantryaṃ hi sambandhaḥ siddhe kā paratantratā\n00001 tasmāt sarvasya bhāvasya sambandho na asti tattvataḥ\n00002 rūpa-śleṣo hi sambandho dvitve sa ca kathaṃ bhavet\n00002 tasmāt prakṛti-bhinnānāṃ sambandho na asti tattvataḥ\n00003 para-apekṣā hi sambandhaḥ so asan katham apekṣate\n00003 saṃś ca sarva-nirāśaṃso bhāvaḥ katham apekṣate\n00004 dvayor eka-abhisambandhāt sambandho yadi tad-dvayoḥ\n00004 kaḥ sambandho anavasthā ca na sambandha-matis tathā\n00005 tau ca bhāvau tad-anyaś ca sarve te sva-ātmani sthitāḥ\n00005 ity amiśrāḥ svayaṃ bhāvās tān miśrayati kalpanā\n00006 tām eva ca anurundhānaiḥ kriyā-kāraka-vācinaḥ\n00006 bhāva-bheda-pratīty-arthaṃ saṃyojyante abhidhāyakāḥ\n00007 kāryakāraṇabhāvo api tayor asahabhāvataḥ\n00007 prasiddhyati kathaṃ dviṣṭho adviṣṭhe sambandhatā katham\n00008 krameṇa bhāva ekatra vartamāṇo anya-nispṛhaḥ\n00008 tadbhāve api tad-bhāvāt sambandho na eka-vṛttimān\n00009 yady apekṣya tayor ekam anyatra asau pravartate\n00009 upakārī hy apekṣyaḥ syāt kathaṃ ca upakaroty asan\n00010 yady eka-artha-abhisambandhāt kāryakāraṇatā tayoḥ\n00010 prāptā dvitva-ādi-sambandhāt savyetara-viśāṇayoḥ\n00011 dviṣṭho hi kaścit sambandho na ato anyat tasya lakṣaṇam\n00011 bhāva-abhāva-upadhir yogaḥ kāryakāraṇatā yadi\n00012 yoga-upādhī na tāv eva kāryakāraṇatā atra kim\n00012 bhedāc cen nanv ayaṃ śabdo niyoktāraṃ samāśritaḥ\n00013 paśyann ekam adṛṣṭasya darśane tad-adarśane\n00013 apaśyat kāryam anveti vinā vyākhyātṛbhir janaḥ\n00014 darśanād adarśane muktvā kārya-buddher asambhavāt\n00014 kārya-ādi-śrutir apy atra lāghava-arthaṃ niveśitā\n00015 tad-bhāva-abhāvāt tat-kārya-gatir yā apy anuvarṇyate\n00015 saṃketa-viṣaya-ākhyā sā sāsnā-āder go-gatir yathā\n00016 bhāve bhāvini tad-bhāvo bhāva eva ca bhāvitā\n00016 prasiddhe hetu-phalate pratyakṣa-anupalambhataḥ\n00017 etāvanmātra-tattva-arthāḥ kārya-kāraṇa-gocarāḥ\n00017 vikalpā darśayanty arthān mithyā-arthā ghaṭitān iva\n00018 bhinne kā ghaṭanā abhinne kāryakāraṇatā api kā\n00018 bhāve hy anyasya viśliṣṭau śilaṣṭau syātāṃ kathaṃ ca tau\n00019 saṃyogi-samavāyya-ādi sarvam etena cintitam\n00019 anyonya-anupakārāc ca na sambandhī ca tādṛśaḥ\n00020 janane api hi kāryasya kenacit samavāyinā\n00020 samavāyī tadā na asau na tato atiprasaṅgataḥ\n00021 tayor anupakāre api samavāye paratra vā\n00021 sambandho yadi viśvaṃ syāt samavāyi parasparam\n00022 saṃyoga-janane api iṣṭau tataḥ saṃyoginau na tau\n00022 karma-ādi-yogita-āpatteḥ sthiteś ca prativarṇitā\n00023 saṃyoga-ādy-āśraye yogyam ayogyaṃ tac ca jāyate\n00023 nityaṃ yogya-svabhāvasya tad-vaikalya-virodhataḥ\n00024 iti tad-yogyatā-vācyaḥ svabhāvo asya nirucyatām\n00024 vibhāga-yoga-gatibhiḥ kim anyair gamana-ādibhiḥ\n00025 teṣu satsv api tasya iti sambandhasya aprasiddhitaḥ\n00025 yuktaḥ svabhāva-bhedo ayam tat pratikṣaṇa-janmanām",
-          "segment_number": 13
+          "segment_number": 13,
+          "translated_text": "[1] For <s>sambandha</s> (relation) is dependence; when [something] is [already] established, what dependence [could there be]? Therefore, for any entity, relation does not truly exist. [2] For relation is the contact of forms; but how could that exist in duality? Therefore, for things different by nature, relation does not truly exist. [3] For relation is dependence on another; being non-existent, how can it depend? And being existent, [as] an entity entirely self-sufficient, how can it depend? [4] If relation [arises] from the connection of one with two, then what is the relation between those two? There would be infinite regress, and thus no cognition of relation. [5] Those two entities and that which is other than them—all of them abide in their own nature; thus, entities are unmixed in themselves; it is <s>kalpanā</s> (conceptual construction) that mixes them. [6] And by those who follow that [conceptual construction], words expressing <s>kriyā</s> (action) and <s>kāraka</s> (agent) are combined as designators for the purpose of cognizing distinctions among entities. [7] Even the <s>kāryakāraṇabhāva</s> (cause-effect relation)—because of the non-coexistence of those two, how is it established as pertaining to two? And in what is not twofold, how can there be relatedness? [8] An entity existing in one [moment] in succession, indifferent to another—even when that [other] exists, since it [already] has its own being, the relation does not pertain to a single occurrence. [9] If, having regard to one of those two, it operates elsewhere, [then] what is to be regarded must be beneficial; but how can what is non-existent be beneficial? [10] If the cause-effect relation of those two [arises] from connection with a single object, then from the relation of duality etc., [it would follow equally] for the left and right horns [of a cow]. [11] For some relation pertains to two; there is no other definition of it. If causality is a connection conditioned by the presence and absence [of entities], [12] those two are not themselves the conditions of connection—what then is causality here? If [you say] due to difference—surely this word depends on one who assigns [meaning]. [13] One who, seeing one [thing], upon seeing what was unseen and upon not seeing that, not seeing [it], follows the effect—people [do this] without commentators. [14] Because the cognition of effect is impossible apart from seeing and not seeing [the cause], the verbal expression 'effect' etc. is introduced here merely for the sake of brevity. [15] The understanding of that as the effect of this, which is described based on its presence and absence, is called a matter of <s>saṃketa</s> (convention), just as the understanding of 'cow' [arises] from the dewlap etc. [16] When something exists and another exists, the being of that [second] is [inferred]; and existence itself is what makes it known. The <s>hetu-phala</s> (cause-fruit) relation is established from <s>pratyakṣa</s> (perception) and <s>anupalambha</s> (non-apprehension). [17] Having only this much as their real meaning, <s>vikalpāḥ</s> (conceptual constructions) pertaining to cause and effect, having false objects, show things as if conjoined. [18] In what is separate, what conjunction is there? In what is non-separate, what cause-effect relation is there either? For when another exists, [they are] disjoined; and how could those two be conjoined? [19] <s>Saṃyoga</s> (contact), <s>samavāya</s> (inherence), and the like—all of this has been considered by this [argument]. And because of mutual non-assistance, nothing has such relations. [20] For even in the production of an effect by some inherent [cause], that [cause] is not then inherent [in the effect]; otherwise there would be over-extension. [21] Even when those two do not assist each other, if there were relation in <s>samavāya</s> (inherence) or elsewhere, then everything would be mutually inherent. [22] Even if [they are] accepted in the production of <s>saṃyoga</s> (contact), they are therefore not in contact, because of the unwanted consequence of connection with <s>karma</s> (action) etc.; and persistence has been refuted. [23] In the substratum of contact etc., what is capable and what is incapable are both produced, [which contradicts] the permanently capable nature [of the substratum], because of the conflict with the absence of that [capacity]. [24] Thus, let the <s>svabhāva</s> (intrinsic nature) of this, which is to be expressed as that capacity, be explained. What [need is there] for other [explanations like] movement etc., through the processes of separation and conjunction? [25] Even when those [entities] exist, because of the non-establishment of that relation, this difference in <s>svabhāva</s> (intrinsic nature) is fitting—for that [applies] to things born at every moment."
         }
       ]
     }

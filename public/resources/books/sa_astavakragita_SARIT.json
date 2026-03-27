@@ -529,7 +529,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 1",
-          "segment_number": 1
+          "segment_number": 1,
+          "translated_text": "Chapter 1"
         },
         {
           "tag": "p",
@@ -540,7 +541,8 @@
                 "rend": "bold"
               },
               "text": "|| atha śrīmadaṣṭāvakragītā||",
-              "segment_number": 2
+              "segment_number": 2,
+              "translated_text": "|| Now begins the blessed <s>Aṣṭāvakra Gītā</s> ||"
             }
           ]
         },
@@ -553,7 +555,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||1||",
-              "segment_number": 3
+              "segment_number": 3,
+              "translated_text": "<s>Janaka</s> said ||1||"
             }
           ]
         },
@@ -566,12 +569,14 @@
                 "id": "verse_1.1"
               },
               "text": "kathaṃ jñānamavāpnoti kathaṃ muktirbhaviṣyati|",
-              "segment_number": 4
+              "segment_number": 4,
+              "translated_text": "How is <s>jñāna</s> (knowledge) attained? How will <s>mukti</s> (liberation) come about?"
             },
             {
               "tag": "l",
               "text": "vairāgyaṃ ca kathaṃ prāptametadbrūhi mama prabho||1|1||",
-              "segment_number": 5
+              "segment_number": 5,
+              "translated_text": "And how is <s>vairāgya</s> (dispassion) obtained? Tell me this, O Lord. ||1|1||"
             }
           ]
         },
@@ -584,7 +589,8 @@
                 "rend": "bold"
               },
               "text": "aṣṭāvakra uvāca||",
-              "segment_number": 6
+              "segment_number": 6,
+              "translated_text": "<s>Aṣṭāvakra</s> said ||"
             }
           ]
         },
@@ -597,12 +603,14 @@
             {
               "tag": "l",
               "text": "muktimicchasi cettāta viṣayānviṣavattyaja|",
-              "segment_number": 7
+              "segment_number": 7,
+              "translated_text": "If you desire <s>mukti</s> (liberation), my child, shun sense-objects as poison,"
             },
             {
               "tag": "l",
               "text": "kṣamārjavadayātoṣasatyaṃ pīyūṣavadbhaja||1|2||",
-              "segment_number": 8
+              "segment_number": 8,
+              "translated_text": "and cultivate forgiveness, sincerity, compassion, contentment, and truth as nectar. ||1|2||"
             }
           ]
         },
@@ -615,12 +623,14 @@
             {
               "tag": "l",
               "text": "na pṛthvī na jalaṃ nāgnirna vāyurdyaurna vā bhavān|",
-              "segment_number": 9
+              "segment_number": 9,
+              "translated_text": "You are neither earth, nor water, nor fire, nor air, nor space,"
             },
             {
               "tag": "l",
               "text": "eṣāṃ sākṣiṇamātmānaṃ cidrūpaṃ viddhi muktaye||1|3||",
-              "segment_number": 10
+              "segment_number": 10,
+              "translated_text": "know the <s>Ātman</s> (Self) as the witness of all these, of the nature of <s>Cit</s> (consciousness), for the sake of liberation. ||1|3||"
             }
           ]
         },
@@ -633,12 +643,14 @@
             {
               "tag": "l",
               "text": "yadi dehaṃ pṛthakkṛtya citi viśrāmya tiṣṭhasi|",
-              "segment_number": 11
+              "segment_number": 11,
+              "translated_text": "If you detach yourself from the body and rest in <s>Citi</s> (consciousness),"
             },
             {
               "tag": "l",
               "text": "adhunaiva sukhī śānto bandhamukto bhaviṣyasi||1|4||",
-              "segment_number": 12
+              "segment_number": 12,
+              "translated_text": "you will at once become happy, peaceful, and free from bondage. ||1|4||"
             }
           ]
         },
@@ -651,12 +663,14 @@
             {
               "tag": "l",
               "text": "na tvaṃ viprādiko varṇo nāśramī nākṣagocaraḥ|",
-              "segment_number": 13
+              "segment_number": 13,
+              "translated_text": "You are not a <s>brāhmaṇa</s> or any other <s>varṇa</s> (caste), you do not belong to any <s>āśrama</s> (stage of life), nor are you perceived by the senses."
             },
             {
               "tag": "l",
               "text": "asaṅgo+asi nirākāro viśvasākṣī sukhī bhava||1|5||",
-              "segment_number": 14
+              "segment_number": 14,
+              "translated_text": "You are unattached and formless, the witness of the universe — be happy. ||1|5||"
             }
           ]
         },
@@ -669,12 +683,14 @@
             {
               "tag": "l",
               "text": "dharmādharmau sukhaṃ duḥkhaṃ mānasāni na te bibho|",
-              "segment_number": 15
+              "segment_number": 15,
+              "translated_text": "<s>Dharma</s> (virtue) and <s>adharma</s> (vice), pleasure and pain are of the mind, not yours, O all-pervading one."
             },
             {
               "tag": "l",
               "text": "na kartā+asi na bhoktā+asi mukta evā+asi sarvadā||1|6||",
-              "segment_number": 16
+              "segment_number": 16,
+              "translated_text": "You are neither the doer nor the enjoyer — you are ever free indeed. ||1|6||"
             }
           ]
         },
@@ -687,12 +703,14 @@
             {
               "tag": "l",
               "text": "eko draṣṭā+asi sarvasya muktaprāyo+asi sarvadā|",
-              "segment_number": 17
+              "segment_number": 17,
+              "translated_text": "You are the one seer of all, and you are indeed always nearly free."
             },
             {
               "tag": "l",
               "text": "ayameva hi te bandho draṣṭāraṃ paśyasītaram||1|7||",
-              "segment_number": 18
+              "segment_number": 18,
+              "translated_text": "Your only bondage is this: that you see the seer as other than yourself. ||1|7||"
             }
           ]
         },
@@ -705,12 +723,14 @@
             {
               "tag": "l",
               "text": "ahaṃ kartetyahammānamahākṛṣṇāhidaṃśitaḥ|",
-              "segment_number": 19
+              "segment_number": 19,
+              "translated_text": "Bitten by the great black serpent of ego-sense, thinking 'I am the doer,'"
             },
             {
               "tag": "l",
               "text": "nāhaṃ karteti viśvāsāmṛtaṃ pītvā sukhī bhava||1|8||",
-              "segment_number": 20
+              "segment_number": 20,
+              "translated_text": "drink the nectar of the conviction 'I am not the doer,' and be happy. ||1|8||"
             }
           ]
         },
@@ -723,12 +743,14 @@
             {
               "tag": "l",
               "text": "eko viśuddhabodho+ahamiti niścayavahninā|",
-              "segment_number": 21
+              "segment_number": 21,
+              "translated_text": "With the fire of the conviction 'I am the one pure consciousness,'"
             },
             {
               "tag": "l",
               "text": "prajvālyājñānagahanaṃ vītaśokaḥ sukhī bhava||1|9||",
-              "segment_number": 22
+              "segment_number": 22,
+              "translated_text": "burn down the forest of ignorance, and being free from sorrow, be happy. ||1|9||"
             }
           ]
         },
@@ -741,12 +763,14 @@
             {
               "tag": "l",
               "text": "yatra viśvamidaṃ bhāti kalpitaṃ rajjusarpavat|",
-              "segment_number": 23
+              "segment_number": 23,
+              "translated_text": "That in which this universe appears, superimposed like a snake on a rope —"
             },
             {
               "tag": "l",
               "text": "ānandaparamānandaḥ sa bodhastvaṃ sukhaṃ cara||1|10||",
-              "segment_number": 24
+              "segment_number": 24,
+              "translated_text": "that is bliss, supreme bliss, that consciousness you are — live happily. ||1|10||"
             }
           ]
         },
@@ -759,12 +783,14 @@
             {
               "tag": "l",
               "text": "muktābhimānī mukto hi baddho baddhābhimānyapi|",
-              "segment_number": 25
+              "segment_number": 25,
+              "translated_text": "One who considers oneself free is indeed free; one who considers oneself bound is indeed bound."
             },
             {
               "tag": "l",
               "text": "kiṃvadantīha satyeyaṃ yā matiḥ sā gatirbhavet||1|11||",
-              "segment_number": 26
+              "segment_number": 26,
+              "translated_text": "The popular saying is true here: 'As one thinks, so one becomes.' ||1|11||"
             }
           ]
         },
@@ -777,7 +803,8 @@
             {
               "tag": "l",
               "text": "ātmā sākṣī vibhuḥ pūrṇa eko muktaścidakriyaḥ|",
-              "segment_number": 27
+              "segment_number": 27,
+              "translated_text": "The <s>Ātman</s> (Self) is the witness, all-pervading, complete, one, free, consciousness, actionless,"
             }
           ]
         },
@@ -790,17 +817,20 @@
             {
               "tag": "l",
               "text": "asaṅgo niḥspṛhaḥ śānto bhramātsaṃsāravāniva||1|12||",
-              "segment_number": 28
+              "segment_number": 28,
+              "translated_text": "unattached, desireless, peaceful — it only appears as if in <s>saṃsāra</s> (worldly existence) through delusion. ||1|12||"
             },
             {
               "tag": "l",
               "text": "kūṭasthaṃ bodhamadvaitamātmānaṃ paribhāvaya|",
-              "segment_number": 29
+              "segment_number": 29,
+              "translated_text": "Meditate on the <s>Ātman</s> (Self) as immutable, consciousness, non-dual,"
             },
             {
               "tag": "l",
               "text": "ābhāso+ahaṃ bhramaṃ muktvā bhāvaṃ bāhyamathāntaram||1|13||",
-              "segment_number": 30
+              "segment_number": 30,
+              "translated_text": "having abandoned the illusion of being a mere reflection, and all notions external and internal. ||1|13||"
             }
           ]
         },
@@ -813,12 +843,14 @@
             {
               "tag": "l",
               "text": "dehābhimānapāśena ciraṃ baddho+asi putraka|",
-              "segment_number": 31
+              "segment_number": 31,
+              "translated_text": "For long have you been bound by the noose of identification with the body, O child."
             },
             {
               "tag": "l",
               "text": "bodho+ahaṃ jñānakhaḍgena tanniṣkṛtya sukhī bhava||1|14||",
-              "segment_number": 32
+              "segment_number": 32,
+              "translated_text": "Sever that with the sword of the knowledge 'I am consciousness,' and be happy. ||1|14||"
             }
           ]
         },
@@ -831,12 +863,14 @@
             {
               "tag": "l",
               "text": "niḥsaṅgo niṣkriyo+asi tvaṃ svaprakāśo nirañjanaḥ|",
-              "segment_number": 33
+              "segment_number": 33,
+              "translated_text": "You are unattached, actionless, self-luminous, and untainted."
             },
             {
               "tag": "l",
               "text": "ayameva hi te bandhaḥ samādhimanutiṣṭhasi||1|15||",
-              "segment_number": 34
+              "segment_number": 34,
+              "translated_text": "This indeed is your bondage: that you practice <s>samādhi</s> (meditative absorption). ||1|15||"
             }
           ]
         },
@@ -849,12 +883,14 @@
             {
               "tag": "l",
               "text": "tvayā vyāptamidaṃ viśvaṃ tvayi protaṃ yathārthataḥ|",
-              "segment_number": 35
+              "segment_number": 35,
+              "translated_text": "By you is this universe pervaded; in you it is truly strung."
             },
             {
               "tag": "l",
               "text": "śuddhabuddhasvarūpastvaṃ mā gamaḥ kṣudracittatām||1|16||",
-              "segment_number": 36
+              "segment_number": 36,
+              "translated_text": "You are of the nature of pure consciousness — do not be small-minded. ||1|16||"
             }
           ]
         },
@@ -867,12 +903,14 @@
             {
               "tag": "l",
               "text": "nirapekṣo nirvikāro nirbharaḥ śītalāśayaḥ|",
-              "segment_number": 37
+              "segment_number": 37,
+              "translated_text": "Be free from expectation, free from modification, self-sufficient, of cool disposition,"
             },
             {
               "tag": "l",
               "text": "agādhabuddhirakṣubdho bhava cinmātravāsanaḥ||1|17||",
-              "segment_number": 38
+              "segment_number": 38,
+              "translated_text": "of unfathomable intelligence, unperturbed — abide with <s>Cit</s> (consciousness) as your only inclination. ||1|17||"
             }
           ]
         },
@@ -885,12 +923,14 @@
             {
               "tag": "l",
               "text": "sākāramanṛtaṃ viddhi nirākāraṃ tu niścalam|",
-              "segment_number": 39
+              "segment_number": 39,
+              "translated_text": "Know that which has form to be unreal, and the formless to be immutable."
             },
             {
               "tag": "l",
               "text": "etattattvopadeśena na punarbhavasaṃbhavaḥ||1|18||",
-              "segment_number": 40
+              "segment_number": 40,
+              "translated_text": "Through this teaching of truth, there is no possibility of rebirth. ||1|18||"
             }
           ]
         },
@@ -903,12 +943,14 @@
             {
               "tag": "l",
               "text": "yathaivādarśamadhyasthe rūpe+antaḥ paritastu saḥ|",
-              "segment_number": 41
+              "segment_number": 41,
+              "translated_text": "Just as a reflection exists within a mirror, yet the mirror pervades both inside and out,"
             },
             {
               "tag": "l",
               "text": "tathaivā+asmiñcharīre+antaḥ paritaḥ parameśvaraḥ||1|19||",
-              "segment_number": 42
+              "segment_number": 42,
+              "translated_text": "so too the Supreme Lord exists within and all around this body. ||1|19||"
             }
           ]
         },
@@ -921,12 +963,14 @@
             {
               "tag": "l",
               "text": "ekaṃ sarvagataṃ vyoma bahirantaryathā ghaṭe|",
-              "segment_number": 43
+              "segment_number": 43,
+              "translated_text": "Just as the one all-pervading space is both inside and outside a pot,"
             },
             {
               "tag": "l",
               "text": "nityaṃ nirantaraṃ brahma sarvabhūtagaṇe tathā||1|20||",
-              "segment_number": 44
+              "segment_number": 44,
+              "translated_text": "so the eternal, unbroken <s>Brahman</s> exists in all beings likewise. ||1|20||"
             }
           ]
         }
@@ -941,7 +985,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 2",
-          "segment_number": 45
+          "segment_number": 45,
+          "translated_text": "Chapter 2"
         },
         {
           "tag": "p",
@@ -952,7 +997,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||2||",
-              "segment_number": 46
+              "segment_number": 46,
+              "translated_text": "<s>Janaka</s> said ||2||"
             }
           ]
         },
@@ -965,12 +1011,14 @@
             {
               "tag": "l",
               "text": "aho nirañjanaḥ śānto bodho+ahaṃ prakṛteḥ paraḥ|",
-              "segment_number": 47
+              "segment_number": 47,
+              "translated_text": "Ah! I am untainted, peaceful, consciousness, beyond <s>Prakṛti</s> (primordial nature)."
             },
             {
               "tag": "l",
               "text": "etāvantamahaṃ kālaṃ mohenaiva viḍambitaḥ||2|1||",
-              "segment_number": 48
+              "segment_number": 48,
+              "translated_text": "For all this time, I have been deceived by delusion alone. ||2|1||"
             }
           ]
         },
@@ -983,12 +1031,14 @@
             {
               "tag": "l",
               "text": "yathā prakāśayāmyeko dehamenaṃ tathā jagat|",
-              "segment_number": 49
+              "segment_number": 49,
+              "translated_text": "Just as I alone illuminate this body, so too the world."
             },
             {
               "tag": "l",
               "text": "ato mama jagatsarvamathavā na ca kiñcana||2|2||",
-              "segment_number": 50
+              "segment_number": 50,
+              "translated_text": "Therefore either the whole universe is mine, or nothing at all is. ||2|2||"
             }
           ]
         },
@@ -1001,12 +1051,14 @@
             {
               "tag": "l",
               "text": "saśarīramaho viśvaṃ parityajya mayā+adhunā|",
-              "segment_number": 51
+              "segment_number": 51,
+              "translated_text": "Ah! Having now abandoned the universe along with the body,"
             },
             {
               "tag": "l",
               "text": "kutaścitkauśalādeva paramātmā vilokyate||2|3||",
-              "segment_number": 52
+              "segment_number": 52,
+              "translated_text": "by some skill, the <s>Paramātman</s> (Supreme Self) is perceived. ||2|3||"
             }
           ]
         },
@@ -1019,12 +1071,14 @@
             {
               "tag": "l",
               "text": "yathā na toyato bhinnāstaraṅgāḥ phenabudbudāḥ|",
-              "segment_number": 53
+              "segment_number": 53,
+              "translated_text": "Just as waves, foam, and bubbles are not different from water,"
             },
             {
               "tag": "l",
               "text": "ātmano na tathā bhinnaṃ viśvamātmavinirgatam||2|4||",
-              "segment_number": 54
+              "segment_number": 54,
+              "translated_text": "so too the universe, which has emerged from the <s>Ātman</s> (Self), is not different from the <s>Ātman</s>. ||2|4||"
             }
           ]
         },
@@ -1037,12 +1091,14 @@
             {
               "tag": "l",
               "text": "tantumātro bhavedeva paṭo yadvadvicārataḥ|",
-              "segment_number": 55
+              "segment_number": 55,
+              "translated_text": "Upon inquiry, a cloth is indeed nothing but thread,"
             },
             {
               "tag": "l",
               "text": "ātmatanmātramevedaṃ tadvadviśvaṃ vicāritam||2|5||",
-              "segment_number": 56
+              "segment_number": 56,
+              "translated_text": "so too, upon inquiry, this universe is nothing but the <s>Ātman</s> (Self). ||2|5||"
             }
           ]
         },
@@ -1055,12 +1111,14 @@
             {
               "tag": "l",
               "text": "yathaivekṣurase kḷptā tena vyāptaiva śarkarā|",
-              "segment_number": 57
+              "segment_number": 57,
+              "translated_text": "Just as sugar produced from sugarcane juice is wholly pervaded by it,"
             },
             {
               "tag": "l",
               "text": "tathā viśvaṃ mayi kḷptaṃ mayā vyāptaṃ nirantaram||2|6||",
-              "segment_number": 58
+              "segment_number": 58,
+              "translated_text": "so too the universe, produced in me, is pervaded by me without interruption. ||2|6||"
             }
           ]
         },
@@ -1073,12 +1131,14 @@
             {
               "tag": "l",
               "text": "ātmājñānājjagadbhāti hātmajñānānna bhāsate|",
-              "segment_number": 59
+              "segment_number": 59,
+              "translated_text": "From ignorance of the <s>Ātman</s> (Self) the world appears; from knowledge of the <s>Ātman</s> it does not appear,"
             },
             {
               "tag": "l",
               "text": "rajjvajñānādahirbhāti tajjñānādbhāsate na hi||2|7||",
-              "segment_number": 60
+              "segment_number": 60,
+              "translated_text": "from ignorance of the rope, a snake appears; from knowledge of it, it does not appear indeed. ||2|7||"
             }
           ]
         },
@@ -1091,12 +1151,14 @@
             {
               "tag": "l",
               "text": "prakāśo me nijaṃ rūpaṃ nātirikto+asmyahaṃ tataḥ|",
-              "segment_number": 61
+              "segment_number": 61,
+              "translated_text": "Light is my own nature — I am not other than that."
             },
             {
               "tag": "l",
               "text": "yadā prakāśate viśvaṃ tadā+ahambhāsa eva hi||2|8||",
-              "segment_number": 62
+              "segment_number": 62,
+              "translated_text": "When the universe shines forth, it is indeed I alone who shine. ||2|8||"
             }
           ]
         },
@@ -1109,12 +1171,14 @@
             {
               "tag": "l",
               "text": "aho vikalpitaṃ viśvamajñānānmayi bhāsate|",
-              "segment_number": 63
+              "segment_number": 63,
+              "translated_text": "Ah! The universe appears in me through ignorance, superimposed,"
             },
             {
               "tag": "l",
               "text": "rūpyaṃ śuktau phaṇī rajjau vāri sūryakare yathā||2|9||",
-              "segment_number": 64
+              "segment_number": 64,
+              "translated_text": "like silver in a shell, like a snake in a rope, like water in a sunbeam. ||2|9||"
             }
           ]
         },
@@ -1127,12 +1191,14 @@
             {
               "tag": "l",
               "text": "matto vinirgataṃ viśvaṃ mayyeva layameṣyati|",
-              "segment_number": 65
+              "segment_number": 65,
+              "translated_text": "The universe has arisen from me and will dissolve back into me alone,"
             },
             {
               "tag": "l",
               "text": "mṛdi kumbho jale vīciḥ kanake kaṭakaṃ yathā||2|10||",
-              "segment_number": 66
+              "segment_number": 66,
+              "translated_text": "as a pot into clay, a wave into water, a bracelet into gold. ||2|10||"
             }
           ]
         },
@@ -1145,12 +1211,14 @@
             {
               "tag": "l",
               "text": "aho ahaṃ namo mahyaṃ vināśo yasya nāsti me|",
-              "segment_number": 67
+              "segment_number": 67,
+              "translated_text": "Ah! I bow to myself! For whom there is no destruction,"
             },
             {
               "tag": "l",
               "text": "brahmādistambaparyantaṃ jagannāśe+api tiṣṭhataḥ||2|11||",
-              "segment_number": 68
+              "segment_number": 68,
+              "translated_text": "who persists even when the world from <s>Brahmā</s> down to a blade of grass is destroyed. ||2|11||"
             }
           ]
         },
@@ -1163,12 +1231,14 @@
             {
               "tag": "l",
               "text": "aho ahaṃ namo mahyameko+ahaṃ dehavānapi|",
-              "segment_number": 69
+              "segment_number": 69,
+              "translated_text": "Ah! I bow to myself! I am one, though embodied,"
             },
             {
               "tag": "l",
               "text": "kvacinna gantā nāgantā vyāpya viśvamavasthitaḥ||2|12||",
-              "segment_number": 70
+              "segment_number": 70,
+              "translated_text": "neither going anywhere nor coming, yet pervading the universe I abide. ||2|12||"
             }
           ]
         },
@@ -1181,12 +1251,14 @@
             {
               "tag": "l",
               "text": "aho ahaṃ namo mahyaṃ dakṣo nāstīha matsamaḥ|",
-              "segment_number": 71
+              "segment_number": 71,
+              "translated_text": "Ah! I bow to myself! There is none as skilled as I,"
             },
             {
               "tag": "l",
               "text": "asaṃspṛśya śarīreṇa yena viśvaṃ ciraṃ dhṛtam||2|13||",
-              "segment_number": 72
+              "segment_number": 72,
+              "translated_text": "who has sustained the universe for all time without even touching it with the body. ||2|13||"
             }
           ]
         },
@@ -1199,12 +1271,14 @@
             {
               "tag": "l",
               "text": "aho ahaṃ namo mahyaṃ yasya me nāsti kiñcana|",
-              "segment_number": 73
+              "segment_number": 73,
+              "translated_text": "Ah! I bow to myself, to whom nothing belongs,"
             },
             {
               "tag": "l",
               "text": "athavā yasya me sarvaṃ yadvāṅmanasagocaram||2|14||",
-              "segment_number": 74
+              "segment_number": 74,
+              "translated_text": "or to whom everything belongs that is within the reach of speech and mind. ||2|14||"
             }
           ]
         },
@@ -1217,12 +1291,14 @@
             {
               "tag": "l",
               "text": "jñānaṃ jñeyaṃ tathā jñātā tritayaṃ nāsti vāstavam|",
-              "segment_number": 75
+              "segment_number": 75,
+              "translated_text": "Knowledge, the knowable, and the knower — this triad does not truly exist."
             },
             {
               "tag": "l",
               "text": "ajñānādbhāti yatredaṃ so+ahamasmi nirañjanaḥ||2|15||",
-              "segment_number": 76
+              "segment_number": 76,
+              "translated_text": "I am that stainless one in whom this triad appears through ignorance. ||2|15||"
             }
           ]
         },
@@ -1235,12 +1311,14 @@
             {
               "tag": "l",
               "text": "dvaitamūlamaho duḥkhaṃ nānyattasyā+asti bheṣajam|",
-              "segment_number": 77
+              "segment_number": 77,
+              "translated_text": "Ah! Duality is the root of suffering — there is no other remedy for it."
             },
             {
               "tag": "l",
               "text": "dṛśyametanmṛṣā sarvameko+ahaṃ cidraso+amalaḥ||2|16||",
-              "segment_number": 78
+              "segment_number": 78,
+              "translated_text": "All this that is seen is unreal — I am one, of the essence of consciousness, and pure. ||2|16||"
             }
           ]
         },
@@ -1253,12 +1331,14 @@
             {
               "tag": "l",
               "text": "bodhamātro+ahamajñānādupādhiḥ kalpito mayā|",
-              "segment_number": 79
+              "segment_number": 79,
+              "translated_text": "I am pure awareness alone — through ignorance, limiting adjuncts have been imagined by me."
             },
             {
               "tag": "l",
               "text": "evaṃ vimṛśato nityaṃ nirvikalpe sthitirmama||2|17||",
-              "segment_number": 80
+              "segment_number": 80,
+              "translated_text": "Thus reflecting constantly, my abidance is in the unconditioned state. ||2|17||"
             }
           ]
         },
@@ -1271,12 +1351,14 @@
             {
               "tag": "l",
               "text": "aho mayi sthitaṃ viśvaṃ vastuto na mayi sthitam|",
-              "segment_number": 81
+              "segment_number": 81,
+              "translated_text": "Ah! The universe exists in me, yet in truth it does not exist in me."
             },
             {
               "tag": "l",
               "text": "na me bandho+asti mokṣo vā bhrāntiḥ śāntā nirāśrayā||2|18||",
-              "segment_number": 82
+              "segment_number": 82,
+              "translated_text": "I have neither bondage nor liberation — the illusion has come to rest, without any support. ||2|18||"
             }
           ]
         },
@@ -1289,12 +1371,14 @@
             {
               "tag": "l",
               "text": "saśarīramidaṃ viśvaṃ na kiñciditi niścitam|",
-              "segment_number": 83
+              "segment_number": 83,
+              "translated_text": "This universe along with the body has been ascertained to be nothing."
             },
             {
               "tag": "l",
               "text": "śuddhacinmātra ātmā ca tatkasminkalpanādhunā||2|19||",
-              "segment_number": 84
+              "segment_number": 84,
+              "translated_text": "The <s>Ātman</s> (Self) is pure consciousness alone — upon what then is there any imagining now? ||2|19||"
             }
           ]
         },
@@ -1307,12 +1391,14 @@
             {
               "tag": "l",
               "text": "śarīraṃ svarganarakau bandhamokṣau bhayaṃ tathā|",
-              "segment_number": 85
+              "segment_number": 85,
+              "translated_text": "The body, heaven and hell, bondage and liberation, as well as fear —"
             },
             {
               "tag": "l",
               "text": "kalpanāmātramevaitatkiṃ me kāryaṃ cidātmanaḥ||2|20||",
-              "segment_number": 86
+              "segment_number": 86,
+              "translated_text": "all this is mere imagination. What concern is any of it to me, whose nature is consciousness? ||2|20||"
             }
           ]
         },
@@ -1325,12 +1411,14 @@
             {
               "tag": "l",
               "text": "aho janasamūhe+api na dvaitaṃ paśyato mama|",
-              "segment_number": 87
+              "segment_number": 87,
+              "translated_text": "Ah! Even in the midst of a multitude of people, I see no duality."
             },
             {
               "tag": "l",
               "text": "araṇyamiva saṃvṛttaṃ kva ratiṃ karavāṇyaham||2|21||",
-              "segment_number": 88
+              "segment_number": 88,
+              "translated_text": "It has become like a forest — in what shall I take delight? ||2|21||"
             }
           ]
         },
@@ -1343,12 +1431,14 @@
             {
               "tag": "l",
               "text": "nāhaṃ deho na me deho jīvo nāhamahaṃ hi cit|",
-              "segment_number": 89
+              "segment_number": 89,
+              "translated_text": "I am not the body, nor is the body mine; I am not the <s>jīva</s> (individual soul) — I am <s>Cit</s> (consciousness)."
             },
             {
               "tag": "l",
               "text": "ayameva hi me bandha āsīdyā jīvite spṛhā||2|22||",
-              "segment_number": 90
+              "segment_number": 90,
+              "translated_text": "This indeed was my bondage: the desire for life. ||2|22||"
             }
           ]
         },
@@ -1361,12 +1451,14 @@
             {
               "tag": "l",
               "text": "aho bhuvanakallolairvicitrairdrāksamutthitam|",
-              "segment_number": 91
+              "segment_number": 91,
+              "translated_text": "Ah! In me, the infinite ocean, the manifold waves of the universe arise suddenly,"
             },
             {
               "tag": "l",
               "text": "mayyanantamahāmbhodhau cittavāte samudyate||2|23||",
-              "segment_number": 92
+              "segment_number": 92,
+              "translated_text": "as the wind of the mind stirs up. ||2|23||"
             }
           ]
         },
@@ -1379,12 +1471,14 @@
             {
               "tag": "l",
               "text": "mayyanantamahāmbhodhau cittavāte praśāmyati|",
-              "segment_number": 93
+              "segment_number": 93,
+              "translated_text": "In me, the infinite ocean, when the wind of the mind subsides,"
             },
             {
               "tag": "l",
               "text": "abhāgyājjīvavaṇijo jagatpoto vinaśvaraḥ||2|24||",
-              "segment_number": 94
+              "segment_number": 94,
+              "translated_text": "the merchant-vessel of the <s>jīva</s> (individual soul), bearing the world, is wrecked by misfortune. ||2|24||"
             }
           ]
         },
@@ -1397,12 +1491,14 @@
             {
               "tag": "l",
               "text": "mayyanantamahāmbhodhāvāścaryaṃ jīvavīcayaḥ|",
-              "segment_number": 95
+              "segment_number": 95,
+              "translated_text": "In me, the infinite ocean, how wonderful — the waves of <s>jīvas</s> (individual souls)"
             },
             {
               "tag": "l",
               "text": "udyanti ghnanti khelanti praviśanti svabhāvataḥ||2|25||",
-              "segment_number": 96
+              "segment_number": 96,
+              "translated_text": "arise, clash, play, and merge back, according to their nature. ||2|25||"
             }
           ]
         }
@@ -1417,7 +1513,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 3",
-          "segment_number": 97
+          "segment_number": 97,
+          "translated_text": "Chapter 3"
         },
         {
           "tag": "p",
@@ -1428,7 +1525,8 @@
                 "rend": "bold"
               },
               "text": "aṣṭāvakra uvāca||3||",
-              "segment_number": 98
+              "segment_number": 98,
+              "translated_text": "<s>Aṣṭāvakra</s> said ||3||"
             }
           ]
         },
@@ -1441,12 +1539,14 @@
             {
               "tag": "l",
               "text": "avināśinamātmānamekaṃ vijñāya tattvataḥ|",
-              "segment_number": 99
+              "segment_number": 99,
+              "translated_text": "Having truly known the <s>Ātman</s> (Self) to be indestructible and one,"
             },
             {
               "tag": "l",
               "text": "tavātmajñānadhīrasya kathamarthārjane ratiḥ||3|1||",
-              "segment_number": 100
+              "segment_number": 100,
+              "translated_text": "how can you, steady in Self-knowledge, take delight in the acquisition of wealth? ||3|1||"
             }
           ]
         },
@@ -1459,12 +1559,14 @@
             {
               "tag": "l",
               "text": "ātmā+ajñānādaho prītirviṣayabhramagocare|",
-              "segment_number": 101
+              "segment_number": 101,
+              "translated_text": "Ah! From ignorance of the <s>Ātman</s> (Self) arises attachment to sense-objects, which are the domain of delusion,"
             },
             {
               "tag": "l",
               "text": "śukterajñānato lobho yathā rajatavibhrame||3|2||",
-              "segment_number": 102
+              "segment_number": 102,
+              "translated_text": "just as from ignorance of the shell arises greed for the illusion of silver. ||3|2||"
             }
           ]
         },
@@ -1477,12 +1579,14 @@
             {
               "tag": "l",
               "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|",
-              "segment_number": 103
+              "segment_number": 103,
+              "translated_text": "This universe shines forth in which, like waves in the ocean —"
             },
             {
               "tag": "l",
               "text": "so+ahamasmīti vijñāya kiṃ dīna iva dhāvasi||3|3||",
-              "segment_number": 104
+              "segment_number": 104,
+              "translated_text": "knowing 'I am That,' why do you run about like a wretched one? ||3|3||"
             }
           ]
         },
@@ -1495,12 +1599,14 @@
             {
               "tag": "l",
               "text": "śrutvāpi śuddhacaitanyamātmānamatisundaram|",
-              "segment_number": 105
+              "segment_number": 105,
+              "translated_text": "Even after hearing that the <s>Ātman</s> (Self) is pure <s>Caitanya</s> (consciousness) and supremely beautiful,"
             },
             {
               "tag": "l",
               "text": "upasthe+atyantasaṃsakto mālinyamadhigacchati||3|4||",
-              "segment_number": 106
+              "segment_number": 106,
+              "translated_text": "one who remains excessively attached to sensual pleasures comes to defilement. ||3|4||"
             }
           ]
         },
@@ -1513,12 +1619,14 @@
             {
               "tag": "l",
               "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|",
-              "segment_number": 107
+              "segment_number": 107,
+              "translated_text": "For the sage who knows the <s>Ātman</s> (Self) in all beings and all beings in the <s>Ātman</s>,"
             },
             {
               "tag": "l",
               "text": "munerjānata āścaryaṃ mamatvamanuvartate||3|5||",
-              "segment_number": 108
+              "segment_number": 108,
+              "translated_text": "it is astonishing that the sense of 'mine' persists. ||3|5||"
             }
           ]
         },
@@ -1531,12 +1639,14 @@
             {
               "tag": "l",
               "text": "āsthitaḥ paramādvaitaṃ mokṣārthe+api vyavasthitaḥ|",
-              "segment_number": 109
+              "segment_number": 109,
+              "translated_text": "One who is established in supreme non-duality and is resolved upon <s>mokṣa</s> (liberation) —"
             },
             {
               "tag": "l",
               "text": "āścaryaṃ kāmavaśago vikalaḥ keliśikṣayā||3|6||",
-              "segment_number": 110
+              "segment_number": 110,
+              "translated_text": "it is astonishing that such a one, subject to desire, is weakened by amorous play. ||3|6||"
             }
           ]
         },
@@ -1549,12 +1659,14 @@
             {
               "tag": "l",
               "text": "udbhūtaṃ jñānadurmitramavadhāryātidurbalaḥ|",
-              "segment_number": 111
+              "segment_number": 111,
+              "translated_text": "Having recognized that the enemy of <s>jñāna</s> (knowledge) has arisen, and being exceedingly weak,"
             },
             {
               "tag": "l",
               "text": "āścaryaṃ kāmamākāṅkṣetkālamantamanuśritaḥ||3|7||",
-              "segment_number": 112
+              "segment_number": 112,
+              "translated_text": "it is astonishing that one should desire pleasure even as the hour of death approaches. ||3|7||"
             }
           ]
         },
@@ -1567,12 +1679,14 @@
             {
               "tag": "l",
               "text": "ihāmutra viraktasya nityānityavivekinaḥ|",
-              "segment_number": 113
+              "segment_number": 113,
+              "translated_text": "For one who is dispassionate toward both this world and the next, who discriminates between the eternal and the transient —"
             },
             {
               "tag": "l",
               "text": "āścaryaṃ mokṣakāmasya mokṣādeva vibhīṣikā||3|8||",
-              "segment_number": 114
+              "segment_number": 114,
+              "translated_text": "it is astonishing that one desirous of <s>mokṣa</s> (liberation) should be frightened of liberation itself. ||3|8||"
             }
           ]
         },
@@ -1585,12 +1699,14 @@
             {
               "tag": "l",
               "text": "dhīrastu bhojyamāno+api pīḍyamāno+api sarvadā|",
-              "segment_number": 115
+              "segment_number": 115,
+              "translated_text": "But the wise one, whether feted or afflicted, at all times"
             },
             {
               "tag": "l",
               "text": "ātmānaṃ kevalaṃ paśyanna tuṣyati na kupyati||3|9||",
-              "segment_number": 116
+              "segment_number": 116,
+              "translated_text": "sees only the <s>Ātman</s> (Self) alone — neither rejoices nor becomes angry. ||3|9||"
             }
           ]
         },
@@ -1603,12 +1719,14 @@
             {
               "tag": "l",
               "text": "ceṣṭamānaṃ śarīraṃ svaṃ paśyatyanyaśarīravat|",
-              "segment_number": 117
+              "segment_number": 117,
+              "translated_text": "The great-souled one sees one's own body acting as if it were another's body."
             },
             {
               "tag": "l",
               "text": "saṃstave cāpi nindāyāṃ kathaṃ kṣubhyenmahāśayaḥ||3|10||",
-              "segment_number": 118
+              "segment_number": 118,
+              "translated_text": "How would such a noble one be disturbed by praise or blame? ||3|10||"
             }
           ]
         },
@@ -1621,12 +1739,14 @@
             {
               "tag": "l",
               "text": "māyāmātramidaṃ viśvaṃ paśyanvigatakautukaḥ|",
-              "segment_number": 119
+              "segment_number": 119,
+              "translated_text": "Seeing this universe as nothing but <s>Māyā</s> (illusion), having lost all curiosity,"
             },
             {
               "tag": "l",
               "text": "api sannihite mṛtyau kathaṃ trasyati dhīradhīḥ||3|11||",
-              "segment_number": 120
+              "segment_number": 120,
+              "translated_text": "how would the steady-minded one tremble even when death is near? ||3|11||"
             }
           ]
         },
@@ -1639,12 +1759,14 @@
             {
               "tag": "l",
               "text": "niḥspṛhaṃ mānasaṃ yasya nairāśye+api mahātmanaḥ|",
-              "segment_number": 121
+              "segment_number": 121,
+              "translated_text": "The great soul whose mind is free from desire, even in utter hopelessness —"
             },
             {
               "tag": "l",
               "text": "tasyātmajñānatṛptasya tulanā kena jāyate||3|12||",
-              "segment_number": 122
+              "segment_number": 122,
+              "translated_text": "who can compare with one who is content in Self-knowledge? ||3|12||"
             }
           ]
         },
@@ -1657,12 +1779,14 @@
             {
               "tag": "l",
               "text": "svabhāvādeva jānāno dṛśyametanna kiñcana|",
-              "segment_number": 123
+              "segment_number": 123,
+              "translated_text": "One who knows by one's very nature that all this that is seen is nothing —"
             },
             {
               "tag": "l",
               "text": "idaṃ grāhyamidaṃ tyājyaṃ sa kiṃ paśyati dhīradhīḥ||3|13||",
-              "segment_number": 124
+              "segment_number": 124,
+              "translated_text": "for such a steady-minded one, what is there to accept and what to reject? What does such a one see? ||3|13||"
             }
           ]
         },
@@ -1675,12 +1799,14 @@
             {
               "tag": "l",
               "text": "antastyaktakaṣāyasya nirdvandvasya nirāśiṣaḥ|",
-              "segment_number": 125
+              "segment_number": 125,
+              "translated_text": "For one who has inwardly renounced all passions, who is free from the pairs of opposites and free from desires,"
             },
             {
               "tag": "l",
               "text": "yadṛcchayā+a+agato bhogo na duḥkhāya na tuṣṭaye||3|14||",
-              "segment_number": 126
+              "segment_number": 126,
+              "translated_text": "enjoyment that comes of its own accord causes neither suffering nor satisfaction. ||3|14||"
             }
           ]
         }
@@ -1695,7 +1821,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 4",
-          "segment_number": 127
+          "segment_number": 127,
+          "translated_text": "Chapter 4"
         },
         {
           "tag": "p",
@@ -1706,7 +1833,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||4||",
-              "segment_number": 128
+              "segment_number": 128,
+              "translated_text": "<s>Janaka</s> said ||4||"
             }
           ]
         },
@@ -1719,12 +1847,14 @@
             {
               "tag": "l",
               "text": "hantātmajñasya dhīrasya khelato bhogalīlayā|",
-              "segment_number": 129
+              "segment_number": 129,
+              "translated_text": "Indeed, for the knower of the <s>Ātman</s> (Self), the courageous one who plays in the sport of enjoyment,"
             },
             {
               "tag": "l",
               "text": "na hi saṃsāravāhīkairmūḍhaiḥ saha samānatā||4|1||",
-              "segment_number": 130
+              "segment_number": 130,
+              "translated_text": "there is no similarity whatsoever with the deluded worldlings who carry the burden of <s>saṃsāra</s> (worldly existence). ||4|1||"
             }
           ]
         },
@@ -1737,12 +1867,14 @@
             {
               "tag": "l",
               "text": "yatpadaṃ prepsavo dīnāḥ śakrādyāḥ sarvadevatāḥ|",
-              "segment_number": 131
+              "segment_number": 131,
+              "translated_text": "That state which all the gods, beginning with <s>Indra</s>, longingly seek —"
             },
             {
               "tag": "l",
               "text": "aho tatra sthito yogī na harṣamupagacchati||4|2||",
-              "segment_number": 132
+              "segment_number": 132,
+              "translated_text": "Ah, the <s>yogin</s> established there does not experience joy. ||4|2||"
             }
           ]
         },
@@ -1755,12 +1887,14 @@
             {
               "tag": "l",
               "text": "tajjñasya puṇyapāpābhyāṃ sparśo hyantarna jāyate|",
-              "segment_number": 133
+              "segment_number": 133,
+              "translated_text": "For one who knows That, no inner contact with merit or sin arises;"
             },
             {
               "tag": "l",
               "text": "na hyākāśasya dhūmena dṛśyamānā+api saṃgatiḥ||4|3||",
-              "segment_number": 134
+              "segment_number": 134,
+              "translated_text": "just as the sky has no connection with smoke, even though it appears [to be there]. ||4|3||"
             }
           ]
         },
@@ -1773,12 +1907,14 @@
             {
               "tag": "l",
               "text": "ātmaivedaṃ jagatsarvaṃ jñātaṃ yena mahātmanā|",
-              "segment_number": 135
+              "segment_number": 135,
+              "translated_text": "That great soul who has known this entire universe to be the <s>Ātman</s> (Self) alone,"
             },
             {
               "tag": "l",
               "text": "yadṛcchayā vartamānaṃ taṃ niṣeddhuṃ kṣameta kaḥ||4|4||",
-              "segment_number": 136
+              "segment_number": 136,
+              "translated_text": "acting spontaneously — who could restrain him? ||4|4||"
             }
           ]
         },
@@ -1791,12 +1927,14 @@
             {
               "tag": "l",
               "text": "ābrahmastambaparyante bhūtagrāme caturvidhe|",
-              "segment_number": 137
+              "segment_number": 137,
+              "translated_text": "Among the fourfold host of beings, from <s>Brahmā</s> down to a blade of grass,"
             },
             {
               "tag": "l",
               "text": "vijñasyaiva hi sāmarthyamicchā+anicchāvivarjane||4|5||",
-              "segment_number": 138
+              "segment_number": 138,
+              "translated_text": "only the wise one has the capacity to be free from desire and aversion. ||4|5||"
             }
           ]
         },
@@ -1809,12 +1947,14 @@
             {
               "tag": "l",
               "text": "ātmānamadvayaṃ kaścijjānāti jagadīśvaram|",
-              "segment_number": 139
+              "segment_number": 139,
+              "translated_text": "Someone knows the <s>Ātman</s> (Self) to be non-dual, the lord of the universe;"
             },
             {
               "tag": "l",
               "text": "yadvetti tatsa kurute na bhayaṃ tasya kutracit||4|6||",
-              "segment_number": 140
+              "segment_number": 140,
+              "translated_text": "whatever he knows, that he does — there is no fear for him anywhere. ||4|6||"
             }
           ]
         }
@@ -1829,7 +1969,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 5",
-          "segment_number": 141
+          "segment_number": 141,
+          "translated_text": "Chapter 5"
         },
         {
           "tag": "p",
@@ -1840,7 +1981,8 @@
                 "rend": "bold"
               },
               "text": "aṣṭāvakra uvāca||5||",
-              "segment_number": 142
+              "segment_number": 142,
+              "translated_text": "<s>Aṣṭāvakra</s> said: ||5||"
             }
           ]
         },
@@ -1853,12 +1995,14 @@
             {
               "tag": "l",
               "text": "na te saṅgo+asti kenāpi kiṃ śuddhastyaktumicchasi|",
-              "segment_number": 143
+              "segment_number": 143,
+              "translated_text": "You have no attachment to anything — what [is it that] you, being pure, wish to renounce?"
             },
             {
               "tag": "l",
               "text": "saṅghātavilayaṃ kurvannevameva layaṃ vraja||5|1||",
-              "segment_number": 144
+              "segment_number": 144,
+              "translated_text": "Dissolving the aggregate [of body and mind], thus indeed go to dissolution. ||5|1||"
             }
           ]
         },
@@ -1871,12 +2015,14 @@
             {
               "tag": "l",
               "text": "udeti bhavato viśvaṃ vāridheriva budbudaḥ|",
-              "segment_number": 145
+              "segment_number": 145,
+              "translated_text": "The universe arises from you as a bubble from the ocean;"
             },
             {
               "tag": "l",
               "text": "iti jñātvaikamātmānamevameva layaṃ vraja||5|2||",
-              "segment_number": 146
+              "segment_number": 146,
+              "translated_text": "knowing thus the <s>Ātman</s> (Self) to be one, thus indeed go to dissolution. ||5|2||"
             }
           ]
         },
@@ -1889,12 +2035,14 @@
             {
               "tag": "l",
               "text": "pratyakṣamapyavastutvādviśvaṃ nāstyamale tvayi|",
-              "segment_number": 147
+              "segment_number": 147,
+              "translated_text": "Though perceived, the universe does not exist in you who are pure, for it has no real substance,"
             },
             {
               "tag": "l",
               "text": "rajjusarpa iva vyaktamevameva layaṃ vraja||5|3||",
-              "segment_number": 148
+              "segment_number": 148,
+              "translated_text": "like a snake in a rope — clearly [so]; thus indeed go to dissolution. ||5|3||"
             }
           ]
         },
@@ -1907,12 +2055,14 @@
             {
               "tag": "l",
               "text": "samaduḥkhasukhaḥ pūrṇa āśānairāśyayoḥ samaḥ|",
-              "segment_number": 149
+              "segment_number": 149,
+              "translated_text": "Equal in sorrow and happiness, complete, equal in hope and despair,"
             },
             {
               "tag": "l",
               "text": "samajīvitamṛtyuḥ sannevameva layaṃ vraja||5|4||",
-              "segment_number": 150
+              "segment_number": 150,
+              "translated_text": "equal in life and death — thus indeed go to dissolution. ||5|4||"
             }
           ]
         }
@@ -1927,7 +2077,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 6",
-          "segment_number": 151
+          "segment_number": 151,
+          "translated_text": "Chapter 6"
         },
         {
           "tag": "p",
@@ -1938,7 +2089,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||6||",
-              "segment_number": 152
+              "segment_number": 152,
+              "translated_text": "<s>Janaka</s> said: ||6||"
             }
           ]
         },
@@ -1951,12 +2103,14 @@
             {
               "tag": "l",
               "text": "ākāśavadananto+ahaṃ ghaṭavatprākṛtaṃ jagat|",
-              "segment_number": 153
+              "segment_number": 153,
+              "translated_text": "I am infinite like space; the world of nature is like a pot."
             },
             {
               "tag": "l",
               "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|1||",
-              "segment_number": 154
+              "segment_number": 154,
+              "translated_text": "Such is this knowledge — there is neither renunciation, nor grasping, nor dissolution for it. ||6|1||"
             }
           ]
         },
@@ -1969,12 +2123,14 @@
             {
               "tag": "l",
               "text": "mahodadhirivāhaṃ sa prapañco vīcisannibhaḥ|",
-              "segment_number": 155
+              "segment_number": 155,
+              "translated_text": "I am like the great ocean; the phenomenal world is like waves."
             },
             {
               "tag": "l",
               "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|2||",
-              "segment_number": 156
+              "segment_number": 156,
+              "translated_text": "Such is this knowledge — there is neither renunciation, nor grasping, nor dissolution for it. ||6|2||"
             }
           ]
         },
@@ -1987,12 +2143,14 @@
             {
               "tag": "l",
               "text": "ahaṃ sa śuktisaṃkāśo rūpyavadviśvakalpanā|",
-              "segment_number": 157
+              "segment_number": 157,
+              "translated_text": "I am like mother-of-pearl; the creation of the universe is like [the appearance of] silver."
             },
             {
               "tag": "l",
               "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|3||",
-              "segment_number": 158
+              "segment_number": 158,
+              "translated_text": "Such is this knowledge — there is neither renunciation, nor grasping, nor dissolution for it. ||6|3||"
             }
           ]
         },
@@ -2005,12 +2163,14 @@
             {
               "tag": "l",
               "text": "ahaṃ vā sarvabhūteṣu sarvabhūtānyatho mayi|",
-              "segment_number": 159
+              "segment_number": 159,
+              "translated_text": "I am in all beings, and all beings are in me;"
             },
             {
               "tag": "l",
               "text": "iti jñānaṃ tathaitasya na tyāgo na graho layaḥ||6|4||",
-              "segment_number": 160
+              "segment_number": 160,
+              "translated_text": "such is this knowledge — there is neither renunciation, nor grasping, nor dissolution for it. ||6|4||"
             }
           ]
         }
@@ -2025,7 +2185,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 7",
-          "segment_number": 161
+          "segment_number": 161,
+          "translated_text": "Chapter 7"
         },
         {
           "tag": "p",
@@ -2036,7 +2197,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||7||",
-              "segment_number": 162
+              "segment_number": 162,
+              "translated_text": "<s>Janaka</s> said: ||7||"
             }
           ]
         },
@@ -2049,12 +2211,14 @@
             {
               "tag": "l",
               "text": "mayyanantamahāmbhodhau viśvapota itastataḥ|",
-              "segment_number": 163
+              "segment_number": 163,
+              "translated_text": "In me, the infinite great ocean, the vessel of the universe drifts here and there,"
             },
             {
               "tag": "l",
               "text": "bhramati svāntavātena na mamāstyasahiṣṇutā||7|1||",
-              "segment_number": 164
+              "segment_number": 164,
+              "translated_text": "driven by the wind of its own nature — I have no intolerance. ||7|1||"
             }
           ]
         },
@@ -2067,12 +2231,14 @@
             {
               "tag": "l",
               "text": "mayyanantamahāmbhodhau jagadvīciḥ svabhāvataḥ|",
-              "segment_number": 165
+              "segment_number": 165,
+              "translated_text": "In me, the infinite great ocean, the wave of the universe naturally"
             },
             {
               "tag": "l",
               "text": "udetu vāstamāyātu na me vṛddhirna ca kṣatiḥ||7|2||",
-              "segment_number": 166
+              "segment_number": 166,
+              "translated_text": "may rise or set — there is neither increase nor diminution for me. ||7|2||"
             }
           ]
         },
@@ -2085,12 +2251,14 @@
             {
               "tag": "l",
               "text": "mayyanantamahāmbhodhau viśvaṃ nāma vikalpanā|",
-              "segment_number": 167
+              "segment_number": 167,
+              "translated_text": "In me, the infinite great ocean, 'the universe' is merely conceptual imagination;"
             },
             {
               "tag": "l",
               "text": "atiśānto nirākāra etadevāhamāsthitaḥ||7|3||",
-              "segment_number": 168
+              "segment_number": 168,
+              "translated_text": "supremely tranquil, formless — this alone is what I am established in. ||7|3||"
             }
           ]
         },
@@ -2103,12 +2271,14 @@
             {
               "tag": "l",
               "text": "nātmā bhāveṣu no bhāvastatrānante nirañjane|",
-              "segment_number": 169
+              "segment_number": 169,
+              "translated_text": "The <s>Ātman</s> (Self) is not in objects, nor are objects in that infinite, spotless [Self];"
             },
             {
               "tag": "l",
               "text": "ityasakto+aspṛhaḥ śānta etadevāhamāsthitaḥ||7|4||",
-              "segment_number": 170
+              "segment_number": 170,
+              "translated_text": "thus unattached, desireless, peaceful — this alone is what I am established in. ||7|4||"
             }
           ]
         },
@@ -2121,12 +2291,14 @@
             {
               "tag": "l",
               "text": "aho cinmātramevāhamindrajālopamaṃ jagat|",
-              "segment_number": 171
+              "segment_number": 171,
+              "translated_text": "Ah! I am pure consciousness alone; the universe is like a magic show."
             },
             {
               "tag": "l",
               "text": "ato mama kathaṃ kutra heyopādeyakalpanā||7|5||",
-              "segment_number": 172
+              "segment_number": 172,
+              "translated_text": "How then, and where, could there be for me the imagination of what is to be rejected or accepted? ||7|5||"
             }
           ]
         }
@@ -2141,7 +2313,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 8",
-          "segment_number": 173
+          "segment_number": 173,
+          "translated_text": "Chapter 8"
         },
         {
           "tag": "p",
@@ -2152,7 +2325,8 @@
                 "rend": "bold"
               },
               "text": "aṣṭāvakra uvāca||8||",
-              "segment_number": 174
+              "segment_number": 174,
+              "translated_text": "<s>Aṣṭāvakra</s> said: ||8||"
             }
           ]
         },
@@ -2165,12 +2339,14 @@
             {
               "tag": "l",
               "text": "tadā bandho yadā cittaṃ kiñcidvāñchati śocati|",
-              "segment_number": 175
+              "segment_number": 175,
+              "translated_text": "Then there is bondage when the mind desires something, grieves over something,"
             },
             {
               "tag": "l",
               "text": "kiñcinmuñcati gṛhṇāti kiñciddhṛṣyati kupyati||8|1||",
-              "segment_number": 176
+              "segment_number": 176,
+              "translated_text": "releases something, grasps something, is pleased by something, or is angered. ||8|1||"
             }
           ]
         },
@@ -2183,12 +2359,14 @@
             {
               "tag": "l",
               "text": "tadā muktiryadā cittaṃ na vāñchati na śocati|",
-              "segment_number": 177
+              "segment_number": 177,
+              "translated_text": "Then there is liberation when the mind does not desire, does not grieve,"
             },
             {
               "tag": "l",
               "text": "na muñcati na gṛhṇāti na hṛṣyati na kupyati||8|2||",
-              "segment_number": 178
+              "segment_number": 178,
+              "translated_text": "does not release, does not grasp, is not pleased, and is not angered. ||8|2||"
             }
           ]
         },
@@ -2201,12 +2379,14 @@
             {
               "tag": "l",
               "text": "tadā bandho yadā cittaṃ saktaṃ kāsvapi dṛṣṭiṣu|",
-              "segment_number": 179
+              "segment_number": 179,
+              "translated_text": "Then there is bondage when the mind is attached to any particular viewpoint;"
             },
             {
               "tag": "l",
               "text": "tadā mokṣo yadā cittamasaktaṃ sarvadṛṣṭiṣu||8|3||",
-              "segment_number": 180
+              "segment_number": 180,
+              "translated_text": "then there is liberation when the mind is unattached to all viewpoints. ||8|3||"
             }
           ]
         },
@@ -2219,12 +2399,14 @@
             {
               "tag": "l",
               "text": "yadā nāhaṃ tadā mokṣo yadāhaṃ bandhanaṃ tadā|",
-              "segment_number": 181
+              "segment_number": 181,
+              "translated_text": "When there is no 'I,' there is liberation; when there is 'I,' there is bondage;"
             },
             {
               "tag": "l",
               "text": "matveti helayā kiñcinmā gṛhāṇa vimuñca mā||8|4||",
-              "segment_number": 182
+              "segment_number": 182,
+              "translated_text": "knowing this, easily — neither grasp nor release anything! ||8|4||"
             }
           ]
         }
@@ -2239,7 +2421,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 9",
-          "segment_number": 183
+          "segment_number": 183,
+          "translated_text": "Chapter 9"
         },
         {
           "tag": "p",
@@ -2250,7 +2433,8 @@
                 "rend": "bold"
               },
               "text": "aṣṭāvakra uvāca||9||",
-              "segment_number": 184
+              "segment_number": 184,
+              "translated_text": "<s>Aṣṭāvakra</s> said: ||9||"
             }
           ]
         },
@@ -2263,12 +2447,14 @@
             {
               "tag": "l",
               "text": "kṛtākṛte ca dvandvāni kadā śāntāni kasya vā|",
-              "segment_number": 185
+              "segment_number": 185,
+              "translated_text": "The dualities of the done and the undone — when are they at rest, and for whom?"
             },
             {
               "tag": "l",
               "text": "evaṃ jñātveha nirvedādbhava tyāgaparo+avratī||9|1||",
-              "segment_number": 186
+              "segment_number": 186,
+              "translated_text": "Knowing this, becoming dispassionate here, be devoted to renunciation, free from vows. ||9|1||"
             }
           ]
         },
@@ -2281,12 +2467,14 @@
             {
               "tag": "l",
               "text": "kasyāpi tāta dhanyasya lokaceṣṭāvalokanāt|",
-              "segment_number": 187
+              "segment_number": 187,
+              "translated_text": "For some blessed one, O dear one, through observing the activities of the world,"
             },
             {
               "tag": "l",
               "text": "jīvitecchā bubhukṣā ca bubhutsopaśamaṃ gatāḥ||9|2||",
-              "segment_number": 188
+              "segment_number": 188,
+              "translated_text": "the desire to live, the desire to eat, and the desire to know have come to rest. ||9|2||"
             }
           ]
         },
@@ -2299,12 +2487,14 @@
             {
               "tag": "l",
               "text": "anityaṃ sarvamevedaṃ tāpatritayadūṣitam|",
-              "segment_number": 189
+              "segment_number": 189,
+              "translated_text": "All this is impermanent, tainted by the three kinds of suffering,"
             },
             {
               "tag": "l",
               "text": "asāraṃ ninditaṃ heyamiti niścitya śāmyati||9|3||",
-              "segment_number": 190
+              "segment_number": 190,
+              "translated_text": "without essence, contemptible, and to be abandoned — having ascertained this, one becomes peaceful. ||9|3||"
             }
           ]
         },
@@ -2317,12 +2507,14 @@
             {
               "tag": "l",
               "text": "ko+asau kālo vayaḥ kiṃ vā yatra dvandvāni no nṛṇām|",
-              "segment_number": 191
+              "segment_number": 191,
+              "translated_text": "What time is there, what age, in which there are no dualities for people?"
             },
             {
               "tag": "l",
               "text": "tānyupekṣya yathāprāptavartī siddhimavāpnuyāt||9|4||",
-              "segment_number": 192
+              "segment_number": 192,
+              "translated_text": "Disregarding them, acting according to what comes, one attains perfection. ||9|4||"
             }
           ]
         },
@@ -2335,12 +2527,14 @@
             {
               "tag": "l",
               "text": "nānā mataṃ maharṣīṇāṃ sādhūnāṃ yogināṃ tathā|",
-              "segment_number": 193
+              "segment_number": 193,
+              "translated_text": "The opinions of the great sages, saints, and <s>yogins</s> are various;"
             },
             {
               "tag": "l",
               "text": "dṛṣṭvā nirvedamāpannaḥ ko na śāmyati mānavaḥ||9|5||",
-              "segment_number": 194
+              "segment_number": 194,
+              "translated_text": "seeing this, who among men, having attained dispassion, does not become peaceful? ||9|5||"
             }
           ]
         },
@@ -2353,12 +2547,14 @@
             {
               "tag": "l",
               "text": "kṛtvā mūrtiparijñānaṃ caitanyasya na kiṃ guruḥ|",
-              "segment_number": 195
+              "segment_number": 195,
+              "translated_text": "Is he not a <s>guru</s> (teacher) who, having brought about the recognition of consciousness as embodied form,"
             },
             {
               "tag": "l",
               "text": "nirvedasamatāyuktyā yastārayati saṃsṛteḥ||9|6||",
-              "segment_number": 196
+              "segment_number": 196,
+              "translated_text": "by the means of dispassion, equanimity, and reasoning, rescues one from <s>saṃsāra</s> (transmigration)? ||9|6||"
             }
           ]
         },
@@ -2371,12 +2567,14 @@
             {
               "tag": "l",
               "text": "paśya bhūtavikārāṃstvaṃ bhūtamātrānyathārthataḥ|",
-              "segment_number": 197
+              "segment_number": 197,
+              "translated_text": "Behold the modifications of the elements as nothing but elements, in their true nature;"
             },
             {
               "tag": "l",
               "text": "tatkṣaṇādbandhanirmuktaḥ svarūpastho bhaviṣyasi||9|7||",
-              "segment_number": 198
+              "segment_number": 198,
+              "translated_text": "at that very moment, freed from bondage, you will abide in your own true nature. ||9|7||"
             }
           ]
         },
@@ -2389,12 +2587,14 @@
             {
               "tag": "l",
               "text": "vāsanā eva saṃsāra iti sarvā vimuñca tāḥ|",
-              "segment_number": 199
+              "segment_number": 199,
+              "translated_text": "<s>Vāsanā</s> (latent impression) alone is <s>saṃsāra</s> (the cycle of existence) — therefore release them all;"
             },
             {
               "tag": "l",
               "text": "tattyāgo vāsanātyāgātsthitiradya yathā tathā||9|8||",
-              "segment_number": 200
+              "segment_number": 200,
+              "translated_text": "their renunciation is the renunciation of <s>vāsanā</s>; abide now as you are. ||9|8||"
             }
           ]
         }
@@ -2409,7 +2609,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 10",
-          "segment_number": 201
+          "segment_number": 201,
+          "translated_text": "Chapter 10"
         },
         {
           "tag": "p",
@@ -2420,7 +2621,8 @@
                 "rend": "bold"
               },
               "text": "aṣṭāvakra uvāca||10||",
-              "segment_number": 202
+              "segment_number": 202,
+              "translated_text": "<s>Aṣṭāvakra</s> said: ||10||"
             }
           ]
         },
@@ -2433,12 +2635,14 @@
             {
               "tag": "l",
               "text": "vihāya vairiṇaṃ kāmamarthaṃ cānarthasaṃkulam|",
-              "segment_number": 203
+              "segment_number": 203,
+              "translated_text": "Having abandoned <s>kāma</s> (desire), the enemy, and <s>artha</s> (wealth), beset with calamity,"
             },
             {
               "tag": "l",
               "text": "dharmamapyetayorhetuṃ sarvatrānādaraṃ kuru||10|1||",
-              "segment_number": 204
+              "segment_number": 204,
+              "translated_text": "and even <s>dharma</s> (duty), the cause of both — practice indifference toward everything. ||10|1||"
             }
           ]
         },
@@ -2451,12 +2655,14 @@
             {
               "tag": "l",
               "text": "svapnendrajālavatpaśya dināni trīṇi pañca vā|",
-              "segment_number": 205
+              "segment_number": 205,
+              "translated_text": "View as a dream or a magic show the three or five days [of life],"
             },
             {
               "tag": "l",
               "text": "mitrakṣetradhanāgāradāradāyādisaṃpadaḥ||10|2||",
-              "segment_number": 206
+              "segment_number": 206,
+              "translated_text": "along with friends, lands, wealth, houses, wives, and gifts of fortune. ||10|2||"
             }
           ]
         },
@@ -2469,12 +2675,14 @@
             {
               "tag": "l",
               "text": "yatra yatra bhavettṛṣṇā saṃsāraṃ viddhi tatra vai|",
-              "segment_number": 207
+              "segment_number": 207,
+              "translated_text": "Wherever there is craving, know that to be <s>saṃsāra</s> (worldly existence);"
             },
             {
               "tag": "l",
               "text": "prauḍhavairāgyamāśritya vītatṛṣṇaḥ sukhī bhava||10|3||",
-              "segment_number": 208
+              "segment_number": 208,
+              "translated_text": "taking refuge in firm <s>vairāgya</s> (dispassion), be free from craving and happy. ||10|3||"
             }
           ]
         },
@@ -2487,12 +2695,14 @@
             {
               "tag": "l",
               "text": "tṛṣṇāmātrātmako bandhastannāśo mokṣa ucyate|",
-              "segment_number": 209
+              "segment_number": 209,
+              "translated_text": "Bondage is nothing but craving itself; its destruction is called liberation."
             },
             {
               "tag": "l",
               "text": "bhavāsaṃsaktimātreṇa prāptituṣṭirmuhurmuhuḥ||10|4||",
-              "segment_number": 210
+              "segment_number": 210,
+              "translated_text": "Through mere non-attachment to worldly existence, contentment is attained again and again. ||10|4||"
             }
           ]
         },
@@ -2505,12 +2715,14 @@
             {
               "tag": "l",
               "text": "tvamekaścetanaḥ śuddho jaḍaṃ viśvamasattathā|",
-              "segment_number": 211
+              "segment_number": 211,
+              "translated_text": "You are the one, conscious, pure; the universe is inert and unreal;"
             },
             {
               "tag": "l",
               "text": "avidyāpi na kiñcitsā kā bubhutsā tathāpi te||10|5||",
-              "segment_number": 212
+              "segment_number": 212,
+              "translated_text": "<s>Avidyā</s> (ignorance) too is nothing — so what then is your desire to know? ||10|5||"
             }
           ]
         },
@@ -2523,12 +2735,14 @@
             {
               "tag": "l",
               "text": "rājyaṃ sutāḥ kalatrāṇi śarīrāṇi sukhāni ca|",
-              "segment_number": 213
+              "segment_number": 213,
+              "translated_text": "Kingdoms, sons, wives, bodies, and pleasures —"
             },
             {
               "tag": "l",
               "text": "saṃsaktasyāpi naṣṭāni tava janmani janmani||10|6||",
-              "segment_number": 214
+              "segment_number": 214,
+              "translated_text": "though you were attached [to them], they have perished for you in birth after birth. ||10|6||"
             }
           ]
         },
@@ -2541,12 +2755,14 @@
             {
               "tag": "l",
               "text": "alamarthena kāmena sukṛtenāpi karmaṇā|",
-              "segment_number": 215
+              "segment_number": 215,
+              "translated_text": "Enough of wealth, enough of desire, enough even of meritorious action!"
             },
             {
               "tag": "l",
               "text": "ebhyaḥ saṃsārakāntāre na viśrāntamabhūnmanaḥ||10|7||",
-              "segment_number": 216
+              "segment_number": 216,
+              "translated_text": "In the wilderness of <s>saṃsāra</s>, the mind has never found rest from these. ||10|7||"
             }
           ]
         },
@@ -2559,12 +2775,14 @@
             {
               "tag": "l",
               "text": "kṛtaṃ na kati janmāni kāyena manasā girā|",
-              "segment_number": 217
+              "segment_number": 217,
+              "translated_text": "Through how many births has action not been performed — by body, mind, and speech —"
             },
             {
               "tag": "l",
               "text": "duḥkhamāyāsadaṃ karma tadadyāpyuparamyatām||10|8||",
-              "segment_number": 218
+              "segment_number": 218,
+              "translated_text": "action that is the cause of suffering and toil? Let it cease even now! ||10|8||"
             }
           ]
         }
@@ -2579,7 +2797,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 11",
-          "segment_number": 219
+          "segment_number": 219,
+          "translated_text": "Chapter 11"
         },
         {
           "tag": "p",
@@ -2590,7 +2809,8 @@
                 "rend": "bold"
               },
               "text": "aṣṭāvakra uvāca||11||",
-              "segment_number": 220
+              "segment_number": 220,
+              "translated_text": "<s>Aṣṭāvakra</s> said: ||11||"
             }
           ]
         },
@@ -2603,12 +2823,14 @@
             {
               "tag": "l",
               "text": "bhāvābhāvavikāraśca svabhāvāditi niścayī|",
-              "segment_number": 221
+              "segment_number": 221,
+              "translated_text": "Existence, non-existence, and modification arise from one's own nature — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "nirvikāro gatakleśaḥ sukhenaivopaśāmyati||11|1||",
-              "segment_number": 222
+              "segment_number": 222,
+              "translated_text": "free from modification, free from affliction, one becomes peaceful with ease. ||11|1||"
             }
           ]
         },
@@ -2621,12 +2843,14 @@
             {
               "tag": "l",
               "text": "īśvaraḥ sarvanirmātā nehānya iti niścayī|",
-              "segment_number": 223
+              "segment_number": 223,
+              "translated_text": "The Lord (<s>Īśvara</s>) is the creator of all, there is no other here — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "antargalitasarvāśaḥ śāntaḥ kvāpi na sajjate||11|2||",
-              "segment_number": 224
+              "segment_number": 224,
+              "translated_text": "one whose inner hopes have all dissolved is peaceful and attached nowhere. ||11|2||"
             }
           ]
         },
@@ -2639,12 +2863,14 @@
             {
               "tag": "l",
               "text": "āpadaḥ saṃpadaḥ kāle daivādeveti niścayī|",
-              "segment_number": 225
+              "segment_number": 225,
+              "translated_text": "Adversities and fortunes come in their own time, by fate alone — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "tṛptaḥ svasthendriyo nityaṃ na vāñchati na śocati||11|3||",
-              "segment_number": 226
+              "segment_number": 226,
+              "translated_text": "contented, with senses ever composed, one neither desires nor grieves. ||11|3||"
             }
           ]
         },
@@ -2657,12 +2883,14 @@
             {
               "tag": "l",
               "text": "sukhaduḥkhe janmamṛtyū daivādeveti niścayī|",
-              "segment_number": 227
+              "segment_number": 227,
+              "translated_text": "Happiness and sorrow, birth and death are by fate alone — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "sādhyādarśī nirāyāsaḥ kurvannapi na lipyate||11|4||",
-              "segment_number": 228
+              "segment_number": 228,
+              "translated_text": "seeing nothing to be accomplished, free from effort, even while acting, one is not tainted. ||11|4||"
             }
           ]
         },
@@ -2675,12 +2903,14 @@
             {
               "tag": "l",
               "text": "cintayā jāyate duḥkhaṃ nānyatheheti niścayī|",
-              "segment_number": 229
+              "segment_number": 229,
+              "translated_text": "Suffering arises from thinking alone, and from nothing else — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "tayā hīnaḥ sukhī śāntaḥ sarvatra galitaspṛhaḥ||11|5||",
-              "segment_number": 230
+              "segment_number": 230,
+              "translated_text": "free from thinking, happy, peaceful, with desire everywhere dissolved. ||11|5||"
             }
           ]
         },
@@ -2693,12 +2923,14 @@
             {
               "tag": "l",
               "text": "nāhaṃ deho na me deho bodho+ahamiti niścayī|",
-              "segment_number": 231
+              "segment_number": 231,
+              "translated_text": "I am not the body, nor is the body mine; I am awareness — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "kaivalyamiva saṃprāpto na smaratyakṛtaṃ kṛtam||11|6||",
-              "segment_number": 232
+              "segment_number": 232,
+              "translated_text": "having as if attained <s>kaivalya</s> (absolute aloneness), one does not remember what was done or not done. ||11|6||"
             }
           ]
         },
@@ -2711,12 +2943,14 @@
             {
               "tag": "l",
               "text": "ābrahmastambaparyantamahameveti niścayī|",
-              "segment_number": 233
+              "segment_number": 233,
+              "translated_text": "From <s>Brahmā</s> down to a blade of grass, I alone am — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "nirvikalpaḥ śuciḥ śāntaḥ prāptāprāptavinirvṛtaḥ||11|7||",
-              "segment_number": 234
+              "segment_number": 234,
+              "translated_text": "free from conceptual thought, pure, peaceful, one is content whether one has obtained or not. ||11|7||"
             }
           ]
         },
@@ -2729,12 +2963,14 @@
             {
               "tag": "l",
               "text": "nānāścaryamidaṃ viśvaṃ na kiñciditi niścayī|",
-              "segment_number": 235
+              "segment_number": 235,
+              "translated_text": "This manifold, wondrous universe is nothing — having this firm conviction,"
             },
             {
               "tag": "l",
               "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||11|8||",
-              "segment_number": 236
+              "segment_number": 236,
+              "translated_text": "free from <s>vāsanā</s> (latent impressions), being mere spontaneity, one becomes peaceful as if nothing [exists]. ||11|8||"
             }
           ]
         }
@@ -2749,7 +2985,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 12",
-          "segment_number": 237
+          "segment_number": 237,
+          "translated_text": "Chapter 12"
         },
         {
           "tag": "p",
@@ -2760,7 +2997,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||12||",
-              "segment_number": 238
+              "segment_number": 238,
+              "translated_text": "<s>Janaka</s> said: ||12||"
             }
           ]
         },
@@ -2773,12 +3011,14 @@
             {
               "tag": "l",
               "text": "kāyakṛtyāsahaḥ pūrvaṃ tato vāgvistarāsahaḥ|",
-              "segment_number": 239
+              "segment_number": 239,
+              "translated_text": "First, intolerant of bodily activity; then, intolerant of expansive speech;"
             },
             {
               "tag": "l",
               "text": "atha cintāsahastasmādevamevāhamāsthitaḥ||12|1||",
-              "segment_number": 240
+              "segment_number": 240,
+              "translated_text": "then, intolerant of thought — thus indeed I am established. ||12|1||"
             }
           ]
         },
@@ -2791,12 +3031,14 @@
             {
               "tag": "l",
               "text": "prītyabhāvena śabdāderadṛśyatvena cātmanaḥ|",
-              "segment_number": 241
+              "segment_number": 241,
+              "translated_text": "Through the absence of delight in sound and other [sense-objects], and through the invisibility of the <s>Ātman</s> (Self),"
             },
             {
               "tag": "l",
               "text": "vikṣepaikāgryahṛdaya evamevāhamāsthitaḥ||12|2||",
-              "segment_number": 242
+              "segment_number": 242,
+              "translated_text": "with a heart free from distraction and one-pointed — thus indeed I am established. ||12|2||"
             }
           ]
         },
@@ -2809,12 +3051,14 @@
             {
               "tag": "l",
               "text": "samādhyāsādivikṣiptau vyavahāraḥ samādhaye|",
-              "segment_number": 243
+              "segment_number": 243,
+              "translated_text": "The effort of <s>samādhi</s> and such [practices] is a distraction; worldly activity is for <s>samādhi</s> [itself]."
             },
             {
               "tag": "l",
               "text": "evaṃ vilokya niyamamevamevāhamāsthitaḥ||12|3||",
-              "segment_number": 244
+              "segment_number": 244,
+              "translated_text": "Having perceived the rule to be thus — thus indeed I am established. ||12|3||"
             }
           ]
         },
@@ -2827,12 +3071,14 @@
             {
               "tag": "l",
               "text": "heyopādeyavirahādevaṃ harṣaviṣādayoḥ|",
-              "segment_number": 245
+              "segment_number": 245,
+              "translated_text": "Through the absence of what is to be rejected and what is to be accepted, and thus of joy and sorrow,"
             },
             {
               "tag": "l",
               "text": "abhāvādadya he brahmannevamevāhamāsthitaḥ||12|4||",
-              "segment_number": 246
+              "segment_number": 246,
+              "translated_text": "through their absence today, O <s>Brahman</s> — thus indeed I am established. ||12|4||"
             }
           ]
         },
@@ -2845,12 +3091,14 @@
             {
               "tag": "l",
               "text": "āśramānāśramaṃ dhyānaṃ cittasvīkṛtavarjanam|",
-              "segment_number": 247
+              "segment_number": 247,
+              "translated_text": "The stages of life (<s>āśrama</s>), renunciation of stages, meditation, the acceptance and rejection by the mind —"
             },
             {
               "tag": "l",
               "text": "vikalpaṃ mama vīkṣyaitairevamevāhamāsthitaḥ||12|5||",
-              "segment_number": 248
+              "segment_number": 248,
+              "translated_text": "observing these to be mere conceptual thought — thus indeed I am established. ||12|5||"
             }
           ]
         },
@@ -2863,12 +3111,14 @@
             {
               "tag": "l",
               "text": "karmānuṣṭhānamajñānādyathaivoparamastathā|",
-              "segment_number": 249
+              "segment_number": 249,
+              "translated_text": "The performance of action is due to ignorance, just as is its cessation;"
             },
             {
               "tag": "l",
               "text": "budhvā samyagidaṃ tattvamevamevāhamāsthitaḥ||12|6||",
-              "segment_number": 250
+              "segment_number": 250,
+              "translated_text": "having properly understood this truth — thus indeed I am established. ||12|6||"
             }
           ]
         },
@@ -2881,12 +3131,14 @@
             {
               "tag": "l",
               "text": "acintyaṃ cintyamāno+api cintārūpaṃ bhajatyasau|",
-              "segment_number": 251
+              "segment_number": 251,
+              "translated_text": "Thinking about the unthinkable, one merely assumes the form of thought;"
             },
             {
               "tag": "l",
               "text": "tyaktvā tadbhāvanaṃ tasmādevamevāhamāsthitaḥ||12|7||",
-              "segment_number": 252
+              "segment_number": 252,
+              "translated_text": "therefore, having abandoned that contemplation — thus indeed I am established. ||12|7||"
             }
           ]
         },
@@ -2899,12 +3151,14 @@
             {
               "tag": "l",
               "text": "evameva kṛtaṃ yena sa kṛtārtho bhavedasau|",
-              "segment_number": 253
+              "segment_number": 253,
+              "translated_text": "Whoever has done thus — he becomes one who has accomplished the goal."
             },
             {
               "tag": "l",
               "text": "evameva svabhāvo yaḥ sa kṛtārtho bhavedasau||12|8||",
-              "segment_number": 254
+              "segment_number": 254,
+              "translated_text": "Whoever is thus by nature — he [too] has accomplished the goal. ||12|8||"
             }
           ]
         }
@@ -2919,7 +3173,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 13",
-          "segment_number": 255
+          "segment_number": 255,
+          "translated_text": "Chapter 13"
         },
         {
           "tag": "p",
@@ -2930,7 +3185,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||13||",
-              "segment_number": 256
+              "segment_number": 256,
+              "translated_text": "<s>Janaka</s> said: ||13||"
             }
           ]
         },
@@ -2943,12 +3199,14 @@
             {
               "tag": "l",
               "text": "akiñcanabhavaṃ svāsthyaṃ kaupīnatve+api durlabham|",
-              "segment_number": 257
+              "segment_number": 257,
+              "translated_text": "The contentment of possessing nothing is difficult to attain, even in a loincloth;"
             },
             {
               "tag": "l",
               "text": "tyāgādāne vihāyāsmādahamāse yathāsukham||13|1||",
-              "segment_number": 258
+              "segment_number": 258,
+              "translated_text": "having abandoned both renunciation and acceptance, I abide as I please. ||13|1||"
             }
           ]
         },
@@ -2961,12 +3219,14 @@
             {
               "tag": "l",
               "text": "kutrāpi khedaḥ kāyasya jihvā kutrāpi khidyate|",
-              "segment_number": 259
+              "segment_number": 259,
+              "translated_text": "Somewhere the body suffers, somewhere the tongue is troubled,"
             },
             {
               "tag": "l",
               "text": "manaḥ kutrāpi tattyaktvā puruṣārthe sthitaḥ sukham||13|2||",
-              "segment_number": 260
+              "segment_number": 260,
+              "translated_text": "somewhere the mind [is troubled] — having abandoned all that, I abide happily in the supreme goal. ||13|2||"
             }
           ]
         },
@@ -2979,12 +3239,14 @@
             {
               "tag": "l",
               "text": "kṛtaṃ kimapi naiva syāditi saṃcintya tattvataḥ|",
-              "segment_number": 261
+              "segment_number": 261,
+              "translated_text": "Having reflected in truth that nothing whatsoever is really done,"
             },
             {
               "tag": "l",
               "text": "yadā yatkartumāyāti tatkṛtvā+a+ase yathāsukham||13|3||",
-              "segment_number": 262
+              "segment_number": 262,
+              "translated_text": "whatever comes to be done, having done it, I abide as I please. ||13|3||"
             }
           ]
         },
@@ -2997,12 +3259,14 @@
             {
               "tag": "l",
               "text": "karmanaiṣkarmyanirbandhabhāvā dehasthayoginaḥ|",
-              "segment_number": 263
+              "segment_number": 263,
+              "translated_text": "The <s>yogins</s> embodied in the body are bound by notions of action, inaction, and compulsion;"
             },
             {
               "tag": "l",
               "text": "saṃyogāyogavirahādahamāse yathāsukham||13|4||",
-              "segment_number": 264
+              "segment_number": 264,
+              "translated_text": "through the absence of union and separation, I abide as I please. ||13|4||"
             }
           ]
         },
@@ -3015,12 +3279,14 @@
             {
               "tag": "l",
               "text": "arthānarthau na me sthityā gatyā na śayanena vā|",
-              "segment_number": 265
+              "segment_number": 265,
+              "translated_text": "Neither benefit nor harm comes to me through standing, going, or lying down;"
             },
             {
               "tag": "l",
               "text": "tiṣṭhangacchansvapantasmādahamāse yathāsukham||13|5||",
-              "segment_number": 266
+              "segment_number": 266,
+              "translated_text": "therefore, standing, going, or sleeping, I abide as I please. ||13|5||"
             }
           ]
         },
@@ -3033,12 +3299,14 @@
             {
               "tag": "l",
               "text": "svapato nāsti me hāniḥ siddhiryatnavato na vā|",
-              "segment_number": 267
+              "segment_number": 267,
+              "translated_text": "There is no loss for me in sleeping, and no attainment through effort;"
             },
             {
               "tag": "l",
               "text": "nāśollāsau vihāyāsmādahamāse yathāsukham||13|6||",
-              "segment_number": 268
+              "segment_number": 268,
+              "translated_text": "having abandoned both destruction and elation, I abide as I please. ||13|6||"
             }
           ]
         },
@@ -3051,12 +3319,14 @@
             {
               "tag": "l",
               "text": "sukhādirūpā+aniyamaṃ bhāveṣvālokya bhūriśaḥ|",
-              "segment_number": 269
+              "segment_number": 269,
+              "translated_text": "Having observed again and again in various states the inconstancy of pleasant and such [experiences],"
             },
             {
               "tag": "l",
               "text": "śubhāśubhe vihāyāsmādahamāse yathāsukham||13|7||",
-              "segment_number": 270
+              "segment_number": 270,
+              "translated_text": "having abandoned both the auspicious and the inauspicious, I abide as I please. ||13|7||"
             }
           ]
         }
@@ -5382,7 +5652,8 @@
             {
               "tag": "l",
               "text": "akṛtrimo+anavacchinne samādhiryasya vartate||18|67||",
-              "segment_number": 524
+              "segment_number": 524,
+              "translated_text": "One whose <s>samādhi</s> (absorption) abides in the unconditioned and unlimited, effortlessly — (18.67)"
             }
           ]
         },
@@ -5395,12 +5666,14 @@
             {
               "tag": "l",
               "text": "bahunātra kimuktena jñātatattvo mahāśayaḥ|",
-              "segment_number": 525
+              "segment_number": 525,
+              "translated_text": "What more need be said? The great-souled one who has known the truth,"
             },
             {
               "tag": "l",
               "text": "bhogamokṣanirākāṅkṣī sadā sarvatra nīrasaḥ||18|68||",
-              "segment_number": 526
+              "segment_number": 526,
+              "translated_text": "desiring neither enjoyment nor liberation, is always and everywhere dispassionate. (18.68)"
             }
           ]
         },
@@ -5413,12 +5686,14 @@
             {
               "tag": "l",
               "text": "mahadādi jagaddvaitaṃ nāmamātravijṛmbhitam|",
-              "segment_number": 527
+              "segment_number": 527,
+              "translated_text": "This world of duality, beginning with <s>mahat</s> (the great principle), is a mere display of names;"
             },
             {
               "tag": "l",
               "text": "vihāya śuddhabodhasya kiṃ kṛtyamavaśiṣyate||18|69||",
-              "segment_number": 528
+              "segment_number": 528,
+              "translated_text": "having abandoned [it], what remains to be done for one of pure awareness? (18.69)"
             }
           ]
         },
@@ -5431,12 +5706,14 @@
             {
               "tag": "l",
               "text": "bhramabhūtamidaṃ sarvaṃ kiñcinnāstīti niścayī|",
-              "segment_number": 529
+              "segment_number": 529,
+              "translated_text": "One who is certain that all this is an illusion and that nothing exists,"
             },
             {
               "tag": "l",
               "text": "alakṣyasphuraṇaḥ śuddhaḥ svabhāvenaiva śāmyati||18|70||",
-              "segment_number": 530
+              "segment_number": 530,
+              "translated_text": "pure, with imperceptible radiance, by his very nature becomes peaceful. (18.70)"
             }
           ]
         },
@@ -5449,12 +5726,14 @@
             {
               "tag": "l",
               "text": "śuddhasphuraṇarūpasya dṛśyabhāvamapaśyataḥ|",
-              "segment_number": 531
+              "segment_number": 531,
+              "translated_text": "For one whose nature is the shining forth of pure [consciousness], who sees no reality in what is perceived —"
             },
             {
               "tag": "l",
               "text": "kva vidhiḥ kva ca vairāgyaṃ kva tyāgaḥ kva śamo+api vā||18|71||",
-              "segment_number": 532
+              "segment_number": 532,
+              "translated_text": "where is injunction, where is renunciation, where is abandonment, and where even is tranquility? (18.71)"
             }
           ]
         },
@@ -5467,12 +5746,14 @@
             {
               "tag": "l",
               "text": "sphurato+anantarūpeṇa prakṛtiṃ ca na paśyataḥ|",
-              "segment_number": 533
+              "segment_number": 533,
+              "translated_text": "For one who shines forth in infinite form and who does not see <s>Prakṛti</s> (material nature) —"
             },
             {
               "tag": "l",
               "text": "kva bandhaḥ kva ca vā mokṣaḥ kva harṣaḥ kva viṣādatā||18|72||",
-              "segment_number": 534
+              "segment_number": 534,
+              "translated_text": "where is bondage, where is liberation, where is joy, and where is sorrow? (18.72)"
             }
           ]
         },
@@ -5485,12 +5766,14 @@
             {
               "tag": "l",
               "text": "buddhiparyantasaṃsāre māyāmātraṃ vivartate|",
-              "segment_number": 535
+              "segment_number": 535,
+              "translated_text": "In <s>saṃsāra</s>, which extends only as far as the intellect, only <s>māyā</s> (illusion) revolves;"
             },
             {
               "tag": "l",
               "text": "nirmamo nirahaṃkāro niṣkāmaḥ śobhate budhaḥ||18|73||",
-              "segment_number": 536
+              "segment_number": 536,
+              "translated_text": "without possessiveness, without ego, desireless — the wise one shines. (18.73)"
             }
           ]
         },
@@ -5503,12 +5786,14 @@
             {
               "tag": "l",
               "text": "akṣayaṃ gatasantāpamātmānaṃ paśyato muneḥ|",
-              "segment_number": 537
+              "segment_number": 537,
+              "translated_text": "For the sage who sees the Self as imperishable and free from affliction —"
             },
             {
               "tag": "l",
               "text": "kva vidyā kva ca vā viśvaṃ kva deho+ahaṃ mameti vā||18|74||",
-              "segment_number": 538
+              "segment_number": 538,
+              "translated_text": "where is knowledge, where is the universe, where is the body, and where is 'I' or 'mine'? (18.74)"
             }
           ]
         },
@@ -5521,12 +5806,14 @@
             {
               "tag": "l",
               "text": "nirodhādīni karmāṇi jahāti jaḍadhīryadi|",
-              "segment_number": 539
+              "segment_number": 539,
+              "translated_text": "If the dull-minded one abandons activities such as restraint and the like,"
             },
             {
               "tag": "l",
               "text": "manorathānpralāpāṃśca kartumāpnoti tatkṣaṇāt||18|75||",
-              "segment_number": 540
+              "segment_number": 540,
+              "translated_text": "he immediately takes up fantasies and idle prattle. (18.75)"
             }
           ]
         },
@@ -5539,12 +5826,14 @@
             {
               "tag": "l",
               "text": "mandaḥ śrutvāpi tadvastu na jahāti vimūḍhatām|",
-              "segment_number": 541
+              "segment_number": 541,
+              "translated_text": "The dull one, even having heard the truth, does not abandon delusion;"
             },
             {
               "tag": "l",
               "text": "nirvikalpo bahiryatnādantarviṣayalālasaḥ||18|76||",
-              "segment_number": 542
+              "segment_number": 542,
+              "translated_text": "though [appearing] free from conceptual construction outwardly through effort, inwardly he craves sense-objects. (18.76)"
             }
           ]
         },
@@ -5557,12 +5846,14 @@
             {
               "tag": "l",
               "text": "jñānādgalitakarmā yo lokadṛṣṭyāpi karmakṛt|",
-              "segment_number": 543
+              "segment_number": 543,
+              "translated_text": "One whose actions have fallen away through knowledge, though in the world's view he is an actor,"
             },
             {
               "tag": "l",
               "text": "nāpnotyavasaraṃ kartuṃ vaktumeva na kiñcana||18|77||",
-              "segment_number": 544
+              "segment_number": 544,
+              "translated_text": "finds no occasion to do or even to say anything. (18.77)"
             }
           ]
         },
@@ -5575,12 +5866,14 @@
             {
               "tag": "l",
               "text": "kva tamaḥ kva prakāśo vā hānaṃ kva ca na kiñcana|",
-              "segment_number": 545
+              "segment_number": 545,
+              "translated_text": "Where is darkness, where is light, where is cessation? There is nothing whatsoever"
             },
             {
               "tag": "l",
               "text": "nirvikārasya dhīrasya nirātaṅkasya sarvadā||18|78||",
-              "segment_number": 546
+              "segment_number": 546,
+              "translated_text": "for the steadfast one who is changeless and free from anxiety at all times. (18.78)"
             }
           ]
         },
@@ -5593,12 +5886,14 @@
             {
               "tag": "l",
               "text": "kva dhairyaṃ kva vivekitvaṃ kva nirātaṅkatā+api vā|",
-              "segment_number": 547
+              "segment_number": 547,
+              "translated_text": "Where is patience, where is discrimination, and where even is freedom from anxiety"
             },
             {
               "tag": "l",
               "text": "anirvācyasvabhāvasya niḥsvabhāvasya yoginaḥ||18|79||",
-              "segment_number": 548
+              "segment_number": 548,
+              "translated_text": "for the <s>yogī</s> whose nature is inexpressible and who is without any [fixed] nature? (18.79)"
             }
           ]
         },
@@ -5611,12 +5906,14 @@
             {
               "tag": "l",
               "text": "na svargo naiva narako jīvanmuktirna caiva hi|",
-              "segment_number": 549
+              "segment_number": 549,
+              "translated_text": "There is no heaven, nor indeed hell, nor even <s>jīvanmukti</s> (liberation while living);"
             },
             {
               "tag": "l",
               "text": "bahunātra kimuktena yogadṛṣṭyā na kiñcana||18|80||",
-              "segment_number": 550
+              "segment_number": 550,
+              "translated_text": "what more need be said? From the perspective of <s>yoga</s>, there is nothing at all. (18.80)"
             }
           ]
         },
@@ -5629,12 +5926,14 @@
             {
               "tag": "l",
               "text": "naiva prārthayate lābhaṃ nā+alābhamanuśocati|",
-              "segment_number": 551
+              "segment_number": 551,
+              "translated_text": "He does not wish for gain, nor does he grieve over loss;"
             },
             {
               "tag": "l",
               "text": "dhīrasya śītalaṃ cittamamṛtenaiva pūritam||18|81||",
-              "segment_number": 552
+              "segment_number": 552,
+              "translated_text": "the mind of the steadfast one is cool, as if filled with nectar. (18.81)"
             }
           ]
         },
@@ -5647,12 +5946,14 @@
             {
               "tag": "l",
               "text": "na śāntaṃ stauti niṣkāmo na duṣṭamapi nindati|",
-              "segment_number": 553
+              "segment_number": 553,
+              "translated_text": "The desireless one does not praise the peaceful, nor does he censure the wicked;"
             },
             {
               "tag": "l",
               "text": "samaduḥkhasukhastṛptaḥ kiñcitkṛtyaṃ na paśyati||18|82||",
-              "segment_number": 554
+              "segment_number": 554,
+              "translated_text": "equal in suffering and happiness, content — he sees nothing that needs to be done. (18.82)"
             }
           ]
         },
@@ -5665,12 +5966,14 @@
             {
               "tag": "l",
               "text": "dhīro na dveṣṭi saṃsāramātmānaṃ na didṛkṣati|",
-              "segment_number": 555
+              "segment_number": 555,
+              "translated_text": "The steadfast one does not hate <s>saṃsāra</s>, nor does he wish to see the Self;"
             },
             {
               "tag": "l",
               "text": "harṣāmarṣavinirmukto na mṛto na ca jīvati||18|83||",
-              "segment_number": 556
+              "segment_number": 556,
+              "translated_text": "free from joy and indignation, he is neither dead nor alive. (18.83)"
             }
           ]
         },
@@ -5683,12 +5986,14 @@
             {
               "tag": "l",
               "text": "niḥsnehaḥ putradārādau niṣkāmo viṣayeṣu ca|",
-              "segment_number": 557
+              "segment_number": 557,
+              "translated_text": "Without attachment to children and wife, desireless regarding sense-objects,"
             },
             {
               "tag": "l",
               "text": "niścintaḥ svaśarīre+api nirāśaḥ śobhate budhaḥ||18|84||",
-              "segment_number": 558
+              "segment_number": 558,
+              "translated_text": "unconcerned even about his own body, without expectation — the wise one shines. (18.84)"
             }
           ]
         },
@@ -5701,12 +6006,14 @@
             {
               "tag": "l",
               "text": "tuṣṭiḥ sarvatra dhīrasya yathāpatitavartinaḥ|",
-              "segment_number": 559
+              "segment_number": 559,
+              "translated_text": "Contentment [is found] everywhere for the steadfast one who lives as things happen,"
             },
             {
               "tag": "l",
               "text": "svacchandaṃ carato deśānyatrā+astamitaśāyinaḥ||18|85||",
-              "segment_number": 560
+              "segment_number": 560,
+              "translated_text": "who wanders wherever he pleases and sleeps wherever the sun sets. (18.85)"
             }
           ]
         },
@@ -5719,12 +6026,14 @@
             {
               "tag": "l",
               "text": "patatūdetu vā deho nāsya cintā mahātmanaḥ|",
-              "segment_number": 561
+              "segment_number": 561,
+              "translated_text": "Let the body fall or rise — the great-souled one has no concern about it,"
             },
             {
               "tag": "l",
               "text": "svabhāvabhūmiviśrāntivismṛtāśeṣasaṃsṛteḥ||18|86||",
-              "segment_number": 562
+              "segment_number": 562,
+              "translated_text": "having forgotten all <s>saṃsāra</s> through resting in the ground of his own nature. (18.86)"
             }
           ]
         },
@@ -5737,12 +6046,14 @@
             {
               "tag": "l",
               "text": "akiñcanaḥ kāmacāro nirdvandvaśchinnasaṃśayaḥ|",
-              "segment_number": 563
+              "segment_number": 563,
+              "translated_text": "Possessing nothing, moving freely, free from dualities, with doubts severed,"
             },
             {
               "tag": "l",
               "text": "asaktaḥ sarvabhāveṣu kevalo ramate budhaḥ||18|87||",
-              "segment_number": 564
+              "segment_number": 564,
+              "translated_text": "unattached to all states of being — the wise one delights in solitude. (18.87)"
             }
           ]
         },
@@ -5755,12 +6066,14 @@
             {
               "tag": "l",
               "text": "nirmamaḥ śobhate dhīraḥ samaloṣṭāśmakāñcanaḥ|",
-              "segment_number": 565
+              "segment_number": 565,
+              "translated_text": "Without possessiveness, the steadfast one shines, to whom a clod, a stone, and gold are equal,"
             },
             {
               "tag": "l",
               "text": "subhinnahṛdayagranthirvinirdhūtarajastamāḥ||18|88||",
-              "segment_number": 566
+              "segment_number": 566,
+              "translated_text": "the knot of the heart well-severed, <s>rajas</s> (passion) and <s>tamas</s> (inertia) shaken off. (18.88)"
             }
           ]
         },
@@ -5773,12 +6086,14 @@
             {
               "tag": "l",
               "text": "sarvatrānavadhānasya na kiñcidvāsanā hṛdi|",
-              "segment_number": 567
+              "segment_number": 567,
+              "translated_text": "For one who is heedless everywhere, no desire (<s>vāsanā</s>) [remains] in the heart;"
             },
             {
               "tag": "l",
               "text": "muktātmano vitṛptasya tulanā kena jāyate||18|89||",
-              "segment_number": 568
+              "segment_number": 568,
+              "translated_text": "the liberated, satisfied Self — with whom can [such a one] be compared? (18.89)"
             }
           ]
         },
@@ -5791,12 +6106,14 @@
             {
               "tag": "l",
               "text": "jānannapi na jānāti paśyannapi na paśyati|",
-              "segment_number": 569
+              "segment_number": 569,
+              "translated_text": "Knowing, yet he does not know; seeing, yet he does not see;"
             },
             {
               "tag": "l",
               "text": "bruvannapi na ca brūte ko+anyo nirvāsanādṛte||18|90||",
-              "segment_number": 570
+              "segment_number": 570,
+              "translated_text": "speaking, yet he does not speak — who else [is like this] except one free from latent tendencies (<s>vāsanā</s>)? (18.90)"
             }
           ]
         },
@@ -5809,12 +6126,14 @@
             {
               "tag": "l",
               "text": "bhikṣurvā bhūpatirvāpi yo niṣkāmaḥ sa śobhate|",
-              "segment_number": 571
+              "segment_number": 571,
+              "translated_text": "Whether a mendicant (<s>bhikṣu</s>) or a king — whoever is desireless, he shines;"
             },
             {
               "tag": "l",
               "text": "bhāveṣu galitā yasya śobhanā+aśobhanā matiḥ||18|91||",
-              "segment_number": 572
+              "segment_number": 572,
+              "translated_text": "one in whom the notion of auspicious and inauspicious has dissolved regarding all states of being. (18.91)"
             }
           ]
         },
@@ -5827,12 +6146,14 @@
             {
               "tag": "l",
               "text": "kva svācchandyaṃ kva saṃkocaḥ kva vā tattvaviniścayaḥ|",
-              "segment_number": 573
+              "segment_number": 573,
+              "translated_text": "Where is freedom, where is restriction, and where is the ascertainment of truth"
             },
             {
               "tag": "l",
               "text": "nirvyājārjavabhūtasya caritārthasya yoginaḥ||18|92||",
-              "segment_number": 574
+              "segment_number": 574,
+              "translated_text": "for the <s>yogī</s> who has accomplished his purpose, whose nature is guileless simplicity? (18.92)"
             }
           ]
         },
@@ -5845,12 +6166,14 @@
             {
               "tag": "l",
               "text": "ātmaviśrāntitṛptena nirāśena gatārtinā|",
-              "segment_number": 575
+              "segment_number": 575,
+              "translated_text": "By one who is satisfied in the repose of the Self, who is without expectation, whose pain is gone —"
             },
             {
               "tag": "l",
               "text": "antaryadanubhūyeta tatkathaṃ kasya kathyate||18|93||",
-              "segment_number": 576
+              "segment_number": 576,
+              "translated_text": "that which is experienced within — how and to whom can it be told? (18.93)"
             }
           ]
         },
@@ -5863,12 +6186,14 @@
             {
               "tag": "l",
               "text": "supto+api na suṣuptau ca svapne+api śayito na ca|",
-              "segment_number": 577
+              "segment_number": 577,
+              "translated_text": "Even in sleep, he is not in deep sleep; even in dream, he is not lying down;"
             },
             {
               "tag": "l",
               "text": "jāgare+api na jāgarti dhīrastṛptaḥ pade pade||18|94||",
-              "segment_number": 578
+              "segment_number": 578,
+              "translated_text": "even in waking, the steadfast one does not wake — satisfied at every step. (18.94)"
             }
           ]
         },
@@ -5881,22 +6206,26 @@
             {
               "tag": "l",
               "text": "jñaḥ sacinto+api niścintaḥ sendriyo+api nirindriyaḥ|",
-              "segment_number": 579
+              "segment_number": 579,
+              "translated_text": "The knower, though with thought, is thoughtless; though with senses, is without senses;"
             },
             {
               "tag": "l",
               "text": "sabuddhirapi nirbuddhiḥ sāhaṃkāro+anahaṃkṛtiḥ||18|95|||",
-              "segment_number": 580
+              "segment_number": 580,
+              "translated_text": "though with intellect, is without intellect; though with ego, is without ego-sense. (18.95)"
             },
             {
               "tag": "l",
               "text": "na sukhī na ca vā duḥkhī na virakto na saṅgavān|",
-              "segment_number": 581
+              "segment_number": 581,
+              "translated_text": "Neither happy nor unhappy, neither detached nor attached,"
             },
             {
               "tag": "l",
               "text": "na mumukṣurna vā mukto na kiñcinna ca kiñcana||18|96||",
-              "segment_number": 582
+              "segment_number": 582,
+              "translated_text": "neither seeking liberation nor liberated — he is neither something nor nothing. (18.96)"
             }
           ]
         },
@@ -5909,12 +6238,14 @@
             {
               "tag": "l",
               "text": "vikṣepe+api na vikṣiptaḥ samādhau na samādhimān|",
-              "segment_number": 583
+              "segment_number": 583,
+              "translated_text": "Even in distraction, he is not distracted; in <s>samādhi</s>, he has no [state of] <s>samādhi</s>;"
             },
             {
               "tag": "l",
               "text": "jāḍye+api na jaḍo dhanyaḥ pāṇḍitye+api na paṇḍitaḥ||18|97||",
-              "segment_number": 584
+              "segment_number": 584,
+              "translated_text": "even in stupor, the blessed one is not stupid; even in learning, he is not a scholar. (18.97)"
             }
           ]
         },
@@ -5927,12 +6258,14 @@
             {
               "tag": "l",
               "text": "mukto yathāsthitisvasthaḥ kṛtakartavyanirvṛtaḥ|",
-              "segment_number": 585
+              "segment_number": 585,
+              "translated_text": "Liberated, at ease in whatever state, content with duty accomplished,"
             },
             {
               "tag": "l",
               "text": "samaḥ sarvatra vaitṛṣṇyānna smaratyakṛtaṃ kṛtam||18|98||",
-              "segment_number": 586
+              "segment_number": 586,
+              "translated_text": "equal everywhere through desirelessness — he does not remember what was done or left undone. (18.98)"
             }
           ]
         },
@@ -5945,12 +6278,14 @@
             {
               "tag": "l",
               "text": "na prīyate vandyamāno nindyamāno na kupyati|",
-              "segment_number": 587
+              "segment_number": 587,
+              "translated_text": "He is not pleased when praised, nor angered when blamed;"
             },
             {
               "tag": "l",
               "text": "naivodvijati maraṇe jīvane nābhinandati||18|99||",
-              "segment_number": 588
+              "segment_number": 588,
+              "translated_text": "he neither dreads death nor rejoices in life. (18.99)"
             }
           ]
         },
@@ -5963,12 +6298,14 @@
             {
               "tag": "l",
               "text": "na dhāvati janākīrṇaṃ nāraṇyamupaśāntadhīḥ|",
-              "segment_number": 589
+              "segment_number": 589,
+              "translated_text": "The tranquil-minded one does not rush to crowded places, nor to the forest;"
             },
             {
               "tag": "l",
               "text": "yathātathā yatratatra sama evāvatiṣṭhate||18|100||",
-              "segment_number": 590
+              "segment_number": 590,
+              "translated_text": "in whatever way, wherever — he remains the same. (18.100)"
             }
           ]
         }
@@ -5983,7 +6320,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 19",
-          "segment_number": 591
+          "segment_number": 591,
+          "translated_text": "Chapter 19"
         },
         {
           "tag": "p",
@@ -5994,7 +6332,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||19||",
-              "segment_number": 592
+              "segment_number": 592,
+              "translated_text": "<s>Janaka</s> said: (19)"
             }
           ]
         },
@@ -6007,12 +6346,14 @@
             {
               "tag": "l",
               "text": "tattvavijñānasandaṃśamādāya hṛdayodarāt|",
-              "segment_number": 593
+              "segment_number": 593,
+              "translated_text": "With the pincers of the knowledge of truth, from the cavity of the heart,"
             },
             {
               "tag": "l",
               "text": "nānāvidhaparāmarśaśalyoddhāraḥ kṛto mayā||19|1||",
-              "segment_number": 594
+              "segment_number": 594,
+              "translated_text": "I have extracted the thorn of the manifold conceptual grasping. (19.1)"
             }
           ]
         },
@@ -6025,12 +6366,14 @@
             {
               "tag": "l",
               "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|",
-              "segment_number": 595
+              "segment_number": 595,
+              "translated_text": "Where is <s>dharma</s>, where is desire (<s>kāma</s>), where is wealth (<s>artha</s>), and where is discrimination"
             },
             {
               "tag": "l",
               "text": "kva dvaitaṃ kva ca vā+advaitaṃ svamahimni sthitasya me||19|2||",
-              "segment_number": 596
+              "segment_number": 596,
+              "translated_text": "for me who abide in my own glory? Where is duality, and where is non-duality? (19.2)"
             }
           ]
         },
@@ -6043,12 +6386,14 @@
             {
               "tag": "l",
               "text": "kva bhūtaṃ kva bhaviṣyadvā vartamānamapi kva vā|",
-              "segment_number": 597
+              "segment_number": 597,
+              "translated_text": "Where is the past, where the future, or where even the present?"
             },
             {
               "tag": "l",
               "text": "kva deśaḥ kva ca vā nityaṃ svamahimni sthitasya me||19|3||",
-              "segment_number": 598
+              "segment_number": 598,
+              "translated_text": "Where is space, and where is eternity — for me who abide in my own glory? (19.3)"
             }
           ]
         },
@@ -6061,12 +6406,14 @@
             {
               "tag": "l",
               "text": "kva cātmā kva ca vā+anātmā kva śubhaṃ kvāśubhaṃ tathā|",
-              "segment_number": 599
+              "segment_number": 599,
+              "translated_text": "Where is the Self, where the non-self, where the auspicious, and where the inauspicious?"
             },
             {
               "tag": "l",
               "text": "kva cintā kva ca vā+acintā svamahimni sthitasya me||19|4||",
-              "segment_number": 600
+              "segment_number": 600,
+              "translated_text": "Where is anxiety, and where freedom from anxiety — for me who abide in my own glory? (19.4)"
             }
           ]
         },
@@ -6079,12 +6426,14 @@
             {
               "tag": "l",
               "text": "kva svapnaḥ kva suṣuptirvā kva ca jāgaraṇaṃ tathā|",
-              "segment_number": 601
+              "segment_number": 601,
+              "translated_text": "Where is dream, where is deep sleep, and where likewise is waking?"
             },
             {
               "tag": "l",
               "text": "kva turīyaṃ bhayaṃ vā+api svamahimni sthitasya me||19|5||",
-              "segment_number": 602
+              "segment_number": 602,
+              "translated_text": "Where is the fourth state (<s>turīya</s>), and where even is fear — for me who abide in my own glory? (19.5)"
             }
           ]
         },
@@ -6097,12 +6446,14 @@
             {
               "tag": "l",
               "text": "kva dūraṃ kva samīpaṃ vā bāhyaṃ kvābhyantaraṃ kva vā|",
-              "segment_number": 603
+              "segment_number": 603,
+              "translated_text": "Where is the far, where is the near, where the outer, and where the inner?"
             },
             {
               "tag": "l",
               "text": "kva sthūlaṃ kva ca vā sūkṣmaṃ svamahimni sthitasya me||19|6||",
-              "segment_number": 604
+              "segment_number": 604,
+              "translated_text": "Where is the gross, and where the subtle — for me who abide in my own glory? (19.6)"
             }
           ]
         },
@@ -6115,12 +6466,14 @@
             {
               "tag": "l",
               "text": "kva mṛtyurjīvitaṃ vā kva lokāḥ kvāsya kva laukikam|",
-              "segment_number": 605
+              "segment_number": 605,
+              "translated_text": "Where is death and where life, where are the worlds, and where worldly affairs?"
             },
             {
               "tag": "l",
               "text": "kva layaḥ kva samādhirvā svamahimni sthitasya me||19|7||",
-              "segment_number": 606
+              "segment_number": 606,
+              "translated_text": "Where is dissolution, and where is <s>samādhi</s> — for me who abide in my own glory? (19.7)"
             }
           ]
         },
@@ -6133,12 +6486,14 @@
             {
               "tag": "l",
               "text": "alaṃ trivargakathayā yogasya kathayā+apyalam|",
-              "segment_number": 607
+              "segment_number": 607,
+              "translated_text": "Enough of talk about the three goals of life (<s>trivarga</s>)! Enough of talk about <s>yoga</s>!"
             },
             {
               "tag": "l",
               "text": "alaṃ vijñānakathayā viśrāntasya mamātmani||19|8||",
-              "segment_number": 608
+              "segment_number": 608,
+              "translated_text": "Enough of talk about knowledge — for me who am at rest in the Self! (19.8)"
             }
           ]
         }
@@ -6153,7 +6508,8 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 20",
-          "segment_number": 609
+          "segment_number": 609,
+          "translated_text": "Chapter 20"
         },
         {
           "tag": "p",
@@ -6164,7 +6520,8 @@
                 "rend": "bold"
               },
               "text": "janaka uvāca||20||",
-              "segment_number": 610
+              "segment_number": 610,
+              "translated_text": "<s>Janaka</s> said: (20)"
             }
           ]
         },
@@ -6177,12 +6534,14 @@
             {
               "tag": "l",
               "text": "kva bhūtāni kva deho vā kvendriyāṇi kva vā manaḥ|",
-              "segment_number": 611
+              "segment_number": 611,
+              "translated_text": "Where are the elements, where the body, where the senses, and where the mind?"
             },
             {
               "tag": "l",
               "text": "kva śūnyaṃ kva ca nairāśyaṃ matsvarūpe nirañjane||20|1||",
-              "segment_number": 612
+              "segment_number": 612,
+              "translated_text": "Where is the void, and where is despair — in my own nature, which is stainless? (20.1)"
             }
           ]
         },
@@ -6195,12 +6554,14 @@
             {
               "tag": "l",
               "text": "kva śāstraṃ kvātmavijñānaṃ kva vā nirviṣayaṃ manaḥ|",
-              "segment_number": 613
+              "segment_number": 613,
+              "translated_text": "Where is scripture, where is self-knowledge, and where is the mind free from objects?"
             },
             {
               "tag": "l",
               "text": "kva tṛptiḥ kva vitṛṣṇatvaṃ gatadvandvasya me sadā||20|2||",
-              "segment_number": 614
+              "segment_number": 614,
+              "translated_text": "Where is contentment, and where is desirelessness — for me who have always gone beyond duality? (20.2)"
             }
           ]
         },
@@ -6213,12 +6574,14 @@
             {
               "tag": "l",
               "text": "kva vidyā kva ca vā+avidyā kvāhaṃ kvedaṃ mama kva vā|",
-              "segment_number": 615
+              "segment_number": 615,
+              "translated_text": "Where is knowledge, and where is ignorance? Where is 'I,' where is 'this,' and where is 'mine'?"
             },
             {
               "tag": "l",
               "text": "kva bandhaḥ kva ca vā mokṣaḥ svarūpasya kva rūpatā||20|3||",
-              "segment_number": 616
+              "segment_number": 616,
+              "translated_text": "Where is bondage, and where is liberation? Where is the form of one's own nature? (20.3)"
             }
           ]
         },
@@ -6231,12 +6594,14 @@
             {
               "tag": "l",
               "text": "kva prārabdhāni karmāṇi jīvanmuktirapi kva vā|",
-              "segment_number": 617
+              "segment_number": 617,
+              "translated_text": "Where are the commenced <s>karmas</s> (<s>prārabdha</s>), and where even is <s>jīvanmukti</s> (liberation while living)?"
             },
             {
               "tag": "l",
               "text": "kva tadvidehakaivalyaṃ nirviśeṣasya sarvadā||20|4||",
-              "segment_number": 618
+              "segment_number": 618,
+              "translated_text": "Where is that bodiless aloneness (<s>videhakaivalya</s>) — for me who am always without distinctions? (20.4)"
             }
           ]
         },
@@ -6249,12 +6614,14 @@
             {
               "tag": "l",
               "text": "kva kartā kva ca vā bhoktā niṣkriyaṃ sphuraṇaṃ kva vā|",
-              "segment_number": 619
+              "segment_number": 619,
+              "translated_text": "Where is the doer, and where the enjoyer? Where is the actionless shining forth?"
             },
             {
               "tag": "l",
               "text": "kvāparokṣaṃ phalaṃ vā kva niḥsvabhāvasya me sadā||20|5||",
-              "segment_number": 620
+              "segment_number": 620,
+              "translated_text": "Where is the immediate result — for me who am always without any inherent nature? (20.5)"
             }
           ]
         },
@@ -6267,12 +6634,14 @@
             {
               "tag": "l",
               "text": "kva lokaṃ kva mumukṣurvā kva yogī jñānavānkva vā|",
-              "segment_number": 621
+              "segment_number": 621,
+              "translated_text": "Where is the world, where the seeker of liberation, where the <s>yogī</s>, and where the knower?"
             },
             {
               "tag": "l",
               "text": "kva baddhaḥ kva ca vā muktaḥ svasvarūpe+ahamadvaye||20|6||",
-              "segment_number": 622
+              "segment_number": 622,
+              "translated_text": "Where is the bound one, and where the liberated — in my own nature, which is non-dual? (20.6)"
             }
           ]
         },
@@ -6285,12 +6654,14 @@
             {
               "tag": "l",
               "text": "kva sṛṣṭiḥ kva ca saṃhāraḥ kva sādhyaṃ kva ca sādhanam|",
-              "segment_number": 623
+              "segment_number": 623,
+              "translated_text": "Where is creation, and where is dissolution? Where is the goal, and where the means?"
             },
             {
               "tag": "l",
               "text": "kva sādhakaḥ kva siddhirvā svasvarūpe+ahamadvaye||20|7||",
-              "segment_number": 624
+              "segment_number": 624,
+              "translated_text": "Where is the seeker, and where is attainment — in my own nature, which is non-dual? (20.7)"
             }
           ]
         },
@@ -6303,12 +6674,14 @@
             {
               "tag": "l",
               "text": "kva pramātā pramāṇaṃ vā kva prameyaṃ kva ca pramā|",
-              "segment_number": 625
+              "segment_number": 625,
+              "translated_text": "Where is the knower, where the means of knowledge, where the object of knowledge, and where is knowledge itself?"
             },
             {
               "tag": "l",
               "text": "kva kiñcitkva na kiñcidvā sarvadā vimalasya me||20|8||",
-              "segment_number": 626
+              "segment_number": 626,
+              "translated_text": "Where is anything, and where is nothing — for me who am always pure? (20.8)"
             }
           ]
         },
@@ -6321,12 +6694,14 @@
             {
               "tag": "l",
               "text": "kva vikṣepaḥ kva caikāgryaṃ kva nirbodhaḥ kva mūḍhatā|",
-              "segment_number": 627
+              "segment_number": 627,
+              "translated_text": "Where is distraction, where is one-pointedness? Where is dullness, and where delusion?"
             },
             {
               "tag": "l",
               "text": "kva harṣaḥ kva viṣādo vā sarvadā niṣkriyasya me||20|9||",
-              "segment_number": 628
+              "segment_number": 628,
+              "translated_text": "Where is joy, and where is sorrow — for me who am always actionless? (20.9)"
             }
           ]
         },
@@ -6339,12 +6714,14 @@
             {
               "tag": "l",
               "text": "kva caiṣa vyavahāro vā kva ca sā paramārthatā|",
-              "segment_number": 629
+              "segment_number": 629,
+              "translated_text": "Where is this empirical transaction, and where that ultimate reality?"
             },
             {
               "tag": "l",
               "text": "kva sukhaṃ kva ca vā duḥkhaṃ nirvimarśasya me sadā||20|10||",
-              "segment_number": 630
+              "segment_number": 630,
+              "translated_text": "Where is happiness, and where is suffering — for me who am always free from deliberation? (20.10)"
             }
           ]
         },
@@ -6357,12 +6734,14 @@
             {
               "tag": "l",
               "text": "kva māyā kva ca saṃsāraḥ kva prītirviratiḥ kva vā|",
-              "segment_number": 631
+              "segment_number": 631,
+              "translated_text": "Where is <s>māyā</s> (illusion), and where is <s>saṃsāra</s>? Where is love, and where dispassion?"
             },
             {
               "tag": "l",
               "text": "kva jīvaḥ kva ca tadbrahma sarvadā vimalasya me||20|11||",
-              "segment_number": 632
+              "segment_number": 632,
+              "translated_text": "Where is the individual soul (<s>jīva</s>), and where is <s>Brahman</s> — for me who am always pure? (20.11)"
             }
           ]
         },
@@ -6375,12 +6754,14 @@
             {
               "tag": "l",
               "text": "kva pravṛttirnivṛttirvā kva muktiḥ kva ca bandhanam|",
-              "segment_number": 633
+              "segment_number": 633,
+              "translated_text": "Where is activity, and where cessation? Where is liberation, and where bondage?"
             },
             {
               "tag": "l",
               "text": "kūṭasthanirvibhāgasya svasthasya mama sarvadā||20|12||",
-              "segment_number": 634
+              "segment_number": 634,
+              "translated_text": "For me who am always immutable, undivided, and at ease — (20.12)"
             }
           ]
         },
@@ -6393,12 +6774,14 @@
             {
               "tag": "l",
               "text": "kvopadeśaḥ kva vā śāstraṃ kva śiṣyaḥ kva ca vā guruḥ|",
-              "segment_number": 635
+              "segment_number": 635,
+              "translated_text": "Where is instruction, where scripture? Where is the disciple, and where the teacher?"
             },
             {
               "tag": "l",
               "text": "kva cāsti puruṣārtho vā nirupādheḥ śivasya me||20|13||",
-              "segment_number": 636
+              "segment_number": 636,
+              "translated_text": "Where even is the goal of human life — for me who am auspicious (<s>Śiva</s>) and without limiting adjuncts (<s>upādhi</s>)? (20.13)"
             }
           ]
         },
@@ -6411,12 +6794,14 @@
             {
               "tag": "l",
               "text": "kva cāsti kva ca vā nāsti kvāsti caikaṃ kva ca dvayam|",
-              "segment_number": 637
+              "segment_number": 637,
+              "translated_text": "Where does [anything] exist, and where does it not? Where is the one, and where the two?"
             },
             {
               "tag": "l",
               "text": "bahunā+atra kimuktena kiñcinnottiṣṭhate mama||20|14||",
-              "segment_number": 638
+              "segment_number": 638,
+              "translated_text": "What more need be said? Nothing whatsoever arises for me. (20.14)"
             }
           ]
         },
@@ -6429,7 +6814,8 @@
                 "rend": "bold"
               },
               "text": "||iti śrīmadaṣṭāvakragītā||",
-              "segment_number": 639
+              "segment_number": 639,
+              "translated_text": "Thus [ends] the glorious <s>Aṣṭāvakragītā</s>."
             }
           ]
         }

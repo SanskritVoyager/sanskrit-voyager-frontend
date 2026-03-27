@@ -43,73 +43,85 @@
           "tag": "p",
           "attributes": {},
           "text": "Explanatory Remarks",
-          "segment_number": 1
+          "segment_number": 1,
+          "translated_text": "Explanatory Remarks"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "A number of five figures at the left side indicates the location of the key word\nin the basic texts. In the case of the SV, the HB and the VN, the first three figures\nindicate the page number, and the last two indicate the line number (for example,\nSV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the\nPV and the NB, the second figure indicates the chapter number and the last three\nfigures indicate the karika or sutra number (for example, PV02232=PV, the\nPramanasiddhi-chapter v.232; NB03015=NB, the Pararthanumana-chapter sutra 15.\nIn the case of the SP, the last two figures indicate the karika number (for example,\nSP00015=SP, v.15).",
-          "segment_number": 2
+          "segment_number": 2,
+          "translated_text": "A number of five figures at the left side indicates the location of the key word in the basic texts. In the case of the SV, the HB and the VN, the first three figures indicate the page number, and the last two indicate the line number (for example, SV16026=SV 160,26; HB02314=HB 23,14; VN06110=VN 61,10). In the case of the PV and the NB, the second figure indicates the chapter number and the last three figures indicate the <s>kārikā</s> or <s>sūtra</s> number (for example, PV02232=PV, the <s>Pramāṇasiddhi</s>-chapter v.232; NB03015=NB, the <s>Parārthānumāna</s>-chapter <s>sūtra</s> 15. In the case of the SP, the last two figures indicate the <s>kārikā</s> number (for example, SP00015=SP, v.15)."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3. In this database, sentences are artificially divided into word-units, although they\ninvolve a phonetic fusion or union in the basic texts. Further, compound words are\ndivided into their shortest constitutive elements (we use a hyphen to indicate that\nhyphenated elements originally form a compound word) with the following\nexceptions:",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "3. In this database, sentences are artificially divided into word-units, although they involve a phonetic fusion or union in the basic texts. Further, compound words are divided into their shortest constitutive elements (we use a hyphen to indicate that hyphenated elements originally form a compound word) with the following exceptions:"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.1. The prefixes a-, dur-, nih- remain undivided, irrespective of attachment to\nwords or compound words.",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": "3.1. The prefixes a-, dur-, niḥ- remain undivided, irrespective of attachment to words or compound words."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.2. Suffixes making an adverb, for example -vat, -vasa, are divided. But suffixes\nmaking a possessive adjective, for example -vat, -mat, remain undivided, and terms\nsuch as a numeral+ -dha/-vidha/-prakara remain also undivided.",
-          "segment_number": 5
+          "segment_number": 5,
+          "translated_text": "3.2. Suffixes making an adverb, for example -vat, -vaśa, are divided. But suffixes making a possessive adjective, for example -vat, -mat, remain undivided, and terms such as a numeral + -dhā/-vidhā/-prakāra remain also undivided."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.3. Compound words with the suffixes -ta/-tva or -bhava/-bhuta fundamentally\nremain undivided. For example: karyakaranabhava/-bhuta/-ta.",
-          "segment_number": 6
+          "segment_number": 6,
+          "translated_text": "3.3. Compound words with the suffixes -tā/-tva or -bhāva/-bhūta fundamentally remain undivided. For example: <s>kāryakāraṇabhāva</s>/-bhūta/-tā."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.4. Compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the\nwordhead fundamentally remain undivided. For example: evamjatiya, tadutpatti,\ntathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.",
-          "segment_number": 7
+          "segment_number": 7,
+          "translated_text": "3.4. Compound words with evam-, tat-, tathā-, para-, yathā-, su-, sva- in the word-head fundamentally remain undivided. For example: <s>evaṃjātīya</s>, <s>tadutpatti</s>, <s>tathākṛta</s>, <s>paratantra</s>, <s>yathārtha</s>, <s>yathāsvam</s>, <s>sujñānatva</s>, <s>svabhāva</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "3.5. Some compound words which are regarded as terminology remain also\nundivided. For example: agnihotra, ayogavyavaccheda, arthapatti, padartha,\nparamartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya,\nsamtanaparinama, samanyalaksana, svabhavapratibandha.",
-          "segment_number": 8
+          "segment_number": 8,
+          "translated_text": "3.5. Some compound words which are regarded as terminology remain also undivided. For example: <s>agnihotra</s>, <s>ayogavyavaccheda</s>, <s>arthāpatti</s>, <s>padārtha</s>, <s>paramārtha</s>, <s>prasajyapratiṣedha</s>, <s>viruddhavyabhicārin</s>, <s>samanantarapratyaya</s>, <s>saṃtānapariṇāma</s>, <s>sāmānyalakṣaṇa</s>, <s>svabhāvapratibandha</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "4. Those terms whose wordhead is subject to the Sandhi rules (for example, -d\ndhetu-) are cited in their original form (for example, -d *hetu-) for the sake of\nusing this database to make an KWIC index.",
-          "segment_number": 9
+          "segment_number": 9,
+          "translated_text": "4. Those terms whose word-head is subject to the <s>sandhi</s> rules (for example, -d dhetu-) are cited in their original form (for example, -d *hetu-) for the sake of using this database to make a KWIC index."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "1. August. 1997 / Tsukuba\nMotoi ONO",
-          "segment_number": 10
+          "segment_number": 10,
+          "translated_text": "1 August 1997 / Tsukuba — <s>Motoi Ono</s>"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "Note:\n  This database is quite a tentative one, and I must admit that there are a lot of\nerrors and defects in this version. I would appreciate it very much if the user would\npoint out any errors in this version so that we can make a better new version in the\nfuture.",
-          "segment_number": 11
+          "segment_number": 11,
+          "translated_text": "Note: This database is quite a tentative one, and I must admit that there are a lot of errors and defects in this version. I would appreciate it very much if the user would point out any errors in this version so that we can make a better new version in the future."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "E-mail: ono@logos.tsukuba.ac.jp",
-          "segment_number": 12
+          "segment_number": 12,
+          "translated_text": "E-mail: ono@logos.tsukuba.ac.jp"
         }
       ]
     },

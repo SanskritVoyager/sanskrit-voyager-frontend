@@ -39,13 +39,15 @@
       "tag": "p",
       "attributes": {},
       "text": "[atha gaṇita-adhyāyas]",
-      "segment_number": 1
+      "segment_number": 1,
+      "translated_text": "[Now, the chapter on mathematics]"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "[parikarma-viṃśatis]",
-      "segment_number": 2
+      "segment_number": 2,
+      "translated_text": "[The twenty operations]"
     },
     {
       "tag": "lg",
@@ -59,7 +61,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.1a"
           },
           "text": "parikarma-%viṃśatim yas saṅkalita-ādyām pṛthak vijānāti/",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "He who knows separately the twenty operations beginning with addition,"
         },
         {
           "tag": "l",
@@ -67,7 +70,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.1c"
           },
           "text": "%aṣṭau ca vyavahārān chāyā-antān bhavati gaṇakas sas//",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": "and the eight procedures ending with shadow [calculations] — he is a mathematician."
         }
       ]
     },
@@ -83,7 +87,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.2a"
           },
           "text": "viparīta-cheda-guṇās rāśyos cheda-aṃśakās sama-chedās/",
-          "segment_number": 5
+          "segment_number": 5,
+          "translated_text": "The numerators and denominators of two quantities, multiplied by the reciprocal denominators, become equal-denominated;"
         },
         {
           "tag": "l",
@@ -91,7 +96,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.2c"
           },
           "text": "saṅkalite aṃśās yojyās vyavakalite aṃśa-antaram kāryam//",
-          "segment_number": 6
+          "segment_number": 6,
+          "translated_text": "in addition, the numerators are to be joined; in subtraction, the difference of the numerators is to be taken."
         }
       ]
     },
@@ -107,7 +113,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.3a"
           },
           "text": "rūpāṇi cheda-guṇāni aṃśa-yutāni %dvayos bahūnām vā/",
-          "segment_number": 7
+          "segment_number": 7,
+          "translated_text": "Integers, multiplied by the denominator and added to the numerator, [convert them] for two or many [fractions];"
         },
         {
           "tag": "l",
@@ -115,7 +122,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.3c"
           },
           "text": "pratyutpannas bhavati cheda-vadhena uddhṛtas aṃśa-vadhas//",
-          "segment_number": 8
+          "segment_number": 8,
+          "translated_text": "the product [of fractions] is the product of the numerators divided by the product of the denominators."
         }
       ]
     },
@@ -138,7 +146,8 @@
               "text": "D: parivarttya < parivartya"
             }
           ],
-          "segment_number": 9
+          "segment_number": 9,
+          "translated_text": "Having inverted the numerator and denominator of the divisor, the denominator multiplied by the denominator,"
         },
         {
           "tag": "l",
@@ -146,7 +155,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.4c"
           },
           "text": "aṃśas aṃśa-guṇas bhājyasya bhāga-hāras savarṇitayos//",
-          "segment_number": 10
+          "segment_number": 10,
+          "translated_text": "the numerator multiplied by the numerator — this is the division of reduced [fractions]."
         }
       ]
     },
@@ -162,7 +172,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.5a"
           },
           "text": "saṃvarṇita--aṃśa-vargas cheda-kṛti-vibhājitas bhavati vargas/",
-          "segment_number": 11
+          "segment_number": 11,
+          "translated_text": "The square of the reduced numerator divided by the square of the denominator is the square [of the fraction];"
         },
         {
           "tag": "l",
@@ -170,7 +181,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.5c"
           },
           "text": "saṃvarṇita-aṃśa-mūlam cheda-padena uddhṛtam mūlam//",
-          "segment_number": 12
+          "segment_number": 12,
+          "translated_text": "the square root of the reduced numerator divided by the square root of the denominator is the [square] root."
         }
       ]
     },
@@ -186,7 +198,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.6a"
           },
           "text": "sthāpyas antya-ghanas antya-kṛtis %tri-guṇa-uttara-saṅguṇā ca tad-%prathamāt/",
-          "segment_number": 13
+          "segment_number": 13,
+          "translated_text": "Place the cube of the last [digit]; the square of the last, multiplied by three times the next, [is subtracted] from the first;"
         },
         {
           "tag": "l",
@@ -194,7 +207,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.6c"
           },
           "text": "uttara-kṛtis antya-guṇā %tri-guṇā ca uttara-ghanas ca ghanas//",
-          "segment_number": 14
+          "segment_number": 14,
+          "translated_text": "the square of the next multiplied by the last, tripled, and the cube of the next — [this gives] the cube."
         }
       ]
     },
@@ -210,7 +224,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.7a"
           },
           "text": "chedas ghanāt %dvitīyāt ghana-mūla-kṛtis %tri-saṅguṇā āpta-kṛtis/",
-          "segment_number": 15
+          "segment_number": 15,
+          "translated_text": "The denominator from the second [group]; the square of the cube root, tripled — the square of the quotient"
         },
         {
           "tag": "l",
@@ -218,7 +233,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.7c"
           },
           "text": "śodhyā %tri-pūrva-guṇitā %prathamāt ghanatas ghanas mūlam//",
-          "segment_number": 16
+          "segment_number": 16,
+          "translated_text": "is to be subtracted, tripled and multiplied by the previous, from the first [group]; from cubing, [one obtains] the cube root."
         }
       ]
     },
@@ -234,7 +250,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.8a"
           },
           "text": "sadṛśa-cheda-aṃśa-yutis cheda-vibhaktā phalam %prathama-jātau/",
-          "segment_number": 17
+          "segment_number": 17,
+          "translated_text": "The sum of the numerators with equal denominators, divided by the denominator, is the result in the first class [of fractions];"
         },
         {
           "tag": "l",
@@ -242,7 +259,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.8c"
           },
           "text": "aṃśais aṃśās guṇitās chedais chedās %dvitīyāyām//",
-          "segment_number": 18
+          "segment_number": 18,
+          "translated_text": "in the second class, numerators are multiplied by numerators, and denominators by denominators."
         }
       ]
     },
@@ -258,7 +276,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.9a"
           },
           "text": "ūrdhva-aṃśās cheda-guṇās %tṛtīya-jātau %dvayos %prathama-parayos/",
-          "segment_number": 19
+          "segment_number": 19,
+          "translated_text": "In the third class, for two [fractions] of the first and last, the upper numerators [are] multiplied by the denominators;"
         },
         {
           "tag": "l",
@@ -266,7 +285,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.9c"
           },
           "text": "chedais chedās guṇitās sva-aṃśa-yuta-ūnais upari-ga-aṃśās//",
-          "segment_number": 20
+          "segment_number": 20,
+          "translated_text": "the denominators multiplied by the denominators — the upper numerators increased or decreased by their own numerators."
         }
       ]
     },
@@ -282,7 +302,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.10a"
           },
           "text": "trairāśike pramāṇam phalam iccā ādi-antayos sadṛśa-rāśī/",
-          "segment_number": 21
+          "segment_number": 21,
+          "translated_text": "In the rule of three (<s>trairāśika</s>), the measure, the fruit, and the desire — the similar quantities [placed] at the beginning and end;"
         },
         {
           "tag": "l",
@@ -290,7 +311,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.10c"
           },
           "text": "icchā phalena guṇitā pramāṇa-bhaktā phalam bhavati//",
-          "segment_number": 22
+          "segment_number": 22,
+          "translated_text": "the desire multiplied by the fruit and divided by the measure is the result."
         }
       ]
     },
@@ -306,7 +328,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.11a"
           },
           "text": "vyasta-trairāśika-phalam icchā-bhaktas pramāṇa-phala-ghātas/",
-          "segment_number": 23
+          "segment_number": 23,
+          "translated_text": "The result of the inverse rule of three is the product of the measure and the fruit divided by the desire;"
         },
         {
           "tag": "l",
@@ -314,7 +337,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.11c"
           },
           "text": "trairāśika-ādiṣu phalam viṣameṣu %ekādaśa-anteṣu//",
-          "segment_number": 24
+          "segment_number": 24,
+          "translated_text": "in the [compound] rules of three and so forth, the result [is obtained] in odd [sets] up to eleven."
         }
       ]
     },
@@ -330,7 +354,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.12a"
           },
           "text": "phala-saṅkramaṇam ubhaya-tas bahu-rāśi-vadhas alpa-vadha-hṛtas jñeyam/",
-          "segment_number": 25
+          "segment_number": 25,
+          "translated_text": "The transposition of the result: on both sides, the product of the many [quantities] divided by the product of the few — this is to be known;"
         },
         {
           "tag": "l",
@@ -338,7 +363,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.12c"
           },
           "text": "sakaleṣu evam bhinneṣu ubhaya-tas cheda-saṅkramaṇam//",
-          "segment_number": 26
+          "segment_number": 26,
+          "translated_text": "thus for integers; for fractions, on both sides, the transposition of the denominators."
         }
       ]
     },
@@ -354,7 +380,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.13a"
           },
           "text": "prāk mūlya-vyatyāsas bhāṇḍapratibhāṇḍake anyat ukta-samam/",
-          "segment_number": 27
+          "segment_number": 27,
+          "translated_text": "First, the exchange of prices in barter; the rest is as stated [above]."
         },
         {
           "tag": "l",
@@ -362,7 +389,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.13c"
           },
           "text": "parikarmāṇi %aṣṭānām vyavahārāṇām abhihitāni//",
-          "segment_number": 28
+          "segment_number": 28,
+          "translated_text": "The operations for the eight procedures have been stated."
         }
       ]
     },
@@ -370,7 +398,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[miśraka-vyavahāras]",
-      "segment_number": 29
+      "segment_number": 29,
+      "translated_text": "[Mixture procedure]"
     },
     {
       "tag": "lg",
@@ -384,7 +413,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.14a"
           },
           "text": "kāla-guṇitam pramāṇam phala-bhaktam vi-%eka-guṇa-hatam kālas/",
-          "segment_number": 30
+          "segment_number": 30,
+          "translated_text": "The principal multiplied by the time and divided by the fruit, diminished by one, multiplied by the rate — [this gives] the time;"
         },
         {
           "tag": "l",
@@ -392,7 +422,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.14c"
           },
           "text": "sva-phala-yuta-#rūpa-bhaktam mūla-phala-aikyam bhavati mūlam//",
-          "segment_number": 31
+          "segment_number": 31,
+          "translated_text": "divided by the fruit plus one — the sum of principal and interest becomes the principal."
         }
       ]
     },
@@ -408,7 +439,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.15a"
           },
           "text": "kāla-pramāṇa-ghātas para-kāla-hṛtas dvidhā ādya-miśra-vadhāt/",
-          "segment_number": 32
+          "segment_number": 32,
+          "translated_text": "The product of time and principal, divided by the other time — twice; from the product of the first mixture,"
         },
         {
           "tag": "l",
@@ -416,7 +448,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.15c"
           },
           "text": "anya-%ardha-kṛti-yutāt padam anya-%ardha-ūnam pramāṇa-phalam//",
-          "segment_number": 33
+          "segment_number": 33,
+          "translated_text": "added to the square of half the other, the square root, diminished by half the other — [gives] the principal and interest."
         }
       ]
     },
@@ -432,7 +465,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.16a"
           },
           "text": "prakṣepa-yoga-hṛtayā labdhyā prakṣepakās guṇās lābhās/",
-          "segment_number": 34
+          "segment_number": 34,
+          "translated_text": "The gains [are found] by multiplying the contributions by the quotient obtained by dividing the total profit by the sum of contributions;"
         },
         {
           "tag": "l",
@@ -440,7 +474,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.16c"
           },
           "text": "ūna-adhika-uttarās tad-yuta-ūnayā sva-phalam ūna-yutam//",
-          "segment_number": 35
+          "segment_number": 35,
+          "translated_text": "with diminished or increased increments, [multiply] by that [quotient] increased or decreased; [each one's] share is decreased or increased."
         }
       ]
     },
@@ -448,7 +483,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[śreḍhī-vyavahāras]",
-      "segment_number": 36
+      "segment_number": 36,
+      "translated_text": "[Series procedure]"
     },
     {
       "tag": "lg",
@@ -462,7 +498,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.17a"
           },
           "text": "padam %eka-hīnam uttara-guṇitam saṃyuktam ādinā antya-dhanam/",
-          "segment_number": 37
+          "segment_number": 37,
+          "translated_text": "The number of terms minus one, multiplied by the common difference, added to the first term — [this is] the last term;"
         },
         {
           "tag": "l",
@@ -470,7 +507,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.17c"
           },
           "text": "ādi-yuta-antya-dhana-%ardham madhya-dhanam pada-guṇam gaṇitam//",
-          "segment_number": 38
+          "segment_number": 38,
+          "translated_text": "half the sum of the first and last terms is the middle term; multiplied by the number of terms — [this is] the sum."
         }
       ]
     },
@@ -486,7 +524,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.18a"
           },
           "text": "uttara-hīna-%dvi-guṇa-ādi-śeṣa-vargam dhana-uttara-%aṣṭa-vadhe/",
-          "segment_number": 39
+          "segment_number": 39,
+          "translated_text": "The square of the remainder of twice the first term minus the common difference, added to eight times the product of the sum and the common difference —"
         },
         {
           "tag": "l",
@@ -494,7 +533,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.18c"
           },
           "text": "prakṣipya padam śeṣa-ūnam %dvi-guṇa-uttara-hṛtam gacchas//",
-          "segment_number": 40
+          "segment_number": 40,
+          "translated_text": "the square root of this, diminished by the remainder, divided by twice the common difference — [gives] the number of terms."
         }
       ]
     },
@@ -510,7 +550,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.19a"
           },
           "text": "%eka-uttaram %eka-ādyam yadi iṣṭa-gacchasya bhavati saṅkalitam/",
-          "segment_number": 41
+          "segment_number": 41,
+          "translated_text": "If [the series has] common difference one and first term one, the sum of the desired number of terms"
         },
         {
           "tag": "l",
@@ -518,7 +559,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.19c"
           },
           "text": "tat %dvi-yuta-gaccha-guṇitam %tri-hṛtam saṅkalita-saṅkalitam//",
-          "segment_number": 42
+          "segment_number": 42,
+          "translated_text": "multiplied by the number of terms plus two, divided by three — [this is] the sum of sums (<s>saṅkalita-saṅkalita</s>)."
         }
       ]
     },
@@ -534,7 +576,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.20a"
           },
           "text": "%dvi-guṇa-pada-sa-%eka-guṇitam tat %tri-hṛtam bhavati varga-saṅkalitam/",
-          "segment_number": 43
+          "segment_number": 43,
+          "translated_text": "That [number of terms], multiplied by twice the number of terms plus one, divided by three — this is the sum of squares;"
         },
         {
           "tag": "l",
@@ -542,7 +585,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.20c"
           },
           "text": "ghana-saṅkalitam tad-kṛtis eṣām sama-golakais citayas//",
-          "segment_number": 44
+          "segment_number": 44,
+          "translated_text": "the sum of cubes is the square of that [sum]; the piles of these are [made] with equal spheres."
         }
       ]
     },
@@ -550,7 +594,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[kṣetra-vyavahāras]",
-      "segment_number": 45
+      "segment_number": 45,
+      "translated_text": "[Geometry procedure]"
     },
     {
       "tag": "lg",
@@ -564,7 +609,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.21a"
           },
           "text": "sthūla-phalam %tri-%catur-bhuja-bāhu-pratibāhu-yoga-#dala-ghātas/",
-          "segment_number": 46
+          "segment_number": 46,
+          "translated_text": "The approximate area [of a quadrilateral] is the product of the halves of the sums of opposite sides;"
         },
         {
           "tag": "l",
@@ -572,7 +618,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.21c"
           },
           "text": "bhuja-yoga-%ardha-%catuṣṭaya-bhuja-ūna-ghātāt padam sūkṣmam//",
-          "segment_number": 47
+          "segment_number": 47,
+          "translated_text": "the exact [area] is the square root of the product of the four [quantities each being] half the sum of sides minus [one] side."
         }
       ]
     },
@@ -595,7 +642,8 @@
               "text": "D: -kṛtyantyantara- < -kṛti-antara-"
             }
           ],
-          "segment_number": 48
+          "segment_number": 48,
+          "translated_text": "The base increased or decreased by the difference of the squares of the sides divided by the base, halved — [gives] the two segments (<s>āvādha</s>);"
         },
         {
           "tag": "l",
@@ -603,7 +651,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.22c"
           },
           "text": "sva-āvādhā-varga-ūnāt bhuja-vargāt mūlam avalambas//",
-          "segment_number": 49
+          "segment_number": 49,
+          "translated_text": "the square root of the square of a side minus the square of its own segment is the perpendicular (<s>avalamba</s>)."
         }
       ]
     },
@@ -619,7 +668,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.23a"
           },
           "text": "aviṣama-%catur-asra-bhuja--pratibhuja-vadhayos yutes padam karṇas/",
-          "segment_number": 50
+          "segment_number": 50,
+          "translated_text": "The square root of the sum of the products of the two pairs of adjacent sides of a non-equilateral quadrilateral is the diagonal;"
         },
         {
           "tag": "l",
@@ -627,7 +677,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.23c"
           },
           "text": "karṇa-kṛtis bhū-mukha-yuti-#dala-varga-ūnā padam lambas//",
-          "segment_number": 51
+          "segment_number": 51,
+          "translated_text": "the square root of the square of the diagonal minus the square of half the sum of the top and base is the perpendicular."
         }
       ]
     },
@@ -643,7 +694,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.24a"
           },
           "text": "karṇa-kṛtes koṭi-kṛtim viśodhya mūlam bhujas bhujasya kṛtim/",
-          "segment_number": 52
+          "segment_number": 52,
+          "translated_text": "Subtracting the square of the upright from the square of the hypotenuse, the square root is the base; subtracting the square of the base,"
         },
         {
           "tag": "l",
@@ -658,7 +710,8 @@
               "text": "D: vāhu < bāhu"
             }
           ],
-          "segment_number": 53
+          "segment_number": 53,
+          "translated_text": "the root is the upright; the square root of the sum of the squares of the upright and the base is the hypotenuse."
         }
       ]
     },
@@ -674,7 +727,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.25a"
           },
           "text": "karṇa-yutau ūrdhva-adhara-khaṇḍe karṇa-avalamba-yoge vā/",
-          "segment_number": 54
+          "segment_number": 54,
+          "translated_text": "The upper and lower segments [are found from] the sum of the diagonals, or [from] the sum of the diagonal and perpendicular;"
         },
         {
           "tag": "l",
@@ -682,7 +736,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.25c"
           },
           "text": "sva-āvādhe sva-yuti-hṛte dvidhā pṛthak karṇa-lamba-guṇe//",
-          "segment_number": 55
+          "segment_number": 55,
+          "translated_text": "the two segments, divided by their own sum — the two products of diagonal and perpendicular [give the segments] separately."
         }
       ]
     },
@@ -698,7 +753,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.26a"
           },
           "text": "aviṣama-pārśva-bhuja-guṇas karṇas %dvi-guṇa-avalambaka-vibhaktas/",
-          "segment_number": 56
+          "segment_number": 56,
+          "translated_text": "The diagonal multiplied by the lateral side of a non-equilateral [quadrilateral], divided by twice the perpendicular —"
         },
         {
           "tag": "l",
@@ -706,7 +762,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.26c"
           },
           "text": "hṛdayam viṣamasya bhuja-pratibhuja-kṛti-yoga-mūla-%ardham//",
-          "segment_number": 57
+          "segment_number": 57,
+          "translated_text": "[gives] the heart[-line]; for a scalene [triangle], half the square root of the sum of the squares of a side and its opposite."
         }
       ]
     },
@@ -722,7 +779,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.27a"
           },
           "text": "%tri-bhujasya vadhas bhujayos %dvi-guṇita-lamba-uddhṛtas hṛdaya-rajjus/",
-          "segment_number": 58
+          "segment_number": 58,
+          "translated_text": "For a triangle, the product of the two sides divided by twice the perpendicular is the heart-cord (<s>hṛdaya-rajju</s>);"
         },
         {
           "tag": "l",
@@ -730,7 +788,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.27c"
           },
           "text": "sā %dvi-guṇā %tri-%catur-bhuja-koṇa-spṛk vṛtta-viṣkambhas//",
-          "segment_number": 59
+          "segment_number": 59,
+          "translated_text": "that doubled — the diameter of the circle touching the vertices of a triangle or quadrilateral."
         }
       ]
     },
@@ -746,7 +805,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.28a"
           },
           "text": "karṇa-āśrita-bhuja-ghāta-aikyam ubhayathā anyonya-bhājitam guṇayet/",
-          "segment_number": 60
+          "segment_number": 60,
+          "translated_text": "The sum of the products of the sides adjacent to each diagonal, [taken] both ways, divided by each other, multiplied"
         },
         {
           "tag": "l",
@@ -754,7 +814,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.28c"
           },
           "text": "yogena bhuja-pratibhuja-vadhayos karṇau pade viṣame//",
-          "segment_number": 61
+          "segment_number": 61,
+          "translated_text": "by the product of opposite sides — the square roots are the two diagonals of a scalene [quadrilateral]."
         }
       ]
     },
@@ -770,7 +831,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.29a"
           },
           "text": "viṣama-%catur-asra-madhye viṣama-%tri-bhuja-%dvayam prakalpya pṛthak/",
-          "segment_number": 62
+          "segment_number": 62,
+          "translated_text": "In a scalene quadrilateral, having separately conceived two scalene triangles in the middle,"
         },
         {
           "tag": "l",
@@ -778,7 +840,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.29c"
           },
           "text": "karṇa-%dvayena pūrva-vat āvādhe lambakau ca pṛthak//",
-          "segment_number": 63
+          "segment_number": 63,
+          "translated_text": "the two segments and two perpendiculars [are found] separately by the two diagonals as before."
         }
       ]
     },
@@ -794,7 +857,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.30a"
           },
           "text": "viṣama-bhuja-antar-%tri-bhuje prakalpya karṇau bhujau tad-āvādhe/",
-          "segment_number": 64
+          "segment_number": 64,
+          "translated_text": "In the inner triangle of a scalene [quadrilateral], having conceived the two diagonals as two sides, their segments"
         },
         {
           "tag": "l",
@@ -802,7 +866,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.30c"
           },
           "text": "pṛthak ūrdhva-adhara-khaṇḍe karṇa-yutau karṇayos adhare//",
-          "segment_number": 65
+          "segment_number": 65,
+          "translated_text": "[are found] separately; the upper and lower segments [are obtained by] the sum of the diagonals, the lower of the diagonals."
         }
       ]
     },
@@ -818,7 +883,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.31a"
           },
           "text": "%tri-bhje bhujau tu bhūmis tad-lambas lambaka-adharam khaṇḍam/",
-          "segment_number": 66
+          "segment_number": 66,
+          "translated_text": "In the triangle, the two sides are the base; its perpendicular is the lower segment of the perpendicular;"
         },
         {
           "tag": "l",
@@ -826,7 +892,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.31c"
           },
           "text": "ūrdhvam avalamba-khaṇḍam lambaka-yoga-%ardham adhara-ūnam//",
-          "segment_number": 67
+          "segment_number": 67,
+          "translated_text": "the upper segment of the perpendicular is half the sum of the perpendiculars minus the lower."
         }
       ]
     },
@@ -842,7 +909,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.32a"
           },
           "text": "karṇa-avalambaka-yutau khaṇḍe karṇa-avalambakayos adhare/",
-          "segment_number": 68
+          "segment_number": 68,
+          "translated_text": "The segments [are found from] the sum of the diagonal and perpendicular; the lower of the diagonal and perpendicular,"
         },
         {
           "tag": "l",
@@ -850,7 +918,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.32c"
           },
           "text": "anupātena tad-ūne ūrdhve sūcyām sa-pāṭāyām//",
-          "segment_number": 69
+          "segment_number": 69,
+          "translated_text": "by proportion; in the decreased upper [segment], for a needle[-shaped figure] and a slab."
         }
       ]
     },
@@ -866,7 +935,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.33a"
           },
           "text": "kṛti-yutis asadṛśa-rāśyos bāhus ghātas %dvi-saṅguṇas lambas/",
-          "segment_number": 70
+          "segment_number": 70,
+          "translated_text": "The sum of the squares of two unequal quantities is the hypotenuse; twice their product is the upright;"
         },
         {
           "tag": "l",
@@ -874,7 +944,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.33c"
           },
           "text": "kṛti-antaram asadṛśayos %dvi-guṇam %dvi-sama-%tri-bhuja-bhūmis//",
-          "segment_number": 71
+          "segment_number": 71,
+          "translated_text": "twice the difference of the squares of the unequal [quantities] is the base of an isosceles triangle."
         }
       ]
     },
@@ -890,7 +961,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.34a"
           },
           "text": "iṣṭa-%dvayena bhaktas dvidhā iṣṭa-vargas phala-iṣṭa-yoga-%ardhe/",
-          "segment_number": 72
+          "segment_number": 72,
+          "translated_text": "The square of a chosen [number] divided by two chosen [numbers] in two ways — the results increased and decreased by the chosen [number], halved —"
         },
         {
           "tag": "l",
@@ -898,7 +970,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.34c"
           },
           "text": "viṣama-%tri-bhujasya bhujau iṣṭa-ūna-phala-%ardha-yogas bhūs//",
-          "segment_number": 73
+          "segment_number": 73,
+          "translated_text": "[give] the two sides of a scalene triangle; the base is the sum of the result decreased by the chosen [number] halved."
         }
       ]
     },
@@ -914,7 +987,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.35a"
           },
           "text": "iṣṭasya bhujasya kṛtis bhaktā ūnā iṣṭena tad-#dalam koṭis/",
-          "segment_number": 74
+          "segment_number": 74,
+          "translated_text": "The square of a chosen side, divided [by another chosen number] and diminished by it, halved — [gives] the upright;"
         },
         {
           "tag": "l",
@@ -922,7 +996,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.35c"
           },
           "text": "āyata-%catur-asrasya kṣetrasya iṣṭa-adhikā karṇas//",
-          "segment_number": 75
+          "segment_number": 75,
+          "translated_text": "increased by the chosen [number gives] the hypotenuse of a rectangle."
         }
       ]
     },
@@ -938,7 +1013,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.36a"
           },
           "text": "āyata-karṇas bāhū bhuja-kṛtis iṣṭena bhājitā iṣṭa-ūnā/",
-          "segment_number": 76
+          "segment_number": 76,
+          "translated_text": "The hypotenuse of a rectangle [and] its sides: the square of one side divided by the chosen [number], diminished by the chosen,"
         },
         {
           "tag": "l",
@@ -946,7 +1022,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.36c"
           },
           "text": "%dvi-hṛtā koṭi-adhikā bhūs mukham ūnā %dvi-sama-%catur-asre//",
-          "segment_number": 77
+          "segment_number": 77,
+          "translated_text": "halved, increased [gives] the upright; the base is [the result] increased; for an isosceles trapezium, the face is decreased."
         }
       ]
     },
@@ -962,7 +1039,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.37a"
           },
           "text": "karṇa-kṛtis %tri-sama-hbujās %trayas %caturthas viśodhya koṭi-kṛtim/",
-          "segment_number": 78
+          "segment_number": 78,
+          "translated_text": "Three of the sides equal to the square of the hypotenuse; the fourth, subtracting the square of the upright"
         },
         {
           "tag": "l",
@@ -970,7 +1048,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.37c"
           },
           "text": "bāhu-kṛtes %tri-guṇāyās yadi adhikas bhūs mukham hīnas//",
-          "segment_number": 79
+          "segment_number": 79,
+          "translated_text": "from three times the square of the side — if greater, [it is] the base; the face is less."
         }
       ]
     },
@@ -986,7 +1065,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.38a"
           },
           "text": "jātya-%dvaya-koṭi-bhujās para-karṇa-guṇās bhujās %catur-viṣame/",
-          "segment_number": 80
+          "segment_number": 80,
+          "translated_text": "The uprights and bases of two right triangles, multiplied by each other's hypotenuses, [are] the sides of a scalene quadrilateral;"
         },
         {
           "tag": "l",
@@ -994,7 +1074,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.38c"
           },
           "text": "adhikas bhūs mukha-hīnas bāhu-%dvitayam bhujau anyau//",
-          "segment_number": 81
+          "segment_number": 81,
+          "translated_text": "the base is the greater; the face is the lesser; the other two sides are the remaining pair."
         }
       ]
     },
@@ -1010,7 +1091,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.39a"
           },
           "text": "iṣṭa-guṇa-kāra-guṇitas giri-ucchrāyas pura-antaram anaṣṭam/",
-          "segment_number": 82
+          "segment_number": 82,
+          "translated_text": "The height of the hill multiplied by the chosen multiplier [and] the distance between the cities, unchanged,"
         },
         {
           "tag": "l",
@@ -1018,7 +1100,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.39c"
           },
           "text": "%dvi-yuta-guṇa-kāra-bhājitam utpātas anyasya sama-gatyos//",
-          "segment_number": 83
+          "segment_number": 83,
+          "translated_text": "divided by the multiplier plus two — [gives] the leap of one, [assuming] equal speeds."
         }
       ]
     },
@@ -1034,7 +1117,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.40a"
           },
           "text": "vyāsa-vyāsa-%ardha-kṛtī paridhi-phale vyāvahārike %tri-guṇe/",
-          "segment_number": 84
+          "segment_number": 84,
+          "translated_text": "The diameter and the square of the half-diameter [give] the practical circumference and area when multiplied by three;"
         },
         {
           "tag": "l",
@@ -1042,7 +1126,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.40c"
           },
           "text": "tad-vargābhyām %daśabhis saṅguṇitābhyām pade sūkṣme//",
-          "segment_number": 85
+          "segment_number": 85,
+          "translated_text": "from their squares multiplied by ten, the [respective] square roots are the exact [values]."
         }
       ]
     },
@@ -1058,7 +1143,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.41a"
           },
           "text": "vṛtte śara-ūna-guṇitāt vyāsāt %catur-āhatāt padam jīvā/",
-          "segment_number": 86
+          "segment_number": 86,
+          "translated_text": "In a circle, the square root of the diameter diminished by the arrow and multiplied by four times the arrow is the chord;"
         },
         {
           "tag": "l",
@@ -1066,7 +1152,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.41c"
           },
           "text": "jyā-vargas %catur-āhata-śara-bhaktas śara-yutas vyāsas//",
-          "segment_number": 87
+          "segment_number": 87,
+          "translated_text": "the square of the chord divided by four times the arrow, plus the arrow, is the diameter."
         }
       ]
     },
@@ -1082,7 +1169,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.42a"
           },
           "text": "jyā-vyāsa-kṛti-viśeṣāt mūla-vyāsa-antara-%ardham iṣus alpas/",
-          "segment_number": 88
+          "segment_number": 88,
+          "translated_text": "From the difference of the squares of the chord and diameter, the square root — half the difference from the diameter — is the smaller arrow;"
         },
         {
           "tag": "l",
@@ -1090,7 +1178,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.42c"
           },
           "text": "vyāsau grāsa-ūna-guṇau grāsa-ūna-aikya-uddhṛtau bāṇau//",
-          "segment_number": 89
+          "segment_number": 89,
+          "translated_text": "the two diameters multiplied by [the diameter] minus the overlap, divided by the sum minus the overlap — [give] the two arrows."
         }
       ]
     },
@@ -1106,7 +1195,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.43a"
           },
           "text": "iṣṭa-śara-%dvaya-bhakte jyā-%ardha-kṛtī śara-yute phale vyāsau/",
-          "segment_number": 90
+          "segment_number": 90,
+          "translated_text": "The squares of the half-chords, divided by the two arrows, added to the arrows — [give] the two diameters;"
         },
         {
           "tag": "l",
@@ -1114,7 +1204,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.43c"
           },
           "text": "śarayos phalayos aikyam grāsas grāsa-ūnam aikyam tat//",
-          "segment_number": 91
+          "segment_number": 91,
+          "translated_text": "the sum of the arrows is the overlap; the sum minus the overlap is that [total diameter]."
         }
       ]
     },
@@ -1122,7 +1213,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[khāta-vyavahāras]",
-      "segment_number": 92
+      "segment_number": 92,
+      "translated_text": "[Excavation procedure]"
     },
     {
       "tag": "lg",
@@ -1136,7 +1228,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.44a"
           },
           "text": "kṣetra-phalam vedha-guṇam sama-khāta-phalam hṛtam %tribhis sūcyās/",
-          "segment_number": 93
+          "segment_number": 93,
+          "translated_text": "The area multiplied by the depth is the volume of a uniform excavation; divided by three [gives] that of a needle[-shaped pit];"
         },
         {
           "tag": "l",
@@ -1144,7 +1237,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.44c"
           },
           "text": "mukha-tala-tulya-bhuja-aikyāni %eka-agra-hṛtāni sama-rajjus//",
-          "segment_number": 94
+          "segment_number": 94,
+          "translated_text": "the sums of the corresponding sides of the top and base, each divided by their count, [are] the mean cords."
         }
       ]
     },
@@ -1160,7 +1254,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.45a"
           },
           "text": "mukha-tala-yuti-#dala-gaṇitam vedha-guṇam vyāvahārikam gaṇitam/",
-          "segment_number": 95
+          "segment_number": 95,
+          "translated_text": "The area of [the figure with sides equal to] half the sum of the top and base, multiplied by the depth, is the practical volume;"
         },
         {
           "tag": "l",
@@ -1168,7 +1263,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.45c"
           },
           "text": "mukha-tala-gaṇita-aikya-%ardham vedha-guṇam syāt gaṇitam autram//",
-          "segment_number": 96
+          "segment_number": 96,
+          "translated_text": "half the sum of the areas of the top and base, multiplied by the depth, is the <s>autra</s> (second) volume."
         }
       ]
     },
@@ -1184,7 +1280,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.46a"
           },
           "text": "autra-gaṇitāt viśodhya vyavahāra-phalam bhajet %tribhis śeṣam/",
-          "segment_number": 97
+          "segment_number": 97,
+          "translated_text": "Subtracting the practical volume from the <s>autra</s> volume, dividing the remainder by three,"
         },
         {
           "tag": "l",
@@ -1192,7 +1289,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.46c"
           },
           "text": "labdham vyavahāra-phale prakṣipya bhavati phalam sūkṣmam//",
-          "segment_number": 98
+          "segment_number": 98,
+          "translated_text": "and adding the quotient to the practical volume gives the exact volume."
         }
       ]
     },
@@ -1200,7 +1298,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[citi-vyavahāras]",
-      "segment_number": 99
+      "segment_number": 99,
+      "translated_text": "[Stacking procedure]"
     },
     {
       "tag": "lg",
@@ -1214,7 +1313,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.47a"
           },
           "text": "ākṛti-phalam auccya-āhatam agra-tala-aikya-%ardham auccya-dairghya-guṇam/",
-          "segment_number": 100
+          "segment_number": 100,
+          "translated_text": "The area of the shape multiplied by the height; half the sum of the top and base [areas] multiplied by the height and length"
         },
         {
           "tag": "l",
@@ -1222,7 +1322,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.47c"
           },
           "text": "ghana-gaṇitam iṣṭakā-ghana-phalena hṛtam iṣṭakā-gaṇitam//",
-          "segment_number": 101
+          "segment_number": 101,
+          "translated_text": "is the solid volume; divided by the solid volume of a [single] brick gives the number of bricks."
         }
       ]
     },
@@ -1230,7 +1331,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[krākacika-vyavahāras]",
-      "segment_number": 102
+      "segment_number": 102,
+      "translated_text": "[Sawing procedure]"
     },
     {
       "tag": "lg",
@@ -1244,7 +1346,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.48a"
           },
           "text": "vistāra-āyāma-aṅgula-ghātas mārga-āhatas %dvi-#veda-hṛtas/",
-          "segment_number": 103
+          "segment_number": 103,
+          "translated_text": "The product of breadth, length, and thickness in <s>aṅgulas</s>, multiplied by the number of cuts, divided by twice four —"
         },
         {
           "tag": "l",
@@ -1252,7 +1355,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.48c"
           },
           "text": "kiṣku-aṅgulāni labdham tat %ṣaṇṇavatis bhavati karma//",
-          "segment_number": 104
+          "segment_number": 104,
+          "translated_text": "the quotient in <s>kiṣku</s>-<s>aṅgulas</s>; that multiplied by ninety-six is the work [measure]."
         }
       ]
     },
@@ -1268,7 +1372,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.49a"
           },
           "text": "śākā-ādiṣu śālmalyām %śata-%dvayam bījake %śatam %viṃśam/",
-          "segment_number": 105
+          "segment_number": 105,
+          "translated_text": "For <s>śākā</s>-wood and the like, for <s>śālmali</s> (silk-cotton) [the measure] is two hundred; for <s>bījaka</s>, one hundred and twenty;"
         },
         {
           "tag": "l",
@@ -1276,7 +1381,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.49c"
           },
           "text": "śāla-sarala-ādiṣu %śatam atha avi-dāruṣu %catuḥṣaṣṭis/",
-          "segment_number": 106
+          "segment_number": 106,
+          "translated_text": "for <s>śāla</s>, <s>sarala</s> (pine), and the like, one hundred; and for sheep-wood (<s>avi-dāru</s>), sixty-four."
         }
       ]
     },
@@ -1284,7 +1390,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[rāśi-vyavahāras]",
-      "segment_number": 107
+      "segment_number": 107,
+      "translated_text": "[Grain-heap procedure]"
     },
     {
       "tag": "lg",
@@ -1298,7 +1405,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.50a"
           },
           "text": "%navamas śūkiṣu %daśamas sthūleṣu %ekādaśas bhavati aṇuṣu/",
-          "segment_number": 108
+          "segment_number": 108,
+          "translated_text": "The ninth [measure applies] for grain with husks; the tenth for coarse [grains]; the eleventh applies for fine [grains]."
         },
         {
           "tag": "l",
@@ -1306,7 +1414,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.50c"
           },
           "text": "paridhes vedhas paridhes %ṣaṣ-aṃśa-varga-āhatas gaṇitam//",
-          "segment_number": 109
+          "segment_number": 109,
+          "translated_text": "The depth of the circumference — the circumference, multiplied by the square of one-sixth [of itself], is the volume."
         }
       ]
     },
@@ -1322,7 +1431,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.51a"
           },
           "text": "%dvi-%catur-sa-%tri-aṃśa-guṇas bhitti-antar-vāhya-koṇa-gas paridhis/",
-          "segment_number": 110
+          "segment_number": 110,
+          "translated_text": "The circumference, multiplied by two-fourths or one-third, [applies] at a wall, inside, outside, or at a corner;"
         },
         {
           "tag": "l",
@@ -1330,7 +1440,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.51c"
           },
           "text": "prāk-vat kṛtvā gaṇitam tad-gaṇitam sva-guṇa-kāra-hṛtam//",
-          "segment_number": 111
+          "segment_number": 111,
+          "translated_text": "computing the area as before, that volume divided by the square of its own multiplier [gives the adjusted result]."
         }
       ]
     },
@@ -1338,7 +1449,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[chāyā-vyavahāras]",
-      "segment_number": 112
+      "segment_number": 112,
+      "translated_text": "[Shadow procedure]"
     },
     {
       "tag": "lg",
@@ -1352,7 +1464,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.52a"
           },
           "text": "chāyā-nara-sa-%eka-hṛtam dyu-#dalam prāk-aparayos dyu-gata-śeṣam/",
-          "segment_number": 113
+          "segment_number": 113,
+          "translated_text": "Half the day divided by the shadow plus the person [height] plus one [gives] the elapsed and remaining [time] for the east and west;"
         },
         {
           "tag": "l",
@@ -1360,7 +1473,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.52c"
           },
           "text": "dina-gata-śeṣa-aṃśa-hṛtam dyu-#dalam chāyā-nara-vi-%ekam//",
-          "segment_number": 114
+          "segment_number": 114,
+          "translated_text": "half the day divided by the fraction of the elapsed or remaining [time of] the day [gives] the shadow minus the person plus one."
         }
       ]
     },
@@ -1376,7 +1490,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.53a"
           },
           "text": "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/",
-          "segment_number": 115
+          "segment_number": 115,
+          "translated_text": "The distance between the base of the lamp and the base of the gnomon, multiplied by the desired measure of the gnomon,"
         },
         {
           "tag": "l",
@@ -1384,7 +1499,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.53c"
           },
           "text": "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//",
-          "segment_number": 116
+          "segment_number": 116,
+          "translated_text": "subtracting the gnomon from the height of the lamp-flame, divided by the remainder — [this gives] the shadow."
         }
       ]
     },
@@ -1400,7 +1516,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.54a"
           },
           "text": "chāyā-agra-antara-guṇitā chāyā chāyā-antareṇa bhaktā bhūs/",
-          "segment_number": 117
+          "segment_number": 117,
+          "translated_text": "The shadow multiplied by the distance between the tips of the shadows, divided by the difference of the shadows — [gives] the ground [distance];"
         },
         {
           "tag": "l",
@@ -1408,7 +1525,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.54c"
           },
           "text": "bhūs śaṅku-guṇā chāyā-vibhājitā dīpa-śikhayā auccyam//",
-          "segment_number": 118
+          "segment_number": 118,
+          "translated_text": "the ground [distance] multiplied by the gnomon, divided by the shadow — [gives] the height of the lamp-flame."
         }
       ]
     },
@@ -1416,7 +1534,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[pratyutpanna-ādayas]",
-      "segment_number": 119
+      "segment_number": 119,
+      "translated_text": "[Multiplication and other operations]"
     },
     {
       "tag": "lg",
@@ -1430,7 +1549,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.55a"
           },
           "text": "guṇa-kāra-khaṇḍa-tulyas guṇyas go-mūtrikā-kṛtas guṇitas/",
-          "segment_number": 120
+          "segment_number": 120,
+          "translated_text": "The multiplicand, [placed in rows] equal to the parts of the multiplier, arranged in the <s>gomūtrikā</s> (zigzag) pattern, multiplied,"
         },
         {
           "tag": "l",
@@ -1438,7 +1558,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.55c"
           },
           "text": "sahitas pratyutpannas guṇa-kāraka-bheda-tulyas vā//",
-          "segment_number": 121
+          "segment_number": 121,
+          "translated_text": "and added together — [this gives] the product; or [the multiplicand is made] equal to the divisions of the multiplier."
         }
       ]
     },
@@ -1454,7 +1575,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.56a"
           },
           "text": "guṇyas rāśis guṇa-kāra-rāśinā iṣṭa-adhika-ūnakena guṇas/",
-          "segment_number": 122
+          "segment_number": 122,
+          "translated_text": "The multiplicand quantity, [multiplied] by the multiplier quantity increased or decreased by a chosen [number],"
         },
         {
           "tag": "l",
@@ -1462,7 +1584,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.56c"
           },
           "text": "guṇya-iṣṭa-vadha-ūna-yutas guṇake abhyadhika-ūnake kāryas//",
-          "segment_number": 123
+          "segment_number": 123,
+          "translated_text": "decreased or increased by the product of the multiplicand and the chosen [number] — [this] is to be done when the multiplier is greater or less."
         }
       ]
     },
@@ -1478,7 +1601,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.57a"
           },
           "text": "chedena iṣṭa-yuta-ūnena āptam bhājyāt anaṣṭam iṣṭa-guṇam/",
-          "segment_number": 124
+          "segment_number": 124,
+          "translated_text": "The dividend divided by the divisor increased or decreased by a chosen [number] gives an unchanged [quotient] multiplied by the chosen;"
         },
         {
           "tag": "l",
@@ -1486,7 +1610,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.57c"
           },
           "text": "prakṛti-stha-cheda-hṛtam labdhyā yuta-hīnakam anaṣṭam//",
-          "segment_number": 125
+          "segment_number": 125,
+          "translated_text": "divided by the original divisor, the quotient increased or decreased — [gives] the unchanged [result]."
         }
       ]
     },
@@ -1502,7 +1627,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.58a"
           },
           "text": "guṇyas cheda-phala-vadhas guṇaka-hṛtas guṇya-bhājitas guṇakas/",
-          "segment_number": 126
+          "segment_number": 126,
+          "translated_text": "The multiplicand is the product of the divisor and the quotient; divided by the multiplicand [gives] the multiplier;"
         },
         {
           "tag": "l",
@@ -1510,7 +1636,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.58c"
           },
           "text": "cheda-uddhṛtas phalam guṇya-guṇa-vadhas phala-hṛtas chedas//",
-          "segment_number": 127
+          "segment_number": 127,
+          "translated_text": "divided by the divisor [gives] the quotient; the product of the multiplicand and multiplier divided by the quotient [gives] the divisor."
         }
       ]
     },
@@ -1526,7 +1653,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.59a"
           },
           "text": "guṇya-guṇa-kārayos cheda-labdhayos yadi %dvayos %dvayos nāśas/",
-          "segment_number": 128
+          "segment_number": 128,
+          "translated_text": "If, of the multiplicand and multiplier [and] of the divisor and quotient, two [pairs of] two are destroyed,"
         },
         {
           "tag": "l",
@@ -1534,7 +1662,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.59c"
           },
           "text": "teṣām dṛśyau vyastau kṛtvā tad-sthānayos ca iṣṭau//",
-          "segment_number": 129
+          "segment_number": 129,
+          "translated_text": "then, making their visible [forms] interchanged and placing chosen [values] in those positions [one can recover them]."
         }
       ]
     },
@@ -1550,7 +1679,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.60a"
           },
           "text": "guṇyam guṇa-kāram vā guṇayet chedena bhāga-hārasya/",
-          "segment_number": 130
+          "segment_number": 130,
+          "translated_text": "One should multiply the multiplicand or the multiplier by the denominator of the divisor;"
         },
         {
           "tag": "l",
@@ -1558,7 +1688,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.60c"
           },
           "text": "guṇya-guṇa-kāra-rāśyos cheda-guṇas bhāga-hāras ca//",
-          "segment_number": 131
+          "segment_number": 131,
+          "translated_text": "of the multiplicand and multiplier quantities, [one] multiplied by the denominator is the divisor."
         }
       ]
     },
@@ -1574,7 +1705,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.61a"
           },
           "text": "acchedasya chedam #rūpam kṛtvā anyat ukta-vat sarvam/",
-          "segment_number": 132
+          "segment_number": 132,
+          "translated_text": "For [a number] without a denominator, making unity the denominator, everything else is as stated;"
         },
         {
           "tag": "l",
@@ -1589,7 +1721,8 @@
               "text": "D: avaparttyau < apavartyau"
             }
           ],
-          "segment_number": 133
+          "segment_number": 133,
+          "translated_text": "the denominator and multiplier, reduced by the same chosen [common factor], or the multiplicands [may be simplified]."
         }
       ]
     },
@@ -1605,7 +1738,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.62a"
           },
           "text": "sva-vikala-%ṣaṣṭi-aṃśa-guṇas sakalas %triṃśa-uddhṛtas vikala-vargas/",
-          "segment_number": 134
+          "segment_number": 134,
+          "translated_text": "A whole [number] multiplied by sixty parts of its own seconds, divided by thirty — the square of the seconds"
         },
         {
           "tag": "l",
@@ -1613,7 +1747,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.62c"
           },
           "text": "prakṣepyas sakala-kṛtau varga-ghanau %dvi-%tri-tulya-vadhau//",
-          "segment_number": 135
+          "segment_number": 135,
+          "translated_text": "is to be added to the square of the whole; squares and cubes are products of two and three equal [factors]."
         }
       ]
     },
@@ -1629,7 +1764,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.63a"
           },
           "text": "rāśes ūnam %dvi-guṇam bahutara-guṇam ūna-kṛti-yutam vargas/",
-          "segment_number": 136
+          "segment_number": 136,
+          "translated_text": "Twice the quantity diminished [by a chosen number], multiplied [by it] many times, added to the square of the diminished — [gives] the square;"
         },
         {
           "tag": "l",
@@ -1637,7 +1773,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.63c"
           },
           "text": "rāśes iṣṭa-yuta-ūnāt vadhas kṛtis vā iṣṭa-kṛti-yuktas//",
-          "segment_number": 137
+          "segment_number": 137,
+          "translated_text": "or the product of the quantity increased and decreased by a chosen [number], plus the square of the chosen — [gives] the square."
         }
       ]
     },
@@ -1653,7 +1790,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.64a"
           },
           "text": "iṣṭa-alpa-rāśi-vargau yukta-ūnau itara-vikala-vargābhyām/",
-          "segment_number": 138
+          "segment_number": 138,
+          "translated_text": "The squares of the chosen [number] and the lesser quantity, increased or decreased by the squares of the other's seconds,"
         },
         {
           "tag": "l",
@@ -1661,7 +1799,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.64c"
           },
           "text": "%dvi-guṇa-itara-rāśibhyām bhaktau tena adhika-ūnābhyām//",
-          "segment_number": 139
+          "segment_number": 139,
+          "translated_text": "divided by twice the other quantity, by that increased or decreased [give the roots]."
         }
       ]
     },
@@ -1677,7 +1816,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.65a"
           },
           "text": "sthāna-antareṣu labdham yena samam phala-yuta-ūnaka-chedas/",
-          "segment_number": 140
+          "segment_number": 140,
+          "translated_text": "The quotient obtained at intermediate positions, by which it is equal to the result-plus-or-minus denominator"
         },
         {
           "tag": "l",
@@ -1685,7 +1825,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.65c"
           },
           "text": "dalitas kṛti-yoga-antara-padam itaras vā phala-yuta-ūnas//",
-          "segment_number": 141
+          "segment_number": 141,
+          "translated_text": "halved — the square root of the difference of the sum of squares — or the other, plus or minus the result."
         }
       ]
     },
@@ -1701,7 +1842,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.66a"
           },
           "text": "dik-mātram etat anyat jyā-utpattau kuṭṭake ca kathayiṣye/",
-          "segment_number": 142
+          "segment_number": 142,
+          "translated_text": "This is only an indication; the rest I shall state in the [chapters on] sine-generation and <s>kuṭṭaka</s> [equations]."
         },
         {
           "tag": "l",
@@ -1709,7 +1851,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.66c"
           },
           "text": "saṅkalita-ādiṣu āryās %ṣaṭṣaṣṭis %dvādaśas adhyāyas//",
-          "segment_number": 143
+          "segment_number": 143,
+          "translated_text": "In [the topics beginning with] addition, [there are] sixty-six <s>āryā</s> [verses]; the twelfth chapter."
         },
         {
           "tag": "l",
@@ -1717,7 +1860,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.66p"
           },
           "text": "iti śrī-brāhma-sphuṭa-siddhānte %dvādaśas adhyāyas//12//",
-          "segment_number": 144
+          "segment_number": 144,
+          "translated_text": "Thus ends the twelfth chapter in the illustrious <s>Brāhmasphuṭasiddhānta</s>. //12//"
         }
       ]
     },
@@ -1725,7 +1869,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[atha kuṭṭaka-adhyāyas]",
-      "segment_number": 145
+      "segment_number": 145,
+      "translated_text": "[Now, the chapter on indeterminate equations (<s>kuṭṭaka</s>)]"
     },
     {
       "tag": "lg",
@@ -1739,7 +1884,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.1a"
           },
           "text": "prāyeṇa yatas praśnās kuṭṭākārāt ṛte na śakyante/",
-          "segment_number": 146
+          "segment_number": 146,
+          "translated_text": "Since most problems cannot, without the <s>kuṭṭaka</s> [method],"
         },
         {
           "tag": "l",
@@ -1747,7 +1893,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.1c"
           },
           "text": "jñātum vakṣyāmi tatas kuṭṭākāram saha praśnais//",
-          "segment_number": 147
+          "segment_number": 147,
+          "translated_text": "be solved, I shall therefore state the <s>kuṭṭaka</s> together with the problems."
         }
       ]
     },
@@ -1763,7 +1910,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.2a"
           },
           "text": "kuṭṭaka-#kha-ṛṇa-dhana-avyakta-madhya-haraṇa-%eka-varṇa-bhāvitakais/",
-          "segment_number": 148
+          "segment_number": 148,
+          "translated_text": "By [mastery of] <s>kuṭṭaka</s>, zero, negative and positive [numbers], unknowns, elimination of the middle [term], single-color [equations], and products [of unknowns],"
         },
         {
           "tag": "l",
@@ -1771,7 +1919,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.2c"
           },
           "text": "ācāryas tantra-vidām jñātais varga-prakṛtyā ca//",
-          "segment_number": 149
+          "segment_number": 149,
+          "translated_text": "the teacher becomes [recognized as] a knower of mathematical sciences (<s>tantra</s>); and also by [mastery of] the square-nature [equation] (<s>varga-prakṛti</s>)."
         }
       ]
     },
@@ -1779,7 +1928,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[kuṭṭakam]",
-      "segment_number": 150
+      "segment_number": 150,
+      "translated_text": "[The <s>kuṭṭaka</s> method]"
     },
     {
       "tag": "lg",
@@ -1793,7 +1943,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.3a"
           },
           "text": "adhika-agra-bhāga-hārāt ūna-agra-cheda-bhājitāt śeṣam/",
-          "segment_number": 151
+          "segment_number": 151,
+          "translated_text": "From the divisor of the greater remainder, the divisor of the lesser remainder — the residue"
         },
         {
           "tag": "l",
@@ -1801,7 +1952,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.3c"
           },
           "text": "yat tat paraspara-hṛtam labdham adhas adhas pṛthak sthāpyam//",
-          "segment_number": 152
+          "segment_number": 152,
+          "translated_text": "of their mutual division — the quotients are to be placed separately one below the other."
         }
       ]
     },
@@ -1817,7 +1969,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.4a"
           },
           "text": "śeṣam tathā iṣṭa-guṇitam yathā agrayos antareṇa saṃyuktam/",
-          "segment_number": 153
+          "segment_number": 153,
+          "translated_text": "The remainder, multiplied by a chosen [number] such that, when combined with the difference of the two remainders,"
         },
         {
           "tag": "l",
@@ -1825,7 +1978,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.4c"
           },
           "text": "śudhyati guṇakas sthāpyas labdham ca antyāt upāntya-guṇas//",
-          "segment_number": 154
+          "segment_number": 154,
+          "translated_text": "it is exactly divisible — the multiplier is to be placed, and the quotient, from the last; the penultimate multiplied [by the last]."
         }
       ]
     },
@@ -1841,7 +1995,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.5a"
           },
           "text": "sva-ūrdhvas antya-yutas agra-antas hīna-agra-cheda-bhājitas śeṣam/",
-          "segment_number": 155
+          "segment_number": 155,
+          "translated_text": "[Each entry] multiplied by its upper, added to the last — the final [result], divided by the lesser-remainder divisor — the residue,"
         },
         {
           "tag": "l",
@@ -1849,7 +2004,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.5c"
           },
           "text": "adhika-agra-cheda-hatam adhika-agra-yutam bhavati agram//",
-          "segment_number": 156
+          "segment_number": 156,
+          "translated_text": "multiplied by the greater-remainder divisor and added to the greater remainder — becomes the [desired] remainder."
         }
       ]
     },
@@ -1865,7 +2021,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.6a"
           },
           "text": "cheda-vadhasya %dvi-yugam cheda-vadhas yuga-gatam %dvayos agram/",
-          "segment_number": 157
+          "segment_number": 157,
+          "translated_text": "Twice the product of the divisors is the period (<s>yuga</s>); the product of the divisors [is] the elapsed [portion] of the period; the remainder of the two"
         },
         {
           "tag": "l",
@@ -1873,7 +2030,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.6c"
           },
           "text": "kuṭṭākāreṇa evam %tri-ādi-graha-yuga-gata-ānayanam//",
-          "segment_number": 158
+          "segment_number": 158,
+          "translated_text": "[is found] by the <s>kuṭṭaka</s> [method]; thus the elapsed [portion] of the period for three or more planets is computed."
         }
       ]
     },
@@ -1889,7 +2047,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.7a"
           },
           "text": "bha-gaṇa-ādi-śeṣam agram cheda-hṛtam #kham ca dina-ja-śeṣa-hṛtam/",
-          "segment_number": 159
+          "segment_number": 159,
+          "translated_text": "The remainder of the revolutions and so forth is the remainders; divided by the divisor [gives] zero; and divided by the day-born remainder,"
         },
         {
           "tag": "l",
@@ -1904,7 +2063,8 @@
               "text": "Cb.8"
             }
           ],
-          "segment_number": 160
+          "segment_number": 160,
+          "translated_text": "the remainder of these, divided by the revolution-and-day-born remainder — [gives] the day-count."
         }
       ]
     },
@@ -1920,7 +2080,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.8a"
           },
           "text": "dina-ja-bha-gaṇa-ādi-śeṣam yena guṇam maṇḍala-ādi śeṣakayos/",
-          "segment_number": 161
+          "segment_number": 161,
+          "translated_text": "The day-born and revolution remainders, by which multiplied [give] the circle and other remainders"
         },
         {
           "tag": "l",
@@ -1935,7 +2096,8 @@
               "text": "Cb.10"
             }
           ],
-          "segment_number": 162
+          "segment_number": 162,
+          "translated_text": "divided by the equal divisor — that product is the initial day-count, from this."
         }
       ]
     },
@@ -1951,7 +2113,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.9a"
           },
           "text": "hṛtayos parasparam yat cheṣam guṇa-kāra-bhāga-hārakayos/",
-          "segment_number": 163
+          "segment_number": 163,
+          "translated_text": "When divided mutually, the remainders of the multiplier and divisor —"
         },
         {
           "tag": "l",
@@ -1966,7 +2129,8 @@
               "text": "Cb.11"
             }
           ],
-          "segment_number": 164
+          "segment_number": 164,
+          "translated_text": "divided by that, [they become] without remainder; those very [reduced numbers], mutually divided,"
         }
       ]
     },
@@ -1982,7 +2146,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.10a"
           },
           "text": "labdham adhas adhas sthāpyam tathā iṣṭa-guṇa-kāra-saṅguṇam śeṣam/",
-          "segment_number": 165
+          "segment_number": 165,
+          "translated_text": "the quotients are to be placed one below the other; the remainder, multiplied by the chosen multiplier,"
         },
         {
           "tag": "l",
@@ -1997,7 +2162,8 @@
               "text": "Cb.12"
             }
           ],
-          "segment_number": 166
+          "segment_number": 166,
+          "translated_text": "such that it is divisible by one less — the multiplier is to be placed, and the result from the last."
         }
       ]
     },
@@ -2013,7 +2179,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.11a"
           },
           "text": "agra-antam upāntyena sva-ūrdhvas guṇitas antya-saṃyutas bhaktam/",
-          "segment_number": 167
+          "segment_number": 167,
+          "translated_text": "The final [value] multiplied by the penultimate, [each] multiplied by its upper, added to the last, divided"
         },
         {
           "tag": "l",
@@ -2028,7 +2195,8 @@
               "text": "Cb.13"
             }
           ],
-          "segment_number": 168
+          "segment_number": 168,
+          "translated_text": "by the remainder-free divisor — thus the permanent <s>kuṭṭaka</s>; the remainder [is obtained]."
         }
       ]
     },
@@ -2044,7 +2212,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.12a"
           },
           "text": "iṣṭa-bha-gaṇa-ādi-śeṣāt sva-kuṭṭaka-guṇāt sva-bhāga-hāra-guṇāt/",
-          "segment_number": 169
+          "segment_number": 169,
+          "translated_text": "From the desired revolution-remainder, [multiplied] by its own <s>kuṭṭaka</s>-multiplier, [multiplied] by its own divisor,"
         },
         {
           "tag": "l",
@@ -2059,7 +2228,8 @@
               "text": "Cb.15; ḍ: -apavartta- < -apavarta-"
             }
           ],
-          "segment_number": 170
+          "segment_number": 170,
+          "translated_text": "the remainder is the day-count — added to the elapsed [period] multiplied by the reduced divisor."
         }
       ]
     },
@@ -2075,7 +2245,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.13a"
           },
           "text": "evam sameṣu viṣameṣu ṛṇam dhanam dhanam ṛṇam yat uktam tat/",
-          "segment_number": 171
+          "segment_number": 171,
+          "translated_text": "Thus for even [numbers of quotients]; for odd, what was stated as negative [becomes] positive and positive [becomes] negative —"
         },
         {
           "tag": "l",
@@ -2090,7 +2261,8 @@
               "text": "Cb.16"
             }
           ],
-          "segment_number": 172
+          "segment_number": 172,
+          "translated_text": "the reversal of negative and positive is to be applied to the multiplicand and the addend."
         }
       ]
     },
@@ -2106,7 +2278,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.14a"
           },
           "text": "guṇakas chedas chedas guṇakas dhanam ṛṇam ṛṇam dhanam kāryam/",
-          "segment_number": 173
+          "segment_number": 173,
+          "translated_text": "The multiplier [becomes] the divisor, the divisor [becomes] the multiplier; positive [becomes] negative, negative [becomes] positive;"
         },
         {
           "tag": "l",
@@ -2121,7 +2294,8 @@
               "text": "Cb.17"
             }
           ],
-          "segment_number": 174
+          "segment_number": 174,
+          "translated_text": "the square [becomes] the root, the root [becomes] the square — the inverse from the last is the first."
         }
       ]
     },
@@ -2137,7 +2311,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.15a"
           },
           "text": "yas jānāti yuga-ādi graha-yuga-yātais pṛthak pṛthak kathitais/",
-          "segment_number": 175
+          "segment_number": 175,
+          "translated_text": "He who knows the elapsed [portion] of the era from the planetary period-elapsed [values] stated separately,"
         },
         {
           "tag": "l",
@@ -2152,7 +2327,8 @@
               "text": "Cb.7"
             }
           ],
-          "segment_number": 176
+          "segment_number": 176,
+          "translated_text": "for two, three, four, and more [planets] — he knows the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2168,7 +2344,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.16a"
           },
           "text": "bha-gaṇa-ādyam iṣṭa-śeṣam kadā indu-divase raves guru-dine vā/",
-          "segment_number": 177
+          "segment_number": 177,
+          "translated_text": "On which day of the Moon, or day of the Sun, or day of <s>Guru</s> (Jupiter), the desired remainder of revolutions and so forth [occurs] —"
         },
         {
           "tag": "l",
@@ -2183,7 +2360,8 @@
               "text": "Cb.19"
             }
           ],
-          "segment_number": 178
+          "segment_number": 178,
+          "translated_text": "he who states the zodiacal signs on a day of Mercury (<s>Jña</s>) — he knows the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2199,7 +2377,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.17a"
           },
           "text": "jña-dine yat aṃśa-śeṣam vikalā-śeṣam kadā tat indu-dine/",
-          "segment_number": 179
+          "segment_number": 179,
+          "translated_text": "The degree-remainder on a day of Mercury — the seconds-remainder, when [does it occur] on a day of the Moon,"
         },
         {
           "tag": "l",
@@ -2214,7 +2393,8 @@
               "text": "Cb.20"
             }
           ],
-          "segment_number": 180
+          "segment_number": 180,
+          "translated_text": "of the Sun, or of the Moon? — he who states [this] is a knower of the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2230,7 +2410,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.18a"
           },
           "text": "tithi-māna-dineṣu iṣṭās ye arka-ādyās te punar kadā teṣu/",
-          "segment_number": 181
+          "segment_number": 181,
+          "translated_text": "On the days of a <s>tithi</s> (lunar day), the desired [positions] of the Sun and so forth — when do they [recur] again on those [days]?"
         },
         {
           "tag": "l",
@@ -2245,7 +2426,8 @@
               "text": "Cb.21"
             }
           ],
-          "segment_number": 182
+          "segment_number": 182,
+          "translated_text": "On the days of the desired planet — he who states [this] is a knower of the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2261,7 +2443,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.19a"
           },
           "text": "iṣṭa-bha-gaṇa-ādi-śeṣāt dyu-gaṇas tat kuṭṭakena saṃyuktas/",
-          "segment_number": 183
+          "segment_number": 183,
+          "translated_text": "From the desired revolution-remainder, the day-count is obtained by the <s>kuṭṭaka</s>;"
         },
         {
           "tag": "l",
@@ -2276,7 +2459,8 @@
               "text": "Cb.22"
             }
           ],
-          "segment_number": 184
+          "segment_number": 184,
+          "translated_text": "to that, [add] the divisor-days until the day-of-the-week is as desired."
         }
       ]
     },
@@ -2292,7 +2476,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.20a"
           },
           "text": "yas rāśi-ādīn dṛṣṭvā madhyasya iṣṭasya katahyati dyu-gaṇam/",
-          "segment_number": 185
+          "segment_number": 185,
+          "translated_text": "He who, having seen the zodiacal signs and so forth, computes the day-count of the desired mean [planet]"
         },
         {
           "tag": "l",
@@ -2307,7 +2492,8 @@
               "text": "Cb.23"
             }
           ],
-          "segment_number": 186
+          "segment_number": 186,
+          "translated_text": "from the conjunction of two or more planets, or from the difference between planets — he is a knower of the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2323,7 +2509,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.21a"
           },
           "text": "nis-cheda-bhāga-hārāt rāśi-ādi-kalā-ādinā hatāt bhaktāt/",
-          "segment_number": 187
+          "segment_number": 187,
+          "translated_text": "From the remainder-free divisor, multiplied by the sign-degrees-minutes and so forth, and divided"
         },
         {
           "tag": "l",
@@ -2338,7 +2525,8 @@
               "text": "Cb.24"
             }
           ],
-          "segment_number": 188
+          "segment_number": 188,
+          "translated_text": "by the revolution-minutes — the quotient is the circle-remainder; from this, the day-count."
         }
       ]
     },
@@ -2354,7 +2542,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.22a"
           },
           "text": "evam rāśi-aṃśa-kalā-vikalā-śeṣāt ahar-gaṇas prāk-vat/",
-          "segment_number": 189
+          "segment_number": 189,
+          "translated_text": "Similarly, from the remainder of signs, degrees, minutes, and seconds — the day-count as before;"
         },
         {
           "tag": "l",
@@ -2369,7 +2558,8 @@
               "text": "Cb.25"
             }
           ],
-          "segment_number": 190
+          "segment_number": 190,
+          "translated_text": "for lost [planetary positions], having made the desired [values] and dividing as stated, the remainder."
         }
       ]
     },
@@ -2385,7 +2575,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.23a"
           },
           "text": "rāśi-aṃśa-kalā-vikalā-śeṣāt kathitāt abhīṣṭatas naṣṭān/",
-          "segment_number": 191
+          "segment_number": 191,
+          "translated_text": "From the stated remainder of signs, degrees, minutes, and seconds — the lost [values]"
         },
         {
           "tag": "l",
@@ -2400,7 +2591,8 @@
               "text": "Cb.26"
             }
           ],
-          "segment_number": 192
+          "segment_number": 192,
+          "translated_text": "he who derives the upper and middle [values] from the desired — he is a knower of the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2416,7 +2608,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.24a"
           },
           "text": "yena guṇas śeṣa-yutas chedas śudhyati hṛtas sva-guṇakena/",
-          "segment_number": 193
+          "segment_number": 193,
+          "translated_text": "The divisor, multiplied by which and added to the remainder, is exactly divisible — divided by its own multiplier,"
         },
         {
           "tag": "l",
@@ -2431,7 +2624,8 @@
               "text": "Cb.27"
             }
           ],
-          "segment_number": 194
+          "segment_number": 194,
+          "translated_text": "that daily motion and the remainder [give] the result; thus from the remainder, [one obtains] the planet and the day-count."
         }
       ]
     },
@@ -2447,7 +2641,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.25a"
           },
           "text": "jānāti yas yuga-gatam kathitāt adhimāsa-śeṣakāt iṣṭāt/",
-          "segment_number": 195
+          "segment_number": 195,
+          "translated_text": "He who knows the elapsed [portion] of the era from the stated desired intercalary-month remainder,"
         },
         {
           "tag": "l",
@@ -2462,7 +2657,8 @@
               "text": "Cb.28"
             }
           ],
-          "segment_number": 196
+          "segment_number": 196,
+          "translated_text": "or from the omitted-day remainder, or from their combination — he is a knower of the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2478,7 +2674,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.26a"
           },
           "text": "iṣṭeṣu māna-divaseṣu adhimāsa-nyūna-rātra-śeṣe vā/",
-          "segment_number": 197
+          "segment_number": 197,
+          "translated_text": "On the desired solar days, the intercalary-month or omitted-night remainder —"
         },
         {
           "tag": "l",
@@ -2493,7 +2690,8 @@
               "text": "Cb.@"
             }
           ],
-          "segment_number": 198
+          "segment_number": 198,
+          "translated_text": "he who states when they [recur] again, separately — he is a knower of the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -2509,7 +2707,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.27a"
           },
           "text": "aṃśaka-śeṣāt %tri-ūnāt %sapta-hṛtāt mūlam ūnam %aṣṭābhis/",
-          "segment_number": 199
+          "segment_number": 199,
+          "translated_text": "From the degree-remainder diminished by three, divided by seven — the square root, diminished by eight,"
         },
         {
           "tag": "l",
@@ -2524,7 +2723,8 @@
               "text": "Cb.18"
             }
           ],
-          "segment_number": 200
+          "segment_number": 200,
+          "translated_text": "multiplied by nine, plus one — when does [it equal] one hundred on a Wednesday for the Sun?"
         }
       ]
     },
@@ -2540,7 +2740,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.28a"
           },
           "text": "%tri-ūna-adhimāsa-śeṣāt mūlam %dvi-adhikam vibhājitam %ṣaḍbhis/",
-          "segment_number": 201
+          "segment_number": 201,
+          "translated_text": "From the intercalary-month remainder diminished by three — the square root, increased by two, divided by six,"
         },
         {
           "tag": "l",
@@ -2555,7 +2756,8 @@
               "text": "Cb.29"
             }
           ],
-          "segment_number": 202
+          "segment_number": 202,
+          "translated_text": "diminished by two, squared, increased by nine — when does ninety occur?"
         }
       ]
     },
@@ -2571,7 +2773,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.29a"
           },
           "text": "avama-avaśeṣa-vargas vi-%ekas %viṃśati-vibhājitas %dvi-adhikas/",
-          "segment_number": 203
+          "segment_number": 203,
+          "translated_text": "The square of the omitted-day remainder, minus one, divided by twenty, plus two,"
         },
         {
           "tag": "l",
@@ -2586,7 +2789,8 @@
               "text": "Cb.30"
             }
           ],
-          "segment_number": 204
+          "segment_number": 204,
+          "translated_text": "multiplied by eight, divided by ten, plus two — when does eighteen occur?"
         }
       ]
     },
@@ -2594,7 +2798,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[dhana-ṛṇa-śūnyam]",
-      "segment_number": 205
+      "segment_number": 205,
+      "translated_text": "[Positive, negative, and zero]"
     },
     {
       "tag": "lg",
@@ -2608,7 +2813,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.30a"
           },
           "text": "dhanayos dhanam ṛṇam ṛṇayos dhana-ṛṇayos antaram sama-aikyam #kham/",
-          "segment_number": 206
+          "segment_number": 206,
+          "translated_text": "The sum of two positives is positive; of two negatives, negative; of a positive and negative, [their] difference; of two equals, zero;"
         },
         {
           "tag": "l",
@@ -2623,7 +2829,8 @@
               "text": "Cb.31"
             }
           ],
-          "segment_number": 207
+          "segment_number": 207,
+          "translated_text": "the sum of negative and zero is negative, of positive and zero is positive; of two zeros, zero."
         }
       ]
     },
@@ -2639,7 +2846,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.31a"
           },
           "text": "ūnam adhikāt viśodhyam dhanam dhanāt ṛṇam ṛṇāt adhikam ūnāt/",
-          "segment_number": 208
+          "segment_number": 208,
+          "translated_text": "The lesser is to be subtracted from the greater: positive from positive, negative from negative; the greater from the lesser —"
         },
         {
           "tag": "l",
@@ -2654,7 +2862,8 @@
               "text": "Cb.32"
             }
           ],
-          "segment_number": 209
+          "segment_number": 209,
+          "translated_text": "that difference becomes reversed: negative [becomes] positive, positive [becomes] negative."
         }
       ]
     },
@@ -2670,7 +2879,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.32a"
           },
           "text": "#śūnya-vihīnam ṛṇam ṛṇam dhanam dhanam bhavati #śūnyam #ākāśam/",
-          "segment_number": 210
+          "segment_number": 210,
+          "translated_text": "Zero minus negative is negative; [zero minus] positive is positive; [zero minus zero] is zero, space;"
         },
         {
           "tag": "l",
@@ -2685,7 +2895,8 @@
               "text": "Cb.33"
             }
           ],
-          "segment_number": 211
+          "segment_number": 211,
+          "translated_text": "when positive is to be subtracted from negative, or negative from positive — then it is to be added."
         }
       ]
     },
@@ -2701,7 +2912,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.33a"
           },
           "text": "ṛṇam ṛṇa-dhanayos ghātas dhanam ṛṇayos dhana-vadhas dhanam bhavati/",
-          "segment_number": 212
+          "segment_number": 212,
+          "translated_text": "The product of negative and positive is negative; of two negatives, positive; of two positives, positive;"
         },
         {
           "tag": "l",
@@ -2716,7 +2928,8 @@
               "text": "Cb.34"
             }
           ],
-          "segment_number": 213
+          "segment_number": 213,
+          "translated_text": "the product of zero and negative, of zero and positive, or of zero and zero — is zero."
         }
       ]
     },
@@ -2732,7 +2945,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.34a"
           },
           "text": "dhana-bhaktam dhanam ṛṇa-hṛtam ṛṇam dhanam bhavati #kham #kha-bhaktam #kham/",
-          "segment_number": 214
+          "segment_number": 214,
+          "translated_text": "Positive divided by positive is positive; negative divided by negative is positive; zero divided by zero is zero;"
         },
         {
           "tag": "l",
@@ -2747,7 +2961,8 @@
               "text": "Cb.34"
             }
           ],
-          "segment_number": 215
+          "segment_number": 215,
+          "translated_text": "A positive quantity divided by a negative is negative; a negative divided by a positive is negative; a negative divided by a negative becomes positive."
         }
       ]
     },
@@ -2763,7 +2978,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.35a"
           },
           "text": "#kha-uddhṛtam ṛṇam dhanam vā tad-chedam #kham ṛṇa-dhana-vibhaktam vā/",
-          "segment_number": 216
+          "segment_number": 216,
+          "translated_text": "Zero divided by a negative or positive quantity is zero; a negative or positive divided by zero remains that quantity with zero as denominator."
         },
         {
           "tag": "l",
@@ -2778,7 +2994,8 @@
               "text": "Cb.36"
             }
           ],
-          "segment_number": 217
+          "segment_number": 217,
+          "translated_text": "The square of a positive or negative is positive; zero squared is zero; the square root of zero is zero; and that which is a perfect square has a root."
         }
       ]
     },
@@ -2786,7 +3003,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[saṅkramaṇam]",
-      "segment_number": 218
+      "segment_number": 218,
+      "translated_text": "[<s>Saṅkramaṇa</s> (Concurrence)]"
     },
     {
       "tag": "lg",
@@ -2800,7 +3018,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.36a"
           },
           "text": "yogas antara-yuta-hīnas %dvi-hṛtas saṅkramaṇam antara-vibhaktam vā/",
-          "segment_number": 219
+          "segment_number": 219,
+          "translated_text": "The sum increased or decreased by the difference, halved, is the <s>saṅkramaṇa</s> (concurrence); or it is the difference divided by the difference."
         },
         {
           "tag": "l",
@@ -2815,7 +3034,8 @@
               "text": "Cb.37"
             }
           ],
-          "segment_number": 220
+          "segment_number": 220,
+          "translated_text": "The difference of squares, increased or decreased by the difference, halved, is the <s>viṣamakarma</s> (operation for unequal quantities)."
         }
       ]
     },
@@ -2823,7 +3043,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[karaṇī]",
-      "segment_number": 221
+      "segment_number": 221,
+      "translated_text": "[<s>Karaṇī</s> (Surds)]"
     },
     {
       "tag": "lg",
@@ -2837,7 +3058,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.37a"
           },
           "text": "karaṇī lambas tad-kṛtis iṣṭa-hṛtā iṣṭa-ūna-saṃyutā alpā bhūs/",
-          "segment_number": 222
+          "segment_number": 222,
+          "translated_text": "The <s>karaṇī</s> (surd): the perpendicular is the square of it, divided by an assumed quantity, and diminished or increased by the assumed quantity; the smaller is the base;"
         },
         {
           "tag": "l",
@@ -2852,7 +3074,8 @@
               "text": "Cb.38; ḍ: saṃkṣeppas"
             }
           ],
-          "segment_number": 223
+          "segment_number": 223,
+          "translated_text": "the larger, halved, is the hypotenuse. That whose product is a perfect square is to be reduced."
         }
       ]
     },
@@ -2868,7 +3091,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.38a"
           },
           "text": "iṣṭa-uddhṛta-karaṇī-pada-yuti-kṛtis iṣṭa-guṇitā antara-kṛtis vā/",
-          "segment_number": 224
+          "segment_number": 224,
+          "translated_text": "The square of the sum of the square root of the <s>karaṇī</s> divided by an assumed number and the assumed number, multiplied by the assumed number; or the square of their difference."
         },
         {
           "tag": "l",
@@ -2883,7 +3107,8 @@
               "text": "Cb.39"
             }
           ],
-          "segment_number": 225
+          "segment_number": 225,
+          "translated_text": "The multiplicand is placed crosswise, below and below; the multiplier is equal to that; its product is added."
         }
       ]
     },
@@ -2899,7 +3124,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.39a"
           },
           "text": "sva-iṣṭa-ṛṇa-cheda-guṇau bhājya-chedau pṛthak yujau asakṛt/",
-          "segment_number": 226
+          "segment_number": 226,
+          "translated_text": "The dividend and divisor are multiplied by the desired additive or subtractive quantity's own denominators, separately, repeatedly making them even;"
         },
         {
           "tag": "l",
@@ -2914,7 +3140,8 @@
               "text": "Cb.40"
             }
           ],
-          "segment_number": 227
+          "segment_number": 227,
+          "translated_text": "or the dividend is divided by the denominator reduced to unity. A square is the product of two equal quantities."
         }
       ]
     },
@@ -2930,7 +3157,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.40a"
           },
           "text": "iṣṭa-karaṇī-ūnāyās rūpa-kṛtes pada-yuta-ūna-rūpa-%ardhe/",
-          "segment_number": 228
+          "segment_number": 228,
+          "translated_text": "Of the unity diminished by the desired <s>karaṇī</s>, the halves of the square root increased and decreased by unity:"
         },
         {
           "tag": "l",
@@ -2945,7 +3173,8 @@
               "text": "Cb.41"
             }
           ],
-          "segment_number": 229
+          "segment_number": 229,
+          "translated_text": "the first is the integer part, the other thereafter is the second, the <s>karaṇī</s>, applied repeatedly."
         }
       ]
     },
@@ -2961,7 +3190,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.41a"
           },
           "text": "avyakta-varga-ghana-varga-varga-%pañca-gata-%ṣaṣ-gata-ādīnām/",
-          "segment_number": 230
+          "segment_number": 230,
+          "translated_text": "Of unknown squares, cubes, fourth powers, fifth powers, sixth powers, and so on —"
         },
         {
           "tag": "l",
@@ -2976,7 +3206,8 @@
               "text": "Cb.42"
             }
           ],
-          "segment_number": 231
+          "segment_number": 231,
+          "translated_text": "like terms are to be added or subtracted; unlike terms are kept separate."
         }
       ]
     },
@@ -2992,7 +3223,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.42a"
           },
           "text": "sadṛśa-%dvi-vadhas vargas %tri-ādi-vadhas tad-gatas anya-jāti-vadhas/",
-          "segment_number": 232
+          "segment_number": 232,
+          "translated_text": "The product of two equal quantities is the square; the product of three or more equal quantities is the corresponding power; the product of different species"
         },
         {
           "tag": "l",
@@ -3007,7 +3239,8 @@
               "text": "Cb.43"
             }
           ],
-          "segment_number": 233
+          "segment_number": 233,
+          "translated_text": "is the mutual product of the unknowns, called <s>bhāvitaka</s> (product of unknowns). The rest proceeds as before."
         }
       ]
     },
@@ -3015,7 +3248,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[eka-varṇa-samī-karaṇam]",
-      "segment_number": 234
+      "segment_number": 234,
+      "translated_text": "[Equation with one unknown (<s>eka-varṇa-samīkaraṇa</s>)]"
     },
     {
       "tag": "lg",
@@ -3029,7 +3263,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.43a"
           },
           "text": "avyakta-antara-bhaktam vyastam rūpa-antaram same avyaktas/",
-          "segment_number": 235
+          "segment_number": 235,
+          "translated_text": "The difference of the absolute terms divided by the difference of the unknowns, transposed, gives the unknown when the unknowns are equal;"
         },
         {
           "tag": "l",
@@ -3044,7 +3279,8 @@
               "text": "Cb.44"
             }
           ],
-          "segment_number": 236
+          "segment_number": 236,
+          "translated_text": "the square unknowns are to be subtracted from whichever side has the absolute terms, and the absolute terms placed below those."
         }
       ]
     },
@@ -3060,7 +3296,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.44a"
           },
           "text": "varga-%catur-guṇitānām rūpāṇām madhya-varga-sahitānām/",
-          "segment_number": 237
+          "segment_number": 237,
+          "translated_text": "The absolute terms multiplied by four times the coefficient of the square term,"
         },
         {
           "tag": "l",
@@ -3075,7 +3312,8 @@
               "text": "Cb.48"
             }
           ],
-          "segment_number": 238
+          "segment_number": 238,
+          "translated_text": "combined with the square of the coefficient of the middle term, the square root of this, diminished by the middle coefficient and divided by twice the square coefficient, is the middle term (the unknown)."
         }
       ]
     },
@@ -3091,7 +3329,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.45a"
           },
           "text": "varga-āhata-rūpāṇām avyakta-%ardha-kṛti-saṃyutānām yat/",
-          "segment_number": 239
+          "segment_number": 239,
+          "translated_text": "The absolute terms multiplied by the square coefficient, combined with the square of half the unknown coefficient — the"
         },
         {
           "tag": "l",
@@ -3106,7 +3345,8 @@
               "text": "Cb.50"
             }
           ],
-          "segment_number": 240
+          "segment_number": 240,
+          "translated_text": "square root of this, diminished by half the unknown coefficient, divided by the square coefficient, is the unknown."
         }
       ]
     },
@@ -3122,7 +3362,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.46a"
           },
           "text": "sa-%ekāt aṃśaka-śeṣāt %dvādaśa-bhāgas %catur-guṇas %aṣṭa-yutas/",
-          "segment_number": 241
+          "segment_number": 241,
+          "translated_text": "From the remainder of the fractional part increased by one, twelve times four, added to eight,"
         },
         {
           "tag": "l",
@@ -3137,7 +3378,8 @@
               "text": "Cb.45"
             }
           ],
-          "segment_number": 242
+          "segment_number": 242,
+          "translated_text": "when equal to the remainder of the fractional part increased by one — then state the elapsed days (<s>ahargaṇa</s>)."
         }
       ]
     },
@@ -3153,7 +3395,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.47a"
           },
           "text": "%dvi-ūnam adhika-māsa-śeṣam %tri-hṛtam %sapta-adhikam %dvi-saṅguṇitam/",
-          "segment_number": 243
+          "segment_number": 243,
+          "translated_text": "The intercalary month remainder diminished by two, divided by three, increased by seven, multiplied by two,"
         },
         {
           "tag": "l",
@@ -3168,7 +3411,8 @@
               "text": "Cb.46"
             }
           ],
-          "segment_number": 244
+          "segment_number": 244,
+          "translated_text": "when equal to the intercalary month remainder — then state the elapsed portion of the <s>yuga</s> (astronomical cycle)."
         }
       ]
     },
@@ -3184,7 +3428,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.48a"
           },
           "text": "vi-%ekam avama-avaśeṣam %ṣaṣ-uddhṛtam %tri-yutam avama-śeṣasya/",
-          "segment_number": 245
+          "segment_number": 245,
+          "translated_text": "The omitted day remainder diminished by one, divided by six, increased by three, of the omitted day remainder"
         },
         {
           "tag": "l",
@@ -3199,7 +3444,8 @@
               "text": "Cb.47"
             }
           ],
-          "segment_number": 246
+          "segment_number": 246,
+          "translated_text": "divided by five, when equal — then state the elapsed portion of the <s>yuga</s>."
         }
       ]
     },
@@ -3215,7 +3461,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.49a"
           },
           "text": "maṇḍala-śeṣāt %dvi-ūnāt mūlam vi-%ekam %daśa-āhatam %dvi-yutam/",
-          "segment_number": 247
+          "segment_number": 247,
+          "translated_text": "From the revolution remainder diminished by two, the square root, diminished by one, multiplied by ten, increased by two,"
         },
         {
           "tag": "l",
@@ -3223,7 +3470,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.49c"
           },
           "text": "maṇḍala-śeṣam vi-%ekam bhānos jña-dine kadā bhavati//",
-          "segment_number": 248
+          "segment_number": 248,
+          "translated_text": "when equal to the revolution remainder diminished by one — on which day of the Sun is <s>Budha's</s> (Mercury's) day?"
         }
       ]
     },
@@ -3239,7 +3487,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.50a"
           },
           "text": "adhimāsa-śeṣa-#pādāt %tri-ūnāt vargas adhimāsa-śeṣa-samas/",
-          "segment_number": 249
+          "segment_number": 249,
+          "translated_text": "When the square of the intercalary month remainder's quarter diminished by three equals the intercalary month remainder,"
         },
         {
           "tag": "l",
@@ -3254,7 +3503,8 @@
               "text": "Cb.51"
             }
           ],
-          "segment_number": 250
+          "segment_number": 250,
+          "translated_text": "or from the omitted day remainder, when does it equal the omitted day remainder?"
         }
       ]
     },
@@ -3262,7 +3512,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[aneka-varṇa-samī-karaṇam]",
-      "segment_number": 251
+      "segment_number": 251,
+      "translated_text": "[Equation with multiple unknowns (<s>aneka-varṇa-samīkaraṇa</s>)]"
     },
     {
       "tag": "lg",
@@ -3276,7 +3527,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.51a"
           },
           "text": "ādyāt varṇāt anyān varṇān prohya ādya-mānam āḍya-hṛtam/",
-          "segment_number": 252
+          "segment_number": 252,
+          "translated_text": "From the first unknown, removing the other unknowns, the value of the first divided by the first's coefficient;"
         },
         {
           "tag": "l",
@@ -3291,7 +3543,8 @@
               "text": "Cb.52"
             }
           ],
-          "segment_number": 253
+          "segment_number": 253,
+          "translated_text": "the two with equal denominators, repeatedly, transposed — the <s>kuṭṭaka</s> (pulverizer method) applies when there are many unknowns."
         }
       ]
     },
@@ -3307,7 +3560,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.52a"
           },
           "text": "gata-bhagaṇa-yutāt dyu-gaṇāt tad-śeṣa-yutāt tad-aikya-saṃyuktāt/",
-          "segment_number": 254
+          "segment_number": 254,
+          "translated_text": "From the elapsed days combined with the past revolutions, combined with their remainder, combined with their sum —"
         },
         {
           "tag": "l",
@@ -3322,7 +3576,8 @@
               "text": "Cb.53"
             }
           ],
-          "segment_number": 255
+          "segment_number": 255,
+          "translated_text": "he who can determine the elapsed days from their total is one who knows the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -3338,7 +3593,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.53a"
           },
           "text": "gata-bhagaṇa-ūnāt dyu-gaṇāt tad-śeṣa-ūnāt tad-aikya-hīnāt vā/",
-          "segment_number": 256
+          "segment_number": 256,
+          "translated_text": "From the elapsed days diminished by past revolutions, diminished by their remainder, diminished by their sum,"
         },
         {
           "tag": "l",
@@ -3353,7 +3609,8 @@
               "text": "Cb.54"
             }
           ],
-          "segment_number": 257
+          "segment_number": 257,
+          "translated_text": "or from their difference — he who can determine the elapsed days is one who knows the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -3369,7 +3626,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.54a"
           },
           "text": "rāśi-ādyais tad-śeṣais ca evam bhukta-adhimāsa-dina-hīnais/",
-          "segment_number": 258
+          "segment_number": 258,
+          "translated_text": "By the remainders of signs and so on, and similarly, diminished by the elapsed intercalary months and days,"
         },
         {
           "tag": "l",
@@ -3384,7 +3642,8 @@
               "text": "Cb.55"
             }
           ],
-          "segment_number": 259
+          "segment_number": 259,
+          "translated_text": "and from their remainders — he who can determine the elapsed portion of the <s>yuga</s> is one who knows the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -3400,7 +3659,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.55a"
           },
           "text": "aṃśaka-śeṣeṇa yutāt liptā-śeṣāt tad-antarāt atha vā/",
-          "segment_number": 260
+          "segment_number": 260,
+          "translated_text": "From the remainder of the degrees combined with, or from the remainder of the minutes, or from their difference —"
         },
         {
           "tag": "l",
@@ -3415,7 +3675,8 @@
               "text": "Cb.56"
             }
           ],
-          "segment_number": 261
+          "segment_number": 261,
+          "translated_text": "he who can determine the elapsed days on <s>Budha's</s> (Mercury's) day from the Sun is one who knows the <s>kuṭṭaka</s>."
         }
       ]
     },
@@ -3431,7 +3692,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.56a"
           },
           "text": "aṃśaka-śeṣam %tri-yutam liptā-śeṣam kadā raves jña-dine/",
-          "segment_number": 262
+          "segment_number": 262,
+          "translated_text": "When is the degree remainder equal to three, the minute remainder on <s>Budha's</s> day of the Sun"
         },
         {
           "tag": "l",
@@ -3446,7 +3708,8 @@
               "text": "Cb.57"
             }
           ],
-          "segment_number": 263
+          "segment_number": 263,
+          "translated_text": "equal to six, seven, eight, or nine — the calculator determines this within a year."
         }
       ]
     },
@@ -3462,7 +3725,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.57a"
           },
           "text": "aṃśa-samam aṃśa-śeṣam kalā-samam vā kalā-śeṣam/",
-          "segment_number": 264
+          "segment_number": 264,
+          "translated_text": "Making the degree remainder equal to the degree remainder, or the minute remainder equal to the minute remainder,"
         },
         {
           "tag": "l",
@@ -3477,7 +3741,8 @@
               "text": "Cb.58"
             }
           ],
-          "segment_number": 265
+          "segment_number": 265,
+          "translated_text": "of the Sun on a desired day — the calculator determines this within a year."
         }
       ]
     },
@@ -3493,7 +3758,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.58a"
           },
           "text": "avama-avaśeṣam avamais adhimāsaka-śeṣam adhimāsais/",
-          "segment_number": 266
+          "segment_number": 266,
+          "translated_text": "The omitted day remainder equal to the omitted days, the intercalary month remainder equal to the intercalary months,"
         },
         {
           "tag": "l",
@@ -3508,7 +3774,8 @@
               "text": "Cb.59"
             }
           ],
-          "segment_number": 267
+          "segment_number": 267,
+          "translated_text": "increased or decreased by a desired amount and made equal — the calculator determines this within a year."
         }
       ]
     },
@@ -3524,7 +3791,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.59a"
           },
           "text": "nis-cheda-bhāga-hāras bhānos %saptati-guṇas aṃśa-śeṣa-ūnas/",
-          "segment_number": 268
+          "segment_number": 268,
+          "translated_text": "The Sun's fractional parts without remainder: seventy times the Sun, diminished by the degree remainder,"
         },
         {
           "tag": "l",
@@ -3539,7 +3807,8 @@
               "text": "Cb.60"
             }
           ],
-          "segment_number": 269
+          "segment_number": 269,
+          "translated_text": "is purified when divided by ten thousand — the calculator determines this within a year."
         }
       ]
     },
@@ -3547,7 +3816,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[bhāvitakam]",
-      "segment_number": 270
+      "segment_number": 270,
+      "translated_text": "[<s>Bhāvitaka</s> (Product of unknowns)]"
     },
     {
       "tag": "lg",
@@ -3561,7 +3831,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.60a"
           },
           "text": "bhāvitaka-rūpa-guṇanā sa-avyakta-vadhā iṣṭa-bhājitā iṣṭa-āptyos/",
-          "segment_number": 271
+          "segment_number": 271,
+          "translated_text": "In a <s>bhāvitaka</s>: the product of the absolute terms with the unknowns, the product involving unknowns, divided by an assumed quantity — the two assumed results;"
         },
         {
           "tag": "l",
@@ -3576,7 +3847,8 @@
               "text": "Cb.61"
             }
           ],
-          "segment_number": 272
+          "segment_number": 272,
+          "translated_text": "to the lesser is added the excess from the greater; the quotient from the <s>bhāvitaka</s> divisor is transposed."
         }
       ]
     },
@@ -3592,7 +3864,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.61a"
           },
           "text": "bhānos rāśi-aṃśa-vadhāt %tri-%catur-guṇitān viśodhya rāśi-aṃśān/",
-          "segment_number": 273
+          "segment_number": 273,
+          "translated_text": "From the product of the Sun's sign and degree portions, subtracting the sign-degrees multiplied by three and four,"
         },
         {
           "tag": "l",
@@ -3607,7 +3880,8 @@
               "text": "Cb.62"
             }
           ],
-          "segment_number": 274
+          "segment_number": 274,
+          "translated_text": "seeing ninety and the Sun — the calculator determines this within a year."
         }
       ]
     },
@@ -3623,7 +3897,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.62a"
           },
           "text": "bhāvitake yad-ghātas vinaṣṭa-varṇena tad-pramāṇāni/",
-          "segment_number": 275
+          "segment_number": 275,
+          "translated_text": "In a <s>bhāvitaka</s>, the quantities whose product with the lost unknown equals those amounts,"
         },
         {
           "tag": "l",
@@ -3638,7 +3913,8 @@
               "text": "Cb.66"
             }
           ],
-          "segment_number": 276
+          "segment_number": 276,
+          "translated_text": "are assumed as desired; the sum of the unknowns multiplied by those becomes the absolute terms."
         }
       ]
     },
@@ -3654,7 +3930,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.63a"
           },
           "text": "varṇa-pramāṇa-bhāvita-ghātas bhavati iṣṭa-varṇa-saṅkhyā evam/",
-          "segment_number": 277
+          "segment_number": 277,
+          "translated_text": "The product of the measures of the unknowns with the <s>bhāvitaka</s> gives the count of the desired unknown — thus"
         },
         {
           "tag": "l",
@@ -3669,7 +3946,8 @@
               "text": "Cb.64"
             }
           ],
-          "segment_number": 278
+          "segment_number": 278,
+          "translated_text": "it is solved even without the <s>bhāvitaka</s> equation; what then is accomplished by it?"
         }
       ]
     },
@@ -3677,7 +3955,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[varga-prakṛtis]",
-      "segment_number": 279
+      "segment_number": 279,
+      "translated_text": "[<s>Varga-prakṛti</s> (Square-nature equation)]"
     },
     {
       "tag": "lg",
@@ -3691,7 +3970,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.64a"
           },
           "text": "mūlam dvidhā iṣṭa-vargāt guṇaka-guṇāt iṣṭa-yuta-vihīnāt ca/",
-          "segment_number": 280
+          "segment_number": 280,
+          "translated_text": "The root is twofold: from the product of the assumed square and the multiplier, increased and decreased by the assumed quantity,"
         },
         {
           "tag": "l",
@@ -3706,7 +3986,8 @@
               "text": "Cb.65"
             }
           ],
-          "segment_number": 281
+          "segment_number": 281,
+          "translated_text": "the product of the first pair multiplied by the multiplier, together with the product of the last pair, gives the last."
         }
       ]
     },
@@ -3722,7 +4003,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.65a"
           },
           "text": "vajra-vadha-aikyam %prathamam prakṣepas kṣepa-vadha-tulyas/",
-          "segment_number": 282
+          "segment_number": 282,
+          "translated_text": "The sum of the cross-products is the first; the additive equals the product of the additives."
         },
         {
           "tag": "l",
@@ -3737,7 +4019,8 @@
               "text": "Cb.66"
             }
           ],
-          "segment_number": 283
+          "segment_number": 283,
+          "translated_text": "When the roots are divided by the additive or subtractive, the additive becomes unity."
         }
       ]
     },
@@ -3753,7 +4036,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.66a"
           },
           "text": "#rūpa-prakṣepa-pade pṛthak iṣṭa-kṣepya-śodhya-mūlābhyām/",
-          "segment_number": 284
+          "segment_number": 284,
+          "translated_text": "From the roots when the additive is unity, separately, with the roots of the desired additive or subtractive,"
         },
         {
           "tag": "l",
@@ -3768,7 +4052,8 @@
               "text": "Cb.68"
             }
           ],
-          "segment_number": 285
+          "segment_number": 285,
+          "translated_text": "forming the last and first roots — for any desired additive or subtractive."
         }
       ]
     },
@@ -3784,7 +4069,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.67a"
           },
           "text": "%catur-adhike antya-pada-kṛtis %tri-ūnā dalitā antya-pada-guṇā antya-padam/",
-          "segment_number": 286
+          "segment_number": 286,
+          "translated_text": "The square of the last root increased by four, diminished by three, halved, multiplied by the last root, gives the last root;"
         },
         {
           "tag": "l",
@@ -3799,7 +4085,8 @@
               "text": "Cb.69"
             }
           ],
-          "segment_number": 287
+          "segment_number": 287,
+          "translated_text": "the square of the last root diminished by one, halved, multiplied by the first root, gives the first root."
         }
       ]
     },
@@ -3815,7 +4102,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.68a"
           },
           "text": "%catur-ūne antya-pada-kṛtī %tri-%eka-yute vadha-#dalam pṛthak vi-%ekam/",
-          "segment_number": 288
+          "segment_number": 288,
+          "translated_text": "When the square of the last root is diminished by four, or increased by three and one, the half of the product, separately, diminished by one;"
         },
         {
           "tag": "l",
@@ -3830,7 +4118,8 @@
               "text": "Cb.71"
             }
           ],
-          "segment_number": 289
+          "segment_number": 289,
+          "translated_text": "this multiplied by the first root gives the last; the product of the roots multiplied by the multiplier gives the first; that is the last root."
         }
       ]
     },
@@ -3846,7 +4135,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.69a"
           },
           "text": "varge guṇake kṣepas kena cit uddhṛta-yuta-ūnitas dalitas/",
-          "segment_number": 290
+          "segment_number": 290,
+          "translated_text": "When the additive in the square-multiplier is divided by some quantity, increased or diminished and halved,"
         },
         {
           "tag": "l",
@@ -3861,7 +4151,8 @@
               "text": "Cb.73"
             }
           ],
-          "segment_number": 291
+          "segment_number": 291,
+          "translated_text": "the first is the last root; the other, divided by the square root of the multiplier coefficient, is the first."
         }
       ]
     },
@@ -3877,7 +4168,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.70a"
           },
           "text": "varga-chinne guṇake %prathamam tad-mūla-bhājitam bhavati/",
-          "segment_number": 292
+          "segment_number": 292,
+          "translated_text": "When the multiplier is divisible by a perfect square, the first is divided by its square root;"
         },
         {
           "tag": "l",
@@ -3892,7 +4184,8 @@
               "text": "Cb.75"
             }
           ],
-          "segment_number": 293
+          "segment_number": 293,
+          "translated_text": "when the additive is divisible by a perfect square, the roots are multiplied by its square root."
         }
       ]
     },
@@ -3908,7 +4201,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.71a"
           },
           "text": "guṇaka-yutis %aṣṭa-guṇitā guṇaka-antara-varga-bhājitā rāśis/",
-          "segment_number": 294
+          "segment_number": 294,
+          "translated_text": "The sum of the multipliers multiplied by eight, divided by the square of the difference of the multipliers, gives a quantity;"
         },
         {
           "tag": "l",
@@ -3923,7 +4217,8 @@
               "text": "Cb.78"
             }
           ],
-          "segment_number": 295
+          "segment_number": 295,
+          "translated_text": "the two multipliers tripled, transposed with the excess, divided by the difference, give the roots."
         }
       ]
     },
@@ -3939,7 +4234,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.72a"
           },
           "text": "vargas anya-kṛti-yuta-ūnas tad-saṃyoga-antara-%ardha-kṛti-bhaktas/",
-          "segment_number": 296
+          "segment_number": 296,
+          "translated_text": "A square increased or decreased by another square, divided by the square of half the sum or difference of those,"
         },
         {
           "tag": "l",
@@ -3954,7 +4250,8 @@
               "text": "Cb.72"
             }
           ],
-          "segment_number": 297
+          "segment_number": 297,
+          "translated_text": "multiplied by them, added and subtracted, gives two squares; and in the product, unity is added."
         }
       ]
     },
@@ -3970,7 +4267,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.73a"
           },
           "text": "yais ūnas yais ca yutas rūpais vargas tad-aikyam iṣṭa-hṛtam/",
-          "segment_number": 298
+          "segment_number": 298,
+          "translated_text": "The sum of the unities by which a square is decreased or increased, divided by a desired number,"
         },
         {
           "tag": "l",
@@ -3985,7 +4283,8 @@
               "text": "Cb.84"
             }
           ],
-          "segment_number": 299
+          "segment_number": 299,
+          "translated_text": "that desired number diminished by it — the square of the half, diminished or increased, becomes the quantity."
         }
       ]
     },
@@ -4001,7 +4300,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.74a"
           },
           "text": "yābhyām kṛtis adhika-ūnas tad-antaram hṛta-yuta-ūnam iṣṭena/",
-          "segment_number": 300
+          "segment_number": 300,
+          "translated_text": "By whichever quantities a square is increased or decreased, their difference, divided and increased or decreased by the desired number,"
         },
         {
           "tag": "l",
@@ -4016,7 +4316,8 @@
               "text": "Cb.82"
             }
           ],
-          "segment_number": 301
+          "segment_number": 301,
+          "translated_text": "the square of the half, increased or decreased — gives the quantity for the greater or lesser."
         }
       ]
     },
@@ -4024,7 +4325,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[udāharaṇāni]",
-      "segment_number": 302
+      "segment_number": 302,
+      "translated_text": "[Examples (<s>udāharaṇa</s>)]"
     },
     {
       "tag": "lg",
@@ -4038,7 +4340,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.75a"
           },
           "text": "rāśi-kalā-śeṣa-kṛtim %dvinavati-guṇitām %tryaśīti-guṇitām vā/",
-          "segment_number": 303
+          "segment_number": 303,
+          "translated_text": "The square of the remainder of the Sun's sign-minutes, multiplied by ninety-two, or multiplied by eighty-three,"
         },
         {
           "tag": "l",
@@ -4053,7 +4356,8 @@
               "text": "Cb.67"
             }
           ],
-          "segment_number": 304
+          "segment_number": 304,
+          "translated_text": "increased by one, made a perfect square on <s>Budha's</s> (Mercury's) day — the calculator determines this within a year."
         }
       ]
     },
@@ -4069,7 +4373,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.76a"
           },
           "text": "sūrya-viliptā-śeṣam %pañcabhis ūna-āhatam tathā %daśabhis/",
-          "segment_number": 305
+          "segment_number": 305,
+          "translated_text": "The remainder of the Sun's seconds, multiplied by five decreased, and likewise by ten,"
         },
         {
           "tag": "l",
@@ -4084,7 +4389,8 @@
               "text": "Cb.86"
             }
           ],
-          "segment_number": 306
+          "segment_number": 306,
+          "translated_text": "made a perfect square on <s>Bṛhaspati's</s> (Jupiter's) day — the calculator determines this within a year."
         }
       ]
     },
@@ -4100,7 +4406,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.77a"
           },
           "text": "bha-gaṇa-ādi-śeṣa-vargam %tribhis guṇam saṃyutam %śatais %navabhis/",
-          "segment_number": 307
+          "segment_number": 307,
+          "translated_text": "The square of the revolution remainder etc., multiplied by three, increased by nine hundred,"
         },
         {
           "tag": "l",
@@ -4115,7 +4422,8 @@
               "text": "Cb.70"
             }
           ],
-          "segment_number": 308
+          "segment_number": 308,
+          "translated_text": "or the square diminished by eight hundred — the calculator determines this within a year."
         }
       ]
     },
@@ -4131,7 +4439,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.78a"
           },
           "text": "bha-gaṇa-ādi-śeṣa-vargam %catur-guṇam %pañcaṣaṣṭi-saṃyuktam/",
-          "segment_number": 309
+          "segment_number": 309,
+          "translated_text": "The square of the revolution remainder etc., multiplied by four, increased by sixty-five,"
         },
         {
           "tag": "l",
@@ -4146,7 +4455,8 @@
               "text": "Cb.74"
             }
           ],
-          "segment_number": 310
+          "segment_number": 310,
+          "translated_text": "or diminished by sixty, made a perfect square — the calculator determines this within a year."
         }
       ]
     },
@@ -4162,7 +4472,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.79a"
           },
           "text": "iṣṭa-bhagaṇa-ādi-śeṣam %dvinavati-ūnam %tryaśīti-saṃguṇitam/",
-          "segment_number": 311
+          "segment_number": 311,
+          "translated_text": "The desired revolution remainder etc., multiplied by ninety-two decreased, multiplied by eighty-three,"
         },
         {
           "tag": "l",
@@ -4177,7 +4488,8 @@
               "text": "Cb.87"
             }
           ],
-          "segment_number": 312
+          "segment_number": 312,
+          "translated_text": "increased by unity, made a perfect square — the calculator determines this within a year."
         }
       ]
     },
@@ -4193,7 +4505,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.80a"
           },
           "text": "adhimāsa-śeṣa-vargam %trayodaśa-guṇam %tribhis %śatais yuktam/",
-          "segment_number": 313
+          "segment_number": 313,
+          "translated_text": "The square of the intercalary month remainder, multiplied by thirteen, increased by three hundred,"
         },
         {
           "tag": "l",
@@ -4208,7 +4521,8 @@
               "text": "Cb.72"
             }
           ],
-          "segment_number": 314
+          "segment_number": 314,
+          "translated_text": "or diminished by twenty-seven, made a perfect square — the calculator determines this within a year."
         }
       ]
     },
@@ -4224,7 +4538,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.81a"
           },
           "text": "indu-viliptā-śeṣam %saptadaśa-guṇam %trayodaśa-guṇam ca api/",
-          "segment_number": 315
+          "segment_number": 315,
+          "translated_text": "The remainder of the Moon's seconds, multiplied by seventeen, and also multiplied by thirteen,"
         },
         {
           "tag": "l",
@@ -4239,7 +4554,8 @@
               "text": "Cb.79"
             }
           ],
-          "segment_number": 316
+          "segment_number": 316,
+          "translated_text": "each increased by one, made a perfect square — the calculator determines this within a year."
         }
       ]
     },
@@ -4255,7 +4571,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.82a"
           },
           "text": "avama-avaśeṣa-vargam %dvādaśa-guṇitam %śatena saṃyuktam/",
-          "segment_number": 317
+          "segment_number": 317,
+          "translated_text": "The square of the omitted day remainder, multiplied by twelve, increased by a hundred,"
         },
         {
           "tag": "l",
@@ -4270,7 +4587,8 @@
               "text": "Cb.76"
             }
           ],
-          "segment_number": 318
+          "segment_number": 318,
+          "translated_text": "or diminished by three, made a perfect square — the calculator determines this within a year."
         }
       ]
     },
@@ -4286,7 +4604,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.83a"
           },
           "text": "jña-dine arka-kalā-śeṣam guru-dina-vikalā-avaśeṣa-yukta-ūnam/",
-          "segment_number": 319
+          "segment_number": 319,
+          "translated_text": "On <s>Budha's</s> (Mercury's) day, the Sun's minute remainder, increased or decreased by <s>Bṛhaspati's</s> (Jupiter's) day second remainder,"
         },
         {
           "tag": "l",
@@ -4301,7 +4620,8 @@
               "text": "Cb.81"
             }
           ],
-          "segment_number": 320
+          "segment_number": 320,
+          "translated_text": "made a perfect square and a product increased by one — the calculator determines this within a year."
         }
       ]
     },
@@ -4317,7 +4637,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.84a"
           },
           "text": "vikalā-śeṣam sahitam %trinavatyā %saptaṣaṣṭi-hīnam ca/",
-          "segment_number": 321
+          "segment_number": 321,
+          "translated_text": "The second remainder, combined with ninety-three and diminished by sixty-seven,"
         },
         {
           "tag": "l",
@@ -4332,7 +4653,8 @@
               "text": "Cb.85"
             }
           ],
-          "segment_number": 322
+          "segment_number": 322,
+          "translated_text": "made a perfect square of the Sun on <s>Budha's</s> (Mercury's) day — the calculator determines this within a year."
         }
       ]
     },
@@ -4348,7 +4670,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.85a"
           },
           "text": "jña-dine arka-kalā-śeṣam %dvādaśabhis saṃyutam %triṣaṣṭyā ca/",
-          "segment_number": 323
+          "segment_number": 323,
+          "translated_text": "On <s>Budha's</s> (Mercury's) day, the Sun's minute remainder, increased by twelve and by sixty-three,"
         },
         {
           "tag": "l",
@@ -4363,7 +4686,8 @@
               "text": "Cb.83"
             }
           ],
-          "segment_number": 324
+          "segment_number": 324,
+          "translated_text": "and diminished by sixty and by eight — the calculator determines this within a year."
         }
       ]
     },
@@ -4379,7 +4703,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.86a"
           },
           "text": "indu-viliptā-śeṣāt ravi-liptā-śeṣam aṃśa-śeṣam vā/",
-          "segment_number": 325
+          "segment_number": 325,
+          "translated_text": "From the remainder of the Moon's sub-seconds, the remainder of the Sun's seconds, or the remainder of degrees —"
         },
         {
           "tag": "l",
@@ -4394,7 +4719,8 @@
               "text": "Cb.88"
             }
           ],
-          "segment_number": 326
+          "segment_number": 326,
+          "translated_text": "or else, computing a desired mean [longitude], the calculator [can proceed] for up to a year."
         }
       ]
     },
@@ -4410,7 +4736,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.87a"
           },
           "text": "jīva-viliptā-śeṣāt ku-jam indum bhauma-liptikā-śeṣāt/",
-          "segment_number": 327
+          "segment_number": 327,
+          "translated_text": "From the remainder of Jupiter's sub-seconds [one finds] the Earth-born [Mercury]; from the remainder of Mars's seconds, the Moon;"
         },
         {
           "tag": "l",
@@ -4425,7 +4752,8 @@
               "text": "Cb.89"
             }
           ],
-          "segment_number": 328
+          "segment_number": 328,
+          "translated_text": "from the remainder of the Moon's degrees [one finds] the Sun — the calculator [works thus] for up to a year."
         }
       ]
     },
@@ -4448,7 +4776,8 @@
               "text": "D: -apavartta- < -apavarta-"
             }
           ],
-          "segment_number": 329
+          "segment_number": 329,
+          "translated_text": "From the desired remainder of a desired planet, the day-count [is found] by multiplying with the elapsed civil [days] reduced by their common divisor,"
         },
         {
           "tag": "l",
@@ -4463,7 +4792,8 @@
               "text": "Cb.90"
             }
           ],
-          "segment_number": 330
+          "segment_number": 330,
+          "translated_text": "increased by the divisor-days — from this, the remainder of another planet, or a desired [quantity]."
         }
       ]
     },
@@ -4479,7 +4809,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.89a"
           },
           "text": "nis-cheda-bhāga-hārau grahayos viparītau grahayos dyu-gaṇāt/",
-          "segment_number": 331
+          "segment_number": 331,
+          "translated_text": "The civil-day-divisor and the degree-divisor of two planets, [taken] in reverse order from each other, [are applied] from the day-count"
         },
         {
           "tag": "l",
@@ -4494,7 +4825,8 @@
               "text": "D: uddhatayos < uddhṛtayos, Cb.89"
             }
           ],
-          "segment_number": 332
+          "segment_number": 332,
+          "translated_text": "of the two planets — that from which, divided by the respective civil-day-divisor, [the result] is multiplied by the obtained [quotient]."
         }
       ]
     },
@@ -4510,7 +4842,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.90a"
           },
           "text": "nis-cheda-bhāga-hārau viparītau tad-yutāt punar tasmāt/",
-          "segment_number": 333
+          "segment_number": 333,
+          "translated_text": "The civil-day-divisor and the degree-divisor, reversed — from their sum, and again from that,"
         },
         {
           "tag": "l",
@@ -4525,7 +4858,8 @@
               "text": "Cb.91"
             }
           ],
-          "segment_number": 334
+          "segment_number": 334,
+          "translated_text": "the remainder from the day-count — thus for three and more [planets], as before, on a desired day."
         }
       ]
     },
@@ -4541,7 +4875,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.91a"
           },
           "text": "dyu-gaṇam avama-avaśeṣāt ravi-candrau madhyamau sphuṭau atha vā/",
-          "segment_number": 335
+          "segment_number": 335,
+          "translated_text": "The day-count from the remainder of the omitted [lunar days] — the mean [longitudes of] the Sun and Moon, whether mean or true;"
         },
         {
           "tag": "l",
@@ -4556,7 +4891,8 @@
               "text": "Cb.92"
             }
           ],
-          "segment_number": 336
+          "segment_number": 336,
+          "translated_text": "thus computing a <s>tithi</s> (lunar day) or a planet, the calculator [works] for up to a year."
         }
       ]
     },
@@ -4572,7 +4908,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.92a"
           },
           "text": "%eka-dinam avama-śeṣam yad-guṇam %eka-ravi-candra-bha-gaṇa-ūnam/",
-          "segment_number": 337
+          "segment_number": 337,
+          "translated_text": "The omitted-day remainder multiplied by a single day, diminished by one revolution of the Sun-Moon [difference],"
         },
         {
           "tag": "l",
@@ -4587,7 +4924,8 @@
               "text": "Cb.93"
             }
           ],
-          "segment_number": 338
+          "segment_number": 338,
+          "translated_text": "when divided by the terrestrial days, [gives] one less than the lunar [days] — this is the statement thereof."
         }
       ]
     },
@@ -4603,7 +4941,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.93a"
           },
           "text": "#iṣu-#śara-#kṛta-%aṣṭa-3digbhis 108455 saṅguṇitāt avama-śeṣakāt bhaktāt/",
-          "segment_number": 339
+          "segment_number": 339,
+          "translated_text": "From the omitted-day remainder multiplied by 108,455 and divided"
         },
         {
           "tag": "l",
@@ -4618,7 +4957,8 @@
               "text": "Cb.94"
             }
           ],
-          "segment_number": 340
+          "segment_number": 340,
+          "translated_text": "by 3,506,481 — the day-count and the remainder."
         }
       ]
     },
@@ -4634,7 +4974,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.94a"
           },
           "text": "#jina-#rasa-#go-#abdhi-#rada-3249624-guṇāt #śaśi-#vasu-#kṛta-#rasa-#kha-#bhūta-#rāma-3506481-hṛtāt/",
-          "segment_number": 341
+          "segment_number": 341,
+          "translated_text": "From [the omitted-day remainder] multiplied by 3,249,624, divided by 3,506,481 —"
         },
         {
           "tag": "l",
@@ -4649,7 +4990,8 @@
               "text": "Cb.95"
             }
           ],
-          "segment_number": 342
+          "segment_number": 342,
+          "translated_text": "the desired omitted-day remainder — that remainder is the remainder of the Sun's revolutions."
         }
       ]
     },
@@ -4665,7 +5007,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.95a"
           },
           "text": "#go-#aga-#indu-#kha-#īśa-110179-guṇitāt bhaktāt #nakha-#pakṣa-#yama-#rasa-#iṣu-#guṇais 3562220/",
-          "segment_number": 343
+          "segment_number": 343,
+          "translated_text": "Multiplied by 110,179, divided by 3,562,220 —"
         },
         {
           "tag": "l",
@@ -4680,7 +5023,8 @@
               "text": "Cb.96"
             }
           ],
-          "segment_number": 344
+          "segment_number": 344,
+          "translated_text": "the remainder from the omitted-day remainder is the <s>tithis</s>; from the omitted-day remainder, the sub-seconds."
         }
       ]
     },
@@ -4696,7 +5040,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.96a"
           },
           "text": "bhāga-kalā-vikalā-aikyam dṛṣṭvā vikalā-antaram ca ke śeṣe/",
-          "segment_number": 345
+          "segment_number": 345,
+          "translated_text": "Having observed the sum of degrees, minutes, and sub-seconds, and also the difference of sub-seconds — [these are] the remainders."
         },
         {
           "tag": "l",
@@ -4711,7 +5056,8 @@
               "text": "Cb.97"
             }
           ],
-          "segment_number": 346
+          "segment_number": 346,
+          "translated_text": "The sum divided in two, increased and decreased by the difference — halved [gives] the [two] remainders."
         }
       ]
     },
@@ -4727,7 +5073,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.97a"
           },
           "text": "tad-varga-antaram ādye tad-antaram ca anatara-uddhṛta-yuta-ūnam/",
-          "segment_number": 347
+          "segment_number": 347,
+          "translated_text": "The difference of their squares in the first [case]; that difference, increased and decreased by the difference divided [by it],"
         },
         {
           "tag": "l",
@@ -4742,7 +5089,8 @@
               "text": "Cb. 98"
             }
           ],
-          "segment_number": 348
+          "segment_number": 348,
+          "translated_text": "the difference of squares divided by two — [gives] the remainder; from that, the day-count."
         }
       ]
     },
@@ -4758,7 +5106,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.98a"
           },
           "text": "[kṛti-saṃyogāt %dvi-guṇāt yuti-vargam prohya śeṣa-mūlam yat/",
-          "segment_number": 349
+          "segment_number": 349,
+          "translated_text": "[From the sum of the products, doubled — subtracting the square of the sum, the root of the remainder;"
         },
         {
           "tag": "l",
@@ -4766,7 +5115,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.98c"
           },
           "text": "tena yuta-ūnas yogas dalitas śeṣe pṛthak abhīṣṭe// Cb.99]",
-          "segment_number": 350
+          "segment_number": 350,
+          "translated_text": "by that, the sum increased and decreased, halved — [gives] the [two] remainders separately as desired. // Cb.99]"
         }
       ]
     },
@@ -4782,7 +5132,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.99a"
           },
           "text": "śeṣa-vadhāt %dvi-kṛti-guṇāt śeṣa-antara-varga-saṃyutāt mūlam/",
-          "segment_number": 351
+          "segment_number": 351,
+          "translated_text": "From the product of the remainders multiplied by twice the square, to which the square of the difference of remainders is added — the [square] root;"
         },
         {
           "tag": "l",
@@ -4797,7 +5148,8 @@
               "text": "Cb.100"
             }
           ],
-          "segment_number": 352
+          "segment_number": 352,
+          "translated_text": "decreased and increased by the difference of remainders, halved — [gives] the [two] remainders separately as desired."
         }
       ]
     },
@@ -4820,7 +5172,8 @@
               "text": "D: hṛdi-ghātram > hṛd-mātram"
             }
           ],
-          "segment_number": 353
+          "segment_number": 353,
+          "translated_text": "These problems [test] the heart and body; one may construct thousands of other problems."
         },
         {
           "tag": "l",
@@ -4835,7 +5188,8 @@
               "text": "Cb.101"
             }
           ],
-          "segment_number": 354
+          "segment_number": 354,
+          "translated_text": "Problems given by others may be solved in this very manner, by the [appropriate] procedures."
         }
       ]
     },
@@ -4851,7 +5205,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.101a"
           },
           "text": "jana-saṃsadi daiva-vidām tejas nāśayati bhānus iva bhānām/",
-          "segment_number": 355
+          "segment_number": 355,
+          "translated_text": "In a public assembly of astrologers, [such problems] destroy the brilliance [of rivals], as the Sun [destroys that] of the stars,"
         },
         {
           "tag": "l",
@@ -4866,7 +5221,8 @@
               "text": "Cb.102, ḍ: śata-śas > sūtrais"
             }
           ],
-          "segment_number": 356
+          "segment_number": 356,
+          "translated_text": "through <s>kuṭṭākāra</s> (pulverizer) problems, even when merely recited — how much more when [posed] by the hundreds!"
         }
       ]
     },
@@ -4882,7 +5238,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.102a"
           },
           "text": "prati-sūtram amī praśnās pathitās sa-uddeśakeṣu sūtreṣu/",
-          "segment_number": 357
+          "segment_number": 357,
+          "translated_text": "These problems, recited sūtra by sūtra, are in the sūtras with examples."
         },
         {
           "tag": "l",
@@ -4897,7 +5254,8 @@
               "text": "Cb.103"
             }
           ],
-          "segment_number": 358
+          "segment_number": 358,
+          "translated_text": "With one hundred and three <s>āryā</s> verses, the <s>kuṭṭaka</s> [chapter] is the eighteenth chapter."
         },
         {
           "tag": "l",
@@ -4905,7 +5263,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.102p"
           },
           "text": "iti śrī-brāhmasphuṭasiddhānte kuṭṭaka-adhyāyas %aṣṭādaśas//",
-          "segment_number": 359
+          "segment_number": 359,
+          "translated_text": "Thus, in the illustrious <s>Brāhmasphuṭasiddhānta</s>, the eighteenth chapter on the <s>kuṭṭaka</s> (pulverizer)."
         }
       ]
     },
@@ -4913,13 +5272,15 @@
       "tag": "p",
       "attributes": {},
       "text": "[śaṅku-chāyā-ādi-jñānam]",
-      "segment_number": 360
+      "segment_number": 360,
+      "translated_text": "[Knowledge of the gnomon-shadow and related topics]"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "[praśnās]",
-      "segment_number": 361
+      "segment_number": 361,
+      "translated_text": "[Problems]"
     },
     {
       "tag": "lg",
@@ -4933,7 +5294,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.1a"
           },
           "text": "dṛṣṭvā dina-%ardha-ghaṭikā yas arka-jñas akṣa-aṃśakān vijānāti/",
-          "segment_number": 362
+          "segment_number": 362,
+          "translated_text": "He who, having observed the half-day <s>ghaṭikās</s> (time-units), being a knower of the Sun, determines the degrees of terrestrial latitude —"
         },
         {
           "tag": "l",
@@ -4941,7 +5303,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.1c"
           },
           "text": "udaya-antara-ghaṭikābhis jñātāt jñeyam sas tantra-jñas//",
-          "segment_number": 363
+          "segment_number": 363,
+          "translated_text": "and from the known [planet], determines the unknown by means of the <s>ghaṭikās</s> of the rising-interval — he is a knower of the system."
         }
       ]
     },
@@ -4957,7 +5320,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.2a"
           },
           "text": "asta-antara-ghaṭikābhis yas jñātāt jñeyam ānayati tastmāt/",
-          "segment_number": 364
+          "segment_number": 364,
+          "translated_text": "He who, by means of the <s>ghaṭikās</s> of the setting-interval, derives the unknown from the known —"
         },
         {
           "tag": "l",
@@ -4965,7 +5329,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.2c"
           },
           "text": "madhya-gatim yuga-bha-gaṇān ānayati tatas sas tantra-jñas//",
-          "segment_number": 365
+          "segment_number": 365,
+          "translated_text": "and derives the mean motion and the <s>yuga</s>-revolution numbers from that — he is a knower of the system."
         }
       ]
     },
@@ -4981,7 +5346,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.3a"
           },
           "text": "ānayati yas tamas-ravi-śaśa-aṅka-mānāni dīpaka-śikha-auccyāt/",
-          "segment_number": 366
+          "segment_number": 366,
+          "translated_text": "He who derives the measures of the shadow, the Sun, and the Moon's disc from the height of the lamp-flame,"
         },
         {
           "tag": "l",
@@ -4989,7 +5355,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.3c"
           },
           "text": "śaṅku-tala-antara-bhūmi-jñāne chāyām sas tantra-jñas//",
-          "segment_number": 367
+          "segment_number": 367,
+          "translated_text": "and [determines] the shadow in the knowledge of the ground between the gnomon-base [and the lamp] — he is a knower of the system."
         }
       ]
     },
@@ -5005,7 +5372,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.4a"
           },
           "text": "iṣṭa-gṛha-auccya-jñas yas tad-antara-jñas nirīkṣyate tu jale/",
-          "segment_number": 368
+          "segment_number": 368,
+          "translated_text": "He who, knowing the height of a desired house and the distance to it, [determines what is] seen in water,"
         },
         {
           "tag": "l",
@@ -5013,7 +5381,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.4c"
           },
           "text": "gṛha-bhitti-agram darśayati darpaṇe vā sas tantra-jñas//",
-          "segment_number": 369
+          "segment_number": 369,
+          "translated_text": "and shows the top of a house-wall in a mirror — he is a knower of the system."
         }
       ]
     },
@@ -5029,7 +5398,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.5a"
           },
           "text": "chāyā-%dvitīya-bhā-agra-antara-vijñānena vetti dīpa-aucyam/",
-          "segment_number": 370
+          "segment_number": 370,
+          "translated_text": "He who knows the height of a lamp from the knowledge of the distance between the second shadow-tip and [the first],"
         },
         {
           "tag": "l",
@@ -5044,7 +5414,8 @@
               "text": "D: śaṅka- < śaṅku-"
             }
           ],
-          "segment_number": 371
+          "segment_number": 371,
+          "translated_text": "or being a knower of the gnomon-shadow, [determines] the shadow of the ground — he is a knower of the system."
         }
       ]
     },
@@ -5067,7 +5438,8 @@
               "text": "D: dṛṣṭvā gṛha-tala-antara-jālabhos > gṛha-puruṣa-antara-salile yas"
             }
           ],
-          "segment_number": 372
+          "segment_number": 372,
+          "translated_text": "He who, knowing the ground-distance, having seen through a window the top of a house, and being a knower of the ground,"
         },
         {
           "tag": "l",
@@ -5075,7 +5447,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.6c"
           },
           "text": "vetti gṛha-auccyam dṛṣṭvā taila-stham vā sas tantra-jñas//",
-          "segment_number": 373
+          "segment_number": 373,
+          "translated_text": "determines the height of a house, or having seen [the reflection] in oil — he is a knower of the system."
         }
       ]
     },
@@ -5091,7 +5464,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.7a"
           },
           "text": "vīkṣya gṛha-agram salile prasārya salilam punar sva-bhū-jñāne/",
-          "segment_number": 374
+          "segment_number": 374,
+          "translated_text": "He who, having seen the top of a house in water, having extended the water [surface], in the knowledge of its own ground,"
         },
         {
           "tag": "l",
@@ -5099,7 +5473,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.7c"
           },
           "text": "ānayati jalāt bhūmim gṛhasya vā auccyam sas tantra-jñas//",
-          "segment_number": 375
+          "segment_number": 375,
+          "translated_text": "derives from the water the ground-distance or the height of the house — he is a knower of the system."
         }
       ]
     },
@@ -5115,7 +5490,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.8a"
           },
           "text": "jñātais chāyā-puruṣais vijñāte toya-kuḍyayos vivare/",
-          "segment_number": 376
+          "segment_number": 376,
+          "translated_text": "He who, with known shadow-persons, having determined the opening between the water and the wall,"
         },
         {
           "tag": "l",
@@ -5123,7 +5499,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.8c"
           },
           "text": "kuḍye arka-tejasas yas vetti ārūḍhim sas tantra-jñas//",
-          "segment_number": 377
+          "segment_number": 377,
+          "translated_text": "determines the height to which the Sun's rays climb on the wall — he is a knower of the system."
         }
       ]
     },
@@ -5131,7 +5508,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[uttarāṇi]",
-      "segment_number": 378
+      "segment_number": 378,
+      "translated_text": "[Solutions]"
     },
     {
       "tag": "lg",
@@ -5145,7 +5523,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.9a"
           },
           "text": "iṣṭa-divasa-%ardha-ghaṭikā ghaṭikā-%pañcadaśa-antara-prāṇās/",
-          "segment_number": 379
+          "segment_number": 379,
+          "translated_text": "The <s>ghaṭikās</s> of half the desired day — the <s>prāṇas</s> (breaths) of the interval from fifteen <s>ghaṭikās</s>;"
         },
         {
           "tag": "l",
@@ -5153,7 +5532,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.9c"
           },
           "text": "tad-divasa-cara-prāṇās tais akṣam sādhayet prāk-vat//",
-          "segment_number": 380
+          "segment_number": 380,
+          "translated_text": "these are the <s>caraprāṇas</s> (ascensional difference) of that day — from these, determine the latitude as before."
         }
       ]
     },
@@ -5169,7 +5549,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.10a"
           },
           "text": "jñāta-jñeya-grahayos udaya-antara-nāḍikābhis adhika-ūnas/",
-          "segment_number": 381
+          "segment_number": 381,
+          "translated_text": "Of the known and the unknown planets, by the <s>nāḍikās</s> of the rising-interval, increased or decreased"
         },
         {
           "tag": "l",
@@ -5177,7 +5558,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.10c"
           },
           "text": "udayais jñātas jñātāt jñeyas prāk-aparayos jñeyas//",
-          "segment_number": 382
+          "segment_number": 382,
+          "translated_text": "by the risings, the known [planet yields] the unknown from the known; for eastern and western [planets], the unknown [is found]."
         }
       ]
     },
@@ -5193,7 +5575,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.11a"
           },
           "text": "jñātas sa-bha-%ardhas udayais asta-antara-nāḍikābhis adhika-ūnas/",
-          "segment_number": 383
+          "segment_number": 383,
+          "translated_text": "The known [planet], with half a revolution added, by the <s>nāḍikās</s> of the setting-interval, increased or decreased —"
         },
         {
           "tag": "l",
@@ -5201,7 +5584,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.11c"
           },
           "text": "jñātāt pūrva-aparayos jñeyas bha-%ardha-ūnake jñeyas//",
-          "segment_number": 384
+          "segment_number": 384,
+          "translated_text": "from the known, for eastern and western [planets], the unknown [is found]; when less than half a revolution, the unknown [is found]."
         }
       ]
     },
@@ -5217,7 +5601,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.12a"
           },
           "text": "jñātam kṛtvā madhyam bhūyas anya-dine tad-antaram bhuktis/",
-          "segment_number": 385
+          "segment_number": 385,
+          "translated_text": "Having computed the known as mean [longitude], the difference on another day is the daily motion."
         },
         {
           "tag": "l",
@@ -5225,7 +5610,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.12c"
           },
           "text": "trairāśikena bhuktyā kalpa-graha-maṇḍala-ānayanam//",
-          "segment_number": 386
+          "segment_number": 386,
+          "translated_text": "By the rule of three from the daily motion — the derivation of the <s>kalpa</s> revolution-numbers of a planet."
         }
       ]
     },
@@ -5241,7 +5627,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.13a"
           },
           "text": "sthiti-%ardhāt viparītam tamas-pramāṇam sphuṭam grahaṇe/",
-          "segment_number": 387
+          "segment_number": 387,
+          "translated_text": "From half the duration [of the eclipse], the reverse [computation yields] the true measure of the shadow in an eclipse;"
         },
         {
           "tag": "l",
@@ -5249,7 +5636,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.13c"
           },
           "text": "māna-udayāt ravi-indvos ghaṭikā-avayavena bha-udaya-tas//",
-          "segment_number": 388
+          "segment_number": 388,
+          "translated_text": "from the measure-rising of the Sun and Moon, by the fraction of <s>ghaṭikās</s> from the rising of the [zodiacal] sign."
         }
       ]
     },
@@ -5265,7 +5653,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.14a"
           },
           "text": "dīpa-tala-śaṅku-talayos antaram iṣṭa-pramāṇa-śaṅku-guṇam/",
-          "segment_number": 389
+          "segment_number": 389,
+          "translated_text": "The distance between the lamp-base and the gnomon-base, multiplied by the measure of the desired gnomon,"
         },
         {
           "tag": "l",
@@ -5273,7 +5662,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.14c"
           },
           "text": "dīpa-śikha-auccyāt śaṅkum viśodhya śeṣa-uddhṛtam chāyā//",
-          "segment_number": 390
+          "segment_number": 390,
+          "translated_text": "divided by the remainder after subtracting the gnomon from the lamp-flame's height — [gives] the shadow."
         }
       ]
     },
@@ -5289,7 +5679,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.15a"
           },
           "text": "śaṅku-antareṇa guṇitā chāyā chāyā-antareṇa bhaktā bhūs /",
-          "segment_number": 391
+          "segment_number": 391,
+          "translated_text": "The shadow multiplied by the gnomon-interval, divided by the shadow-interval — [gives] the ground [distance]."
         },
         {
           "tag": "l",
@@ -5297,7 +5688,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.15c"
           },
           "text": "sa-chāyā śaṅku-guṇā dīpa-auccyam chāyayā bhaktā//",
-          "segment_number": 392
+          "segment_number": 392,
+          "translated_text": "The ground with the shadow added, multiplied by the gnomon — the lamp's height, divided by the shadow."
         }
       ]
     },
@@ -5313,7 +5705,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.16a"
           },
           "text": "jñātvā śaṅku-chāyām anupātāt sādhayet samucchrāyān/",
-          "segment_number": 393
+          "segment_number": 393,
+          "translated_text": "Having known the gnomon-shadow, by proportion one may determine the heights"
         },
         {
           "tag": "l",
@@ -5321,7 +5714,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.16c"
           },
           "text": "gṛha-caitya-taru-nagānām auccyam vijñāya vā chāyām//",
-          "segment_number": 394
+          "segment_number": 394,
+          "translated_text": "of houses, shrines, trees, and mountains — or knowing the height, [one may determine] the shadow."
         }
       ]
     },
@@ -5337,7 +5731,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.17a"
           },
           "text": "yuta-dṛṣṭi-gṛha-auccya-hṛtā hi antara-bhūmis dṛk-auccya-saṅguṇitā//",
-          "segment_number": 395
+          "segment_number": 395,
+          "translated_text": "The ground-distance, multiplied by the eye-height, divided by the sum of eye and house-height;"
         },
         {
           "tag": "l",
@@ -5345,7 +5740,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.17c"
           },
           "text": "phala-bhūs nyaste toye prati-rūpa-agram gṛhasya narāt//",
-          "segment_number": 396
+          "segment_number": 396,
+          "translated_text": "the result-distance — when water is placed, the reflection of the house-top [is seen] by the person."
         }
       ]
     },
@@ -5361,7 +5757,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.18a"
           },
           "text": "gṛha-puruṣa-antara-salile vīkṣya gṛha-agram dṛk-auccya-saṅguṇitam/",
-          "segment_number": 397
+          "segment_number": 397,
+          "translated_text": "Having seen the house-top in the water between the house and the person — the eye-height multiplied"
         },
         {
           "tag": "l",
@@ -5369,7 +5766,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.18c"
           },
           "text": "gṛha-toya-antaram auccyam gṛhasya nṛ-jala-antareṇa hṛtam//",
-          "segment_number": 398
+          "segment_number": 398,
+          "translated_text": "by the house-to-water distance is the height of the house, divided by the person-to-water distance."
         }
       ]
     },
@@ -5385,7 +5783,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.19a"
           },
           "text": "%prathama-%dvitīya-nṛ-jala-antara-antareṇa uddhṛtā jala-apasṛtis/",
-          "segment_number": 399
+          "segment_number": 399,
+          "translated_text": "By the difference of the first and second person-to-water distances, divided — the recession of water;"
         },
         {
           "tag": "l",
@@ -5393,7 +5792,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.19c"
           },
           "text": "dṛṣṭi-auccya-guṇā ucchrāyas toyāt nṛ-jala-antara-guṇā bhūs//",
-          "segment_number": 400
+          "segment_number": 400,
+          "translated_text": "multiplied by the eye-height gives the height; from the water, the ground multiplied by the person-to-water distance."
         }
       ]
     },
@@ -5409,7 +5809,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.20a"
           },
           "text": "chāyā-puruṣa-chinnam jala-kuḍya-antaram avāptam ārūḍhis/",
-          "segment_number": 401
+          "segment_number": 401,
+          "translated_text": "The water-to-wall distance, divided by the shadow-person — the obtained [result] is the height [of the Sun's rays on the wall]."
         },
         {
           "tag": "l",
@@ -5417,7 +5818,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.20c"
           },
           "text": "adhyāyas %viṃśati-āryāṇām %ekonaviṃśas ayam//",
-          "segment_number": 402
+          "segment_number": 402,
+          "translated_text": "This is the nineteenth chapter, of twenty <s>āryā</s> verses."
         }
       ]
     },
@@ -5425,7 +5827,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[chandas-citi-uttaram]",
-      "segment_number": 403
+      "segment_number": 403,
+      "translated_text": "[Prosody and Combinatorics]"
     },
     {
       "tag": "lg",
@@ -5439,7 +5842,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.1a"
           },
           "text": "ṛgvargaḥ paryāyaḥ samūhayogāvayukṣu yugmeṣu/",
-          "segment_number": 404
+          "segment_number": 404,
+          "translated_text": "A <s>ṛgvarga</s> (letter-group) is a sequence; a collection-combination, in even-uneven [arrangements] and even [ones] —"
         },
         {
           "tag": "l",
@@ -5447,7 +5851,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.1c"
           },
           "text": "soyāḥ prāgvatprāptādāścatuṣkakāḥ śeṣayuktyontyaḥ//",
-          "segment_number": 405
+          "segment_number": 405,
+          "translated_text": "those obtained as before — groups of four [in the columns]; the rest combined with the last."
         }
       ]
     },
@@ -5463,7 +5868,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.2a"
           },
           "text": "ekādiyutavihīnāvādyantau tadviparyayau yāvat/",
-          "segment_number": 406
+          "segment_number": 406,
+          "translated_text": "The first and last, with and without the addition of one, and their reverses — as long as"
         },
         {
           "tag": "l",
@@ -5471,7 +5877,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.2c"
           },
           "text": "vargādiṣu viṣamayujāṃ kramotkramādvardhayetpādān//",
-          "segment_number": 407
+          "segment_number": 407,
+          "translated_text": "in squares and the like of odd-even [numbers], one increases the quarters in direct and reverse order."
         }
       ]
     },
@@ -5487,7 +5894,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.3a"
           },
           "text": "ekaikena dvyādvyāḥ soppappadhikeṣu tatpratiṣṭheṣu/",
-          "segment_number": 408
+          "segment_number": 408,
+          "translated_text": "By one each, two by two — in those with additional [syllables] and their bases,"
         },
         {
           "tag": "l",
@@ -5495,7 +5903,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.3c"
           },
           "text": "vargādirabhīṣṭāntaḥ prastāro bhavati yavamadhyaḥ//",
-          "segment_number": 409
+          "segment_number": 409,
+          "translated_text": "the extension (<s>prastāra</s>) from the square and onwards to the desired end, becomes the <s>yava</s>-middle."
         }
       ]
     },
@@ -5511,7 +5920,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.4a"
           },
           "text": "sūnontyo dvipadāgraṃ tripadādyānāmadhaḥ pṛthak saṃkhyā/",
-          "segment_number": 410
+          "segment_number": 410,
+          "translated_text": "The end-zeros give the top of the two-footed [meter]; the count separately below the initial [syllables] of three-footed [meters];"
         },
         {
           "tag": "l",
@@ -5519,7 +5929,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.4c"
           },
           "text": "tacchodhyo vyekaḥ pṛthagntādrūpamūrdhvayutam//",
-          "segment_number": 411
+          "segment_number": 411,
+          "translated_text": "that, subtracted — the one-less, separately — a unit added above at the end."
         }
       ]
     },
@@ -5535,7 +5946,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.5a"
           },
           "text": "yāvat pādāvyekāgacchādvarṇeṣvathaikavṛddheṣu/",
-          "segment_number": 412
+          "segment_number": 412,
+          "translated_text": "As long as the quarter-minus-one [syllables] proceed through the letters — then with increments of one,"
         },
         {
           "tag": "l",
@@ -5543,7 +5955,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.5c"
           },
           "text": "rūpādyutaghāte vargādyānāṃ parā saṃkhyā//",
-          "segment_number": 413
+          "segment_number": 413,
+          "translated_text": "the product of [numbers] beginning with one added — the total number of meters from the square onwards."
         }
       ]
     },
@@ -5559,7 +5972,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.6a"
           },
           "text": "rūpādhikapādārdheviṣameṣūrdhvaḥ sameṣu pādārdhe/",
-          "segment_number": 414
+          "segment_number": 414,
+          "translated_text": "In odd [meters], above the half-quarter plus one; in even [meters], at the half-quarter;"
         },
         {
           "tag": "l",
@@ -5567,7 +5981,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.6c"
           },
           "text": "ardhādviguṇāvyekāṃyulānyadhastasya sarveṣām//",
-          "segment_number": 415
+          "segment_number": 415,
+          "translated_text": "twice the half minus one — the <s>yula</s>-syllables below all of them."
         }
       ]
     },
@@ -5583,7 +5998,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.7a"
           },
           "text": "mādhyais tathārdhahīnaiḥ kramapādair vyastatulyapādādyaḥ/",
-          "segment_number": 416
+          "segment_number": 416,
+          "translated_text": "With the middle [syllables] thus diminished by half, the direct-quarter [gives] the reversed-equal-quarter beginning."
         },
         {
           "tag": "l",
@@ -5591,7 +6007,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.7c"
           },
           "text": "viṣameravyekaṃ madhye prohyādyānyataḥ kuryāt//",
-          "segment_number": 417
+          "segment_number": 417,
+          "translated_text": "In odd ones, the one-less in the middle — having subtracted, one makes the first from the rest."
         }
       ]
     },
@@ -5607,7 +6024,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.8a"
           },
           "text": "saikakramatulyādyair nyāso'bhyadhiko viśodhitaś cādhaḥ/",
-          "segment_number": 418
+          "segment_number": 418,
+          "translated_text": "The placement with the initial [syllables] equal to one-plus-direct-order — the excess subtracted below."
         },
         {
           "tag": "l",
@@ -5615,7 +6033,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.8c"
           },
           "text": "saṃkhyaikyaṃ tādṛk yādṛk prathamas trirahito naṣṭe//",
-          "segment_number": 419
+          "segment_number": 419,
+          "translated_text": "The sum of the [row] numbers is such as the first minus three — in the <s>naṣṭa</s> (lost [meter recovery])."
         }
       ]
     },
@@ -5631,7 +6050,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.9a"
           },
           "text": "mādhyaiḥ kṛtaiś ca dalitaiḥ samasaṃkhyāyāṃ kramotkramāt kṣeppam/",
-          "segment_number": 420
+          "segment_number": 420,
+          "translated_text": "With the middle [syllables] made and halved — in an even number, the addition from direct and reverse order;"
         },
         {
           "tag": "l",
@@ -5639,7 +6059,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.9c"
           },
           "text": "viṣamāyāṃ vyekāyāṃ dalam kramād uttkramāt saikam//",
-          "segment_number": 421
+          "segment_number": 421,
+          "translated_text": "in an odd number minus one — halving in direct order, with one added in reverse order."
         }
       ]
     },
@@ -5655,7 +6076,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.10a"
           },
           "text": "samasaṃkhyāyāṃ sopānakramotkramābhyāṃ tathaiva viṣamābhyām/",
-          "segment_number": 422
+          "segment_number": 422,
+          "translated_text": "In an even number, by the direct and reverse staircase order — and likewise for the odd [numbers];"
         },
         {
           "tag": "l",
@@ -5663,7 +6085,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.10c"
           },
           "text": "kalpyā pacite dṛṣṭe prathamaḥ śeṣākṣarāṇyante//",
-          "segment_number": 423
+          "segment_number": 423,
+          "translated_text": "in the <s>pacita</s> (cooked) and <s>dṛṣṭa</s> (seen) [procedures], the first [syllable is found]; the remaining syllables at the end."
         }
       ]
     },
@@ -5679,7 +6102,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.11a"
           },
           "text": "samadalasamaviṣamāṇāṃ saṃkhyāpādārdhasarvakalpavadhaḥ/",
-          "segment_number": 424
+          "segment_number": 424,
+          "translated_text": "Of equal-half, equal, and unequal [meters] — the product of the number, half-quarter, and all arrangements;"
         },
         {
           "tag": "l",
@@ -5687,7 +6111,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.11c"
           },
           "text": "svādyavadho'nyaiḥ pādaiḥ svaparasya prāgvadhaḥ saikaiḥ//",
-          "segment_number": 425
+          "segment_number": 425,
+          "translated_text": "the product of one's own initial [numbers] with other quarters — the product of one's own and the next, with one added, as before."
         }
       ]
     },
@@ -5703,7 +6128,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.12a"
           },
           "text": "ādyādanantaro'dhaḥ kalppo'nyatulyamādyaḥ prāk/",
-          "segment_number": 426
+          "segment_number": 426,
+          "translated_text": "The arrangement next after the first — below; the other-equal beginning as before;"
         },
         {
           "tag": "l",
@@ -5711,7 +6137,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.12c"
           },
           "text": "nyāso vargo'nyonaḥ prastāro'rdhasamaviṣamāṇām//",
-          "segment_number": 427
+          "segment_number": 427,
+          "translated_text": "the placement — the square of the other — the extension of half-equal and unequal [meters]."
         }
       ]
     },
@@ -5727,7 +6154,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.13a"
           },
           "text": "naṣṭentyāt svādhasthonakalpaghāto'rdhatulyaviṣamāṇām/",
-          "segment_number": 428
+          "segment_number": 428,
+          "translated_text": "In the <s>naṣṭa</s> [recovery] from the end — one's own below-product minus the arrangement-product of half-equal and unequal [meters];"
         },
         {
           "tag": "l",
@@ -5735,7 +6163,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.13c"
           },
           "text": "vyekaḥ pṛthak svavargoddhṛtaḥ phalaṃ tulyakalyānām//",
-          "segment_number": 429
+          "segment_number": 429,
+          "translated_text": "minus one, separately — divided by one's own square, the result for equal-arrangement [meters]."
         }
       ]
     },
@@ -5751,7 +6180,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.14a"
           },
           "text": "uddiṣṭe kalpahṛte'tītaiḥ prathamaḥ phale sarūpe 'nyaḥ/",
-          "segment_number": 430
+          "segment_number": 430,
+          "translated_text": "In the <s>uddiṣṭa</s> (indicated [meter]) — divided by the arrangement, the elapsed [gives] the first; when the result has the same form, another;"
         },
         {
           "tag": "l",
@@ -5759,7 +6189,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.14c"
           },
           "text": "asakṛdvargāṃśayute saike vārdhasamaviṣamāṇām//",
-          "segment_number": 431
+          "segment_number": 431,
+          "translated_text": "repeatedly, with the square-fraction added — with one added, for half-equal and unequal [meters]."
         }
       ]
     },
@@ -5775,7 +6206,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.15a"
           },
           "text": "kapeṣu pṛthak gurulaghusaṃkhyaikādibhājitā prāgvat/",
-          "segment_number": 432
+          "segment_number": 432,
+          "translated_text": "In the [individual] syllable-groups, the separate count of heavy and light syllables, divided by [numbers] beginning with one, as before;"
         },
         {
           "tag": "l",
@@ -5783,7 +6215,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.15c"
           },
           "text": "viṣameṣvādyalaghūno laghubhir meruḥ samādīnām//",
-          "segment_number": 433
+          "segment_number": 433,
+          "translated_text": "in odd [meters], with the initial [syllable] light — with the light [syllables], the <s>Meru</s> [triangular array] for equal [meters] and the like."
         }
       ]
     },
@@ -5799,7 +6232,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.16a"
           },
           "text": "ekadvitayoḥ parato dvisaṃguṇo'nantarādvirūpo'dhaḥ/",
-          "segment_number": 434
+          "segment_number": 434,
+          "translated_text": "After one and two, the next is twice [the preceding]; from the adjacent [number], a two-form [entry] below."
         },
         {
           "tag": "l",
@@ -5807,7 +6241,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.16c"
           },
           "text": "vargadharādyonodalasamaviṣamāṇāṃ dhvajo laghubhiḥ//",
-          "segment_number": 435
+          "segment_number": 435,
+          "translated_text": "The flag [pattern] (<s>dhvaja</s>) [is obtained] from the halves of the even and odd [numbers] of the square-series and so on, with short [syllables]."
         }
       ]
     },
@@ -5823,7 +6258,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.17a"
           },
           "text": "laghusaṃkhyā padadalitā parato'dho'dhaś ca śudhyati hṛtā yaiḥ/",
-          "segment_number": 436
+          "segment_number": 436,
+          "translated_text": "The count of short [syllables], divided by half the number of feet and then successively below, is purified when divided by those [numbers];"
         },
         {
           "tag": "l",
@@ -5831,7 +6267,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.17c"
           },
           "text": "dviguṇāntaiḥ śuddhair vargaparair mandaro laghubhiḥ//",
-          "segment_number": 437
+          "segment_number": 437,
+          "translated_text": "with the purified [values] doubled at the end, placed after the square [values], the mountain [pattern] (<s>mandara</s>) [is obtained] with short [syllables]."
         }
       ]
     },
@@ -5847,7 +6284,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.18a"
           },
           "text": "kṛtvādho'dhaḥ kalpyānyekādyekottarānadhasteṣām/",
-          "segment_number": 438
+          "segment_number": 438,
+          "translated_text": "Placing below successively, one should set down [numbers] beginning with one and increasing by one; below those,"
         },
         {
           "tag": "l",
@@ -5855,7 +6293,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.18c"
           },
           "text": "svāt parato'nyaikyam adhaḥ prastārād uktavad ihādyaiḥ//",
-          "segment_number": 439
+          "segment_number": 439,
+          "translated_text": "the sum of the one beyond its own [position] and the one below — from the expansion (<s>prastāra</s>), as stated, with the initial [values]."
         }
       ]
     },
@@ -5871,7 +6310,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.19a"
           },
           "text": "guruṣaṣṭyekānighaṭīdviguṇānyekāṃgulāni saṃkhyā syāt/",
-          "segment_number": 440
+          "segment_number": 440,
+          "translated_text": "Sixty guru-[syllable units], each equal to one <s>ghaṭī</s>, doubled, are in single <s>aṅgulas</s> — this would be the count;"
         },
         {
           "tag": "l",
@@ -5879,7 +6319,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.19c"
           },
           "text": "drāviṃśatir āryāṇāṃ chandaścityuttaro'dhyāyaḥ//",
-          "segment_number": 441
+          "segment_number": 441,
+          "translated_text": "twenty-two is [the number] of <s>āryā</s> [verses]. The chapter on prosody and combinatorics (<s>chandaściti</s>) follows."
         },
         {
           "tag": "l",
@@ -5887,7 +6328,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.19p"
           },
           "text": "iti śrī-brāhmasphuṭa-siddhānte chandaścityuttarādhyāyo viṃśatitamaḥ//",
-          "segment_number": 442
+          "segment_number": 442,
+          "translated_text": "Thus in the illustrious <s>Brāhmasphuṭasiddhānta</s>, the twentieth chapter on prosody and combinatorics."
         }
       ]
     },
@@ -5895,7 +6337,8 @@
       "tag": "p",
       "attributes": {},
       "text": "[jyā-prakaraṇam]",
-      "segment_number": 443
+      "segment_number": 443,
+      "translated_text": "[Chapter on Sines (<s>jyā-prakaraṇa</s>)]"
     },
     {
       "tag": "lg",
@@ -5909,7 +6352,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.17a"
           },
           "text": "rāśi-%aṣṭa-aṃśeṣu aṅkān pada-sandhibhyas krama-utkramāt kṛtvā/",
-          "segment_number": 444
+          "segment_number": 444,
+          "translated_text": "Having placed digits at the junctions of the feet in the eighth-parts of the signs, in direct and reverse order,"
         },
         {
           "tag": "l",
@@ -5917,7 +6361,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.17c"
           },
           "text": "badhnīyāt sūtrāṇi %dvayos %dvayos jyās tad-%ardhāni//",
-          "segment_number": 445
+          "segment_number": 445,
+          "translated_text": "one should construct the chords (<s>jyās</s>) for pairs; their halves [are the half-chords (<s>jyārdhāni</s>)]."
         }
       ]
     },
@@ -5933,7 +6378,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.18a"
           },
           "text": "jyā-%ardhāni jyā-%ardhānām jyā-khaṇḍāni antarāṇi/",
-          "segment_number": 446
+          "segment_number": 446,
+          "translated_text": "The half-chords of the half-chords [are] the sine-differences (<s>jyā-khaṇḍāni</s>), [which are] the intervals."
         },
         {
           "tag": "l",
@@ -5941,7 +6387,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.18c"
           },
           "text": "vyastāni antyāt atha vā iṣus utkrama-jyā dhanus tābhyām//",
-          "segment_number": 447
+          "segment_number": 447,
+          "translated_text": "Reversed from the last, or else the versine (<s>iṣu</s>) is the reverse-sine (<s>utkramajyā</s>); the arc (<s>dhanus</s>) [is derived] from these two."
         }
       ]
     },
@@ -5957,7 +6404,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.19a"
           },
           "text": "%eka-%dvi-%tri-guṇāyās vyāsa-%ardha-kṛtes pṛthak %caturthebhyas/",
-          "segment_number": 448
+          "segment_number": 448,
+          "translated_text": "From the square of the semi-diameter (<s>vyāsārdha</s>) multiplied by one, two, and three respectively, [taking] the fourth parts separately,"
         },
         {
           "tag": "l",
@@ -5965,7 +6413,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.19c"
           },
           "text": "mūlāni %aṣṭa-%dvādaśa-%ṣoḍaśa-khaṇḍāni atas anyāni//",
-          "segment_number": 449
+          "segment_number": 449,
+          "translated_text": "the square roots are the eight-, twelve-, and sixteen-part divisions; from these, the others [are derived]."
         }
       ]
     },
@@ -5981,7 +6430,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.20a"
           },
           "text": "tulya-krama-utkrama-jyā-sama-khaṇḍaka-varga-yuti-%catur-bhāgam/",
-          "segment_number": 450
+          "segment_number": 450,
+          "translated_text": "One-fourth of the sum of the squares of equal direct-sine and reverse-sine equal-divisions,"
         },
         {
           "tag": "l",
@@ -5989,7 +6439,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.20c"
           },
           "text": "prohya anaṣṭam vyāsa-%ardha-vargatas tad-pade %prathamam//",
-          "segment_number": 451
+          "segment_number": 451,
+          "translated_text": "subtracted from the square of the semi-diameter, [with] that undestroyed — the square root of that is the first [sine value]."
         }
       ]
     },
@@ -6005,7 +6456,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.21a"
           },
           "text": "tad-#dala-khaṇḍāni tad-ūna-#jina-samāni %dvitīyam utpattau/",
-          "segment_number": 452
+          "segment_number": 452,
+          "translated_text": "The divisions of half of that, those being less by that [amount], equal to twenty-four — this is the second [method] in the derivation."
         },
         {
           "tag": "l",
@@ -6013,7 +6465,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.21c"
           },
           "text": "#kṛta-#yamala-%eka-#diś-#īśa-#iṣu-%sapta-#rasa-#guṇa-%nava-ādīnām//",
-          "segment_number": 453
+          "segment_number": 453,
+          "translated_text": "[The values are:] four, two, one, ten, eleven, five, seven, six, nine, nine, and so forth."
         }
       ]
     },
@@ -6029,7 +6482,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.22a"
           },
           "text": "evam jīvā-khaṇḍāni alpāni bahūni vā ādya-khaṇḍāni/",
-          "segment_number": 454
+          "segment_number": 454,
+          "translated_text": "Thus the sine-differences — whether few or many — the initial divisions"
         },
         {
           "tag": "l",
@@ -6037,7 +6491,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.22c"
           },
           "text": "jyā-%ardhāni vṛtta-paridhes %ṣaṣṭha-%caturtha-%tri-bhāgānām//",
-          "segment_number": 455
+          "segment_number": 455,
+          "translated_text": "are the half-chords of the sixth, fourth, and third parts of the circumference of the circle."
         }
       ]
     },
@@ -6053,7 +6508,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.23a"
           },
           "text": "utkrama-sama-khaṇḍa-guṇāt vyāsāt atha vā %caturtha-bhāgāt yat/",
-          "segment_number": 456
+          "segment_number": 456,
+          "translated_text": "From the diameter multiplied by the equal-division reverse-sine, or else from the fourth part, that which"
         },
         {
           "tag": "l",
@@ -6061,7 +6517,8 @@
             "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.23c"
           },
           "text": "kṛtvā ukta-khaṇḍakāni jyā-%ardha-ānayanam na laghu asmāt//",
-          "segment_number": 457
+          "segment_number": 457,
+          "translated_text": "is obtained by making the stated divisions — the derivation of half-chords is not simpler than this."
         }
       ]
     }

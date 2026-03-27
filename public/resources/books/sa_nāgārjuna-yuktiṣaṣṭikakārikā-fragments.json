@@ -1,314 +1,36 @@
 {
-  "file_title": "nāgārjuna-yuktiṣaṣṭikakārikā-fragments",
-  "file_title_normal": "nagarjuna-yuktisastikakarika-fragments",
-  "metadata": {
-    "original_title": "Yuktiṣaṣṭikakārikā-fragments",
-    "author": "Nāgārjuna",
-    "contributors": [
-      {
-        "role": "data entry",
-        "name": "Richard Mahoney",
-        "when": ""
-      },
-      {
-        "role": "contribution to GRETIL",
-        "name": "Richard Mahoney",
-        "when": ""
-      },
-      {
-        "role": "initial normalization and conversion to legacy GRETIL formats",
-        "name": "Reinhold Grünendahl",
-        "when": ""
-      },
-      {
-        "role": "normalization and conversion to TEI-conformant markup",
-        "name": "Maximilian Mehner",
-        "when": ""
-      }
-    ],
-    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
-    "license": {
-      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
-      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-    },
-    "publication_date": "2020-07-31"
-  },
-  "body": [
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "astināstivyatikrāntā buddhir yeṣāṃ nirāśrayā |",
-          "segment_number": 1
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "gambhīras tair nirālambaḥ pratyayārtho vibhāvyate || NagYsk_01",
-          "segment_number": 2
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "...",
-      "segment_number": 3
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "saṃsāraṃ caiva nirvāṇaṃ manyante 'tattvadarśinaḥ |",
-          "segment_number": 4
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "na saṃsāraṃ na nirvāṇaṃ manyante tattvadarśinaḥ || NagYsk_05",
-          "segment_number": 5
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "nirvāṇaṃ ca bhavaś caiva dvayam etan na vidyate |",
-          "segment_number": 6
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "parajñānaṃ bhavasyaiva nirvāṇam iti kathyate || NagYsk_06",
-          "segment_number": 7
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "...",
-      "segment_number": 8
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tat tat prāpya yad utpannaṃ notpannaṃ tat svabhāvataḥ |",
-          "segment_number": 9
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "svabhāvena yan notpannam utpannaṃ nāma tat katham || NagYsk_19",
-          "segment_number": 10
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "...",
-      "segment_number": 11
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sarvam astīti vaktavyam ādau tattvagaveṣiṇaḥ |",
-          "segment_number": 12
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "paścād avagatārthasya niḥsaṅgasya viviktatā || NagYsk_30",
-          "segment_number": 13
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "...",
-      "segment_number": 14
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "mamety aham iti proktaṃ yathā kāryavaśāj jinaiḥ |",
-          "segment_number": 15
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ || NagYsk_33",
-          "segment_number": 16
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "mahābhūtādi vijñāne proktaṃ samavarudhyate |",
-          "segment_number": 17
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tajjñāne vagamaṃ yāti nanu mithyā vikalpitam || NagYsk_34",
-          "segment_number": 18
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "...",
-      "segment_number": 19
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "hetutaḥ saṃbhavo yasya sthitir na pratyayair vinā |",
-          "segment_number": 20
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "vigamaḥ pratyayābhāvāt so 'stīty avagataḥ katham || NagYsk_39",
-          "segment_number": 21
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "...",
-      "segment_number": 22
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "rāgadveṣodbhavas tīvraduṣṭadṛṣṭiparigrahaḥ |",
-          "segment_number": 23
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "vivādās tatsamutthāś ca bhāvābhyupagame sati || NagYsk_46",
-          "segment_number": 24
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "sa hetuḥ sarvadṛṣṭīnāṃ kleśotpattir na taṃ vinā |",
-          "segment_number": 25
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "tasmāt tasmin parijñāte dṛṣṭikleśaparikṣayaḥ || NagYsk_47",
-          "segment_number": 26
-        }
-      ]
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "parijñā tasya keneti pratītyotpādadarśanāt |",
-          "segment_number": 27
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "pratītya jātaṃ cājātam āha tattvavidāṃ varaḥ || NagYsk_48",
-          "segment_number": 28
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "...",
-      "segment_number": 29
-    },
-    {
-      "tag": "lg",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "bālāḥ sajjanti rūpeṣu vairāgyaṃ yānti madhyamāḥ |",
-          "segment_number": 30
-        },
-        {
-          "tag": "l",
-          "attributes": {},
-          "text": "svabhāvajñā vimucyante rūpasyottamabuddhayaḥ || NagYsk_55",
-          "segment_number": 31
-        }
-      ]
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
-      "segment_number": 32
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "Copyright (C) 2003 by Chr. Lindtner - Denmark",
-      "segment_number": 33
-    },
-    {
-      "tag": "p",
-      "attributes": {},
-      "text": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
-      "segment_number": 34
-    }
-  ]
+  "0": "Those whose intellect has transcended existence and non-existence, being without support —",
+  "1": "by them the profound, groundless meaning of dependent origination (<s>pratyayārtha</s>) is realized.",
+  "2": "...",
+  "3": "Those who do not see reality (<s>atattvadarśins</s>) conceive of both <s>saṃsāra</s> and <s>nirvāṇa</s>;",
+  "4": "those who see reality (<s>tattvadarśins</s>) conceive of neither <s>saṃsāra</s> nor <s>nirvāṇa</s>.",
+  "5": "<s>Nirvāṇa</s> and becoming (<s>bhava</s>) — this duality does not exist;",
+  "6": "the thorough knowledge of becoming itself is called <s>nirvāṇa</s>.",
+  "7": "...",
+  "8": "Whatever arises having obtained such-and-such [conditions], that has not arisen by its own nature (<s>svabhāva</s>);",
+  "9": "that which has not arisen by its own nature — how can it be called 'arisen'?",
+  "10": "...",
+  "11": "At first, one who investigates reality should say 'everything exists';",
+  "12": "afterward, for one who has understood the meaning, who is free from attachment — [there is] detachment.",
+  "13": "...",
+  "14": "Just as 'mine' and 'I' were spoken by the <s>Jinas</s> (Victorious Ones) according to practical necessity,",
+  "15": "so too the <s>skandhas</s> (aggregates), <s>āyatanas</s> (sense-bases), and <s>dhātus</s> (elements) were spoken according to practical necessity.",
+  "16": "The great elements and so forth are said to be subsumed in consciousness (<s>vijñāna</s>);",
+  "17": "when that knowledge ceases, are they not falsely constructed?",
+  "18": "...",
+  "19": "That whose arising depends on causes, whose persistence is not without conditions,",
+  "20": "whose cessation is from the absence of conditions — how is that understood as 'existing'?",
+  "21": "...",
+  "22": "Born from attachment and aversion, the embrace of intensely corrupt views,",
+  "23": "and the disputes that arise from them — [all occur] when there is acceptance of [inherent] existence.",
+  "24": "That [acceptance of existence] is the cause of all [wrong] views; without it, <s>kleśas</s> (afflictions) do not arise;",
+  "25": "therefore, when it is thoroughly known, views and afflictions are completely exhausted.",
+  "26": "How is that thoroughly known? — Through seeing dependent origination (<s>pratītyotpāda</s>);",
+  "27": "the best among those who know reality declared that what is dependently arisen is unborn.",
+  "28": "...",
+  "29": "Fools are attached to forms; the mediocre develop dispassion (<s>vairāgya</s>);",
+  "30": "those of supreme wisdom, who know the essential nature [of forms], are liberated.",
+  "31": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+  "32": "Copyright (C) 2003 by Chr. Lindtner - Denmark",
+  "33": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
 }

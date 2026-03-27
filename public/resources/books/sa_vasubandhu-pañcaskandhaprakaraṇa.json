@@ -39,7 +39,8 @@
       "tag": "p",
       "attributes": {},
       "text": "ācārya vasubandhuviracitam Pañcaskandhaprakaraṇam",
-      "segment_number": 1
+      "segment_number": 1,
+      "translated_text": "<s>Pañcaskandhaprakaraṇa</s> (Treatise on the Five Aggregates), composed by <s>Ācārya Vasubandhu</s>."
     },
     {
       "tag": "lg",
@@ -49,19 +50,22 @@
           "tag": "l",
           "attributes": {},
           "text": "prathamādhikāraḥ - skandhoddeśanirdeśakaḥ",
-          "segment_number": 2
+          "segment_number": 2,
+          "translated_text": "First chapter — Enumerating and explaining the aggregates."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pañcaskandhāḥ",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "The five aggregates (<s>skandhas</s>)."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rūpaskandhaḥ vedanāskandhaḥ saṃjñāskandhaḥ saṃskāraskandhaḥ vijñānaskandhaśca // 1 //",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": "The <s>rūpa-skandha</s> (form aggregate), the <s>vedanā-skandha</s> (feeling aggregate), the <s>saṃjñā-skandha</s> (perception aggregate), the <s>saṃskāra-skandha</s> (volitional formations aggregate), and the <s>vijñāna-skandha</s> (consciousness aggregate). // 1 //"
         }
       ]
     },
@@ -69,1111 +73,1296 @@
       "tag": "p",
       "attributes": {},
       "text": "rūpasya dvau bhedau\nrūpaṃ katamat / yat kiñcid rūpaṃ sarvaṃ taccatvāri mahābhūtāni catvāri ca mahābhūtānyupādāya // 2 //",
-      "segment_number": 5
+      "segment_number": 5,
+      "translated_text": "Two divisions of form. What is <s>rūpa</s> (form)? Whatever form there is, all of it is the four <s>mahābhūtas</s> (great elements) and that which is derived from the four <s>mahābhūtas</s>. // 2 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mahābhūtanāmāni",
-      "segment_number": 6
+      "segment_number": 6,
+      "translated_text": "Names of the <s>mahābhūtas</s> (great elements)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katamāni catvāri mahābhūtāni / pṛthivī dhātuḥ abdhātuḥ tejodhātuḥvāyudhātuśca // 3 //",
-      "segment_number": 7
+      "segment_number": 7,
+      "translated_text": "What are the four <s>mahābhūtas</s>? The <s>pṛthivī-dhātu</s> (earth element), the <s>ab-dhātu</s> (water element), the <s>tejo-dhātu</s> (fire element), and the <s>vāyu-dhātu</s> (wind element). // 3 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mahābhūtalakṣaṇāni\ntatra pṛthivīdhātuḥ katamaḥ / kaṭhinatā // 4 //",
-      "segment_number": 8
+      "segment_number": 8,
+      "translated_text": "Characteristics of the <s>mahābhūtas</s>. Therein, what is the <s>pṛthivī-dhātu</s> (earth element)? Hardness. // 4 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "abdhātuḥ katamaḥ / niṣyandatā // 5 //",
-      "segment_number": 9
+      "segment_number": 9,
+      "translated_text": "What is the <s>ab-dhātu</s> (water element)? Fluidity. // 5 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "tejodhātuḥ katamaḥ uṣṇatā // 6 //",
-      "segment_number": 10
+      "segment_number": 10,
+      "translated_text": "What is the <s>tejo-dhātu</s> (fire element)? Heat. // 6 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vāyudhātuḥ katamaḥ / paunaḥ punyakampanatā // 7 //",
-      "segment_number": 11
+      "segment_number": 11,
+      "translated_text": "What is the <s>vāyu-dhātu</s> (wind element)? Repeated agitation. // 7 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "upādāyarūpanāmāni\nupādayarūpaṃ katamat / cakṣurindriyam, śrotrendriyam, ghraṇendriyam, jihvendriyam, kāyendriyam,rūpam, śabdaḥ, gandhaḥ, rasaḥ, spraṣṭavyaikadeśaḥ, abijñaptiśca // 8 //",
-      "segment_number": 12
+      "segment_number": 12,
+      "translated_text": "Names of derived form. What is derived form (<s>upādāya-rūpa</s>)? The eye faculty (<s>cakṣur-indriya</s>), ear faculty (<s>śrotra-indriya</s>), nose faculty (<s>ghrāṇa-indriya</s>), tongue faculty (<s>jihva-indriya</s>), body faculty (<s>kāya-indriya</s>), visible form (<s>rūpa</s>), sound (<s>śabda</s>), smell (<s>gandha</s>), taste (<s>rasa</s>), a portion of the tangible (<s>spraṣṭavya-ekadeśa</s>), and non-informative form (<s>avijñapti</s>). // 8 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "upādāyarūpalakṣaṇāni cakṣurindrayaṃ katamat / varṇabiṣayo rūpaprasādaḥ // 9 //",
-      "segment_number": 13
+      "segment_number": 13,
+      "translated_text": "Characteristics of derived form. What is the eye faculty (<s>cakṣur-indriya</s>)? The refined materiality (<s>rūpa-prasāda</s>) whose domain is color. // 9 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "śrotrendrayaṃ katamat / śabdaviṣayo rūpaprasādaḥ // 10 //",
-      "segment_number": 14
+      "segment_number": 14,
+      "translated_text": "What is the ear faculty (<s>śrotra-indriya</s>)? The refined materiality whose domain is sound. // 10 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "ghrāṇendriyam katamat / gandhaviṣayo rūpaprasādaḥ // 11 //",
-      "segment_number": 15
+      "segment_number": 15,
+      "translated_text": "What is the nose faculty (<s>ghrāṇa-indriya</s>)? The refined materiality whose domain is smell. // 11 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "jihvendriyam katamat / rasaviṣayo rūpaprasādaḥ // 12 //",
-      "segment_number": 16
+      "segment_number": 16,
+      "translated_text": "What is the tongue faculty (<s>jihva-indriya</s>)? The refined materiality whose domain is taste. // 12 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kāyendriyam katamat / spraṣṭavyaviṣayo rūpaprasādaḥ // 13 //",
-      "segment_number": 17
+      "segment_number": 17,
+      "translated_text": "What is the body faculty (<s>kāya-indriya</s>)? The refined materiality whose domain is the tangible. // 13 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "rūpaṃ katamat / cakṣurgocaraḥ / varṇaḥ saṃsthānam bijñaptiśca // 14 //",
-      "segment_number": 18
+      "segment_number": 18,
+      "translated_text": "What is visible form (<s>rūpa</s>)? The domain of the eye — color (<s>varṇa</s>), shape (<s>saṃsthāna</s>), and informative form (<s>vijñapti</s>). // 14 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "śabdaḥ katamaḥ / śrotragocaraḥ / niṣpannḥ aniṣpannaḥ ubhayaḥ / upāttacatumarhābhutahetukaḥ anupāttacaturmahābhūtahetukaḥ ubhayacaturmahābhūtahetukaśca // 15 //",
-      "segment_number": 19
+      "segment_number": 19,
+      "translated_text": "What is sound (<s>śabda</s>)? The domain of the ear — produced, non-produced, or both; caused by the four <s>mahābhūtas</s> of what is appropriated, caused by the four <s>mahābhūtas</s> of what is not appropriated, or caused by the four <s>mahābhūtas</s> of both. // 15 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "gandhaḥ katamaḥ / ghrāṇagocaraḥ / surabhiḥ asurabhiḥ tadanyaśca // 16 //",
-      "segment_number": 20
+      "segment_number": 20,
+      "translated_text": "What is smell (<s>gandha</s>)? The domain of the nose — pleasant, unpleasant, or neither. // 16 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "rasaḥ katamaḥjihvāgocaraḥ / madhuraḥ amalaḥ lavaṇaḥ kaṭuḥ tiktaḥ kaṣāyaśc // 17 //",
-      "segment_number": 21
+      "segment_number": 21,
+      "translated_text": "What is taste (<s>rasa</s>)? The domain of the tongue — sweet, sour, salty, pungent, bitter, and astringent. // 17 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "spraṣṭavyaḥ katamaḥ / kāyagocaraḥ / mahābhūtānyupādāya ślakṣṇatvam karkasatbam gurutvam laghutvam śītatvam jighatsā pipāsā ca // 18 //",
-      "segment_number": 22
+      "segment_number": 22,
+      "translated_text": "What is the tangible (<s>spraṣṭavya</s>)? The domain of the body — derived from the <s>mahābhūtas</s>: smoothness, roughness, heaviness, lightness, coldness, hunger, and thirst. // 18 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "abijñaptirūpaṃ katamat / vijñaptisamādhisaṃbhūtaṃ rūpam anidarśanam apratigham // 19 //",
-      "segment_number": 23
+      "segment_number": 23,
+      "translated_text": "What is non-informative form (<s>avijñapti-rūpa</s>)? Form arisen from informative action or from <s>samādhi</s> (concentration), which is invisible and non-resistant. // 19 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "rūpaskandhaḥ soniddeśaḥ pariniṣṭhitaḥ / atha vedanā salakṣaṇaprabhedā vedanā katamā / trividho 'nubhavaḥ / sukhaḥ duḥkhaḥ aduḥkhāsukhaśca // 20 //",
-      "segment_number": 24
+      "segment_number": 24,
+      "translated_text": "The detailed exposition of the <s>rūpa-skandha</s> is concluded. Now, <s>vedanā</s> (feeling) with its characteristics and divisions. What is <s>vedanā</s>? A threefold experience: pleasant (<s>sukha</s>), painful (<s>duḥkha</s>), and neither-painful-nor-pleasant (<s>aduḥkhāsukha</s>). // 20 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "sukho yasmin niruddhe saṃyogecchā jāyate // 21 //",
-      "segment_number": 25
+      "segment_number": 25,
+      "translated_text": "Pleasant is that upon whose cessation the desire for reunion arises. // 21 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "duḥkho yasminnutpanne viyogecchā jāyate // 22 //",
-      "segment_number": 26
+      "segment_number": 26,
+      "translated_text": "Painful is that upon whose arising the desire for separation arises. // 22 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "aduḥkhāsukho yasminnutpanne nobhayecchā jāyane // 23 //",
-      "segment_number": 27
+      "segment_number": 27,
+      "translated_text": "Neither-painful-nor-pleasant is that upon whose arising neither desire arises. // 23 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vedanaskandhaḥ sonideśanirdeśaḥ parinisṭhataḥ /\natha saṃjñā lakṣaṇa prabhedā saṃjñā katamā / viṣayanimittod grahaṇam // 24 //",
-      "segment_number": 28
+      "segment_number": 28,
+      "translated_text": "The detailed exposition of the <s>vedanā-skandha</s> is concluded. Now, <s>saṃjñā</s> (perception) with its characteristics and divisions. What is <s>saṃjñā</s>? The apprehension of distinguishing marks (<s>nimitta</s>) of objects. // 24 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "sā tridhā parittā mahadgatā apramāṇā ca // 25 //",
-      "segment_number": 29
+      "segment_number": 29,
+      "translated_text": "It is threefold: limited (<s>paritta</s>), extensive (<s>mahadgata</s>), and immeasurable (<s>apramāṇa</s>). // 25 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "saṃjñā skandhaḥ soddeśanirdeśaḥ parinisṭhitaḥ /",
-      "segment_number": 30
+      "segment_number": 30,
+      "translated_text": "The detailed exposition of the <s>saṃjñā-skandha</s> is concluded."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "saṃskārāṇāṃ dvaubhedau",
-      "segment_number": 31
+      "segment_number": 31,
+      "translated_text": "Two divisions of the <s>saṃskāras</s> (volitional formations)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "saṃskārāḥ katame / vedanāsaṃjñābhyāmanye caitāḥ cittaviprayuktāśca // 26 //",
-      "segment_number": 32
+      "segment_number": 32,
+      "translated_text": "What are the <s>saṃskāras</s>? Those other than <s>vedanā</s> and <s>saṃjñā</s> — the <s>caittas</s> (mental factors) and those dissociated from mind (<s>citta-viprayukta</s>). // 26 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tatra caitadharmāḥ katame / ye dharmārścittena saṃprayuktāḥ // 27 //",
-      "segment_number": 33
+      "segment_number": 33,
+      "translated_text": "Therein, what are the <s>caitta-dharmas</s> (mental factors)? Those <s>dharmas</s> that are associated with <s>citta</s> (mind). // 27 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "caitaparisaṃkhyānam\nte katame / sparśaḥ manaskāraḥ vedanā saṃjñā cetanā chandaḥ adhimokṣaḥ smṛtiḥ samādhiḥ prajñā śraddhā hrīḥ apatrapā alobhaḥ kuśalamūlam adveṣaḥkuśalamūlam amohaḥkuśalamūlam vīryam praśrabdhiḥ apramādaḥ upekṣā avihiṃsā rāga pratighaḥ mānaḥ avidyā dṛṣṭiḥ vicikitsā krodha upanāhaḥ mrakṣaḥ pradāśaḥ īrṣyā mātsaryarm māyā śāṭhyam madaḥ ahiṃsā āhrikyam anapatrāpyam styānam, auddhatyam, āśraddhyam, kauśīddhyam pramādaḥ muṣitāsmṛti, bikṣepaḥ, aprasajanyam, kaukrityam, middham,vitarkaḥ, vicāraśca // 28 //",
-      "segment_number": 34
+      "segment_number": 34,
+      "translated_text": "Enumeration of the <s>caittas</s> (mental factors). What are they? <s>Sparśa</s> (contact), <s>manaskāra</s> (attention), <s>vedanā</s> (feeling), <s>saṃjñā</s> (perception), <s>cetanā</s> (volition), <s>chanda</s> (desire-to-act), <s>adhimokṣa</s> (resolve), <s>smṛti</s> (mindfulness), <s>samādhi</s> (concentration), <s>prajñā</s> (wisdom), <s>śraddhā</s> (faith), <s>hrī</s> (self-respect), <s>apatrapā</s> (decorum), <s>alobha</s> (non-attachment) — a wholesome root, <s>adveṣa</s> (non-hatred) — a wholesome root, <s>amoha</s> (non-delusion) — a wholesome root, <s>vīrya</s> (effort), <s>praśrabdhi</s> (tranquility), <s>apramāda</s> (heedfulness), <s>upekṣā</s> (equanimity), <s>avihiṃsā</s> (non-harming), <s>rāga</s> (attachment), <s>pratigha</s> (aversion), <s>māna</s> (pride), <s>avidyā</s> (ignorance), <s>dṛṣṭi</s> (wrong view), <s>vicikitsā</s> (doubt), <s>krodha</s> (anger), <s>upanāha</s> (resentment), <s>mrakṣa</s> (concealment), <s>pradāśa</s> (spite), <s>īrṣyā</s> (envy), <s>mātsarya</s> (miserliness), <s>māyā</s> (deceit), <s>śāṭhya</s> (guile), <s>mada</s> (intoxication), <s>ahiṃsā</s> (harmfulness), <s>āhrīkya</s> (shamelessness), <s>anapatrāpya</s> (recklessness), <s>styāna</s> (torpor), <s>auddhatya</s> (restlessness), <s>āśrāddhya</s> (faithlessness), <s>kausīdya</s> (laziness), <s>pramāda</s> (heedlessness), <s>muṣitāsmṛti</s> (forgetfulness), <s>vikṣepa</s> (distraction), <s>aprasajanya</s> (non-introspection), <s>kaukṛtya</s> (regret), <s>middha</s> (drowsiness), <s>vitarka</s> (applied thought), and <s>vicāra</s> (sustained thought). // 28 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "eteśāṃ paśca sarvatragāḥ / pañcapratiniyataviṣayā / ekādaśakuśalāḥ / ṣaṭkleśāḥ / śiṣṭā upakleśāḥ / catvāro 'nyatrāpi bhavantītyaniyatāḥ // 29 //",
-      "segment_number": 35
+      "segment_number": 35,
+      "translated_text": "Of these, five are omnipresent (<s>sarvatraga</s>); five have a restricted domain (<s>pratiniyata-viṣaya</s>); eleven are wholesome (<s>kuśala</s>); six are afflictions (<s>kleśa</s>); the remainder are secondary afflictions (<s>upakleśa</s>); and four occur elsewhere also and are thus indeterminate (<s>aniyata</s>). // 29 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "caittalakṣaṇāni\nsparśaḥkatamaḥ / trikasaṃnipāte indriyavikāraparicchedaḥ // 30 //",
-      "segment_number": 36
+      "segment_number": 36,
+      "translated_text": "Characteristics of the <s>caittas</s>. What is <s>sparśa</s> (contact)? The discernment of the modification of the sense faculty upon the conjunction of the three [sense faculty, object, and consciousness]. // 30 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "manaskāraḥ katamaḥ / cetasa ābhogaḥ // 31 //",
-      "segment_number": 37
+      "segment_number": 37,
+      "translated_text": "What is <s>manaskāra</s> (attention)? The directing of the mind. // 31 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "cetanā katamā / guṇadoṣānubhayeṣu cittābhisaṃskāro manaskarma // 32 //",
-      "segment_number": 38
+      "segment_number": 38,
+      "translated_text": "What is <s>cetanā</s> (volition)? The conditioning of the mind toward virtuous, non-virtuous, or neutral objects — mental action. // 32 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "chandaḥ katamaḥ / abhiprete vastunyabhilāṣaḥ // 33 //",
-      "segment_number": 39
+      "segment_number": 39,
+      "translated_text": "What is <s>chanda</s> (desire-to-act)? Aspiration toward a desired thing. // 33 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "adhimokṣaḥ katamaḥ / niścite vastuni tathaivāvadhāraṇam // 34 //",
-      "segment_number": 40
+      "segment_number": 40,
+      "translated_text": "What is <s>adhimokṣa</s> (resolve)? Firm ascertainment of a determined matter, just as it is. // 34 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "smṛtiḥ katamā / saṃstute vastunyasaṃpramoṣaḥ // 35 //",
-      "segment_number": 41
+      "segment_number": 41,
+      "translated_text": "What is <s>smṛti</s> (mindfulness)? Non-forgetfulness regarding a familiar object. // 35 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "samādhiḥ katamaḥ / upaparīkṣye vastuni cittasyaikāgratā // 36 //",
-      "segment_number": 42
+      "segment_number": 42,
+      "translated_text": "What is <s>samādhi</s> (concentration)? One-pointedness of mind upon an object to be examined. // 36 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "prajñā katamā / tatraiva pravicayo yogāyogavihito 'nyathā ca // 37 //",
-      "segment_number": 43
+      "segment_number": 43,
+      "translated_text": "What is <s>prajñā</s> (wisdom)? Discernment with respect to that same [object], established through proper engagement, improper engagement, or otherwise. // 37 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "śraddā katamā / karmaphalāsatyaratneṣvabhisaṃpratyayaḥ / cetaso 'bhilāṣaḥ cetasaḥ prasādaḥ // 38 //",
-      "segment_number": 44
+      "segment_number": 44,
+      "translated_text": "What is <s>śraddhā</s> (faith)? Conviction in <s>karma</s>, its fruits, the truths, and the [Three] Jewels; aspiration of the mind; clarity of the mind. // 38 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "hrīḥ / katamā ātmānaṃ dharmaṃ vādhipatiṃ kṛtvā svayamavayena lajjā // 39 //",
-      "segment_number": 45
+      "segment_number": 45,
+      "translated_text": "What is <s>hrī</s> (self-respect)? Shame at misconduct, taking oneself or the <s>Dharma</s> as authority. // 39 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "apatrapā katamā / lokamadhipatiṃ kṛtvā parato 'vadhena lajjā // 40 //",
-      "segment_number": 46
+      "segment_number": 46,
+      "translated_text": "What is <s>apatrapā</s> (decorum)? Shame at misconduct, taking the world as authority, through concern for others. // 40 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "alobhaḥ katamaḥ / lobha pratipakṣaḥ / cetaso dānakṣetrāparigrahaḥ // 41 //",
-      "segment_number": 47
+      "segment_number": 47,
+      "translated_text": "What is <s>alobha</s> (non-attachment)? The antidote to <s>lobha</s> (greed); the mind's non-grasping at the field of generosity. // 41 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "adveṣaḥ katamaḥ / dveṣapratipakṣaḥ / maitri // 42 //",
-      "segment_number": 48
+      "segment_number": 48,
+      "translated_text": "What is <s>adveṣa</s> (non-hatred)? The antidote to <s>dveṣa</s> (hatred); <s>maitrī</s> (loving-kindness). // 42 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "amohaḥ katamaḥ / mohapratipakṣaḥ / yathābhūtasaṃpratipattiḥ // 43 //",
-      "segment_number": 49
+      "segment_number": 49,
+      "translated_text": "What is <s>amoha</s> (non-delusion)? The antidote to <s>moha</s> (delusion); understanding things as they truly are. // 43 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "vīryaṃ katamat kausīddyapratipakṣaḥ kuśale cetaso 'bhyutsāhaḥ // 44 //",
-      "segment_number": 50
+      "segment_number": 50,
+      "translated_text": "What is <s>vīrya</s> (effort)? The antidote to <s>kausīdya</s> (laziness); enthusiasm of the mind toward what is wholesome. // 44 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "praśrabdhiḥ katamā / dauṣṭhulyapratipakṣaḥ kāyacittakarmaṇyatā // 45 //",
-      "segment_number": 51
+      "segment_number": 51,
+      "translated_text": "What is <s>praśrabdhi</s> (tranquility)? The antidote to <s>dauṣṭhulya</s> (heaviness); serviceability of body and mind. // 45 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "apramādaḥ katamaḥ / pramādapratipakṣaḥ / alobhādīn vīryāntān niśritya akuśalānāṃ dharmāṇāṃ prahāṇam / tatpratipakṣāṇāṃ kuśalānāṃ dharmāṇāṃ bhāvanā // 46 //",
-      "segment_number": 52
+      "segment_number": 52,
+      "translated_text": "What is <s>apramāda</s> (heedfulness)? The antidote to <s>pramāda</s> (heedlessness); based on <s>alobha</s> and the others up to <s>vīrya</s>, it is the abandoning of unwholesome <s>dharmas</s> and the cultivation of wholesome <s>dharmas</s> that are their antidotes. // 46 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "upekṣā katamā / alobhādīn vīryantān niśritya cittasamatā / cittapraśastā / cittānābhogatā / yayākliṣṭadharmānavakāśenākliṣṭeṣu sthitiḥ // 47 //",
-      "segment_number": 53
+      "segment_number": 53,
+      "translated_text": "What is <s>upekṣā</s> (equanimity)? Based on <s>alobha</s> and the others up to <s>vīrya</s>, it is the evenness of mind, the excellence of mind, the non-directing of mind, by which one abides in non-afflicted states without giving opportunity to afflicted <s>dharmas</s>. // 47 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "avihiṃsā katamā / vihiṃsāpratipakṣaḥ karuṇā // 48 ///",
-      "segment_number": 54
+      "segment_number": 54,
+      "translated_text": "What is <s>avihiṃsā</s> (non-harming)? The antidote to <s>vihiṃsā</s> (harming); <s>karuṇā</s> (compassion). // 48 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "rāgaḥ katamaḥ / upādānaskandheṣvabhyarthanā / adhyavasānam // 49 //",
-      "segment_number": 55
+      "segment_number": 55,
+      "translated_text": "What is <s>rāga</s> (attachment)? Craving and fixation upon the aggregates of clinging (<s>upādāna-skandhas</s>). // 49 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "pratighaḥ katamaḥ / satveṣvāghātacittatā // 50 //",
-      "segment_number": 56
+      "segment_number": 56,
+      "translated_text": "What is <s>pratigha</s> (aversion)? A mind intent upon harming sentient beings. // 50 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mānaḥ katamaḥ / mānaḥ saptavidhaḥ / atimānaḥ, mānātimānaḥ asmimānaḥ, abhimānaḥ, ūnamānaḥ,mithyāmānaśca // 51 //",
-      "segment_number": 57
+      "segment_number": 57,
+      "translated_text": "What is <s>māna</s> (pride)? <s>Māna</s> is sevenfold: <s>māna</s> (pride), <s>atimāna</s> (excessive pride), <s>mānātimāna</s> (pride surpassing pride), <s>asmimāna</s> (pride of self), <s>abhimāna</s> (false pride of attainment), <s>ūnamāna</s> (pride of slight inferiority), and <s>mithyāmāna</s> (false pride). // 51 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "atimānaḥ katamaḥ / hīnāt śreyānahamasmi sadṛśena vā sadṛśo 'smīti cintayato yā cittasyonnatiḥ // 53 //",
-      "segment_number": 58
+      "segment_number": 58,
+      "translated_text": "What is <s>atimāna</s> (excessive pride)? The elation of mind when one thinks, 'I am superior to the inferior,' or 'I am equal to the equal.' // 53 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mānātimānaḥ katamaḥ / śreyaso 'hameva śreyāniti cintayato yā cittasyonnatiḥ // 54 //",
-      "segment_number": 59
+      "segment_number": 59,
+      "translated_text": "What is <s>mānātimāna</s> (pride surpassing pride)? The elation of mind when one thinks, 'I alone am superior to the superior.' // 54 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "asmimānaḥ katamaḥ / pañcasūpādānaskandheṣvātmānamātmīyaṃ vā paśyato yā cittasyonnati // 55 //",
-      "segment_number": 60
+      "segment_number": 60,
+      "translated_text": "What is <s>asmimāna</s> (pride of self)? The elation of mind when one sees a self or what belongs to a self in the five aggregates of clinging. // 55 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "abhimānaḥ katamaḥ / aprāpta uttare viśeṣādhigame prāpto mayeti cintayato yā cittasyonnatiḥ // 56 //",
-      "segment_number": 61
+      "segment_number": 61,
+      "translated_text": "What is <s>abhimāna</s> (false pride of attainment)? The elation of mind when one thinks, 'I have attained,' regarding a higher special attainment that has not been attained. // 56 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "ūnamānaḥ katamaḥ / bahṛvantaraviśiṣṭādalpāntarahino 'smīti cintayato yā cittasyonnatiḥ // 57 //",
-      "segment_number": 62
+      "segment_number": 62,
+      "translated_text": "What is <s>ūnamāna</s> (pride of slight inferiority)? The elation of mind when one thinks, 'I am only slightly inferior to one who far surpasses me.' // 57 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mithyāmānaḥ katamaḥ / aguṇavato guṇavānahamasmīti cintayato yā cittasyonnatiḥ // 58 //",
-      "segment_number": 63
+      "segment_number": 63,
+      "translated_text": "What is <s>mithyāmāna</s> (false pride)? The elation of mind when one who is without good qualities thinks, 'I possess good qualities.' // 58 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "aviddhyā katamā / karmaphalasatyaratnānāmajñānam / sā punaḥ sahajā parikalpitā ca // 59 //",
-      "segment_number": 64
+      "segment_number": 64,
+      "translated_text": "What is <s>avidyā</s> (ignorance)? Non-knowing regarding <s>karma</s>, its fruits, the truths, and the [Three] Jewels. It is, moreover, twofold: innate (<s>sahajā</s>) and conceptually constructed (<s>parikalpitā</s>). // 59 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "rāgacaritasya rāgapratighayoḥ rāgacaritasyāviddyāyāścetyakuśalānāṃ trīṇī mūlāni / lobho 'kuśalamūlaṃ ddheṣo 'kuśalamūlaṃ, moho 'kuśalamūlaṃ ca // 60 //",
-      "segment_number": 65
+      "segment_number": 65,
+      "translated_text": "For one of the attachment-disposition, attachment and aversion; for one of the attachment-disposition, ignorance — thus, there are three roots of unwholesome [states]: <s>lobha</s> (greed) is an unwholesome root, <s>dveṣa</s> (hatred) is an unwholesome root, and <s>moha</s> (delusion) is an unwholesome root. // 60 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "dṛṣṭiḥ katamā pañcadṛṣṭyaḥ - satkāyadṛṣṭiḥ, antargrāhyadṛṣṭiḥ, mithyādṛṣṭiḥ, dṛṣṭiparāmarśaḥ, śīlavrataparāmarśaśca // 61 //",
-      "segment_number": 66
+      "segment_number": 66,
+      "translated_text": "What is <s>dṛṣṭi</s> (view)? There are five views: <s>satkāya-dṛṣṭi</s> (view of the perishable collection), <s>antagrāhya-dṛṣṭi</s> (view of extremes), <s>mithyā-dṛṣṭi</s> (wrong view), <s>dṛṣṭi-parāmarśa</s> (attachment to views), and <s>śīlavrata-parāmarśa</s> (attachment to rules and rituals). // 61 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "satkāyadṛṣṭiḥ katamā / pañcopādāna - skandhānātmata ātmīyato vā paśyato yā kliṣṭā prajñā // 62 //",
-      "segment_number": 67
+      "segment_number": 67,
+      "translated_text": "What is <s>satkāya-dṛṣṭi</s> (view of the perishable collection)? The afflicted wisdom (<s>kliṣṭā prajñā</s>) of one who sees the five aggregates of clinging as a self or as belonging to a self. // 62 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "antargrāhyadṛṣṭiḥ katamā / tānevādhipatiṃ kṛtvā śāśvatata ucchedato vā paśyato yā kliṣṭā prajñā // 63 //",
-      "segment_number": 68
+      "segment_number": 68,
+      "translated_text": "What is <s>antagrāhya-dṛṣṭi</s> (view of extremes)? The afflicted wisdom of one who, taking those very [aggregates] as basis, sees them as eternal or as annihilated. // 63 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mithyādṛṣṭiḥ katamā / hetuṃ vā phalaṃ vā kriyāṃ vāpavadataḥ sadāvastu vināśayato yā kliṣṭā prajñā // 64 //",
-      "segment_number": 69
+      "segment_number": 69,
+      "translated_text": "What is <s>mithyā-dṛṣṭi</s> (wrong view)? The afflicted wisdom of one who denies cause, or fruit, or action, and destroys what truly exists. // 64 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "dṛṣṭiparāmarśaḥ katamaḥ / tā eva tikhro dṛṣṭistadāśrayāṃśca skandhān śreṣṭhataḥ paramataśca paśyato yā kliṣṭā prajñā // 65 //",
-      "segment_number": 70
+      "segment_number": 70,
+      "translated_text": "What is clinging to views (<s>dṛṣṭi-parāmarśa</s>)? It is the afflicted wisdom (<s>kliṣṭā prajñā</s>) of one who regards those same sharp views and the aggregates that are their basis as supreme and paramount. // 65 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "śīlabrataparāmarśaḥ katamaḥ / śīlaṃ vrataṃ tadāśrayāṃśca skandhānaśuddhito muktito naiyāṇikataśca paśyato yā kliṣṭā prajñā // 66 //",
-      "segment_number": 71
+      "segment_number": 71,
+      "translated_text": "What is clinging to moral rules and observances (<s>śīla-vrata-parāmarśa</s>)? It is the afflicted wisdom of one who regards moral rules, observances, and the aggregates that are their basis as [means of] purification, liberation, and deliverance. // 66 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vicikitsā katamā / satyādiṣu yā dvikoṭikā matiḥ // 67 //",
-      "segment_number": 72
+      "segment_number": 72,
+      "translated_text": "What is doubt (<s>vicikitsā</s>)? It is the vacillating cognition regarding the truths and so forth. // 67 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "eteṣāṃ kleśānāṃ paścimāstistro dṛṣṭayaḥ vīcikitsā ca parikalpitāḥ / śiṣṭāḥ sahajāḥ parikalpitāśca // 68 //",
-      "segment_number": 73
+      "segment_number": 73,
+      "translated_text": "Among these afflictions, the last three views and doubt are acquired (<s>parikalpita</s>); the rest are both innate (<s>sahaja</s>) and acquired. // 68 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "krodhaḥ katamaḥ / vartaṃmānamapakāramāgamya yā cetasa āghātacetanā // 69 //",
-      "segment_number": 74
+      "segment_number": 74,
+      "translated_text": "What is anger (<s>krodha</s>)? It is the hostile intention of the mind arising from a present injury. // 69 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "upanāhaḥ katamaḥ / vairānubandha // 70 //",
-      "segment_number": 75
+      "segment_number": 75,
+      "translated_text": "What is resentment (<s>upanāha</s>)? It is the perpetuation of hostility. // 70 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "mrakṣaḥ katamaḥ ātmano 'vaddhapracchādanā // 71 //",
-      "segment_number": 76
+      "segment_number": 76,
+      "translated_text": "What is concealment (<s>mrakṣa</s>)? It is the hiding of one's own faults. // 71 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "pradāśaḥ katamaḥ caṇḍavacodāśitā // 72 //",
-      "segment_number": 77
+      "segment_number": 77,
+      "translated_text": "What is spite (<s>pradāśa</s>)? It is the manifestation of harsh speech. // 72 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "īrṣyā katamā parasaṃpattau cetaso vyāropa // 73 //",
-      "segment_number": 78
+      "segment_number": 78,
+      "translated_text": "What is jealousy (<s>īrṣyā</s>)? It is the disturbance of mind at others' prosperity. // 73 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "mātsarya katamat / dānavirodhī cetasa āgrahaḥ // 74 //",
-      "segment_number": 79
+      "segment_number": 79,
+      "translated_text": "What is avarice (<s>mātsarya</s>)? It is the mind's clinging that opposes giving. // 74 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "māyā katamā / paravaścanābhūtārthasadarśanatā // 75 //",
-      "segment_number": 80
+      "segment_number": 80,
+      "translated_text": "What is deceit (<s>māyā</s>)? It is the displaying of nonexistent qualities to others for the purpose of deception. // 75 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "śāṭhyaṃ katamat / svadoṣapracchādanopāyasaṃgṛhitaṃ cetasaḥ kauṭilyam // 76 //",
-      "segment_number": 81
+      "segment_number": 81,
+      "translated_text": "What is dissimulation (<s>śāṭhya</s>)? It is the crookedness of mind connected with the means of concealing one's own faults. // 76 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "madaḥ katamaḥ / svasaṃpattau raktasyoddharṣaḥ / cetasaḥ paryādānam // 77 //",
-      "segment_number": 82
+      "segment_number": 82,
+      "translated_text": "What is pride (<s>mada</s>)? It is the elation of one attached to one's own prosperity; it is the mind's intoxication. // 77 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vihiṃsā katamā / satveṣu viheṭhanā // 78 //",
-      "segment_number": 83
+      "segment_number": 83,
+      "translated_text": "What is harmfulness (<s>vihiṃsā</s>)? It is the tormenting of beings. // 78 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "āhrīkyaṃ katamat / avadyena svayamalajjā // 79 //",
-      "segment_number": 84
+      "segment_number": 84,
+      "translated_text": "What is shamelessness (<s>āhrīkya</s>)? It is the lack of shame within oneself regarding blameworthy conduct. // 79 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "anapatrāp katamat / avadyena parato 'lajjā // 80\nsatyānaṃ katamat / cittākarmaṇyatā / staimityam // 81 //",
-      "segment_number": 85
+      "segment_number": 85,
+      "translated_text": "What is lack of moral dread (<s>anapatrāpya</s>)? It is the lack of shame regarding blameworthy conduct in relation to others. // 80 //\nWhat is torpor (<s>styāna</s>)? It is the unserviceability of the mind; sluggishness. // 81 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "auddhatyaṃ katamat / cittasyāvyupasamaḥ // 82 //",
-      "segment_number": 86
+      "segment_number": 86,
+      "translated_text": "What is restlessness (<s>auddhatya</s>)? It is the non-tranquility of the mind. // 82 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "āśraddhyaṃ katamat / karmaphalasatyaratneṣvanabhisaṃpratyayaḥ / śraddhāvipakṣaścetaso 'prasādaḥ // 83 //",
-      "segment_number": 87
+      "segment_number": 87,
+      "translated_text": "What is lack of faith (<s>āśraddhya</s>)? It is the non-conviction regarding <s>karma</s>, its fruits, the truths, and the jewels; it is the opposite of faith and the non-clarity of mind. // 83 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "kauśiddyaṃ katamatṃḥ kuśale cetaso 'nabhyutsāho vīryavipakṣa // 84 //",
-      "segment_number": 88
+      "segment_number": 88,
+      "translated_text": "What is laziness (<s>kausīdya</s>)? It is the mind's lack of enthusiasm for what is wholesome; it is the opposite of effort (<s>vīrya</s>). // 84 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "pramādaḥ katamaḥ / yā lobhadveṣamohekauśīddyaiścitasyānārakṣā kuśalasyābhāvanā // 85 //",
-      "segment_number": 89
+      "segment_number": 89,
+      "translated_text": "What is heedlessness (<s>pramāda</s>)? It is the mind's non-guarding through greed, hatred, delusion, and laziness, and the non-cultivation of what is wholesome. // 85 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "muṣitāsmṛtiḥ katamā / kliṣṭāsmṛtiḥ / kuśalāpratipatiḥ // 86 //",
-      "segment_number": 90
+      "segment_number": 90,
+      "translated_text": "What is forgetfulness (<s>muṣitā-smṛti</s>)? It is afflicted mindfulness; it is the non-application to what is wholesome. // 86 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vikṣepaḥ katamaḥ / rāgadveṣamohāṃśikaḥ pañcakāmaguṇeṣu cittasya visāraḥ // 87 //",
-      "segment_number": 91
+      "segment_number": 91,
+      "translated_text": "What is distraction (<s>vikṣepa</s>)? It is the scattering of the mind toward the five objects of sensual desire, partaking of attachment, aversion, and delusion. // 87 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "aprasajanyaṃ katamat kleśasaṃprayuktā prajñā / tayā kāyavākcittacaryā asaṃviditeva pravartate // 88 //",
-      "segment_number": 92
+      "segment_number": 92,
+      "translated_text": "What is non-introspection (<s>asaṃprajanya</s>)? It is wisdom conjoined with afflictions; through it, bodily, verbal, and mental conduct proceeds as though unnoticed. // 88 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kaukṛtyaṃ katamat / cetaso vipratisāraḥ // 89 //",
-      "segment_number": 93
+      "segment_number": 93,
+      "translated_text": "What is regret (<s>kaukṛtya</s>)? It is the mind's remorse. // 89 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "middhaṃ katamat / asvataṃtravṛtticetaso 'bhisaṃkṣepaḥ // 90 //",
-      "segment_number": 94
+      "segment_number": 94,
+      "translated_text": "What is drowsiness (<s>middha</s>)? It is the contraction of the mind whose activity is not independent. // 90 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "vitarkaḥ katamaḥ paryeṣako manojalpaḥ cetanāprajñāviśeṣaḥ yā cittasyaudārikatā // 91 //",
-      "segment_number": 95
+      "segment_number": 95,
+      "translated_text": "What is applied thought (<s>vitarka</s>)? It is the searching mental discourse, a particular aspect of volition and wisdom, which is the coarseness of mind. // 91 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vicāraḥ katamaḥ / paryeṣako manojalpaḥ tathaiva yā cittasya sūkṣmatā // 92 //",
-      "segment_number": 96
+      "segment_number": 96,
+      "translated_text": "What is sustained thought (<s>vicāra</s>)? It is likewise the searching mental discourse, which is the subtlety of mind. // 92 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// ittaviprayuktaparisaṃkhyānam //",
-      "segment_number": 97
+      "segment_number": 97,
+      "translated_text": "// Enumeration of factors dissociated from mind (<s>citta-viprayukta</s>) //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "cittaviprayuttasaṃskārāḥ katame / ye rūpacitacaittadhikāre prajñaptāḥ, ta evānyatrāprajñaptāḥ // 93 //",
-      "segment_number": 98
+      "segment_number": 98,
+      "translated_text": "What are the formations dissociated from mind (<s>citta-viprayukta-saṃskāra</s>)? Those that are designated in the domain of form, mind, and mental factors, but are not designated elsewhere. // 93 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "te katame / prāpti, asaṃjñisamāpattiḥ, nirodhasamāpattiḥ, āsaṃjñikam, jīvitendriyam, nikāyasabhāgatā, jāti, jarā, sthitiḥ, anityatā, nāmakāyaḥ, padakāyaḥ, vyañjanakāyaḥ, pṛthagjanatvamityevamādibhedasamādānāḥ // 94 //",
-      "segment_number": 99
+      "segment_number": 99,
+      "translated_text": "What are they? <s>Prāpti</s> (acquisition), the attainment of non-perception (<s>asaṃjñi-samāpatti</s>), the attainment of cessation (<s>nirodha-samāpatti</s>), the state of non-perception (<s>āsaṃjñika</s>), the life faculty (<s>jīvitendriya</s>), similarity of class (<s>nikāya-sabhāgatā</s>), birth (<s>jāti</s>), aging (<s>jarā</s>), duration (<s>sthiti</s>), impermanence (<s>anityatā</s>), the collection of names (<s>nāma-kāya</s>), the collection of phrases (<s>pada-kāya</s>), the collection of syllables (<s>vyañjana-kāya</s>), and the state of being an ordinary person (<s>pṛthagjana-tva</s>) — these and others of such kinds. // 94 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "ittaviprayuktalakṣaṇāni // tatra prāptiḥ katamā / pratilambhaḥ samanvāgamaśca / bījam, vaśitā,abhimukhībhāvaśca yathāyogam // 95 //",
-      "segment_number": 100
+      "segment_number": 100,
+      "translated_text": "Characteristics of factors dissociated from mind: Among these, what is acquisition (<s>prāpti</s>)? It is obtaining and possession; specifically seed, mastery, and inclination, as appropriate. // 95 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "asaṃjñisamāpattiḥ katamṃ / śubhakṛtsnavītarāgasyoparyavītarāgasya niḥsaraṇasaṃjñāpūrvakeṇa manasikāreṇāvasthāvarāṇāṃ cittacaittadharmāṇāṃ yo nirodhaḥ // 96 //",
-      "segment_number": 101
+      "segment_number": 101,
+      "translated_text": "What is the attainment of non-perception (<s>asaṃjñi-samāpatti</s>)? It is the cessation of unstable mind and mental factors, through attention preceded by the perception of escape, for one who has become free from desire toward the sphere of <s>Śubhakṛtsna</s> (Total Beauty) but not toward what is above. // 96 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "nirodhasamāpattiḥ katamā / ākiñcanyāyatanabītarāgasya bhavāgratāduccalitasya śāntavihāra - saṃjñāpūrvakeṇa manasikāreṇāsthāvarāṇāṃ cittacaittadharmāṇāṃ tadekatyānāṃ ca sthāvarāṇāṃ yo nirodhaḥ // 97 //",
-      "segment_number": 102
+      "segment_number": 102,
+      "translated_text": "What is the attainment of cessation (<s>nirodha-samāpatti</s>)? It is the cessation of unstable mind and mental factors, and some stable ones, through attention preceded by the perception of peaceful abiding, for one who has become free from desire toward the sphere of nothingness (<s>ākiñcanyāyatana</s>) and who has turned away from the summit of existence (<s>bhavāgra</s>). // 97 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "āsaṃjñikaṃ katamat / asaṃjñisatvanikāyadeveṣupapannasyāsthāvarāṇāṃ cittacaittadharmāṇāṃ nirodhaḥ // 98 //",
-      "segment_number": 103
+      "segment_number": 103,
+      "translated_text": "What is the state of non-perception (<s>āsaṃjñika</s>)? It is the cessation of unstable mind and mental factors for one who has been reborn among the gods of the class of beings without perception (<s>asaṃjñi-sattva</s>). // 98 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "jīvitendriyam katamat / nikāyasabhāgeṣu pūrvakarmānuviddhyeṣu yaḥ saṃskārāṇāṃ sthitikālaniyamaḥ // 99 //",
-      "segment_number": 104
+      "segment_number": 104,
+      "translated_text": "What is the life faculty (<s>jīvitendriya</s>)? It is the determination of the duration of the formations within classes of beings that are shaped by previous <s>karma</s>. // 99 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "nikāyasabhāgaḥ katamaḥ / yā satvānāmātmabhāvasadṛśatā // 100 //",
-      "segment_number": 105
+      "segment_number": 105,
+      "translated_text": "What is similarity of class (<s>nikāya-sabhāga</s>)? It is the similarity of nature among beings. // 100 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "jātiḥkatamā / nikāyasabhāge saṃskārāṇāmabhūtvā yo bhāṣaḥ // 101 //",
-      "segment_number": 106
+      "segment_number": 106,
+      "translated_text": "What is birth (<s>jāti</s>)? It is the arising of formations that did not previously exist within a class of beings. // 101 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "jarā katamā / tathā teṣāṃ prabandhānyathātvam // 102 //",
-      "segment_number": 107
+      "segment_number": 107,
+      "translated_text": "What is aging (<s>jarā</s>)? It is likewise the alteration of their continuity. // 102 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "sthiti katamā / tathā teṣāṃ prabandhanvayaḥ // 103 //",
-      "segment_number": 108
+      "segment_number": 108,
+      "translated_text": "What is duration (<s>sthiti</s>)? It is likewise the continuance of their continuity. // 103 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "anityatā katamā / tathā teṣāṃ prabandhavināśaḥ // 104 //",
-      "segment_number": 109
+      "segment_number": 109,
+      "translated_text": "What is impermanence (<s>anityatā</s>)? It is likewise the destruction of their continuity. // 104 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "nāmakāyaḥ katamaḥ / dharmāṇāṃ svabhāvādhivacanam // 105 //",
-      "segment_number": 110
+      "segment_number": 110,
+      "translated_text": "What is the collection of names (<s>nāma-kāya</s>)? It is the designation of the intrinsic nature of <s>dharmas</s>. // 105 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "pādakāyaḥ katamaḥ / dharmāṇāṃ viśeṣādhivacanam // 106 //",
-      "segment_number": 111
+      "segment_number": 111,
+      "translated_text": "What is the collection of phrases (<s>pada-kāya</s>)? It is the designation of the distinction of <s>dharmas</s>. // 106 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vyañjanakāyaḥ katamaḥ / akṣarāṇi / tadubhayābhivyañjanatāmupādāya // 107 //",
-      "segment_number": 112
+      "segment_number": 112,
+      "translated_text": "What is the collection of syllables (<s>vyañjana-kāya</s>)? It consists of letters (<s>akṣara</s>), by virtue of their making manifest both of the above. // 107 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vākyāni tāni / nāmapadāśreyeṇārthavacanatāmupādāya // 108 //",
-      "segment_number": 113
+      "segment_number": 113,
+      "translated_text": "These are sentences (<s>vākya</s>), by virtue of expressing meaning through reliance on names and phrases. // 108 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "akṣaraṃ punaḥ paryāyākṣaraṇatāmupādāya // 109 //",
-      "segment_number": 114
+      "segment_number": 114,
+      "translated_text": "A letter (<s>akṣara</s>), furthermore, is so called by virtue of being imperishable in its mode of expression. // 109 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "pṛthagjanatvaṃ katamat / āryadharmāṇāmapratilambhaḥ // 110 //",
-      "segment_number": 115
+      "segment_number": 115,
+      "translated_text": "What is the state of being an ordinary person (<s>pṛthagjana-tva</s>)? It is the non-attainment of the noble qualities (<s>ārya-dharma</s>). // 110 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "iti saṃskāraskandho nāma //",
-      "segment_number": 116
+      "segment_number": 116,
+      "translated_text": "Thus concludes the aggregate of formations (<s>saṃskāra-skandha</s>)."
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "saṃskāraskandhaḥ soddyeśanirdeśaḥ pariniṣṭhitaḥ // 111 //",
-      "segment_number": 117
+      "segment_number": 117,
+      "translated_text": "The aggregate of formations, with its outline and detailed exposition, is completed. // 111 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// vijñānalakṣaṇam //",
-      "segment_number": 118
+      "segment_number": 118,
+      "translated_text": "// The characteristic of consciousness (<s>vijñāna</s>) //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vijñānaṃ katamat / ālambanaṃbijñaptiḥ // 112 //",
-      "segment_number": 119
+      "segment_number": 119,
+      "translated_text": "What is consciousness (<s>vijñāna</s>)? It is the cognition of an object (<s>ālambana</s>). // 112 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "cittamanasī vijñānaparyāyau sanirvacano taccitaṃ mano 'pi citrīkāratā manoniśrayatāṃ ca upādāya // 113 //",
-      "segment_number": 120
+      "segment_number": 120,
+      "translated_text": "<s>Citta</s> (mind) and <s>manas</s> (mentation) are synonyms of <s>vijñāna</s> (consciousness), with etymological basis: <s>citta</s> is so called by virtue of variegation, and <s>manas</s> by virtue of being a mental support. // 113 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// salakṣaṇacittanirdeśaḥ //",
-      "segment_number": 121
+      "segment_number": 121,
+      "translated_text": "// Exposition of mind with its characteristics //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "mūlacittamālayavijñānaṃ tadyathedaṃ sarvasaṃskārāṇāṃ saṃcitaṃ bījam // 114 //",
-      "segment_number": 122
+      "segment_number": 122,
+      "translated_text": "The root mind is the store consciousness (<s>ālaya-vijñāna</s>); it is the accumulated seed (<s>bīja</s>) of all formations. // 114 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tatpunarālambanamapyuparichinnamekasantānavarti / yathā nirodhasamāpatyasaṃjñisamāpatyā - saṃjñikebhyovyutthitasyāsmād viṣayavijñaptikaṃ nāma pravṛtti vijñānaṃ jāyate / ālambanapratyayamapekṣya bhinnākāreṣu vṛttitāmucchiddya punarjātatāṃ saṃsāre pravṛttinivṛtitāṃ copādāya tadālambanaṃ nāma vijñānam // 115 //",
-      "segment_number": 123
+      "segment_number": 123,
+      "translated_text": "Moreover, although its object is indeterminate, it operates within a single continuum. Just as the active consciousness (<s>pravṛtti-vijñāna</s>), which is the cognition of objects, arises from this store consciousness when one emerges from the attainment of cessation, the attainment of non-perception, or the state of non-perception — by virtue of its functioning in different modes depending on the object-condition, its being interrupted and reborn, and its engagement and disengagement in <s>saṃsāra</s>, it is called object-consciousness. // 115 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "ālayavijñānaṃ hi sarvabījālayatāmātmabhāvālayahetutāmātmabhāve sthititāṃ copādāya // 116 //",
-      "segment_number": 124
+      "segment_number": 124,
+      "translated_text": "The store consciousness (<s>ālaya-vijñāna</s>) is so called by virtue of being the repository of all seeds, being the cause of personal existence as repository, and abiding within personal existence. // 116 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "ādānavijñānamapi tat / ātmabhāvādānatāmupādāya // 117 //",
-      "segment_number": 125
+      "segment_number": 125,
+      "translated_text": "It is also called the appropriating consciousness (<s>ādāna-vijñāna</s>), by virtue of appropriating personal existence. // 117 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// salakṣaṇamanonirdeśaḥ //",
-      "segment_number": 126
+      "segment_number": 126,
+      "translated_text": "// Exposition of <s>manas</s> with its characteristics //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "mūlamana ālayavijñānamāśritya nityamātmamohātmadṛṣṭyātmamānātmasnehaiḥ saṃprayuktaṃ vijñānamekajātīyasantānavarti arhatvāryamārganirodhasamāpattikāle vyāvartate // 118 //",
-      "segment_number": 127
+      "segment_number": 127,
+      "translated_text": "The root <s>manas</s>, supported by the store consciousness (<s>ālaya-vijñāna</s>), is a consciousness always conjoined with self-delusion (<s>ātma-moha</s>), the view of self (<s>ātma-dṛṣṭi</s>), pride of self (<s>ātma-māna</s>), and love of self (<s>ātma-sneha</s>), operating in a single-type continuum; it ceases at the time of <s>arhatship</s>, the noble path (<s>ārya-mārga</s>), and the attainment of cessation (<s>nirodha-samāpatti</s>). // 118 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "vijñānaskandhaḥ soniddeśanirdeśaḥ pariniṣṭhitaḥ //",
-      "segment_number": 128
+      "segment_number": 128,
+      "translated_text": "The aggregate of consciousness (<s>vijñāna-skandha</s>), with its outline and detailed exposition, is completed."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// skandhanirvacanam //",
-      "segment_number": 129
+      "segment_number": 129,
+      "translated_text": "// Etymology of 'aggregate' (<s>skandha</s>) //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kimarthaḥ skandhaḥ rāśyarthaḥ / kālagotrākāragativiṣayabhinnānāṃ rūpādīnāmabhisaṃkṣepatāmupādāya // 119 //",
-      "segment_number": 130
+      "segment_number": 130,
+      "translated_text": "What is the meaning of 'aggregate' (<s>skandha</s>)? It means 'heap' (<s>rāśi</s>); by virtue of summarizing form and the rest that are differentiated by time, lineage, aspect, destiny, and object-sphere. // 119 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "skandhoddyeśanirdeśakaḥ prathamādhikāraḥ pariniṣṭhitaḥ //",
-      "segment_number": 131
+      "segment_number": 131,
+      "translated_text": "The first chapter, which outlines and expounds the aggregates, is completed."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "dvitīyādhikāraḥ\nāyatanoddyeśanirdeśakaḥ\ndvādaśāyatanāni / cakṣurāyatanam, rūpāyatanam, śrotrāyatanam, śabdāyatanam, ghrāṇāyatanam, gandhāyatanam, jihvāyatanam, rasāyatanam, kāyāyatanam, spraṣṭavyāyatanam, mana āyatanam,dharmāyatanaṃ ca // 120 //",
-      "segment_number": 132
+      "segment_number": 132,
+      "translated_text": "The second chapter: outlining and expounding the sense bases (<s>āyatana</s>). The twelve sense bases are: the eye base (<s>cakṣur-āyatana</s>), the form base (<s>rūpa-āyatana</s>), the ear base (<s>śrotra-āyatana</s>), the sound base (<s>śabda-āyatana</s>), the nose base (<s>ghrāṇa-āyatana</s>), the smell base (<s>gandha-āyatana</s>), the tongue base (<s>jihvā-āyatana</s>), the taste base (<s>rasa-āyatana</s>), the body base (<s>kāya-āyatana</s>), the tangible base (<s>spraṣṭavya-āyatana</s>), the mind base (<s>mana-āyatana</s>), and the dharma base (<s>dharma-āyatana</s>). // 120 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "/ 'ayatanānāṃ salakṣaṇaprapañcaḥ //",
-      "segment_number": 133
+      "segment_number": 133,
+      "translated_text": "Detailed exposition of the sense bases with their characteristics."
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "cakṣurādīni rūpaśabdagandharasāyatanāni yathoktapūrvāṇi // 121 //",
-      "segment_number": 134
+      "segment_number": 134,
+      "translated_text": "The eye and other sense bases, as well as the form, sound, smell, and taste bases, are as previously described. // 121 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "spraṣṭavyāyatanaṃ catvāri mahābhūtāni uktaśca yaḥ spraṣṭabyaikadeśaḥ // 122 //",
-      "segment_number": 135
+      "segment_number": 135,
+      "translated_text": "The tangible base (<s>spraṣṭavya-āyatana</s>) consists of the four great elements (<s>mahā-bhūta</s>) and what was described as a portion of the tangible. // 122 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "mana āyatanaṃ yo vijñānaskandhaḥ // 123 //",
-      "segment_number": 136
+      "segment_number": 136,
+      "translated_text": "The mind base (<s>mana-āyatana</s>) is the aggregate of consciousness (<s>vijñāna-skandha</s>). // 123 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "dharmāyatanaṃ vedanā, saṃjñā, saṃskārāḥ, avijñaptiḥ, asaṃskṛtāśca // 124 //",
-      "segment_number": 137
+      "segment_number": 137,
+      "translated_text": "The dharma base (<s>dharma-āyatana</s>) consists of feeling (<s>vedanā</s>), perception (<s>saṃjñā</s>), formations (<s>saṃskāra</s>), non-manifest form (<s>avijñapti</s>), and the unconditioned (<s>asaṃskṛta</s>). // 124 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "/ 'saṃskṛtāḥ salakṣaṇaprabhedāḥ //",
-      "segment_number": 138
+      "segment_number": 138,
+      "translated_text": "Classification of the unconditioned with their characteristics."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "asaṃskṛtā katame / ākāśam, apratisaṃkhyānirodhaḥ, pratisaṃkhyānirodhaḥ tathatā ca // 125 //",
-      "segment_number": 139
+      "segment_number": 139,
+      "translated_text": "What are the unconditioned (<s>asaṃskṛta</s>)? Space (<s>ākāśa</s>), cessation not through deliberation (<s>apratisaṃkhyā-nirodha</s>), cessation through deliberation (<s>pratisaṃkhyā-nirodha</s>), and suchness (<s>tathatā</s>). // 125 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tatrākāśaṃ katamat / rūpāvakāśaḥ // 126 //",
-      "segment_number": 140
+      "segment_number": 140,
+      "translated_text": "Among these, what is space (<s>ākāśa</s>)? It is the absence of obstruction by form. // 126 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "apratisaṃkhyānirodhaḥ katamaḥ / yo nirodho na visaṃyogaḥ // 127 //",
-      "segment_number": 141
+      "segment_number": 141,
+      "translated_text": "What is cessation not through deliberation (<s>apratisaṃkhyā-nirodha</s>)? It is a cessation that is not a separation from defilements. // 127 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "sakleśāpratipakṣeṇa skandhānāmātyantiko nirodhaḥ // 128 //",
-      "segment_number": 142
+      "segment_number": 142,
+      "translated_text": "It is the absolute cessation of the aggregates without an antidote to the afflictions. // 128 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "pratisaṃkhyānirodhaḥ katamaḥ / yo nirodho visaṃyogaḥ // 129 //",
-      "segment_number": 143
+      "segment_number": 143,
+      "translated_text": "What is cessation through deliberation (<s>pratisaṃkhyā-nirodha</s>)? It is a cessation that is a separation from defilements. // 129 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "sakleśapratipakṣeṇa skandhānāmātyantiko nirodhaḥ // 130 //",
-      "segment_number": 144
+      "segment_number": 144,
+      "translated_text": "It is the absolute cessation of the aggregates through the antidote to the afflictions. // 130 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tathatā katamā / yā dharmāṇāṃ dharmatā / dharmanairātmyam // 131 //",
-      "segment_number": 145
+      "segment_number": 145,
+      "translated_text": "What is suchness (<s>tathatā</s>)? It is the nature of <s>dharmas</s> (<s>dharmatā</s>); the selflessness of <s>dharmas</s> (<s>dharma-nairātmya</s>). // 131 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "/ 'ayatananirvacanam //",
-      "segment_number": 146
+      "segment_number": 146,
+      "translated_text": "Etymology of 'sense base' (<s>āyatana</s>)."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kimupādāyāyatanamiti / vijñānotpādadvāratāmupādāya // 132 //",
-      "segment_number": 147
+      "segment_number": 147,
+      "translated_text": "What is meant by <s>āyatana</s> (sense-base)? It is [so called] by virtue of being the door (<s>dvāra</s>) for the arising of consciousness (<s>vijñāna</s>). // 132 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "āyatanoddyeśanirdeśako dvitīyādhikāraḥ pariniṣṭhitaḥ /\ntṛtīyādhikāraḥ",
-      "segment_number": 148
+      "segment_number": 148,
+      "translated_text": "The second chapter, the exposition and detailed explanation of <s>āyatanas</s>, is concluded. Third chapter."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "dhātūddeśanirdeśakaḥ\n// dhātunāmāni //",
-      "segment_number": 149
+      "segment_number": 149,
+      "translated_text": "The exposition and detailed explanation of <s>dhātus</s> (elements). // Names of the <s>dhātus</s> //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "aṣṭadaśa dhātavaḥ / cakṣurdhātuḥ, rūpadhātuḥ, cakṣurvijñānadhātu, śrotradhātuḥ, śabdadhātuḥ, śrotravijñānadhātuḥ, ghrāṇadhātuḥ, gandhadhātuḥ, ghrāṇavijñānadhātuḥ, jihvādhātuḥ, rasadhātuḥ, jihvāvijñānadhātuḥ, kāyadhātuḥ, spraṣṭavyadhātuḥ, kāyabijñānadhātuḥ, manodhātuḥ, dharmadhātuḥ, manovijñānadhātuśca // 133 //",
-      "segment_number": 150
+      "segment_number": 150,
+      "translated_text": "There are eighteen <s>dhātus</s> (elements): the eye-element (<s>cakṣurdhātu</s>), the form-element (<s>rūpadhātu</s>), the eye-consciousness-element (<s>cakṣurvijñānadhātu</s>), the ear-element (<s>śrotradhātu</s>), the sound-element (<s>śabdadhātu</s>), the ear-consciousness-element (<s>śrotravijñānadhātu</s>), the nose-element (<s>ghrāṇadhātu</s>), the smell-element (<s>gandhadhātu</s>), the nose-consciousness-element (<s>ghrāṇavijñānadhātu</s>), the tongue-element (<s>jihvādhātu</s>), the taste-element (<s>rasadhātu</s>), the tongue-consciousness-element (<s>jihvāvijñānadhātu</s>), the body-element (<s>kāyadhātu</s>), the tangible-element (<s>spraṣṭavyadhātu</s>), the body-consciousness-element (<s>kāyavijñānadhātu</s>), the mind-element (<s>manodhātu</s>), the <s>dharma</s>-element (<s>dharmadhātu</s>), and the mind-consciousness-element (<s>manovijñānadhātu</s>). // 133 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// dhātuprapaścaḥ //",
-      "segment_number": 151
+      "segment_number": 151,
+      "translated_text": "// Detailed analysis of the <s>dhātus</s> //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "cakṣurādayo dhātavo rūpādayo dhātavaśca yathāyatanāni // 134 //",
-      "segment_number": 152
+      "segment_number": 152,
+      "translated_text": "The <s>dhātus</s> beginning with the eye and the <s>dhātus</s> beginning with form are [the same] as the corresponding <s>āyatanas</s>. // 134 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "ṣaḍvijñānadhātavaścakṣurāddyāśrayā rūpādyālambanāvijñaptayaḥ // 135 //",
-      "segment_number": 153
+      "segment_number": 153,
+      "translated_text": "The six consciousness-<s>dhātus</s> are cognitions (<s>vijñapti</s>) having as their support (<s>āśraya</s>) the eye and so forth, and as their object (<s>ālambana</s>) form and so forth. // 135 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "manodhātusteṣāmeva samanantaranirudhyaṃ ṣaḍvijñānadeśanāśrayatāmupādāya // 136 //",
-      "segment_number": 154
+      "segment_number": 154,
+      "translated_text": "The mind-element (<s>manodhātu</s>) is the immediately-ceased [moment of] those very [six consciousnesses], by virtue of being the support for the teaching of the six consciousnesses. // 136 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// dhātuvyavasthanam //",
-      "segment_number": 155
+      "segment_number": 155,
+      "translated_text": "// Arrangement of the <s>dhātus</s> //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "ebamaṣṭādaśadhātuvyavasthānam / yo rūpaskandhastāni daśāyatanadhātavaḥ // 137 //",
-      "segment_number": 156
+      "segment_number": 156,
+      "translated_text": "Thus is the arrangement of the eighteen <s>dhātus</s>. That which is the form-aggregate (<s>rūpaskandha</s>) — those are the ten <s>āyatana</s>-<s>dhātus</s>. // 137 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "dharmāyatanaṃ dharmadhātvekadeśaḥ // 138 //",
-      "segment_number": 157
+      "segment_number": 157,
+      "translated_text": "The <s>dharma-āyatana</s> is a portion of the <s>dharmadhātu</s>. // 138 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "yo vijñānaskandhastanmana āyatanam, saptama manodhātavaśca // 139 // anye ye trayaḥ skandhā rūpadhātvekadeśaśca, te 'saṃskṛtai sahitā dharmāyatanaṃ dharmadhātuśca // 140 //",
-      "segment_number": 158
+      "segment_number": 158,
+      "translated_text": "That which is the consciousness-aggregate (<s>vijñānaskandha</s>) — that is the mind-<s>āyatana</s> and the seventh, the mind-<s>dhātus</s>. // 139 // The other three aggregates and a portion of the form-<s>dhātu</s>, together with the unconditioned (<s>asaṃskṛta</s>), are the <s>dharma-āyatana</s> and <s>dharmadhātu</s>. // 140 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// dhātunirvacanam //",
-      "segment_number": 159
+      "segment_number": 159,
+      "translated_text": "// Etymology of <s>dhātu</s> //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kimupādāya dhātava iti / ākārakātmalakṣaṇadhāraṇatāmupādāya // 141 //",
-      "segment_number": 160
+      "segment_number": 160,
+      "translated_text": "What is meant by <s>dhātu</s>? It is [so called] by virtue of bearing (<s>dhāraṇa</s>) its own characteristic mark (<s>ātmalakṣaṇa</s>) of a [specific] kind (<s>ākāra</s>). // 141 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// skandhāyatanadhātukrameṇa dharmadeśanāyāḥ prayojanam //",
-      "segment_number": 161
+      "segment_number": 161,
+      "translated_text": "// The purpose of teaching <s>dharma</s> in the sequence of <s>skandha</s>, <s>āyatana</s>, and <s>dhātu</s> //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kimartha skandhādikrameṇa deśanā / trividhātmagrāhapratipakṣeṇāyaṃ kramaḥ // 142 //",
-      "segment_number": 162
+      "segment_number": 162,
+      "translated_text": "What is the purpose of teaching in the sequence of <s>skandha</s> and so forth? This sequence serves as an antidote to the threefold grasping at a self (<s>ātmagrāha</s>). // 142 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "ātmagrāhastrividhaḥ ekātmagrāhaḥ, vedakātmagrāhaḥ, kārakātmagrāhaśca // 143 //",
-      "segment_number": 163
+      "segment_number": 163,
+      "translated_text": "The grasping at a self is threefold: grasping at a unitary self (<s>ekātmagrāha</s>), grasping at a self as experiencer (<s>vedakātmagrāha</s>), and grasping at a self as agent (<s>kārakātmagrāha</s>). // 143 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "// 'ṣṭādaśadhātuvikalpāḥ //",
-      "segment_number": 164
+      "segment_number": 164,
+      "translated_text": "// Classifications of the eighteen <s>dhātus</s> //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "aṣṭādaśadhātuṣu kati rūpiṇaḥ / ye rūpaskandhasvabhāvāḥ // 144 //",
-      "segment_number": 165
+      "segment_number": 165,
+      "translated_text": "Among the eighteen <s>dhātus</s>, how many are material (<s>rūpin</s>)? Those that have the nature of the form-aggregate. // 144 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyarūpiṇaḥ / śiṣṭāḥ // 145 //",
-      "segment_number": 166
+      "segment_number": 166,
+      "translated_text": "How many are immaterial (<s>arūpin</s>)? The remainder. // 145 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati sanidarśanāḥ / rūpadhāturekaḥ sanidarśanaviṣayaḥ // 146 //",
-      "segment_number": 167
+      "segment_number": 167,
+      "translated_text": "How many are visible (<s>sanidarśana</s>)? The form-<s>dhātu</s> alone — one visible object. // 146 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyanidarśanāḥ / śiṣṭāḥ // 147 //",
-      "segment_number": 168
+      "segment_number": 168,
+      "translated_text": "How many are invisible (<s>anidarśana</s>)? The remainder. // 147 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati sapratidhāḥ / daśa rūpiṇaḥ / yatra yatpratidhātastatra tat sapratigham // 148 //",
-      "segment_number": 169
+      "segment_number": 169,
+      "translated_text": "How many have resistance (<s>sapratigha</s>)? The ten material ones. Wherever there is resistance against something, that [<s>dhātu</s>] has resistance. // 148 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyapratighāḥ / śiṣṭāḥ // 149 //",
-      "segment_number": 170
+      "segment_number": 170,
+      "translated_text": "How many are without resistance (<s>apratigha</s>)? The remainder. // 149 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati sāsravāḥ / pañcadaśa paścimānāṃ trayāṇāmekadeśaśca / te kleśotpādapratyakṣacaryāviṣayatāmupādāyaṃ // 150 //",
-      "segment_number": 171
+      "segment_number": 171,
+      "translated_text": "How many have outflows (<s>sāsrava</s>)? Fifteen, and a portion of the last three — by virtue of being the object of the active engagement of the arising of defilements (<s>kleśa</s>). // 150 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyayanāstravāḥ / paścimānāṃ trayāṇāmekadeśaḥ // 151 //",
-      "segment_number": 172
+      "segment_number": 172,
+      "translated_text": "How many are without outflows (<s>anāsrava</s>)? A portion of the last three. // 151 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati kāmapratisaṃyuktāḥ / sarva // 152 //",
-      "segment_number": 173
+      "segment_number": 173,
+      "translated_text": "How many are connected with the desire-realm (<s>kāmapratisaṃyukta</s>)? All. // 152 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati rūpapratisaṃyuktāḥ / caturdaśa sthāpayitvā gandharasaghrāṇajihvāvijñānadhātūn // 153 //",
-      "segment_number": 174
+      "segment_number": 174,
+      "translated_text": "How many are connected with the form-realm (<s>rūpapratisaṃyukta</s>)? Fourteen, excluding the smell, taste, nose-consciousness, and tongue-consciousness <s>dhātus</s>. // 153 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyārūpyasaṃprayuktāḥ / paścimāśrayaḥ // 154 //",
-      "segment_number": 175
+      "segment_number": 175,
+      "translated_text": "How many are connected with the formless realm (<s>ārūpyasaṃprayukta</s>)? Those with the last [three] as support. // 154 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyapratisaṃyuktāḥ / trayāṇāmekadeśaḥ // 155 //",
-      "segment_number": 176
+      "segment_number": 176,
+      "translated_text": "How many are unconnected [with any realm] (<s>apratisaṃyukta</s>)? A portion of [the last] three. // 155 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati skandhasaṃgrahītāḥ / asaṃskṛtān sthāpayitvā // 156 //",
-      "segment_number": 177
+      "segment_number": 177,
+      "translated_text": "How many are included in the aggregates (<s>skandhasaṃgṛhīta</s>)? All, excluding the unconditioned (<s>asaṃskṛta</s>). // 156 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "katyupādānaskandhasaṃgṛhītāḥ ye sāsravāḥ // 157 //",
-      "segment_number": 178
+      "segment_number": 178,
+      "translated_text": "How many are included in the aggregates of clinging (<s>upādānaskandha</s>)? Those that have outflows. // 157 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati kuśalākuśalāvyākṛtāḥ / daśa trividhāḥ / sapta manodhātavaḥ, rūpaśabdadharmadhātavaśca / śiṣṭā avyākṛtāḥ // 158 //",
-      "segment_number": 179
+      "segment_number": 179,
+      "translated_text": "How many are wholesome (<s>kuśala</s>), unwholesome (<s>akuśala</s>), or indeterminate (<s>avyākṛta</s>)? Ten are threefold: the seven mind-<s>dhātus</s>, and the form, sound, and <s>dharma</s> <s>dhātus</s>. The remainder are indeterminate. // 158 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyādhyātmikāḥ / dvādaśa / sthāpayitvā rūpaśabda gandharasaspraṣṭāvyadharmadhātūn // 159 //",
-      "segment_number": 180
+      "segment_number": 180,
+      "translated_text": "How many are internal (<s>ādhyātmika</s>)? Twelve, excluding the form, sound, smell, taste, tangible, and <s>dharma</s> <s>dhātus</s>. // 159 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati bāhyāḥ / ṣaṭ / ye sthāpitāḥ // 160 //",
-      "segment_number": 181
+      "segment_number": 181,
+      "translated_text": "How many are external (<s>bāhya</s>)? Six — those that were excluded. // 160 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati sālambanāḥ / saptacittadhātavaḥ dharmadhātvekadeśo 'pi yaścaittaḥ // 161 //",
-      "segment_number": 182
+      "segment_number": 182,
+      "translated_text": "How many have an object (<s>sālambana</s>)? The seven consciousness-<s>dhātus</s>, and also a portion of the <s>dharmadhātu</s> — namely, that which is mental (<s>caitta</s>). // 161 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "katyanālambanāḥ / śiṣṭā daśa dharmadhātvekadeśaśca // 162 //",
-      "segment_number": 183
+      "segment_number": 183,
+      "translated_text": "How many are without an object (<s>anālambana</s>)? The remaining ten, and a portion of the <s>dharmadhātu</s>. // 162 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati savitarkāḥ / manodhātuḥ manovijñānadhātuḥ dharmadhātvekadeśaśca // 163 //",
-      "segment_number": 184
+      "segment_number": 184,
+      "translated_text": "How many have discursive thought (<s>savitarka</s>)? The mind-element (<s>manodhātu</s>), the mind-consciousness-element (<s>manovijñānadhātu</s>), and a portion of the <s>dharmadhātu</s>. // 163 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati niṣpannāḥ / pañcādhyātmikāḥ / caturṇāmekadeśaḥ // 164 //",
-      "segment_number": 185
+      "segment_number": 185,
+      "translated_text": "How many are matured (<s>niṣpanna</s>)? The five internal [sense] ones, and a portion of [the last] four. // 164 //"
     },
     {
       "tag": "l",
       "attributes": {},
       "text": "katyaniṣpannāḥ śiṣṭā daśa, caturṇāmekadeśaśca // 165 //",
-      "segment_number": 186
+      "segment_number": 186,
+      "translated_text": "How many are unmatured (<s>aniṣpanna</s>)? The remaining ten, and a portion of [the last] four. // 165 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati sabhāgāḥ / ādhyātmikāḥ pañca rūpiṇaḥ / svavijñānasahitaviṣayasadṛśatāmupādāya // 166 //",
-      "segment_number": 187
+      "segment_number": 187,
+      "translated_text": "How many are homogeneous (<s>sabhāga</s>)? The five internal material [<s>dhātus</s>] — by virtue of being similar to [their] object together with their own consciousness. // 166 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "kati tatsabhāgāḥ / ta eva svavijñānavirahitasvānvayasadṛśatāmupādāya // 167 //",
-      "segment_number": 188
+      "segment_number": 188,
+      "translated_text": "How many are heterogeneous (<s>tatsabhāga</s>)? Those same [five] — by virtue of being similar to their own kind when devoid of their own consciousness. // 167 //"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "dhātūddyeśanirdeśakastṛtīyādhikaraḥ pariniṣṭitaḥ /",
-      "segment_number": 189
+      "segment_number": 189,
+      "translated_text": "The third chapter, the exposition and detailed explanation of <s>dhātus</s>, is concluded."
     },
     {
       "tag": "p",
@@ -1188,24 +1377,28 @@
               "tag": "l",
               "attributes": {},
               "text": "bhoṭānuvādamāgamya saṃskṛte punaruddhṛtam",
-              "segment_number": 191
+              "segment_number": 191,
+              "translated_text": "having consulted the Tibetan (<s>Bhoṭa</s>) translation, [it was] restored into Sanskrit."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "yadatra sukṛtaṃ sarva tadācāryasya dhīmataḥ /",
-              "segment_number": 192
+              "segment_number": 192,
+              "translated_text": "Whatever merit is here, that is all due to the wise <s>Ācārya</s> [<s>Vasubandhu</s>]."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "yat kukṛtaṃ tadāgo me kṣantavyaṃ sādhusūribhiḥ //",
-              "segment_number": 193
+              "segment_number": 193,
+              "translated_text": "Whatever fault is here, that is my own transgression — may it be forgiven by the virtuous sages."
             }
           ]
         }
       ],
-      "segment_number": 190
+      "segment_number": 190,
+      "translated_text": "The <s>Pañcaskandhaprakaraṇa</s> (Treatise on the Five Aggregates) composed by <s>Ācārya Vasubandhu</s> is completed. The <s>Pañcaskandhaprakaraṇa</s> [was edited] by the master <s>Śāntibhikṣu</s>;"
     }
   ]
 }

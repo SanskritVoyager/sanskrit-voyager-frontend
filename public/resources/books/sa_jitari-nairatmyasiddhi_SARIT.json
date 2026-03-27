@@ -546,7 +546,8 @@
         {
           "tag": "head",
           "text": "Nairātmyasiddhi",
-          "segment_number": 1
+          "segment_number": 1,
+          "translated_text": "<s>Nairātmyasiddhi</s> (Establishment of Non-Self)"
         },
         {
           "tag": "lb",
@@ -567,7 +568,8 @@
             {
               "tag": "p",
               "text": "namo buddhāya |",
-              "segment_number": 2
+              "segment_number": 2,
+              "translated_text": "Homage to the <s>Buddha</s>!"
             }
           ]
         },
@@ -587,12 +589,14 @@
                 "resp": "#nāsi-bue"
               },
               "text": "|",
-              "segment_number": 4
+              "segment_number": 4,
+              "translated_text": "—"
             },
             {
               "t": "text",
               "text": "na sa tena ta",
-              "segment_number": 5
+              "segment_number": 5,
+              "translated_text": "it is not possessed of that"
             },
             {
               "tag": "lb",
@@ -604,7 +608,8 @@
             {
               "t": "text",
               "text": "d",
-              "segment_number": 6
+              "segment_number": 6,
+              "translated_text": "."
             },
             {
               "tag": "supplied",
@@ -612,12 +617,14 @@
                 "resp": "#nāsi-bue"
               },
               "text": "v",
-              "segment_number": 7
+              "segment_number": 7,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "ān | tad yathā himālayo malayena |",
-              "segment_number": 8
+              "segment_number": 8,
+              "translated_text": "For example, the <s>Himālaya</s> with the <s>Malaya</s> [mountain]. The living body has no connection whatsoever with a permanent self —"
             },
             {
               "tag": "lb",
@@ -628,7 +635,8 @@
             {
               "t": "text",
               "text": "na sthirātmanā saha kaścit saṃbandho jīvaccharīrasya",
-              "segment_number": 9
+              "segment_number": 9,
+              "translated_text": "this is the non-apprehension of the pervader (<s>vyāpakānupalabdhi</s>)."
             },
             {
               "tag": "supplied",
@@ -636,12 +644,14 @@
                 "resp": "#nāsi-bue"
               },
               "text": "i",
-              "segment_number": 10
+              "segment_number": 10,
+              "translated_text": ""
             },
             {
               "t": "text",
               "text": "ti",
-              "segment_number": 11
+              "segment_number": 11,
+              "translated_text": ""
             },
             {
               "tag": "lb",
@@ -652,7 +662,8 @@
             {
               "t": "text",
               "text": "vyāpakānupalabdhiḥ",
-              "segment_number": 12
+              "segment_number": 12,
+              "translated_text": ""
             },
             {
               "tag": "lb",
@@ -663,7 +674,8 @@
             {
               "t": "text",
               "text": "nāyam asiddho hetuḥ | yataḥ saṃbandho bhavan tādātmyaṃ tadu",
-              "segment_number": 13
+              "segment_number": 13,
+              "translated_text": "This reason is not unestablished (<s>asiddha</s>). For a connection, if it existed, would be either identity (<s>tādātmya</s>) or causal origination (<s>tadutpatti</s>)."
             },
             {
               "tag": "lb",
@@ -675,7 +687,8 @@
             {
               "t": "text",
               "text": "tpattir vā bhāvet | na ca tādātmyam ātmaśarīrayoḥ | śarīrasyā",
-              "segment_number": 14
+              "segment_number": 14,
+              "translated_text": "And there is no identity between the self and the body, because the body is of an impermanent nature"
             },
             {
               "tag": "lb",
@@ -687,7 +700,8 @@
             {
               "t": "text",
               "text": "nityādirūpa",
-              "segment_number": 15
+              "segment_number": 15,
+              "translated_text": "and the like,"
             },
             {
               "tag": "pb",
@@ -699,7 +713,8 @@
             {
               "t": "text",
               "text": "tvāt | tadviparītasyātmano abhyupetatvāt |",
-              "segment_number": 16
+              "segment_number": 16,
+              "translated_text": "while the self is accepted as being the opposite of that."
             },
             {
               "tag": "lb",
@@ -710,7 +725,8 @@
             {
               "t": "text",
               "text": "nāpi tadutpattir nityasyātmanaḥ śarīra-utpattyayogāt",
-              "segment_number": 17
+              "segment_number": 17,
+              "translated_text": "Nor is there causal origination, since a permanent self cannot produce a body,"
             },
             {
               "tag": "note",
@@ -738,7 +754,8 @@
             {
               "t": "text",
               "text": "| ni",
-              "segment_number": 18
+              "segment_number": 18,
+              "translated_text": "nor"
             },
             {
               "tag": "lb",
@@ -750,10 +767,12 @@
             {
               "t": "text",
               "text": "tyātmano vā śarīrasya |",
-              "segment_number": 19
+              "segment_number": 19,
+              "translated_text": "[can] the body [produce] a permanent self."
             }
           ],
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "That which has no connection whatsoever with something"
         },
         {
           "tag": "lb",
@@ -764,7 +783,8 @@
         {
           "tag": "p",
           "text": "saṃyogalakṣaṇas tayoḥ saṃbandha iti cet |",
-          "segment_number": 20
+          "segment_number": 20,
+          "translated_text": "If it be objected that the connection between them has the character of conjunction (<s>saṃyoga</s>) —"
         },
         {
           "tag": "lb",
@@ -782,15 +802,18 @@
                 "resp": "#nāsi-bue"
               },
               "text": "|",
-              "segment_number": 22
+              "segment_number": 22,
+              "translated_text": "?"
             },
             {
               "t": "text",
               "text": "kaḥ saṃbandhaḥ |",
-              "segment_number": 23
+              "segment_number": 23,
+              "translated_text": ""
             }
           ],
-          "segment_number": 21
+          "segment_number": 21,
+          "translated_text": "[we ask:] what connection do those two have with that very [conjunction]"
         },
         {
           "tag": "lb",
@@ -801,7 +824,8 @@
         {
           "tag": "p",
           "text": "samavāya iti cet |",
-          "segment_number": 24
+          "segment_number": 24,
+          "translated_text": "If [the answer is] inherence (<s>samavāya</s>) —"
         },
         {
           "tag": "lb",
@@ -819,12 +843,14 @@
                 "resp": "#nāsi-bue"
               },
               "text": "|",
-              "segment_number": 26
+              "segment_number": 26,
+              "translated_text": "?"
             },
             {
               "t": "text",
               "text": "saṃbandhāntaropagame",
-              "segment_number": 27
+              "segment_number": 27,
+              "translated_text": "If another connection is accepted,"
             },
             {
               "tag": "lb",
@@ -835,7 +861,8 @@
             {
               "t": "text",
               "text": "anavasthā | anabhyupagame na teṣāṃ samavāyaḥ | tathā cātma",
-              "segment_number": 28
+              "segment_number": 28,
+              "translated_text": "there is an infinite regress. If not accepted, there is no inherence for them. Likewise, even if another type of connection between the self"
             },
             {
               "tag": "lb",
@@ -847,7 +874,8 @@
             {
               "t": "text",
               "text": "śarīrayoḥ saṃbandhāntaraparikalpane 'py a",
-              "segment_number": 29
+              "segment_number": 29,
+              "translated_text": "and the body is imagined,"
             },
             {
               "tag": "supplied",
@@ -855,12 +883,14 @@
                 "resp": "#nāsi-bue"
               },
               "text": "ya",
-              "segment_number": 30
+              "segment_number": 30,
+              "translated_text": "this"
             },
             {
               "t": "text",
               "text": "m eva dṛṣṭānta",
-              "segment_number": 31
+              "segment_number": 31,
+              "translated_text": "very same [objection serves as] the counter-example."
             },
             {
               "tag": "lb",
@@ -871,7 +901,8 @@
             {
               "t": "text",
               "text": "iti nāsya hetor asiddhiḥ |",
-              "segment_number": 32
+              "segment_number": 32,
+              "translated_text": "Therefore, the reason is not unestablished."
             },
             {
               "tag": "lb",
@@ -882,7 +913,8 @@
             {
               "t": "text",
               "text": "viruddhatāpy asya nāsti | sapakṣe bhāvāt |",
-              "segment_number": 33
+              "segment_number": 33,
+              "translated_text": "Nor is it contradicted (<s>viruddha</s>), because it is present in the similar case (<s>sapakṣa</s>)."
             },
             {
               "tag": "lb",
@@ -893,7 +925,8 @@
             {
               "t": "text",
               "text": "anaikāntikatāpi",
-              "segment_number": 34
+              "segment_number": 34,
+              "translated_text": "Nor is inconclusiveness (<s>anaikāntikatā</s>)"
             },
             {
               "tag": "note",
@@ -927,7 +960,8 @@
             {
               "t": "text",
               "text": "nopadṛśyate | tadvattvavyavahārasya naimi",
-              "segment_number": 35
+              "segment_number": 35,
+              "translated_text": "observed, because the designation 'possessing that' (<s>tadvattvavyavahāra</s>), being"
             },
             {
               "tag": "lb",
@@ -939,7 +973,8 @@
             {
               "t": "text",
               "text": "ttikasya",
-              "segment_number": 36
+              "segment_number": 36,
+              "translated_text": "causal,"
             },
             {
               "tag": "note",
@@ -973,7 +1008,8 @@
             {
               "t": "text",
               "text": "saṃbandhanibandhanatvena vyāptatvāt | saṃbandhābhā",
-              "segment_number": 37
+              "segment_number": 37,
+              "translated_text": "is pervaded by dependence on a connection. In the absence of connection"
             },
             {
               "tag": "lb",
@@ -985,7 +1021,8 @@
             {
               "t": "text",
               "text": "ve 'pi tadvattvavyavahāre niyataviṣayatvābhāvaprasaṅgād iti",
-              "segment_number": 38
+              "segment_number": 38,
+              "translated_text": "too, there would be the unwanted consequence that the designation 'possessing that' has no determinate scope — thus"
             },
             {
               "tag": "lb",
@@ -996,10 +1033,12 @@
             {
               "t": "text",
               "text": "sthitam |",
-              "segment_number": 39
+              "segment_number": 39,
+              "translated_text": "it is established."
             }
           ],
-          "segment_number": 25
+          "segment_number": 25,
+          "translated_text": "then what connection do they have with that [inherence] as well"
         },
         {
           "tag": "lb",
@@ -1010,7 +1049,8 @@
         {
           "tag": "trailer",
           "text": "nairātmyasiddhiḥ samāpta ||",
-          "segment_number": 40
+          "segment_number": 40,
+          "translated_text": "The <s>Nairātmyasiddhi</s> (Establishment of Non-Self) is complete."
         }
       ]
     }
