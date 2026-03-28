@@ -194,7 +194,7 @@ const SourcesList: React.FC<{ sources: any[] }> = ({ sources }) => {
                 : extractTextFromContent(source.publisher.content)}
             </Text>
           )}
-          {source.date && <Text>Date: {source.date.text}</Text>}
+          {source.date && <Text>Date: {source.date.text || source.date.when_iso || (typeof source.date === 'string' ? source.date : '')}</Text>}
           {source.notes &&
             source.notes.map((note: any, nIndex: number) => (
               <Text key={nIndex} size="xs" c="dimmed" fs="italic">
@@ -228,7 +228,7 @@ const PublicationInfo: React.FC<{ publication: any }> = ({ publication }) => {
       )}
       {date && !isEmpty(date) && (
         <Text>
-          <strong>Date:</strong> {date.text || date}
+          <strong>Date:</strong> {date.text || date.when_iso || (typeof date === 'string' ? date : JSON.stringify(date))}
         </Text>
       )}
       {availability?.license_declaration && !isEmpty(availability.license_declaration) && (

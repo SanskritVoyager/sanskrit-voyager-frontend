@@ -195,7 +195,19 @@ const ClickableSimpleBooks = ({
     [setSelectedWord]
   );
 
+  const blockTags = new Set([
+    'div', 'lg', 'l', 'p', 'head', 'pb', 'milestone', 'ab',
+    'ChapterTitle', 'Subchapter', 'OpeningTitle',
+    'Sutra', 'Commentary', 'LeadingBhashya', 'IntroBhashya', 'Vyakhya',
+    'quote', 'trailer', 'homage', 'colophon',
+    'table', 'row', 'list', 'item',
+    'sp', 'epigraph',
+  ]);
+
   const renderTextElement = (element: TextElement): React.ReactNode => {
+    const isBlock = blockTags.has(element.tag);
+    const TextWrapper = isBlock ? 'div' : 'span';
+
     const elementClasses = [
       classes[element.tag] || '',
       element.attributes?.rend === 'bold' ? classes.bold : '',
@@ -430,19 +442,21 @@ const ClickableSimpleBooks = ({
     }
 
     return (
-      <span
-        className={`
-          ${classes.paragraphContainer}
-          ${elementClasses}
-          ${isTargetSegment ? classes.highlightedSegment : ''}
-          ${isMatchedSegment ? classes.matchedSegment : ''}
-          `}
-        data-segment-number={segmentNumber}
-        ref={setSegmentRef}
-        id={elementId}
-      >
+      <>
+        {!isBlock && element.text && ' '}
+        <span
+          className={`
+            ${classes.paragraphContainer}
+            ${elementClasses}
+            ${isTargetSegment ? classes.highlightedSegment : ''}
+            ${isMatchedSegment ? classes.matchedSegment : ''}
+            `}
+          data-segment-number={segmentNumber}
+          ref={setSegmentRef}
+          id={elementId}
+        >
         {element.text && (
-          <div
+          <TextWrapper
             className={`${classes.lineContainer} ${
               textType === 'or'
                 ? classes.originalOnly
@@ -452,17 +466,17 @@ const ClickableSimpleBooks = ({
             }`}
           >
             {(textType === 'both' || textType === 'or') && (
-              <div className={classes.originalText}>
+              <TextWrapper className={classes.originalText}>
                 {isTargetSegment || isMatchedSegment ? (
                   <HighlightText text={element.text} query={query} />
                 ) : (
                   renderWords(element.text)
                 )}
-              </div>
+              </TextWrapper>
             )}
 
             {element.translated_text && (textType === 'both' || textType === 'tran') && (
-              <div
+              <TextWrapper
                 className={`${classes.translatedText} ${
                   textType === 'tran' ? classes.translationOnly : ''
                 }`}
@@ -472,9 +486,9 @@ const ClickableSimpleBooks = ({
                 ) : (
                   renderWords(element.translated_text, true)
                 )}
-              </div>
+              </TextWrapper>
             )}
-          </div>
+          </TextWrapper>
         )}
 
         {element.children?.map((child, index) => {
@@ -521,6 +535,8 @@ const ClickableSimpleBooks = ({
           return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
         })}
       </span>
+      {!isBlock && element.text && ' '}
+      </>
     );
   };
 
