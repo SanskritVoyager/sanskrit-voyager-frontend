@@ -100,7 +100,7 @@ export function HeaderSearch({
         }));
         setDecomposedWordList(no_diacritics);
 
-        console.log('First 10 entries:', data.slice(0, 10));
+        // console.log('First 10 entries:', data.slice(0, 10));
       })
       .catch((error) => console.error('Error fetching JSON data:', error));
   }, []);
@@ -148,7 +148,7 @@ export function HeaderSearch({
     const originalValue =
       selectedEntries.length > 0 ? selectedEntries.map((entry) => entry.label).join(' | ') : value;
     setValue(originalValue); // Directly update the parent state with the concatenated original values
-    console.log('Selected nondecomposedquery:', originalValue); // Debugging statement
+    // console.log('Selected nondecomposedquery:', originalValue); // Debugging statement
   };
 
   return (

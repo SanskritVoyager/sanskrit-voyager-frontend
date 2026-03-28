@@ -29,7 +29,6 @@ export const fetchBookText = async (title: string): Promise<BookText> => {
     // Convert API response to BookText format
     return formatApiResponseToBookText(data, title);
   } catch (error) {
-    console.error('Error fetching book text:', error);
     throw error;
   }
 };
