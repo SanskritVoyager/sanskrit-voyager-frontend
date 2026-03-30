@@ -54,7 +54,7 @@ import { useResponsive } from '@/context/ResponsiveContext';
 
 import { useContainerHeadroom } from '../hooks/useHeadroom';
 
-// import { fetchBookText } from '../utils/apiService';
+import { fetchBookText } from '../utils/apiService';
 
 import ResizablePanel from '../components/ResizeHandler';
 
@@ -216,10 +216,10 @@ export function HomePage() {
         try {
           setIsLoadingBook(true);
 
-          // try {
-          //   // Always try the API first
-          //   await fetchBookFromApi(bookTitle);
-          // } catch (apiError) {
+          try {
+            // Always try the API first
+            await fetchBookFromApi(bookTitle);
+          } catch (apiError) {
             // If API fails, try the local resource
             // for offline add /public/ for online remove it or it won't load the books
             const response = await fetch(`/resources/books/${bookTitle}.json`);
@@ -228,7 +228,7 @@ export function HomePage() {
             }
             const data = await response.json();
             setBookText(data);
-          // }
+          }
         } catch (error) {
           console.error('Error loading book:', error);
         } finally {
@@ -261,15 +261,16 @@ export function HomePage() {
   }, [bookTitle]);
 
   // Function to fetch a book from the API
-  // const fetchBookFromApi = async (title: string) => {
-  //   try {
-  //     const bookData = await fetchBookText(title);
-  //     setBookText(bookData);
-  //     // here it should be scrolling to the segment number
-  //   } catch (error) {
-  //     throw error;
-  //   }
-  // };
+  const fetchBookFromApi = async (title: string) => {
+    try {
+      const bookData = await fetchBookText(title);
+      setBookText(bookData);
+      // here it should be scrolling to the segment number
+    } catch (error) {
+      console.error('Error fetching book from API:', error);
+      throw error;
+    }
+  };
 
   // ----- Functions -----
 

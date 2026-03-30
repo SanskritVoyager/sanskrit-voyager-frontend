@@ -11,6 +11,41 @@
   max-width: 600px;
   margin-left: auto;  /* Add these two margin properties */
   margin-right: auto; /* to center the component horizontally */
+
+  /* Custom scrollbar */
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+  transition: scrollbar-color 0.3s ease;
+  padding-right: 2px;
+}
+
+/* Hover state for Firefox */
+.pageWrapper:hover {
+  scrollbar-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-4)) transparent;
+}
+
+/* WebKit (Chrome, Safari, newer Edge) scrollbar styles */
+.pageWrapper::-webkit-scrollbar {
+  width: 8px;
+}
+
+.pageWrapper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.pageWrapper::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.pageWrapper:hover::-webkit-scrollbar-thumb {
+  background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-5));
+}
+
+.pageWrapper:hover::-webkit-scrollbar-thumb:hover {
+  background-color: light-dark(var(--mantine-color-lightscale-8), var(--mantine-color-gray-3));
 }
 
 
