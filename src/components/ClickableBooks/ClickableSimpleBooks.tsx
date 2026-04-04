@@ -440,6 +440,10 @@ const ClickableSimpleBooks = ({
       elementId = segmentNumber !== null ? `segment-${segmentNumber}` : undefined;
     }
 
+    const hasTranslation = !!(element.translated_text && (textType === 'both' || textType === 'tran'));
+    const WrapperTag = isBlock || hasTranslation ? 'div' : 'span';
+    const TextTag = isBlock ? 'div' : 'span';
+
     return (
       <>
         {!isBlock && element.text && ' '}
@@ -455,7 +459,7 @@ const ClickableSimpleBooks = ({
           id={elementId}
         >
         {element.text && (
-          <div
+          <WrapperTag
             className={`${classes.lineContainer} ${
               textType === 'or'
                 ? classes.originalOnly
@@ -465,29 +469,29 @@ const ClickableSimpleBooks = ({
             }`}
           >
             {(textType === 'both' || textType === 'or') && (
-              <div className={classes.originalText}>
+              <TextTag className={`${classes.originalText} ${!isBlock ? classes.originalTextInline : ''}`}>
                 {isTargetSegment || isMatchedSegment ? (
                   <HighlightText text={element.text} query={query} />
                 ) : (
                   renderWords(element.text)
                 )}
-              </div>
+              </TextTag>
             )}
 
-            {element.translated_text && (textType === 'both' || textType === 'tran') && (
+            {hasTranslation && (
               <div
                 className={`${classes.translatedText} ${
                   textType === 'tran' ? classes.translationOnly : ''
                 }`}
               >
                 {isTargetSegment || isMatchedSegment ? (
-                  <HighlightText text={element.translated_text} query={query} />
+                  <HighlightText text={element.translated_text!} query={query} />
                 ) : (
-                  renderWords(element.translated_text, true)
+                  renderWords(element.translated_text!, true)
                 )}
               </div>
             )}
-          </div>
+          </WrapperTag>
         )}
 
         {element.children?.map((child, index) => {

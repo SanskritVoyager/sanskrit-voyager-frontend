@@ -158,7 +158,11 @@ ol li::marker {
     margin-bottom: 0.5rem;
     margin-top: 0.5rem;
     white-space: pre-line;
+  }
 
+  .originalTextInline {
+    margin: 0;
+    display: inline;
   }
   
   .translatedText {
