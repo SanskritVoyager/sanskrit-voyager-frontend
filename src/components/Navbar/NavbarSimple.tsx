@@ -185,7 +185,7 @@ export function NavbarSimple({
         </Button>
         */}
 
-        {(isMobile) && (
+        {/*{(isMobile) && (
           <Button
             className={classes.feedbackButton}
             component="a"
@@ -200,7 +200,7 @@ export function NavbarSimple({
           >
             Provide Feedback
           </Button>
-        )}
+        )} */}
       </div>
     </nav>
   );

@@ -206,7 +206,7 @@ export function HeaderSearch({
             visibleFrom="sm"
           >
             {items}
-            <Tooltip label="Provide feedback" position="bottom">
+            {/*<Tooltip label="Provide feedback" position="bottom">
               <Button
                 component="a"
                 href="https://forms.gle/tsMiRceuVK5c42MT7"
@@ -219,7 +219,7 @@ export function HeaderSearch({
               >
                 Feedback
               </Button>
-            </Tooltip>
+            </Tooltip> */}
           </Group>
           <Autocomplete
             className={classes.search}
