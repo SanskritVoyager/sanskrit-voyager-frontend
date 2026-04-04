@@ -206,7 +206,6 @@ const ClickableSimpleBooks = ({
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
     const isBlock = blockTags.has(element.tag);
-    const TextWrapper = isBlock ? 'div' : 'span';
 
     const elementClasses = [
       classes[element.tag] || '',
@@ -456,7 +455,7 @@ const ClickableSimpleBooks = ({
           id={elementId}
         >
         {element.text && (
-          <TextWrapper
+          <div
             className={`${classes.lineContainer} ${
               textType === 'or'
                 ? classes.originalOnly
@@ -466,17 +465,17 @@ const ClickableSimpleBooks = ({
             }`}
           >
             {(textType === 'both' || textType === 'or') && (
-              <TextWrapper className={classes.originalText}>
+              <div className={classes.originalText}>
                 {isTargetSegment || isMatchedSegment ? (
                   <HighlightText text={element.text} query={query} />
                 ) : (
                   renderWords(element.text)
                 )}
-              </TextWrapper>
+              </div>
             )}
 
             {element.translated_text && (textType === 'both' || textType === 'tran') && (
-              <TextWrapper
+              <div
                 className={`${classes.translatedText} ${
                   textType === 'tran' ? classes.translationOnly : ''
                 }`}
@@ -486,9 +485,9 @@ const ClickableSimpleBooks = ({
                 ) : (
                   renderWords(element.translated_text, true)
                 )}
-              </TextWrapper>
+              </div>
             )}
-          </TextWrapper>
+          </div>
         )}
 
         {element.children?.map((child, index) => {
