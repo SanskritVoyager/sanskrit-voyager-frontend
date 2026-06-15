@@ -218,7 +218,7 @@ export function HeaderSearch({
             spellCheck={false}
             limit={50}
             withScrollArea={true}
-            styles={{ dropdown: { maxHeight: 200, overflowY: 'auto' } }}
+            maxDropdownHeight={200}
             onKeyDown={handleKeyDown} // Add the onKeyDown event handler
             ref={searchInputRef}
           />
