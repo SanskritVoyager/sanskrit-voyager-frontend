@@ -1140,11 +1140,16 @@
           "attributes": {},
           "children": [
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[asādhāraṇa]vaiśiṣṭyādaiśvaryādāntaraṅgaytaḥ /",
+              "text": "asādhāraṇa",
               "segment_number": 115,
               "translated_text": "Due to the distinction of being uncommon, due to sovereignty, and due to being internal,"
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "text": "vaiśiṣṭyādaiśvaryādāntaraṅgaytaḥ /"
             },
             {
               "tag": "l",
@@ -2095,11 +2100,17 @@
               "translated_text": "Those born in the three continents and in the hells, even those fixed in wrong views,"
             },
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[bahubhiḥ] hyekānnaviṃśatyā svalpairaṣṭābhiranvitāḥ // [101] //",
+              "text": "bahubhiḥ",
               "segment_number": 212,
-              "translated_text": "At most [are endowed] with nineteen, at least with eight // [101] //"
+              "translated_text": "At most [are endowed]"
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "text": " hyekānnaviṃśatyā svalpairaṣṭābhiranvitāḥ // [101] //",
+              "translated_text": " with nineteen, at least with eight // [101] //"
             }
           ]
         },
@@ -2188,11 +2199,17 @@
           "attributes": {},
           "children": [
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[dvirdhyāna] jāstu sarvālpairdaśabhiḥ pañcakādhikaiḥ /",
+              "text": "dvirdhyāna",
               "segment_number": 221,
-              "translated_text": "But those born in the [first two] <s>dhyānas</s> (meditations), at absolute minimum with fifteen,"
+              "translated_text": "But those born in the [first two]"
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "text": " jāstu sarvālpairdaśabhiḥ pañcakādhikaiḥ /",
+              "translated_text": " <s>dhyānas</s> (meditations), at absolute minimum with fifteen,"
             },
             {
               "tag": "l",
@@ -3046,18 +3063,18 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[abhidharmadīpe vibhāṣāprabhāyāṃ vṛttau dvitīyasyādhyāyasya tṛtīyaḥ pādaḥ //]",
+          "text": "abhidharmadīpe vibhāṣāprabhāyāṃ vṛttau dvitīyasyādhyāyasya tṛtīyaḥ pādaḥ //",
           "segment_number": 309,
-          "translated_text": "[In the <s>Abhidharmadīpa</s>, in the commentary <s>Vibhāṣāprabhā</s>, the third quarter of the second chapter //]"
+          "translated_text": "In the <s>Abhidharmadīpa</s>, in the commentary <s>Vibhāṣāprabhā</s>, the third quarter of the second chapter //"
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[dvitīyo 'dhyāyaḥ samāptaḥ //]",
+          "text": "dvitīyo 'dhyāyaḥ samāptaḥ //",
           "segment_number": 310,
-          "translated_text": "[The second chapter is completed //]"
+          "translated_text": "The second chapter is completed //"
         }
       ]
     },
@@ -3160,11 +3177,17 @@
           "translated_text": "In the <s>Abhidharmadīpa</s>, [in the commentary <s>Vibhāṣāprabhā</s>, the] fourth quarter [of the third chapter] is completed //"
         },
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "tṛtīyo 'dhyāyaḥ samāptaḥ",
+          "segment_number": 321,
+          "translated_text": "The third chapter is completed"
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[tṛtīyo 'dhyāyaḥ samāptaḥ] //",
-          "segment_number": 321,
-          "translated_text": "[The third chapter is completed] //"
+          "text": " //",
+          "translated_text": " //"
         }
       ]
     },
@@ -3259,11 +3282,11 @@
           "translated_text": "In the former [bodily and verbal actions], there are <s>vijñapti</s> (manifest action) and <s>avijñapti</s> (unmanifest action); <s>cetanā</s> (volition) is the mental action // [158] //"
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[abhidharmadīpe vibhāṣāprabhāyāṃ vṛttau caturthādhyāyasya prathamaḥ pādaḥ]",
+          "text": "abhidharmadīpe vibhāṣāprabhāyāṃ vṛttau caturthādhyāyasya prathamaḥ pādaḥ",
           "segment_number": 332,
-          "translated_text": "[In the <s>Abhidharmadīpa</s>, in the commentary <s>Vibhāṣāprabhā</s>, the first quarter of the fourth chapter]"
+          "translated_text": "In the <s>Abhidharmadīpa</s>, in the commentary <s>Vibhāṣāprabhā</s>, the first quarter of the fourth chapter"
         },
         {
           "tag": "p",
@@ -3893,11 +3916,16 @@
           ]
         },
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "abhidharmadīpe vibhāṣāprabhāyāṃ [vṛttau",
+          "segment_number": 396,
+          "translated_text": "In the <s>Abhidharmadīpa</s>, in the <s>Vibhāṣāprabhā</s> commentary, the second quarter of the fourth chapter."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[abhidharmadīpe vibhāṣāprabhāyāṃ [vṛttau] caturthādhyāyasya dvitīyaḥ pādaḥ /",
-          "segment_number": 396,
-          "translated_text": "[In the <s>Abhidharmadīpa</s>, in the <s>Vibhāṣāprabhā</s> commentary, the second quarter of the fourth chapter.]"
+          "text": " caturthādhyāyasya dvitīyaḥ pādaḥ /"
         },
         {
           "tag": "p",
@@ -3951,11 +3979,17 @@
           "attributes": {},
           "children": [
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[kuśalāḥ prayogapṛṣṭhāśca kuśalatrayamūlajāḥ] /",
+              "text": "kuśalāḥ prayogapṛṣṭhāśca kuśalatrayamūlajāḥ",
               "segment_number": 402,
-              "translated_text": "[Wholesome preparatory and subsequent ones arise from the three wholesome roots];"
+              "translated_text": "Wholesome preparatory and subsequent ones arise from the three wholesome roots"
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "text": " /",
+              "translated_text": ";"
             },
             {
               "tag": "l",
@@ -4131,11 +4165,16 @@
           "attributes": {},
           "children": [
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[śubhaistu] daśabhiryāvatsārvaṃ(rdhaṃ) naikāṣṭapañcabhiḥ /",
+              "text": "śubhaistu",
               "segment_number": 420,
               "translated_text": "With wholesome ones, up to ten; the partial ones are with one, eight, or five;"
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "text": " daśabhiryāvatsārvaṃ(rdhaṃ) naikāṣṭapañcabhiḥ /"
             },
             {
               "tag": "l",
@@ -7831,11 +7870,11 @@
           "translated_text": "..."
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[for 384-597 see alternative GRETIL version]",
+          "text": "for 384-597 see alternative GRETIL version",
           "segment_number": 796,
-          "translated_text": "[For verses 384-597, see the alternative GRETIL version.]"
+          "translated_text": "For verses 384-597, see the alternative GRETIL version."
         }
       ]
     }

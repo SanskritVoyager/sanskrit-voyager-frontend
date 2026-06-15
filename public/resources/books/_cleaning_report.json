@@ -1,0 +1,6389 @@
+{
+  "total": 772,
+  "cleaned": 626,
+  "copied": 138,
+  "skipped_triage": 8,
+  "errors": 0,
+  "details": [
+    {
+      "filename": "Boja.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['1.1', '1.2', '1.3', '1.4', '1.5', '1.6', '1.7', '1.8', '1.9', '1.10']"
+    },
+    {
+      "filename": "Goraksasataka.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['verse_1', 'verse_2', 'verse_3', 'verse_4', 'verse_5', 'verse_6', 'verse_7', 'verse_8', 'verse_9', 'verse_10']"
+    },
+    {
+      "filename": "Yogataravali.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']"
+    },
+    {
+      "filename": "justTranslationssa_bhartrhari-vakyapadiya_SARIT.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']"
+    },
+    {
+      "filename": "justTranslationssa_īśvarakṛṣṇa-sāṃkhyakārikā-alt.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']"
+    },
+    {
+      "filename": "justTranslationssa_maitreya-madhyāntavibhāgakārikā.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']"
+    },
+    {
+      "filename": "justTranslationssa_patanjalayogasastra_SARIT.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']"
+    },
+    {
+      "filename": "justTranslationssa_vasubandhu-madhyāntavibhāgakārikābhāṣya.json",
+      "classification": "needs_triage",
+      "transforms": [],
+      "action": "skipped_triage",
+      "error": "No 'body' key. Top-level keys: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']"
+    },
+    {
+      "filename": "kālidāsa-ṛtusaṃhāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_108-buddhist-stotras.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhayākaragupta-niṣpaṇṇayogāvali.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhidharmasamuccayabhāṣya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinanda-kādambarīkathāsāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinanda-rāmacaritamahākāvye.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_abhinavagupta-anuttarāṣṭikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-bhairavastava.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-bodhapañcadaśikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_abhinavagupta-kramastotra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-mālinīślokavārttika.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-paramārthasāra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-paramārthasāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-paryantapañcāśikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-tantrasāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhinavagupta-īśvarapratyabhijñāvimarśinī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhisamayālaṃkāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhisamayālaṃkāravivaraṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhisamayālaṃkāravṛttiḥ-sphuṭārthā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_abhisamācārikadharma.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_adbhutadharmaparyāya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_adhikaraṇavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_adhyardhaśatikā-prajñāpāramitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_advayaśatikā-prajñāpāramitā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_agniveśa-carakasaṃhitā-parts-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ahoratravratakathā-prose.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ahoratravratakathā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ahorātravratacaityasevānuśaṃsāvadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aitareyopaniṣad-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ajitasenavyākaraṇa-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ajitasenavyākaraṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_amarasiṃha-nāmaliṅgānuśāsana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_amaru-amaruśataka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_amoghapāśahṛdayasūtra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_amoghapāśahṛdayasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_amoghapāśahṛdayasūtra-mś.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_amṛtākara-catuḥstavasamāsārtha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_anityatāsūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_annaṃbhatta-tarkasaṃgraha.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_annaṃbhaṭṭa-tarkasaṃgraha-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_antarvyāptisamarthana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aparimitāyuḥsūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_apohasiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_appayadīkṣita-vairāgyaśatakam.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_arcaṭa-hetubinduṭīkā-edsanghavi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "extract_inline_labels",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_arcaṭa-hetubinduṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_arthaviniścayasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-abhidharmasamuccaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-mahāyānasūtrālaṃkāra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-mahāyānasūtrālaṃkāra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-mahāyānasūtrālaṃkāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-triśatikāyāḥ-prajñāpāramitāyāḥ-kārikāsaptatiḥ.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-triśatikāyāḥ-prajñāpāramitāyāḥ-kārikāsaptatiḥold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-śarīrārthagāthā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-śarīrārthagāthāold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asaṅga-śrāvakabhūmi-edshukla.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_astavakragita_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_asvaghosa-buddhacarita_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_atharvaprāyaścittāni.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_atharvavedapariśiṣṭas.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_atiśa-bodhipathapradīpa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_avadhūtasiddha-bhagavadbhaktistotra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_avadānaśataka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_avayavinirakarana_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ayurvedasutram_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aśokāvadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aśvaghoṣa-buddhacarita-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aśvaghoṣa-gurupañcāśikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_aśvaghoṣa-saundarānanda-edmatsunami.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aśvaghoṣa-saundarānanda.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aśvaghoṣa-vajrasūcī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ālambanaparīkṣā-comm.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_ālambanaparīkṣā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_āryānityatāsūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_aṣṭasāhasrikā-prajñāpāramitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aṣṭādaśasāhasrikā-prajñāpāramitā55-82.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_aṣṭāvakragītā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bandimocana_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_baudhāyanadharmasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bāṇa-kādambarī-1,84-122.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_bhagavadgītā-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhaiṣajyaguruvaidūryaprabharājasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhaiṣajyavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhaktivinoda-harināmacintāmaṇi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhallaṭa-bhallaṭaśataka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhartrhari-vakyapadiya_SARIT.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_bhartṛhari-vākyapadīya1-3,7.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhatṛhari-śatakatraya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhavasaṃkrāntisūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_bhaṭṭanārāyaṇa-stavacintāmaṇi.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_bhaṭṭanārāyaṇa-veṇīsaṃhāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhaṭṭi-rāvaṇavadha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhikṣukarmavākya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhikṣuṇīkarmavācanā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhikṣuṇīvinaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhoja-rajamartanda_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāgavatapurāṇa-10,29-33.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāmaha-kāvyālaṃkāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāsa-dūtavākya.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_bhāsa-svapnavāsavadatta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāsarvajña-gaṇakārikā-1-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāskara-bhagavadāśayānusaraṇabhāsya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāskara-bījagaṇita.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāskara-līlāvatī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāvamiśra-bhāvaprakāśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhāvāgaṇeśa-tattvayāthārthyadīpana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bhūtirāja-svabodhasiddhi.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_bilhaṇa-caurapañcāśikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bodhisattvabhūmi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bodhisattvaprātimokṣasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_brahmabindūpaniṣad.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_brahmagupta-brāhmasphuṭasiddhānta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_brahmasaṃhitā-5-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_buddhabalādhānaprātihāryavikurvāṇanirdeśasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_buddhaghoṣa-siddhārthacaritrakāvya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_buddhist-stotras.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_buddhist-yoga-manual.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bādarāyaṇa-brahmasūtra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bādarāyaṇa-brahmasūtra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bādarāyaṇa-brahmasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bādarāyaṇa-brahmasūtra1,1-1,3-comm-subcomm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bāṇa-harṣacarita.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bāṇa-harṣacaritapariśiṣṭa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bījanighaṇṭu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_bṛhadāraṇyakopaniṣadkāṇva-recension-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_cakrapāṇinātha-bhāvopahārastotra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_candragomin-śiṣyalekha.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_candrakīrti-bodhisattvayogācāracatuḥśatakaṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_candrakīrti-prasannapada.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_candrasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_carmavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_caturdharmanirdeśasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_chandoviciti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_chāndogyopaniṣad-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_cāmuṇḍa-rasasaṃketakalikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_cīvaravastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dantyoṣṭhavidhi.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_davuldeṇa-jñāneśvara-mahāsthavira-yaśodharācarita.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_daśabalasūtra-1-4.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_daśabhūmikasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_daśasāhasrikā-prajñāpāramitā1-and-2-translated-from-tibetan.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_daṇḍin-daśakumāracarita.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_daṇḍin-daśakumāracarita3--5-6.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_daṇḍin-kāvyādarśa-1-2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_daṇḍin-kāvyādarśa-3.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_daṇḍin-kāvyādarśa1--2.1-144--2.310-368.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_devatāsūtra-and-alpadevatāsūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_devīgītā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_devīkālottarāgama.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dhanaṃjaya-daśarūpaka-1-4.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dharmakīrti-hetubindu-edsteinkellner.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmakīrti-nyāyabindu.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmakīrti-nyāyabinduprakaraṇakārikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmakīrti-pramāṇavārttikakārikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmakīrti-pramāṇaviniścaya-fragment.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmakīrti-saṃtānāntarasiddhi.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmakīrti-subandhaparīkṣā-1-25.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dharmakīrti-vādanyāya.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmakīrti-hetubindu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dharmakīrti-nyāyabinduprakaraṇa-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dharmakīrti-pramāṇavārttisvavṛtti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dharmakīrti-saṃbandhaparīkṣā-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dharmakīrti-vādanyāya-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dharmasamuccaya.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dharmaskandha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dhoyī-pavanadūta.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dhvajāgrakeyūrādhāriṇī-alt.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dhvajāgrakeyūrādhāriṇī.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dhvajāgrasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dhyānacandragosvāmin-gauragaovindārcanasmaraṇapaddhati.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dhyānacandragosvāmin-rādhākṛṣṇāṣṭakālīyalīlāsmaraṇakramapaddhati.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dignāga-yogāvatāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dignāga-prajñāpāramitāpiṇḍārtha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_diksita-jivanacaritra_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_divyāvadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dīpaṃkara-caryāsaṃgrahapradīpa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-bodhisattvādikarmikamārgāvatāradeśanā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-cittotpādasaṃvaravidhikrama.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-daśākuśalakarmapathadeśanā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-gurukriyākrama.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-mahāyānapathasādhanasaṃgraha.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-samādhisaṃbhāraparivarta.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-sūtrārthasamuccayopadeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dramatic-fragments-buddhist.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dudhadasa-ramasvamedhabhasa_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dvāviṃśatyavadānakathā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dāmodaragupta-kuṭṭanīmata.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dīpaṃkara-satyadvayāvatāranāma.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dīpaṃkarabhadra-guhyasamājamaṇḍalavidhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-āpattideśanāvidhi.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_dīpaṃkaraśrījñāna-śaraṇagamanadeśanā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_ekādaśamukha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ekādaśamukhahṛdaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ekottarāgamafragments.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_fragments-of-prajñāpāramitā-texts.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gaṇapatihṛdaydhāraṇī.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_garbhasaṃgrahaḥ.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_garbhopaniṣad.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_gautama-dharmasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gautama-dharmasūtra1-3-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gautama-nyāyasūtra-comm-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gautama-nyāyasūtra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gautama-nyāyasūtra-comm2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gautama-nyāyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gautama-nyāyasūtra5,1-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gauḍapāda-āgamaśāstra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_gaṇḍavyūhasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ghaṭakarparakāvya-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gheraṇḍasaṃhitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_giridharadasa-bharatibhusana_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gopadatta-jātakamālā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gopathabrāhmaṇa-1,1,1-1,3,6.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_gopathabrāhmaṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gorakṣanātha-gorakṣaśataka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gorakṣanātha-gorakṣaśatakaold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gorakṣanātha-āmaraughaśāsana-comm.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_gorakṣaśataka-alt.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_govardhana-āryāsaptaśatī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_govindabhagavatpada-rasahrdayatantra_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_govindabhagavatpāda-rasahṛdayatantra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_govindkaul-pradeśasaṃgraha.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_grahamātṛkādhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_gāṅgeśa-tattvacintāmaṇiśabdakhāṇḍa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_hajarilala-srisivavivahakavitavali_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_haribhadrasūri-nyāyapraveśapravṛtti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_haribhadrasūri-śāstravārttāsamuccaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_haribhaṭṭa-jātakamālā1-8--11-12--19-20--22--24--26--32--35.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_harivarman-satyasiddhiśāstram.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_harṣadeva-nāgānanda.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_harṣadeva-priyadarśikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_harṣadeva-ratnāvalīnāṭikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_hastavālaprakaraṇavṛtti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_hayagrīvavidyā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_hetvābhāsadaśaka.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_īśvarakṛṣṇa-sāṃkhyakārikā-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jagannātha-prāṇābharaṇa-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jagannātha-sudhālaharī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jagannāthapaṇḍitarāja-rasagaṅgādhara-1.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jaimini-mīmāṃsāsūtra-1-7-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jaimini-mīmāṃsāsūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jaiminīyagṛhyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jalhaṇa-mugdhopadeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jayadeva-candrāloka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jayadeva-gītagovinda-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jayadeva-gītagovinda.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_jayarakṣita-sphuṭārthā-śrīghanācārasaṃgrahaṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jayarāśi-tattvopaplavasiṃha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jitari-isvaravadimatapariksa_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jitari-jatinirakrti_SARIT.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_jitari-nairatmyasiddhi_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jitari-sarvajnasiddhi_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jitari-vedapramanyasiddhi_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jitāri-hetutattvopadeśa-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jitāri-hetutattvopadeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jnanadasa-aparoksanubhava-tika_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jonarāja-and-pseudo-jonarāja-rājataraṅginī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jyotirīśvarakaviśekhara-pañcasāyaka.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_jñānayaśas-jātakastava.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jñānaśambhu-śivapūjāstava.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jñānaśrīmitra-vṛttamālāstuti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jñānālokālaṃkārasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jñānāmṛtasārasaṃhitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jīvagosvāmin-gopālacampūp1-33u1-3u5-6u29.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jīvagosvāmin-rādhākṛṣṇārcanadīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_jīvagosvāmin-saṃkalpakalpadruma.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kaivalyopaniṣad.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kaivalyopaniṣadold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kalhaṇa-ardhanarīśvarastotra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kalpadrumāvadānamālā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kamalaśīla-bhāvanākrama.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kamalaśīla-madhyamakāloka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kamalaśīla-vajracchedikāṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kambalapāda-navaślokī.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kapila-sāṃkhyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_karatoyāmāhātmya.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_karmavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_karmavibhaṅgopadeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_karuṇāpuṇḍarīkasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kathopaniṣad.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kauśikaprajñāpāramitāsūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kauthumagṛhyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kauśikasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kauṭilya-arthaśāstra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kavirājayati-sāṃkhyatattvapradīpa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kālidāsa-śyāmalādaṇḍaka.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kaṇāda-vaiśeṣikasūtra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kaṇāda-vaiśeṣikasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kaṭhinavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kaṭhināvadāna.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kedārabhaṭṭa-vṛttaratnākara-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kedārabhaṭṭa-vṛttaratnākara.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_keśava-sāṃkhyatattvapradīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_keśavakāśmīri-kramadīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_khasarpaṇasādhana.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kiraṇatantra1-6.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kośāmbakavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemendra-pratītyasamutpādāvadāna.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kulaśekhara-mukundamālā-eddurgaprasad.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kulaśekhara-mukundamālā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kumāralāta-kalpanāmaṇḍitikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kumārila-mīmāṃsaślokavārttika-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kumārila-tantravārttika-2,1,1-4.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kuntaka-vakroktijīvita-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kuśalamiśra-gūḍhārthadīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kuḍaka-samanvayadiś.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kālidāsa-abhijñānaśakuntala.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kālidāsa-kumārasaṃbhava.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kālidāsa-meghadūta-acc-vallabhadeva.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kālidāsa-meghadūta-edkale.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kālidāsa-meghadūta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kālidāsa-raghuvaṃśa-kashm1-6.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kālidāsa-ṛtusaṃhāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kāraṇḍavyūha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kāśyapaparivartasūtra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kāśyapaparivartasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṛṣṇadāsa-bhāvanāsārasaṃgraha-1-2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣaṇabhaṅgasiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemarāja-bhairavānukaraṇastotra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kṣemarāja-bodhavilāsa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemarāja-pratyabhijñāhṛdaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemendra-bodhisattvāvadānakalpalatā-93sumāgadhāvadāna.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kṣemendra-caturvargasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemendra-darpadalana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemendra-garbhāvakrāntyavadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemendra-kalāvilāsa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kṣemendra-narmamālā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_kṣemendra-sevyasevakopadeśa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_kṣemendra-sudhanakinnaryavadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_lagadha-ṛgvedavedāṅgajyotiṣa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_lakṣmīṇkarā-advayasiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_lalitavistara.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_laṅkeśvara-śivastuti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_larger-prajñāpāramitā-edchoong.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_larger-prajñāpāramitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_liṅgapurāṇa2,1-55.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_lolimbarāja-vaidyajīvana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_madhusudanasarasvati-atmabodhaprakarana_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_madhusūdanasarasvatī-siddhāntabindu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_madhyamakaśālistambasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_madhyamakāvatāra-1-5.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahādaṇḍadhāraṇīśītavatī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāśītavatī-vidyārājñī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahendravarman-i-mattavilāsaprahasana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahākarmavibhaṅga.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāmantrānusāriṇī.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_mahāmaṇivipulavimānaviśvasupratiṣṭhitaguhyaparamarahasyakalparājadhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāmāyūrīvidyārājñī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāparinirvāṇasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāpratisarā-pañcarakṣā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāpratisarāmahāvidyārājñī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāpratisarāvidyādhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāpratisarāvidyāvidhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāsaṃnipātaratnaketudhāraṇīsūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāsaṃnipātaratnaketudhāraṇīsūtra1-610-11.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāsudarśanāvadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāsāhasrapramardanī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāvadānasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mahāyānasaṁgraha.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_maitreya-madhyāntavibhāgakārikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_maitreyanātha-abhisamayālaṃkaranāmaprajñāpāramitopadeśaśāstra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_maitreyanātha-bhavasaṃkrāntiṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_maitreyavyākaraṇa-alt.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_maitreyavyākaraṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mammaṭa-kāvyaprakāśa-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mammaṭa-kāvyaprakāśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mammaṭa-śabdavyāpāravicāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mandanamiśra-brahmasiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mañjuśrīnāmasaṃgīti-alt.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_mañjuśrīnāmasaṃgīti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mārīcīnāmadhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_maṇḍanamiśra-vibhramaviveka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mekhalādhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mṛtyuvañcanatārāsādhana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mādhava-jaiminīyanyāyamālāvistara.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mādhva-anuvyākhyāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mādhva-kṛṣṇāmṛtamahārṇava.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_māgha-śiśupālavadha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mālinīvijayottaratantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mānavagṛhyasūtra-maitrāyaṇīyamānavagṛhyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mātṛceṭa-śatapañcāśatka.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_mātṛkābhedatantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_māṇḍūkyopaniṣad-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_māṇḍūkyopaniṣad-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_māṇḍūkyopaniṣatkārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mīnanātha-smaradīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mṛgendrāgama.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mṛgendrāgama1,1-7,23.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mṛtyuvañcanasitatārāsādhana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_mṛtyuvañcanopadeśatārāsādhana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nagaropamasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nagnajit-citralakṣaṇam.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nairātmyaparipṛcchāmahāyānasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_namaskāraikaviṃśatistotra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_naradasmrti2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_naradasmrti_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_narahari-bodhasāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-bodhicittavivaraṇa-fragments.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-dharmadhātugarbhavivaraṇa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nāgārjuna-kriyāsaṃgrahakārikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nāgārjuna-pratītyasamutpādahṛdayakārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-pratītyasamutpādahṛdayavyākhyāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-ratnāvalī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nidānasaṃyukta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nityakarmapūjāvidhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nityanatha-rasaratnakara-rasayanakhanda_SARIT.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nivajakavi-sakuntala-upakhyana_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nādabindūpaniṣad.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgeśa-paribhāṣenduśekhara.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-acintyastava.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-bhavasaṅkrāntiparikathā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nāgārjuna-dharmasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-lokātītastava.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nāgārjuna-madhyamakaśāstra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-mahāyānaviṃśikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-mūlamadhyamakakārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-pañcakrama.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-piṇḍīkrama.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-ratnāvali1,2,4.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-suhṛllekha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-vigrahavyāvartanī-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-vigrahavyāvartanī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-vigrahavyāvartanīkārikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nāgārjuna-yuktiṣaṣṭikakārikā-fragments.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nāgārjuna-yuktiṣaṣṭikakārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-yuktiṣaṣṭikakārikāold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-śālistambakakārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāgārjuna-śālistambakamahāyānasūtraṭīkā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_nāgārjuna-śūnyatāsaptati.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nāropa-sekoddeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nārāyaṇa-hitopadeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nārāyaṇabhaṭṭa-nārāyaṇīya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_nīlakaṇṭhadīkṣita-kaliviḍambana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_paṇḍitāśoka-avayavinirākaraṇa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_paṇḍitāśoka-sāmānyadūṣaṇadikprasāritā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_paraśurāmakalpasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_parātriṃśikā-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_parātriṃśikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_patanjalayogasastra_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_patañjali-yogasūtra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_patañjali-yogasūtra-with-bhāṣya-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_patañjali-yogasūtra-with-bhāṣya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_patañjali-yogasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_patañjali-yogasūtraold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_patna-dharmapada.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pañcaviṃśabrāhmaṇa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_pañcaviṃśatisāhasrikā-prajñāpāramitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pañcaviṃśatisāhasrikā-prajñāpāramitā1.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pāṃśupradāna-avadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pāṇini-aṣṭādhyāyī-alt.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_poṣadhasthāpanavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_poṣadhavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prabodhānandasarasvatī-caitanyacandrāmṛta.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_prajñāpāramitāhṛdayasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_prajñāpāramitāhṛdayasūtrasaṃkṣiptamātṛkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prajñāpāramitāhṛdayasūtravistaramātṛkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prajñākaramati-bodhicaryāvatārapañjikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prakāśasaṃhitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pramanamimamsa-and-vrtti_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pramanantarbhava_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pramanavarttikaparisista-1_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pramāṇavārttika.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pratisarākalpadhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pratītyasamutpādamahāyānasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pratītyasamutpādādivibhaṅganirdeśasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pratyakṣalakṣaṇa-of-the-tarkarahasya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "extract_inline_labels",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pratītyasamutpādavibhaṅgasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pravarasena-setubandha_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pravrajyāvastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pravāraṇāvastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_praśastapāda-pādārthadharmasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_praśnopaniṣad-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prātimokṣasūtra-of-the-lokottaravādimahāsaṅghika.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prātimokṣasūtra-of-the-mahāsāṃghikas.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prātimokṣasūtra-of-the-mūlasarvāstivādins.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prātimokṣasūtra-of-the-sarvāstivādins.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_prātimokṣasūtrafragments.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pudgalavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pujyapada-sarvarthasiddhi_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_puruṣottamadeva-ekākṣarakośa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_purūravas-kādambarīsvīkaraṇasūtramañjarī.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_pyarelala-ragabinoda_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pārivāsikavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pārthasārathimiśra-śāstradīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pāśupatasūtra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pāśupatasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_pāṇini-aṣṭādhyāyī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_pāṇḍulohitakavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_raghunāthadāsagosvāmin-muktācarita.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rasarnava_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rasādhyaya1-302-com.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnagotravibhāga.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnaguṇasaṃcayagāthā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnakirti-nibandhavali_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnakīrti-kṣaṇabhaṅgasiddhi-vyatirekātmikā-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnakīrti-kṣaṇabhaṅgasiddhi-vyatirekātmikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnakīrti-nibandhāvalī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnakīrti-vādarahasya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnasritika-dn_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnākaraśānti-bhramaharanāma-hevajrasādhana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ratnākaraśānti-sāratama.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ravideva-rākṣasakāvyawithṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rudrabhaṭṭaḥ-śṛṅgāratilaka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ruyyaka-alaṃkārasarvasva-1-34-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ruyyaka-alaṃkārasarvasva-1-34.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ruyyaka-alaṃkārasarvasva.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ruyyaka-sahṛdayalīlā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ruyyaka-vyaktivivekavyākhyā-2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rādhākṛṣṇadāsagosvāmin-sādhanadīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rāghavacaitanya-mahāgaṇapatistotra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rāhulabhadra-prajñāpāramitāstotra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_rājaśekhara-kāvyamīmāṃsā-1.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rāmodanta.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_rāmānuja-bhagavadgītābhāṣya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rāmānuja-vedārthasaṃgraha.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_rāmānuja-śrībhāṣya-1,1,3.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rāva-mithyāgrahaṇa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_rāṣṭrapālaparipṛcchā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rāṣṭrapālasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rūpagosvāmin-haṃsadūta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rūpagosvāmin-laghubhāgavatāmṛta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rūpagosvāmin-nāṭakacandrikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rūpagosvāmin-padyāvalī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_rūpagosvāmin-ujjvalanīlamaṇi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_saddharmalaṅkāvatārasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_saddharmapuṇḍarīkasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_samantabhadra-āptamīmāṃsā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_samanyadusana_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_samyaksaṃbuddhabhāṣitaṃ-pratimālakṣaṇam.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_samādhirājasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_samādhirājasūtratransliteration-1-111315-22.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_saptaśatikā-prajñāpāramitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sarvadarsanasangraha_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sarvadurgatipariśodhanatantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sarvajñatākāradhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sarvamatasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sarvatathāgatatattvasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sarvatathāgatādhiṣṭhānavyūhasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sarvopakāriṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_satyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sāgaranāgarājaparipṛcchāmahāyānasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_saṃghāṭasūtra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_saṃghāṭasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_saṃyuktāgama-966-972-according-to-the-chinese-canon.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_saṅghabhedavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_siddhasenamahāmati-nyāyāvatāra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sitātapatrā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_siṃhabhūpāla-rasārṇavasudhākara.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_smaller-sukhāvatīvyūha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_somadeva-rasendracūḍāmaṇi-3-57-16.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_somānanda-śāktavijñāna.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_srinivasamakhi-vedantadesika-daśavidhāhetunirūpaṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_stūpalakṣaṇakārikāvivecana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_subandhu-vāsavadattā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_subhāṣitaratnakaraṇḍakathā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sukhāvatīvyūha.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_sukhāvatīvyūhasaṃkṣiptamātṛkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sukhāvatīvyūhavistaramātṛkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sumāgadhāvadāna.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_suvarṇaprabhāsasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_suvarṇavarṇāvadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_suvikrāntavikrāmiparipṛcchā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_suṣeṇa-āyurvedamahodadhau-annapānavidhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_svalpākṣarā-prajñāpāramitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_svayaṃbhupurāṇa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_svāgatasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_svātmārāma-haṭhayogapradīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sāmavedasaṃhitā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_sārdhatriśatikālottarāgama.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sātvatatantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sāṃkhyaparibhāṣā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_sāṃkhyasūtravivaraṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_sūryasiddhānta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śrīmahādevīvyākaraṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_taittirīyopaniṣad-śaṃkarabhāṣya.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_tantrākhyāyika-1-2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tarkabhasa_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tarkabhāṣā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tarkarahasya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "extract_inline_labels",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tarkaśāstra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tathāgatabimbakārāpaṇasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tattvamīmāṃsā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_tattvaratnāvaloka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tattvasamāsa-4versions.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_tattvasamāsasūtravṛtti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_timirodghāṭana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_toḍalatantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_triskandhasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_trisuli-piyusalahari_SARIT.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_trivikrama-nalacampu_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tulasidasa-ramayanasatika_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_tārābhaṭṭārikānāmāṣṭottaraśatakastotra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_tārāsragdharāstotra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_udayana-nyāyakusumāñjali.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_udayana-nyāyavārttikatātparyapariśuddhi-1.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_udbhaṭa-kāvyālaṃkārasārasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_uddaṇḍa-kokilasaṃdesa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_udānavarga.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_udīcyaśyāmilaka-pāḍatāḍitaka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_upasaṃpadājñapti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_upāyahṛdaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_utpaladeva-ajaḍapramātṛsiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_utpaladeva-īśvarapratyabhijñākārikā-with-vṛtti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_utpaladeva-śivastotrāvali.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_uḍḍāmareśvaratantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vacaspati-tattvavaisaradi_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vadasthana_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vaikhānasadharmasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vaikhānasamantrapraśna5-8.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vaitānaśrautasūtra-vaitānasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vajracchedikā-prajñāpāramitā-frag.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vajracchedikā-prajñāpāramitā-gilgit.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vajracchedikā-prajñāpāramitā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vajravidāraṇīdhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vajravidāraṇādhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vallabhadeva-subhāṣitāvali-1-1040.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_varadarāja-laghusiddhāntakaumudī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vararuci-śatagāthā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_varāhamihira-bṛhajjātaka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_varāhamihira-tikanikayātra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_varāhamihira-vivāhapaṭala.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_varāhamihira-yogayātrā-edjha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_varāhamihira-yogayātrā-edpingree.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_varṣāvastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-abhidharmakośa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-abhidharmakośaold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-bodhicittotpādasūtraśāstra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vasubandhu-madhyāntavibhāgakārikābhāṣya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-madhyāntavibhāgakārikābhāṣyaold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-pañcaskandhaprakaraṇa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vasubandhu-trisvabhāvanirdeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-triṃśikāvijñaptikārikā-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-triṃśikāvijñaptikārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasubandhu-viṃśatikā-vijñaptimātratāsiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasudhārādhāraṇī-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasudhārādhāraṇī-gilgit.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasudhārādhāraṇī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasugupta-spandakārikā-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasugupta-spandakārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vasugupta-spandakārikāold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vatsyayana-nyayabhasya_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_veṅkaṭanātha-nyāyapariśuddhibhūmikā-13-5.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vidyākaraśānti-tarkasopāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vidyānātha-pratāparudrīya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vidyāsthānopamasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vijñānabhairava.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vijñānabhikṣu-sāṃkhyasāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vimalakīrtinirdeśa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vimalakīrtinirdeśasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vimalamitra-abhidharmadīpa-1-383.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vimalamitra-abhidharmadīpa-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vimalamitra-abhidharmadīpa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vinayasūtra-1pravrajyāvastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vinayasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vinayaviniścayaupāliparipṛcchā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vinītadeva-saṃtānāntarasiddhiṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vivarana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viśvantarāvadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viśvanāthakavirāja-sāhityadarpaṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viśveśvarakavicandra-camatkāracandrikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viṃśatikākārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viṃśikāvṛtti.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viṣṇudharma.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viṣṇudharmottarapurāṇa-2,127.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viṣṇudharmottarapurāṇa3,343-353.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_viṣṇuśarman-pañcatantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vācaspatimiśra-bhāmati.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vādivāgīśvara-mānamanohara.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāgbhaṭa-rasaratnasamuccaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāgīśvarakīrti-mṛtyuvañcanopadeśa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāhaṭa-aṣṭāṅganighaṇṭu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāmadeva-janmamaraṇavicāra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vāmana-kāvyālaṃkārasūtra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāmana-kāvyālaṃkārasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāmanadatta-dvayasaṃpattivārttika.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāmanadatta-svabodhodayamañjarī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāmanapurāṇasaromāhātmya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vārāhagṛhyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vāsiṣṭhadharmasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vātsyāyana-kāmasūtra-ednirnaya.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_vātsyāyana-kāmasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vātūlanātha-vātūlanāthasūtra-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_vīṇāśikhatantra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yamasmṛti-182v.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yamasmṛti-78v.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yamasmṛti-99v.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_yamasmṛti-s.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yaśodhara-rasaprakāśasudhākara.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_yaśomitra-sphuṭārthā-abhidharmakośavyākhyā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-catuḥślokī.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_yogapradipa_SARIT.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yogaśataka.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_yogaśatakaold.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_yuktidīpikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-gītārthasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-saṃvitsiddhi-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-saṃvitsiddhi-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-saṃvitsiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-stotraratna.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_yāmuna-ātmasiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-īśvarasiddhi-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāmuna-īśvarasiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_yāska-nirukta.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ādiśeṣa-paramārthasāra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_ādyanātha-anuttaraprakāśapañcāśikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ānandabhaṭṭa-vallālacarita.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ānandavardhana-dhvanyāloka-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ānandavardhana-dhvanyāloka.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āpastambadharmasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_āpastambaśulbasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āryabhaṭa-āryabhaṭīya-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āryabhaṭa-āryabhaṭīya.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_āryadeva-caryāmelāvaṇapradīpa.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_āryadeva-catuḥśatikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āryadeva-cittaviśuddhiprakaraṇa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āryaśūra-jātakamālā-1-15.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āryaśūra-jātakamālā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āryaśūra-pāramitāsamāsa.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āyuḥparyantasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āśvalāyanagṛhyasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_āśvalāyanaśrautasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_īśopaniṣad-or-īśāvāsyopaniṣadkāṇva-recension-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_īśvarakṛṣṇa-sāṃkhyakārikā-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_īśvarakṛṣṇa-sāṃkhyakārikā-comm2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_īśvarakṛṣṇa-sāṃkhyakārikā-comm3.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "format_verse_number",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_īśvarakṛṣṇa-sāṃkhyakārikā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śabara-mīmāṃsāsūtrabhāṣya-1,1,1-5.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śatasāhasrikā-prajñāpāramitā-2.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śayanāsanavastu.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śaṃkara-kaṭhopaniṣadbhāṣya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śaṃkara-saundaryalaharī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śaṃkara-upadeśasāhasrī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śaṃkara-vivekacuḍāmaṇi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śaṅkhāyana-āraṇyaka.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_śikṣāsamuccayakārikā.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_śira-upaniṣad.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_śivamahimnastava.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_śivasaṃkalpopaniṣad.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śivasūtra-with-vārttika.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śivasūtra-with-vārttikaold.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śrāvakabhūmi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śrīghanācārasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śrīkaṇṭha-ratnatrayaparīkṣā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śukasaptati.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śvetāśvataropaniṣad-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śvetāśvataropaniṣad.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śākyabuddhi-pramāṇavārttikaṭīkā.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śālikanāthamiśra-prakaraṇapañcikā-comm.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śālinātha-rasamañjarī.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śālistambasūtra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "hi_to_quote",
+        "note_to_label",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śāntarakṣita-tattvasaṃgraha.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śāntideva-bodhicaryāvatāra-alt.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śāntideva-bodhicaryāvatāra.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śāntideva-śikṣāsamuccaya.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śārdūlakarṇāvadāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_śāṅkhāyanagṛhyasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_śāṅkhāyanaśrautasūtra.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "sa_śūnyasamādhipāda-tattvajñānasaṃsiddhi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ḍhuṇḍhukanātha-rasendracintāmaṇi.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ṛgvedakhilāni.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "safe_merge_curly_bracket_quotes",
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ṛgvidhāna.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "sa_ṣimānanda-sāṃkhyatattvavivecana.json",
+      "classification": "auto_fix",
+      "transforms": [
+        "tag_chapters_and_subchapters"
+      ],
+      "action": "cleaned"
+    },
+    {
+      "filename": "ta-sa_periyavaccanpillai-perumaltiromolivyākhyānam.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    },
+    {
+      "filename": "xct_tshangs-dbyangs-rgya-mtsho'i-mgul-glu.json",
+      "classification": "clean",
+      "transforms": [],
+      "action": "copied"
+    }
+  ]
+}

@@ -751,62 +751,38 @@ mark:hover {
   line-height: inherit; /* Match parent line-height */
 }
 
+/* Wrapper around a labelled <lg> establishes the positioning context
+   so the label can sit in the bookContainer's gutter while staying
+   vertically anchored to its own stanza. */
+.labeledLg {
+  position: relative;
+}
+
 @media (min-width: 1000px) {
   .label {
     position: absolute;
-    left: 0rem;
-    transform: translateY(0.5rem); /* Adjust this value to perfectly align */
-    /* Optional improvements: */
-    width: 5.5rem; /* Prevent text overflow into content */
-    text-align: right; /* Right-align labels */
-    padding-right: 1rem; /* Space between label and content */
-  }  
-
-  .quote .p .label {
-    transform: translateY(-1.7em); /* Use em to scale with font size */
-  }
-  
-  /* Label inside a sūtra div */
-  .sūtra_with_bhāṣya .quote .p .label {
-    transform: translateY(-3em);
+    width: 5rem;
+    text-align: right;
+    padding-right: 1rem;
   }
 
-  .quote.sutra .p .label {
-    transform: translateY(-4.25em);
-  }
-  
-  /* Label directly in a paragraph */
-  .p > .label {
-    transform: translateY(-1.7em);
-  }
-
-
-  
-  /* Label in a line group */
-  .lg .l .label {
-    transform: translateY(-1.2em);
-  }
-  
-  /* Label after specific text types */
-  .Sutra .label,
-  .sūtra .label,
-  .sutra .label {
-    transform: translateY(-2em); /* These have different spacing */
-  }
-  
-  /* Commentary sections might need different spacing */
-  .Commentary .label {
-    transform: translateY(-1.5em);
-  }
-  
-  /* Bhashya sections */
-  .IntroBhashya .label,
-  .LeadingBhashya .label {
-    transform: translateY(-1.8em);
+  /* Standalone {tag:"label"} elements: no .labeledLg wrapper, so they are
+     positioned against .bookContainer's padding box. left:0 puts them in
+     the gutter; top stays auto so they keep their static position in the
+     text flow, nudged slightly to line up with the following content. */
+  .label {
+    left: 0;
+    transform: translateY(0.5rem);
   }
 
-
-
+  /* Labels bound to an <lg> stanza: the .labeledLg wrapper is the
+     positioning context, so anchor to it and compensate for any
+     accumulated ancestor padding/margin via --label-extra-offset. */
+  .labeledLg .label {
+    left: calc(-1 * var(--label-gutter, 6rem) - var(--label-extra-offset, 0px));
+    top: 0.1em;
+    transform: none;
+  }
 }
 
 
@@ -816,9 +792,39 @@ mark:hover {
   height: 100%;
   padding: 0rem;
   position: relative; /* Ensure relative positioning for the absolute overlay */
+  --label-gutter: 6rem;
+  --label-extra-offset: 0px;
 
   @media (min-width: 1000px) {
-    padding-left: 6rem; /* padding for labels */
+    padding-left: var(--label-gutter); /* padding for labels */
+  }
+}
+
+/* Containers that add their own indent push labelled children inward, so
+   compensate cumulatively. Each rule reads the inherited offset and adds its
+   own padding-left + margin-left contribution, keeping the label aligned with
+   the bookContainer's gutter line regardless of nesting depth. */
+.quote {
+  /* margin-left: 2rem + padding-left: 1rem on .quote both shift descendants right */
+  --label-extra-offset: calc(var(--label-extra-offset) + 3rem);
+}
+.Sutra {
+  --label-extra-offset: calc(var(--label-extra-offset) + 3rem); /* margin 2rem + padding 1rem */
+}
+.IntroBhashya {
+  --label-extra-offset: calc(var(--label-extra-offset) + 1.5rem);
+}
+.div > .div {
+  --label-extra-offset: calc(var(--label-extra-offset) + 0.5rem);
+}
+
+@media (max-width: 1000px) {
+  .quote,
+  .Sutra {
+    --label-extra-offset: calc(var(--label-extra-offset) + 0.5rem);
+  }
+  .div > .div {
+    --label-extra-offset: var(--label-extra-offset);
   }
 }
 

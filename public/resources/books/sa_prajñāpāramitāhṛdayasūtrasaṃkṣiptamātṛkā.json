@@ -35,36 +35,27 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Vaidya 97"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Vaidya_97",
+        "label": "Vaidya 97"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Prajñāpāramitāhṛdayasūtram |",
           "segment_number": 1,
           "translated_text": "The <s>Prajñāpāramitāhṛdayasūtra</s> (The Heart Sūtra of the Perfection of Wisdom)"
         },
         {
-          "tag": "text",
-          "text": "[saṃkṣiptamātṛkā ||]",
+          "tag": "Subchapter",
+          "text": "saṃkṣiptamātṛkā ||",
           "segment_number": 2,
-          "translated_text": "[Condensed Matrix Version (<s>saṃkṣiptamātṛkā</s>)]"
+          "translated_text": "Condensed Matrix Version (<s>saṃkṣiptamātṛkā</s>)"
         }
       ]
     },

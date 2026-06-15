@@ -35,17 +35,11 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_157"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_157",
+        "label": "Nkpv_157"
+      }
     },
     {
       "tag": "p",
@@ -123,17 +117,11 @@
       ]
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_158"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_158",
+        "label": "Nkpv_158"
+      }
     },
     {
       "tag": "lg",
@@ -224,17 +212,11 @@
       "translated_text": "Praise: OṂ ĀḤ HŪṂ — To the lotus-feet of the glorious <s>Vajrasattva</s> with the excellent <s>Guru</s>, the cause of the illumination of perfect knowledge — I bow, I pay homage to you, homage, homage! With devotion I bow to you; O Lord <s>Guru</s>, be gracious to me! One should stand with palms joined."
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_159"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_159",
+        "label": "Nkpv_159"
+      }
     },
     {
       "tag": "lg",
@@ -453,26 +435,24 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "yathā te tathāgatā āryārhantaḥ samyaksaṃbuddhā buddhajñānena buddhacakṣuṣā jānanti paśyanti yat kuśalamūlaṃ yajjātikaṃ yannikāyaṃ yādṛśaṃ yatsvabhāvaṃ yallakṣaṇaṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_160",
-          "segment_number": 43,
-          "translated_text": "(Nkpv 160)"
-        },
-        {
-          "tag": "text",
-          "text": ") yathādharmatayā saṃvidyate | tatkuśalamūlaṃ nityamanuttarāyāṃ samyaksaṃbodhau pariṇāmitaṃ tathāhaṃ pariṇāmayāmi |",
-          "segment_number": 44,
-          "translated_text": "As they truly exist according to the <s>Dharma</s> — those roots of virtue, always dedicated to the unsurpassed perfect awakening, I too likewise dedicate."
-        }
-      ],
+      "text": "yathā te tathāgatā āryārhantaḥ samyaksaṃbuddhā buddhajñānena buddhacakṣuṣā jānanti paśyanti yat kuśalamūlaṃ yajjātikaṃ yannikāyaṃ yādṛśaṃ yatsvabhāvaṃ yallakṣaṇaṃ",
       "segment_number": 42,
       "translated_text": "Just as the <s>Tathāgatas</s>, the noble <s>Arhats</s>, the perfectly awakened <s>Buddhas</s>, know and see with <s>Buddha</s>-knowledge and <s>Buddha</s>-vision the roots of virtue — of what birth, of what class, of what kind, of what nature, of what characteristic—"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 43,
+      "attributes": {
+        "id": "Nkpv_160",
+        "label": "Nkpv_160"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "yathādharmatayā saṃvidyate | tatkuśalamūlaṃ nityamanuttarāyāṃ samyaksaṃbodhau pariṇāmitaṃ tathāhaṃ pariṇāmayāmi |",
+      "translated_text": "As they truly exist according to the <s>Dharma</s> — those roots of virtue, always dedicated to the unsurpassed perfect awakening, I too likewise dedicate.",
+      "segment_number": 44
     },
     {
       "tag": "lg",
@@ -482,13 +462,15 @@
           "tag": "l",
           "attributes": {},
           "text": "tathā mamānena samānakālaṃ lokasya duḥkhaṃ ca sukhodayaṃ ca |",
-          "segment_number": 45
+          "segment_number": 45,
+          "translated_text": "Likewise, may I always have the power to remove the suffering of the world and to bring about the arising of happiness,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "hartuṃ ca kartuṃ ca sadāstu śaktistamaḥprakāśaṃ ca yathaiva bhānoḥ ||",
-          "segment_number": 46
+          "segment_number": 46,
+          "translated_text": "just as the sun has [the power to bring about] darkness and light."
         }
       ]
     },
@@ -500,13 +482,15 @@
           "tag": "l",
           "attributes": {},
           "text": "dṛṣṭaḥ śruto 'nusmṛtimāgato vā pṛthakkathāyogamupāgato vā |",
-          "segment_number": 47
+          "segment_number": 47,
+          "translated_text": "Whether seen, heard, brought to recollection, or encountered through separate narration and contemplation —"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sarvaprakāraṃ jagato hitāya kuryāmajastraṃ sukhasaṃhitāya || iti ||",
-          "segment_number": 48
+          "segment_number": 48,
+          "translated_text": "in every way, may I ceaselessly act for the welfare of the world, for the sake of happiness. Thus."
         }
       ]
     },
@@ -514,7 +498,8 @@
       "tag": "p",
       "attributes": {},
       "text": "atrāvasare jāpayogaṃ kuryāt | tadāvasāne 'mṛtakuṇḍalivalibhāṇḍe śaṅkhodakaculukaṃ dadyādanena oṃ hrīṃ ācamanaṃ [prokṣaṇaṃ] praticcha svāhā | bhāvanā | tato yaṅkāreṇa vāyumaṇḍalaṃ raṅkāreṇāgnimaṇḍalaṃ tadupari trimuṇḍakṛtacūḍikopari sitapadmabhājanaṃ tatra bhaktādiparipūritaṃ tatropari bruṃ āṃ jiṃ khaṃ huṃ lāṃ māṃ pāṃ tāṃ vaṅkārajātaḥ pañcāmṛtapañcapradīparupaṃ niṣpādya tato garuḍamudrāṃ darśayet | phreṃ 3 | punaḥ śaṅkhodakaculukaṃ dadyādanena - oṃ indrādilokapālebhyaḥ pādyācamanaṃ [nārghaṃ] prokṣaṇaṃ praticcha svāhā | jaḥ huṃ vaṃ horiti mudrāṃ pradarśya indrādidaśadikpālalokapālamudrāṃ ca pradarśya pūrvādikrameṇa balibhāṇḍe puṣpaṃ pātayedebhirmantraiḥ | oṃ indrāya svāhā | oṃ varuṇāya svāhā | oṃ kuverāya svāhā | oṃ agnaye svāhā | oṃ nairṛtye svāhā | oṃ vāyave svāhā | oṃ īśānāya svāhā | oṃ ūrdhvaṃ brahmaṇe svāhā | oṃ adhaḥ pṛthivībhyaḥ svāhā | oṃ sūryāya grahādhipataye svāhā | oṃ candrādi(ya)nakṣatrādhipataye svāhā | oṃ nāgebhyaḥ svāhā | oṃ asurebhyaḥ svāhā | oṃ yakṣebhyaḥ svāhā | oṃ sarvadigvidiglokapālebhyaḥ svāhā | pañcopacārapūjā pūrvavat stutiḥ |",
-      "segment_number": 49
+      "segment_number": 49,
+      "translated_text": "At this juncture, one should perform the <s>jāpayoga</s> (recitation practice). At its conclusion, one should offer a sip of conch-water into the <s>amṛtakuṇḍali</s> offering vessel with this [mantra]: 'OṂ HRĪṂ — accept the mouth-rinsing [and sprinkling], <s>SVĀHĀ</s>.' Visualization (<s>bhāvanā</s>): Then, with the syllable YAṂ [one generates] the wind-<s>maṇḍala</s>; with RAṂ, the fire-<s>maṇḍala</s>; upon that, atop a <s>cūḍikā</s> (skull-pedestal) formed of three skulls, a white lotus vessel filled with food-offerings and the like. Upon that, BRUṂ ĀṂ JIṂ KHAṂ HŪṂ LĀṂ MĀṂ PĀṂ TĀṂ — having generated from the syllable VAṂ the form of the five nectars and five lamps, one should then display the <s>Garuḍa-mudrā</s> (eagle hand-gesture). PHREṂ (three times). Again one should offer a sip of conch-water with this [mantra]: 'OṂ — To <s>Indra</s> and the other <s>Lokapālas</s> (World-Protectors), accept the foot-water, mouth-rinsing, [offering, and] sprinkling, <s>SVĀHĀ</s>.' Having displayed the <s>mudrā</s> JAḤ HŪṂ VAṂ HOḤ, and having displayed the <s>mudrā</s> of the ten directional protectors beginning with <s>Indra</s>, one should cast flowers into the offering vessel in the sequence beginning from the east, with these <s>mantras</s>: 'OṂ — to <s>Indra</s>, <s>SVĀHĀ</s>! OṂ — to <s>Varuṇa</s>, <s>SVĀHĀ</s>! OṂ — to <s>Kubera</s>, <s>SVĀHĀ</s>! OṂ — to <s>Agni</s> (Fire), <s>SVĀHĀ</s>! OṂ — to <s>Nairṛti</s>, <s>SVĀHĀ</s>! OṂ — to <s>Vāyu</s> (Wind), <s>SVĀHĀ</s>! OṂ — to <s>Īśāna</s>, <s>SVĀHĀ</s>! OṂ — above, to <s>Brahmā</s>, <s>SVĀHĀ</s>! OṂ — below, to the Earth-deities, <s>SVĀHĀ</s>! OṂ — to <s>Sūrya</s> (Sun), lord of the planets, <s>SVĀHĀ</s>! OṂ — to <s>Candra</s> (Moon) and the others, lord of the <s>nakṣatras</s> (lunar mansions), <s>SVĀHĀ</s>! OṂ — to the <s>Nāgas</s>, <s>SVĀHĀ</s>! OṂ — to the <s>Asuras</s>, <s>SVĀHĀ</s>! OṂ — to the <s>Yakṣas</s>, <s>SVĀHĀ</s>! OṂ — to all protectors of the directions and intermediate directions, <s>SVĀHĀ</s>!' Five-fold offering (<s>pañcopacārapūjā</s>) as before. Praise:"
     },
     {
       "tag": "lg",
@@ -524,13 +509,15 @@
           "tag": "l",
           "attributes": {},
           "text": "indrādayo mahāvīrā lokapālā maharddhikāḥ |",
-          "segment_number": 50
+          "segment_number": 50,
+          "translated_text": "<s>Indra</s> and the other great heroes, the <s>Lokapālas</s> (World-Protectors) of great supernatural power —"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "kīlayantu daśakrodhā vighnahartā namo 'stu te ||",
-          "segment_number": 51
+          "segment_number": 51,
+          "translated_text": "may the ten wrathful ones nail down [obstacles]; homage to you, O removers of obstacles!"
         }
       ]
     },
@@ -538,7 +525,8 @@
       "tag": "p",
       "attributes": {},
       "text": "tarpaṇam -",
-      "segment_number": 52
+      "segment_number": 52,
+      "translated_text": "<s>Tarpaṇa</s> (libation offering) —"
     },
     {
       "tag": "lg",
@@ -548,28 +536,24 @@
           "tag": "l",
           "attributes": {},
           "text": "bibhrāṇaṃ buddhabimbaṃ divasakaradhara rāśi yā bindulekham |",
-          "segment_number": 53
+          "segment_number": 53,
+          "translated_text": "Bearing a <s>Buddha</s>-image, holding a sun[-disc], with the cluster of the <s>bindu</s>-mark,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "maitrīyaṃ cārurūpaṃ śirasi varatanuṃ mañjughoṣaṃ ca gātram ||",
-          "segment_number": 54
+          "segment_number": 54,
+          "translated_text": "beautiful in form, [representing] <s>Maitreya</s>, with an excellent body, <s>Mañjughoṣa</s> as limbs,"
         }
       ]
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_161"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_161",
+        "label": "Nkpv_161"
+      }
     },
     {
       "tag": "lg",
@@ -579,13 +563,15 @@
           "tag": "l",
           "attributes": {},
           "text": "padmasthaṃ daṇḍarūpaṃ kuliśavaratanuṃ vajriṇaṃ bhīmanādam |",
-          "segment_number": 55
+          "segment_number": 55,
+          "translated_text": "seated on a lotus, in the form of a staff, with an excellent <s>vajra</s>-body, <s>Vajrin</s> (Vajrapāṇi) of fearsome roar —"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vijñānaṃ jñānarūpaṃ nihitabhavabhayaṃ pañcamūrti praṇamya ||",
-          "segment_number": 56
+          "segment_number": 56,
+          "translated_text": "consciousness in the form of knowledge, which destroys the fear of existence — I bow to the five forms (<s>pañcamūrti</s>)."
         }
       ]
     },
@@ -593,7 +579,8 @@
       "tag": "p",
       "attributes": {},
       "text": "sākṣatapuṣpajaladhārāṃ balibhāṇḍe pātayet |",
-      "segment_number": 57
+      "segment_number": 57,
+      "translated_text": "One should cast a stream of actual flowers and water into the offering vessel."
     },
     {
       "tag": "lg",
@@ -603,13 +590,15 @@
           "tag": "l",
           "attributes": {},
           "text": "indrādivajrī saha devasaṃghairimaṃ ca gṛhṇantu baliṃ viśiṣṭam |",
-          "segment_number": 58
+          "segment_number": 58,
+          "translated_text": "<s>Indra</s> and the others, together with <s>Vajrī</s> (Vajrapāṇi) and the assemblies of gods — may they accept this excellent offering (<s>bali</s>)!"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "agniryamo nairṛtibhūpatiśca apāṃpatirvāyudhanādhipaśca ||",
-          "segment_number": 59
+          "segment_number": 59,
+          "translated_text": "<s>Agni</s> (Fire), <s>Yama</s> (Death), <s>Nairṛti</s>, the Lord of the Earth, the Lord of Waters, <s>Vāyu</s> (Wind), and the Lord of Wealth —"
         }
       ]
     },
@@ -621,13 +610,15 @@
           "tag": "l",
           "attributes": {},
           "text": "īśānabhūtādhipatiśca devā ūrdhvaśca candrārkapitāmahaśca |",
-          "segment_number": 60
+          "segment_number": 60,
+          "translated_text": "<s>Īśāna</s>, the Lord of Beings, the gods above, <s>Candra</s> (Moon), <s>Arka</s> (Sun), and <s>Pitāmaha</s> (Brahmā),"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "devāḥ samastā bhuvi ye ca nāgāḥ dharādharā guhyagaṇaiḥ sametāḥ ||",
-          "segment_number": 61
+          "segment_number": 61,
+          "translated_text": "all the <s>devas</s> on earth, the <s>Nāgas</s>, the mountains and the earth, together with hosts of secret beings (<s>guhyagaṇa</s>) —"
         }
       ]
     },
@@ -639,13 +630,15 @@
           "tag": "l",
           "attributes": {},
           "text": "pratipratitveka nivedayantu svakasvakāścaiva diśāsu bhūtāḥ |",
-          "segment_number": 62
+          "segment_number": 62,
+          "translated_text": "may they each announce [this offering] in their respective directions, and may the beings in [each] direction"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "gṛhṇantu tuṣṭāḥ sagaṇaiḥ sametāḥ sa putradārāḥ saha bhṛtyasaṃghaiḥ ||",
-          "segment_number": 63
+          "segment_number": 63,
+          "translated_text": "accept [it] satisfied, together with their retinues, with sons and wives, along with the assemblies of servants."
         }
       ]
     },
@@ -657,13 +650,15 @@
           "tag": "l",
           "attributes": {},
           "text": "hṛṣṭāḥ prasannāḥ sraggandhāmālyaṃ puṣpaṃ balirdhūpavilepanaṃ ca |",
-          "segment_number": 64
+          "segment_number": 64,
+          "translated_text": "Delighted and pleased, may they accept the garlands, perfumes, wreaths, flowers, offerings, incense, and ointments;"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "gṛhṇantu bhuñjantu pibantu cedaṃ idaṃ ca karmaṃ saphalaṃ bhavenme ||",
-          "segment_number": 65
+          "segment_number": 65,
+          "translated_text": "may they accept, eat, and drink this — and may this ritual action (<s>karma</s>) bear fruit for me!"
         }
       ]
     },
@@ -671,7 +666,8 @@
       "tag": "p",
       "attributes": {},
       "text": "huṃ huṃ phaṭ phaṭ svāhā punastathaiva ca | oṃ namo ratnatrayāya oṃ caṇḍavajrapāṇaye mahākrodhāya daṃṣṭrotkaṭabhairavāya asimuśalapāśagṛhītahastāya | oṃ amṛtakuṇḍali kha kha khāhi 2 tiṣṭha 2 bandha 2 hana 2 daha 2 paca 2 garjaya 2 tarjaya 2 visphoṭaya 2 mahāgaṇapataye jīvitāntakarāya huṃ huṃ phaṭ 2 svāhā | tatra puṣpādi pūjā | tadvidhiṃ devatāpūjāyāṃ darśaddīpānte lājābhiretadgāthayā pūjayet |",
-      "segment_number": 66
+      "segment_number": 66,
+      "translated_text": "HŪṂ HŪṂ PHAṬ PHAṬ <s>SVĀHĀ</s>. Again, likewise: 'OṂ — Homage to the <s>Ratnatraya</s> (Three Jewels)! OṂ — To <s>Caṇḍavajrapāṇi</s>, the greatly wrathful one, terrifying with bared fangs, holding a sword, pestle, and noose in his hands! OṂ <s>Amṛtakuṇḍali</s> — KHA KHA KHĀHI KHĀHI, stand stand, bind bind, strike strike, burn burn, cook cook, roar roar, threaten threaten, burst burst! To the great <s>Gaṇapati</s>, the ender of life! HŪṂ HŪṂ PHAṬ PHAṬ <s>SVĀHĀ</s>!' Thereupon, flower-offering and the rest. That procedure [is performed] at the end of the lamp-showing during the deity-worship; one should worship with parched grain (<s>lājā</s>) with this <s>gāthā</s> (verse):"
     },
     {
       "tag": "lg",
@@ -681,13 +677,15 @@
           "tag": "l",
           "attributes": {},
           "text": "ye dharmā hetuprabhavā hetusteṣāṃ tathāgato hyavadat |",
-          "segment_number": 67
+          "segment_number": 67,
+          "translated_text": "Those <s>dharmas</s> that arise from a cause — the <s>Tathāgata</s> has declared their cause;"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaṃ ||",
-          "segment_number": 68
+          "segment_number": 68,
+          "translated_text": "and that which is their cessation — thus has the Great Ascetic (<s>Mahāśramaṇa</s>) spoken."
         }
       ]
     },
@@ -695,26 +693,22 @@
       "tag": "p",
       "attributes": {},
       "text": "pūṣpākṣatajalaiḥ pūjayedanena | oṃ akāro mukhaḥ sarvadharmāṇāmādyanutpannatvāt | oṃ āḥ huṃ (hūṃ) phaṭ svāhā | dakṣiṇā | oṃ mañjuśriye kumārabhūtāya bodhisattvāya mahāsattvāya mahākāruṇikāya taṇḍuladakṣiṇā saṃpraḍho(to)ṣayāmyaham | sākṣatāñjalenā tiṣṭhet | oṃ vajrasattvasamayamanupālaya vajrasattvattvenopatiṣṭha dṛḍho me bhava sutoṣyo me bhava supoṣyo me bhava anurakto me bhava sarvasiddhiṃ me prayaccha sarvakarmasu ca me cittaśriyaṃ kuru huṃ ha ha ha ha ho bhagavan sarvatathāgata vajraṃ mā me muñca vajrībhava mahāsamayasattva āḥ | iti gurumaṇḍalakriyā |",
-      "segment_number": 69
+      "segment_number": 69,
+      "translated_text": "One should worship with flowers, unbroken rice, and water using this [mantra]: 'Oṃ, the letter A is the foremost of all <s>dharmas</s>, because of [their] primordial non-arising. Oṃ Āḥ Hūṃ Phaṭ Svāhā.' The offering (<s>dakṣiṇā</s>): 'Oṃ, to <s>Mañjuśrī</s>, who is in the form of a youth (<s>kumārabhūta</s>), the <s>Bodhisattva</s>, the great being (<s>mahāsattva</s>), the greatly compassionate one — I offer this rice-<s>dakṣiṇā</s> to please [him].' One should stand with water and unbroken rice in cupped hands: 'Oṃ <s>Vajrasattva</s>, guard [my] <s>samaya</s> (pledge); as <s>Vajrasattva</s>, be present for me; be firm for me; be well-pleased with me; be well-nourished for me; be devoted to me; grant me all <s>siddhis</s> (accomplishments); and in all actions, make the glory of [my] mind — Hūṃ Ha Ha Ha Ha Hoḥ, O Blessed One, O all <s>Tathāgatas</s>, do not forsake me, the <s>vajra</s>-being! Be the <s>vajra</s>-[nature], O great <s>samaya</s>-being — Āḥ.' Thus [concludes] the <s>Guru-maṇḍala</s> rite."
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_162"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_162",
+        "label": "Nkpv_162"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tato devatāpūjārthaṃ devatāyā śiraḥpradeśe puṣpamāropya etadbhāvanāvākyaṃ paṭhet | oṃ svabhāvaśuddhāḥ sarvadharmāḥ svabhāvaśuddho 'ham | oṃ śūnyatājñānavajrasvabhāvātmako 'ham | dhūpavākyam | oṃ bhagavan śrī amukavajravidyārāja namo 'stu te |",
-      "segment_number": 70
+      "segment_number": 70,
+      "translated_text": "Then, for the purpose of worshipping the deity, having placed a flower upon the head-region of the deity, one should recite this contemplation-formula: 'Oṃ, all <s>dharmas</s> are pure by nature; I am pure by nature. Oṃ, I am of the essence of the <s>vajra</s> of <s>śūnyatā</s>-<s>jñāna</s> (emptiness-wisdom).' The incense formula: 'Oṃ, O Blessed One, glorious <s>Vajra-vidyārāja</s> [of such-and-such name], homage to you!'"
     },
     {
       "tag": "lg",
@@ -724,13 +718,15 @@
           "tag": "l",
           "attributes": {},
           "text": "kartumicchāmi te nātha maṇḍalaṃ karuṇātmaka |",
-          "segment_number": 71
+          "segment_number": 71,
+          "translated_text": "O Lord, compassionate one, I wish to create"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "śiṣyāṇāmanukampāya yuṣmākaṃ pūjanāya ca ||",
-          "segment_number": 72
+          "segment_number": 72,
+          "translated_text": "a <s>maṇḍala</s> for the sake of compassion toward disciples and for your worship."
         }
       ]
     },
@@ -742,13 +738,15 @@
           "tag": "l",
           "attributes": {},
           "text": "tanme bhaktasya bhagavan prasādaṃ kartumarhasi |",
-          "segment_number": 73
+          "segment_number": 73,
+          "translated_text": "O Blessed One, please bestow grace upon me, your devotee."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "samanvāharantu māṃ buddhā jagaccakrakriyārthadāḥ ||",
-          "segment_number": 74
+          "segment_number": 74,
+          "translated_text": "May the Buddhas, who grant the purpose of the wheel of the world's activity, bless me!"
         }
       ]
     },
@@ -760,13 +758,15 @@
           "tag": "l",
           "attributes": {},
           "text": "phalasthā bodhisattvāśca yā cānyā mantradevatāḥ |",
-          "segment_number": 75
+          "segment_number": 75,
+          "translated_text": "And the <s>Bodhisattvas</s> who abide in the fruit[-stage], and whatever other <s>mantra</s>-deities,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "devatā lokapālāśca bhūtāḥ saṃbodhisādhitāḥ ||",
-          "segment_number": 76
+          "segment_number": 76,
+          "translated_text": "the deities, the world-protectors, and the beings who have accomplished awakening,"
         }
       ]
     },
@@ -778,13 +778,15 @@
           "tag": "l",
           "attributes": {},
           "text": "śāsanābhiratāḥ sattvā ye kecidvajracakṣuṣaḥ |",
-          "segment_number": 77
+          "segment_number": 77,
+          "translated_text": "whatever beings delight in the teaching and possess the <s>vajra</s>-eye,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "anukampāmupādāya saśiṣyasya ca tanmama ||",
-          "segment_number": 78
+          "segment_number": 78,
+          "translated_text": "out of compassion toward me together with [my] disciples —"
         }
       ]
     },
@@ -792,7 +794,8 @@
       "tag": "p",
       "attributes": {},
       "text": "amukadevatānāmācāryam arcayiṣyāmi | tatra vajradhūpaṃ niryātayāmi tatra vajradhūpaṃ praticcha svāhā | tataḥ sākṣāt puṣpāñjaliṃ dhṛtvaitadadhyeṣaṇāvākyaṃ paṭhet -",
-      "segment_number": 79
+      "segment_number": 79,
+      "translated_text": "I shall worship the <s>ācārya</s> (teacher) of the deities of [such-and-such name]. Thereupon, I offer <s>vajra</s>-incense: 'Accept the <s>vajra</s>-incense — Svāhā.' Then, actually holding a flower-offering in cupped hands, one should recite this entreaty-formula:"
     },
     {
       "tag": "lg",
@@ -802,13 +805,15 @@
           "tag": "l",
           "attributes": {},
           "text": "adya me saphalaṃ janma saphalaṃ jīvitaṃ ca me |",
-          "segment_number": 80
+          "segment_number": 80,
+          "translated_text": "Today my birth has become fruitful, and my life has become fruitful."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "samayaṃ sarvadevānāṃ bhāvito 'haṃ na saṃśayaḥ ||",
-          "segment_number": 81
+          "segment_number": 81,
+          "translated_text": "I have cultivated the <s>samaya</s> (pledge) of all the gods — there is no doubt."
         }
       ]
     },
@@ -820,13 +825,15 @@
           "tag": "l",
           "attributes": {},
           "text": "avaivartī bhaviṣyāmi bodhicittaikacetasā |",
-          "segment_number": 82
+          "segment_number": 82,
+          "translated_text": "I shall become irreversible (<s>avaivartī</s>), with a mind single-pointed in <s>bodhicitta</s> (the thought of awakening)."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tathāgatakulotpattirmamādya syānna saṃśayaḥ ||",
-          "segment_number": 83
+          "segment_number": 83,
+          "translated_text": "Today, birth in the <s>Tathāgata</s> family shall be mine — there is no doubt."
         }
       ]
     },
@@ -838,13 +845,15 @@
           "tag": "l",
           "attributes": {},
           "text": "agro me divaso hyadya yajño me 'dya hyanuttaraḥ |",
-          "segment_number": 84
+          "segment_number": 84,
+          "translated_text": "Indeed, today is my foremost day; today is my unsurpassed sacrifice."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sannipāto bhavo hyadya sarvabuddhanimantraṇāt ||",
-          "segment_number": 85
+          "segment_number": 85,
+          "translated_text": "Indeed today is [my] auspicious assembly, through the invitation of all Buddhas."
         }
       ]
     },
@@ -852,26 +861,22 @@
       "tag": "p",
       "attributes": {},
       "text": "oṃ kusumāñjalinātha horiti mantraṃ paṭhan devatāsannidhau prakiret |",
-      "segment_number": 86
+      "segment_number": 86,
+      "translated_text": "'Oṃ, with a flower-offering, O Lord — Hoḥ' — reciting this <s>mantra</s>, one should scatter [flowers] in the presence of the deity."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "tadanu snānavidhiḥ || tatrādau suvarṇādibhājane śubhrasvacchasunirmalakāṃsyadarpaṇaṃ dhṛtvā tatra praṇavamekaṃ suvarṇaśalākayā vilikhya tasminneva jaladhārāṃ pātayedanayā gāthayā -",
-      "segment_number": 87
+      "segment_number": 87,
+      "translated_text": "Then follows the bathing rite: First, in a vessel of gold or similar [material], having placed a bright, clear, and perfectly pure bronze mirror, one should inscribe a single <s>praṇava</s> (Oṃ) upon it with a golden stylus, and then pour a stream of water upon it with this verse:"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_163"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_163",
+        "label": "Nkpv_163"
+      }
     },
     {
       "tag": "lg",
@@ -881,25 +886,29 @@
           "tag": "l",
           "attributes": {},
           "text": "oṃ yanmaṅgalaṃ sakalasattvahṛdi sthitasya",
-          "segment_number": 88
+          "segment_number": 88,
+          "translated_text": "Oṃ — whatever is the auspiciousness of [him who is] established in the hearts of all beings,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sarvātmakasya varadharmakulādhipasya |",
-          "segment_number": 89
+          "segment_number": 89,
+          "translated_text": "of [him who is] the Self of all, the lord of the noble <s>Dharma</s>-family,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "niḥśeṣadoṣarahitasya mahāsukhasya",
-          "segment_number": 90
+          "segment_number": 90,
+          "translated_text": "of [him who is] free from all faults without remainder, the one of great bliss —"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tanmaṅgalaṃ bhavatu te paramābhiṣekaḥ ||",
-          "segment_number": 91
+          "segment_number": 91,
+          "translated_text": "may that auspiciousness be your supreme consecration (<s>abhiṣeka</s>)!"
         }
       ]
     },
@@ -907,7 +916,8 @@
       "tag": "p",
       "attributes": {},
       "text": "punaḥ pañcāmṛtaiḥ snāpayet | oṃ sarvatathāgata bruṃ āṃ jiṃ huṃ | tataḥ pratibimbaṃ darśayedanena |",
-      "segment_number": 92
+      "segment_number": 92,
+      "translated_text": "Again, one should bathe [the deity] with the five nectars: 'Oṃ, all <s>Tathāgatas</s> — Brūṃ Āṃ Jiṃ Huṃ.' Then one should show the reflection with this [verse]:"
     },
     {
       "tag": "lg",
@@ -917,13 +927,15 @@
           "tag": "l",
           "attributes": {},
           "text": "pratibimbasamā dharmā acchā śuddhā hyanāvilāḥ |",
-          "segment_number": 93
+          "segment_number": 93,
+          "translated_text": "All <s>dharmas</s> are like reflections — clear, pure, and undefiled,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "agrāhyā anulipyāśca hetukarmasamudbhavāḥ ||",
-          "segment_number": 94
+          "segment_number": 94,
+          "translated_text": "ungraspable and unstainable, arisen from causes and actions."
         }
       ]
     },
@@ -931,19 +943,22 @@
       "tag": "p",
       "attributes": {},
       "text": "snānodakamātmanaḥ śirapradeśe 'bhiṣecayet | oṃ sarvatathāgatābhiṣekaṃ samāśriye huṃ | iti snānakarmānte jaladhārayā maṇḍaṃ kārayeddevatāsamīpe | oṃ vajrabhūmau surekhe sarvatathāgatādhiṣṭhānādhitiṣṭhantu svāhā | oṃ vajrasuvarṇajaladhāre svāhā | sindūreṇābhūṣayet |",
-      "segment_number": 95
+      "segment_number": 95,
+      "translated_text": "One should anoint one's own head-region with the bathing-water: 'Oṃ, I take refuge in the consecration of all <s>Tathāgatas</s> — Hūṃ.' At the conclusion of the bathing rite, one should make a <s>maṇḍala</s> (circle) with a stream of water near the deity: 'Oṃ, on the <s>vajra</s>-ground, O well-lined one, may all <s>Tathāgatas</s> consecrate [this] — Svāhā. Oṃ, <s>vajra</s>-golden-water-stream — Svāhā.' One should adorn [the deity] with vermilion."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "idaṃ te paramaṃ gandhaṃ pavitraṃ ghrāṇatatparam |\ndadāmi paramaṃ bhaktyā pratigṛhṇa yathāsukham |",
-      "segment_number": 96
+      "segment_number": 96,
+      "translated_text": "This is the supreme fragrance for you, sacred and delightful to the sense of smell;\nI offer [it] with supreme devotion — accept [it] at your pleasure."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ vajragandhe svāhā | oṃ vajratilakabhūṣaṇe svāhā | yajñopavītam | oṃ vajravastrālaṅkārapūjāmeghasamudrasphuraṇayajñopavīta vajrabodhyaṅga dṛḍhakavaca vajravastraṃ svāhā | tato devatāmūlamantreṇāṣṭottaraśatavāraṃ puṣpamabhimantrya (devatāyā śirasi) tatpuṣpaṃ devatābhyaḥ samarpayet |",
-      "segment_number": 97
+      "segment_number": 97,
+      "translated_text": "'Oṃ <s>Vajra</s>-fragrance Svāhā. Oṃ <s>Vajra</s>-<s>tilaka</s>-ornament Svāhā.' The sacred thread: 'Oṃ, <s>vajra</s>-garment-ornament-worship-cloud-ocean-flashing sacred-thread, <s>vajra</s>-<s>bodhyaṅga</s> (limb of awakening), firm armor, <s>vajra</s>-garment — Svāhā.' Then, having consecrated flowers one hundred and eight times with the deity's root <s>mantra</s>, one should offer those flowers to the deities [upon the deity's head]."
     },
     {
       "tag": "lg",
@@ -953,13 +968,15 @@
           "tag": "l",
           "attributes": {},
           "text": "svasti vaḥ kurutāṃ buddhāḥ svasti devāḥ saśatrukāḥ |",
-          "segment_number": 98
+          "segment_number": 98,
+          "translated_text": "May the Buddhas bring you welfare! May the gods with [their] enemies [vanquished bring] welfare!"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "svasti sarvāṇi bhūtāni sarvakālaṃ diśantu vaḥ ||",
-          "segment_number": 99
+          "segment_number": 99,
+          "translated_text": "May all beings grant you welfare at all times!"
         }
       ]
     },
@@ -971,13 +988,15 @@
           "tag": "l",
           "attributes": {},
           "text": "buddhapuṇyānubhāvena devatānāṃ matena ca |",
-          "segment_number": 100
+          "segment_number": 100,
+          "translated_text": "By the power of the merit of the Buddhas, and by the will of the deities,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yo yo 'rthaḥ samabhipretaḥ sarvo 'rtho 'dya samṛddhayatām ||",
-          "segment_number": 101
+          "segment_number": 101,
+          "translated_text": "Whatever purpose has been desired — may every purpose be fulfilled today!"
         }
       ]
     },
@@ -989,28 +1008,24 @@
           "tag": "l",
           "attributes": {},
           "text": "svasti vo dvipade bhontu svasti vo 'stu catuṣpade |",
-          "segment_number": 102
+          "segment_number": 102,
+          "translated_text": "May there be well-being for you who go on two feet; may there be well-being for you who go on four!"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "svasti vo vrajatāṃ mārge svasti pratyāgateṣu ca ||",
-          "segment_number": 103
+          "segment_number": 103,
+          "translated_text": "May there be well-being for those traveling on the road; may there be well-being for those returning!"
         }
       ]
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_164"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_164",
+        "label": "Nkpv_164"
+      }
     },
     {
       "tag": "lg",
@@ -1020,13 +1035,15 @@
           "tag": "l",
           "attributes": {},
           "text": "svasti rātrau svasti divā svasti madhye dine sthite |",
-          "segment_number": 104
+          "segment_number": 104,
+          "translated_text": "May there be well-being at night, may there be well-being by day, may there be well-being at midday;"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sarvatra svasti vo bhontu mā caiṣāṃ pāpamāgamat ||",
-          "segment_number": 105
+          "segment_number": 105,
+          "translated_text": "May there be well-being for you everywhere; may evil never come upon them!"
         }
       ]
     },
@@ -1038,13 +1055,15 @@
           "tag": "l",
           "attributes": {},
           "text": "sarve sattvāḥ sarve prāṇāḥ sarvebhūtāśca kevalāḥ |",
-          "segment_number": 106
+          "segment_number": 106,
+          "translated_text": "May all sentient beings, all living creatures, and all beings without exception"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sarve vai sikhinaḥ santu sarve santu nirāmayāḥ ||",
-          "segment_number": 107
+          "segment_number": 107,
+          "translated_text": "all be happy; may all be free from illness!"
         }
       ]
     },
@@ -1056,19 +1075,22 @@
           "tag": "l",
           "attributes": {},
           "text": "sarve bhadrāṇi paśyantu mā kaścitpāpamāgamat |",
-          "segment_number": 108
+          "segment_number": 108,
+          "translated_text": "May all behold auspiciousness; may evil never come upon anyone!"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yānīha bhūtāni samāgatāni, sthitāni bhūmāvathavāntarikṣe |",
-          "segment_number": 109
+          "segment_number": 109,
+          "translated_text": "Whatever beings have assembled here, whether stationed on the earth or in the sky,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "kurvantu maitrīṃ satataṃ prajāsu, divā ca rātrau ca carantu dharmam ||",
-          "segment_number": 110
+          "segment_number": 110,
+          "translated_text": "may they always practice loving-kindness (<s>maitrī</s>) toward all creatures, and may they practice the <s>Dharma</s> by day and by night!"
         }
       ]
     },
@@ -1076,7 +1098,8 @@
       "tag": "p",
       "attributes": {},
       "text": "oṃ vajrapuṣpe svāhā | naivedyasamarpaṇam | oṃ vajranaivedya svāhā |",
-      "segment_number": 111
+      "segment_number": 111,
+      "translated_text": "OṂ <s>VAJRAPUṢPE</s> SVĀHĀ. Offering of <s>naivedya</s> (food offering). OṂ <s>VAJRANAIVEDYA</s> SVĀHĀ."
     },
     {
       "tag": "lg",
@@ -1086,13 +1109,15 @@
           "tag": "l",
           "attributes": {},
           "text": "oṃ vajrasamayācāraṃ khādyabhojyādikaṃ prabho |",
-          "segment_number": 112
+          "segment_number": 112,
+          "translated_text": "OṂ — the food and drink and other [offerings] conforming to the <s>vajra</s>-commitment (<s>vajrasamaya</s>), O Lord,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "varṇagandharasopetaṃ pratigṛhṇa yathāsukham ||",
-          "segment_number": 113
+          "segment_number": 113,
+          "translated_text": "Endowed with color, fragrance, and flavor — accept [them] at your pleasure!"
         }
       ]
     },
@@ -1100,25 +1125,29 @@
       "tag": "p",
       "attributes": {},
       "text": "atha tarpaṇam -",
-      "segment_number": 114
+      "segment_number": 114,
+      "translated_text": "Now, the <s>tarpaṇa</s> (libation offering) —"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ namo bhagavate vīravīreśāya huṃ phaṭ |\noṃ namo mahākalpāgnisannibhāya huṃ phaṭ |\noṃ namo jaṭāmakuṭotkaṭāya huṃ huṃ phaṭ |\noṃ namo draṃṣṭākarālograbhīṣaṇamukhāya huṃ huṃ phaṭ |\noṃ namo sahasrabhujaprabhāsvarāya huṃ huṃ phaṭ |\noṃ namo paraśupāśatriśūlakhaṭvāṅgadhāriṇe huṃ huṃ phaṭ |\noṃ namo vyāghracarmāmbaradharāya huṃ huṃ phaṭ |\noṃ namo mahādhūmrāndhakāravapuṣe huṃ huṃ phaṭ svāhā |",
-      "segment_number": 115
+      "segment_number": 115,
+      "translated_text": "OṂ — Homage to the Blessed <s>Vīravīreśa</s> (Lord of Heroes)! HŪṂ PHAṬ!\nOṂ — Homage to [him who is] like the great fire at the end of an aeon! HŪṂ PHAṬ!\nOṂ — Homage to [him] terrible with the crest of matted locks (<s>jaṭāmakuṭa</s>)! HŪṂ HŪṂ PHAṬ!\nOṂ — Homage to [him] of terrible and fearsome face with dreadful fangs! HŪṂ HŪṂ PHAṬ!\nOṂ — Homage to [him] radiant with a thousand arms! HŪṂ HŪṂ PHAṬ!\nOṂ — Homage to [him] who bears the axe (<s>paraśu</s>), noose (<s>pāśa</s>), trident (<s>triśūla</s>), and skull-staff (<s>khaṭvāṅga</s>)! HŪṂ HŪṂ PHAṬ!\nOṂ — Homage to [him] who wears a tiger-skin garment! HŪṂ HŪṂ PHAṬ!\nOṂ — Homage to [him] whose body is of great smoky darkness! HŪṂ HŪṂ PHAṬ SVĀHĀ!"
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "godugdhasamarpaṇam |",
-      "segment_number": 116
+      "segment_number": 116,
+      "translated_text": "Offering of cow's milk."
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ sarvatathāgata cintāmṛtadhāre svāhā | dīpārpaṇam |",
-      "segment_number": 117
+      "segment_number": 117,
+      "translated_text": "OṂ <s>SARVATATHĀGATA CINTĀMṚTADHĀRE</s> SVĀHĀ. Offering of the lamp."
     },
     {
       "tag": "lg",
@@ -1128,36 +1157,39 @@
           "tag": "l",
           "attributes": {},
           "text": "netrābhirāmā bahuratnakoṣā narādhipairarcitapādapadmā |",
-          "segment_number": 118
+          "segment_number": 118,
+          "translated_text": "Pleasing to the eyes, with many jewel-treasuries, with lotus-feet worshipped by kings —"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "jñānapradīpāhatamohajālā ye dīpamālārccayanti tatra ||",
-          "segment_number": 119
+          "segment_number": 119,
+          "translated_text": "Those who offer garlands of lamps there, where the net of delusion is destroyed by the lamp of knowledge —"
         }
       ]
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "oṃ vajradīpe hrīṃ svāhā | tato mūlamantreṇāṣṭottaraśatavāramantritalājābhirye dharmeti gāthāṃ paṭhitvā devatāṃ prakiret | akāramukhetyādinā baliṃ dattvā | mañjuśriyetyādinā dakṣiṇāṃ ca samarpya sākṣatāñjalinā śatākṣaradhāraṇīṃ paṭhet | (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_165",
-          "segment_number": 121
-        },
-        {
-          "tag": "text",
-          "text": ") tato 'kṣatārpaṇārthe jalena maṇḍalaṃ kṛtvā tatra daśapuṣpāṇi pātayedebhirmantraiḥ | oṃ pīṭhāya svāhā | oṃ upapīṭhāya svāhā | oṃ kṣetrāya svāhā | oṃ upakṣetrāya svāhā | oṃ chandāya svāhā | oṃ upachandāya svāhā | oṃ melāpakāya svāhā | oṃ upamelāpakāya svāhā | oṃ śmaśānāya svāhā | oṃ upaśmaśānāya svāhā | tatra pañcopacārapūjāṃ kṛtvā baliṃ dadyāt || oṃ pīṭhopapīṭhakṣetropakṣetrachandopachanda- melāpakopamelāpakaśmaśānopaśmaśānādhivāsino vīravīreśvarīḥ sarvān bhaktitaḥ praṇamāmyaham | tato 'kṣatārpaṇasamaye vakṣyamāṇastotrāṇi paṭhet | oṃ āḥ huṃ (hūṃ) śrīmadvajrasattvetyādinā |",
-          "segment_number": 122
-        }
-      ],
-      "segment_number": 120
+      "text": "oṃ vajradīpe hrīṃ svāhā | tato mūlamantreṇāṣṭottaraśatavāramantritalājābhirye dharmeti gāthāṃ paṭhitvā devatāṃ prakiret | akāramukhetyādinā baliṃ dattvā | mañjuśriyetyādinā dakṣiṇāṃ ca samarpya sākṣatāñjalinā śatākṣaradhāraṇīṃ paṭhet |",
+      "segment_number": 120,
+      "translated_text": "OṂ <s>VAJRADĪPE</s> HRĪṂ SVĀHĀ. Then, with the root <s>mantra</s>, having empowered parched grains 108 times and having recited the <s>gāthā</s> '<s>ye dharmā</s>' (whatever phenomena arise from causes), one should scatter [them] upon the deity. Having offered the <s>bali</s> (ritual oblation) with '<s>akāramukha</s>' and so forth, and having presented the <s>dakṣiṇā</s> (ritual fee) with '<s>Mañjuśriye</s>' and so forth, one should recite the hundred-syllable <s>dhāraṇī</s> with palms joined holding unbroken rice."
+    },
+    {
+      "tag": "lg",
+      "segment_number": 121,
+      "attributes": {
+        "id": "Nkpv_165",
+        "label": "Nkpv_165"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "tato 'kṣatārpaṇārthe jalena maṇḍalaṃ kṛtvā tatra daśapuṣpāṇi pātayedebhirmantraiḥ | oṃ pīṭhāya svāhā | oṃ upapīṭhāya svāhā | oṃ kṣetrāya svāhā | oṃ upakṣetrāya svāhā | oṃ chandāya svāhā | oṃ upachandāya svāhā | oṃ melāpakāya svāhā | oṃ upamelāpakāya svāhā | oṃ śmaśānāya svāhā | oṃ upaśmaśānāya svāhā | tatra pañcopacārapūjāṃ kṛtvā baliṃ dadyāt || oṃ pīṭhopapīṭhakṣetropakṣetrachandopachanda- melāpakopamelāpakaśmaśānopaśmaśānādhivāsino vīravīreśvarīḥ sarvān bhaktitaḥ praṇamāmyaham | tato 'kṣatārpaṇasamaye vakṣyamāṇastotrāṇi paṭhet | oṃ āḥ huṃ (hūṃ) śrīmadvajrasattvetyādinā |",
+      "translated_text": "Then, for the offering of unbroken rice, having made a <s>maṇḍala</s> with water, one should drop ten flowers therein with these <s>mantras</s>: OṂ — to the <s>pīṭha</s> (seat), SVĀHĀ! OṂ — to the <s>upapīṭha</s> (secondary seat), SVĀHĀ! OṂ — to the <s>kṣetra</s> (field), SVĀHĀ! OṂ — to the <s>upakṣetra</s> (secondary field), SVĀHĀ! OṂ — to the <s>chanda</s> (desire), SVĀHĀ! OṂ — to the <s>upachanda</s> (secondary desire), SVĀHĀ! OṂ — to the <s>melāpaka</s> (gathering), SVĀHĀ! OṂ — to the <s>upamelāpaka</s> (secondary gathering), SVĀHĀ! OṂ — to the <s>śmaśāna</s> (cremation ground), SVĀHĀ! OṂ — to the <s>upaśmaśāna</s> (secondary cremation ground), SVĀHĀ! Having performed the five-fold worship (<s>pañcopacārapūjā</s>) there, one should give the <s>bali</s> offering. OṂ — I bow with devotion to all the heroes and heroines (<s>vīravīreśvarī</s>) dwelling in the <s>pīṭhas</s>, <s>upapīṭhas</s>, <s>kṣetras</s>, <s>upakṣetras</s>, <s>chandas</s>, <s>upachandas</s>, <s>melāpakas</s>, <s>upamelāpakas</s>, <s>śmaśānas</s>, and <s>upaśmaśānas</s>! Then, at the time of the unbroken-rice offering, one should recite the hymns to be described: OṂ ĀḤ HŪṂ, beginning with '<s>śrīmadvajrasattva</s>' and so forth.",
+      "segment_number": 122
     },
     {
       "tag": "lg",
@@ -1167,13 +1199,15 @@
           "tag": "l",
           "attributes": {},
           "text": "sarvajñajñānasaṃdohaṃ jagadarthaprasādhakam |",
-          "segment_number": 123
+          "segment_number": 123,
+          "translated_text": "The aggregation of omniscient knowledge, the accomplisher of the purposes of the world,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "cintāmaṇirivodbhūtaṃ śrīsaṃvara namo 'stu te ||",
-          "segment_number": 124
+          "segment_number": 124,
+          "translated_text": "Arisen like a wish-fulfilling gem (<s>cintāmaṇi</s>) — homage to you, O glorious <s>Saṃvara</s>!"
         }
       ]
     },
@@ -1185,13 +1219,15 @@
           "tag": "l",
           "attributes": {},
           "text": "vyāptaṃ viśvamahājñānaṃ sarvātmani sadā sthitam |",
-          "segment_number": 125
+          "segment_number": 125,
+          "translated_text": "The great knowledge pervading all, always abiding in the self of all,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "kṛpākrodhaṃ mahāraudraṃ śrīsaṃvara namo 'stu te ||",
-          "segment_number": 126
+          "segment_number": 126,
+          "translated_text": "Compassionate and wrathful, greatly fierce — homage to you, O glorious <s>Saṃvara</s>!"
         }
       ]
     },
@@ -1199,7 +1235,8 @@
       "tag": "p",
       "attributes": {},
       "text": "ityādi paṭhitvā kṣamārpaṇaṃ kuryāditi | tatra kṣamāpanam | śatākṣaramantroccāraṇānantaraṃ dānapatītyādinā manobhīpsitasaṃkalpavākyānantaramevaṃ kṣamārpaṇaṃ kuryāt |",
-      "segment_number": 127
+      "segment_number": 127,
+      "translated_text": "Having recited thus and so forth, one should offer the prayer for forgiveness (<s>kṣamārpaṇa</s>). Therein, the request for forgiveness: after the recitation of the hundred-syllable <s>mantra</s>, after the sentence of the desired intention beginning with '<s>dānapati</s>' (patron), one should offer the prayer for forgiveness as follows:"
     },
     {
       "tag": "lg",
@@ -1209,13 +1246,15 @@
           "tag": "l",
           "attributes": {},
           "text": "aprāptena ca prajñānamaśaktaṃ ca mayā vibho |",
-          "segment_number": 128
+          "segment_number": 128,
+          "translated_text": "O Mighty Lord, by one who has not attained wisdom, by one who is incapable — by me,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yannyūnamadhikaṃ nātha tatsarvaṃ kṣantumarhasi ||",
-          "segment_number": 129
+          "segment_number": 129,
+          "translated_text": "Whatever has been deficient or excessive, O Protector — may you forgive all that!"
         }
       ]
     },
@@ -1227,13 +1266,15 @@
           "tag": "l",
           "attributes": {},
           "text": "kṣantumarhantu saṃbuddhā devatā tad vratāśca ye |",
-          "segment_number": 130
+          "segment_number": 130,
+          "translated_text": "May the perfectly awakened <s>Buddhas</s>, the deities, and those who observe vows forgive!"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "brahmādyā lokapālāśca yāśca bhūtavidhikriyāḥ ||",
-          "segment_number": 131
+          "segment_number": 131,
+          "translated_text": "May <s>Brahmā</s> and the other world-protectors (<s>lokapāla</s>), and the rites of the spirit-beings, [also forgive]!"
         }
       ]
     },
@@ -1245,13 +1286,15 @@
           "tag": "l",
           "attributes": {},
           "text": "śāntiṃ svastiṃ ca puṣṭiṃ ca bhaktasyānugrahāya ca |",
-          "segment_number": 132
+          "segment_number": 132,
+          "translated_text": "For the sake of peace, well-being, and prosperity, and for showing grace to the devotee —"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yatkṛtaṃ duṣkṛtaṃ kiñcit mayā mūḍhadhiyā punaḥ ||",
-          "segment_number": 133
+          "segment_number": 133,
+          "translated_text": "Whatever misdeeds have been done by me, a fool of deluded mind —"
         }
       ]
     },
@@ -1263,13 +1306,15 @@
           "tag": "l",
           "attributes": {},
           "text": "kṣantavyaṃ ca tvayā nātha yadi trātāsi dehinām |",
-          "segment_number": 134
+          "segment_number": 134,
+          "translated_text": "May they be forgiven by you, O Protector, if you are the savior of embodied beings!"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "kuru dānapateḥ śāntiṃ svastiṃ puṣṭiṃ ca sarvadā ||",
-          "segment_number": 135
+          "segment_number": 135,
+          "translated_text": "Grant the patron peace, well-being, and prosperity always!"
         }
       ]
     },
@@ -1281,28 +1326,24 @@
           "tag": "l",
           "attributes": {},
           "text": "yatkṛtaṃ kāyajaṃ pāpaṃ vāgjaṃ pāpaṃ ca yatkṛtam |",
-          "segment_number": 136
+          "segment_number": 136,
+          "translated_text": "Whatever sin committed by the body, whatever sin committed by speech,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yatkṛtaṃ cittajaṃ pāpaṃ tatsarva deśayāmyaham ||",
-          "segment_number": 137
+          "segment_number": 137,
+          "translated_text": "Whatever sin committed by the mind — all that I hereby confess!"
         }
       ]
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Nkpv_166"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Nkpv_166",
+        "label": "Nkpv_166"
+      }
     },
     {
       "tag": "lg",

@@ -39,10 +39,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Āryabuddhabalādhānaprātihāryavikurvāṇanirdeśanāma Mahāyānasūtram",
           "segment_number": 1,
           "translated_text": "The Noble <s>Mahāyāna Sūtra</s> Called the Teaching on the Miraculous Display of the Buddha's Power (<s>Āryabuddhabalādhānaprātihāryavikurvāṇanirdeśa</s>)"
@@ -80,95 +77,91 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha tadā bhagavān jambudvīpe āmrapālīvanaṃ samantataḥ niyutaśatasahasrayojanavistīrṇamadhyatiṣṭhat (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "BuBal 177.18",
-          "segment_number": 7,
-          "translated_text": "(BuBal 177.18)"
-        },
-        {
-          "tag": "text",
-          "text": ") samaṃ pāṇitalamiva ca divyaṃ manoramaṃ varṇopetam / divyapuṣpavṛkṣagandhavṛkṣaphalavṛkṣamahāratnavṛkṣakalpavṛkṣavastravṛkṣādibhiralaṅkataṃ divyasaṃhāsanopetaṃ ratnapaṭṭādāmābhiprabhaṃ pītaṃ divyakiṅkiṇīdāmaśabdopaśobhitaṃ tad yathā sukhāvatīlokadhātuḥ / tathā manojñaṃ prahlādanīyaṃ premaṇīyam abhinandanīyaṃ (",
-          "segment_number": 8,
-          "translated_text": ") level as the palm of the hand, divine, delightful, endowed with color, adorned with divine flower-trees, fragrance-trees, fruit-trees, great jewel-trees, wish-fulfilling trees (<s>kalpavṛkṣa</s>), garment-trees, and the like, furnished with divine thrones, brilliant with jeweled cloth canopies, yellow, embellished with the sound of divine tinkling bell-garlands—just like the <s>Sukhāvatī</s> world-system. Thus delightful, gladdening, lovable, and rejoicing ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "BuBal 178",
-          "segment_number": 9,
-          "translated_text": "[Folio BuBal 178]"
-        },
-        {
-          "tag": "text",
-          "text": ") sarvabodhisattvaśrāvakapratyekabuddhadevanāgayakṣagandharvāsuragaruḍakinnaramahorago pāsakopāsikārājāmātyabrāhmaṇagṛhapatyākīrṇamadhyatiṣṭhat /",
-          "segment_number": 10,
-          "translated_text": ") he dwelt in the midst of all <s>bodhisattvas</s>, <s>śrāvakas</s>, <s>pratyekabuddhas</s>, <s>devas</s>, <s>nāgas</s>, <s>yakṣas</s>, <s>gandharvas</s>, <s>asuras</s>, <s>garuḍas</s>, <s>kinnaras</s>, <s>mahoragas</s>, laymen (<s>upāsakas</s>), laywomen (<s>upāsikās</s>), kings, ministers, <s>brāhmaṇas</s>, and householders."
-        }
-      ],
+      "text": "atha tadā bhagavān jambudvīpe āmrapālīvanaṃ samantataḥ niyutaśatasahasrayojanavistīrṇamadhyatiṣṭhat",
       "segment_number": 6,
       "translated_text": "Then at that time, the <s>Bhagavat</s> caused the <s>Āmrapālī</s> grove in <s>Jambudvīpa</s> to extend in all directions for hundreds of thousands of <s>niyutas</s> of <s>yojanas</s> in breadth"
     },
     {
+      "tag": "lg",
+      "segment_number": 7,
+      "attributes": {
+        "id": "BuBal_177.18",
+        "label": "BuBal 177.18"
+      }
+    },
+    {
       "tag": "p",
       "attributes": {},
-      "text": "athāryāvalokiteśvaro bodhisattvo vajrapāṇiśca samādhervyutthāya yena bhagavāṃstenopasaṅkrāntaḥ / upasaṅkramya triḥ pradakṣiṇīkṛtya bhagavantametadavocat / asti bhagavan tathāgatānāmupāyakauśalyaṃ sattvaparipākāya / bahavo bhagavan bodhisattvā mahāśrāvakā devanāgayakṣagandharvāsuragaruḍakinnaramahoragarājāmātyagṛhapatayo bhikṣubhikṣuṇyupāsakopāsikāḥ sannipatitāstathāgatatejasā ṛddhyanubhāvena / sādhu sādhu kulaputrāḥ / evameva bahavo bho jinaputrāstathāgatānāmupāyakauśalyaṃ sattvaparipākāya yathāśayānāṃ yathā vainayikakuśalamūlādhigatānāṃ nānādhimuktānāṃ sattvānāṃ cariṃ jñātvā dharmaṃ deśayanti / kecit sattvā bodhisattvavaineyāḥ kecicchrāvakavaineyāḥ kecit pratyekabuddhavaineyāḥ kecid devavaineyāḥ kecit śakravaineyāḥ kecid brahmavaineyāḥ kecinnāgavaineyāḥ kecinmahardhikavaineyāḥ kecidrājavaineyāḥ kecit samādhivaineyāḥ kecid dharmaśravaṇavaineyāḥ kecit prātihāryavaineyāḥ kecittathāgataparinirvāṇavaineyāḥ keciddhātuvaineyāḥ kecit caityakaraṇapraveśavihāracaṅkramodyānakārāpaṇakuśalamūlavaineyotsukāḥ kecit prastarapratibimbakārāpaṇālekhyasuvarṇarajataraityapratibimbakārāpaṇakuśalamūlotasukavaineyāḥ kecid bhikṣusaṅghapūjanasatkaraṇakuśalamūlotsukavaineyāḥ kecit (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "BuBal 179",
-          "segment_number": 12,
-          "translated_text": "[Folio BuBal 179]"
-        },
-        {
-          "tag": "text",
-          "text": ") sūtrapṛcchanalikhanapaṭhanapūjanot sukavaineyāḥ keciddīpapuṣpadhūpagandhamālyāhārābhyalaṅkaraṇotsukā bhavanti / na paramārthakuśalamūladharmopetā na nirvāṇadharmopetāḥ / dharmāṇāmapi ca bho jinaputrā nāsti tathāgatānāṃ kiñcidajñātaṃ vā adṛṣṭaṃ vā aśrutaṃ vā aviditaṃ vā / āgataṃ vā jānāti / anāgataṃ vā jānāti / alpaṃ vā jānāti / bahuṃ vā jānāti / atītaṃ jānāti / pratyutpannaṃ jānāti / sarvasattvānāmīryāpathaṃ jānāti / cariṃ jānāti / dhātuṃ jānāti / utpādaṃ jānāti / upapattiṃ jānāti / tadyathā bho jinaputrā vaidyaḥ suśikṣitaḥ sarvāṣṭāṅgāyurvedamupagataḥ sarvadhātukauśalyasarvadravyopakaraṇaprayogābhiyuktaḥ sattvānāṃ nānāvyādhiśarīraparipīḍitānāṃ dhātuṃ jānāti / balaṃ jānāti / velaṃ jānāti / auṣadhaṃ jānāti / vātikaṃ paittikaṃ ślaiṣmikaṃ sānnipātikaṃ\nrudhiram āmajaṃ gulmikaṃ jalodaraṃ hṛdarogaṃ kuṣṭhaṃ kaṇḍūṃ dadruṃ piṭakādīn viṣavaisarpādīn jānāti / sa sarvaṃ jñātvā nānāvidhāni dravyauṣadhāni prayojya vamanavirecanacūrṇayoganastukarmasīrābandhanadhṛtatailabālacūrṇayogena pācanavanamaprayogopāyaiḥ sarvasattvānāṃ tān savavyādhīnupaśamayati / nānāvyādhitaḥ parimokṣyante nānāvyādhibhayebhyaśca / evameva bho jinaputrāstathāgato nānāsamādhiṛddhipādabalavaiśāradyadivyacakṣuḥśrotrādibhiraṣṭāṅgāyurvedasamanvāgataḥ nānādhātvāśayaprayogakuśalaḥ rāgadveṣamohavyādhikleśopakleśavyādhipīḍītānāṃ (",
-          "segment_number": 13,
-          "translated_text": ") are eager to be disciplined through questioning about, writing, reading, and worshipping <s>sūtras</s>; some become eager for lamps, flowers, incense, perfume, garlands, food, and ornamental offerings. [Yet they are] not endowed with the <s>dharma</s> of ultimate wholesome roots, not endowed with the <s>dharma</s> of <s>nirvāṇa</s>. And, O sons of the Conqueror, of <s>dharmas</s> there is nothing unknown, unseen, unheard, or uncomprehended by the <s>Tathāgatas</s>. They know the past; they know the future; they know the little; they know the great; they know what has passed; they know what is present; they know the deportment of all beings; they know their conduct; they know their dispositions (<s>dhātu</s>); they know their arising; they know their rebirth. O sons of the Conqueror, just as a physician, well-trained and versed in the entire eightfold <s>Āyurveda</s>, skilled in all constitutions (<s>dhātu</s>) and proficient in the application of all medicines and remedies, knows the constitution, strength, time, and medicine for beings afflicted by various diseases in the body—he knows diseases caused by wind (<s>vātika</s>), by bile (<s>paittika</s>), by phlegm (<s>ślaiṣmika</s>), by the combination of humors (<s>sānnipātika</s>), by blood, by indigestion, abdominal tumors, dropsy, heart disease, leprosy, itching, ringworm, boils, poisons, erysipelas, and the like. Having known all this, he applies various medicinal substances—through emetics, purgatives, powders, compounded preparations, nasal treatments, cauterization, binding, the application of ghee, oils, powders for children, and through methods of ripening and emitting—he allays all those diseases of all beings. They are freed from various diseases and from the fear of various diseases. Even so, O sons of the Conqueror, the <s>Tathāgata</s>, endowed with the eightfold <s>Āyurveda</s> [consisting of] various <s>samādhis</s>, <s>ṛddhi</s> (supernatural powers), <s>balas</s> (powers), <s>vaiśāradyas</s> (fearlessnesses), divine eye, divine ear, and the like, skilled in the application of various constitutions and dispositions, for those beings afflicted by the diseases of <s>kleśas</s> (afflictions) and <s>upakleśas</s> (secondary afflictions)—namely the diseases of passion (<s>rāga</s>), hatred (<s>dveṣa</s>), and delusion (<s>moha</s>) ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "BuBal 180",
-          "segment_number": 14,
-          "translated_text": "[Folio BuBal 180]"
-        },
-        {
-          "tag": "text",
-          "text": ") sattvānāṃ mānamadamattatā vṛtānāṃ kāmaśokabhayakrodhāvṛtānāṃ narakatiryagyoniyamalokabhūmiparimokṣaṇārthaṃ nānopāyakauśalyairnānāprakārayogaiḥ nānāsamādhiṛddhivikrīḍitaiḥ sattvān parimocayati / yāvadanuttarāyāṃ samyakambodhau pratiṣṭhāpyānupadhiśeṣe nirvāṇadhātau parinirvāpayati / akuśalairdhamaiḥ parimokṣyate / āryāṣṭāṅge mārge pratiṣṭhāpayati / tadyathāpi kulaputrāḥ candramaṇḍalamupāyākauśalya samanvāgataṃ yathādhātukuśalamūlavaineyān sattvānāmarthāya ātmānamantarhitaṃ darśayati / ardhacandrākṛtimaṇḍalamupadarśayati / kṛṣṇapakṣaśuklapakṣāṇyupadarśayati /\nparipūrṇacandramaṇḍalamupadarśayati / sarvatamo 'ndhakāraṃ vidhamayati / sarvatṛṇavanagulmauṣadhiphalādīn prahlādayati / evameva bho jinaputrāḥ tathāgatānāṃ nānāduḥkhāvṛtānāṃ sattvānāṃ nānādhātuvaineyānāṃ sattvānāṃ mārgacaryākauśalyaṃ parinirvāṇaṃ darśayati / jātiṃ darśayati / cakravartirājyaṃ darśayati / krīḍāratistrīhāsyalāsyagandhamālyaratikrīḍāṃ darśayati / gṛhatyāgapravrajyāduṣkaracaryāṃ darśayati / mārabaladamanadharma cakrapravartanaṃ darśayati / yāvanmahādharmameghavṛṣṭayā sarvasattvānāṃ santoṣaṇamupadarśayati / parinirvṛtā api tathāgatā nānāprayogadhātupūjanastūpavihārapratibimbakārāpaṇapravrajyābhiniṣkramaṇabhikṣusaṅghasatkāravinayadharmalikhanavācanapaṭhanādeva sarvasattvān mokṣayanti / śikṣādhāraṇavrataniyamopavāsasaṃvaragrahaṇopāyakuśalaiḥ sarvasattvān mokṣayanti / (",
-          "segment_number": 15,
-          "translated_text": "For the sake of liberating beings who are intoxicated with the pride and arrogance, who are enveloped by desire, grief, fear, and anger, from the realms of hell, animal birth, and the world of <s>Yama</s>, he liberates beings through various skillful means (<s>upāyakauśalya</s>), various modes of practice, and various miraculous displays of <s>samādhi</s> and supernatural powers. He establishes them in unsurpassed perfect awakening (<s>anuttarā samyaksaṃbodhi</s>) and brings them to final <s>nirvāṇa</s> in the <s>nirvāṇadhātu</s> without remainder of clinging (<s>anupadhiśeṣa</s>). He liberates them from unwholesome <s>dharmas</s>. He establishes them on the Noble Eightfold Path (<s>āryāṣṭāṅga mārga</s>). Just as, O sons of good family, the orb of the moon, endowed with skillful means, for the benefit of beings to be trained according to their dispositions and roots of merit, displays itself as hidden, displays the form of a half-moon, displays the dark and bright fortnights, displays the full moon orb, dispels all darkness and gloom, and refreshes all grasses, forests, shrubs, herbs, and fruits — even so, O sons of the <s>Jina</s> (Conqueror), the <s>Tathāgatas</s>, through their skill in the path-practice for beings enveloped in various sufferings and to be trained according to various dispositions, display <s>parinirvāṇa</s>, display birth, display universal kingship (<s>cakravartirājya</s>), display amusement, pleasure, women, laughter, dance, garlands, fragrance, and sport, display the renunciation of the household and the going forth to the practice of austerities (<s>duṣkaracaryā</s>), display the turning of the wheel of <s>Dharma</s> which subdues the forces of <s>Māra</s>, and display the satisfaction of all beings through the great rain-cloud of <s>Dharma</s>. Even when <s>Tathāgatas</s> have attained <s>parinirvāṇa</s>, they liberate all beings through various means: through the veneration of relics (<s>dhātu</s>), through <s>stūpas</s> and <s>vihāras</s>, through the making of images, through going forth, through renunciation, through honoring the assembly of <s>bhikṣus</s>, through <s>Vinaya</s>, through writing, reciting, and reading the <s>Dharma</s>. Through skillful means of training, observances, vows, regulations, fasting, and taking of precepts, they liberate all beings."
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "BuBal 181",
-          "segment_number": 16,
-          "translated_text": "[BuBal 181]"
-        },
-        {
-          "tag": "text",
-          "text": ") sarvanarakatiryagyoniyamalokākṣaṇāpāyadurgatibhyo yāvat prahlādayanti / dharmaśravaṇena anuttarāyāṃ samyaksambodhau sthāpayanti /",
-          "segment_number": 17,
-          "translated_text": "From all the hells, animal births, the world of <s>Yama</s>, the states of deprivation, and evil destinies, they bring refreshment. Through hearing the <s>Dharma</s>, they establish [beings] in unsurpassed perfect awakening (<s>anuttarā samyaksaṃbodhi</s>)."
-        }
-      ],
+      "text": "samaṃ pāṇitalamiva ca divyaṃ manoramaṃ varṇopetam / divyapuṣpavṛkṣagandhavṛkṣaphalavṛkṣamahāratnavṛkṣakalpavṛkṣavastravṛkṣādibhiralaṅkataṃ divyasaṃhāsanopetaṃ ratnapaṭṭādāmābhiprabhaṃ pītaṃ divyakiṅkiṇīdāmaśabdopaśobhitaṃ tad yathā sukhāvatīlokadhātuḥ / tathā manojñaṃ prahlādanīyaṃ premaṇīyam abhinandanīyaṃ",
+      "translated_text": "level as the palm of the hand, divine, delightful, endowed with color, adorned with divine flower-trees, fragrance-trees, fruit-trees, great jewel-trees, wish-fulfilling trees (<s>kalpavṛkṣa</s>), garment-trees, and the like, furnished with divine thrones, brilliant with jeweled cloth canopies, yellow, embellished with the sound of divine tinkling bell-garlands—just like the <s>Sukhāvatī</s> world-system. Thus delightful, gladdening, lovable, and rejoicing",
+      "segment_number": 8
+    },
+    {
+      "tag": "lg",
+      "segment_number": 9,
+      "attributes": {
+        "id": "BuBal_178",
+        "label": "BuBal 178"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarvabodhisattvaśrāvakapratyekabuddhadevanāgayakṣagandharvāsuragaruḍakinnaramahorago pāsakopāsikārājāmātyabrāhmaṇagṛhapatyākīrṇamadhyatiṣṭhat /",
+      "translated_text": "he dwelt in the midst of all <s>bodhisattvas</s>, <s>śrāvakas</s>, <s>pratyekabuddhas</s>, <s>devas</s>, <s>nāgas</s>, <s>yakṣas</s>, <s>gandharvas</s>, <s>asuras</s>, <s>garuḍas</s>, <s>kinnaras</s>, <s>mahoragas</s>, laymen (<s>upāsakas</s>), laywomen (<s>upāsikās</s>), kings, ministers, <s>brāhmaṇas</s>, and householders.",
+      "segment_number": 10
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "athāryāvalokiteśvaro bodhisattvo vajrapāṇiśca samādhervyutthāya yena bhagavāṃstenopasaṅkrāntaḥ / upasaṅkramya triḥ pradakṣiṇīkṛtya bhagavantametadavocat / asti bhagavan tathāgatānāmupāyakauśalyaṃ sattvaparipākāya / bahavo bhagavan bodhisattvā mahāśrāvakā devanāgayakṣagandharvāsuragaruḍakinnaramahoragarājāmātyagṛhapatayo bhikṣubhikṣuṇyupāsakopāsikāḥ sannipatitāstathāgatatejasā ṛddhyanubhāvena / sādhu sādhu kulaputrāḥ / evameva bahavo bho jinaputrāstathāgatānāmupāyakauśalyaṃ sattvaparipākāya yathāśayānāṃ yathā vainayikakuśalamūlādhigatānāṃ nānādhimuktānāṃ sattvānāṃ cariṃ jñātvā dharmaṃ deśayanti / kecit sattvā bodhisattvavaineyāḥ kecicchrāvakavaineyāḥ kecit pratyekabuddhavaineyāḥ kecid devavaineyāḥ kecit śakravaineyāḥ kecid brahmavaineyāḥ kecinnāgavaineyāḥ kecinmahardhikavaineyāḥ kecidrājavaineyāḥ kecit samādhivaineyāḥ kecid dharmaśravaṇavaineyāḥ kecit prātihāryavaineyāḥ kecittathāgataparinirvāṇavaineyāḥ keciddhātuvaineyāḥ kecit caityakaraṇapraveśavihāracaṅkramodyānakārāpaṇakuśalamūlavaineyotsukāḥ kecit prastarapratibimbakārāpaṇālekhyasuvarṇarajataraityapratibimbakārāpaṇakuśalamūlotasukavaineyāḥ kecid bhikṣusaṅghapūjanasatkaraṇakuśalamūlotsukavaineyāḥ kecit",
       "segment_number": 11,
-      "translated_text": "Then the noble <s>Avalokiteśvara</s>, the <s>Bodhisattva</s>, and <s>Vajrapāṇi</s>, arising from <s>samādhi</s> (meditative concentration), approached the <s>Bhagavat</s>. Having approached and circumambulated the <s>Bhagavat</s> three times, they spoke thus to the <s>Bhagavat</s>: 'O <s>Bhagavat</s>, the <s>Tathāgatas</s> possess <s>upāyakauśalya</s> (skillful means) for the ripening of beings. O <s>Bhagavat</s>, many <s>bodhisattvas</s>, great <s>śrāvakas</s>, <s>devas</s>, <s>nāgas</s>, <s>yakṣas</s>, <s>gandharvas</s>, <s>asuras</s>, <s>garuḍas</s>, <s>kinnaras</s>, <s>mahoragas</s>, kings, ministers, householders, <s>bhikṣus</s>, <s>bhikṣuṇīs</s>, <s>upāsakas</s>, and <s>upāsikās</s> have assembled through the splendor and supernatural power of the <s>Tathāgata</s>.' 'Excellent, excellent, sons of the Conqueror! Indeed, O sons of the Conqueror, the <s>Tathāgatas</s> possess <s>upāyakauśalya</s> for the ripening of beings. Knowing the conduct of beings with various dispositions, various inclinations, and various attainments of wholesome roots to be disciplined, they teach the <s>Dharma</s>. Some beings are to be disciplined by <s>bodhisattvas</s>; some by <s>śrāvakas</s>; some by <s>pratyekabuddhas</s>; some by <s>devas</s>; some by <s>Śakra</s>; some by <s>Brahma</s>; some by <s>nāgas</s>; some by those of great supernatural power; some by kings; some by <s>samādhi</s>; some by hearing the <s>Dharma</s>; some by miracles (<s>prātihārya</s>); some by the <s>parinirvāṇa</s> of the <s>Tathāgata</s>; some by relics (<s>dhātu</s>); some are eager for wholesome roots through building <s>caityas</s> (shrines), entering <s>vihāras</s> (monasteries), walking paths, gardens, and workshops; some are eager for wholesome roots through the making of stone images, painted images, gold and silver images, and crystal images in workshops; some are eager for wholesome roots through honoring and revering the <s>Saṅgha</s> of <s>bhikṣus</s>; some ("
+      "translated_text": "Then the noble <s>Avalokiteśvara</s>, the <s>Bodhisattva</s>, and <s>Vajrapāṇi</s>, arising from <s>samādhi</s> (meditative concentration), approached the <s>Bhagavat</s>. Having approached and circumambulated the <s>Bhagavat</s> three times, they spoke thus to the <s>Bhagavat</s>: 'O <s>Bhagavat</s>, the <s>Tathāgatas</s> possess <s>upāyakauśalya</s> (skillful means) for the ripening of beings. O <s>Bhagavat</s>, many <s>bodhisattvas</s>, great <s>śrāvakas</s>, <s>devas</s>, <s>nāgas</s>, <s>yakṣas</s>, <s>gandharvas</s>, <s>asuras</s>, <s>garuḍas</s>, <s>kinnaras</s>, <s>mahoragas</s>, kings, ministers, householders, <s>bhikṣus</s>, <s>bhikṣuṇīs</s>, <s>upāsakas</s>, and <s>upāsikās</s> have assembled through the splendor and supernatural power of the <s>Tathāgata</s>.' 'Excellent, excellent, sons of the Conqueror! Indeed, O sons of the Conqueror, the <s>Tathāgatas</s> possess <s>upāyakauśalya</s> for the ripening of beings. Knowing the conduct of beings with various dispositions, various inclinations, and various attainments of wholesome roots to be disciplined, they teach the <s>Dharma</s>. Some beings are to be disciplined by <s>bodhisattvas</s>; some by <s>śrāvakas</s>; some by <s>pratyekabuddhas</s>; some by <s>devas</s>; some by <s>Śakra</s>; some by <s>Brahma</s>; some by <s>nāgas</s>; some by those of great supernatural power; some by kings; some by <s>samādhi</s>; some by hearing the <s>Dharma</s>; some by miracles (<s>prātihārya</s>); some by the <s>parinirvāṇa</s> of the <s>Tathāgata</s>; some by relics (<s>dhātu</s>); some are eager for wholesome roots through building <s>caityas</s> (shrines), entering <s>vihāras</s> (monasteries), walking paths, gardens, and workshops; some are eager for wholesome roots through the making of stone images, painted images, gold and silver images, and crystal images in workshops; some are eager for wholesome roots through honoring and revering the <s>Saṅgha</s> of <s>bhikṣus</s>; some"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 12,
+      "attributes": {
+        "id": "BuBal_179",
+        "label": "BuBal 179"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sūtrapṛcchanalikhanapaṭhanapūjanot sukavaineyāḥ keciddīpapuṣpadhūpagandhamālyāhārābhyalaṅkaraṇotsukā bhavanti / na paramārthakuśalamūladharmopetā na nirvāṇadharmopetāḥ / dharmāṇāmapi ca bho jinaputrā nāsti tathāgatānāṃ kiñcidajñātaṃ vā adṛṣṭaṃ vā aśrutaṃ vā aviditaṃ vā / āgataṃ vā jānāti / anāgataṃ vā jānāti / alpaṃ vā jānāti / bahuṃ vā jānāti / atītaṃ jānāti / pratyutpannaṃ jānāti / sarvasattvānāmīryāpathaṃ jānāti / cariṃ jānāti / dhātuṃ jānāti / utpādaṃ jānāti / upapattiṃ jānāti / tadyathā bho jinaputrā vaidyaḥ suśikṣitaḥ sarvāṣṭāṅgāyurvedamupagataḥ sarvadhātukauśalyasarvadravyopakaraṇaprayogābhiyuktaḥ sattvānāṃ nānāvyādhiśarīraparipīḍitānāṃ dhātuṃ jānāti / balaṃ jānāti / velaṃ jānāti / auṣadhaṃ jānāti / vātikaṃ paittikaṃ ślaiṣmikaṃ sānnipātikaṃ\nrudhiram āmajaṃ gulmikaṃ jalodaraṃ hṛdarogaṃ kuṣṭhaṃ kaṇḍūṃ dadruṃ piṭakādīn viṣavaisarpādīn jānāti / sa sarvaṃ jñātvā nānāvidhāni dravyauṣadhāni prayojya vamanavirecanacūrṇayoganastukarmasīrābandhanadhṛtatailabālacūrṇayogena pācanavanamaprayogopāyaiḥ sarvasattvānāṃ tān savavyādhīnupaśamayati / nānāvyādhitaḥ parimokṣyante nānāvyādhibhayebhyaśca / evameva bho jinaputrāstathāgato nānāsamādhiṛddhipādabalavaiśāradyadivyacakṣuḥśrotrādibhiraṣṭāṅgāyurvedasamanvāgataḥ nānādhātvāśayaprayogakuśalaḥ rāgadveṣamohavyādhikleśopakleśavyādhipīḍītānāṃ",
+      "translated_text": "are eager to be disciplined through questioning about, writing, reading, and worshipping <s>sūtras</s>; some become eager for lamps, flowers, incense, perfume, garlands, food, and ornamental offerings. [Yet they are] not endowed with the <s>dharma</s> of ultimate wholesome roots, not endowed with the <s>dharma</s> of <s>nirvāṇa</s>. And, O sons of the Conqueror, of <s>dharmas</s> there is nothing unknown, unseen, unheard, or uncomprehended by the <s>Tathāgatas</s>. They know the past; they know the future; they know the little; they know the great; they know what has passed; they know what is present; they know the deportment of all beings; they know their conduct; they know their dispositions (<s>dhātu</s>); they know their arising; they know their rebirth. O sons of the Conqueror, just as a physician, well-trained and versed in the entire eightfold <s>Āyurveda</s>, skilled in all constitutions (<s>dhātu</s>) and proficient in the application of all medicines and remedies, knows the constitution, strength, time, and medicine for beings afflicted by various diseases in the body—he knows diseases caused by wind (<s>vātika</s>), by bile (<s>paittika</s>), by phlegm (<s>ślaiṣmika</s>), by the combination of humors (<s>sānnipātika</s>), by blood, by indigestion, abdominal tumors, dropsy, heart disease, leprosy, itching, ringworm, boils, poisons, erysipelas, and the like. Having known all this, he applies various medicinal substances—through emetics, purgatives, powders, compounded preparations, nasal treatments, cauterization, binding, the application of ghee, oils, powders for children, and through methods of ripening and emitting—he allays all those diseases of all beings. They are freed from various diseases and from the fear of various diseases. Even so, O sons of the Conqueror, the <s>Tathāgata</s>, endowed with the eightfold <s>Āyurveda</s> [consisting of] various <s>samādhis</s>, <s>ṛddhi</s> (supernatural powers), <s>balas</s> (powers), <s>vaiśāradyas</s> (fearlessnesses), divine eye, divine ear, and the like, skilled in the application of various constitutions and dispositions, for those beings afflicted by the diseases of <s>kleśas</s> (afflictions) and <s>upakleśas</s> (secondary afflictions)—namely the diseases of passion (<s>rāga</s>), hatred (<s>dveṣa</s>), and delusion (<s>moha</s>)",
+      "segment_number": 13
+    },
+    {
+      "tag": "lg",
+      "segment_number": 14,
+      "attributes": {
+        "id": "BuBal_180",
+        "label": "BuBal 180"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sattvānāṃ mānamadamattatā vṛtānāṃ kāmaśokabhayakrodhāvṛtānāṃ narakatiryagyoniyamalokabhūmiparimokṣaṇārthaṃ nānopāyakauśalyairnānāprakārayogaiḥ nānāsamādhiṛddhivikrīḍitaiḥ sattvān parimocayati / yāvadanuttarāyāṃ samyakambodhau pratiṣṭhāpyānupadhiśeṣe nirvāṇadhātau parinirvāpayati / akuśalairdhamaiḥ parimokṣyate / āryāṣṭāṅge mārge pratiṣṭhāpayati / tadyathāpi kulaputrāḥ candramaṇḍalamupāyākauśalya samanvāgataṃ yathādhātukuśalamūlavaineyān sattvānāmarthāya ātmānamantarhitaṃ darśayati / ardhacandrākṛtimaṇḍalamupadarśayati / kṛṣṇapakṣaśuklapakṣāṇyupadarśayati /\nparipūrṇacandramaṇḍalamupadarśayati / sarvatamo 'ndhakāraṃ vidhamayati / sarvatṛṇavanagulmauṣadhiphalādīn prahlādayati / evameva bho jinaputrāḥ tathāgatānāṃ nānāduḥkhāvṛtānāṃ sattvānāṃ nānādhātuvaineyānāṃ sattvānāṃ mārgacaryākauśalyaṃ parinirvāṇaṃ darśayati / jātiṃ darśayati / cakravartirājyaṃ darśayati / krīḍāratistrīhāsyalāsyagandhamālyaratikrīḍāṃ darśayati / gṛhatyāgapravrajyāduṣkaracaryāṃ darśayati / mārabaladamanadharma cakrapravartanaṃ darśayati / yāvanmahādharmameghavṛṣṭayā sarvasattvānāṃ santoṣaṇamupadarśayati / parinirvṛtā api tathāgatā nānāprayogadhātupūjanastūpavihārapratibimbakārāpaṇapravrajyābhiniṣkramaṇabhikṣusaṅghasatkāravinayadharmalikhanavācanapaṭhanādeva sarvasattvān mokṣayanti / śikṣādhāraṇavrataniyamopavāsasaṃvaragrahaṇopāyakuśalaiḥ sarvasattvān mokṣayanti /",
+      "translated_text": "For the sake of liberating beings who are intoxicated with the pride and arrogance, who are enveloped by desire, grief, fear, and anger, from the realms of hell, animal birth, and the world of <s>Yama</s>, he liberates beings through various skillful means (<s>upāyakauśalya</s>), various modes of practice, and various miraculous displays of <s>samādhi</s> and supernatural powers. He establishes them in unsurpassed perfect awakening (<s>anuttarā samyaksaṃbodhi</s>) and brings them to final <s>nirvāṇa</s> in the <s>nirvāṇadhātu</s> without remainder of clinging (<s>anupadhiśeṣa</s>). He liberates them from unwholesome <s>dharmas</s>. He establishes them on the Noble Eightfold Path (<s>āryāṣṭāṅga mārga</s>). Just as, O sons of good family, the orb of the moon, endowed with skillful means, for the benefit of beings to be trained according to their dispositions and roots of merit, displays itself as hidden, displays the form of a half-moon, displays the dark and bright fortnights, displays the full moon orb, dispels all darkness and gloom, and refreshes all grasses, forests, shrubs, herbs, and fruits — even so, O sons of the <s>Jina</s> (Conqueror), the <s>Tathāgatas</s>, through their skill in the path-practice for beings enveloped in various sufferings and to be trained according to various dispositions, display <s>parinirvāṇa</s>, display birth, display universal kingship (<s>cakravartirājya</s>), display amusement, pleasure, women, laughter, dance, garlands, fragrance, and sport, display the renunciation of the household and the going forth to the practice of austerities (<s>duṣkaracaryā</s>), display the turning of the wheel of <s>Dharma</s> which subdues the forces of <s>Māra</s>, and display the satisfaction of all beings through the great rain-cloud of <s>Dharma</s>. Even when <s>Tathāgatas</s> have attained <s>parinirvāṇa</s>, they liberate all beings through various means: through the veneration of relics (<s>dhātu</s>), through <s>stūpas</s> and <s>vihāras</s>, through the making of images, through going forth, through renunciation, through honoring the assembly of <s>bhikṣus</s>, through <s>Vinaya</s>, through writing, reciting, and reading the <s>Dharma</s>. Through skillful means of training, observances, vows, regulations, fasting, and taking of precepts, they liberate all beings.",
+      "segment_number": 15
+    },
+    {
+      "tag": "lg",
+      "segment_number": 16,
+      "attributes": {
+        "id": "BuBal_181",
+        "label": "BuBal 181"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sarvanarakatiryagyoniyamalokākṣaṇāpāyadurgatibhyo yāvat prahlādayanti / dharmaśravaṇena anuttarāyāṃ samyaksambodhau sthāpayanti /",
+      "translated_text": "From all the hells, animal births, the world of <s>Yama</s>, the states of deprivation, and evil destinies, they bring refreshment. Through hearing the <s>Dharma</s>, they establish [beings] in unsurpassed perfect awakening (<s>anuttarā samyaksaṃbodhi</s>).",
+      "segment_number": 17
     },
     {
       "tag": "p",
@@ -180,50 +173,46 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "atha mañjuśrīḥ kumārabhūtasteṣāṃ devaputrāṇāṃ cetasaiva cittamājñāya tān devaputrānetadavocat / devaputrā mā evaṃ cintayata mā pravyāharata / mā dinamanaso bhavata / bahūnitathāgatānāmupāyakuśalanānopāyaprajñāsamādhyādikuśalamūlabalapraṇidhānāni nānāśayānāṃ sattvānāṃ dharmaṃ deśayanti / yathā mayā devaputrāḥ tathāgatānāṃ pūrvakāṇāṃ tathāgatopāyakauśalyam ṛddhivikurvāṇaprātihāryaṃ dṛṣṭaṃ tathāhaṃ jānāmi / mā hi eva tathāgato buddhabalādhānaprātihāryaṃ nāma mahāsūtrarājaṃ prakāśayitukāmo 'tireka kartukāmaḥ / api ca devaputrā na tathāgatāḥ parinirvānti / na tathāgatānāṃ parinirvāṇaṃ saṃvidyate / na āyuḥkṣayo bhavati / (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "BuBal 182",
-          "segment_number": 20,
-          "translated_text": "[BuBal 182]"
-        },
-        {
-          "tag": "text",
-          "text": ") aprameyakalpakoṭīm anabhilāpyākalpāstathāgatāḥ tiṣṭhanti /",
-          "segment_number": 21,
-          "translated_text": "<s>Tathāgatas</s> abide for immeasurable <s>koṭis</s> (tens of millions) of <s>kalpas</s> (aeons), for inexpressible aeons."
-        }
-      ],
+      "text": "atha mañjuśrīḥ kumārabhūtasteṣāṃ devaputrāṇāṃ cetasaiva cittamājñāya tān devaputrānetadavocat / devaputrā mā evaṃ cintayata mā pravyāharata / mā dinamanaso bhavata / bahūnitathāgatānāmupāyakuśalanānopāyaprajñāsamādhyādikuśalamūlabalapraṇidhānāni nānāśayānāṃ sattvānāṃ dharmaṃ deśayanti / yathā mayā devaputrāḥ tathāgatānāṃ pūrvakāṇāṃ tathāgatopāyakauśalyam ṛddhivikurvāṇaprātihāryaṃ dṛṣṭaṃ tathāhaṃ jānāmi / mā hi eva tathāgato buddhabalādhānaprātihāryaṃ nāma mahāsūtrarājaṃ prakāśayitukāmo 'tireka kartukāmaḥ / api ca devaputrā na tathāgatāḥ parinirvānti / na tathāgatānāṃ parinirvāṇaṃ saṃvidyate / na āyuḥkṣayo bhavati /",
       "segment_number": 19,
       "translated_text": "Then <s>Mañjuśrī</s>, the youthful prince, knowing with his mind the thoughts of those <s>devaputras</s>, spoke thus to them: 'O <s>devaputras</s>, do not think thus, do not speak thus, do not be dejected in mind! The <s>Tathāgatas</s> have many skillful means — various means, wisdom, <s>samādhi</s>, and other roots of merit, powers, and vows — and they teach the <s>Dharma</s> to beings of various dispositions. O <s>devaputras</s>, as I have seen the skillful means and miraculous supernatural displays of the former <s>Tathāgatas</s>, so do I know. Do not think that the <s>Tathāgata</s> wishes to proclaim this great sūtra-king called <s>Buddhabalādhānaprātihārya</s> (the Supernatural Display of the Buddha's Power) in order to make an excess [i.e., to pass away]. Moreover, O <s>devaputras</s>, <s>Tathāgatas</s> do not attain <s>parinirvāṇa</s>. The <s>parinirvāṇa</s> of <s>Tathāgatas</s> does not exist. Their lifespan does not come to an end."
     },
     {
+      "tag": "lg",
+      "segment_number": 20,
+      "attributes": {
+        "id": "BuBal_182",
+        "label": "BuBal 182"
+      }
+    },
+    {
       "tag": "p",
       "attributes": {},
-      "text": "api ca upāyakauśalyena sattvānāṃ parinirvāṇaṃ darśayanti / na cākrāntirna saṅkrāntiḥ tathāgatānāṃ saṃvidyate / saddharmāntardhānaṃ darśayanti / yathā yathā sattvān paśyati parinirvāṇavaineyaḥ dhātuvaineyaḥ kaṣāyikajātīyaḥ tathāgate aśraddadhānatām aguruśuśrūṣitāṃ gacchati tathā tathāgataḥ parinirvāṇaṃ darśayati na cākrāntirna saṅkrāntistathāgatānāṃ saṃvidyate / sarvasattvāḥ paripakvakuśalamūlā bhavanti / tathāgate darśanābhikāṅkṣiṇaḥ pūjārhāḥ dharmaśravaṇāthikāḥ / candramaṇḍalaṃ yathā rocate tathā tadā tathāgatā loka utpadyante bahujanahitāya bahujanasukhāya /\nyāvaddevānāṃ ca munuṣyāṇāṃ ca triratnoddayotanāya sphuṭanāya na ca tathāgatānāṃ jātiḥ saṃvidyate / tad yathāpi nāma kulaputrāḥ ādarśamaṇḍale sumṛṣṭe nānā rūpāṇi dṛśyante dṛśyaṃ na saṃvidyate na tatrāgamo dṛśyate na nirgamaḥ pratibimbasya evameva devaputrāḥ tathāgatakāyo draṣṭavyaḥ / tad yathāpi nāma kulaputrā māyakāraḥsuśikṣitaḥ nānānagaratoraṇodyānāṃ nānārathāṃ cakravartirūpāṃ nānāratikrīḍāṃ darśayitvā antardhāpayati na ca tasyāḥ krāntirdṛśyate na āgamo na nirgamaḥ evameva tathāgatānāmutapādaparinirvāṇaṃ draṣṭavyam / api ca devaputrāḥ pūrvapraṇidhānena tathāgatāḥ parinirvṛtā api kalpaparinirvṛtā api kalpakoṭīparinirvṛtā api sattvānāṃ pūjanasatkaraṇadhātustūpakārāpaṇapratibimbakārāpaṇanāmadheyagrahaṇasaddharmadhāraṇapūjanā (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "BuBal 183",
-          "segment_number": 23,
-          "translated_text": "(BuBal 183)"
-        },
-        {
-          "tag": "text",
-          "text": ") nānālokadhātuvyavasthitā api mokṣayanti sarvanarakatiryagyoniyamalokākṣaṇadurgativinipātebhyaḥ sarvaduḥkhebhyaḥ yāvadanupūrveṇa anuttarāṃ samyaksambodhimabhisambudhyate / kaḥ punarvādo ye tathāgatān pratyakṣapūjayā pūjayiṣyanti gandhapuṣpamālyavilepanavastrābharaṇaiḥ / ye ca devaputrāḥ kecit sattvā varṣaśatasahasrakalpakoṭīparinirvṛtān prāñjalibhūtān ekavārān nāmadheyaṃ grahīṣyanti 'namo buddhāyeti ' kṛtvā puṣpamākāśe kṣepasyanti te sarve duḥkhasyāntaṃ kariṣyanti / tiṣṭhatvākāśe puṣpaṃ ye kecit sattvāḥ anuśikṣamāṇāstathāgatapūjārthāya ekatathāgataśikṣāmapi dhārayiṣyanti ekadivasam ekarātrimuhūrtaṃ tathāgatapūjanacintābhiyuktāḥ sarvaduḥkhasyāntaṃ kṛtvānupūrveṇānuttarāṃ samyaksambodhimabhisambodhiṣyanti / ye ca tathāgatapūjāyāṃ diśyasikanāma....vāpi hāsyalāsyabālaratikrīḍanakameva kārayiṣyanti sarve te duḥkhasyāntaṃ kṛtvānuttarāṃ samyaksambodhimabhisambodhiṣyanti kaḥ punarvādo ye dhātustūpaṃ dhātupratimāṃ vā kṛtvā sarvasattvadayāparajñāḥ 'sarvasattvān duḥkhebhyaḥ parimocayiṣyāmīti ' anuttarāyāṃ samyaksambodhau cittamutpādya divyapuṣpagandhamālyavilepanacūrṇatūryacchatradhvajapatākābhiḥ pūjayiṣyanti darśayiṣyanti tejātijarāmaraṇaduḥkhopāyāsebhyaḥ parimokṣyante /",
-          "segment_number": 24,
-          "translated_text": "even though [the <s>Tathāgatas</s>] are established in various world-realms, they liberate [beings] from all hells, animal births, the realm of <s>Yama</s>, the states of woe, and the downfalls of unfortunate destinies, and from all sufferings, until gradually they fully awaken to unsurpassed perfect awakening (<s>anuttarā samyaksaṃbodhi</s>). How much more so those who will worship the <s>Tathāgatas</s> with direct offerings of incense, flowers, garlands, ointments, garments, and ornaments! O <s>devaputras</s>, whatever beings, even after a hundred thousand <s>koṭīs</s> of <s>kalpas</s> since the <s>Tathāgata's</s> <s>parinirvāṇa</s>, with joined palms, even once take up the name saying 'Homage to the <s>Buddha</s>' and cast a flower into the sky — they will all make an end of suffering. Let alone casting a flower into the sky — whatever beings, following the teaching, for the sake of worshipping the <s>Tathāgata</s>, will uphold even a single instruction of the <s>Tathāgata</s> for one day, one night, or one moment, intent upon the thought of worshipping the <s>Tathāgata</s> — having made an end of all suffering, they will gradually fully awaken to unsurpassed perfect awakening. And those who, for the sake of worshipping the <s>Tathāgata</s>, will perform even playful, sportive, childish amusements — they will all, having made an end of suffering, fully awaken to unsurpassed perfect awakening. How much more so those who, having constructed a relic <s>stūpa</s> or a relic image, being foremost in compassion for all beings, having generated the thought of unsurpassed perfect awakening with the resolve 'I shall liberate all beings from suffering,' will worship with divine flowers, incense, garlands, ointments, powders, music, parasols, banners, and flags — they will be shown [the path] and will be liberated from the sufferings of birth, old age, death, and anguish."
-        }
-      ],
+      "text": "aprameyakalpakoṭīm anabhilāpyākalpāstathāgatāḥ tiṣṭhanti /",
+      "translated_text": "<s>Tathāgatas</s> abide for immeasurable <s>koṭis</s> (tens of millions) of <s>kalpas</s> (aeons), for inexpressible aeons.",
+      "segment_number": 21
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "api ca upāyakauśalyena sattvānāṃ parinirvāṇaṃ darśayanti / na cākrāntirna saṅkrāntiḥ tathāgatānāṃ saṃvidyate / saddharmāntardhānaṃ darśayanti / yathā yathā sattvān paśyati parinirvāṇavaineyaḥ dhātuvaineyaḥ kaṣāyikajātīyaḥ tathāgate aśraddadhānatām aguruśuśrūṣitāṃ gacchati tathā tathāgataḥ parinirvāṇaṃ darśayati na cākrāntirna saṅkrāntistathāgatānāṃ saṃvidyate / sarvasattvāḥ paripakvakuśalamūlā bhavanti / tathāgate darśanābhikāṅkṣiṇaḥ pūjārhāḥ dharmaśravaṇāthikāḥ / candramaṇḍalaṃ yathā rocate tathā tadā tathāgatā loka utpadyante bahujanahitāya bahujanasukhāya /\nyāvaddevānāṃ ca munuṣyāṇāṃ ca triratnoddayotanāya sphuṭanāya na ca tathāgatānāṃ jātiḥ saṃvidyate / tad yathāpi nāma kulaputrāḥ ādarśamaṇḍale sumṛṣṭe nānā rūpāṇi dṛśyante dṛśyaṃ na saṃvidyate na tatrāgamo dṛśyate na nirgamaḥ pratibimbasya evameva devaputrāḥ tathāgatakāyo draṣṭavyaḥ / tad yathāpi nāma kulaputrā māyakāraḥsuśikṣitaḥ nānānagaratoraṇodyānāṃ nānārathāṃ cakravartirūpāṃ nānāratikrīḍāṃ darśayitvā antardhāpayati na ca tasyāḥ krāntirdṛśyate na āgamo na nirgamaḥ evameva tathāgatānāmutapādaparinirvāṇaṃ draṣṭavyam / api ca devaputrāḥ pūrvapraṇidhānena tathāgatāḥ parinirvṛtā api kalpaparinirvṛtā api kalpakoṭīparinirvṛtā api sattvānāṃ pūjanasatkaraṇadhātustūpakārāpaṇapratibimbakārāpaṇanāmadheyagrahaṇasaddharmadhāraṇapūjanā",
       "segment_number": 22,
       "translated_text": "Moreover, through skill in means (<s>upāyakauśalya</s>), they display <s>parinirvāṇa</s> (final passing) for the sake of beings. Yet neither departure nor transmigration is found in the <s>Tathāgatas</s>. They display the disappearance of the True <s>Dharma</s>. Whenever the <s>Tathāgata</s> perceives that beings are to be disciplined through <s>parinirvāṇa</s>, to be disciplined through relics, that they belong to the corrupted type who go toward faithlessness and disrespect toward the <s>Tathāgata</s> — then the <s>Tathāgata</s> displays <s>parinirvāṇa</s>. Yet neither departure nor transmigration is found in the <s>Tathāgatas</s>. All beings come to have mature wholesome roots. They become desirous of seeing the <s>Tathāgata</s>, worthy of worship, and eager to hear the <s>Dharma</s>. Just as the disc of the moon shines, so then do the <s>Tathāgatas</s> arise in the world for the benefit of the many, for the happiness of the many,\neven for the illumination and manifestation of the Three Jewels for <s>devas</s> and humans. Yet birth is not found in the <s>Tathāgatas</s>. O sons of good family, just as in a well-polished mirror-disc, various forms are seen, yet the visible [object] is not found therein — neither the coming nor the going of the reflection is seen — even so, O <s>devaputras</s>, should the body of the <s>Tathāgata</s> be viewed. O sons of good family, just as a well-trained magician, having displayed various cities, gateways, gardens, various chariots, the form of a <s>cakravartin</s> (universal monarch), and various entertainments and amusements, makes them vanish — and neither departure is seen therein, nor coming, nor going — even so should the arising and <s>parinirvāṇa</s> of the <s>Tathāgatas</s> be viewed. Moreover, O <s>devaputras</s>, through their former vows, the <s>Tathāgatas</s>, even though having passed into <s>parinirvāṇa</s>, even though having passed away for a <s>kalpa</s>, even though having passed away for <s>koṭīs</s> of <s>kalpas</s> — the worship and veneration by beings, the construction of relic <s>stūpas</s>, the making of images, the taking up of their names, the upholding and worship of the True <s>Dharma</s> —"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 23,
+      "attributes": {
+        "id": "BuBal_183",
+        "label": "BuBal 183"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "nānālokadhātuvyavasthitā api mokṣayanti sarvanarakatiryagyoniyamalokākṣaṇadurgativinipātebhyaḥ sarvaduḥkhebhyaḥ yāvadanupūrveṇa anuttarāṃ samyaksambodhimabhisambudhyate / kaḥ punarvādo ye tathāgatān pratyakṣapūjayā pūjayiṣyanti gandhapuṣpamālyavilepanavastrābharaṇaiḥ / ye ca devaputrāḥ kecit sattvā varṣaśatasahasrakalpakoṭīparinirvṛtān prāñjalibhūtān ekavārān nāmadheyaṃ grahīṣyanti 'namo buddhāyeti ' kṛtvā puṣpamākāśe kṣepasyanti te sarve duḥkhasyāntaṃ kariṣyanti / tiṣṭhatvākāśe puṣpaṃ ye kecit sattvāḥ anuśikṣamāṇāstathāgatapūjārthāya ekatathāgataśikṣāmapi dhārayiṣyanti ekadivasam ekarātrimuhūrtaṃ tathāgatapūjanacintābhiyuktāḥ sarvaduḥkhasyāntaṃ kṛtvānupūrveṇānuttarāṃ samyaksambodhimabhisambodhiṣyanti / ye ca tathāgatapūjāyāṃ diśyasikanāma....vāpi hāsyalāsyabālaratikrīḍanakameva kārayiṣyanti sarve te duḥkhasyāntaṃ kṛtvānuttarāṃ samyaksambodhimabhisambodhiṣyanti kaḥ punarvādo ye dhātustūpaṃ dhātupratimāṃ vā kṛtvā sarvasattvadayāparajñāḥ 'sarvasattvān duḥkhebhyaḥ parimocayiṣyāmīti ' anuttarāyāṃ samyaksambodhau cittamutpādya divyapuṣpagandhamālyavilepanacūrṇatūryacchatradhvajapatākābhiḥ pūjayiṣyanti darśayiṣyanti tejātijarāmaraṇaduḥkhopāyāsebhyaḥ parimokṣyante /",
+      "translated_text": "even though [the <s>Tathāgatas</s>] are established in various world-realms, they liberate [beings] from all hells, animal births, the realm of <s>Yama</s>, the states of woe, and the downfalls of unfortunate destinies, and from all sufferings, until gradually they fully awaken to unsurpassed perfect awakening (<s>anuttarā samyaksaṃbodhi</s>). How much more so those who will worship the <s>Tathāgatas</s> with direct offerings of incense, flowers, garlands, ointments, garments, and ornaments! O <s>devaputras</s>, whatever beings, even after a hundred thousand <s>koṭīs</s> of <s>kalpas</s> since the <s>Tathāgata's</s> <s>parinirvāṇa</s>, with joined palms, even once take up the name saying 'Homage to the <s>Buddha</s>' and cast a flower into the sky — they will all make an end of suffering. Let alone casting a flower into the sky — whatever beings, following the teaching, for the sake of worshipping the <s>Tathāgata</s>, will uphold even a single instruction of the <s>Tathāgata</s> for one day, one night, or one moment, intent upon the thought of worshipping the <s>Tathāgata</s> — having made an end of all suffering, they will gradually fully awaken to unsurpassed perfect awakening. And those who, for the sake of worshipping the <s>Tathāgata</s>, will perform even playful, sportive, childish amusements — they will all, having made an end of suffering, fully awaken to unsurpassed perfect awakening. How much more so those who, having constructed a relic <s>stūpa</s> or a relic image, being foremost in compassion for all beings, having generated the thought of unsurpassed perfect awakening with the resolve 'I shall liberate all beings from suffering,' will worship with divine flowers, incense, garlands, ointments, powders, music, parasols, banners, and flags — they will be shown [the path] and will be liberated from the sufferings of birth, old age, death, and anguish.",
+      "segment_number": 24
     }
   ]
 }

@@ -35,17 +35,11 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Vaidya 340"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Vaidya_340",
+        "label": "Vaidya 340"
+      }
     },
     {
       "tag": "p",
@@ -53,10 +47,7 @@
       "text": "Mañjuśrīparivartāparaparyāyā",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Saptaśatikā prajñāpāramitā |",
           "segment_number": 2,
           "translated_text": "<s>Saptaśatikā Prajñāpāramitā</s> (Perfection of Wisdom in Seven Hundred Lines)"
@@ -99,10 +90,7 @@
       "text": "atha khalu bhagavān jānanneva mañjuśriyaṃ kumārabhūtamāmantrayate sma - satyaṃ kila tvaṃ mañjuśrīḥ sarvaprathamataraṃ tathāgatavihāradvāre sthitastathāgatasya darśanāya vandanāya paryupāsanāya ca? evamukte mañjuśrīḥ kumārabhūto bhagavantametadavocat - evametat bhagavan, evametat sugata, prathamataramasmyāgataḥ svakādvihārānniṣkramya yena tathāgatavihārastenopasaṃkrāntaḥ, upasaṃkramya ekānte sthito bhagavato darśanāya vandanāya paryupāsanāya | tatkasya hetoḥ? tathā hi bhagavan atṛpto 'haṃ tathāgatasya darśanena vandanena paryupāsanena ca | yadapyahaṃ bhagavan tathāgatamupasaṃkramāmi darśanāya vandanāya paryupāsanāya, tatsarvasattvānāmarthāya | sacedbhagavan (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 341",
           "segment_number": 8,
           "translated_text": "<s>SaptaŚ</s>, Vaidya 341 [reference marker]"
@@ -130,10 +118,7 @@
       "text": "evamukte āyuṣmān śāradvatīputro mañjuśriyaṃ kumārabhūtametadavocat - yadi mañjuśrīḥ sattvaviviktatvāt sattvāsattvāt sattvadhātornaivonatvaṃ na pūrṇatvaṃ vā prajñāyate, tatkasyedānīṃ bodhimabhisaṃbudhya dharmaṃ deśayiṣyasi? evamukte mañjuśrīḥ kumārabhūta āyuṣmantaṃ śāradvatīputrametadavocat - yadā tāvadbhadanta śāradvatīputra atyantatayā sattvānupalabdhiḥ, tatko 'trābhi",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "saṃ",
           "segment_number": 12,
           "translated_text": "[continued]"
@@ -145,10 +130,7 @@
           "translated_text": "awakening?'"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 342",
           "segment_number": 14,
           "translated_text": "(<s>Saptaśatikā</s>, Vaidya 342)"
@@ -204,10 +186,7 @@
       "text": "bhagavānāha - yasmin samaye tvaṃ mañjuśrīḥ prajñāpāramitāṃ bhāvayasi, kataratte kuśalamūlaṃ tasmin samaye upacayaṃ gacchati apacayaṃ vā? mañjuśrīrāha - na me bhagavan tasmin samaye kiṃcitkuśalamūlamupacayaṃ gacchati apacayaṃ vā | nāsau prajñāpāramitāṃ bhāvayati yasya kasyaciddharmasya upacayo vā apacayo vā bhavati | na sā bhagavan prajñāpāramitābhāvanā veditavyā, yā kasyaciddharmasya upacayāya vā apacayāya vā pratyupasthitā | sā bhagavan prajñāpāramitābhāvanā yā naiva pṛthagjanadharmān jahāti, nāpi buddhadharmānupādatte | tatkasmāddhetoḥ? tathā hi bhagavan prajñāpāramitābhāvanā na kasyaciddharmasyopalambhena pratyupasthitā yaṃ dharmaṃ prajahyādupādadīta vā | sā bhagavan prajñāpāramitābhāvanā yā naiva saṃsāradoṣānupayāti na nirvāṇaguṇān | tatkasmāddhetoḥ? tathā hi bhagavan saṃsārameva tāvann samanupaśyāmi, kaḥ punarvādaḥ saṃsāradoṣān | nirvāṇameva tāvannopalabhe, kaḥ punarvādo nirvāṇaguṇān drakṣyāmi | sā bhagavan prajñāpāramitābhāvanā yanna kasyaciddharmasyādānaṃ vā grahaṇaṃ vā niḥsaraṇaṃ vā | sā bhagavan prajñāpāramitābhāvanā yā na kasyaciddharmasya hānirvā vṛddhirvopalabhyate | tatkasmāddhetoḥ? na hi bhagavan anutpādo hīyate vā vardhate vā | (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 343",
           "segment_number": 22,
           "translated_text": "[<s>Saptaśatikā</s>, <s>Vaidya</s> p. 343]"
@@ -242,10 +221,7 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 344",
           "segment_number": 27,
           "translated_text": "<s>Saptaśatikā</s>, Vaidya edition, p. 344."
@@ -308,10 +284,7 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 345",
           "segment_number": 36,
           "translated_text": "[Reference: SaptaŚ, Vaidya p. 345]"
@@ -374,10 +347,7 @@
       "text": "atha khalu bhagavānāyuṣmantaṃ śāradvatīputramāmantrayate sma - evametacchāradvatīputra, evametat | niyatāste kulaputrāḥ kuladuhitaraśca bhaviṣyanti bodhaye, ye imaṃ prajñāpāramitānirdeśaṃ śrutvā adhimokṣyante, nottrasanti na saṃtrasanti na saṃtrāsamāpatsyante | avinivartanīyabhūmau tvaṃ (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 346",
           "segment_number": 45,
           "translated_text": "(<s>Saptaśatikā</s>, Vaidya 346) [reference marker]"
@@ -426,10 +396,7 @@
       "text": "evamukte āyuṣmān śāradvatīputro mañjuśriyaṃ kumārabhūtametadavocat - buddha iti mañjuśrīḥ kasyaitadadhivacanam? mañjuśrīrāha - yatpunarbhadanta śāradvatīputra ucyate ātmeti, kasyaitadadhivacanam? śāradvatīputra āha - anutpādasyaitanmañjuśrīradhivacanaṃ yaduta ātmeti | mañjuśrīrāha - (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 347",
           "segment_number": 52,
           "translated_text": "[<s>Saptaśatikā</s>, <s>Vaidya</s> p. 347]"
@@ -457,10 +424,7 @@
       "text": "śāradvatīputra āha - na mañjuśrīrbhagavatā dharmadhāturabhisaṃbuddhaḥ? mañjuśrīrāha - na bhadanta śāradvatīputra bhagavatā dharmadhāturabhisaṃbuddhaḥ | tatkasmāddhetoḥ? tathā hi bhadanta śāradvatīputra dharmadhātureva bhagavān | sacedbhadanta śāradvatīputra bhagavatā dharmadhāturabhisaṃbuddhaḥ syāt, tadyo 'sāvanutpādadhātuḥ sa nirudhyo bhavet | api tu bhadanta śāradvatīputra sa eva dharmadhāturbodhiḥ | tatkasmāddhetoḥ? niḥsattvo hi dharmadhātuḥ | abhāvāḥ sarvadharmā iti bodheradhivacanametat, yo 'sau dharmadhāturiti saṃkhyāṃ gacchati | tatkasmāddhetoḥ? sarvadharmā hyanānātvaṃ buddhaviṣayataḥ | anānātvamiti bhadanta śāradvatīputra avijñaptikaṃ padametat | avijñaptikamiti bhadanta śāradvatīputra naitacchakyaṃ vijñāpayituṃ saṃskṛtatvena vā yāvad asaṃskṛtatvena vā | na tatra kācidvijñaptiḥ, tena tadavijñaptikam | sarvadharmā hi bhadanta śāradvatīputra avijñaptikāḥ | tatkasmāddhetoḥ? tathā hi sarvadharmāṇāṃ prādurbhāvo nāsti yasmin sthitvā vijñapyeran | ye 'pyamī ānantaryaprasṛtā acintyaprasṛtāḥ, te | ye ca acintyaprasṛtā bhūtaprasṛtāste | tatkasmāddhetoḥ? bhūtamiti bhadanta śāradvatīputra abhedapadametat | ye 'pi acintyadharma",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "sa",
           "segment_number": 56,
           "translated_text": "[continued]"
@@ -472,10 +436,7 @@
           "translated_text": "[continued]"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 348",
           "segment_number": 58,
           "translated_text": "(<s>Saptaśatikā</s>, Vaidya 348)"
@@ -531,10 +492,7 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 349",
           "segment_number": 66,
           "translated_text": "[Reference: SaptaŚ, Vaidya p. 349]"
@@ -576,10 +534,7 @@
       "text": "bhagavānāha - nādhimucyase tvaṃ mañjuśrīḥ gaṅgānadīvālukopamā buddhā bhagavantaḥ parinirvṛtā iti? mañjuśrīrāha - kaścit punarbhagavan ekaviṣayā buddha bhagavanto yadida",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ma",
           "segment_number": 72,
           "translated_text": "[continued]"
@@ -591,10 +546,7 @@
           "translated_text": "ceivable domain?'"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 350",
           "segment_number": 74,
           "translated_text": "(<s>Saptaśatikā</s>, Vaidya 350)"
@@ -636,10 +588,7 @@
       "text": "bhagavānāha - icchasi punastvaṃ mañjuśrīrevam - ime śrāvakāstathāgatena vinītā iti? mañjuśrīrāha - iccheyamahaṃ bhagavan evam - ime śrāvakāstathāgatena vinītā iti, sacet kaści",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "da",
           "segment_number": 80,
           "translated_text": "[continued]"
@@ -651,10 +600,7 @@
           "translated_text": "were to go toward discipline in the inconceivable realm (<s>acintyadhātuvinaya</s>)—"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "SaptaŚ, Vaidya 351",
           "segment_number": 82,
           "translated_text": "(<s>Saptaśatikā</s>, Vaidya 351) [reference marker]"

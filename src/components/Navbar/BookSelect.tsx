@@ -1,9 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Select, ComboboxItem, OptionsFilter } from '@mantine/core';
+import { useNavigate } from 'react-router-dom';
+import { toSlug } from '../../utils/bookSlug';
 
 interface BookSelectProps {
   setBookTitle: (value: string | null) => void;
   bookTitle: string | null;
+  label?: string;
+  placeholder?: string;
 }
 
 // BookTitle interface defines the structure of our processed book data
@@ -30,11 +34,17 @@ function removeDiacritics(str: string | null) {
   return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
-function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
+function BookSelect({
+  setBookTitle,
+  bookTitle,
+  label = 'Select a book to import',
+  placeholder = 'Pick a book to import',
+}: BookSelectProps) {
   // Store the processed book titles
   const [bookTitlesList, setBookTitlesList] = useState<BookTitle[]>([]);
   // Track the currently selected value
   const [selectedValue, setSelectedValue] = useState<string | null>(null);
+  const navigate = useNavigate();
 
   // Simplified filter function that works with pre-normalized values
   const normalisedFilter: OptionsFilter = ({ options, search }) => {
@@ -89,21 +99,38 @@ function BookSelect({ setBookTitle, bookTitle }: BookSelectProps) {
       });
   }, []);
 
-  // Handle selection of a book
+  useEffect(() => {
+    if (!bookTitle) {
+      setSelectedValue(null);
+      return;
+    }
+
+    const selectedBook = bookTitlesList.find((book) => book.original === bookTitle);
+    if (selectedBook) setSelectedValue(selectedBook.value);
+  }, [bookTitle, bookTitlesList]);
+
+  // Handle selection of a book — navigate to /book/<slug>; the URL effect in
+  // Home.page.tsx then drives setBookTitle and the loader.
   const selectBook = (value: string | null) => {
     const selectedBook = bookTitlesList.find((book) => book.value === value);
-    // Pass the original filename back to parent component
-    setBookTitle(selectedBook?.original ?? null);
-    // Update local selected value state
     setSelectedValue(value);
+    if (selectedBook) {
+      navigate(`/book/${toSlug(selectedBook.original)}`);
+    } else {
+      setBookTitle(null);
+      navigate('/');
+    }
   };
 
   return (
     <Select
-      data={bookTitlesList.map(({ value, label }) => ({ value, label }))}
+      data={bookTitlesList.map(({ value, label: optionLabel }) => ({
+        value,
+        label: optionLabel,
+      }))}
       value={selectedValue}
-      label="Select a book to import"
-      placeholder="Pick a book to import"
+      label={label}
+      placeholder={placeholder}
       searchable
       nothingFoundMessage="Nothing found..."
       onChange={selectBook}

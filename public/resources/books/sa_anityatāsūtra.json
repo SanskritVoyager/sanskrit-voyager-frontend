@@ -51,26 +51,24 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "1. evam mayā śrutam, ekasmin samaye bhagavān śrāvastyāṃ viharati sma (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "As 31",
-          "segment_number": 4,
-          "translated_text": "[folio 31]"
-        },
-        {
-          "tag": "text",
-          "text": ") jetavane 'nāthapiṇḍasyārāme mahatā bhikṣusaṃghena sārdham ardhatrayodaśabhir bhikṣuśataiḥ //",
-          "segment_number": 5,
-          "translated_text": "in <s>Jetavana</s>, the park of <s>Anāthapiṇḍada</s>, together with a great assembly of <s>bhikṣus</s> — twelve hundred and fifty <s>bhikṣus</s>."
-        }
-      ],
+      "text": "1. evam mayā śrutam, ekasmin samaye bhagavān śrāvastyāṃ viharati sma",
       "segment_number": 3,
       "translated_text": "1. Thus have I heard. At one time, the Blessed One (<s>Bhagavān</s>) was dwelling at <s>Śrāvastī</s>,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 4,
+      "attributes": {
+        "id": "As_31",
+        "label": "As 31"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "jetavane 'nāthapiṇḍasyārāme mahatā bhikṣusaṃghena sārdham ardhatrayodaśabhir bhikṣuśataiḥ //",
+      "translated_text": "in <s>Jetavana</s>, the park of <s>Anāthapiṇḍada</s>, together with a great assembly of <s>bhikṣus</s> — twelve hundred and fifty <s>bhikṣus</s>.",
+      "segment_number": 5
     },
     {
       "tag": "p",
@@ -101,17 +99,11 @@
       "translated_text": "5. \"Those kings, O <s>bhikṣus</s>, <s>kṣatriyas</s> anointed on the head, who have attained sovereignty, power, might, and valor over their peoples, who have conquered and dwell upon a great expanse of the earth — for them too, life ends in death, has death as its conclusion. There is no escape from death for one who has been born.\""
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "As 32"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "As_32",
+        "label": "As 32"
+      }
     },
     {
       "tag": "p",
@@ -130,26 +122,24 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "8. ye 'pi te bhikṣavo rūpino devāḥ, prathamadhyānalābhino brahmakāyikā brahmapurohitā brahmapārṣadyā mahābrahmāṇā, dvitīyadhyānalābhinaḥ parittaśubhā apramāṇaśubhā ābhāsvarās, tṛtīyadhyānalābhinaḥ parittaśubhā apramāṇaśubhāḥ śubhakṛtsnāś, caturthadhyānalābhino 'nabhrakāḥ puṇyaprasavā vṛhatphalā asaṃjñisattvā avṛhā (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "As 33",
-          "segment_number": 13,
-          "translated_text": "[folio 33]"
-        },
-        {
-          "tag": "text",
-          "text": ") atapāḥ sudarśāḥ sudarśanā akaniṣṭhāś ca devās, teṣām api maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //",
-          "segment_number": 14,
-          "translated_text": "<s>Atapa</s>, <s>Sudarśa</s>, <s>Sudarśana</s>, and <s>Akaniṣṭha</s> gods — for them too, life ends in death, has death as its conclusion. There is no escape from death for one who has been born.\""
-        }
-      ],
+      "text": "8. ye 'pi te bhikṣavo rūpino devāḥ, prathamadhyānalābhino brahmakāyikā brahmapurohitā brahmapārṣadyā mahābrahmāṇā, dvitīyadhyānalābhinaḥ parittaśubhā apramāṇaśubhā ābhāsvarās, tṛtīyadhyānalābhinaḥ parittaśubhā apramāṇaśubhāḥ śubhakṛtsnāś, caturthadhyānalābhino 'nabhrakāḥ puṇyaprasavā vṛhatphalā asaṃjñisattvā avṛhā",
       "segment_number": 12,
       "translated_text": "8. \"Those gods of the form realm (<s>rūpāvacara</s>), O <s>bhikṣus</s> — those who have attained the first <s>dhyāna</s>: the <s>Brahmakāyika</s>, <s>Brahmapurohita</s>, <s>Brahmapārṣadya</s>, and <s>Mahābrahmā</s> gods; those who have attained the second <s>dhyāna</s>: the <s>Parīttaśubha</s>, <s>Apramāṇaśubha</s>, and <s>Ābhāsvara</s> gods; those who have attained the third <s>dhyāna</s>: the <s>Parīttaśubha</s>, <s>Apramāṇaśubha</s>, and <s>Śubhakṛtsna</s> gods; those who have attained the fourth <s>dhyāna</s>: the <s>Anabhraka</s>, <s>Puṇyaprasava</s>, <s>Vṛhatphala</s>, <s>Asaṃjñisattva</s>, <s>Avṛha</s>,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 13,
+      "attributes": {
+        "id": "As_33",
+        "label": "As 33"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "atapāḥ sudarśāḥ sudarśanā akaniṣṭhāś ca devās, teṣām api maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //",
+      "translated_text": "<s>Atapa</s>, <s>Sudarśa</s>, <s>Sudarśana</s>, and <s>Akaniṣṭha</s> gods — for them too, life ends in death, has death as its conclusion. There is no escape from death for one who has been born.\"",
+      "segment_number": 14
     },
     {
       "tag": "p",
@@ -175,26 +165,24 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "12. ye 'pi te bhikṣavas tathāgatā arhantaḥ samyaksaṃbuddhā daśabalabalinaḥ udārārṣabhāḥ samyaksiṃhanādanādinaś caturvaiśāradyaṃ, dharmārohaṇavaiśāradyaṃ sarvadharmadeśanāvaiśāradyaṃ nirvāṇamārgāvatāraṇavaiśāradyaṃ āśravajñānaprahāṇavaiśāradyaṃ, viśadādṛḍhanārāyaṇasaṃhatakāyās, (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "As 34",
-          "segment_number": 19,
-          "translated_text": "[folio 34]"
-        },
-        {
-          "tag": "text",
-          "text": ") teṣām apy ayam kāyo nikṣepaṇadharmaḥ //",
-          "segment_number": 20,
-          "translated_text": "even their body is subject to being cast off.\""
-        }
-      ],
+      "text": "12. ye 'pi te bhikṣavas tathāgatā arhantaḥ samyaksaṃbuddhā daśabalabalinaḥ udārārṣabhāḥ samyaksiṃhanādanādinaś caturvaiśāradyaṃ, dharmārohaṇavaiśāradyaṃ sarvadharmadeśanāvaiśāradyaṃ nirvāṇamārgāvatāraṇavaiśāradyaṃ āśravajñānaprahāṇavaiśāradyaṃ, viśadādṛḍhanārāyaṇasaṃhatakāyās,",
       "segment_number": 18,
       "translated_text": "12. \"Those <s>Tathāgatas</s>, O <s>bhikṣus</s>, <s>Arhats</s>, Perfectly Awakened Ones (<s>Samyaksaṃbuddhas</s>), endowed with the power of the Ten Powers (<s>daśabala</s>), noble and bull-like, who rightly sound the lion's roar, possessing the four kinds of fearlessness — fearlessness in declaring the <s>Dharma</s>, fearlessness in teaching all <s>dharmas</s>, fearlessness in entering the path to <s>Nirvāṇa</s>, fearlessness regarding the knowledge and abandonment of the <s>āśravas</s> — whose bodies are compact, firm, and adamantine like <s>Nārāyaṇa</s>,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 19,
+      "attributes": {
+        "id": "As_34",
+        "label": "As 34"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "teṣām apy ayam kāyo nikṣepaṇadharmaḥ //",
+      "translated_text": "even their body is subject to being cast off.\"",
+      "segment_number": 20
     },
     {
       "tag": "p",
@@ -291,17 +279,11 @@
       ]
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "As 35"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "As_35",
+        "label": "As 35"
+      }
     },
     {
       "tag": "p",

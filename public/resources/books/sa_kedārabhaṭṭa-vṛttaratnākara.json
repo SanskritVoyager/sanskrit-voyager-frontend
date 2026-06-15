@@ -40,18 +40,18 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[śrīḥ]",
+          "text": "śrīḥ",
           "segment_number": 1,
-          "translated_text": "[Auspiciousness]"
+          "translated_text": "Auspiciousness"
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[vṛttaratnākaraḥ]",
+          "text": "vṛttaratnākaraḥ",
           "segment_number": 2,
-          "translated_text": "[<s>Vṛttaratnākara</s> (Ocean of Metres)]"
+          "translated_text": "<s>Vṛttaratnākara</s> (Ocean of Metres)"
         },
         {
           "tag": "p",
@@ -521,11 +521,11 @@
           "translated_text": "Chapter Two"
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[ āryā-prakaraṇam (1-7) ]",
+          "text": " āryā-prakaraṇam (1-7) ",
           "segment_number": 50,
-          "translated_text": "[Section on <s>Āryā</s> metre (1-7)]"
+          "translated_text": "Section on <s>Āryā</s> metre (1-7)"
         },
         {
           "tag": "lg",
@@ -664,11 +664,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[ gīti-prakaraṇam (8-11) ]",
+          "text": " gīti-prakaraṇam (8-11) ",
           "segment_number": 65,
-          "translated_text": "[Section on <s>Gīti</s> metre (8-11)]"
+          "translated_text": "Section on <s>Gīti</s> metre (8-11)"
         },
         {
           "tag": "lg",
@@ -751,11 +751,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[ vaitālīya-prakaraṇam (12-20) ]",
+          "text": " vaitālīya-prakaraṇam (12-20) ",
           "segment_number": 74,
-          "translated_text": "[Section on <s>Vaitālīya</s> metre (12-20)]"
+          "translated_text": "Section on <s>Vaitālīya</s> metre (12-20)"
         },
         {
           "tag": "lg",
@@ -834,11 +834,11 @@
           "translated_text": "The odd-footed [variant] is <s>Cāruhāsinī</s>. // KedV_2.20 //"
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[ vaktra-prakaraṇam (21-30) ]",
+          "text": " vaktra-prakaraṇam (21-30) ",
           "segment_number": 85,
-          "translated_text": "[Section on <s>Vaktra</s> metre (21-30)]"
+          "translated_text": "Section on <s>Vaktra</s> metre (21-30)"
         },
         {
           "tag": "l",
@@ -911,11 +911,11 @@
           "translated_text": "With <s>ta</s>-gaṇa from the ocean — and its preceding variant is another. // KedV_2.30 //"
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[ mātrāsamaka-prakaraṇam (31-38) ]",
+          "text": " mātrāsamaka-prakaraṇam (31-38) ",
           "segment_number": 96,
-          "translated_text": "[Section on <s>Mātrāsamaka</s> metre (31-38)]"
+          "translated_text": "Section on <s>Mātrāsamaka</s> metre (31-38)"
         },
         {
           "tag": "l",
@@ -1054,7 +1054,8 @@
               "tag": "l",
               "attributes": {},
               "text": "dalamaparamapi vasuguṇitasalilanidhilaghu kaviracitaṃ padavitati bhavati // KedV_2.41 //",
-              "segment_number": 112
+              "segment_number": 112,
+              "translated_text": "And the other half [-verse], composed by a poet, light by [the number] eight multiplied by water [= 4, giving 32 mātrās], is a sequence of syllables. // KedV 2.41 //"
             }
           ]
         },
@@ -1062,13 +1063,15 @@
           "tag": "l",
           "attributes": {},
           "text": "triguṇanavalaghuraṃvasitigururitidalayugakṛtatanuratirucirā // KedV_2.42 //",
-          "segment_number": 113
+          "segment_number": 113,
+          "translated_text": "Three sets of nine light [syllables], then a heavy syllable constituting the pair of halves — [this meter] has a delicate and charming attraction. // KedV 2.42 //"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ\nmātrāvṛttādhikāro nāma dvitīyo 'dhyāyaḥ //",
-          "segment_number": 114
+          "segment_number": 114,
+          "translated_text": "Thus ends the second chapter, called 'The Chapter on <s>Mātrā-vṛttas</s> (Moraic Meters),' in the commentary on the <s>Vṛttaratnākara</s> composed by <s>Nārāyaṇa Bhaṭṭa</s>, son of the illustrious <s>Bhaṭṭa Rāmeśvara</s>."
         }
       ]
     },
@@ -1080,685 +1083,799 @@
           "tag": "p",
           "attributes": {},
           "text": "tṛtīyo 'dhyāyaḥ",
-          "segment_number": 115
+          "segment_number": 115,
+          "translated_text": "Third Chapter"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "guḥ śtrīḥ // KedV_3.1 //",
-          "segment_number": 116
+          "segment_number": 116,
+          "translated_text": "[When a foot consists of one] <s>ga</s> (heavy) — [it is called] <s>Strī</s>. // KedV 3.1 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "gau strī // KedV_3.2 //",
-          "segment_number": 117
+          "segment_number": 117,
+          "translated_text": "[When a foot consists of] <s>ga</s> followed by another [<s>ga</s>] — [it is] <s>Strī</s>. // KedV 3.2 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mo nārī // KedV_3.3 //",
-          "segment_number": 118
+          "segment_number": 118,
+          "translated_text": "[When a foot consists of the gaṇa] <s>ma</s> — [it is called] <s>Nārī</s>. // KedV 3.3 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "ro mṛgī // KedV_3.4 //",
-          "segment_number": 119
+          "segment_number": 119,
+          "translated_text": "[When a foot consists of the gaṇa] <s>ra</s> — [it is called] <s>Mṛgī</s>. // KedV 3.4 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mgau cetkanyā // KedV_3.5 //",
-          "segment_number": 120
+          "segment_number": 120,
+          "translated_text": "If [the foot consists of gaṇas] <s>ma</s> and <s>ga</s> — [it is called] <s>Kanyā</s>. // KedV 3.5 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mgau giti paṅktiḥ // KedV_3.6 //",
-          "segment_number": 121
+          "segment_number": 121,
+          "translated_text": "[With gaṇas] <s>ma</s> and <s>ga</s>, [followed by] <s>ga</s> — [it is called] <s>Paṅkti</s>. // KedV 3.6 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tyau stastanumadhyā // KedV_3.7 //",
-          "segment_number": 122
+          "segment_number": 122,
+          "translated_text": "[With gaṇas] <s>ta</s> and <s>ya</s>, [preceded by] <s>sa</s>, and <s>ta</s> — [it is called] <s>Tanumadhyā</s>. // KedV 3.7 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "śaśivadanā nyau // KedV_3.8 //",
-          "segment_number": 123
+          "segment_number": 123,
+          "translated_text": "<s>Śaśivadanā</s> (Moon-Faced) — [with gaṇas] <s>na</s> and <s>ya</s>. // KedV 3.8 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vidyullekhā mo maḥ // KedV_3.9 //",
-          "segment_number": 124
+          "segment_number": 124,
+          "translated_text": "<s>Vidyullekhā</s> (Lightning-Streak) — [with gaṇa] <s>ma</s>, [followed by] <s>ma</s> and a heavy syllable. // KedV 3.9 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tsā cedvasumatī // KedV_3.10 //",
-          "segment_number": 125
+          "segment_number": 125,
+          "translated_text": "If [with gaṇas] <s>ta</s> and <s>sa</s> — [it is called] <s>Vasumatī</s>. // KedV 3.10 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "msau gaḥ syānmadalekhāḥ // KedV_3.11 //",
-          "segment_number": 126
+          "segment_number": 126,
+          "translated_text": "[With gaṇas] <s>ma</s>, <s>sa</s>, and a heavy syllable — [it is called] <s>Madalekhā</s>. // KedV 3.11 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhau giti citrapadā gaḥ // KedV_3.12 //",
-          "segment_number": 127
+          "segment_number": 127,
+          "translated_text": "[With gaṇa] <s>bha</s>, followed by <s>ga</s> — [it is called] <s>Citrapadā</s>, [with] a heavy syllable. // KedV 3.12 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mo mo go go vidyunmālā // KedV_3.13 //",
-          "segment_number": 128
+          "segment_number": 128,
+          "translated_text": "<s>Ma</s>, <s>ma</s>, <s>ga</s>, <s>ga</s> — [it is called] <s>Vidyunmālā</s> (Garland of Lightning). // KedV 3.13 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "māṇavakaṃ bhāttalagā // KedV_3.14 //",
-          "segment_number": 129
+          "segment_number": 129,
+          "translated_text": "<s>Māṇavaka</s> — [with gaṇas] <s>bha</s>, <s>ta</s>, <s>ta</s>, <s>la</s>, <s>ga</s>. // KedV 3.14 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mnau gau haṃsarutametat // KedV_3.15 //",
-          "segment_number": 130
+          "segment_number": 130,
+          "translated_text": "[With gaṇas] <s>ma</s>, <s>na</s>, and [syllables] <s>ga</s>, [this is] <s>Haṃsaruta</s> (Swan-Call). // KedV 3.15 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rjau samānikā galau ca // KedV_3.16 //",
-          "segment_number": 131
+          "segment_number": 131,
+          "translated_text": "<s>Samānikā</s> — [with gaṇas] <s>ra</s>, <s>ja</s>, and [syllables] <s>ga</s>, <s>la</s>. // KedV 3.16 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pramāṇikā jarau lagau // KedV_3.17 //",
-          "segment_number": 132
+          "segment_number": 132,
+          "translated_text": "<s>Pramāṇikā</s> — [with gaṇas] <s>ja</s>, <s>ra</s>, and [syllables] <s>la</s>, <s>ga</s>. // KedV 3.17 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vitānamābhyāṃ yadanyat // KedV_3.18 //",
-          "segment_number": 133
+          "segment_number": 133,
+          "translated_text": "Whatever is other than these two (<s>Vitāna</s>) — // KedV 3.18 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rāmnasāviha halamukhī // KedV_3.19 //",
-          "segment_number": 134
+          "segment_number": 134,
+          "translated_text": "<s>Halamukhī</s> — here [with gaṇas] <s>ra</s>, [then] <s>ma</s>, <s>na</s>, <s>sa</s>. // KedV 3.19 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhujagaśiśubhṛtāṃ nau maḥ // KedV_3.20 //",
-          "segment_number": 135
+          "segment_number": 135,
+          "translated_text": "<s>Bhujagaśiśubhṛtā</s> (Borne by Young Serpents) — [with gaṇas] <s>na</s>, [then] <s>ma</s> and a heavy syllable. // KedV 3.20 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "msā jgau śuddhavirāḍidaṃ matam // KedV_3.21 //",
-          "segment_number": 136
+          "segment_number": 136,
+          "translated_text": "<s>Śuddhavirāṭ</s> (Pure Virāṭ) — this is accepted [with gaṇas] <s>ma</s>, <s>sa</s>, then <s>ja</s>, <s>ga</s>. // KedV 3.21 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mnau jgau ceti paṇavanāmakam // KedV_3.22 //",
-          "segment_number": 137
+          "segment_number": 137,
+          "translated_text": "[With gaṇas] <s>ma</s>, <s>na</s>, then <s>ja</s>, <s>ga</s> — this is named <s>Paṇava</s> (Drum). // KedV 3.22 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rjau ragau mayūrasāriṇī syāt // KedV_3.23 //",
-          "segment_number": 138
+          "segment_number": 138,
+          "translated_text": "<s>Mayūrasāriṇī</s> (Peacock-Pair) would be [with gaṇas] <s>ra</s>, <s>ja</s>, then <s>ra</s>, <s>ga</s>. // KedV 3.23 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhmau sagayuktau rukmavatīyam // KedV_3.24 //",
-          "segment_number": 139
+          "segment_number": 139,
+          "translated_text": "<s>Rukmavatī</s> — this [has gaṇas] <s>bha</s>, <s>ma</s>, joined with <s>sa</s> and <s>ga</s>. // KedV 3.24 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mattā jñeyā mabhasagayuktā // KedV_3.25 //",
-          "segment_number": 140
+          "segment_number": 140,
+          "translated_text": "<s>Mattā</s> (Intoxicated) should be known [as having gaṇas] <s>ma</s>, <s>bha</s>, <s>sa</s>, joined with <s>ga</s>. // KedV 3.25 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "narajagaurbhavenmanoramā // KedV_3.26 //",
-          "segment_number": 141
+          "segment_number": 141,
+          "translated_text": "<s>Manoramā</s> (Charming) has <s>na</s>, <s>ra</s>, <s>ja</s>, <s>ga</s>, followed by a heavy syllable. // KedV 3.26 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tjau jo guruṇeyamupasthitā // KedV_3.27 //",
-          "segment_number": 142
+          "segment_number": 142,
+          "translated_text": "<s>Upasthitā</s> (Presented) — this [has gaṇas] <s>ta</s>, <s>ja</s>, then <s>ja</s>, with a heavy [syllable]. // KedV 3.27 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "syādindravajrā yadi tau jagau gaḥ // KedV_3.28 //",
-          "segment_number": 143
+          "segment_number": 143,
+          "translated_text": "It would be <s>Indravajrā</s> (Indra's Thunderbolt) if [the gaṇas are] <s>ta</s>, <s>ta</s>, <s>ja</s>, <s>ga</s>, and a heavy syllable. // KedV 3.28 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "upendravajrā jatajāstato gau // KedV_3.29 //",
-          "segment_number": 144
+          "segment_number": 144,
+          "translated_text": "<s>Upendravajrā</s> (Upendra's Thunderbolt) — [with gaṇas] <s>ja</s>, <s>ta</s>, <s>ja</s>, then <s>ga</s> and a heavy. // KedV 3.29 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pādau yadīyāvupajātayastāḥ // KedV_3.30 //",
-          "segment_number": 145
+          "segment_number": 145,
+          "translated_text": "Whose two feet [alternate between these two] — those are [called] <s>Upajāti</s> (Sub-Birth). // KedV 3.30 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "smaranti jātiṣvidameva nāma me // KedV_3.31 //",
-          "segment_number": 146
+          "segment_number": 146,
+          "translated_text": "They remember this very name among the <s>Jāti</s> [meters] concerning me. // KedV 3.31 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "najajalagairgaditā sumukhī // KedV_3.32 //",
-          "segment_number": 147
+          "segment_number": 147,
+          "translated_text": "<s>Sumukhī</s> (Beautiful-Faced) is spoken with [gaṇas] <s>na</s>, <s>ja</s>, <s>ja</s>, <s>la</s>, <s>ga</s>. // KedV 3.32 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "dodhakavṛttamidaṃ bhabhabhādgau // KedV_3.33 //",
-          "segment_number": 148
+          "segment_number": 148,
+          "translated_text": "This is the <s>Dodhaka</s> meter — [with gaṇas] <s>bha</s>, <s>bha</s>, <s>bha</s>, then <s>ga</s> and a heavy. // KedV 3.33 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "śālinyuktā mtau tagau go 'bdhilokaiḥ // KedV_3.34 //",
-          "segment_number": 149
+          "segment_number": 149,
+          "translated_text": "The <s>Śālinī</s> — stated [with gaṇas] <s>ma</s>, <s>ta</s>, then <s>ta</s>, <s>ga</s>, and a heavy, with caesura after [syllables] four and seven. // KedV 3.34 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vātormīyaṃ kathitā mbhau tagau gaḥ // KedV_3.35 //",
-          "segment_number": 150
+          "segment_number": 150,
+          "translated_text": "<s>Vātormī</s> (Wind-Wave) — spoken [with gaṇas] <s>ma</s>, <s>bha</s>, then <s>ta</s>, <s>ga</s>, and a heavy. // KedV 3.35 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vāṇarasaiḥ syādbhatanagagaiḥ śrīḥ // KedV_3.36 //",
-          "segment_number": 151
+          "segment_number": 151,
+          "translated_text": "With [caesura after syllables] five, seven, and six — [this meter] is <s>Śrī</s>, [with gaṇas] <s>bha</s>, <s>ta</s>, <s>na</s>, <s>ga</s>, <s>ga</s>. // KedV 3.36 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mbhau nlau gaḥ syād bhramaravilasitam // KedV_3.37 //",
-          "segment_number": 152
+          "segment_number": 152,
+          "translated_text": "<s>Bhramaravilasita</s> (Bee's Play) — [with gaṇas] <s>ma</s>, <s>bha</s>, <s>na</s>, <s>la</s>, and a heavy. // KedV 3.37 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rānnarāviha rathoddhatā lagau // KedV_3.38 //",
-          "segment_number": 153
+          "segment_number": 153,
+          "translated_text": "<s>Rathoddhatā</s> (Chariot-Borne) — here [with gaṇas] <s>ra</s>, <s>na</s>, <s>ra</s>, [then] <s>la</s>, and a heavy. // KedV 3.38 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "svāgateti ranabhādguruyugmam // KedV_3.39 //",
-          "segment_number": 154
+          "segment_number": 154,
+          "translated_text": "<s>Svāgatā</s> (Welcome) — [with gaṇas] <s>ra</s>, <s>na</s>, <s>bha</s>, then a pair of heavy syllables. // KedV 3.39 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nanaralagururacitā vṛntā // KedV_3.40 //",
-          "segment_number": 155
+          "segment_number": 155,
+          "translated_text": "<s>Vṛntā</s> (Stalked) — composed of <s>na</s>, <s>na</s>, <s>ra</s>, <s>la</s>, and a heavy syllable. // KedV 3.40 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nanaramagurubhiśca bhadrikā // KedV_3.41 //",
-          "segment_number": 156
+          "segment_number": 156,
+          "translated_text": "<s>Bhadrikā</s> — with <s>na</s>, <s>na</s>, <s>ra</s>, <s>ma</s>, and heavy syllables. // KedV 3.41 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "śyenikā rajau ralau gururpadā // KedV_3.42 //",
-          "segment_number": 157
+          "segment_number": 157,
+          "translated_text": "<s>Śyenikā</s> (Hawk) — [with gaṇas] <s>ra</s>, <s>ja</s>, then <s>ra</s>, <s>la</s>, with a heavy syllable at the foot. // KedV 3.42 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mauktikamālā yadi bhatanādgau // KedV_3.43 //",
-          "segment_number": 158
+          "segment_number": 158,
+          "translated_text": "<s>Mauktikamālā</s> (Pearl Necklace) — if [with gaṇas] <s>bha</s>, <s>ta</s>, <s>na</s>, then a heavy. // KedV 3.43 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "upasthitamidaṃ jsau tādgakārau // KedV_3.44 //",
-          "segment_number": 159
+          "segment_number": 159,
+          "translated_text": "<s>Upasthita</s> (Presented) — this [has gaṇas] <s>ja</s>, <s>sa</s>, then <s>ta</s>, <s>ga</s> syllables. // KedV 3.44 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "candravartma nigadanti ranabhasaiḥ // KedV_3.45 //",
-          "segment_number": 160
+          "segment_number": 160,
+          "translated_text": "<s>Candravartma</s> (Moon's Path) — they declare [it with gaṇas] <s>ra</s>, <s>na</s>, <s>bha</s>, <s>sa</s>. // KedV 3.45 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "jatau tu vaṃśasthamudīritaṃ jarau // KedV_3.46 //",
-          "segment_number": 161
+          "segment_number": 161,
+          "translated_text": "<s>Vaṃśastha</s> (Seated in the Bamboo) — stated [with gaṇas] <s>ja</s>, <s>ta</s>, then <s>ja</s>, <s>ra</s>. // KedV 3.46 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "syādindravaṃśā tatajai rasaṃyutaiḥ // KedV_3.47 //",
-          "segment_number": 162
+          "segment_number": 162,
+          "translated_text": "<s>Indravaṃśā</s> (Indra's Bamboo) would be [with gaṇas] <s>ta</s>, <s>ta</s>, <s>ja</s>, <s>ra</s>, with [caesura at] six. // KedV 3.47 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "iha toṭakamambudhisaiḥ prathitam // KedV_3.48 //",
-          "segment_number": 163
+          "segment_number": 163,
+          "translated_text": "Here, <s>Toṭaka</s> is celebrated [with gaṇas four] <s>sa</s>'s, [with caesura after] four and eight. // KedV 3.48 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "drutavilambitamāha nabhau bharau // KedV_3.49 //",
-          "segment_number": 164
+          "segment_number": 164,
+          "translated_text": "<s>Drutavilambita</s> (Quick-Slow) is said [to have gaṇas] <s>na</s>, <s>bha</s>, <s>bha</s>, <s>ra</s>. // KedV 3.49 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "minuśaraviratirnau myau puṭo 'yam // KedV_3.50 //",
-          "segment_number": 165
+          "segment_number": 165,
+          "translated_text": "<s>Puṭa</s> — this [has] caesura at [syllables] five, four, and three; [with gaṇas] <s>na</s>, <s>ma</s>, <s>ya</s>. // KedV 3.50 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pramuditavadanā bhavennau ca rau // KedV_3.51 //",
-          "segment_number": 166
+          "segment_number": 166,
+          "translated_text": "<s>Pramuditavadanā</s> (Joyful-Faced) has [gaṇas] <s>na</s>, then <s>ra</s>. // KedV 3.51 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nayasahitau nyau kusumavacitrā // KedV_3.52 //",
-          "segment_number": 167
+          "segment_number": 167,
+          "translated_text": "<s>Kusumavicitrā</s> (Flower-Variegated) — [with gaṇas] <s>na</s>, <s>ya</s>, joined with <s>na</s>, <s>ya</s>. // KedV 3.52 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rasairjasajasā jaloddhatagatiḥ // KedV_3.53 //",
-          "segment_number": 168
+          "segment_number": 168,
+          "translated_text": "<s>Jaloddhatagati</s> (Water-Surge-Gait) — with [caesura at] six, [having gaṇas] <s>ja</s>, <s>sa</s>, <s>ja</s>, <s>sa</s>. // KedV 3.53 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "caturjagaṇaṃ vada mauktikadāma // KedV_3.54 //",
-          "segment_number": 169
+          "segment_number": 169,
+          "translated_text": "State [the meter with] four <s>ja</s>-gaṇas — [it is called] <s>Mauktikadāma</s> (Pearl String). // KedV 3.54 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhujaṅgaprayātaṃ bhavedyaiścatubhiḥ // KedV_3.55 //",
-          "segment_number": 170
+          "segment_number": 170,
+          "translated_text": "<s>Bhujaṅgaprayāta</s> (Serpent's Glide) has four <s>ya</s> [gaṇas]. // KedV 3.55 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "raiścaturbhiryutā sragviṇī sammatā // KedV_3.56 //",
-          "segment_number": 171
+          "segment_number": 171,
+          "translated_text": "<s>Sragviṇī</s> (Garlanded) is approved [with] four <s>ra</s> [gaṇas]. // KedV 3.56 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhuvi bhavennabhajaraiḥ priyaṃvadā // KedV_3.57 //",
-          "segment_number": 172
+          "segment_number": 172,
+          "translated_text": "<s>Priyaṃvadā</s> (Sweet-Speaker) has [gaṇas] <s>na</s>, <s>bha</s>, <s>ja</s>, <s>ra</s> on earth. // KedV 3.57 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "tyau tyau maṇimālā cchinnā guhavaktraiḥ // KedV_3.58 //",
-          "segment_number": 173
+          "segment_number": 173,
+          "translated_text": "<s>Maṇimālā</s> (Jewel Garland) — [with gaṇas] <s>ta</s>, <s>ya</s>, <s>ta</s>, <s>ya</s>, divided with caesura at [syllables] four and four. // KedV 3.58 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "dhīrairabhāṇi lalitā tabhaujarau // KedV_3.59 //",
-          "segment_number": 174
+          "segment_number": 174,
+          "translated_text": "<s>Lalitā</s> (Graceful) — by the wise, stated [with gaṇas] <s>ta</s>, <s>bha</s>, then <s>ja</s>, <s>ra</s>. // KedV 3.59 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pramitākṣarā sajasasairuditā // KedV_3.60 //",
-          "segment_number": 175
+          "segment_number": 175,
+          "translated_text": "<s>Pramitākṣarā</s> (Measured-Syllable) — stated [with gaṇas] <s>sa</s>, <s>ja</s>, <s>sa</s>, <s>sa</s> and a heavy. // KedV 3.60 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nanabharasahitā mahitojjvalā // KedV_3.61 //",
-          "segment_number": 176
+          "segment_number": 176,
+          "translated_text": "<s>Ujjvalā</s> (Radiant) — composed of <s>na</s>, <s>na</s>, <s>bha</s>, <s>ra</s>, and honored. // KedV 3.61 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "pañcāśvaiśchinnā vaiśyadevī mamau yau // KedV_3.62 //",
-          "segment_number": 177
+          "segment_number": 177,
+          "translated_text": "<s>Vaiśyadevī</s> — divided [with caesura] at [syllables] five and five; [with gaṇas] <s>ma</s>, <s>ma</s>, <s>ya</s>. // KedV 3.62 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "abdhyaṣṭābhirjaladharamālā mbhau smau // KedV_3.63 //",
-          "segment_number": 178
+          "segment_number": 178,
+          "translated_text": "<s>Jaladharamālā</s> (Cloud Garland) — [with caesura] at four and eight; [gaṇas] <s>ma</s>, <s>bha</s>, <s>sa</s>, <s>ma</s>. // KedV 3.63 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "iha navamālikā najabhayaiḥ syāt // KedV_3.64 //",
-          "segment_number": 179
+          "segment_number": 179,
+          "translated_text": "Here, <s>Navamālikā</s> (New Jasmine) has [gaṇas] <s>na</s>, <s>ja</s>, <s>bha</s>, <s>ya</s>. // KedV 3.64 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "svaraśaraviratirnanau rau prabhā // KedV_3.65 //",
-          "segment_number": 180
+          "segment_number": 180,
+          "translated_text": "<s>Prabhā</s> (Radiance) — [with] caesura at [syllables] seven and four; [gaṇas] <s>na</s>, <s>na</s>, <s>ra</s>. // KedV 3.65 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhavati najāvatha mālatī jarau // KedV_3.66 //",
-          "segment_number": 181
+          "segment_number": 181,
+          "translated_text": "<s>Mālatī</s> (Jasmine) has [gaṇas] <s>na</s>, <s>ja</s>, then after <s>ja</s>, <s>ra</s>. // KedV 3.66 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "jabhau jarau vadati pañcāmaram // KedV_3.67 //",
-          "segment_number": 182
+          "segment_number": 182,
+          "translated_text": "<s>Pañcāmara</s> is declared [with gaṇas] <s>ja</s>, <s>bha</s>, then <s>ja</s>, <s>ra</s>. // KedV 3.67 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "abhinavatāmarasaṃ najajādyaḥ // KedV_3.68 //",
-          "segment_number": 183
+          "segment_number": 183,
+          "translated_text": "<s>Abhinavatāmarasa</s> (Fresh Day-Lotus) — [with gaṇas] <s>na</s>, <s>ja</s>, <s>ja</s>, then the rest. // KedV 3.68 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "turagarasayatirnau tatau gaḥ kṣamā // KedV_3.69 //",
-          "segment_number": 184
+          "segment_number": 184,
+          "translated_text": "<s>Kṣamā</s> (Patience) — [with] caesura at [syllables] four and four; [gaṇas] <s>na</s>, <s>ta</s>, <s>ta</s>, <s>ga</s>. // KedV 3.69 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mnau jrau gastridaśayatiḥ praharṣiṇīam // KedV_3.70 //",
-          "segment_number": 185
+          "segment_number": 185,
+          "translated_text": "<s>Praharṣiṇī</s> (Delighter) — [with gaṇas] <s>ma</s>, <s>na</s>, <s>ja</s>, <s>ra</s>, <s>ga</s>, with caesura at three and ten. // KedV 3.70 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "caturgrahairatirucirā jabhasjagāḥ // KedV_3.71 //",
-          "segment_number": 186
+          "segment_number": 186,
+          "translated_text": "<s>Atirucirā</s> (Most Beautiful) — [with] four caesuras; [gaṇas] <s>ja</s>, <s>bha</s>, <s>sa</s>, <s>ja</s>, <s>ga</s>. // KedV 3.71 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vedai randhrairmtau yasagā mattamayūram // KedV_3.72 //",
-          "segment_number": 187
+          "segment_number": 187,
+          "translated_text": "<s>Mattamayūra</s> (Intoxicated Peacock) — [with caesura at] four and seven; [gaṇas] <s>ma</s>, <s>ta</s>, <s>ya</s>, <s>sa</s>, <s>ga</s>. // KedV 3.72 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "( upasthitamidaṃ jsau tsau sagurukaṃ cet ) // KedV_3.73 //",
-          "segment_number": 188
+          "segment_number": 188,
+          "translated_text": "(If <s>Upasthita</s> — this [has gaṇas] <s>ja</s>, <s>sa</s>, <s>ta</s>, <s>sa</s>, with a heavy syllable.) // KedV 3.73 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sajasā jagau bhavati mañjubhāṣiṇī // KedV_3.74 //",
-          "segment_number": 189
+          "segment_number": 189,
+          "translated_text": "<s>Mañjubhāṣiṇī</s> (Sweet-Speaker) has [gaṇas] <s>sa</s>, <s>ja</s>, <s>sa</s>, <s>ja</s>, <s>ga</s>. // KedV 3.74 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nanatatagurubhiścandrikāśvartubhiḥ // KedV_3.75 //",
-          "segment_number": 190
+          "segment_number": 190,
+          "translated_text": "<s>Candrikā</s> (Moonlight) — with <s>na</s>, <s>na</s>, <s>ta</s>, <s>ta</s>, and heavy syllables, [caesura] at seven and seven. // KedV 3.75 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mtau nsau gāvakṣagrahaviratisambādhā // KedV_3.76 //",
-          "segment_number": 191
+          "segment_number": 191,
+          "translated_text": "<s>Sambādhā</s> (Crowded) — [with gaṇas] <s>ma</s>, <s>ta</s>, <s>na</s>, <s>sa</s>, <s>ga</s>, with caesura at the window [= position] of the planet. // KedV 3.76 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nanarasalaghugaiḥ svarairaparājitā // KedV_3.77 //",
-          "segment_number": 192
+          "segment_number": 192,
+          "translated_text": "<s>Aparājitā</s> (Unconquered) — with <s>na</s>, <s>na</s>, <s>ra</s>, <s>sa</s>, light, heavy, <s>ga</s>, with [caesura at] seven. // KedV 3.77 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nanabhanalaghugaiḥ praharaṇakalitā // KedV_3.78 //",
-          "segment_number": 193
+          "segment_number": 193,
+          "translated_text": "<s>Praharaṇakalitā</s> (Weapon-Adorned) — with <s>na</s>, <s>na</s>, <s>bha</s>, <s>na</s>, light, heavy, <s>ga</s>. // KedV 3.78 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "uktā vasantatilakā tabhajā jagau gaḥ // KedV_3.79 //",
-          "segment_number": 194
+          "segment_number": 194,
+          "translated_text": "<s>Vasantatilakā</s> (Spring's Ornament) is stated [with gaṇas] <s>ta</s>, <s>bha</s>, <s>ja</s>, <s>ja</s>, <s>ga</s>, and a heavy. // KedV 3.79 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "siṃhonnateyamuditā munikāśyapena // KedV_3.80 //",
-          "segment_number": 195
+          "segment_number": 195,
+          "translated_text": "<s>Siṃhonnatā</s> (Lion-Raised) — this is stated by the sage <s>Kāśyapa</s>. // KedV 3.80 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "uddharṣiṇīyamuditā munisaitavena // KedV_3.81 //",
-          "segment_number": 196
+          "segment_number": 196,
+          "translated_text": "<s>Uddharṣiṇī</s> (Exhilarating) — this is stated by the sage <s>Saitava</s>. // KedV 3.81 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "induvadanā bhajasanaiḥ saguruyugmaiḥ // KedV_3.82 //",
-          "segment_number": 197
+          "segment_number": 197,
+          "translated_text": "<s>Induvadanā</s> (Moon-Faced) — [with gaṇas] <s>bha</s>, <s>ja</s>, <s>sa</s>, <s>na</s>, with a pair of heavy syllables. // KedV 3.82 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "dviḥsaptacchidalolā msau mbhau gau caraṇe cet // KedV_3.83 //",
-          "segment_number": 198
+          "segment_number": 198,
+          "translated_text": "<s>Lolā</s> (Fickle) — [with] twice-seven [= 14 syllables]; [gaṇas] <s>ma</s>, <s>sa</s>, <s>ma</s>, <s>bha</s>, <s>ga</s>, if in the foot. // KedV 3.83 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "dvihatahayalaghuratha giti śaśikalā // KedV_3.84 //",
-          "segment_number": 199
+          "segment_number": 199,
+          "translated_text": "<s>Śaśikalā</s> (Moon-Digit) — [with] twice four and horse [= 7] light [syllables], and <s>ga</s>. // KedV 3.84 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sragiti bhavati rasanavakayatiriyam // KedV_3.85 //",
-          "segment_number": 200
+          "segment_number": 200,
+          "translated_text": "This is the [meter] <s>Srak</s> (Garland), [with] caesura at six, nine, and four. // KedV 3.85 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vasuhayayatiriha maṇiguṇanikaraḥ // KedV_3.86 //",
-          "segment_number": 201
+          "segment_number": 201,
+          "translated_text": "<s>Maṇiguṇanikara</s> (Cluster of Jewel Qualities) — here [with] caesura at eight and seven. // KedV 3.86 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "nanamayayayuteyaṃ mālinī bhogilokaiḥ // KedV_3.87 //",
-          "segment_number": 202
+          "segment_number": 202,
+          "translated_text": "<s>Mālinī</s> (Garlanded) — endowed with <s>na</s>, <s>na</s>, <s>ma</s>, <s>ya</s>, <s>ya</s>, with [caesura at syllables] eight and seven. // KedV 3.87 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhavati najau bhajau rasahitau prabhadrakam // KedV_3.88 //",
-          "segment_number": 203
+          "segment_number": 203,
+          "translated_text": "<s>Prabhadraka</s> (Very Auspicious) has [gaṇas] <s>na</s>, <s>ja</s>, then <s>bha</s>, <s>ja</s>, with [caesura at] six. // KedV 3.88 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sajanā nayau śaradaśayatiriyamelā // KedV_3.89 //",
-          "segment_number": 204
+          "segment_number": 204,
+          "translated_text": "<s>Elā</s> (Cardamom) — <s>sa</s>, <s>ja</s>, <s>na</s>, then <s>na</s>, <s>ya</s>, with [caesura at syllables] ten and ten. // KedV 3.89 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mrau myau yāntau bhavetāṃ saptāṣṭabhiścandralekhā // KedV_3.90 //",
-          "segment_number": 205
+          "segment_number": 205,
+          "translated_text": "<s>Candralekhā</s> (Moon-Line) — <s>ma</s>, <s>ra</s>, <s>ma</s>, <s>ya</s> at the end would have [caesura at] seven and eight. // KedV 3.90 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhratrinagaiḥ svarātkhamṛṣabhagajavilasitam // KedV_3.91 //",
-          "segment_number": 206
+          "segment_number": 206,
+          "translated_text": "<s>Ṛṣabhagajavilasita</s> (Bull-Elephant's Play) — [with gaṇas] <s>bha</s>, <s>ra</s>, <s>tri</s>, <s>na</s>, <s>ga</s>, with [caesura after] seven. // KedV 3.91 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "najabhajaraiḥ sadā bhavati vāṇinī gayuktaiḥ // KedV_3.92 //",
-          "segment_number": 207
+          "segment_number": 207,
+          "translated_text": "<s>Vāṇinī</s> (Lute-Player) has always [gaṇas] <s>na</s>, <s>ja</s>, <s>bha</s>, <s>ja</s>, <s>ra</s>, with <s>ga</s> added. // KedV 3.92 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rasai rudraiśchinnā yamanasabhalā gaḥ śikhariṇī // KedV_3.93 //",
-          "segment_number": 208
+          "segment_number": 208,
+          "translated_text": "<s>Śikhariṇī</s> (Mountain Peak) — [with caesura at] six and eleven; [gaṇas] <s>ya</s>, <s>ma</s>, <s>na</s>, <s>sa</s>, <s>bha</s>, <s>la</s>, and a heavy. // KedV 3.93 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "jasau jasayalā vasugrahayatiśca pṛthvī guruḥ // KedV_3.94 //",
-          "segment_number": 209
+          "segment_number": 209,
+          "translated_text": "<s>Pṛthvī</s> (Earth) — [with gaṇas] <s>ja</s>, <s>sa</s>, <s>ja</s>, <s>sa</s>, <s>ya</s>, <s>la</s>, with [caesura at syllables] eight and nine, heavy. // KedV 3.94 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "diṅmuni vaṃśapatrapatitaṃ bharanabhanalagaiḥ // KedV_3.95 //",
-          "segment_number": 210
+          "segment_number": 210,
+          "translated_text": "<s>Vaṃśapatrapatita</s> (Fallen Bamboo Leaf) — [with caesura at] ten and seven; [gaṇas] <s>bha</s>, <s>ra</s>, <s>na</s>, <s>bha</s>, <s>na</s>, <s>la</s>, <s>ga</s>. // KedV 3.95 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "rasayugahayairnsau mrau slau gau yadā hariṇī tadā // KedV_3.96 //",
-          "segment_number": 211
+          "segment_number": 211,
+          "translated_text": "<s>Hariṇī</s> (Doe) — when [there are gaṇas] <s>na</s>, <s>sa</s>, <s>ma</s>, <s>ra</s>, <s>sa</s>, <s>la</s>, <s>ga</s>, with [caesura at] six, four, and seven. // KedV 3.96 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mandākrāntā jaladhiṣaḍagairmbhaunatau tād guru cet // KedV_3.97 //",
-          "segment_number": 212
+          "segment_number": 212,
+          "translated_text": "<s>Mandākrāntā</s> (Slow-Stepping) — [with caesura at] four, six, and six; [gaṇas] <s>ma</s>, <s>bha</s>, <s>na</s>, <s>ta</s>, <s>ta</s>, then heavy, if so. // KedV 3.97 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "hayadaśabhirnajau bhajajalā guru narkuṭakam // KedV_3.98 //",
-          "segment_number": 213
+          "segment_number": 213,
+          "translated_text": "<s>Narkuṭaka</s> — [with caesura at] seven and ten; [gaṇas] <s>na</s>, <s>ja</s>, <s>bha</s>, <s>ja</s>, <s>ja</s>, <s>la</s>, heavy. // KedV 3.98 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "muniguhakārṃavaiḥ kṛtayati vada kokilakam // KedV_3.99 //",
-          "segment_number": 214
+          "segment_number": 214,
+          "translated_text": "<s>Kokilaka</s> (Cuckoo) — state [it with caesura at] seven, seven, and seven; with completed [gaṇas and] measures. // KedV 3.99 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "syād bhūtartvaśvaiḥ kusumitalatāvellitā mtau nayau yau // KedV_3.100 //",
-          "segment_number": 215
+          "segment_number": 215,
+          "translated_text": "<s>Kusumitalatāvellitā</s> (Vine Adorned with Blossoms) — [with caesura at] five, eight, and six; [gaṇas] <s>ma</s>, <s>ta</s>, <s>na</s>, <s>ya</s>, <s>ya</s>. // KedV 3.100 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "sūryāśvairmasajastatāḥ saguravaḥ śārdūlavikrīḍitam // KedV_3.101 //",
-          "segment_number": 216
+          "segment_number": 216,
+          "translated_text": "<s>Śārdūlavikrīḍita</s> (Tiger's Sport) — [with caesura at] twelve and seven; [gaṇas] <s>ma</s>, <s>sa</s>, <s>ja</s>, <s>sa</s>, <s>ta</s>, <s>ta</s>, with a heavy. // KedV 3.101 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "jñeyā saptāśvaṣaḍbhrmarabhanayayutā bhlo gaḥ suvadanā // KedV_3.102 //",
-          "segment_number": 217
+          "segment_number": 217,
+          "translated_text": "<s>Suvadanā</s> (Beautiful-Faced) should be known [with caesura at] seven and seven and six; [gaṇas] <s>ma</s>, <s>ra</s>, <s>bha</s>, <s>na</s>, <s>ya</s>, with <s>bha</s>, <s>la</s>, <s>ga</s>. // KedV 3.102 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "trī rajau galau bhavedihedṛśena lakṣaṇena vṛttanāma // KedV_3.103 //",
-          "segment_number": 218
+          "segment_number": 218,
+          "translated_text": "A <s>vṛtta</s> (meter) name [is defined] by this kind of distinguishing characteristic [having gaṇas] <s>ta</s>, <s>ra</s>, <s>ja</s>, <s>ga</s>, <s>la</s>. // KedV 3.103 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mrabhnairyānāṃ trayeṇa trimuniyatiyutā sragdharā kīrtiteyam // KedV_3.104 //",
-          "segment_number": 219
+          "segment_number": 219,
+          "translated_text": "<s>Sragdharā</s> (Garland-Bearer) — proclaimed [with caesura at] seven, seven, and seven; [gaṇas] <s>ma</s>, <s>ra</s>, <s>bha</s>, <s>na</s>, <s>ya</s>, <s>ya</s>, <s>ya</s>, with three [syllables and caesura at] three, seven. // KedV 3.104 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhrau naranā ranāvatha gururdigarkaviramaṃ hi bhadrakamiti // KedV_3.105 //",
-          "segment_number": 220
+          "segment_number": 220,
+          "translated_text": "<s>Bhadraka</s> (Auspicious) — [with gaṇas] <s>bha</s>, <s>ra</s>, <s>na</s>, <s>ra</s>, <s>na</s>, <s>ra</s>, <s>na</s>, then a heavy, with caesura at ten and eleven. // KedV 3.105 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yadiha najau bhajau bhjabhalagāstadaśvalalitaṃ harārkayatimam // KedV_3.106 //",
-          "segment_number": 221
+          "segment_number": 221,
+          "translated_text": "If here [there are gaṇas] <s>na</s>, <s>ja</s>, <s>bha</s>, <s>ja</s>, <s>bha</s>, <s>ja</s>, <s>bha</s>, <s>la</s>, <s>ga</s> — then [it is] <s>Aśvalalita</s> (Horse's Play), with caesura at eleven and eleven. // KedV 3.106 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "matākrīḍā mau tnau nau nalgiti bhavati vasuśaradaśayatiyutā // KedV_3.107 //",
-          "segment_number": 222
+          "segment_number": 222,
+          "translated_text": "<s>Matākrīḍā</s> (Mother's Play) — [with gaṇas] <s>ma</s>, <s>ta</s>, <s>na</s>, <s>na</s>, <s>na</s>, <s>la</s>, <s>ga</s>, with caesura at eight and ten and four. // KedV 3.107 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "bhūtamuninairyatiriha bhatanāḥ sbhau bhanayāśca yadi bhavati tanvī // KedV_3.108 //",
-          "segment_number": 223
+          "segment_number": 223,
+          "translated_text": "<s>Tanvī</s> (Slender) — [with caesura at] five and seven; [gaṇas] <s>bha</s>, <s>ta</s>, <s>na</s>, <s>sa</s>, <s>bha</s>, <s>bha</s>, <s>na</s>, <s>ya</s>, if it occurs here. // KedV 3.108 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "krauñjapadā bhamau smau nananā ngāviṣaśaravasumuniviratiriha bhavet // KedV_3.109 //",
-          "segment_number": 224
+          "segment_number": 224,
+          "translated_text": "<s>Krauñcapadā</s> (Crane's Foot) — this would be [with gaṇas] <s>bha</s>, <s>ma</s>, <s>sa</s>, <s>ma</s>, <s>na</s>, <s>na</s>, <s>na</s>, <s>na</s>, <s>ga</s>, with caesura at six, four, eight, and seven. // KedV 3.109 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "vasvīśāśvacchedopetaṃ mamatanayuganarasalagairbhujaṅgavijṛmbhitam // KedV_3.110 //",
-          "segment_number": 225
+          "segment_number": 225,
+          "translated_text": "<s>Bhujaṅgavijṛmbhita</s> (Serpent's Yawn) — endowed with caesura at eight and eleven and eleven; [gaṇas] <s>ma</s>, <s>ma</s>, <s>ta</s>, <s>na</s>, <s>ya</s>, <s>ga</s>, <s>na</s>, <s>ra</s>, <s>sa</s>, <s>la</s>, <s>ga</s>. // KedV 3.110 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "mo nāḥ ṣaṭ sagagiti yadi navarasarasaśarayatiyutamapavāhākhyam // KedV_3.111 //",
-          "segment_number": 226
+          "segment_number": 226,
+          "translated_text": "If [with] <s>ma</s>, <s>na</s> six times, <s>sa</s>, <s>ga</s>, <s>ga</s> — with caesura at nine, six, six, and four — [it is called] <s>Apavāha</s>. // KedV 3.111 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "yadi ha nayugalaṃ tataḥ saptarephā stadā caṇḍavṛṣṭiprapāto bhaveddaṇḍakaḥ // KedV_3.112 //",
-          "segment_number": 227
+          "segment_number": 227,
+          "translated_text": "If there be a pair of <s>na</s>s, then seven <s>ra</s>s, then <s>sa</s> — then it is <s>Caṇḍavṛṣṭiprapāta</s> (Violent Rainfall); this would be <s>Daṇḍaka</s>. // KedV 3.112 //"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "praticaraṇavivṛddharephāḥ syurṇārṇavavyālajīmūtalīlākaroddāmaśaṅkhādayaḥ // KedV_3.113 //",
-          "segment_number": 228
+          "segment_number": 228,
+          "translated_text": "In each foot the <s>ra</s>-gaṇas increase — [meters such as] <s>Ārṇava</s> (Ocean), <s>Vyāla</s> (Serpent), <s>Jīmūta</s> (Cloud), <s>Līlā</s> (Play), <s>Kara</s> (Rays), <s>Uddāma</s> (Unrestrained), <s>Śaṅkha</s> (Conch), and so on. // KedV 3.113 //"
         },
         {
           "tag": "l",
@@ -1905,11 +2022,11 @@
           "translated_text": "Chapter Five."
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[padacaturūrdhva-prakaraṇam (1-5)]",
+          "text": "padacaturūrdhva-prakaraṇam (1-5)",
           "segment_number": 247,
-          "translated_text": "[Section on <s>padacaturūrdhva</s> meters (1-5)]"
+          "translated_text": "Section on <s>padacaturūrdhva</s> meters (1-5)"
         },
         {
           "tag": "p",
@@ -2025,11 +2142,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[udgatā-prakaraṇam (6-8)]",
+          "text": "udgatā-prakaraṇam (6-8)",
           "segment_number": 261,
-          "translated_text": "[Section on <s>udgatā</s> meters (6-8)]"
+          "translated_text": "Section on <s>udgatā</s> meters (6-8)"
         },
         {
           "tag": "lg",
@@ -2092,11 +2209,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[upasthitapracupita-prakaraṇam (9-11)]",
+          "text": "upasthitapracupita-prakaraṇam (9-11)",
           "segment_number": 268,
-          "translated_text": "[Section on <s>upasthitapracupita</s> meters (9-11)]"
+          "translated_text": "Section on <s>upasthitapracupita</s> meters (9-11)"
         },
         {
           "tag": "lg",
@@ -2193,11 +2310,11 @@
           "translated_text": "Chapter Six."
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[prastāraḥ]",
+          "text": "prastāraḥ",
           "segment_number": 279,
-          "translated_text": "[<s>Prastāra</s> (Expansion/Tabulation)]"
+          "translated_text": "<s>Prastāra</s> (Expansion/Tabulation)"
         },
         {
           "tag": "lg",
@@ -2260,11 +2377,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[naṣṭam]",
+          "text": "naṣṭam",
           "segment_number": 286,
-          "translated_text": "[<s>Naṣṭa</s> (Finding a Lost Meter)]"
+          "translated_text": "<s>Naṣṭa</s> (Finding a Lost Meter)"
         },
         {
           "tag": "p",
@@ -2281,11 +2398,11 @@
           "translated_text": "If odd, adding one, in the half of the half there should be a heavy [syllable]. // KedV_6.4 //"
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[uddiṣṭam]",
+          "text": "uddiṣṭam",
           "segment_number": 289,
-          "translated_text": "[<s>Uddiṣṭa</s> (Identifying a Meter)]"
+          "translated_text": "<s>Uddiṣṭa</s> (Identifying a Meter)"
         },
         {
           "tag": "lg",
@@ -2308,11 +2425,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[ekadvayādilagakriyā]",
+          "text": "ekadvayādilagakriyā",
           "segment_number": 292,
-          "translated_text": "[<s>Ekadvayādilagakriyā</s> (Process of Counting Meters with One, Two, etc. Light Syllables)]"
+          "translated_text": "<s>Ekadvayādilagakriyā</s> (Process of Counting Meters with One, Two, etc. Light Syllables)"
         },
         {
           "tag": "lg",
@@ -2355,11 +2472,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[saṅkhyānam]",
+          "text": "saṅkhyānam",
           "segment_number": 297,
-          "translated_text": "[<s>Saṅkhyāna</s> (Enumeration)]"
+          "translated_text": "<s>Saṅkhyāna</s> (Enumeration)"
         },
         {
           "tag": "lg",
@@ -2382,11 +2499,11 @@
           ]
         },
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[adhvayogaḥ]",
+          "text": "adhvayogaḥ",
           "segment_number": 300,
-          "translated_text": "[<s>Adhvayoga</s> (Path-Calculation)]"
+          "translated_text": "<s>Adhvayoga</s> (Path-Calculation)"
         },
         {
           "tag": "p",

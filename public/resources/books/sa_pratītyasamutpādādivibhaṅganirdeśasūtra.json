@@ -35,23 +35,14 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Vaidya 117"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Vaidya_117",
+        "label": "Vaidya 117"
+      }
     },
     {
-      "tag": "l",
-      "attributes": {
-        "rend": "bold"
-      },
+      "tag": "quote",
       "text": "Pratītyasamutpādādivibhaṅganirdeśasūtram |",
       "segment_number": 1,
       "translated_text": "<s>Pratītyasamutpādādivibhaṅganirdeśasūtra</s> (Sūtra on the Exposition of the Origin and Analysis of Dependent Arising)"
@@ -118,10 +109,7 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Psvibh, Vaidya 118",
           "segment_number": 11,
           "translated_text": "Psvibh, Vaidya 118"

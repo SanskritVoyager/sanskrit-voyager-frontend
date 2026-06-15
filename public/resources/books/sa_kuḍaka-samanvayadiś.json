@@ -40,22 +40,31 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.",
+          "segment_number": 1,
+          "translated_text": "3."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.]\n  SD\n  ---\n  SP\n  kṛtpratyayās triprakārāḥ #1 kṛtyā niṣṭhāghañādayaḥ /",
-          "segment_number": 1
+          "text": "  SD\n  ---\n  SP\n  kṛtpratyayās triprakārāḥ #1 kṛtyā niṣṭhāghañādayaḥ /",
+          "translated_text": "SD (Prose redaction)\n---\nSP (Verse redaction)\n<s>Kṛt</s> suffixes (verbal derivatives) are of three kinds: <s>kṛtya</s> (potential participles), <s>niṣṭhā</s> (past participles), and those beginning with <s>ghañ</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"kṛtyāḥ\" kṛtyapratyayāḥ #2 \"niṣṭhādayaś\" ca #3 \"ghañādayaś\" ca,\ndvandvāt paro #4 hi śabdaḥ pratyekam abhisambadhyate //",
-          "segment_number": 2
+          "segment_number": 2,
+          "translated_text": "(SPS commentary:) '<s>Kṛtyāḥ</s>' means <s>kṛtya</s>-suffixes; 'and those beginning with <s>niṣṭhā</s>'; 'and those beginning with <s>ghañ</s>' —\nfor the word following a <s>dvandva</s> (copulative compound) connects individually with each [member]."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#1 N: tiŚ; #2 N: ŚpratyaŚ s.m. in margina.; #3 N: Śś ca s.m. in margina.; #4 N: puŚ;",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "***NOTES:\n#1 N: tiŚ; #2 N: ŚpratyaŚ added in the margin; #3 N: Śś ca added in the margin; #4 N: puŚ;"
         }
       ]
     },
@@ -64,48 +73,64 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.1.",
+          "segment_number": 4,
+          "translated_text": "3.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.1.]\n  SD",
+          "text": "  SD",
+          "translated_text": "SD (Prose redaction)"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
           "children": [
             {
-              "tag": "lg",
+              "tag": "l",
               "attributes": {},
-              "children": [
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "---",
-                  "segment_number": 5
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "SP",
-                  "segment_number": 6
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "prāyaḥ kṛtyāś ca pañcaiva tavyānīyayakyapghyaṇaḥ #5 //",
-                  "segment_number": 7
-                }
-              ]
+              "text": "---",
+              "segment_number": 5,
+              "translated_text": "---"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "SP",
+              "segment_number": 6,
+              "translated_text": "SP (Verse redaction)"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "prāyaḥ kṛtyāś ca pañcaiva tavyānīyayakyapghyaṇaḥ #5 //",
+              "segment_number": 7,
+              "translated_text": "The <s>kṛtya</s> [suffixes] are mostly just five: <s>tavya</s>, <s>anīya</s>, <s>ya</s> (from <s>kyap</s>), <s>ghya</s> (from <s>ghyaṇ</s>)."
             }
-          ],
-          "segment_number": 4
+          ]
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) yady api tavaikekenyatvā #6 ity ete 'pi kṛtyās, tathāpi #7 lakṣye prayo-\ngādarśanān naivaite #8 kṛtyā ity etadartham uktaṃ #9 \"prāyaḥ pañcaive\"ti //",
-          "segment_number": 8
+          "segment_number": 8,
+          "translated_text": "(SPS commentary:) Although <s>tavaikekenyatvā</s> [Pāṇini 3.4.14] — these too are <s>kṛtya</s> [suffixes], nevertheless, since they are not observed in usage in literary works, they are indeed not [counted as] <s>kṛtya</s> — for this purpose it is said 'mostly just five.'"
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.1.1.",
+          "segment_number": 9,
+          "translated_text": "3.1.1."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[3.1.1.]\n  SD\n(11r:) [bhā]ve utpadyante. bhāvasya dhātvarthamātrasya sāmānyarūpatvād eka-\ntvāc ca bhāve prathamaikavacanam eva bhavati, yathā 'tena, tābhyām, taiḥ, tva-\nyā, yuvābhyām, yuṣmābhiḥ, mayā, āvābhyām, asmābhiḥ vā, bhavitavyam'.\nevaṃ liṅge kartari, napuṃsakaliṅge ca, sākalyād bhedāḥ.",
-          "segment_number": 9
+          "text": "  SD\n(11r:) [bhā]ve utpadyante. bhāvasya dhātvarthamātrasya sāmānyarūpatvād eka-\ntvāc ca bhāve prathamaikavacanam eva bhavati, yathā 'tena, tābhyām, taiḥ, tva-\nyā, yuvābhyām, yuṣmābhiḥ, mayā, āvābhyām, asmābhiḥ vā, bhavitavyam'.\nevaṃ liṅge kartari, napuṃsakaliṅge ca, sākalyād bhedāḥ.",
+          "translated_text": "SD (Prose redaction)\nThey arise in the sense of <s>bhāva</s> (impersonal action). Since <s>bhāva</s>, being merely the meaning of the verbal root, has a general nature and is singular, only the nominative singular occurs in <s>bhāva</s> [usage], as in 'By him, by those two, by them, by you, by you two, by you all, by me, by us two, or by us — it must be done (<s>bhavitavyam</s>).' Similarly in the case of gender — in agent [usage], in neuter gender — due to comprehensiveness, [there are] variations."
         },
         {
           "tag": "lg",
@@ -115,25 +140,29 @@
               "tag": "l",
               "attributes": {},
               "text": "SP",
-              "segment_number": 10
+              "segment_number": 10,
+              "translated_text": "SP (Verse redaction)"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "ete cākarmakād dhātor utpadyante yadā, tadā /",
-              "segment_number": 11
+              "segment_number": 11,
+              "translated_text": "When these [suffixes] arise from an intransitive (<s>akarmaka</s>) root, then,"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "dhātvarthaikatayā teṣām ādyaikavacanam bhavet /",
-              "segment_number": 12
+              "segment_number": 12,
+              "translated_text": "due to the unity of the verbal meaning, the first [case], singular number, applies to them;"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "'bhavitavyaṃ tvayā, tena, tābhyāṃ, tair vā, tayā' yathā //",
-              "segment_number": 13
+              "segment_number": 13,
+              "translated_text": "as in '<s>bhavitavyaṃ tvayā, tena, tābhyāṃ, tair vā, tayā</s>' (it must be done — by you, by him, by those two, by them, or by her)."
             }
           ]
         },
@@ -141,7 +170,8 @@
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#5 Ś: Nach ŚkyapŚ 2 Akṣaras zerstört. N: Nach ŚkyaŚ ein Akṣara getilgt, s.m. in\nmargina: ŚpaghyaŚ.; #6 Pāṇ 3.4.14: kṛtyārthe tavaikenkenyatvanaḥ. ; #7 Ś: Nach\ntathāŚ ca. vier Akṣaras zerstört.; #8 Ś: Śyoge darśanan naivetye; N: naivete.; #9 Ś:\nNach uktaṃ sechs Akṣaras zerstört.;",
-          "segment_number": 14
+          "segment_number": 14,
+          "translated_text": "***NOTES:\n#5 Ś: After ŚkyapŚ, 2 <s>akṣaras</s> destroyed. N: After ŚkyaŚ, one <s>akṣara</s> deleted, added in the margin: ŚpaghyaŚ; #6 Pāṇini 3.4.14: <s>kṛtyārthe tavaikenkenyatvanaḥ</s>; #7 Ś: After <s>tathā</s>, four <s>akṣaras</s> destroyed; #8 Ś: <s>Śyoge darśanan naivetye</s>; N: <s>naivete</s>; #9 Ś: After <s>uktaṃ</s>, six <s>akṣaras</s> destroyed;"
         }
       ]
     },
@@ -150,23 +180,30 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.1.2.",
+          "segment_number": 15,
+          "translated_text": "3.1.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.1.2.]\n  SD\n27 sakarmakāt tu kṛtyapratyayāḥ karmaṇi bhavanti. tadā karmaṇaḥ kriyāyāś ca\nparasparasambandhe sati, karmābhihitaṃ bhavati / abhihite karmaṇi liṅgārtha-",
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "mātre, prathamā bhavati / tadā ca karmānusāreṇa triliṅgatvam 27, [yathā] #10 27",
-              "segment_number": 16
-            },
-            {
-              "tag": "text",
-              "text": "'tena grāmo gantavyaḥ, tena nagaraṃ gantavyam 27, tena nagarī gantavyā' 27 //",
-              "segment_number": 17
-            }
-          ],
-          "segment_number": 15
+          "text": "  SD\n27 sakarmakāt tu kṛtyapratyayāḥ karmaṇi bhavanti. tadā karmaṇaḥ kriyāyāś ca\nparasparasambandhe sati, karmābhihitaṃ bhavati / abhihite karmaṇi liṅgārtha-",
+          "translated_text": "SD (Prose redaction)\nBut from a transitive (<s>sakarmaka</s>) root, <s>kṛtya</s> suffixes apply in the sense of the object (<s>karman</s>). Then, when there is mutual connection between the object and the action, the object is denoted. When the object is denoted, [depending on] the meaning of gender alone,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "mātre, prathamā bhavati / tadā ca karmānusāreṇa triliṅgatvam 27, [yathā] #10 27",
+          "segment_number": 16,
+          "translated_text": "the first case (nominative) applies. And then, in accordance with the object, [the form takes on] three genders, as in"
+        },
+        {
+          "tag": "text",
+          "text": "'tena grāmo gantavyaḥ, tena nagaraṃ gantavyam 27, tena nagarī gantavyā' 27 //",
+          "segment_number": 17,
+          "translated_text": "'<s>tena grāmo gantavya���</s>' (the village must be gone to by him), '<s>tena nagaraṃ gantavyam</s>' (the city must be gone to by him), '<s>tena nagarī gantavyā</s>' (the town must be gone to by him)."
         },
         {
           "tag": "lg",
@@ -176,19 +213,22 @@
               "tag": "l",
               "attributes": {},
               "text": "SP",
-              "segment_number": 18
+              "segment_number": 18,
+              "translated_text": "SP (Verse redaction)"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "sakarmakād amī dhātor utpadyante yadā, tadā /",
-              "segment_number": 19
+              "segment_number": 19,
+              "translated_text": "When these [suffixes] arise from a transitive root, then,"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "teṣāṃ karmānusāreṇa liṅgasaṃkhyāvibhaktayaḥ //",
-              "segment_number": 20
+              "segment_number": 20,
+              "translated_text": "their gender, number, and case [agreement is] in accordance with the object."
             }
           ]
         },
@@ -200,13 +240,15 @@
               "tag": "l",
               "attributes": {},
               "text": "'gantavyo bhavatā grāmo, gantavyā nagarī tvayā /",
-              "segment_number": 21
+              "segment_number": 21,
+              "translated_text": "'<s>gantavyo bhavatā grāmo</s>' (the village must be gone to by you), '<s>gantavyā nagarī tvayā</s>' (the town must be gone to by you),"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "gantavyaṃ nagaraṃ tenety' udāharaṇayojanā //",
-              "segment_number": 22
+              "segment_number": 22,
+              "translated_text": "'<s>gantavyaṃ nagara��� tena</s>' (the city must be gone to by him) — [thus is] the construction of examples."
             }
           ]
         },
@@ -214,7 +256,8 @@
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#10 Ms: te(11v)na;",
-          "segment_number": 23
+          "segment_number": 23,
+          "translated_text": "***NOTES:\n#10 Ms: <s>te(11v)na</s>;"
         }
       ]
     },
@@ -223,22 +266,37 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[3.1.3.]\n  SD\nkṛtyapratyayānāṃ kartari kadācit ṣaṣṭhī bhavati, kadācit tṛtīyā bhavati, yathā\n'tasya, tena vā, bhavitavyam / tasya, tena vā, grāmo gantavyaḥ'.",
-          "segment_number": 24
+          "text": "3.1.3.",
+          "segment_number": 24,
+          "translated_text": "3.1.3."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[3.1.4.]\n  SD\ntavyānīyau [~Pāṇ 3.1.96], svarād yaḥ [~Pāṇ 3.1.97], vṛ-dṛ-juṣi-iṇ-śasu-stu-\nguhāṃ #11 kyap [~Pāṇ 3.1.109], ṛvarṇavyañjanāntād ghyaṇ [~Pāṇ 3.1.124],\nbhāvakarmaṇoḥ kṛtyakhalarthā [~Pāṇ 3.4.70] ity ete pratyayāḥ bāhulyena\nvartamāne kāle pañcamyarthe, [']numatau vidhau vā, bhavanti /",
-          "segment_number": 25
+          "text": "  SD\nkṛtyapratyayānāṃ kartari kadācit ṣaṣṭhī bhavati, kadācit tṛtīyā bhavati, yathā\n'tasya, tena vā, bhavitavyam / tasya, tena vā, grāmo gantavyaḥ'.",
+          "translated_text": "SD (Prose redaction)\nWith <s>kṛtya</s> suffixes, sometimes the sixth case (genitive) applies to the agent, sometimes the third case (instrumental), as in '<s>tasya, tena vā, bhavitavyam</s>' (by him / of him, it must be done); '<s>tasya, tena vā, grāmo gantavyaḥ</s>' (by him / of him, the village must be gone to)."
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.1.4.",
+          "segment_number": 25,
+          "translated_text": "3.1.4."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "  SD\ntavyānīyau [~Pāṇ 3.1.96], svarād yaḥ [~Pāṇ 3.1.97], vṛ-dṛ-juṣi-iṇ-śasu-stu-\nguhāṃ #11 kyap [~Pāṇ 3.1.109], ṛvarṇavyañjanāntād ghyaṇ [~Pāṇ 3.1.124],\nbhāvakarmaṇoḥ kṛtyakhalarthā [~Pāṇ 3.4.70] ity ete pratyayāḥ bāhulyena\nvartamāne kāle pañcamyarthe, [']numatau vidhau vā, bhavanti /",
+          "translated_text": "SD (Prose redaction)\n<s>Tavya</s> and <s>anīya</s> [Pāṇini 3.1.96], <s>ya</s> after vowels [Pāṇini 3.1.97], <s>kyap</s> after <s>vṛ</s>, <s>dṛ</s>, <s>juṣ</s>, <s>iṇ</s>, <s>śas</s>, <s>stu</s>, and <s>guh</s> [Pāṇini 3.1.109], <s>ghyaṇ</s> after [roots ending in] <s>ṛ</s>-vowels or consonants [Pāṇini 3.1.124], and '<s>bhāvakarmaṇoḥ kṛtyakhalarthā</s>' (in the sense of <s>bhāva</s> and <s>karman</s>, <s>kṛtya</s> and <s>khal</s> [suffixes]) [Pāṇini 3.4.70] — these suffixes generally [apply] in the present tense, in the sense of the fifth [case], in the sense of permission, or in the sense of injunction."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#11 Ms: ŚjuṣīṇŚ;",
-          "segment_number": 26
+          "segment_number": 26,
+          "translated_text": "***NOTES:\n#11 Ms: ŚjuṣīṇŚ;"
         }
       ]
     },
@@ -247,16 +305,24 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.1.4.1.",
+          "segment_number": 27,
+          "translated_text": "3.1.4.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.1.4.1.]\n  SD\nanumatiḥ praśnapūrvako [']ṅgīkāraḥ, yathā 'kim ahaṃ grāmaṃ gacchāmi, na\nvā'. sa(12r:)mpraty ucyate #12, 'tvaṃ grāmaṃ gaccha, tvayā grāmo gantavya' iti\nvā.",
-          "segment_number": 27
+          "text": "  SD\nanumatiḥ praśnapūrvako [']ṅgīkāraḥ, yathā 'kim ahaṃ grāmaṃ gacchāmi, na\nvā'. sa(12r:)mpraty ucyate #12, 'tvaṃ grāmaṃ gaccha, tvayā grāmo gantavya' iti\nvā.",
+          "translated_text": "SD (Prose redaction)\nPermission (<s>anumati</s>) is acceptance preceded by a question, as in 'Shall I go to the village or not?' Thereupon it is said: 'You go to the village,' or '<s>tvayā grāmo gantavyaḥ</s>' (the village must be gone to by you)."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#12 Ms: ūcŚ;",
-          "segment_number": 28
+          "segment_number": 28,
+          "translated_text": "***NOTES:\n#12 Ms: <s>ūcŚ</s>;"
         }
       ]
     },
@@ -265,32 +331,42 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.1.4.2.",
+          "segment_number": 29,
+          "translated_text": "3.1.4.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.1.4.2.]\n  SD\nvidhir ajñātajñāpanaṃ, yathā 'tvaṃ grāmaṃ gaccha, tvayā grāmo gantavya' ity\nuktāḥ kṛtyapratyayāḥ.",
-          "segment_number": 29
+          "text": "  SD\nvidhir ajñātajñāpanaṃ, yathā 'tvaṃ grāmaṃ gaccha, tvayā grāmo gantavya' ity\nuktāḥ kṛtyapratyayāḥ.",
+          "translated_text": "SD (Prose redaction)\nInjunction (<s>vidhi</s>) is the making known of what is unknown, as in '<s>tvaṃ grāmaṃ gaccha</s>' (you go to the village), '<s>tvayā grāmo gantavyaḥ</s>' (the village must be gone to by you) — thus the <s>kṛtya</s> suffixes have been stated."
         },
         {
           "tag": "lg",
           "attributes": {},
           "children": [
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[3.2.]",
-              "segment_number": 30
+              "text": "3.2.",
+              "segment_number": 30,
+              "translated_text": "3.2."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "SD",
-              "segment_number": 31
+              "segment_number": 31,
+              "translated_text": "SD (Prose redaction)"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "niṣṭhādaya ucyante // ktaktavantū niṣṭhasaṃjñau [~Pāṇ 1.1.26], kvansu[~Pāṇ",
-              "segment_number": 32
+              "segment_number": 32,
+              "translated_text": "The <s>niṣṭhā</s> [suffixes] and the rest are now stated. '<s>Kta</s> and <s>ktavatu</s> are designated <s>niṣṭhā</s>' [Pāṇini 1.1.26]; <s>kvansu</s> [Pāṇini"
             }
           ]
         },
@@ -298,25 +374,29 @@
           "tag": "p",
           "attributes": {},
           "text": "3.2.107]-kāna[~Pāṇ 3.2.106]-śantṛṅ-ānaś[~Pāṇ 3.2.124]-ki[~Pāṇ 3.2.171]-\nu[~Pāṇ 3.2.168]-ukañ[~Pāṇ 3.2.154]-iṣṇu[~Pāṇ 3.2.136]-ktvā[~Pāṇ 3.4.18]-\nkhal[~Pāṇ 3.3.126]-yuś[~Pāṇ 3.2.148]-ānaṅ[~Pāṇ 3.2.128]-tṛṇ[~Pāṇ 3.2.135]-\nvuṇ[~Pāṇ 3.2.146]-ṇin[~Pāṇ 3.1.134] ityādayo niṣṭhādayaḥ /",
-          "segment_number": 33
+          "segment_number": 33,
+          "translated_text": "3.2.107], <s>kāna</s> [Pāṇini 3.2.106], <s>śatṛṅ</s>, <s>ānaś</s> [Pāṇini 3.2.124], <s>ki</s> [Pāṇini 3.2.171], <s>u</s> [Pāṇini 3.2.168], <s>ukañ</s> [Pāṇini 3.2.154], <s>iṣṇu</s> [Pāṇini 3.2.136], <s>ktvā</s> [Pāṇini 3.4.18], <s>khal</s> [Pāṇini 3.3.126], <s>yuś</s> [Pāṇini 3.2.148], <s>ānaṅ</s> [Pāṇini 3.2.128], <s>tṛṇ</s> [Pāṇini 3.2.135], <s>vuṇ</s> [Pāṇini 3.2.146], <s>ṇin</s> [Pāṇini 3.1.134] — and so forth: these are the <s>niṣṭhā</s> and the rest."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  niṣṭhādayaḥ ktaktavantū #13 kvansukānādayaḥ #14 smṛtāḥ /",
-          "segment_number": 34
+          "segment_number": 34,
+          "translated_text": "SP (Verse redaction)\nThe <s>niṣṭhā</s> and the rest are remembered as <s>kta</s>, <s>ktavatu</s>, <s>kvansu</s>, <s>kāna</s>, and the rest."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"ādinā #15\" śantṛṅṅādyāḥ #16.",
-          "segment_number": 35
+          "segment_number": 35,
+          "translated_text": "(SPS commentary:) 'And the rest' [includes] those beginning with <s>śatṛṅṅ</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#13 N: ŚktarvanŚ; #14 N: ŚnsuŚ s.m. in margina.; #15 Ś: āŚ zerstört.; #16 N: ŚṅṅaŚ\nin margina.;",
-          "segment_number": 36
+          "segment_number": 36,
+          "translated_text": "***NOTES:\n#13 N: ŚktarvanŚ; #14 N: ŚnsuŚ added in the margin; #15 Ś: āŚ destroyed; #16 N: ŚṅṅaŚ in the margin;"
         }
       ]
     },
@@ -325,16 +405,30 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.2.1.",
+          "segment_number": 37,
+          "translated_text": "3.2.1."
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.2.1.1.",
+          "translated_text": "3.2.1.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.2.1.]\n[3.2.1.1.]\n  SD\ntatra ktapratyayas sarvadhātūnām akarmakāṇām atīte kāle bhāve utpadyate. tatra\nnapuṃsakaliṅgaṃ prathamaikavacanam eva bhavati, yathā 'tenāsitam' 27.",
-          "segment_number": 37
+          "text": "  SD\ntatra ktapratyayas sarvadhātūnām akarmakāṇām atīte kāle bhāve utpadyate. tatra\nnapuṃsakaliṅgaṃ prathamaikavacanam eva bhavati, yathā 'tenāsitam' 27.",
+          "translated_text": "SD (Prose redaction)\nTherein, the <s>kta</s> suffix of all intransitive roots arises in the sense of <s>bhāva</s> (impersonal) in the past tense. There, only the neuter nominative singular occurs, as in '<s>tenāsitam</s>' (by him it was sat = he sat)."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  atīte 'rthe 'karmakāṇāṃ bhāve #17 ktapratyayaḥ smṛtaḥ //",
-          "segment_number": 38
+          "segment_number": 38,
+          "translated_text": "SP (Verse redaction)\nIn the past sense, for intransitive [roots], the <s>kta</s> suffix is prescribed in the <s>bhāva</s> sense."
         },
         {
           "tag": "lg",
@@ -344,13 +438,15 @@
               "tag": "l",
               "attributes": {},
               "text": "dhātvarthaikatayā tasya pratha[maikava]co #18, yathā #19 /",
-              "segment_number": 39
+              "segment_number": 39,
+              "translated_text": "Due to the unity of the verbal meaning, its [form is] nominative singular, as in:"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "'āsitaṃ tena, tābhir vā, tābhyāṃ, tair vā, tvayā, mayā' //",
-              "segment_number": 40
+              "segment_number": 40,
+              "translated_text": "'<s>āsitaṃ tena, tābhir vā, tābhyāṃ, tair vā, tvayā, mayā</s>' (it was sat — by him, by them [f.], by those two, by them [m.], by you, by me)."
             }
           ]
         },
@@ -358,13 +454,15 @@
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"prathamaikavacaḥ\" prathamavibhaktyekavacanam.",
-          "segment_number": 41
+          "segment_number": 41,
+          "translated_text": "(SPS commentary:) '<s>Prathamaikavacaḥ</s>' means the nominative case, singular number."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#17 Ś: Śve ktaŚ zerstört.; #18 Ś: Nach prathaŚ drei Akṣaras zerstört.; #19 N: om.\ndhātvŚ bis yathā.;",
-          "segment_number": 42
+          "segment_number": 42,
+          "translated_text": "***NOTES:\n#17 Ś: ŚveŚ ktaŚ destroyed; #18 Ś: After <s>prathaŚ</s>, three <s>akṣaras</s> destroyed; #19 N: omits from <s>dhātvŚ</s> to <s>yathā</s>;"
         }
       ]
     },
@@ -373,10 +471,17 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.2.1.2.",
+          "segment_number": 43,
+          "translated_text": "3.2.1.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.2.1.2.]\n  SD\nsakarmakāṇāṃ dhātūnāṃ (12v:) ktapratyayo [']tīte kāle karmaṇy eva bhavati, na\ntu bhāve. tatra karmābhihitaṃ bhavati / karmānusāreṇa ktapratyayāntasya triliṅ-\ngatvam, yathā 'tenaudanaḥ #20 bhuktaḥ 27, tena 27 śikhariṇī bhuktā, tena\nbhuṭitraṃ #21 bhuktam' iti.",
-          "segment_number": 43
+          "text": "  SD\nsakarmakāṇāṃ dhātūnāṃ (12v:) ktapratyayo [']tīte kāle karmaṇy eva bhavati, na\ntu bhāve. tatra karmābhihitaṃ bhavati / karmānusāreṇa ktapratyayāntasya triliṅ-\ngatvam, yathā 'tenaudanaḥ #20 bhuktaḥ 27, tena 27 śikhariṇī bhuktā, tena\nbhuṭitraṃ #21 bhuktam' iti.",
+          "translated_text": "SD (Prose redaction)\nThe <s>kta</s> suffix of transitive roots arises in the past tense in the sense of the object (<s>karman</s>) only, not in the sense of <s>bhāva</s>. There, the object is denoted. In accordance with the object, the <s>kta</s>-suffixed form takes three genders, as in '<s>tenaudanaḥ bhuktaḥ</s>' (rice was eaten by him), '<s>tena śikhariṇī bhuktā</s>' (the <s>śikhariṇī</s> [a curd dish] was eaten by him), '<s>tena bhuṭitraṃ bhuktam</s>' (the <s>bhuṭitra</s> [a baked bread] was eaten by him)."
         },
         {
           "tag": "lg",
@@ -386,25 +491,29 @@
               "tag": "l",
               "attributes": {},
               "text": "SP",
-              "segment_number": 44
+              "segment_number": 44,
+              "translated_text": "SP (Verse redaction)"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "yadā sakarmakāṇāṃ ktaḥ #22 karmaṇy utpadyate, tadā /",
-              "segment_number": 45
+              "segment_number": 45,
+              "translated_text": "When <s>kta</s> of transitive [roots] arises in the sense of the object, then,"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "tasya karmānusāreṇa liṅgasaṃkhyāvibhaktayaḥ /",
-              "segment_number": 46
+              "segment_number": 46,
+              "translated_text": "its gender, number, and case [agree] in accordance with the object."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "'bhuktā drākṣā, phalaṃ bhuktaṃ, bhuktas tenaudano' yathā #23 //",
-              "segment_number": 47
+              "segment_number": 47,
+              "translated_text": "'<s>bhuktā drākṣā</s>' (the grape was eaten), '<s>phalaṃ bhuktam</s>' (the fruit was eaten), '<s>bhuktas tenaudano</s>' (rice was eaten by him) — as [examples]."
             }
           ]
         },
@@ -412,7 +521,8 @@
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#20 Ms: tenodaŚ; #21 Ist hier \"bhaṭitraṃ\" (pw: 'am Spiesse gebacken',\nBhāvaprakāśa 2.20) zu lesen? - A/W: 'The word is obviously a Sanskritization. It\ncould be that it refers to \"bhaṭurā/baṭurā\" (from \"bhaṭṭhā/bhaṭṭhi\" 'kiln, oven'\nwhich, in turn, may be from \"bhrasj\"), a type of \"nān\"/bread commonly used in the\nPunjab-Jammu area, and that MW, etc. have not understood the nature of the\neatable exactly. The same dictionaries explain \"śikhariṇī\" as a dish made of curds,\nsugar, and spices, but the obvious cognate \"śikaraṇ\" current in Marathi stands\nprimarily for crushed bananas or plantain fruits mixed with milk and sugar'.; #22 Ś:\nstatt ktaḥ: aŚ ; #23 Ś: om. bhuktā bis yathā.;",
-          "segment_number": 48
+          "segment_number": 48,
+          "translated_text": "***NOTES:\n#20 Ms: <s>tenodaŚ</s>; #21 Is '<s>bhaṭitraṃ</s>' (as per pw: 'roasted on a spit,' Bhāvaprakāśa 2.20) to be read here? — A/W: 'The word is obviously a Sanskritization. It could be that it refers to \"bhaṭurā/baṭurā\" (from \"bhaṭṭhā/bhaṭṭhi\" meaning kiln, oven, which in turn may be from \"bhrasj\"), a type of \"nān\"/bread commonly used in the Punjab-Jammu area, and that MW, etc. have not understood the nature of the eatable exactly. The same dictionaries explain \"śikhariṇī\" as a dish made of curds, sugar, and spices, but the obvious cognate \"śikaraṇ\" current in Marathi stands primarily for crushed bananas or plantain fruits mixed with milk and sugar'; #22 Ś: instead of <s>ktaḥ</s>: aŚ; #23 Ś: omits from <s>bhuktā</s> to <s>yathā</s>;"
         }
       ]
     },
@@ -425,22 +535,25 @@
           "attributes": {},
           "children": [
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[3.2.1.3.]",
-              "segment_number": 49
+              "text": "3.2.1.3.",
+              "segment_number": 49,
+              "translated_text": "3.2.1.3."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "SD",
-              "segment_number": 50
+              "segment_number": 50,
+              "translated_text": "SD (Prose redaction)"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "niyatānām eva dhātūnāṃ ktapratyayaḥ kartari bhavati // gatyarthākarmaka #24-",
-              "segment_number": 51
+              "segment_number": 51,
+              "translated_text": "The <s>kta</s> suffix applies in the agent sense only for a restricted set of roots: '<s>gatyarthākarmaka</s>-"
             }
           ]
         },
@@ -448,19 +561,22 @@
           "tag": "p",
           "attributes": {},
           "text": "śliṣa-śīṅ-sthāsa-vasa-ruha-jana-jīryatibhyaś [Pāṇ 3.4.72] ceti / 2.",
-          "segment_number": 52
+          "segment_number": 52,
+          "translated_text": "<s>śliṣa-śīṅ-sthāsa-vasa-ruha-jana-jīryatibhyaś</s>' [Pāṇini 3.4.72] — and so forth."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  'maitro grāmaṃ gata' iti prathamokte 'tra kartari /",
-          "segment_number": 53
+          "segment_number": 53,
+          "translated_text": "SP (Verse redaction)\n'<s>Maitro grāmaṃ gataḥ</s>' (Maitra has gone to the village) — here, [the <s>kta</s> suffix is] prescribed in the agent sense."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#24 Ms: ŚākarmāŚ;",
-          "segment_number": 54
+          "segment_number": 54,
+          "translated_text": "***NOTES:\n#24 Ms: ŚākarmāŚ;"
         }
       ]
     },
@@ -469,29 +585,37 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.2.2.",
+          "segment_number": 55,
+          "translated_text": "3.2.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.2.2.]\n  SD\nktavantupratyayo [']karmakebhyas sakarmakebhyo vā dhātubhyo [']tīte kāle kar-",
-          "children": [
-            {
-              "tag": "l",
-              "attributes": {},
-              "text": "tary eva bhavati / na kadācid bhāvakarmaṇoḥ ktavantupratya(---[Bl.13 fehlt]).",
-              "segment_number": 56
-            },
-            {
-              "tag": "text",
-              "text": "(14r:)rthā ity uktās saṃkṣepeṇa niṣṭhādayaḥ //",
-              "segment_number": 57
-            }
-          ],
-          "segment_number": 55
+          "text": "  SD\nktavantupratyayo [']karmakebhyas sakarmakebhyo vā dhātubhyo [']tīte kāle kar-",
+          "translated_text": "SD (Prose redaction)\nThe <s>ktavantu</s> suffix, from either intransitive or transitive roots, in the past tense, always"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tary eva bhavati / na kadācid bhāvakarmaṇoḥ ktavantupratya(---[Bl.13 fehlt]).",
+          "segment_number": 56,
+          "translated_text": "arises in the agent sense only — never in the senses of <s>bhāva</s> or <s>karman</s> does the <s>ktavantu</s> suffix [arise] (lacuna — folio 13 missing)."
+        },
+        {
+          "tag": "text",
+          "text": "(14r:)rthā ity uktās saṃkṣepeṇa niṣṭhādayaḥ //",
+          "segment_number": 57,
+          "translated_text": "[continuation:] ...meaning' — thus the <s>niṣṭhā</s> and the rest have been stated in summary."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  kartary #25 eva ktavantuḥ #26 syān, na kvacid bhāvakarmaṇoḥ //",
-          "segment_number": 58
+          "segment_number": 58,
+          "translated_text": "SP (Verse redaction)\nThe <s>ktavantu</s> [suffix] applies only in the agent sense, never in [the senses of] <s>bhāva</s> or <s>karman</s>."
         },
         {
           "tag": "lg",
@@ -501,19 +625,22 @@
               "tag": "l",
               "attributes": {},
               "text": "tasya kartranusāreṇa liṅgasaṅkhyāvibhaktayaḥ #27 /",
-              "segment_number": 59
+              "segment_number": 59,
+              "translated_text": "Its gender, number, and case [agree] in accordance with the agent."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "'bhuktavān #28 odanaṃ caitro, nārī bhuktavatī, kulam /",
-              "segment_number": 60
+              "segment_number": 60,
+              "translated_text": "'<s>Bhuktavān odanaṃ caitraḥ</s>' (<s>Caitra</s> has eaten rice [m. sg.]), '<s>nārī bhuktavatī</s>' (the woman has eaten [f. sg.]), '<s>kulam</s>"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "bhuktavat, puruṣā bhuktavanta' ityādinirṇayaḥ //",
-              "segment_number": 61
+              "segment_number": 61,
+              "translated_text": "<s>bhuktavat</s>' (the family has eaten [n. sg.]), '<s>puruṣā bhuktavantaḥ</s>' (the men have eaten [m. pl.]) — thus is the determination."
             }
           ]
         },
@@ -521,7 +648,8 @@
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#25 N: kartayeva; #26 N: Śvaktuḥ; #27 Ś: Vier Akṣaras nach ŚsaṅkhyāŚ teilweise\nzerstört.; #28 Ś: Die folgenden 21 Akṣaras fast vollständig zerstört.;",
-          "segment_number": 62
+          "segment_number": 62,
+          "translated_text": "***NOTES:\n#25 N: <s>kartayeva</s>; #26 N: ŚvaktuŚ; #27 Ś: Four <s>akṣaras</s> after ŚsaṅkhyāŚ partially destroyed; #28 Ś: The following 21 <s>akṣaras</s> almost completely destroyed;"
         }
       ]
     },
@@ -534,22 +662,25 @@
           "attributes": {},
           "children": [
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[3.3.]",
-              "segment_number": 63
+              "text": "3.3.",
+              "segment_number": 63,
+              "translated_text": "3.3."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "SD",
-              "segment_number": 64
+              "segment_number": 64,
+              "translated_text": "SD (Prose redaction)"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "ghañādaya ucyante // vuṇ-tṛc[~Pāṇ 2.1.133]-ghañ[~Pāṇ 3.3.16]-yuṭ[~Pāṇ",
-              "segment_number": 65
+              "segment_number": 65,
+              "translated_text": "The <s>ghañ</s> [suffixes] and the rest are now stated. <s>Vuṇ</s>, <s>tṛc</s> [Pāṇini 2.1.133], <s>ghañ</s> [Pāṇini"
             }
           ]
         },
@@ -557,25 +688,29 @@
           "tag": "p",
           "attributes": {},
           "text": "3.3.115]-kti[~Pāṇ 3.3.95] ity evamādyā ghañādayaḥ.",
-          "segment_number": 66
+          "segment_number": 66,
+          "translated_text": "3.3.16], <s>yuṭ</s> [Pāṇini 3.3.115], <s>kti</s> [Pāṇini 3.3.95] — such and the like are the <s>ghañ</s> and the rest."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  ghañādisaṅgrahas tv eṣa #29 uktvāitān vakṣyate 'dhunā /",
-          "segment_number": 67
+          "segment_number": 67,
+          "translated_text": "SP (Verse redaction)\nHaving stated these [<s>niṣṭhā</s> suffixes], the collection of <s>ghañ</s> and the rest will now be stated."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"etān\" niṣṭhādīn #30.",
-          "segment_number": 68
+          "segment_number": 68,
+          "translated_text": "(SPS commentary:) 'These' means the <s>niṣṭhā</s> and the rest."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#29 N: eṣā; #30 Ś: Śādīnām;",
-          "segment_number": 69
+          "segment_number": 69,
+          "translated_text": "***NOTES:\n#29 N: <s>eṣā</s>; #30 Ś: <s>Śādīnām</s>;"
         }
       ]
     },
@@ -584,46 +719,65 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.3.1.",
+          "segment_number": 70,
+          "translated_text": "3.3.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.3.1.]\n  SD\nvuṇtṛcāv akarmakebhyas sakarmakebhyo vā dhātubhyo vartamāne kāle kartary\nevotpadyete, na bhāvakarmaṇoḥ.",
-          "segment_number": 70
+          "text": "  SD\nvuṇtṛcāv akarmakebhyas sakarmakebhyo vā dhātubhyo vartamāne kāle kartary\nevotpadyete, na bhāvakarmaṇoḥ.",
+          "translated_text": "SD (Prose redaction)\nThe suffixes <s>vuṇ</s> and <s>tṛc</s>, from either intransitive or transitive roots, arise in the present tense in the agent sense only — not in [the senses of] <s>bhāva</s> or <s>karman</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  yau vuṇtṛcau pratyayau, tau kartary eva, na cānyayoḥ //",
-          "segment_number": 71
+          "segment_number": 71,
+          "translated_text": "[Verse (SP):]\nThe two suffixes <s>vuṇ</s> and <s>tṛc</s> are [used] only in the sense of the agent (<s>kartṛ</s>), and not in [the sense of] the other two."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"anyayoḥ\" bhāvakarmaṇoḥ.",
-          "segment_number": 72
+          "segment_number": 72,
+          "translated_text": "(Commentary [SPS]:) 'The other two' [means] <s>bhāva</s> (action itself) and <s>karman</s> (object)."
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.3.1.1.",
+          "segment_number": 73,
+          "translated_text": "3.3.1.1."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[3.3.1.1.]\nanayor akarmakatvam #31 utpannayoḥ kartary evābhihite prathamā / yathā bhava-\ntīti 'bhāvako #32 devadattaḥ, devadatto bhavitā' /",
-          "segment_number": 73
+          "text": "anayor akarmakatvam #31 utpannayoḥ kartary evābhihite prathamā / yathā bhava-\ntīti 'bhāvako #32 devadattaḥ, devadatto bhavitā' /",
+          "translated_text": "When these two [suffixes], being intransitive, are derived in the sense of the agent only, the nominative [case] is used. For example: '<s>bhavati</s>' [gives] '<s>bhāvaka</s> is <s>Devadatta</s>,' [and] '<s>Devadatta</s> is <s>bhavitā</s> (one who will be).'"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  'bhāvako #33 maitra' ityādau prathamānuktakarmaṇi #34 /",
-          "segment_number": 74
+          "segment_number": 74,
+          "translated_text": "[Verse (SP):]\nIn '<s>bhāvako Maitra</s>' and such [examples], the nominative [denotes] the unexpressed object."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) evaṃ tṛco jñeyaṃ.",
-          "segment_number": 75
+          "segment_number": 75,
+          "translated_text": "(Commentary [SPS]:) The same should be understood for <s>tṛc</s> [suffix]."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#31 Ms: anayoḥ karmaŚ. Text gemäß Interlinearkorrektur.; #32 Ms: bhāvuko; #33\nŚ: bhāvuko; #34 Ś: Śkartari;",
-          "segment_number": 76
+          "segment_number": 76,
+          "translated_text": "***NOTES:\n#31 Ms: <s>anayoḥ karma</s>-. Text according to interlinear correction.; #32 Ms: <s>bhāvuko</s>; #33 Ś: <s>bhāvuko</s>; #34 Ś: -<s>kartari</s>;"
         }
       ]
     },
@@ -632,22 +786,37 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.3.1.2.",
+          "segment_number": 77,
+          "translated_text": "3.3.1.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[3.3.1.2.]\n  SD\nanayor vuṇtṛcos sakarmakatvam utpannayoḥ kartari prathamā, karmaṇi ṣaṣṭhī,\nyathā 'devadattaḥ odana(14v:)sya pācakaḥ, devadattaḥ odanasya paktā' iti. vuṇ-\ntṛcoḥ ca kartranusāreṇa triliṅgatvam, yathā 'sa odanasya pācakaḥ, sā pācikā, tat\nkulam odanasya pācakam' iti / 'sa paktā, sā paktrī, tat kulam odanasya paktṛ'.",
-          "segment_number": 77
+          "text": "  SD\nanayor vuṇtṛcos sakarmakatvam utpannayoḥ kartari prathamā, karmaṇi ṣaṣṭhī,\nyathā 'devadattaḥ odana(14v:)sya pācakaḥ, devadattaḥ odanasya paktā' iti. vuṇ-\ntṛcoḥ ca kartranusāreṇa triliṅgatvam, yathā 'sa odanasya pācakaḥ, sā pācikā, tat\nkulam odanasya pācakam' iti / 'sa paktā, sā paktrī, tat kulam odanasya paktṛ'.",
+          "translated_text": "[Prose (SD):]\nWhen these two [suffixes] <s>vuṇ</s> and <s>tṛc</s>, being transitive, are derived in the sense of the agent, the nominative [is used for the agent], and the genitive for the object. For example: '<s>Devadatta</s> is the cooker (<s>pācaka</s>) of rice,' '<s>Devadatta</s> is the cooker (<s>paktā</s>) of rice.' And [forms with] <s>vuṇ</s> and <s>tṛc</s> have three genders following the agent; for example: 'He is the cooker (<s>pācakaḥ</s>) of rice, she is the cooker (<s>pācikā</s>), that family is the cooker (<s>pācakam</s>) of rice'; 'he is the cooker (<s>paktā</s>), she is the cooker (<s>paktrī</s>), that family is the cooker (<s>paktṛ</s>) of rice.'"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  syāt karmaṇy anayoḥ ṣaṣṭhī, 'pācaka odanasya saḥ' //",
-          "segment_number": 78
+          "segment_number": 78,
+          "translated_text": "[Verse (SP):]\nFor these two, the genitive may occur for the object: 'He [is] the cooker (<s>pācaka</s>) of rice (<s>odanasya</s>).'"
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.3.2.",
+          "segment_number": 79,
+          "translated_text": "3.3.2."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[3.3.2.]\n  SD\nghañ #35yuṭktipratyayā akarmakebhyas sakarmakebhyo vā dhātubhyo #36 bhāva\nutpadyaṃte. eṣā sakarmakebhyo bhāva utpadyamānā kartari vā ṣaṣṭhī, karmaṇi\nnityaṃ ṣaṣṭhī.",
-          "segment_number": 79
+          "text": "  SD\nghañ #35yuṭktipratyayā akarmakebhyas sakarmakebhyo vā dhātubhyo #36 bhāva\nutpadyaṃte. eṣā sakarmakebhyo bhāva utpadyamānā kartari vā ṣaṣṭhī, karmaṇi\nnityaṃ ṣaṣṭhī.",
+          "translated_text": "[Prose (SD):]\nThe suffixes <s>ghañ</s>, <s>yuṭ</s>, <s>kti</s>, [and others] are derived in the sense of <s>bhāva</s> (action itself) from both intransitive and transitive verbal roots. When derived from transitive [roots] in the sense of <s>bhāva</s>, the genitive is optionally [used] for the agent, and invariably the genitive for the object."
         },
         {
           "tag": "lg",
@@ -657,19 +826,22 @@
               "tag": "l",
               "attributes": {},
               "text": "SP",
-              "segment_number": 80
+              "segment_number": 80,
+              "translated_text": "[Verse (SP):]"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "bhāva eva ghañyuḍādyā utpadyante sakarmakāt /",
-              "segment_number": 81
+              "segment_number": 81,
+              "translated_text": "The [suffixes] <s>ghañ</s>, <s>yuḍ</s>, etc. are derived only in the sense of <s>bhāva</s> from transitive [roots]."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "tatra kartari #37 ṣaṣṭhī vā, nityaṃ karmaṇi kīrtitā //",
-              "segment_number": 82
+              "segment_number": 82,
+              "translated_text": "In that [construction], the genitive is optional for the agent, [and] is declared invariable for the object."
             }
           ]
         },
@@ -677,7 +849,8 @@
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#35 Ms: ghaṅŚ; #36 Ms: Śtutubhyo; #37 Ś: karmaṇi;",
-          "segment_number": 83
+          "segment_number": 83,
+          "translated_text": "***NOTES:\n#35 Ms: <s>ghaṅ</s>-; #36 Ms: -<s>tutubhyo</s>; #37 Ś: <s>karmaṇi</s>;"
         }
       ]
     },
@@ -686,46 +859,65 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[3.3.2.1.]\n  SD\nakarmakebhyo, yathā 'devadattasya bhāvo, bhavanaṃ, bhūtiḥ'.",
-          "segment_number": 84
+          "text": "3.3.2.1.",
+          "segment_number": 84,
+          "translated_text": "3.3.2.1."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[3.3.2.2.]\n  SD\nsaka(15r:)rmakebhyo, yathā 'devadattasya' kartur, 'devadattena' kartrā vā, 'oda-\nnasya' karmabhūtasya 'pākaḥ, pacanaṃ, paktiḥ'.",
-          "segment_number": 85
+          "text": "  SD\nakarmakebhyo, yathā 'devadattasya bhāvo, bhavanaṃ, bhūtiḥ'.",
+          "translated_text": "[Prose (SD):]\nFrom intransitive [roots], for example: '<s>Devadattasya bhāvaḥ</s> (the being of <s>Devadatta</s>), <s>bhavanaṃ</s> (becoming), <s>bhūtiḥ</s> (existence).'"
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "3.3.2.2.",
+          "segment_number": 85,
+          "translated_text": "3.3.2.2."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "  SD\nsaka(15r:)rmakebhyo, yathā 'devadattasya' kartur, 'devadattena' kartrā vā, 'oda-\nnasya' karmabhūtasya 'pākaḥ, pacanaṃ, paktiḥ'.",
+          "translated_text": "[Prose (SD):]\nFrom transitive [roots], for example: '<s>Devadattasya</s>' — of the agent, or '<s>Devadattena</s>' — by the agent; '<s>odanasya</s>' — of the thing that is the object — '<s>pākaḥ</s> (cooking), <s>pacanaṃ</s> (cooking), <s>paktiḥ</s> (cooking).'"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  'annasya pāko maitrasya, devadattena vā', yathā #38 /",
-          "segment_number": 86
+          "segment_number": 86,
+          "translated_text": "[Verse (SP):]\n'<s>Annasya pāko Maitrasya</s> (the cooking of food by <s>Maitra</s>), or <s>Devadattena</s> (by <s>Devadatta</s>)' — thus."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"annasya\" karmabhūtasya / evaṃ yuḍādayo vicāraṇīyāḥ. pūrvam akarma-\nkasya nirūpaṇāvasare saty api, karmaṣaṣṭhīprasaṅgenākarmakasya karmābhāvāt\nsakarmakaṃ nirṇīya </> #39 paścād akarmakaṃ nirūpayati //",
-          "segment_number": 87
+          "segment_number": 87,
+          "translated_text": "(Commentary [SPS]:) '<s>Annasya</s>' — of the thing that is the object. Similarly, [suffixes like] <s>yuḍ</s> etc. should be investigated. Although previously there was occasion to discuss the intransitive [case], because the context of the genitive for the object [was relevant], and because an intransitive [root] has no object, having first determined the transitive [case], he then discusses the intransitive."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  akarmakāj #40 jñeyam evam #41, 'bhāvo maitrasya, tena vā' //",
-          "segment_number": 88
+          "segment_number": 88,
+          "translated_text": "[Verse (SP):]\nFrom intransitive [roots], the same should be understood: '<s>bhāvo Maitrasya</s> (the being of <s>Maitra</s>), or <s>tena</s> (by him).'"
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"bhāva\" iti ghañantā kriyā.",
-          "segment_number": 89
+          "segment_number": 89,
+          "translated_text": "(Commentary [SPS]:) '<s>Bhāva</s>' is an action [expressed by a word] ending in the suffix <s>ghañ</s>."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#38 Ś: \"aŚ\"[3 Akṣaras zerstört]\"Śko maitreṇa devadatt\"[zerstört bis]\"yathā\".; #39\nA/W; #40 Ś: om. Śrmakāj; #41 Ś,N: eva;",
-          "segment_number": 90
+          "segment_number": 90,
+          "translated_text": "***NOTES:\n#38 Ś: '<s>a</s>-'[3 <s>akṣaras</s> destroyed]'-<s>ko maitreṇa devadatt</s>-'[destroyed until]'<s>yathā</s>'.; #39 A/W; #40 Ś: om. -<s>rmakāj</s>; #41 Ś,N: <s>eva</s>;"
         }
       ]
     },
@@ -734,28 +926,44 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[3.3.2.3.]\n  SD\nyuḍanto bhāva utpadyamāno napuṃsakaliṅga eva. uktās saṃkṣepeṇa ghañādayaḥ\n//",
-          "segment_number": 91
+          "text": "3.3.2.3.",
+          "segment_number": 91,
+          "translated_text": "3.3.2.3."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[4.]\n  SD\nkriyā dviprakārā, pradhānakriyā guṇakriyā ca. yatra vākyārtho viśrāmyati,\nniṣṭhāṃ bhajate, nirākāṅkṣatāṃ labhate, sā pradhānakriyā / yā tu pradhānakri-\nyāyā aṅgabhāvam avalambate, upakaraṇatāṃ gacchati, sā guṇakriyā.",
-          "segment_number": 92
+          "text": "  SD\nyuḍanto bhāva utpadyamāno napuṃsakaliṅga eva. uktās saṃkṣepeṇa ghañādayaḥ\n//",
+          "translated_text": "[Prose (SD):]\nA <s>bhāva</s> [nominal] derived with the suffix <s>yuḍ</s> is always neuter gender. The [suffixes] <s>ghañ</s> etc. have been stated in brief."
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.",
+          "segment_number": 92,
+          "translated_text": "4."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "  SD\nkriyā dviprakārā, pradhānakriyā guṇakriyā ca. yatra vākyārtho viśrāmyati,\nniṣṭhāṃ bhajate, nirākāṅkṣatāṃ labhate, sā pradhānakriyā / yā tu pradhānakri-\nyāyā aṅgabhāvam avalambate, upakaraṇatāṃ gacchati, sā guṇakriyā.",
+          "translated_text": "[Prose (SD):]\nAction (<s>kriyā</s>) is of two kinds: principal action (<s>pradhānakriyā</s>) and subordinate action (<s>guṇakriyā</s>). Where the sentence-meaning comes to rest, reaches completion, and attains non-expectancy — that is the principal action. But that which takes on the status of a subsidiary (<s>aṅga</s>) to the principal action and assumes the role of an instrument — that is the subordinate action."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  mukhyagauṇavibhedena #42 dvividhā sāpi kīrtitā /",
-          "segment_number": 93
+          "segment_number": 93,
+          "translated_text": "[Verse (SP):]\nThat [action] too is declared to be of two kinds, by the division into principal (<s>mukhya</s>) and subordinate (<s>gauṇa</s>)."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"sāpi\" kriyāpi. mukhyā kriyā, gauṇā kriyety #43 arthaḥ //",
-          "segment_number": 94
+          "segment_number": 94,
+          "translated_text": "(Commentary [SPS]:) '<s>Sā api</s>' — action too. The meaning is: principal action and subordinate action."
         },
         {
           "tag": "lg",
@@ -765,19 +973,22 @@
               "tag": "l",
               "attributes": {},
               "text": "SP",
-              "segment_number": 95
+              "segment_number": 95,
+              "translated_text": "[Verse (SP):]"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "vākyasyārtho nirākāṅkṣāṃ labhate yatra, sā smṛtā /",
-              "segment_number": 96
+              "segment_number": 96,
+              "translated_text": "Where the meaning of the sentence attains non-expectancy, that is considered"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "kriyā #44 pradhānā, 'he maitra, gām ānaya vrajād' yathā //",
-              "segment_number": 97
+              "segment_number": 97,
+              "translated_text": "the principal action (<s>pradhānā kriyā</s>). For example: 'O <s>Maitra</s>, bring the cow from the pasture.'"
             }
           ]
         },
@@ -785,19 +996,22 @@
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"ānaye\"ti mukhyā kriyā.",
-          "segment_number": 98
+          "segment_number": 98,
+          "translated_text": "(Commentary [SPS]:) '<s>Ānaya</s>' (bring) is the principal action."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  tasyā evāṅgabhāvaṃ #45 yālambate #46, sā guṇakriyā /",
-          "segment_number": 99
+          "segment_number": 99,
+          "translated_text": "[Verse (SP):]\nThat which assumes the status of a subsidiary to that [principal action] — that is the subordinate action (<s>guṇakriyā</s>)."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#42 N: Śvibhāgena; #43 Ś: kriyā ity; #44 N: kriye; #45 Ś: evāŚ[3 Akṣaras zerstört];\n#46 N: yā labhate;",
-          "segment_number": 100
+          "segment_number": 100,
+          "translated_text": "***NOTES:\n#42 N: -<s>vibhāgena</s>; #43 Ś: <s>kriyā ity</s>; #44 N: <s>kriye</s>; #45 Ś: <s>evā</s>-[3 <s>akṣaras</s> destroyed]; #46 N: <s>yā labhate</s>;"
         }
       ]
     },
@@ -806,60 +1020,78 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[4.1.]\n  SD",
-          "children": [
-            {
-              "tag": "lg",
-              "attributes": {},
-              "children": [
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "tyādipratyayāntā kriyā (15v:) sarvathā pradhānakriyaiva bhavati. tyādipratya-",
-                  "segment_number": 102
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "yāntāyāḥ kriyāyā asannidhāne sati, kṛtpratyayāntā kriyā vākyārthaviśrāntyā",
-                  "segment_number": 103
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "pradhānakriyā sampadyate //",
-                  "segment_number": 104
-                }
-              ]
-            }
-          ],
-          "segment_number": 101
+          "text": "4.1.",
+          "segment_number": 101,
+          "translated_text": "4.1."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[4.2.]\n  SD\nguṇakriyā ca dviprakārā.",
-          "segment_number": 105
+          "text": "  SD",
+          "translated_text": "[Prose (SD):]"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
+          "children": [
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "tyādipratyayāntā kriyā (15v:) sarvathā pradhānakriyaiva bhavati. tyādipratya-",
+              "segment_number": 102,
+              "translated_text": "An action ending in a <s>tiṅ</s> (finite verb) suffix is always indeed a principal action. In the absence"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "yāntāyāḥ kriyāyā asannidhāne sati, kṛtpratyayāntā kriyā vākyārthaviśrāntyā",
+              "segment_number": 103,
+              "translated_text": "of an action ending in a <s>tiṅ</s> suffix, an action ending in a <s>kṛt</s> (participial) suffix, through the repose of the sentence-meaning,"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "pradhānakriyā sampadyate //",
+              "segment_number": 104,
+              "translated_text": "becomes the principal action."
+            }
+          ]
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.2.",
+          "segment_number": 105,
+          "translated_text": "4.2."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "  SD\nguṇakriyā ca dviprakārā.",
+          "translated_text": "[Prose (SD):]\nAnd the subordinate action is of two kinds."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  pūrvakālakriyānyā #47 ceti sā dvaidham upāgatā //",
-          "segment_number": 106
+          "segment_number": 106,
+          "translated_text": "[Verse (SP):]\nThe anterior-time action (<s>pūrvakālakriyā</s>) and the other — thus it has a twofold [division]."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"sā\" guṇakriyā.",
-          "segment_number": 107
+          "segment_number": 107,
+          "translated_text": "(Commentary [SPS]:) 'That' [refers to] the subordinate action."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#47 Ś: yā / pūrvakāŚ[3 Akṣaras zerstört].;",
-          "segment_number": 108
+          "segment_number": 108,
+          "translated_text": "***NOTES:\n#47 Ś: <s>yā</s> / <s>pūrvakā</s>-[3 <s>akṣaras</s> destroyed].;"
         }
       ]
     },
@@ -868,10 +1100,17 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.2.1.",
+          "segment_number": 109,
+          "translated_text": "4.2.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[4.2.1.]\n  SD\nyā tu pradhānakriyāyāḥ pūrvaṃ nirvartyamānatvāt, sā pūrvakālakriyocyate.\ntasyāṃ #48 niyamena ktvāpratyayo [~Pāṇ 3.4.21] ṇaṃpratyayaś [~Pāṇ 3.4.22] ca\nbhavataḥ. tau ca ktvāṇaṃpratyayau ktvāmasandhyakṣarānto [']vyayam [~Pāṇ\n1.1.39-40] ity avyayasaṃjñau.",
-          "segment_number": 109
+          "text": "  SD\nyā tu pradhānakriyāyāḥ pūrvaṃ nirvartyamānatvāt, sā pūrvakālakriyocyate.\ntasyāṃ #48 niyamena ktvāpratyayo [~Pāṇ 3.4.21] ṇaṃpratyayaś [~Pāṇ 3.4.22] ca\nbhavataḥ. tau ca ktvāṇaṃpratyayau ktvāmasandhyakṣarānto [']vyayam [~Pāṇ\n1.1.39-40] ity avyayasaṃjñau.",
+          "translated_text": "[Prose (SD):]\nThat [action] which is completed prior to the principal action — that is called the anterior-time action (<s>pūrvakālakriyā</s>). In that [construction], the suffixes <s>ktvā</s> [~Pāṇ 3.4.21] and <s>ṇam</s> [~Pāṇ 3.4.22] invariably occur. And those two suffixes <s>ktvā</s> and <s>ṇam</s> are termed <s>avyaya</s> (indeclinable), because '<s>ktvā</s> without <s>sandhi</s> letters is an <s>avyaya</s>' [~Pāṇ 1.1.39-40]."
         },
         {
           "tag": "lg",
@@ -881,25 +1120,29 @@
               "tag": "l",
               "attributes": {},
               "text": "SP",
-              "segment_number": 110
+              "segment_number": 110,
+              "translated_text": "[Verse (SP):]"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "mukhyakriyāyāḥ #49 pūrvaṃ yā nirvartayitum #50 iṣyate /",
-              "segment_number": 111
+              "segment_number": 111,
+              "translated_text": "That [action] which is desired to be completed prior to the principal action —"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "pūrvakālakriyā sāsyāḥ ktvāṇamau bhavato, yathā /",
-              "segment_number": 112
+              "segment_number": 112,
+              "translated_text": "that is the anterior-time action (<s>pūrvakālakriyā</s>); [the suffixes] <s>ktvā</s> and <s>ṇam</s> occur [in it], as in:"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "'pītvāmbho gacchati naraś, śrāvaṃ śrāvaṃ śṛṇoti' ca //",
-              "segment_number": 113
+              "segment_number": 113,
+              "translated_text": "'Having drunk (<s>pītvā</s>) water, the man goes,' and 'having heard again and again (<s>śrāvaṃ śrāvaṃ</s>), he hears.'"
             }
           ]
         },
@@ -907,7 +1150,8 @@
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#48 Ms: tasyā; #49 Ś:Śkriyāḥ; #50 Ś: niŚ;",
-          "segment_number": 114
+          "segment_number": 114,
+          "translated_text": "***NOTES:\n#48 Ms: <s>tasyā</s>; #49 Ś: -<s>kriyāḥ</s>; #50 Ś: <s>ni</s>-;"
         }
       ]
     },
@@ -916,34 +1160,45 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.2.1.1.",
+          "segment_number": 115,
+          "translated_text": "4.2.1.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[4.2.1.1.]\n  SD\navyayakṛto bhāve bhavantīti [Mbh ad Pāṇ 3.4.26] vacanād bhāve dhātvartha-\nmātrau bha(16r:)vataḥ #51. tābhyāṃ ktvāṇaṃpratyayābhyāṃ kartānabhihitas.",
-          "segment_number": 115
+          "text": "  SD\navyayakṛto bhāve bhavantīti [Mbh ad Pāṇ 3.4.26] vacanād bhāve dhātvartha-\nmātrau bha(16r:)vataḥ #51. tābhyāṃ ktvāṇaṃpratyayābhyāṃ kartānabhihitas.",
+          "translated_text": "[Prose (SD):]\nBecause of the statement 'indeclinable <s>kṛt</s> [suffixes] occur in the sense of <s>bhāva</s>' [Mbh ad Pāṇ 3.4.26], [these suffixes] express only the verbal meaning (<s>dhātvarthamātra</s>) in the sense of <s>bhāva</s>. By those two — <s>ktvā</s> and <s>ṇam</s> suffixes — the agent is not expressed."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) codyaṃ cikīrṣati //",
-          "segment_number": 116
+          "segment_number": 116,
+          "translated_text": "(Commentary [SPS]:) He intends to raise an objection."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  bhāve [']vyayakṛtaḥ santīty ukter dhātvarthavācakau /",
-          "segment_number": 117
+          "segment_number": 117,
+          "translated_text": "[Verse (SP):]\nBecause of the statement that 'indeclinable <s>kṛt</s> [suffixes] occur in the sense of <s>bhāva</s>,' [they are] expressive of verbal meaning [only]."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"ukter\" vacanāt, \"dhātvarthavācakau\" ktvāṇamāv ity arthāt.",
-          "segment_number": 118
+          "segment_number": 118,
+          "translated_text": "(Commentary [SPS]:) 'Because of the statement' means 'because of the [grammatical] rule'; 'expressive of verbal meaning' [means] <s>ktvā</s> and <s>ṇam</s> — this is the meaning."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "***NOTES:\n#51 Ms: bhāvo Śmātro bhavati;",
-          "segment_number": 119
+          "segment_number": 119,
+          "translated_text": "***NOTES:\n#51 Ms: <s>bhāvo</s> -<s>mātro bhavati</s>;"
         }
       ]
     },
@@ -952,46 +1207,65 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.2.1.1.1.",
+          "segment_number": 120,
+          "translated_text": "4.2.1.1.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[4.2.1.1.1.]\n  SD\ntadabhiprāyeṇānabhihite kartari tṛtīyā prāpnoti /",
-          "segment_number": 120
+          "text": "  SD\ntadabhiprāyeṇānabhihite kartari tṛtīyā prāpnoti /",
+          "translated_text": "[Prose (SD):]\nWith that intent, since the agent is unexpressed, the instrumental case should apply [to the agent]."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) evaṃ nirṇīya, codyam āha /",
-          "segment_number": 121
+          "segment_number": 121,
+          "translated_text": "(Commentary [SPS]:) Having thus determined [the issue], he states the objection."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  ābhyāṃ kartānabhihitas tṛtīyāviṣayo na kim //",
-          "segment_number": 122
+          "segment_number": 122,
+          "translated_text": "[Verse (SP):]\nSince by these two [suffixes] the agent is unexpressed, should not the instrumental case apply [to it]?"
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.2.1.1.2.",
+          "segment_number": 123,
+          "translated_text": "4.2.1.1.2."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[4.2.1.1.2.]\n  SD\nparasmaipadināṃ pradhānakriyayā yadā kartābhihitas, tatas tadabhiprāyeṇābhihite\nkartari liṅgārthamātre prathamā prāpnoti. pradhānakriyāśaktyabhidhāne guṇa-\nkriyāśaktir abhihitavat prakāśate iti bhāṣyakāravacanaprāmāṇyāt #52 pradhāna-\nkriyābhihite kartari liṅgārthamātre prathamaiva #53 bhavati /",
-          "segment_number": 123
+          "text": "  SD\nparasmaipadināṃ pradhānakriyayā yadā kartābhihitas, tatas tadabhiprāyeṇābhihite\nkartari liṅgārthamātre prathamā prāpnoti. pradhānakriyāśaktyabhidhāne guṇa-\nkriyāśaktir abhihitavat prakāśate iti bhāṣyakāravacanaprāmāṇyāt #52 pradhāna-\nkriyābhihite kartari liṅgārthamātre prathamaiva #53 bhavati /",
+          "translated_text": "[Prose (SD):]\nWhen the agent is expressed by the principal action through a <s>parasmaipada</s> (active voice) [verb], then, with that intent, since the agent is [already] expressed, the nominative applies merely in the sense of gender. Because of the authority of the <s>Bhāṣyakāra's</s> (Patañjali's) statement that 'when the capacity of the principal action to express [the agent] is fulfilled, the capacity of the subordinate action appears as if expressed' — when the agent is expressed by the principal action, only the nominative in the sense of mere gender occurs."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) uttaram āha #54",
-          "segment_number": 124
+          "segment_number": 124,
+          "translated_text": "(Commentary [SPS]:) He states the answer."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "SP\n  maivam. pradhānakriyayābhihito vartate yataḥ /\n  prathamā tata evātra.",
-          "segment_number": 125
+          "segment_number": 125,
+          "translated_text": "[Verse (SP):]\nNot so! Since [the agent] is expressed by the principal action,\nthe nominative applies here precisely for that reason."
         },
         {
           "tag": "p",
           "attributes": {},
           "text": "(SPS:) \"atra\" pūrvokta udāharaṇe / atra yuktim āha //",
-          "segment_number": 126
+          "segment_number": 126,
+          "translated_text": "(Commentary [SPS]:) 'Here' [means] in the previously stated example. Here he states the reasoning."
         },
         {
           "tag": "lg",
@@ -1001,19 +1275,22 @@
               "tag": "l",
               "attributes": {},
               "text": "SP",
-              "segment_number": 127
+              "segment_number": 127,
+              "translated_text": "[Verse (SP):]"
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "nirbalā hi guṇakriyā /",
-              "segment_number": 128
+              "segment_number": 128,
+              "translated_text": "For the subordinate action is weak [in expressive power]."
             },
             {
               "tag": "l",
               "attributes": {},
               "text": "mukhyakriyābhidhāne [']nyā coktavad dṛśyate budhaiḥ //",
-              "segment_number": 129
+              "segment_number": 129,
+              "translated_text": "When the principal action is expressed, the other [i.e., subordinate action] is seen by the wise as if expressed."
             }
           ]
         },
@@ -1026,15 +1303,18 @@
               "tag": "l",
               "attributes": {},
               "text": "anveti / yathā #59 'devadatta ānīya pūjyate'. yathoktaṃ",
-              "segment_number": 131
+              "segment_number": 131,
+              "translated_text": "follows the principal action. For example: '<s>Devadatta</s>, having been brought (<s>ānīya</s>), is worshipped.' As stated:"
             },
             {
               "tag": "text",
               "text": "guṇapradhānakriyayor dhātvor ekasya #60 karmaṇaḥ [/] #61\n  abhidhānaṃ pradhānena. pradhānānvayino #62 guṇāḥ [//]\niti. mukhyakriyayā #63 karmaṇaḥ śābdo [']nvayaḥ, anyathā #64 ārthaḥ /\ntathoktaṃ\n  evaṃ 'paktvaudano bhukto, bhujyate' #65 veti kṛttiṅoḥ [/]\n  bhojyasya bhujinā śābda #66, ārthas tu pacinānvayaḥ [//]",
-              "segment_number": 132
+              "segment_number": 132,
+              "translated_text": "'When two verbal roots — one of subordinate action and one of principal action — share a single object,\nthe expression [of that object] is by the principal [action]. The subordinate [actions] follow the principal.'\nThus: the syntactic connection of the object with the principal action is verbal (<s>śābda</s>), otherwise it is contextual (<s>ārtha</s>).\nAs stated:\n'Thus in \"<s>paktvā odano bhukto</s>\" (having cooked, the rice is eaten) or \"<s>bhujyate</s>\" (is being eaten) — between the <s>kṛt</s> [suffix] and the <s>tiṅ</s> [suffix],\nthe syntactic connection of the thing to be eaten with the eater is verbal (<s>śābda</s>), but with the cooker it is contextual (<s>ārtha</s>).'"
             }
           ],
-          "segment_number": 130
+          "segment_number": 130,
+          "translated_text": "(Commentary [SPS]:) 'The other' [means] the subordinate action. As stated: 'When the capacity of the principal action to express [the agent] is fulfilled, the capacity of the subordinate action, though unexpressed, appears as if expressed.' Similarly, even where the subordinate action and the principal action share a single object, only the principal action expresses [it]. The subordinate action, by virtue of its subordinate status, merely"
         },
         {
           "tag": "p",
@@ -1050,40 +1330,38 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[4.2.1.1.3.]",
+          "text": "4.2.1.1.3.",
+          "segment_number": 134,
+          "translated_text": "4.2.1.1.3."
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
           "children": [
             {
-              "tag": "lg",
+              "tag": "l",
               "attributes": {},
-              "children": [
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "SD",
-                  "segment_number": 135,
-                  "translated_text": "SD (prose commentary)"
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "ktvā, yathā (16v:) 'devadattaḥ snātvā bhuktvā pītvā, grāmaṃ vrajati'. ṇaṃ, yathā",
-                  "segment_number": 136,
-                  "translated_text": "[The suffix] <s>ktvā</s>, as in (16v:) '<s>Devadatta</s>, having bathed, having eaten, having drunk, goes to the village.' [The suffix] <s>ṇam</s>, as in"
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "'pāyaṃ pāyaṃ piba piba payas, siñca #67 siñcāṅgam aṅgam' iti // 10 //",
-                  "segment_number": 137,
-                  "translated_text": "'Drink, drink the milk again and again; sprinkle, sprinkle [your] limb after limb' and so forth. // 10 //"
-                }
-              ]
+              "text": "SD",
+              "segment_number": 135,
+              "translated_text": "SD (prose commentary)"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "ktvā, yathā (16v:) 'devadattaḥ snātvā bhuktvā pītvā, grāmaṃ vrajati'. ṇaṃ, yathā",
+              "segment_number": 136,
+              "translated_text": "[The suffix] <s>ktvā</s>, as in (16v:) '<s>Devadatta</s>, having bathed, having eaten, having drunk, goes to the village.' [The suffix] <s>ṇam</s>, as in"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "'pāyaṃ pāyaṃ piba piba payas, siñca #67 siñcāṅgam aṅgam' iti // 10 //",
+              "segment_number": 137,
+              "translated_text": "'Drink, drink the milk again and again; sprinkle, sprinkle [your] limb after limb' and so forth. // 10 //"
             }
-          ],
-          "segment_number": 134,
-          "translated_text": "[4.2.1.1.3.]"
+          ]
         },
         {
           "tag": "p",
@@ -1099,11 +1377,17 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.2.2.",
+          "segment_number": 139,
+          "translated_text": "4.2.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[4.2.2.]\n  SD\ndvitīyā tu guṇakriyā yā pradhānakriyānirvartanasamakālam eva nirvartyate. ta-\nsyāṃ niyamena śantṛṅṅānaś ityādayo bhavanti /",
-          "segment_number": 139,
-          "translated_text": "[4.2.2.]\nSD (prose commentary)\nThe second [type of] subordinate action (<s>guṇakriyā</s>) is one that is accomplished simultaneously with the accomplishment of the principal action (<s>pradhānakriyā</s>). In that case, [suffixes] such as <s>śatṛ</s>, <s>ṅ</s>, <s>ānaś</s>, and the like necessarily apply."
+          "text": "  SD\ndvitīyā tu guṇakriyā yā pradhānakriyānirvartanasamakālam eva nirvartyate. ta-\nsyāṃ niyamena śantṛṅṅānaś ityādayo bhavanti /",
+          "translated_text": "SD (prose commentary)\nThe second [type of] subordinate action (<s>guṇakriyā</s>) is one that is accomplished simultaneously with the accomplishment of the principal action (<s>pradhānakriyā</s>). In that case, [suffixes] such as <s>śatṛ</s>, <s>ṅ</s>, <s>ānaś</s>, and the like necessarily apply."
         },
         {
           "tag": "lg",
@@ -1236,25 +1520,43 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[4.2.2.1.]\n  SD\nguṇapradhānabhāvaś ca vaktṛvivakṣākalpito, na tu vāstavaḥ, yathā 'bhuktvā gac-\nchati, gatvā bhuṅkte / pacan bhuṅkte, bhuñjānaḥ pacati. paṭhan gacchati, gacchan\npaṭhati. gāyan gacchati, gacchan (17r:) gāyati' ity.",
+          "text": "4.2.2.1.",
           "segment_number": 154,
-          "translated_text": "[4.2.2.1.]\nSD (prose commentary)\nAnd the relation of subordination and principalness (<s>guṇapradhānabhāva</s>) is determined by the speaker's intention (<s>vaktṛvivakṣā</s>), not by reality. As in '<s>bhuktvā gacchati</s>' (having eaten, he goes), '<s>gatvā bhuṅkte</s>' (having gone, he eats); '<s>pacan bhuṅkte</s>' (he eats while cooking), '<s>bhuñjānaḥ pacati</s>' (he cooks while eating); '<s>paṭhan gacchati</s>' (he goes while reciting), '<s>gacchan paṭhati</s>' (he recites while going); '<s>gāyan gacchati</s>' (he goes while singing),"
+          "translated_text": "4.2.2.1."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[4.3.]\n  SD\netac ca kriyāpadaṃ yatra svarūpeṇopāttaṃ, tatra vicāryate.",
+          "text": "  SD\nguṇapradhānabhāvaś ca vaktṛvivakṣākalpito, na tu vāstavaḥ, yathā 'bhuktvā gac-\nchati, gatvā bhuṅkte / pacan bhuṅkte, bhuñjānaḥ pacati. paṭhan gacchati, gacchan\npaṭhati. gāyan gacchati, gacchan (17r:) gāyati' ity.",
+          "translated_text": "SD (prose commentary)\nAnd the relation of subordination and principalness (<s>guṇapradhānabhāva</s>) is determined by the speaker's intention (<s>vaktṛvivakṣā</s>), not by reality. As in '<s>bhuktvā gacchati</s>' (having eaten, he goes), '<s>gatvā bhuṅkte</s>' (having gone, he eats); '<s>pacan bhuṅkte</s>' (he eats while cooking), '<s>bhuñjānaḥ pacati</s>' (he cooks while eating); '<s>paṭhan gacchati</s>' (he goes while reciting), '<s>gacchan paṭhati</s>' (he recites while going); '<s>gāyan gacchati</s>' (he goes while singing),"
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.3.",
           "segment_number": 155,
-          "translated_text": "[4.3.]\nSD (prose commentary)\nAnd this is investigated where the verbal form (<s>kriyāpada</s>) is employed in its own form."
+          "translated_text": "4.3."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[4.3.1.]\n  SD\nyatra tu kriyāpadaṃ kiṃcit svarūpeṇa nopāttaṃ #79, tatrāstir bhavantīparo [']dhy-\nāhriyata #80 iti bhāṣyakāravacanaprāmāṇyāt #81 asti, bhavati, vidyate iti vā sattā-\nsāmānyavāci kriyāpadam adhyāhṛtya, vākyārthapratiṣṭhāne[na] #82 bhāvyam.\nsattā hi sarvabhāvānām antaraṅgā, yathā 'vṛkṣa' iti kevalapade ukte, asti,\nbhavati, vidyate iti vā gamyate. (17v:) atra vā astīti kriyāsāmānyavāci\ndhātūpalakṣaṇaparam.",
+          "text": "  SD\netac ca kriyāpadaṃ yatra svarūpeṇopāttaṃ, tatra vicāryate.",
+          "translated_text": "SD (prose commentary)\nAnd this is investigated where the verbal form (<s>kriyāpada</s>) is employed in its own form."
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "4.3.1.",
           "segment_number": 156,
-          "translated_text": "[4.3.1.]\nSD (prose commentary)\nBut where some verbal form is not employed in its own form, there, on the authority of the <s>Bhāṣyakāra</s>'s statement that \"<s>asti</s> (is), <s>bhavati</s> (becomes), [or <s>vidyate</s> (exists)] is supplied,\" a verbal form denoting general existence (<s>sattāsāmānyavācin</s>) such as <s>asti</s>, <s>bhavati</s>, or <s>vidyate</s> [is understood]."
+          "translated_text": "4.3.1."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "  SD\nyatra tu kriyāpadaṃ kiṃcit svarūpeṇa nopāttaṃ #79, tatrāstir bhavantīparo [']dhy-\nāhriyata #80 iti bhāṣyakāravacanaprāmāṇyāt #81 asti, bhavati, vidyate iti vā sattā-\nsāmānyavāci kriyāpadam adhyāhṛtya, vākyārthapratiṣṭhāne[na] #82 bhāvyam.\nsattā hi sarvabhāvānām antaraṅgā, yathā 'vṛkṣa' iti kevalapade ukte, asti,\nbhavati, vidyate iti vā gamyate. (17v:) atra vā astīti kriyāsāmānyavāci\ndhātūpalakṣaṇaparam.",
+          "translated_text": "SD (prose commentary)\nBut where some verbal form is not employed in its own form, there, on the authority of the <s>Bhāṣyakāra</s>'s statement that \"<s>asti</s> (is), <s>bhavati</s> (becomes), [or <s>vidyate</s> (exists)] is supplied,\" a verbal form denoting general existence (<s>sattāsāmānyavācin</s>) such as <s>asti</s>, <s>bhavati</s>, or <s>vidyate</s> [is understood]."
         },
         {
           "tag": "lg",
@@ -1297,18 +1599,30 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[4.3.2.]\n  SD\nkvacic ca prakaraṇānusāreṇa viśiṣṭāpi kriyādhyāhriyate, kartṛrahitāyāḥ\nkriyāyā abhāvāt.",
+          "text": "4.3.2.",
           "segment_number": 161,
-          "translated_text": "[4.3.2.]\nSD (prose commentary)\nAnd sometimes, in accordance with the context, even a specific verb is supplied, because an action without an agent does not exist."
+          "translated_text": "4.3.2."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[5.]\n  SD\nevaṃ evaṃbhūtaṃ vākyaṃ kvacin muktaka ekaṃ bhavati, kvacid dve vākye, kvacid\nbahūni vākyāni / prabandhe tu bahūny eva vākyāni bhavanti. teṣāṃ ca vākyā-\nnāṃ parasparasambaddhatopādeyā, na ced unmattavākyatvaprasaṅgāt, yathā\n'kuṇḍam a(18r:)jājinaṃ palalaṃ sphaiyakṛtasya #84 putra' iti #85.",
+          "text": "  SD\nkvacic ca prakaraṇānusāreṇa viśiṣṭāpi kriyādhyāhriyate, kartṛrahitāyāḥ\nkriyāyā abhāvāt.",
+          "translated_text": "SD (prose commentary)\nAnd sometimes, in accordance with the context, even a specific verb is supplied, because an action without an agent does not exist."
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.",
           "segment_number": 162,
-          "translated_text": "[5.]\nSD (prose commentary)\nThus, a sentence of this nature is sometimes a single independent sentence (<s>muktaka</s>), sometimes two sentences, sometimes many sentences. In continuous discourse (<s>prabandha</s>), however, there are indeed many sentences. And their mutual connection (<s>parasparasambaddhatā</s>) is to be adopted; if not,"
+          "translated_text": "5."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "  SD\nevaṃ evaṃbhūtaṃ vākyaṃ kvacin muktaka ekaṃ bhavati, kvacid dve vākye, kvacid\nbahūni vākyāni / prabandhe tu bahūny eva vākyāni bhavanti. teṣāṃ ca vākyā-\nnāṃ parasparasambaddhatopādeyā, na ced unmattavākyatvaprasaṅgāt, yathā\n'kuṇḍam a(18r:)jājinaṃ palalaṃ sphaiyakṛtasya #84 putra' iti #85.",
+          "translated_text": "SD (prose commentary)\nThus, a sentence of this nature is sometimes a single independent sentence (<s>muktaka</s>), sometimes two sentences, sometimes many sentences. In continuous discourse (<s>prabandha</s>), however, there are indeed many sentences. And their mutual connection (<s>parasparasambaddhatā</s>) is to be adopted; if not,"
         },
         {
           "tag": "lg",
@@ -1358,11 +1672,17 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.1.",
+          "segment_number": 168,
+          "translated_text": "5.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[5.1.]\n  SD\nparasparasambandhaś ca svaśabdanirdiṣṭārthamukhena #86 vā bhavati,\nsarvanāmaparāmṛṣṭārthamukhena vā.",
-          "segment_number": 168,
-          "translated_text": "[5.1.]\nSD (prose commentary)\nAnd the mutual connection is either through the meaning indicated by one's own word (<s>svaśabdanirdiṣṭārthamukhena</s>), or through the meaning referred to by a pronoun (<s>sarvanāmaparāmṛṣṭārthamukhena</s>)."
+          "text": "  SD\nparasparasambandhaś ca svaśabdanirdiṣṭārthamukhena #86 vā bhavati,\nsarvanāmaparāmṛṣṭārthamukhena vā.",
+          "translated_text": "SD (prose commentary)\nAnd the mutual connection is either through the meaning indicated by one's own word (<s>svaśabdanirdiṣṭārthamukhena</s>), or through the meaning referred to by a pronoun (<s>sarvanāmaparāmṛṣṭārthamukhena</s>)."
         },
         {
           "tag": "p",
@@ -1378,18 +1698,30 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[5.1.1.]\n  SD\nsvaśabdanirdiṣṭārthamukhena samanvaye bahavaḥ prakārāḥ, tathā hi yattador\nupakramopasaṃhārakramarūpo nityam abhisambandhaḥ. sa ca śābdaḥ, ārthaś ca.",
+          "text": "5.1.1.",
           "segment_number": 170,
-          "translated_text": "[5.1.1.]\nSD (prose commentary)\nIn the case of connection through the meaning indicated by one's own word, there are many modes. For instance, the connection of <s>yat</s> and <s>tat</s> (relative and correlative), which has the form of a fixed sequence of introduction and conclusion, is invariable. And it is of two kinds: verbal (<s>śābda</s>) and semantic (<s>ārtha</s>)."
+          "translated_text": "5.1.1."
         },
         {
           "tag": "p",
           "attributes": {},
-          "text": "[5.1.1.1.]\n  SD\ndvayor #87 yattador upādāne sati, śābdaḥ.",
+          "text": "  SD\nsvaśabdanirdiṣṭārthamukhena samanvaye bahavaḥ prakārāḥ, tathā hi yattador\nupakramopasaṃhārakramarūpo nityam abhisambandhaḥ. sa ca śābdaḥ, ārthaś ca.",
+          "translated_text": "SD (prose commentary)\nIn the case of connection through the meaning indicated by one's own word, there are many modes. For instance, the connection of <s>yat</s> and <s>tat</s> (relative and correlative), which has the form of a fixed sequence of introduction and conclusion, is invariable. And it is of two kinds: verbal (<s>śābda</s>) and semantic (<s>ārtha</s>)."
+        },
+        {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.1.1.1.",
           "segment_number": 171,
-          "translated_text": "[5.1.1.1.]\nSD (prose commentary)\nWhen both <s>yat</s> and <s>tat</s> are employed [in the sentence], it is verbal."
+          "translated_text": "5.1.1.1."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "  SD\ndvayor #87 yattador upādāne sati, śābdaḥ.",
+          "translated_text": "SD (prose commentary)\nWhen both <s>yat</s> and <s>tat</s> are employed [in the sentence], it is verbal."
         },
         {
           "tag": "lg",
@@ -1432,11 +1764,17 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.1.1.2.",
+          "segment_number": 176,
+          "translated_text": "5.1.1.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[5.1.1.2.]\n  SD\nekatarasyopādāne saty, ārthaḥ.",
-          "segment_number": 176,
-          "translated_text": "[5.1.1.2.]\nSD (prose commentary)\nWhen only one of the two is employed, it is semantic."
+          "text": "  SD\nekatarasyopādāne saty, ārthaḥ.",
+          "translated_text": "SD (prose commentary)\nWhen only one of the two is employed, it is semantic."
         },
         {
           "tag": "lg",
@@ -1466,11 +1804,17 @@
           ]
         },
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.1.1.2.1.",
+          "segment_number": 180,
+          "translated_text": "5.1.1.2.1."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[5.1.1.2.1.]\n  SD\nyadi tasyārthasāmarthyenākṣepāt tacchabdasya #88 kevalopādāne saty, ārthaḥ\n(18v:) triprakāraḥ, prasiddhaprakrāntānubhūtavastuviṣayeṇa ca, yacchabdena tasya\nsambandhāt.",
-          "segment_number": 180,
-          "translated_text": "[5.1.1.2.1.]\nSD (prose commentary)\nIf, by the force of the meaning, through implied reference, only one of the <s>tat</s>-word pair is employed, the semantic [connection] is of three kinds: with reference to a well-known object, to a previously mentioned object, and to an experienced object, through the connection of <s>yat</s>-word with it."
+          "text": "  SD\nyadi tasyārthasāmarthyenākṣepāt tacchabdasya #88 kevalopādāne saty, ārthaḥ\n(18v:) triprakāraḥ, prasiddhaprakrāntānubhūtavastuviṣayeṇa ca, yacchabdena tasya\nsambandhāt.",
+          "translated_text": "SD (prose commentary)\nIf, by the force of the meaning, through implied reference, only one of the <s>tat</s>-word pair is employed, the semantic [connection] is of three kinds: with reference to a well-known object, to a previously mentioned object, and to an experienced object, through the connection of <s>yat</s>-word with it."
         },
         {
           "tag": "lg",
@@ -1513,11 +1857,17 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.1.1.2.2.",
+          "segment_number": 185,
+          "translated_text": "5.1.1.2.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[5.1.1.2.2.]\n  SD\nyacchabdasya kevalasyopādāne sati, ārtho dvividhas samanvayaḥ, prakrāntavastu-\nviṣayeṇa kalpitakarmādiviṣayeṇa ca, tacchabdena tasya sambandhāt.",
-          "segment_number": 185,
-          "translated_text": "[5.1.1.2.2.]\nSD (prose commentary)\nWhen only the <s>yat</s>-word is employed, the semantic connection (<s>samanvaya</s>) is twofold: with reference to a previously mentioned object and with reference to an imagined object such as <s>karman</s> and the like, through the connection of <s>tat</s>-word with it."
+          "text": "  SD\nyacchabdasya kevalasyopādāne sati, ārtho dvividhas samanvayaḥ, prakrāntavastu-\nviṣayeṇa kalpitakarmādiviṣayeṇa ca, tacchabdena tasya sambandhāt.",
+          "translated_text": "SD (prose commentary)\nWhen only the <s>yat</s>-word is employed, the semantic connection (<s>samanvaya</s>) is twofold: with reference to a previously mentioned object and with reference to an imagined object such as <s>karman</s> and the like, through the connection of <s>tat</s>-word with it."
         },
         {
           "tag": "lg",
@@ -1607,11 +1957,17 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.2.",
+          "segment_number": 195,
+          "translated_text": "5.2."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[5.2.]\n  SD\nkvacic ca kevale kriyāpade 'dhyāhriyamāṇakārakasambandhe sati, vākyārthapari-\nsamāptir dṛśyate / yathā 'āgaccha, āgaccha. cala, cala. brūhi, brūhi. yāhi, yāhi.\napasarpa, apasarpa. vada, vada'.",
-          "segment_number": 195,
-          "translated_text": "[5.2.]\nSD (prose commentary)\nAnd sometimes, when the connection of the <s>kāraka</s> (case relation) being supplied is with the verbal form alone, the completion of sentence-meaning (<s>vākyārthaparasamāpti</s>) is observed. As in '<s>āgaccha, āgaccha</s>' (come, come); '<s>cala, cala</s>' (move, move); '<s>brūhi, brūhi</s>' (speak, speak); '<s>yāhi, yāhi</s>' (go, go); '<s>apasarpa, apasarpa</s>' (withdraw, withdraw); '<s>vada, va[da]</s>' (say, say)."
+          "text": "  SD\nkvacic ca kevale kriyāpade 'dhyāhriyamāṇakārakasambandhe sati, vākyārthapari-\nsamāptir dṛśyate / yathā 'āgaccha, āgaccha. cala, cala. brūhi, brūhi. yāhi, yāhi.\napasarpa, apasarpa. vada, vada'.",
+          "translated_text": "SD (prose commentary)\nAnd sometimes, when the connection of the <s>kāraka</s> (case relation) being supplied is with the verbal form alone, the completion of sentence-meaning (<s>vākyārthaparasamāpti</s>) is observed. As in '<s>āgaccha, āgaccha</s>' (come, come); '<s>cala, cala</s>' (move, move); '<s>brūhi, brūhi</s>' (speak, speak); '<s>yāhi, yāhi</s>' (go, go); '<s>apasarpa, apasarpa</s>' (withdraw, withdraw); '<s>vada, va[da]</s>' (say, say)."
         },
         {
           "tag": "lg",
@@ -1654,46 +2010,50 @@
       "attributes": {},
       "children": [
         {
+          "tag": "Subchapter",
+          "attributes": {},
+          "text": "5.3.",
+          "segment_number": 200,
+          "translated_text": "5.3."
+        },
+        {
           "tag": "p",
           "attributes": {},
-          "text": "[5.3.]\n  SD",
+          "text": "  SD",
+          "translated_text": "  SD (Prose redaction)"
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
           "children": [
             {
-              "tag": "lg",
+              "tag": "l",
               "attributes": {},
-              "children": [
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "atra cai(19r:)kena ślokena vākyārthaparisamāptau muktakaṃ, dvābhyāṃ ślokā-",
-                  "segment_number": 201,
-                  "translated_text": "Here, when the sentence-meaning is completed in a single verse, it is a <s>muktaka</s> (independent verse); when the sentence-meaning is completed"
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "bhyāṃ #95 vākyārthaparisamāptau yugalakam, tribhis tilakam, caturbhis cakka-",
-                  "segment_number": 202,
-                  "translated_text": "in two verses, it is a <s>yugalaka</s> (couplet); in three, a <s>tilaka</s> (ornament-trio); in four, a <s>cakka-</s>"
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "lakam, pañcabhiḥ kulakam, anantaraṃ mahākulakam // etair vyastais samastair vā",
-                  "segment_number": 203,
-                  "translated_text": "<s>laka</s> (quartet); in five, a <s>kulaka</s> (cluster); beyond that, a <s>mahākulaka</s> (great cluster). By these, whether separate or combined,"
-                }
-              ]
+              "text": "atra cai(19r:)kena ślokena vākyārthaparisamāptau muktakaṃ, dvābhyāṃ ślokā-",
+              "segment_number": 201,
+              "translated_text": "Here, when the sentence-meaning is completed in a single verse, it is a <s>muktaka</s> (independent verse); when the sentence-meaning is completed"
             },
             {
-              "tag": "text",
-              "text": "prabandha iti śivam.",
-              "segment_number": 204,
-              "translated_text": "a <s>prabandha</s> (literary composition) [is formed]. Thus, auspiciousness."
+              "tag": "l",
+              "attributes": {},
+              "text": "bhyāṃ #95 vākyārthaparisamāptau yugalakam, tribhis tilakam, caturbhis cakka-",
+              "segment_number": 202,
+              "translated_text": "in two verses, it is a <s>yugalaka</s> (couplet); in three, a <s>tilaka</s> (ornament-trio); in four, a <s>cakka-</s>"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "lakam, pañcabhiḥ kulakam, anantaraṃ mahākulakam // etair vyastais samastair vā",
+              "segment_number": 203,
+              "translated_text": "<s>laka</s> (quartet); in five, a <s>kulaka</s> (cluster); beyond that, a <s>mahākulaka</s> (great cluster). By these, whether separate or combined,"
             }
-          ],
-          "segment_number": 200,
-          "translated_text": "[5.3.]\n  SD (Prose redaction)"
+          ]
+        },
+        {
+          "tag": "text",
+          "text": "prabandha iti śivam.",
+          "segment_number": 204,
+          "translated_text": "a <s>prabandha</s> (literary composition) [is formed]. Thus, auspiciousness."
         },
         {
           "tag": "lg",
@@ -1756,40 +2116,38 @@
       "attributes": {},
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[6.]",
+          "text": "6.",
+          "segment_number": 211,
+          "translated_text": "6."
+        },
+        {
+          "tag": "lg",
+          "attributes": {},
           "children": [
             {
-              "tag": "lg",
+              "tag": "l",
               "attributes": {},
-              "children": [
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "SD",
-                  "segment_number": 212,
-                  "translated_text": "SD (Prose redaction)"
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "diṅmātram anvayasyedaṃ bālānāṃ saṃprakāśitam /",
-                  "segment_number": 213,
-                  "translated_text": "This mere indication of syntactic construction (<s>anvaya</s>) has been illuminated for beginners."
-                },
-                {
-                  "tag": "l",
-                  "attributes": {},
-                  "text": "diśānayā pragalbhante bālās samyak samanvaye //",
-                  "segment_number": 214,
-                  "translated_text": "By this direction, beginners become confident in proper syntactic construction."
-                }
-              ]
+              "text": "SD",
+              "segment_number": 212,
+              "translated_text": "SD (Prose redaction)"
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "diṅmātram anvayasyedaṃ bālānāṃ saṃprakāśitam /",
+              "segment_number": 213,
+              "translated_text": "This mere indication of syntactic construction (<s>anvaya</s>) has been illuminated for beginners."
+            },
+            {
+              "tag": "l",
+              "attributes": {},
+              "text": "diśānayā pragalbhante bālās samyak samanvaye //",
+              "segment_number": 214,
+              "translated_text": "By this direction, beginners become confident in proper syntactic construction."
             }
-          ],
-          "segment_number": 211,
-          "translated_text": "[6.]"
+          ]
         },
         {
           "tag": "lg",
@@ -1864,11 +2222,17 @@
               "translated_text": "called <s>Samanvayadik</s> — this is the meaning. That [treatise] stands in prose form,"
             },
             {
-              "tag": "l",
+              "tag": "Subchapter",
               "attributes": {},
-              "text": "[']yaṃ tu padyarūpeṇaitāvān eva viśeṣaḥ // samāpto [']yaṃ",
+              "text": "'",
               "segment_number": 223,
-              "translated_text": "while this [version] is in verse form — just this is the only difference. This"
+              "translated_text": "while this [version]"
+            },
+            {
+              "tag": "p",
+              "attributes": {},
+              "text": "yaṃ tu padyarūpeṇaitāvān eva viśeṣaḥ // samāpto [']yaṃ",
+              "translated_text": " is in verse form — just this is the only difference. This"
             }
           ]
         },

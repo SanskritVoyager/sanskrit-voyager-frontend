@@ -536,10 +536,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "|| atha śrīmadaṣṭāvakragītā||",
               "segment_number": 2,
               "translated_text": "|| Now begins the blessed <s>Aṣṭāvakra Gītā</s> ||"
@@ -550,10 +547,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||1||",
               "segment_number": 3,
               "translated_text": "<s>Janaka</s> said ||1||"
@@ -584,10 +578,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||",
               "segment_number": 6,
               "translated_text": "<s>Aṣṭāvakra</s> said ||"
@@ -597,7 +588,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.2"
+            "id": "verse_1.2",
+            "label": "verse 1.2"
           },
           "children": [
             {
@@ -617,7 +609,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.3"
+            "id": "verse_1.3",
+            "label": "verse 1.3"
           },
           "children": [
             {
@@ -637,7 +630,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.4"
+            "id": "verse_1.4",
+            "label": "verse 1.4"
           },
           "children": [
             {
@@ -657,7 +651,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.5"
+            "id": "verse_1.5",
+            "label": "verse 1.5"
           },
           "children": [
             {
@@ -677,7 +672,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.6"
+            "id": "verse_1.6",
+            "label": "verse 1.6"
           },
           "children": [
             {
@@ -697,7 +693,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.7"
+            "id": "verse_1.7",
+            "label": "verse 1.7"
           },
           "children": [
             {
@@ -717,7 +714,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.8"
+            "id": "verse_1.8",
+            "label": "verse 1.8"
           },
           "children": [
             {
@@ -737,7 +735,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.9"
+            "id": "verse_1.9",
+            "label": "verse 1.9"
           },
           "children": [
             {
@@ -757,7 +756,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.10"
+            "id": "verse_1.10",
+            "label": "verse 1.10"
           },
           "children": [
             {
@@ -777,7 +777,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.11"
+            "id": "verse_1.11",
+            "label": "verse 1.11"
           },
           "children": [
             {
@@ -797,7 +798,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.13"
+            "id": "verse_1.13",
+            "label": "verse 1.13"
           },
           "children": [
             {
@@ -811,7 +813,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.12"
+            "id": "verse_1.12",
+            "label": "verse 1.12"
           },
           "children": [
             {
@@ -837,7 +840,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.14"
+            "id": "verse_1.14",
+            "label": "verse 1.14"
           },
           "children": [
             {
@@ -857,7 +861,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.15"
+            "id": "verse_1.15",
+            "label": "verse 1.15"
           },
           "children": [
             {
@@ -877,7 +882,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.16"
+            "id": "verse_1.16",
+            "label": "verse 1.16"
           },
           "children": [
             {
@@ -897,7 +903,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.17"
+            "id": "verse_1.17",
+            "label": "verse 1.17"
           },
           "children": [
             {
@@ -917,7 +924,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.18"
+            "id": "verse_1.18",
+            "label": "verse 1.18"
           },
           "children": [
             {
@@ -937,7 +945,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.19"
+            "id": "verse_1.19",
+            "label": "verse 1.19"
           },
           "children": [
             {
@@ -957,7 +966,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_1.20"
+            "id": "verse_1.20",
+            "label": "verse 1.20"
           },
           "children": [
             {
@@ -992,10 +1002,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||2||",
               "segment_number": 46,
               "translated_text": "<s>Janaka</s> said ||2||"
@@ -1005,7 +1012,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.1"
+            "id": "verse_2.1",
+            "label": "verse 2.1"
           },
           "children": [
             {
@@ -1025,7 +1033,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.2"
+            "id": "verse_2.2",
+            "label": "verse 2.2"
           },
           "children": [
             {
@@ -1045,7 +1054,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.3"
+            "id": "verse_2.3",
+            "label": "verse 2.3"
           },
           "children": [
             {
@@ -1065,7 +1075,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.4"
+            "id": "verse_2.4",
+            "label": "verse 2.4"
           },
           "children": [
             {
@@ -1085,7 +1096,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.5"
+            "id": "verse_2.5",
+            "label": "verse 2.5"
           },
           "children": [
             {
@@ -1105,7 +1117,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.6"
+            "id": "verse_2.6",
+            "label": "verse 2.6"
           },
           "children": [
             {
@@ -1125,7 +1138,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.7"
+            "id": "verse_2.7",
+            "label": "verse 2.7"
           },
           "children": [
             {
@@ -1145,7 +1159,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.8"
+            "id": "verse_2.8",
+            "label": "verse 2.8"
           },
           "children": [
             {
@@ -1165,7 +1180,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.9"
+            "id": "verse_2.9",
+            "label": "verse 2.9"
           },
           "children": [
             {
@@ -1185,7 +1201,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.10"
+            "id": "verse_2.10",
+            "label": "verse 2.10"
           },
           "children": [
             {
@@ -1205,7 +1222,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.11"
+            "id": "verse_2.11",
+            "label": "verse 2.11"
           },
           "children": [
             {
@@ -1225,7 +1243,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.12"
+            "id": "verse_2.12",
+            "label": "verse 2.12"
           },
           "children": [
             {
@@ -1245,7 +1264,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.13"
+            "id": "verse_2.13",
+            "label": "verse 2.13"
           },
           "children": [
             {
@@ -1265,7 +1285,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.14"
+            "id": "verse_2.14",
+            "label": "verse 2.14"
           },
           "children": [
             {
@@ -1285,7 +1306,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.15"
+            "id": "verse_2.15",
+            "label": "verse 2.15"
           },
           "children": [
             {
@@ -1305,7 +1327,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.16"
+            "id": "verse_2.16",
+            "label": "verse 2.16"
           },
           "children": [
             {
@@ -1325,7 +1348,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.17"
+            "id": "verse_2.17",
+            "label": "verse 2.17"
           },
           "children": [
             {
@@ -1345,7 +1369,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.18"
+            "id": "verse_2.18",
+            "label": "verse 2.18"
           },
           "children": [
             {
@@ -1365,7 +1390,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.19"
+            "id": "verse_2.19",
+            "label": "verse 2.19"
           },
           "children": [
             {
@@ -1385,7 +1411,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.20"
+            "id": "verse_2.20",
+            "label": "verse 2.20"
           },
           "children": [
             {
@@ -1405,7 +1432,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.21"
+            "id": "verse_2.21",
+            "label": "verse 2.21"
           },
           "children": [
             {
@@ -1425,7 +1453,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.22"
+            "id": "verse_2.22",
+            "label": "verse 2.22"
           },
           "children": [
             {
@@ -1445,7 +1474,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.23"
+            "id": "verse_2.23",
+            "label": "verse 2.23"
           },
           "children": [
             {
@@ -1465,7 +1495,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.24"
+            "id": "verse_2.24",
+            "label": "verse 2.24"
           },
           "children": [
             {
@@ -1485,7 +1516,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_2.25"
+            "id": "verse_2.25",
+            "label": "verse 2.25"
           },
           "children": [
             {
@@ -1520,10 +1552,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||3||",
               "segment_number": 98,
               "translated_text": "<s>Aṣṭāvakra</s> said ||3||"
@@ -1533,7 +1562,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.1"
+            "id": "verse_3.1",
+            "label": "verse 3.1"
           },
           "children": [
             {
@@ -1553,7 +1583,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.2"
+            "id": "verse_3.2",
+            "label": "verse 3.2"
           },
           "children": [
             {
@@ -1573,7 +1604,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.3"
+            "id": "verse_3.3",
+            "label": "verse 3.3"
           },
           "children": [
             {
@@ -1593,7 +1625,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.4"
+            "id": "verse_3.4",
+            "label": "verse 3.4"
           },
           "children": [
             {
@@ -1613,7 +1646,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.5"
+            "id": "verse_3.5",
+            "label": "verse 3.5"
           },
           "children": [
             {
@@ -1633,7 +1667,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.6"
+            "id": "verse_3.6",
+            "label": "verse 3.6"
           },
           "children": [
             {
@@ -1653,7 +1688,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.7"
+            "id": "verse_3.7",
+            "label": "verse 3.7"
           },
           "children": [
             {
@@ -1673,7 +1709,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.8"
+            "id": "verse_3.8",
+            "label": "verse 3.8"
           },
           "children": [
             {
@@ -1693,7 +1730,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.9"
+            "id": "verse_3.9",
+            "label": "verse 3.9"
           },
           "children": [
             {
@@ -1713,7 +1751,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.10"
+            "id": "verse_3.10",
+            "label": "verse 3.10"
           },
           "children": [
             {
@@ -1733,7 +1772,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.11"
+            "id": "verse_3.11",
+            "label": "verse 3.11"
           },
           "children": [
             {
@@ -1753,7 +1793,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.12"
+            "id": "verse_3.12",
+            "label": "verse 3.12"
           },
           "children": [
             {
@@ -1773,7 +1814,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.13"
+            "id": "verse_3.13",
+            "label": "verse 3.13"
           },
           "children": [
             {
@@ -1793,7 +1835,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_3.14"
+            "id": "verse_3.14",
+            "label": "verse 3.14"
           },
           "children": [
             {
@@ -1828,10 +1871,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||4||",
               "segment_number": 128,
               "translated_text": "<s>Janaka</s> said ||4||"
@@ -1841,7 +1881,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_4.1"
+            "id": "verse_4.1",
+            "label": "verse 4.1"
           },
           "children": [
             {
@@ -1861,7 +1902,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_4.2"
+            "id": "verse_4.2",
+            "label": "verse 4.2"
           },
           "children": [
             {
@@ -1881,7 +1923,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_4.3"
+            "id": "verse_4.3",
+            "label": "verse 4.3"
           },
           "children": [
             {
@@ -1901,7 +1944,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_4.4"
+            "id": "verse_4.4",
+            "label": "verse 4.4"
           },
           "children": [
             {
@@ -1921,7 +1965,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_4.5"
+            "id": "verse_4.5",
+            "label": "verse 4.5"
           },
           "children": [
             {
@@ -1941,7 +1986,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_4.6"
+            "id": "verse_4.6",
+            "label": "verse 4.6"
           },
           "children": [
             {
@@ -1976,10 +2022,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||5||",
               "segment_number": 142,
               "translated_text": "<s>Aṣṭāvakra</s> said: ||5||"
@@ -1989,7 +2032,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_5.1"
+            "id": "verse_5.1",
+            "label": "verse 5.1"
           },
           "children": [
             {
@@ -2009,7 +2053,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_5.2"
+            "id": "verse_5.2",
+            "label": "verse 5.2"
           },
           "children": [
             {
@@ -2029,7 +2074,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_5.3"
+            "id": "verse_5.3",
+            "label": "verse 5.3"
           },
           "children": [
             {
@@ -2049,7 +2095,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_5.4"
+            "id": "verse_5.4",
+            "label": "verse 5.4"
           },
           "children": [
             {
@@ -2084,10 +2131,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||6||",
               "segment_number": 152,
               "translated_text": "<s>Janaka</s> said: ||6||"
@@ -2097,7 +2141,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_6.1"
+            "id": "verse_6.1",
+            "label": "verse 6.1"
           },
           "children": [
             {
@@ -2117,7 +2162,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_6.2"
+            "id": "verse_6.2",
+            "label": "verse 6.2"
           },
           "children": [
             {
@@ -2137,7 +2183,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_6.3"
+            "id": "verse_6.3",
+            "label": "verse 6.3"
           },
           "children": [
             {
@@ -2157,7 +2204,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_6.4"
+            "id": "verse_6.4",
+            "label": "verse 6.4"
           },
           "children": [
             {
@@ -2192,10 +2240,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||7||",
               "segment_number": 162,
               "translated_text": "<s>Janaka</s> said: ||7||"
@@ -2205,7 +2250,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_7.1"
+            "id": "verse_7.1",
+            "label": "verse 7.1"
           },
           "children": [
             {
@@ -2225,7 +2271,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_7.2"
+            "id": "verse_7.2",
+            "label": "verse 7.2"
           },
           "children": [
             {
@@ -2245,7 +2292,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_7.3"
+            "id": "verse_7.3",
+            "label": "verse 7.3"
           },
           "children": [
             {
@@ -2265,7 +2313,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_7.4"
+            "id": "verse_7.4",
+            "label": "verse 7.4"
           },
           "children": [
             {
@@ -2285,7 +2334,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_7.5"
+            "id": "verse_7.5",
+            "label": "verse 7.5"
           },
           "children": [
             {
@@ -2320,10 +2370,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||8||",
               "segment_number": 174,
               "translated_text": "<s>Aṣṭāvakra</s> said: ||8||"
@@ -2333,7 +2380,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_8.1"
+            "id": "verse_8.1",
+            "label": "verse 8.1"
           },
           "children": [
             {
@@ -2353,7 +2401,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_8.2"
+            "id": "verse_8.2",
+            "label": "verse 8.2"
           },
           "children": [
             {
@@ -2373,7 +2422,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_8.3"
+            "id": "verse_8.3",
+            "label": "verse 8.3"
           },
           "children": [
             {
@@ -2393,7 +2443,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_8.4"
+            "id": "verse_8.4",
+            "label": "verse 8.4"
           },
           "children": [
             {
@@ -2428,10 +2479,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||9||",
               "segment_number": 184,
               "translated_text": "<s>Aṣṭāvakra</s> said: ||9||"
@@ -2441,7 +2489,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.1"
+            "id": "verse_9.1",
+            "label": "verse 9.1"
           },
           "children": [
             {
@@ -2461,7 +2510,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.2"
+            "id": "verse_9.2",
+            "label": "verse 9.2"
           },
           "children": [
             {
@@ -2481,7 +2531,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.3"
+            "id": "verse_9.3",
+            "label": "verse 9.3"
           },
           "children": [
             {
@@ -2501,7 +2552,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.4"
+            "id": "verse_9.4",
+            "label": "verse 9.4"
           },
           "children": [
             {
@@ -2521,7 +2573,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.5"
+            "id": "verse_9.5",
+            "label": "verse 9.5"
           },
           "children": [
             {
@@ -2541,7 +2594,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.6"
+            "id": "verse_9.6",
+            "label": "verse 9.6"
           },
           "children": [
             {
@@ -2561,7 +2615,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.7"
+            "id": "verse_9.7",
+            "label": "verse 9.7"
           },
           "children": [
             {
@@ -2581,7 +2636,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_9.8"
+            "id": "verse_9.8",
+            "label": "verse 9.8"
           },
           "children": [
             {
@@ -2616,10 +2672,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||10||",
               "segment_number": 202,
               "translated_text": "<s>Aṣṭāvakra</s> said: ||10||"
@@ -2629,7 +2682,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.1"
+            "id": "verse_10.1",
+            "label": "verse 10.1"
           },
           "children": [
             {
@@ -2649,7 +2703,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.2"
+            "id": "verse_10.2",
+            "label": "verse 10.2"
           },
           "children": [
             {
@@ -2669,7 +2724,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.3"
+            "id": "verse_10.3",
+            "label": "verse 10.3"
           },
           "children": [
             {
@@ -2689,7 +2745,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.4"
+            "id": "verse_10.4",
+            "label": "verse 10.4"
           },
           "children": [
             {
@@ -2709,7 +2766,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.5"
+            "id": "verse_10.5",
+            "label": "verse 10.5"
           },
           "children": [
             {
@@ -2729,7 +2787,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.6"
+            "id": "verse_10.6",
+            "label": "verse 10.6"
           },
           "children": [
             {
@@ -2749,7 +2808,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.7"
+            "id": "verse_10.7",
+            "label": "verse 10.7"
           },
           "children": [
             {
@@ -2769,7 +2829,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_10.8"
+            "id": "verse_10.8",
+            "label": "verse 10.8"
           },
           "children": [
             {
@@ -2804,10 +2865,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||11||",
               "segment_number": 220,
               "translated_text": "<s>Aṣṭāvakra</s> said: ||11||"
@@ -2817,7 +2875,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.1"
+            "id": "verse_11.1",
+            "label": "verse 11.1"
           },
           "children": [
             {
@@ -2837,7 +2896,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.2"
+            "id": "verse_11.2",
+            "label": "verse 11.2"
           },
           "children": [
             {
@@ -2857,7 +2917,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.3"
+            "id": "verse_11.3",
+            "label": "verse 11.3"
           },
           "children": [
             {
@@ -2877,7 +2938,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.4"
+            "id": "verse_11.4",
+            "label": "verse 11.4"
           },
           "children": [
             {
@@ -2897,7 +2959,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.5"
+            "id": "verse_11.5",
+            "label": "verse 11.5"
           },
           "children": [
             {
@@ -2917,7 +2980,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.6"
+            "id": "verse_11.6",
+            "label": "verse 11.6"
           },
           "children": [
             {
@@ -2937,7 +3001,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.7"
+            "id": "verse_11.7",
+            "label": "verse 11.7"
           },
           "children": [
             {
@@ -2957,7 +3022,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_11.8"
+            "id": "verse_11.8",
+            "label": "verse 11.8"
           },
           "children": [
             {
@@ -2992,10 +3058,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||12||",
               "segment_number": 238,
               "translated_text": "<s>Janaka</s> said: ||12||"
@@ -3005,7 +3068,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.1"
+            "id": "verse_12.1",
+            "label": "verse 12.1"
           },
           "children": [
             {
@@ -3025,7 +3089,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.2"
+            "id": "verse_12.2",
+            "label": "verse 12.2"
           },
           "children": [
             {
@@ -3045,7 +3110,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.3"
+            "id": "verse_12.3",
+            "label": "verse 12.3"
           },
           "children": [
             {
@@ -3065,7 +3131,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.4"
+            "id": "verse_12.4",
+            "label": "verse 12.4"
           },
           "children": [
             {
@@ -3085,7 +3152,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.5"
+            "id": "verse_12.5",
+            "label": "verse 12.5"
           },
           "children": [
             {
@@ -3105,7 +3173,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.6"
+            "id": "verse_12.6",
+            "label": "verse 12.6"
           },
           "children": [
             {
@@ -3125,7 +3194,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.7"
+            "id": "verse_12.7",
+            "label": "verse 12.7"
           },
           "children": [
             {
@@ -3145,7 +3215,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_12.8"
+            "id": "verse_12.8",
+            "label": "verse 12.8"
           },
           "children": [
             {
@@ -3180,10 +3251,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||13||",
               "segment_number": 256,
               "translated_text": "<s>Janaka</s> said: ||13||"
@@ -3193,7 +3261,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_13.1"
+            "id": "verse_13.1",
+            "label": "verse 13.1"
           },
           "children": [
             {
@@ -3213,7 +3282,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_13.2"
+            "id": "verse_13.2",
+            "label": "verse 13.2"
           },
           "children": [
             {
@@ -3233,7 +3303,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_13.3"
+            "id": "verse_13.3",
+            "label": "verse 13.3"
           },
           "children": [
             {
@@ -3253,7 +3324,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_13.4"
+            "id": "verse_13.4",
+            "label": "verse 13.4"
           },
           "children": [
             {
@@ -3273,7 +3345,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_13.5"
+            "id": "verse_13.5",
+            "label": "verse 13.5"
           },
           "children": [
             {
@@ -3293,7 +3366,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_13.6"
+            "id": "verse_13.6",
+            "label": "verse 13.6"
           },
           "children": [
             {
@@ -3313,7 +3387,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_13.7"
+            "id": "verse_13.7",
+            "label": "verse 13.7"
           },
           "children": [
             {
@@ -3341,90 +3416,101 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 14",
-          "segment_number": 271
+          "segment_number": 271,
+          "translated_text": "Chapter 14"
         },
         {
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||14||",
-              "segment_number": 272
+              "segment_number": 272,
+              "translated_text": "<s>Janaka</s> said: (14)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_14.1"
+            "id": "verse_14.1",
+            "label": "verse 14.1"
           },
           "children": [
             {
               "tag": "l",
               "text": "prakṛtyā śūnyacitto yaḥ pramādādbhāvabhāvanaḥ|",
-              "segment_number": 273
+              "segment_number": 273,
+              "translated_text": "One who is by nature empty-minded, yet through inadvertence entertains thoughts of existence,"
             },
             {
               "tag": "l",
               "text": "nidrito bodhita iva kṣīṇasaṃsaraṇo hi saḥ||14|1||",
-              "segment_number": 274
+              "segment_number": 274,
+              "translated_text": "he is like a sleeping man who has been awakened — his cycle of <s>saṃsāra</s> (worldly existence) is truly exhausted. (14.1)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_14.2"
+            "id": "verse_14.2",
+            "label": "verse 14.2"
           },
           "children": [
             {
               "tag": "l",
               "text": "kva dhanāni kva mitrāṇi kva me viṣayadasyavaḥ|",
-              "segment_number": 275
+              "segment_number": 275,
+              "translated_text": "Where are riches, where are friends, where are the thieves of sense-objects for me?"
             },
             {
               "tag": "l",
               "text": "kva śāstraṃ kva ca vijñānaṃ yadā me galitā spṛhā||14|2||",
-              "segment_number": 276
+              "segment_number": 276,
+              "translated_text": "Where is scripture, where is knowledge, when all desire has fallen away from me? (14.2)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_14.3"
+            "id": "verse_14.3",
+            "label": "verse 14.3"
           },
           "children": [
             {
               "tag": "l",
               "text": "vijñāte sākṣipuruṣe paramātmani ceśvare|",
-              "segment_number": 277
+              "segment_number": 277,
+              "translated_text": "Having known the witness-<s>Puruṣa</s>, the supreme <s>Ātman</s> (Self), the Lord,"
             },
             {
               "tag": "l",
               "text": "nairāśye bandhamokṣe ca na cintā muktaye mama||14|3||",
-              "segment_number": 278
+              "segment_number": 278,
+              "translated_text": "in the hopelessness regarding both bondage and liberation, there is no anxiety for my freedom. (14.3)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_14.4"
+            "id": "verse_14.4",
+            "label": "verse 14.4"
           },
           "children": [
             {
               "tag": "l",
               "text": "antarvikalpaśūnyasya bahiḥ svacchandacāriṇaḥ|",
-              "segment_number": 279
+              "segment_number": 279,
+              "translated_text": "For one who is inwardly void of mental constructs and outwardly moves freely as he pleases,"
             },
             {
               "tag": "l",
               "text": "bhrāntasyeva daśāstāstāstādṛśā eva jānate||14|4||",
-              "segment_number": 280
+              "segment_number": 280,
+              "translated_text": "only those who are likewise can recognize his various states, as if he were a madman. (14.4)"
             }
           ]
         }
@@ -3439,378 +3525,437 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 15",
-          "segment_number": 281
+          "segment_number": 281,
+          "translated_text": "Chapter 15"
         },
         {
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||15||",
-              "segment_number": 282
+              "segment_number": 282,
+              "translated_text": "<s>Aṣṭāvakra</s> said: (15)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.1"
+            "id": "verse_15.1",
+            "label": "verse 15.1"
           },
           "children": [
             {
               "tag": "l",
               "text": "yathātathopadeśena kṛtārthaḥ sattvabuddhimān|",
-              "segment_number": 283
+              "segment_number": 283,
+              "translated_text": "Through straightforward instruction, one of pure <s>sattva</s> (goodness) and intelligence attains fulfillment,"
             },
             {
               "tag": "l",
               "text": "ājīvamapi jijñāsuḥ parastatra vimuhyati||15|1||",
-              "segment_number": 284
+              "segment_number": 284,
+              "translated_text": "but another, though seeking knowledge for a lifetime, remains bewildered. (15.1)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.2"
+            "id": "verse_15.2",
+            "label": "verse 15.2"
           },
           "children": [
             {
               "tag": "l",
               "text": "mokṣo viṣayavairasyaṃ bandho vaiṣayiko rasaḥ|",
-              "segment_number": 285
+              "segment_number": 285,
+              "translated_text": "<s>Mokṣa</s> (liberation) is dispassion toward sense-objects; bondage is relish for sensory pleasures."
             },
             {
               "tag": "l",
               "text": "etāvadeva vijñānaṃ yathecchasi tathā kuru||15|2||",
-              "segment_number": 286
+              "segment_number": 286,
+              "translated_text": "This alone is true knowledge — now do as you wish. (15.2)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.3"
+            "id": "verse_15.3",
+            "label": "verse 15.3"
           },
           "children": [
             {
               "tag": "l",
               "text": "vāgmiprājñamahodyogaṃ janaṃ mūkajaḍālasam|",
-              "segment_number": 287
+              "segment_number": 287,
+              "translated_text": "This realization of truth renders the eloquent, learned, and industrious person silent, inert, and still,"
             },
             {
               "tag": "l",
               "text": "karoti tattvabodho+ayamatastyakto bubhukṣubhiḥ||15|3||",
-              "segment_number": 288
+              "segment_number": 288,
+              "translated_text": "and therefore it is shunned by those who crave enjoyment. (15.3)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.4"
+            "id": "verse_15.4",
+            "label": "verse 15.4"
           },
           "children": [
             {
               "tag": "l",
               "text": "na tvaṃ deho na te deho bhoktā kartā na vā bhavān|",
-              "segment_number": 289
+              "segment_number": 289,
+              "translated_text": "You are not the body, nor is the body yours; you are neither the enjoyer nor the doer."
             },
             {
               "tag": "l",
               "text": "cidrūpo+asi sadā sākṣī nirapekṣaḥ sukhaṃ cara||15|4||",
-              "segment_number": 290
+              "segment_number": 290,
+              "translated_text": "You are pure consciousness, the eternal witness, without dependence — move about happily. (15.4)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.5"
+            "id": "verse_15.5",
+            "label": "verse 15.5"
           },
           "children": [
             {
               "tag": "l",
               "text": "rāgadveṣau manodharmau na manaste kadācana|",
-              "segment_number": 291
+              "segment_number": 291,
+              "translated_text": "Attachment and aversion are properties of the mind, and the mind is never yours."
             },
             {
               "tag": "l",
               "text": "nirvikalpo+asi bodhātmā nirvikāraḥ sukhaṃ cara||15|5||",
-              "segment_number": 292
+              "segment_number": 292,
+              "translated_text": "You are free of mental constructs, you are awareness itself, changeless — move about happily. (15.5)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.6"
+            "id": "verse_15.6",
+            "label": "verse 15.6"
           },
           "children": [
             {
               "tag": "l",
               "text": "sarvabhūteṣu cātmānaṃ sarvabhūtāni cātmani|",
-              "segment_number": 293
+              "segment_number": 293,
+              "translated_text": "Recognizing the Self in all beings and all beings in the Self,"
             },
             {
               "tag": "l",
               "text": "vijñāya nirahaṃkāro nirmamastvaṃ sukhī bhava||15|6||",
-              "segment_number": 294
+              "segment_number": 294,
+              "translated_text": "free from ego-sense and the notion of 'mine,' be happy. (15.6)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.7"
+            "id": "verse_15.7",
+            "label": "verse 15.7"
           },
           "children": [
             {
               "tag": "l",
               "text": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare|",
-              "segment_number": 295
+              "segment_number": 295,
+              "translated_text": "That in which this universe arises, like waves in the ocean,"
             },
             {
               "tag": "l",
               "text": "tattvameva na sandehaścinmūrte vijvaro bhava||15|7||",
-              "segment_number": 296
+              "segment_number": 296,
+              "translated_text": "you are That alone, without doubt — O embodiment of consciousness, be free of affliction. (15.7)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.8"
+            "id": "verse_15.8",
+            "label": "verse 15.8"
           },
           "children": [
             {
               "tag": "l",
               "text": "śraddhatsva tāta śraddhatsva nātra mohaṃ kuruṣva bhoḥ|",
-              "segment_number": 297
+              "segment_number": 297,
+              "translated_text": "Have faith, dear one, have faith! Do not fall into delusion here."
             },
             {
               "tag": "l",
               "text": "jñānasvarūpo bhagavānātmā tvaṃ prakṛteḥ paraḥ||15|8||",
-              "segment_number": 298
+              "segment_number": 298,
+              "translated_text": "You are the Lord whose very nature is knowledge, you are the <s>Ātman</s> (Self), beyond <s>Prakṛti</s> (primordial nature). (15.8)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.9"
+            "id": "verse_15.9",
+            "label": "verse 15.9"
           },
           "children": [
             {
               "tag": "l",
               "text": "guṇaiḥ saṃveṣṭito dehastiṣṭhatyāyāti yāti ca|",
-              "segment_number": 299
+              "segment_number": 299,
+              "translated_text": "The body, enveloped by the <s>guṇas</s> (qualities of nature), stands, comes, and goes."
             },
             {
               "tag": "l",
               "text": "ātmā na gantā nāgantā kimenamanuśocasi||15|9||",
-              "segment_number": 300
+              "segment_number": 300,
+              "translated_text": "The <s>Ātman</s> (Self) neither goes nor comes — why do you grieve for it? (15.9)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.10"
+            "id": "verse_15.10",
+            "label": "verse 15.10"
           },
           "children": [
             {
               "tag": "l",
               "text": "dehastiṣṭhatu kalpāntaṃ gacchatvadyaiva vā punaḥ|",
-              "segment_number": 301
+              "segment_number": 301,
+              "translated_text": "Let the body endure until the end of the cosmic cycle, or let it depart this very day."
             },
             {
               "tag": "l",
               "text": "kva vṛddhiḥ kva ca vā hānistava cinmātrarūpiṇaḥ||15|10||",
-              "segment_number": 302
+              "segment_number": 302,
+              "translated_text": "Where is gain and where is loss for you, whose nature is pure consciousness alone? (15.10)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.11"
+            "id": "verse_15.11",
+            "label": "verse 15.11"
           },
           "children": [
             {
               "tag": "l",
               "text": "tvayyanantamahāmbhodhau viśvavīciḥ svabhāvataḥ|",
-              "segment_number": 303
+              "segment_number": 303,
+              "translated_text": "In you, the infinite great ocean, the wave of the universe naturally"
             },
             {
               "tag": "l",
               "text": "udetu vā+astamāyātu na te vṛddhirna vā kṣatiḥ||15|11||",
-              "segment_number": 304
+              "segment_number": 304,
+              "translated_text": "rises or sets — there is neither increase nor diminishment for you. (15.11)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.12"
+            "id": "verse_15.12",
+            "label": "verse 15.12"
           },
           "children": [
             {
               "tag": "l",
               "text": "tāta cinmātrarūpo+asi na te bhinnamidaṃ jagat|",
-              "segment_number": 305
+              "segment_number": 305,
+              "translated_text": "Dear one, you are of the nature of pure consciousness alone; this world is not separate from you."
             },
             {
               "tag": "l",
               "text": "ataḥ kasya kathaṃ kutra heyopādeyakalpanā||15|12||",
-              "segment_number": 306
+              "segment_number": 306,
+              "translated_text": "Therefore, for whom, how, and where can there be any notion of what is to be rejected or accepted? (15.12)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.13"
+            "id": "verse_15.13",
+            "label": "verse 15.13"
           },
           "children": [
             {
               "tag": "l",
               "text": "ekasminnavyaye śānte cidākāśe+amale tvayi|",
-              "segment_number": 307
+              "segment_number": 307,
+              "translated_text": "In the one imperishable, peaceful, stainless expanse of consciousness-space that is you,"
             },
             {
               "tag": "l",
               "text": "kuto janma kuto karma kuto+ahaṃkāra eva ca||15|13||",
-              "segment_number": 308
+              "segment_number": 308,
+              "translated_text": "whence is birth, whence is action, whence even the sense of 'I'? (15.13)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.14"
+            "id": "verse_15.14",
+            "label": "verse 15.14"
           },
           "children": [
             {
               "tag": "l",
               "text": "yattvaṃ paśyasi tatraikastvameva pratibhāsase|",
-              "segment_number": 309
+              "segment_number": 309,
+              "translated_text": "Whatever you perceive, in all of that you alone shine forth."
             },
             {
               "tag": "l",
               "text": "kiṃ pṛthagbhāsate svarṇātkaṭakāṅgadanūpuram||15|14||",
-              "segment_number": 310
+              "segment_number": 310,
+              "translated_text": "Do bracelets, armlets, and anklets shine as something different from gold? (15.14)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.15"
+            "id": "verse_15.15",
+            "label": "verse 15.15"
           },
           "children": [
             {
               "tag": "l",
               "text": "ayaṃ so+ahamayaṃ nāhaṃ vibhāgamiti saṃtyaja|",
-              "segment_number": 311
+              "segment_number": 311,
+              "translated_text": "Abandon the distinction 'this is I' and 'this I am not.'"
             },
             {
               "tag": "l",
               "text": "sarvamātmeti niścitya niḥsaṃkalpaḥ sukhī bhava||15|15||",
-              "segment_number": 312
+              "segment_number": 312,
+              "translated_text": "Having ascertained that all is the Self, be free of intentions and be happy. (15.15)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.16"
+            "id": "verse_15.16",
+            "label": "verse 15.16"
           },
           "children": [
             {
               "tag": "l",
               "text": "tavaivājñānato viśvaṃ tvamekaḥ paramārthataḥ|",
-              "segment_number": 313
+              "segment_number": 313,
+              "translated_text": "It is only through your ignorance that the universe exists; in truth, you alone are."
             },
             {
               "tag": "l",
               "text": "tvatto+anyo nāsti saṃsārī nāsaṃsārī ca kaścana||15|16||",
-              "segment_number": 314
+              "segment_number": 314,
+              "translated_text": "There is no one other than you who is bound in <s>saṃsāra</s>, nor anyone who is free from it. (15.16)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.17"
+            "id": "verse_15.17",
+            "label": "verse 15.17"
           },
           "children": [
             {
               "tag": "l",
               "text": "bhrāntimātramidaṃ viśvaṃ na kiñciditi niścayī|",
-              "segment_number": 315
+              "segment_number": 315,
+              "translated_text": "This universe is nothing but delusion — nothing whatsoever exists; one who is firm in this conviction,"
             },
             {
               "tag": "l",
               "text": "nirvāsanaḥ sphūrtimātro na kiñcidiva śāmyati||15|17||",
-              "segment_number": 316
+              "segment_number": 316,
+              "translated_text": "free from <s>vāsanās</s> (latent impressions), a mere flash of awareness, becomes still as if nothing at all. (15.17)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.18"
+            "id": "verse_15.18",
+            "label": "verse 15.18"
           },
           "children": [
             {
               "tag": "l",
               "text": "eka eva bhavāmbhodhāvāsīdasti bhaviṣyati|",
-              "segment_number": 317
+              "segment_number": 317,
+              "translated_text": "One alone was, is, and shall be in the ocean of existence."
             },
             {
               "tag": "l",
               "text": "na te bandho+asti mokṣo vā kṛtakṛtyaḥ sukhaṃ cara||15|18||",
-              "segment_number": 318
+              "segment_number": 318,
+              "translated_text": "There is neither bondage nor liberation for you — live happily, having fulfilled your purpose. (15.18)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.19"
+            "id": "verse_15.19",
+            "label": "verse 15.19"
           },
           "children": [
             {
               "tag": "l",
               "text": "mā saṃkalpavikalpābhyāṃ cittaṃ kṣobhaya cinmaya|",
-              "segment_number": 319
+              "segment_number": 319,
+              "translated_text": "Do not agitate the mind with fancies and counter-fancies, O one made of consciousness."
             },
             {
               "tag": "l",
               "text": "upaśāmya sukhaṃ tiṣṭha svātmanyānandavigrahe||15|19||",
-              "segment_number": 320
+              "segment_number": 320,
+              "translated_text": "Be at peace and dwell happily in your own Self, whose very form is bliss. (15.19)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_15.20"
+            "id": "verse_15.20",
+            "label": "verse 15.20"
           },
           "children": [
             {
               "tag": "l",
               "text": "tyajaiva dhyānaṃ sarvatra mā kiñciddhṛdi dhāraya|",
-              "segment_number": 321
+              "segment_number": 321,
+              "translated_text": "Abandon meditation entirely; hold nothing whatsoever in the heart."
             },
             {
               "tag": "l",
               "text": "ātmā tvaṃ mukta evāsi kiṃ vimṛśya kariṣyasi||15|20||",
-              "segment_number": 322
+              "segment_number": 322,
+              "translated_text": "You are the <s>Ātman</s> (Self), ever free — what will you accomplish by deliberation? (15.20)"
             }
           ]
         }
@@ -3825,216 +3970,248 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 16",
-          "segment_number": 323
+          "segment_number": 323,
+          "translated_text": "Chapter 16"
         },
         {
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||16||",
-              "segment_number": 324
+              "segment_number": 324,
+              "translated_text": "<s>Aṣṭāvakra</s> said: (16)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.1"
+            "id": "verse_16.1",
+            "label": "verse 16.1"
           },
           "children": [
             {
               "tag": "l",
               "text": "ācakṣva śṛṇu vā tāta nānāśāstrāṇyanekaśaḥ|",
-              "segment_number": 325
+              "segment_number": 325,
+              "translated_text": "You may recite or listen to various scriptures again and again, dear one,"
             },
             {
               "tag": "l",
               "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|1||",
-              "segment_number": 326
+              "segment_number": 326,
+              "translated_text": "yet you will not attain inner repose without forgetting everything. (16.1)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.2"
+            "id": "verse_16.2",
+            "label": "verse 16.2"
           },
           "children": [
             {
               "tag": "l",
               "text": "bhogaṃ karma samādhiṃ vā kuru vijña tathāpi te|",
-              "segment_number": 327
+              "segment_number": 327,
+              "translated_text": "You may pursue enjoyment, action, or <s>samādhi</s> (meditative absorption), O wise one, yet"
             },
             {
               "tag": "l",
               "text": "cittaṃ nirastasarvāśamatyarthaṃ rocayiṣyati||16|2||",
-              "segment_number": 328
+              "segment_number": 328,
+              "translated_text": "the mind, stripped of all expectations, will delight exceedingly in that alone. (16.2)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.3"
+            "id": "verse_16.3",
+            "label": "verse 16.3"
           },
           "children": [
             {
               "tag": "l",
               "text": "āyāsātsakalo duḥkhī nainaṃ jānāti kaścana|",
-              "segment_number": 329
+              "segment_number": 329,
+              "translated_text": "Everyone is miserable through effort — no one understands this."
             },
             {
               "tag": "l",
               "text": "anenaivopadeśena dhanyaḥ prāpnoti nirvṛtim||16|3||",
-              "segment_number": 330
+              "segment_number": 330,
+              "translated_text": "Through this instruction alone, the blessed one attains tranquility. (16.3)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.4"
+            "id": "verse_16.4",
+            "label": "verse 16.4"
           },
           "children": [
             {
               "tag": "l",
               "text": "vyāpāre khidyate yastu nimeṣonmeṣayorapi|",
-              "segment_number": 331
+              "segment_number": 331,
+              "translated_text": "One who feels weary even at the blinking and opening of the eyes,"
             },
             {
               "tag": "l",
               "text": "tasyālasyadhurīṇasya sukhaṃ nā+anyasya kasyacit||16|4||",
-              "segment_number": 332
+              "segment_number": 332,
+              "translated_text": "happiness belongs to that champion of indolence and to no one else. (16.4)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.5"
+            "id": "verse_16.5",
+            "label": "verse 16.5"
           },
           "children": [
             {
               "tag": "l",
               "text": "idaṃ kṛtamidaṃ neti dvandvairmuktaṃ yadā manaḥ|",
-              "segment_number": 333
+              "segment_number": 333,
+              "translated_text": "When the mind is freed from the dualities of 'this has been done' and 'this has not been done,'"
             },
             {
               "tag": "l",
               "text": "dharmārthakāmamokṣeṣu nirapekṣaṃ tadā bhavet||16|5||",
-              "segment_number": 334
+              "segment_number": 334,
+              "translated_text": "it becomes indifferent to <s>dharma</s> (duty), <s>artha</s> (wealth), <s>kāma</s> (pleasure), and <s>mokṣa</s> (liberation). (16.5)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.6"
+            "id": "verse_16.6",
+            "label": "verse 16.6"
           },
           "children": [
             {
               "tag": "l",
               "text": "virakto viṣayadveṣṭā rāgī viṣayalolupaḥ|",
-              "segment_number": 335
+              "segment_number": 335,
+              "translated_text": "The dispassionate one is averse to sense-objects; the passionate one is greedy for them."
             },
             {
               "tag": "l",
               "text": "grahamokṣavihīnastu na virakto na rāgavān||16|6||",
-              "segment_number": 336
+              "segment_number": 336,
+              "translated_text": "But one free from both grasping and releasing is neither dispassionate nor attached. (16.6)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.7"
+            "id": "verse_16.7",
+            "label": "verse 16.7"
           },
           "children": [
             {
               "tag": "l",
               "text": "heyopādeyatā tāvatsaṃsāraviṭapāṅkuraḥ|",
-              "segment_number": 337
+              "segment_number": 337,
+              "translated_text": "The notion of what is to be rejected and what is to be accepted is the sprout of the tree of <s>saṃsāra</s> (worldly existence),"
             },
             {
               "tag": "l",
               "text": "spṛhā jīvati yāvadvai nirvicāradaśāspadam||16|7||",
-              "segment_number": 338
+              "segment_number": 338,
+              "translated_text": "and craving lives on as long as it provides a ground for the state of non-discrimination. (16.7)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.8"
+            "id": "verse_16.8",
+            "label": "verse 16.8"
           },
           "children": [
             {
               "tag": "l",
               "text": "pravṛttau jāyate rāgo nivṛttau dveṣa eva hi|",
-              "segment_number": 339
+              "segment_number": 339,
+              "translated_text": "In activity, attachment is born; in withdrawal, aversion arises."
             },
             {
               "tag": "l",
               "text": "nirdvandvo bālavaddhīmānevameva vyavasthitaḥ||16|8||",
-              "segment_number": 340
+              "segment_number": 340,
+              "translated_text": "The wise one, free from dualities, remains established like a child. (16.8)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.9"
+            "id": "verse_16.9",
+            "label": "verse 16.9"
           },
           "children": [
             {
               "tag": "l",
               "text": "hātumicchati saṃsāraṃ rāgī duḥkhajihāsayā|",
-              "segment_number": 341
+              "segment_number": 341,
+              "translated_text": "One who is attached wishes to renounce <s>saṃsāra</s> (worldly existence) out of a desire to escape suffering,"
             },
             {
               "tag": "l",
               "text": "vītarāgo hi nirduḥkhastasminnapi na khidyati||16|9||",
-              "segment_number": 342
+              "segment_number": 342,
+              "translated_text": "but one free from attachment is without suffering and does not feel distressed even in it. (16.9)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.10"
+            "id": "verse_16.10",
+            "label": "verse 16.10"
           },
           "children": [
             {
               "tag": "l",
               "text": "yasyābhimāno mokṣe+api dehe+api mamatā tathā|",
-              "segment_number": 343
+              "segment_number": 343,
+              "translated_text": "One who has pride even regarding <s>mokṣa</s> (liberation), and possessiveness toward the body,"
             },
             {
               "tag": "l",
               "text": "na ca jñānī na vā yogī kevalaṃ duḥkhabhāgasau||16|10||",
-              "segment_number": 344
+              "segment_number": 344,
+              "translated_text": "is neither a <s>jñānī</s> (knower) nor a <s>yogī</s> (practitioner) — he is merely a partaker of suffering. (16.10)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_16.11"
+            "id": "verse_16.11",
+            "label": "verse 16.11"
           },
           "children": [
             {
               "tag": "l",
               "text": "haro yadyupadeṣṭā te hariḥ kamalajo+api vā|",
-              "segment_number": 345
+              "segment_number": 345,
+              "translated_text": "Even if <s>Hara</s> (Śiva) were your teacher, or <s>Hari</s> (Viṣṇu), or <s>Brahmā</s> the lotus-born,"
             },
             {
               "tag": "l",
               "text": "tathāpi na tava svāsthyaṃ sarvavismaraṇādṛte||16|11||",
-              "segment_number": 346
+              "segment_number": 346,
+              "translated_text": "still you will not attain inner repose without forgetting everything. (16.11)"
             }
           ]
         }
@@ -4049,378 +4226,437 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 17",
-          "segment_number": 347
+          "segment_number": 347,
+          "translated_text": "Chapter 17"
         },
         {
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||17||",
-              "segment_number": 348
+              "segment_number": 348,
+              "translated_text": "<s>Aṣṭāvakra</s> said: (17)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.1"
+            "id": "verse_17.1",
+            "label": "verse 17.1"
           },
           "children": [
             {
               "tag": "l",
               "text": "tena jñānaphalaṃ prāptaṃ yogābhyāsaphalaṃ tathā|",
-              "segment_number": 349
+              "segment_number": 349,
+              "translated_text": "He has attained the fruit of knowledge, and likewise the fruit of <s>yoga</s> practice,"
             },
             {
               "tag": "l",
               "text": "tṛptaḥ svacchendriyo nityamekākī ramate tu yaḥ||17|1||",
-              "segment_number": 350
+              "segment_number": 350,
+              "translated_text": "who, content and with senses naturally pure, ever delights in solitude. (17.1)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.2"
+            "id": "verse_17.2",
+            "label": "verse 17.2"
           },
           "children": [
             {
               "tag": "l",
               "text": "na kadācijjagatyasmiṃstattvajño hanta khidyati|",
-              "segment_number": 351
+              "segment_number": 351,
+              "translated_text": "Never in this world does the knower of truth — alas — feel distressed,"
             },
             {
               "tag": "l",
               "text": "yata ekena tenedaṃ pūrṇaṃ brahmāṇḍamaṇḍalam||17|2||",
-              "segment_number": 352
+              "segment_number": 352,
+              "translated_text": "for by him alone is this entire sphere of the universe filled. (17.2)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.3"
+            "id": "verse_17.3",
+            "label": "verse 17.3"
           },
           "children": [
             {
               "tag": "l",
               "text": "na jātu viṣayāḥ ke+api svārāmaṃ harṣayantyamī|",
-              "segment_number": 353
+              "segment_number": 353,
+              "translated_text": "None of these sense-objects ever delight one who revels in the Self,"
             },
             {
               "tag": "l",
               "text": "sallakīpallavaprītamivebhaṃ nimbapallavāḥ||17|3||",
-              "segment_number": 354
+              "segment_number": 354,
+              "translated_text": "just as neem leaves do not please an elephant that delights in <s>sallakī</s> (Boswellia) shoots. (17.3)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.4"
+            "id": "verse_17.4",
+            "label": "verse 17.4"
           },
           "children": [
             {
               "tag": "l",
               "text": "yastu bhogeṣu bhukteṣu na bhavatyadhivāsitaḥ|",
-              "segment_number": 355
+              "segment_number": 355,
+              "translated_text": "One who, when pleasures have been enjoyed, does not become habituated to them,"
             },
             {
               "tag": "l",
               "text": "abhukteṣu nirākāṅkṣī tādṛśo bhavadurlabhaḥ||17|4||",
-              "segment_number": 356
+              "segment_number": 356,
+              "translated_text": "and when they remain unexperienced, has no longing — such a one is rare in the world. (17.4)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.5"
+            "id": "verse_17.5",
+            "label": "verse 17.5"
           },
           "children": [
             {
               "tag": "l",
               "text": "bubhukṣuriha saṃsāre mumukṣurapi dṛśyate|",
-              "segment_number": 357
+              "segment_number": 357,
+              "translated_text": "In this <s>saṃsāra</s> (worldly existence), those desiring enjoyment and those desiring liberation are both seen,"
             },
             {
               "tag": "l",
               "text": "bhogamokṣanirākāṅkṣī viralo hi mahāśayaḥ||17|5||",
-              "segment_number": 358
+              "segment_number": 358,
+              "translated_text": "but one who desires neither enjoyment nor liberation — that great soul is rare indeed. (17.5)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.6"
+            "id": "verse_17.6",
+            "label": "verse 17.6"
           },
           "children": [
             {
               "tag": "l",
               "text": "dharmārthakāmamokṣeṣu jīvite maraṇe tathā|",
-              "segment_number": 359
+              "segment_number": 359,
+              "translated_text": "With regard to <s>dharma</s> (duty), <s>artha</s> (wealth), <s>kāma</s> (pleasure), <s>mokṣa</s> (liberation), life, and death alike,"
             },
             {
               "tag": "l",
               "text": "kasyāpyudāracittasya heyopādeyatā na hi||17|6||",
-              "segment_number": 360
+              "segment_number": 360,
+              "translated_text": "for one of noble mind, there is truly no notion of what is to be rejected or accepted. (17.6)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.7"
+            "id": "verse_17.7",
+            "label": "verse 17.7"
           },
           "children": [
             {
               "tag": "l",
               "text": "vāñchā na viśvavilaye na dveṣastasya ca sthitau|",
-              "segment_number": 361
+              "segment_number": 361,
+              "translated_text": "He has no desire for the dissolution of the universe, nor aversion to its continuance."
             },
             {
               "tag": "l",
               "text": "yathājīvikayā tasmāddhanya āste yathāsukham||17|7||",
-              "segment_number": 362
+              "segment_number": 362,
+              "translated_text": "Therefore that blessed one lives happily, content with whatever livelihood comes. (17.7)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.8"
+            "id": "verse_17.8",
+            "label": "verse 17.8"
           },
           "children": [
             {
               "tag": "l",
               "text": "kṛtārtho+anena jñānenetyevaṃ galitadhīḥ kṛtī|",
-              "segment_number": 363
+              "segment_number": 363,
+              "translated_text": "Fulfilled through this knowledge, with intellect dissolved and purpose accomplished,"
             },
             {
               "tag": "l",
               "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||17|8||",
-              "segment_number": 364
+              "segment_number": 364,
+              "translated_text": "he lives at ease — seeing, hearing, touching, smelling, and eating. (17.8)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.9"
+            "id": "verse_17.9",
+            "label": "verse 17.9"
           },
           "children": [
             {
               "tag": "l",
               "text": "śūnyā dṛṣṭirvṛthā ceṣṭā vikalānīndriyāṇi ca|",
-              "segment_number": 365
+              "segment_number": 365,
+              "translated_text": "His gaze is vacant, his actions purposeless, his senses incapacitated,"
             },
             {
               "tag": "l",
               "text": "na spṛhā na viraktirvā kṣīṇasaṃsārasāgare||17|9||",
-              "segment_number": 366
+              "segment_number": 366,
+              "translated_text": "he has neither craving nor dispassion — the ocean of <s>saṃsāra</s> (worldly existence) is dried up. (17.9)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.10"
+            "id": "verse_17.10",
+            "label": "verse 17.10"
           },
           "children": [
             {
               "tag": "l",
               "text": "na jāgarti na nidrāti nonmīlati na mīlati|",
-              "segment_number": 367
+              "segment_number": 367,
+              "translated_text": "He neither wakes nor sleeps, neither opens nor closes the eyes."
             },
             {
               "tag": "l",
               "text": "aho paradaśā kā+api vartate muktacetasaḥ||17|10||",
-              "segment_number": 368
+              "segment_number": 368,
+              "translated_text": "Ah, what a wondrous state exists for one whose mind is liberated! (17.10)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.11"
+            "id": "verse_17.11",
+            "label": "verse 17.11"
           },
           "children": [
             {
               "tag": "l",
               "text": "sarvatra dṛśyate svasthaḥ sarvatra vimalāśayaḥ|",
-              "segment_number": 369
+              "segment_number": 369,
+              "translated_text": "Everywhere he appears at ease, everywhere his disposition is pure."
             },
             {
               "tag": "l",
               "text": "samastavāsanāmukto muktaḥ sarvatra rājate||17|11||",
-              "segment_number": 370
+              "segment_number": 370,
+              "translated_text": "Free from all <s>vāsanās</s> (latent impressions), the liberated one shines everywhere. (17.11)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.12"
+            "id": "verse_17.12",
+            "label": "verse 17.12"
           },
           "children": [
             {
               "tag": "l",
               "text": "paśyañchṛṇvanspṛśañjighrannaśnangṛhṇanvadanvrajan|",
-              "segment_number": 371
+              "segment_number": 371,
+              "translated_text": "Seeing, hearing, touching, smelling, eating, taking, speaking, walking,"
             },
             {
               "tag": "l",
               "text": "īhitā+anīhitairmukto mukta eva mahāśayaḥ||17|12||",
-              "segment_number": 372
+              "segment_number": 372,
+              "translated_text": "free from both striving and non-striving, the great soul is verily free. (17.12)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.13"
+            "id": "verse_17.13",
+            "label": "verse 17.13"
           },
           "children": [
             {
               "tag": "l",
               "text": "na nindati na ca stauti na hṛṣyati na kupyati|",
-              "segment_number": 373
+              "segment_number": 373,
+              "translated_text": "He neither blames nor praises, neither rejoices nor becomes angry,"
             },
             {
               "tag": "l",
               "text": "na dadāti na gṛhṇāti muktaḥ sarvatra nīrasaḥ||17|13||",
-              "segment_number": 374
+              "segment_number": 374,
+              "translated_text": "he neither gives nor takes — the liberated one is dispassionate everywhere. (17.13)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.14"
+            "id": "verse_17.14",
+            "label": "verse 17.14"
           },
           "children": [
             {
               "tag": "l",
               "text": "sānurāgāṃ striyaṃ dṛṣṭvā mṛtyuṃ vā samupasthitam|",
-              "segment_number": 375
+              "segment_number": 375,
+              "translated_text": "Seeing a woman full of affection, or seeing death approaching,"
             },
             {
               "tag": "l",
               "text": "avihvalamanāḥ svastho mukta eva mahāśayaḥ||17|14||",
-              "segment_number": 376
+              "segment_number": 376,
+              "translated_text": "with mind undisturbed and self-possessed, the great soul is verily free. (17.14)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.15"
+            "id": "verse_17.15",
+            "label": "verse 17.15"
           },
           "children": [
             {
               "tag": "l",
               "text": "sukhe duḥkhe nare nāryāṃ saṃpatsu vipatsu ca|",
-              "segment_number": 377
+              "segment_number": 377,
+              "translated_text": "In happiness and sorrow, in man and woman, in prosperity and adversity,"
             },
             {
               "tag": "l",
               "text": "viśeṣo naiva dhīrasya sarvatra samadarśinaḥ||17|15||",
-              "segment_number": 378
+              "segment_number": 378,
+              "translated_text": "there is no distinction whatsoever for the steadfast one who sees equally everywhere. (17.15)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.16"
+            "id": "verse_17.16",
+            "label": "verse 17.16"
           },
           "children": [
             {
               "tag": "l",
               "text": "na hiṃsā naiva kāruṇyaṃ nauddhatyaṃ na ca dīnatā|",
-              "segment_number": 379
+              "segment_number": 379,
+              "translated_text": "There is no violence, no compassion, no arrogance, no humility,"
             },
             {
               "tag": "l",
               "text": "nāścaryaṃ naiva ca kṣobhaḥ kṣīṇasaṃsaraṇe nare||17|16||",
-              "segment_number": 380
+              "segment_number": 380,
+              "translated_text": "no wonder, no agitation in one whose cycle of <s>saṃsāra</s> (worldly existence) has been exhausted. (17.16)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.17"
+            "id": "verse_17.17",
+            "label": "verse 17.17"
           },
           "children": [
             {
               "tag": "l",
               "text": "na mukto viṣayadveṣṭā na vā viṣayalolupaḥ|",
-              "segment_number": 381
+              "segment_number": 381,
+              "translated_text": "The liberated one neither hates sense-objects nor craves them."
             },
             {
               "tag": "l",
               "text": "asaṃsaktamanā nityaṃ prāptāprāptamupāśnute||17|17||",
-              "segment_number": 382
+              "segment_number": 382,
+              "translated_text": "With mind ever unattached, he enjoys whatever comes, whether obtained or unobtained. (17.17)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.18"
+            "id": "verse_17.18",
+            "label": "verse 17.18"
           },
           "children": [
             {
               "tag": "l",
               "text": "samādhānāsamādhānahitāhitavikalpanāḥ|",
-              "segment_number": 383
+              "segment_number": 383,
+              "translated_text": "The distinctions of concentration and distraction, benefit and harm,"
             },
             {
               "tag": "l",
               "text": "śūnyacitto na jānāti kaivalyamiva saṃsthitaḥ||17|18||",
-              "segment_number": 384
+              "segment_number": 384,
+              "translated_text": "the one whose mind is empty does not know — established as if in <s>kaivalya</s> (absolute aloneness). (17.18)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.19"
+            "id": "verse_17.19",
+            "label": "verse 17.19"
           },
           "children": [
             {
               "tag": "l",
               "text": "nirmamo nirahaṃkāro na kiñciditi niścitaḥ|",
-              "segment_number": 385
+              "segment_number": 385,
+              "translated_text": "Free from 'mine,' free from ego-sense, certain that nothing exists,"
             },
             {
               "tag": "l",
               "text": "antargalitasarvāśaḥ kurvannapi na lipyate [ karoti na ]||17|19||",
-              "segment_number": 386
+              "segment_number": 386,
+              "translated_text": "with all expectations dissolved within, he is untainted even while acting. (17.19)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_17.20"
+            "id": "verse_17.20",
+            "label": "verse 17.20"
           },
           "children": [
             {
               "tag": "l",
               "text": "manaḥprakāśasaṃmohasvapnajāḍyavivarjitaḥ|",
-              "segment_number": 387
+              "segment_number": 387,
+              "translated_text": "Free from the states of mental illumination, delusion, dream, and torpor,"
             },
             {
               "tag": "l",
               "text": "daśāṃ kāmapi saṃprāpto bhavedgalitamānasaḥ||17|20||",
-              "segment_number": 388
+              "segment_number": 388,
+              "translated_text": "one whose mind has dissolved attains a certain indescribable state. (17.20)"
             }
           ]
         }
@@ -4435,1219 +4671,1418 @@
         {
           "tag": "head",
           "text": "Prakaraṇa 18",
-          "segment_number": 389
+          "segment_number": 389,
+          "translated_text": "Chapter 18"
         },
         {
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "aṣṭāvakra uvāca||18||",
-              "segment_number": 390
+              "segment_number": 390,
+              "translated_text": "<s>Aṣṭāvakra</s> said: (18)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.1"
+            "id": "verse_18.1",
+            "label": "verse 18.1"
           },
           "children": [
             {
               "tag": "l",
               "text": "yasya bodhodaye tāvatsvapnavadbhavati bhramaḥ|",
-              "segment_number": 391
+              "segment_number": 391,
+              "translated_text": "He upon whose awakening of knowledge, delusion becomes like a dream,"
             },
             {
               "tag": "l",
               "text": "tasmai sukhaikarūpāya namaḥ śāntāya tejase||18|1||",
-              "segment_number": 392
+              "segment_number": 392,
+              "translated_text": "salutations to that radiance, peaceful and of the nature of bliss alone! (18.1)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.2"
+            "id": "verse_18.2",
+            "label": "verse 18.2"
           },
           "children": [
             {
               "tag": "l",
               "text": "arjayitvākhilānarthānbhogānāpnoti puṣkalān|",
-              "segment_number": 393
+              "segment_number": 393,
+              "translated_text": "One may acquire all worldly ends and attain abundant enjoyments,"
             },
             {
               "tag": "l",
               "text": "na hi sarvaparityāgamantareṇa sukhī bhavet||18|2||",
-              "segment_number": 394
+              "segment_number": 394,
+              "translated_text": "yet one cannot become happy without the complete renunciation of everything. (18.2)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.3"
+            "id": "verse_18.3",
+            "label": "verse 18.3"
           },
           "children": [
             {
               "tag": "l",
               "text": "kartavyaduḥkhamārtaṇḍajvālādagdhāntarātmanaḥ|",
-              "segment_number": 395
+              "segment_number": 395,
+              "translated_text": "For one whose inner self is scorched by the blazing flames of the sun of obligatory duties,"
             },
             {
               "tag": "l",
               "text": "kutaḥ praśamapīyūṣadhārāsāramṛte sukham||18|3||",
-              "segment_number": 396
+              "segment_number": 396,
+              "translated_text": "whence can there be happiness without the cooling shower of the nectar of tranquility? (18.3)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.4"
+            "id": "verse_18.4",
+            "label": "verse 18.4"
           },
           "children": [
             {
               "tag": "l",
               "text": "bhavo+ayaṃ bhāvanāmātro na kiñcitparamārthataḥ|",
-              "segment_number": 397
+              "segment_number": 397,
+              "translated_text": "This existence is mere mental projection — in ultimate reality, nothing exists."
             },
             {
               "tag": "l",
               "text": "nāstyabhāvaḥ svabhāvānāṃ bhāvābhāvavibhāvinām||18|4||",
-              "segment_number": 398
+              "segment_number": 398,
+              "translated_text": "There is no non-existence for things that have their own nature, yet which appear as both existent and non-existent. (18.4)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.5"
+            "id": "verse_18.5",
+            "label": "verse 18.5"
           },
           "children": [
             {
               "tag": "l",
               "text": "na dūraṃ na ca saṃkocāllabdhamevātmanaḥ padam|",
-              "segment_number": 399
+              "segment_number": 399,
+              "translated_text": "The state of the Self is neither far away nor attained through contraction;"
             },
             {
               "tag": "l",
               "text": "nirvikalpaṃ nirāyāsaṃ nirvikāraṃ nirañjanam||18|5||",
-              "segment_number": 400
+              "segment_number": 400,
+              "translated_text": "it is beyond mental constructs, effortless, changeless, and unstained. (18.5)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.6"
+            "id": "verse_18.6",
+            "label": "verse 18.6"
           },
           "children": [
             {
               "tag": "l",
               "text": "vyāmohamātraviratau svarūpādānamātrataḥ|",
-              "segment_number": 401
+              "segment_number": 401,
+              "translated_text": "With the mere cessation of delusion, through the mere recognition of one's own nature,"
             },
             {
               "tag": "l",
               "text": "vītaśokā virājante nirāvaraṇadṛṣṭayaḥ||18|6||",
-              "segment_number": 402
+              "segment_number": 402,
+              "translated_text": "They shine, free from grief, with unobstructed vision. (18.6)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.7"
+            "id": "verse_18.7",
+            "label": "verse 18.7"
           },
           "children": [
             {
               "tag": "l",
               "text": "samastaṃ kalpanāmātramātmā muktaḥ sanātanaḥ|",
-              "segment_number": 403
+              "segment_number": 403,
+              "translated_text": "All [this] is mere imagination; the Self is free and eternal."
             },
             {
               "tag": "l",
               "text": "iti vijñāya dhīro hi kimabhyasyati bālavat||18|7||",
-              "segment_number": 404
+              "segment_number": 404,
+              "translated_text": "Knowing this, what does the wise one practice, like a child? (18.7)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.8"
+            "id": "verse_18.8",
+            "label": "verse 18.8"
           },
           "children": [
             {
               "tag": "l",
               "text": "ātmā brahmeti niścitya bhāvābhāvau ca kalpitau|",
-              "segment_number": 405
+              "segment_number": 405,
+              "translated_text": "Having ascertained that the Self is <s>Brahman</s>, and that existence and non-existence are imagined,"
             },
             {
               "tag": "l",
               "text": "niṣkāmaḥ kiṃ vijānāti kiṃ brūte ca karoti kim||18|8||",
-              "segment_number": 406
+              "segment_number": 406,
+              "translated_text": "the desireless one — what does he know, what does he say, what does he do? (18.8)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.9"
+            "id": "verse_18.9",
+            "label": "verse 18.9"
           },
           "children": [
             {
               "tag": "l",
               "text": "ayaṃ so+ahamayaṃ nāhamiti kṣīṇā vikalpanā|",
-              "segment_number": 407
+              "segment_number": 407,
+              "translated_text": "'This I am,' 'this I am not' — such conceptualization has ceased."
             },
             {
               "tag": "l",
               "text": "sarvamātmeti niścitya tūṣṇīṃbhūtasya yoginaḥ||18|9||",
-              "segment_number": 408
+              "segment_number": 408,
+              "translated_text": "For the <s>yogin</s> who has become silent, having ascertained that all is the Self — (18.9)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.10"
+            "id": "verse_18.10",
+            "label": "verse 18.10"
           },
           "children": [
             {
               "tag": "l",
               "text": "na vikṣepo na caikāgryaṃ nātibodho na mūḍhatā|",
-              "segment_number": 409
+              "segment_number": 409,
+              "translated_text": "there is neither distraction nor one-pointedness, neither excessive awareness nor stupor,"
             },
             {
               "tag": "l",
               "text": "na sukhaṃ na ca vā duḥkhamupaśāntasya yoginaḥ||18|10||",
-              "segment_number": 410
+              "segment_number": 410,
+              "translated_text": "neither happiness nor suffering — for the <s>yogin</s> who has become serene. (18.10)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.11"
+            "id": "verse_18.11",
+            "label": "verse 18.11"
           },
           "children": [
             {
               "tag": "l",
               "text": "svārājye bhaikṣyavṛttau ca lābhālābhe jane vane|",
-              "segment_number": 411
+              "segment_number": 411,
+              "translated_text": "In sovereignty or in the life of begging, in gain or loss, among people or in the forest —"
             },
             {
               "tag": "l",
               "text": "nirvikalpasvabhāvasya na viśeṣo+asti yoginaḥ||18|11||",
-              "segment_number": 412
+              "segment_number": 412,
+              "translated_text": "for the <s>yogin</s> whose nature is free from conceptualization, there is no difference. (18.11)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.12"
+            "id": "verse_18.12",
+            "label": "verse 18.12"
           },
           "children": [
             {
               "tag": "l",
               "text": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā|",
-              "segment_number": 413
+              "segment_number": 413,
+              "translated_text": "Where is <s>dharma</s>, where desire, where wealth, where discrimination?"
             },
             {
               "tag": "l",
               "text": "idaṃ kṛtamidaṃ neti dvandvairmuktasya yoginaḥ||18|12||",
-              "segment_number": 414
+              "segment_number": 414,
+              "translated_text": "'This was done, this was not' — for the <s>yogin</s> freed from all pairs of opposites. (18.12)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.13"
+            "id": "verse_18.13",
+            "label": "verse 18.13"
           },
           "children": [
             {
               "tag": "l",
               "text": "kṛtyaṃ kimapi naivāsti na kā+api hṛdi rañjanā|",
-              "segment_number": 415
+              "segment_number": 415,
+              "translated_text": "There is no duty whatsoever to be done, nor any delight in the heart;"
             },
             {
               "tag": "l",
               "text": "yathā jīvanameveha jīvanmuktasya yoginaḥ||18|13||",
-              "segment_number": 416
+              "segment_number": 416,
+              "translated_text": "life itself simply goes on — for the <s>yogin</s> who is liberated while living (<s>jīvanmukta</s>). (18.13)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.14"
+            "id": "verse_18.14",
+            "label": "verse 18.14"
           },
           "children": [
             {
               "tag": "l",
               "text": "kva mohaḥ kva ca vā viśvaṃ kva taddhyānaṃ kva muktatā|",
-              "segment_number": 417
+              "segment_number": 417,
+              "translated_text": "Where is delusion, where the world, where meditation upon it, where liberation?"
             },
             {
               "tag": "l",
               "text": "sarvasaṃkalpasīmāyāṃ viśrāntasya mahātmanaḥ||18|14||",
-              "segment_number": 418
+              "segment_number": 418,
+              "translated_text": "For the great soul who has come to rest at the boundary of all mental projections (<s>saṃkalpa</s>). (18.14)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.15"
+            "id": "verse_18.15",
+            "label": "verse 18.15"
           },
           "children": [
             {
               "tag": "l",
               "text": "yena viśvamidaṃ dṛṣṭaṃ sa nāstīti karotu vai|",
-              "segment_number": 419
+              "segment_number": 419,
+              "translated_text": "He by whom this world was seen may declare 'it does not exist';"
             },
             {
               "tag": "l",
               "text": "nirvāsanaḥ kiṃ kurute paśyannapi na paśyati||18|15||",
-              "segment_number": 420
+              "segment_number": 420,
+              "translated_text": "but one free from desires (<s>nirvāsana</s>) — what will he do? Even seeing, he does not see. (18.15)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.16"
+            "id": "verse_18.16",
+            "label": "verse 18.16"
           },
           "children": [
             {
               "tag": "l",
               "text": "yena dṛṣṭaṃ paraṃ brahma so+ahaṃ brahmeti cintayet|",
-              "segment_number": 421
+              "segment_number": 421,
+              "translated_text": "He by whom the Supreme <s>Brahman</s> was seen might think 'I am <s>Brahman</s>';"
             },
             {
               "tag": "l",
               "text": "kiṃ cintayati niścinto dvitīyaṃ yo na paśyati||18|16||",
-              "segment_number": 422
+              "segment_number": 422,
+              "translated_text": "but what does the thought-free one think, who does not see a second? (18.16)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.17"
+            "id": "verse_18.17",
+            "label": "verse 18.17"
           },
           "children": [
             {
               "tag": "l",
               "text": "dṛṣṭo yenātmavikṣepo nirodhaṃ kurute tvasau|",
-              "segment_number": 423
+              "segment_number": 423,
+              "translated_text": "He who has seen the distraction of the self undertakes restraint;"
             },
             {
               "tag": "l",
               "text": "udārastu na vikṣiptaḥ sādhyā+abhāvātkaroti kim||18|17||",
-              "segment_number": 424
+              "segment_number": 424,
+              "translated_text": "but the noble one is not distracted — in the absence of anything to be accomplished, what does he do? (18.17)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.18"
+            "id": "verse_18.18",
+            "label": "verse 18.18"
           },
           "children": [
             {
               "tag": "l",
               "text": "dhīro lokaviparyasto vartamāno+api lokavat|",
-              "segment_number": 425
+              "segment_number": 425,
+              "translated_text": "The wise one, though contrary to the world, lives as if in accord with the world;"
             },
             {
               "tag": "l",
               "text": "na samādhiṃ na vikṣepaṃ na lepaṃ svasya paśyati||18|18||",
-              "segment_number": 426
+              "segment_number": 426,
+              "translated_text": "he sees in himself neither <s>samādhi</s> nor distraction nor attachment. (18.18)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.19"
+            "id": "verse_18.19",
+            "label": "verse 18.19"
           },
           "children": [
             {
               "tag": "l",
               "text": "bhāvābhāvavihīno yastṛpto nirvāsano budhaḥ|",
-              "segment_number": 427
+              "segment_number": 427,
+              "translated_text": "The sage who is devoid of [notions of] existence and non-existence, content, free from desires —"
             },
             {
               "tag": "l",
               "text": "naiva kiñcitkṛtaṃ tena lokadṛṣṭyā vikurvatā||18|19||",
-              "segment_number": 428
+              "segment_number": 428,
+              "translated_text": "he has truly done nothing, though to the world's eye he may appear to act. (18.19)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.20"
+            "id": "verse_18.20",
+            "label": "verse 18.20"
           },
           "children": [
             {
               "tag": "l",
               "text": "pravṛttau vā nivṛttau vā naiva dhīrasya durgrahaḥ|",
-              "segment_number": 429
+              "segment_number": 429,
+              "translated_text": "Whether in activity or in withdrawal, the wise one has no obstinate attachment;"
             },
             {
               "tag": "l",
               "text": "yadā yatkartumāyāti tatkṛtvā tiṣṭhataḥ sukham||18|20||",
-              "segment_number": 430
+              "segment_number": 430,
+              "translated_text": "whatever comes to be done at any time — having done it, he abides in happiness. (18.20)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.21"
+            "id": "verse_18.21",
+            "label": "verse 18.21"
           },
           "children": [
             {
               "tag": "l",
               "text": "nirvāsano nirālambaḥ svacchando muktabandhanaḥ|",
-              "segment_number": 431
+              "segment_number": 431,
+              "translated_text": "Free from desires, without support, self-willed, freed from bondage,"
             },
             {
               "tag": "l",
               "text": "kṣiptaḥ saṃskāravātena ceṣṭate śuṣkaparṇavat||18|21||",
-              "segment_number": 432
+              "segment_number": 432,
+              "translated_text": "tossed by the wind of residual impressions (<s>saṃskāra</s>), he moves like a dry leaf. (18.21)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.22"
+            "id": "verse_18.22",
+            "label": "verse 18.22"
           },
           "children": [
             {
               "tag": "l",
               "text": "asaṃsārasya tu kvāpi na harṣo na viṣādatā|",
-              "segment_number": 433
+              "segment_number": 433,
+              "translated_text": "For one who is beyond <s>saṃsāra</s>, there is nowhere either joy or despondency;"
             },
             {
               "tag": "l",
               "text": "sa śītalamanā nityaṃ videha iva rājate||18|22||",
-              "segment_number": 434
+              "segment_number": 434,
+              "translated_text": "with a mind always cool, he shines as if bodiless (<s>videha</s>). (18.22)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.23"
+            "id": "verse_18.23",
+            "label": "verse 18.23"
           },
           "children": [
             {
               "tag": "l",
               "text": "kutrāpi na jihāsāsti hāśā vāpi na kutracit|",
-              "segment_number": 435
+              "segment_number": 435,
+              "translated_text": "Nowhere is there a desire to abandon, nor a wish for anything anywhere —"
             },
             {
               "tag": "l",
               "text": "ātmārāmasya dhīrasya śītalācchatarātmanaḥ||18|23||",
-              "segment_number": 436
+              "segment_number": 436,
+              "translated_text": "for the wise one who delights in the Self (<s>ātmārāma</s>), whose nature is cool, pure, and transparent. (18.23)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.24"
+            "id": "verse_18.24",
+            "label": "verse 18.24"
           },
           "children": [
             {
               "tag": "l",
               "text": "prakṛtyā śūnyacittasya kurvato+asya yadṛcchayā|",
-              "segment_number": 437
+              "segment_number": 437,
+              "translated_text": "For the one whose mind is empty by nature, who acts spontaneously,"
             },
             {
               "tag": "l",
               "text": "prākṛtasyeva dhīrasya na māno nāvamānatā||18|24||",
-              "segment_number": 438
+              "segment_number": 438,
+              "translated_text": "the wise one, natural [in conduct] — there is neither pride nor humiliation. (18.24)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.25"
+            "id": "verse_18.25",
+            "label": "verse 18.25"
           },
           "children": [
             {
               "tag": "l",
               "text": "kṛtaṃ dehena karmedaṃ na mayā śuddharūpiṇā|",
-              "segment_number": 439
+              "segment_number": 439,
+              "translated_text": "'This action was done by the body, not by me, who am of pure nature' —"
             },
             {
               "tag": "l",
               "text": "iti cintānurodhī yaḥ kurvannapi karoti na||18|25||",
-              "segment_number": 440
+              "segment_number": 440,
+              "translated_text": "whoever follows this conviction, even while acting, does not act. (18.25)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.26"
+            "id": "verse_18.26",
+            "label": "verse 18.26"
           },
           "children": [
             {
               "tag": "l",
               "text": "atadvādīva kurute na bhavedapi bāliśaḥ|",
-              "segment_number": 441
+              "segment_number": 441,
+              "translated_text": "He acts as if speaking of what is not real, yet he is not foolish;"
             },
             {
               "tag": "l",
               "text": "jīvanmuktaḥ sukhī śrīmānsaṃsarannapi śobhate||18|26||",
-              "segment_number": 442
+              "segment_number": 442,
+              "translated_text": "the <s>jīvanmukta</s> (one liberated while living) is happy, glorious, and shines even while wandering in <s>saṃsāra</s>. (18.26)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.27"
+            "id": "verse_18.27",
+            "label": "verse 18.27"
           },
           "children": [
             {
               "tag": "l",
               "text": "nānāvicārasuśrānto dhīro viśrāntimāgataḥ|",
-              "segment_number": 443
+              "segment_number": 443,
+              "translated_text": "Wearied by the many inquiries, the wise one has come to rest;"
             },
             {
               "tag": "l",
               "text": "na kalpate na jānāti na śṛṇoti na paśyati||18|27||",
-              "segment_number": 444
+              "segment_number": 444,
+              "translated_text": "he neither imagines, nor knows, nor hears, nor sees. (18.27)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.28"
+            "id": "verse_18.28",
+            "label": "verse 18.28"
           },
           "children": [
             {
               "tag": "l",
               "text": "asamādheravikṣepānna mumukṣurna cetaraḥ|",
-              "segment_number": 445
+              "segment_number": 445,
+              "translated_text": "Being neither in <s>samādhi</s> nor in distraction, he is neither a seeker of liberation nor otherwise;"
             },
             {
               "tag": "l",
               "text": "niścitya kalpitaṃ paśyanbrahmaivāste mahāśayaḥ||18|28||",
-              "segment_number": 446
+              "segment_number": 446,
+              "translated_text": "having ascertained that the perceived is imagined, he abides as <s>Brahman</s> alone — the great-souled one. (18.28)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.29"
+            "id": "verse_18.29",
+            "label": "verse 18.29"
           },
           "children": [
             {
               "tag": "l",
               "text": "yasyāntaḥ syādahaṃkāro na karoti karoti saḥ|",
-              "segment_number": 447
+              "segment_number": 447,
+              "translated_text": "He who has ego (<s>ahaṃkāra</s>) within — even not acting, he acts;"
             },
             {
               "tag": "l",
               "text": "nirahaṃkāradhīreṇa na kiñcidakṛtaṃ kṛtam||18|29||",
-              "segment_number": 448
+              "segment_number": 448,
+              "translated_text": "but by the wise one free from ego, nothing remains undone even though [outwardly] done. (18.29)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.30"
+            "id": "verse_18.30",
+            "label": "verse 18.30"
           },
           "children": [
             {
               "tag": "l",
               "text": "nodvignaṃ na ca santuṣṭamakartṛ spandavarjitam|",
-              "segment_number": 449
+              "segment_number": 449,
+              "translated_text": "Neither agitated nor content, not a doer, free from movement,"
             },
             {
               "tag": "l",
               "text": "nirāśaṃ gatasandehaṃ cittaṃ muktasya rājate||18|30||",
-              "segment_number": 450
+              "segment_number": 450,
+              "translated_text": "without expectation, free from doubt — the mind of the liberated one shines. (18.30)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.31"
+            "id": "verse_18.31",
+            "label": "verse 18.31"
           },
           "children": [
             {
               "tag": "l",
               "text": "nirdhyātuṃ ceṣṭituṃ vāpi yaccittaṃ na pravartate|",
-              "segment_number": 451
+              "segment_number": 451,
+              "translated_text": "The mind that does not engage in meditation or action —"
             },
             {
               "tag": "l",
               "text": "nirnimittamidaṃ kintu nirdhyāyati viceṣṭate||18|31||",
-              "segment_number": 452
+              "segment_number": 452,
+              "translated_text": "yet without cause it meditates and acts. (18.31)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.32"
+            "id": "verse_18.32",
+            "label": "verse 18.32"
           },
           "children": [
             {
               "tag": "l",
               "text": "tattvaṃ yathārthamākarṇya mandaḥ prāpnoti mūḍhatām|",
-              "segment_number": 453
+              "segment_number": 453,
+              "translated_text": "A dull person, hearing the truth as it is, attains bewilderment;"
             },
             {
               "tag": "l",
               "text": "athavā+a+ayāti saṃkocamamūḍhaḥ ko+api mūḍhavat||18|32||",
-              "segment_number": 454
+              "segment_number": 454,
+              "translated_text": "or else, one who is not dull attains a state of contraction, appearing like one who is dull. (18.32)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.33"
+            "id": "verse_18.33",
+            "label": "verse 18.33"
           },
           "children": [
             {
               "tag": "l",
               "text": "ekāgratā nirodho vā mūḍhairabhyasyate bhṛśam|",
-              "segment_number": 455
+              "segment_number": 455,
+              "translated_text": "One-pointedness and restraint are practiced intensely by the deluded;"
             },
             {
               "tag": "l",
               "text": "dhīrāḥ kṛtyaṃ na paśyanti suptavatsvapade sthitāḥ||18|33||",
-              "segment_number": 456
+              "segment_number": 456,
+              "translated_text": "the wise see no duty to be done, established in their own state like one asleep. (18.33)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.34"
+            "id": "verse_18.34",
+            "label": "verse 18.34"
           },
           "children": [
             {
               "tag": "l",
               "text": "aprayatnātprayatnādvā mūḍho nāpnoti nirvṛtim|",
-              "segment_number": 457
+              "segment_number": 457,
+              "translated_text": "Whether through effort or without effort, the dull one does not attain satisfaction;"
             },
             {
               "tag": "l",
               "text": "tattvaniścayamātreṇa prājño bhavati nirvṛtaḥ||18|34||",
-              "segment_number": 458
+              "segment_number": 458,
+              "translated_text": "by the mere ascertainment of truth, the wise one becomes satisfied. (18.34)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.35"
+            "id": "verse_18.35",
+            "label": "verse 18.35"
           },
           "children": [
             {
               "tag": "l",
               "text": "śuddhaṃ buddhaṃ priyaṃ pūrṇaṃ niṣprapañcaṃ nirāmayam|",
-              "segment_number": 459
+              "segment_number": 459,
+              "translated_text": "Pure, awakened, beloved, complete, beyond phenomenal proliferation, free from disease —"
             },
             {
               "tag": "l",
               "text": "ātmānaṃ taṃ na jānanti tatrābhyāsaparā janāḥ||18|35||",
-              "segment_number": 460
+              "segment_number": 460,
+              "translated_text": "people devoted to practice do not know that Self; therein [lies their error]. (18.35)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.36"
+            "id": "verse_18.36",
+            "label": "verse 18.36"
           },
           "children": [
             {
               "tag": "l",
               "text": "nāpnoti karmaṇā mokṣaṃ vimūḍho+abhyāsarūpiṇā|",
-              "segment_number": 461
+              "segment_number": 461,
+              "translated_text": "The deluded one does not attain liberation through action in the form of practice;"
             },
             {
               "tag": "l",
               "text": "dhanyo vijñānamātreṇa muktastiṣṭhatyavikriyaḥ||18|36||",
-              "segment_number": 462
+              "segment_number": 462,
+              "translated_text": "the blessed one, by mere knowledge, remains liberated and without modification. (18.36)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.37"
+            "id": "verse_18.37",
+            "label": "verse 18.37"
           },
           "children": [
             {
               "tag": "l",
               "text": "mūḍho nāpnoti tadbrahma yato bhavitumicchati|",
-              "segment_number": 463
+              "segment_number": 463,
+              "translated_text": "The dull one does not attain <s>Brahman</s> because he desires to become [it];"
             },
             {
               "tag": "l",
               "text": "anicchannapi dhīro hi parabrahmasvarūpabhāk||18|37||",
-              "segment_number": 464
+              "segment_number": 464,
+              "translated_text": "but the wise one, even without desiring, partakes of the nature of Supreme <s>Brahman</s>. (18.37)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.38"
+            "id": "verse_18.38",
+            "label": "verse 18.38"
           },
           "children": [
             {
               "tag": "l",
               "text": "nirādhārā grahavyagrā mūḍhāḥ saṃsārapoṣakāḥ|",
-              "segment_number": 465
+              "segment_number": 465,
+              "translated_text": "The deluded, without foundation, busy with grasping, nourish <s>saṃsāra</s>;"
             },
             {
               "tag": "l",
               "text": "etasyānarthamūlasya mūlacchedaḥ kṛto budhaiḥ||18|38||",
-              "segment_number": 466
+              "segment_number": 466,
+              "translated_text": "the wise have cut the very root of this root of calamity. (18.38)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.39"
+            "id": "verse_18.39",
+            "label": "verse 18.39"
           },
           "children": [
             {
               "tag": "l",
               "text": "na śāntiṃ labhate mūḍho yataḥ śamitumicchati|",
-              "segment_number": 467
+              "segment_number": 467,
+              "translated_text": "The dull one does not find peace because he desires to become peaceful;"
             },
             {
               "tag": "l",
               "text": "dhīrastattvaṃ viniścitya sarvadā śāntamānasaḥ||18|39||",
-              "segment_number": 468
+              "segment_number": 468,
+              "translated_text": "the wise one, having ascertained the truth, is always peaceful in mind. (18.39)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.40"
+            "id": "verse_18.40",
+            "label": "verse 18.40"
           },
           "children": [
             {
               "tag": "l",
               "text": "kvātmano darśanaṃ tasya yo dṛṣṭamavalambate|",
-              "segment_number": 469
+              "segment_number": 469,
+              "translated_text": "Where is the vision of the Self for one who depends on what is seen?"
             },
             {
               "tag": "l",
               "text": "dhīrāstaṃ taṃ na paśyanti paśyantyātmānamavyayam||18|40||",
-              "segment_number": 470
+              "segment_number": 470,
+              "translated_text": "The wise do not see that [external]; they see the imperishable Self. (18.40)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.41"
+            "id": "verse_18.41",
+            "label": "verse 18.41"
           },
           "children": [
             {
               "tag": "l",
               "text": "kva nirodho vimūḍhasya yo nirbandhaṃ karoti vai|",
-              "segment_number": 471
+              "segment_number": 471,
+              "translated_text": "Where is restraint for the dull one who indeed makes effort at suppression?"
             },
             {
               "tag": "l",
               "text": "svārāmasyaiva dhīrasya sarvadā+asāvakṛtrimaḥ||18|41||",
-              "segment_number": 472
+              "segment_number": 472,
+              "translated_text": "For the wise one who delights in the Self, it is always natural and effortless. (18.41)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.42"
+            "id": "verse_18.42",
+            "label": "verse 18.42"
           },
           "children": [
             {
               "tag": "l",
               "text": "bhāvasya bhāvakaḥ kaścinna kiñcidbhāvako+aparaḥ|",
-              "segment_number": 473
+              "segment_number": 473,
+              "translated_text": "Some are thinkers of existence, others think of nothing at all;"
             },
             {
               "tag": "l",
               "text": "ubhayā+abhāvakaḥ kaścidevameva nirākulaḥ||18|42||",
-              "segment_number": 474
+              "segment_number": 474,
+              "translated_text": "but one who is free from thinking of both — that one alone is undisturbed. (18.42)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.43"
+            "id": "verse_18.43",
+            "label": "verse 18.43"
           },
           "children": [
             {
               "tag": "l",
               "text": "śuddhamadvayamātmānaṃ bhāvayanti kubuddhayaḥ|",
-              "segment_number": 475
+              "segment_number": 475,
+              "translated_text": "Those of deficient understanding meditate upon the Self as pure and non-dual,"
             },
             {
               "tag": "l",
               "text": "na tu jānanti saṃmohādyāvajjīvamanirvṛtāḥ||18|43||",
-              "segment_number": 476
+              "segment_number": 476,
+              "translated_text": "but they do not know [it] due to delusion; they remain unsatisfied for their entire lives. (18.43)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.44"
+            "id": "verse_18.44",
+            "label": "verse 18.44"
           },
           "children": [
             {
               "tag": "l",
               "text": "mumukṣorbuddhirālambamantareṇa na vidyate|",
-              "segment_number": 477
+              "segment_number": 477,
+              "translated_text": "The intellect of the seeker of liberation does not exist without a support;"
             },
             {
               "tag": "l",
               "text": "nirālambaiva niṣkāmā buddhirmuktasya sarvadā||18|44||",
-              "segment_number": 478
+              "segment_number": 478,
+              "translated_text": "but the intellect of the liberated one is always without support and without desire. (18.44)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.45"
+            "id": "verse_18.45",
+            "label": "verse 18.45"
           },
           "children": [
             {
               "tag": "l",
               "text": "viṣayadvīpino vīkṣya cakitāḥ śaraṇārthinaḥ|",
-              "segment_number": 479
+              "segment_number": 479,
+              "translated_text": "Seeing the tigers of sense-objects, the frightened ones seeking refuge"
             },
             {
               "tag": "l",
               "text": "viśanti jhaṭiti kroḍaṃ nirodhaikāgryasiddhaye||18|45||",
-              "segment_number": 480
+              "segment_number": 480,
+              "translated_text": "quickly enter the cave [of restraint] for the attainment of suppression and one-pointedness. (18.45)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.46"
+            "id": "verse_18.46",
+            "label": "verse 18.46"
           },
           "children": [
             {
               "tag": "l",
               "text": "nirvāsanaṃ hariṃ dṛṣṭvā tūṣṇīṃ viṣayadantinaḥ|",
-              "segment_number": 481
+              "segment_number": 481,
+              "translated_text": "Seeing the lion free from desires (<s>Hari</s>), the elephants of sense-objects"
             },
             {
               "tag": "l",
               "text": "palāyante na śaktāste sevante kṛtacāṭavaḥ||18|46||",
-              "segment_number": 482
+              "segment_number": 482,
+              "translated_text": "flee silently — unable [to approach], they serve him with flattery. (18.46)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.47"
+            "id": "verse_18.47",
+            "label": "verse 18.47"
           },
           "children": [
             {
               "tag": "l",
               "text": "na muktikārikāṃ dhatte niḥśaṅko yuktamānasaḥ|",
-              "segment_number": 483
+              "segment_number": 483,
+              "translated_text": "The one who is free from doubt, with a composed mind, does not maintain the practice of liberation;"
             },
             {
               "tag": "l",
               "text": "paśyañchṛṇvanspṛśañjighrannaśnannāste yathāsukham||18|47||",
-              "segment_number": 484
+              "segment_number": 484,
+              "translated_text": "seeing, hearing, touching, smelling, and eating — he abides in comfort. (18.47)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.48"
+            "id": "verse_18.48",
+            "label": "verse 18.48"
           },
           "children": [
             {
               "tag": "l",
               "text": "vastuśravaṇamātreṇa śuddhabuddhirnirākulaḥ|",
-              "segment_number": 485
+              "segment_number": 485,
+              "translated_text": "By merely hearing the truth, [one of] pure intellect becomes undisturbed;"
             },
             {
               "tag": "l",
               "text": "naivācāramanācāramaudāsyaṃ vā prapaśyati||18|48||",
-              "segment_number": 486
+              "segment_number": 486,
+              "translated_text": "he sees neither right conduct, nor misconduct, nor indifference. (18.48)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.49"
+            "id": "verse_18.49",
+            "label": "verse 18.49"
           },
           "children": [
             {
               "tag": "l",
               "text": "yadā yatkartumāyāti tadā tatkurute hyṛju|",
-              "segment_number": 487
+              "segment_number": 487,
+              "translated_text": "Whatever comes to be done at any time, that he does straightforwardly —"
             },
             {
               "tag": "l",
               "text": "śubhaṃ vāpyaśubhaṃ vāpi tasya ceṣṭā hi bālavat||18|49||",
-              "segment_number": 488
+              "segment_number": 488,
+              "translated_text": "whether auspicious or inauspicious — his behavior is like that of a child. (18.49)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.50"
+            "id": "verse_18.50",
+            "label": "verse 18.50"
           },
           "children": [
             {
               "tag": "l",
               "text": "svātantryātsukhamāpnoti svātantryāllabhate param|",
-              "segment_number": 489
+              "segment_number": 489,
+              "translated_text": "Through freedom he attains happiness; through freedom he attains the Supreme;"
             },
             {
               "tag": "l",
               "text": "svātantryānnirvṛtiṃ gacchetsvātantryātparamaṃ padam||18|50||",
-              "segment_number": 490
+              "segment_number": 490,
+              "translated_text": "through freedom he goes to bliss; through freedom [he attains] the highest state. (18.50)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.51"
+            "id": "verse_18.51",
+            "label": "verse 18.51"
           },
           "children": [
             {
               "tag": "l",
               "text": "akartṛtvamabhoktṛtvaṃ svātmano manyate yadā|",
-              "segment_number": 491
+              "segment_number": 491,
+              "translated_text": "When one considers the Self as neither doer nor enjoyer,"
             },
             {
               "tag": "l",
               "text": "tadā kṣīṇā bhavantyeva samastāścittavṛttayaḥ||18|51||",
-              "segment_number": 492
+              "segment_number": 492,
+              "translated_text": "then indeed all the modifications of the mind (<s>cittavṛtti</s>) come to an end. (18.51)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.52"
+            "id": "verse_18.52",
+            "label": "verse 18.52"
           },
           "children": [
             {
               "tag": "l",
               "text": "ucchṛṅkhalāpyākṛtikā sthitirdhīrasya rājate|",
-              "segment_number": 493
+              "segment_number": 493,
+              "translated_text": "The state of the wise one shines, even if unruly in outward form;"
             },
             {
               "tag": "l",
               "text": "na tu saṃspṛhacittasya śāntirmūḍhasya kṛtrimā||18|52||",
-              "segment_number": 494
+              "segment_number": 494,
+              "translated_text": "but the artificial peace of the dull-minded one with a craving mind does not [shine]. (18.52)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.53"
+            "id": "verse_18.53",
+            "label": "verse 18.53"
           },
           "children": [
             {
               "tag": "l",
               "text": "vilasanti mahābhogairviśanti girigahvarān|",
-              "segment_number": 495
+              "segment_number": 495,
+              "translated_text": "Enjoying great pleasures, or entering mountain caves —"
             },
             {
               "tag": "l",
               "text": "nirastakalpanā dhīrā abaddhā muktabuddhayaḥ||18|53||",
-              "segment_number": 496
+              "segment_number": 496,
+              "translated_text": "the wise, free from conceptualization, unbound, with liberated minds. (18.53)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.54"
+            "id": "verse_18.54",
+            "label": "verse 18.54"
           },
           "children": [
             {
               "tag": "l",
               "text": "śrotriyaṃ devatāṃ tīrthamaṅganāṃ bhūpatiṃ priyam|",
-              "segment_number": 497
+              "segment_number": 497,
+              "translated_text": "Seeing a learned <s>brāhmaṇa</s>, a deity, a sacred place, a woman, a king, or a beloved one —"
             },
             {
               "tag": "l",
               "text": "dṛṣṭvā saṃpūjya dhīrasya na kāpi hṛdi vāsanā||18|54||",
-              "segment_number": 498
+              "segment_number": 498,
+              "translated_text": "in the heart of the wise one, there is no desire whatsoever. (18.54)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.55"
+            "id": "verse_18.55",
+            "label": "verse 18.55"
           },
           "children": [
             {
               "tag": "l",
               "text": "bhṛtyaiḥ putraiḥ kalatraiśca dauhitraiścāpi gotrajaiḥ|",
-              "segment_number": 499
+              "segment_number": 499,
+              "translated_text": "Though mocked by servants, sons, wives, grandchildren, and kinsmen —"
             },
             {
               "tag": "l",
               "text": "vihasya dhikkṛto yogī na yāti vikṛtiṃ manāk||18|55||",
-              "segment_number": 500
+              "segment_number": 500,
+              "translated_text": "the <s>yogin</s>, laughing, is not disturbed in the slightest. (18.55)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.56"
+            "id": "verse_18.56",
+            "label": "verse 18.56"
           },
           "children": [
             {
               "tag": "l",
               "text": "santuṣṭo+api na santuṣṭaḥ khinno+api na ca khidyate|",
-              "segment_number": 501
+              "segment_number": 501,
+              "translated_text": "Though content, he is not [attached to being] content; though pained, he is not [truly] pained;"
             },
             {
               "tag": "l",
               "text": "tasyāścaryadaśāṃ tāṃ tāṃ tādṛśā eva jānate||18|56||",
-              "segment_number": 502
+              "segment_number": 502,
+              "translated_text": "those wondrous states — only those of like nature can know them. (18.56)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.57"
+            "id": "verse_18.57",
+            "label": "verse 18.57"
           },
           "children": [
             {
               "tag": "l",
               "text": "kartavyataiva saṃsāro na tāṃ paśyanti sūrayaḥ|",
-              "segment_number": 503
+              "segment_number": 503,
+              "translated_text": "The sense of duty-to-be-done is <s>saṃsāra</s>; the seers do not see it;"
             },
             {
               "tag": "l",
               "text": "śūnyākārā nirākārā nirvikārā nirāmayāḥ||18|57||",
-              "segment_number": 504
+              "segment_number": 504,
+              "translated_text": "they are void in form, formless, changeless, free from disease. (18.57)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.58"
+            "id": "verse_18.58",
+            "label": "verse 18.58"
           },
           "children": [
             {
               "tag": "l",
               "text": "akurvannapi saṃkṣobhādvyagraḥ sarvatra mūḍhadhīḥ|",
-              "segment_number": 505
+              "segment_number": 505,
+              "translated_text": "The dull-witted one, even while doing nothing, is agitated everywhere due to mental turbulence;"
             },
             {
               "tag": "l",
               "text": "kurvannapi tu kṛtyāni kuśalo hi nirākulaḥ||18|58||",
-              "segment_number": 506
+              "segment_number": 506,
+              "translated_text": "but the skilful one, even while performing duties, is truly undisturbed. (18.58)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.59"
+            "id": "verse_18.59",
+            "label": "verse 18.59"
           },
           "children": [
             {
               "tag": "l",
               "text": "sukhamāste sukhaṃ śete sukhamāyāti yāti ca|",
-              "segment_number": 507
+              "segment_number": 507,
+              "translated_text": "He sits happily, sleeps happily, comes and goes happily,"
             },
             {
               "tag": "l",
               "text": "sukhaṃ vakti sukhaṃ bhuṅkte vyavahāre+api śāntadhīḥ||18|59||",
-              "segment_number": 508
+              "segment_number": 508,
+              "translated_text": "speaks happily, eats happily — the one whose mind is peaceful, even in worldly dealings. (18.59)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.60"
+            "id": "verse_18.60",
+            "label": "verse 18.60"
           },
           "children": [
             {
               "tag": "l",
               "text": "svabhāvādyasya naivārtirlokavadvyavahāriṇaḥ|",
-              "segment_number": 509
+              "segment_number": 509,
+              "translated_text": "He who, by nature, has no pain, even while engaging with the world like [others] —"
             },
             {
               "tag": "l",
               "text": "mahāhrada ivākṣobhyo gatakleśaḥ sa śobhate||18|60||",
-              "segment_number": 510
+              "segment_number": 510,
+              "translated_text": "like a great lake, unshakable, free from afflictions — he shines. (18.60)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.61"
+            "id": "verse_18.61",
+            "label": "verse 18.61"
           },
           "children": [
             {
               "tag": "l",
               "text": "nivṛtterapi mūḍhasya pravṛttirupajāyate|",
-              "segment_number": 511
+              "segment_number": 511,
+              "translated_text": "Even from withdrawal, activity arises for the deluded;"
             },
             {
               "tag": "l",
               "text": "pravṛttirapi dhīrasya nivṛttiphaladāyinī||18|61||",
-              "segment_number": 512
+              "segment_number": 512,
+              "translated_text": "but even the activity of the wise one yields the fruit of withdrawal. (18.61)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.62"
+            "id": "verse_18.62",
+            "label": "verse 18.62"
           },
           "children": [
             {
               "tag": "l",
               "text": "parigraheṣu vairāgyaṃ prāyo mūḍhasya dṛśyate|",
-              "segment_number": 513
+              "segment_number": 513,
+              "translated_text": "Dispassion toward possessions is generally seen in the dull;"
             },
             {
               "tag": "l",
               "text": "dehe vigalitāśasya kva rāgaḥ kva virāgatā||18|62||",
-              "segment_number": 514
+              "segment_number": 514,
+              "translated_text": "for one from whom hope regarding the body has fallen away — where is attachment, where dispassion? (18.62)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.63"
+            "id": "verse_18.63",
+            "label": "verse 18.63"
           },
           "children": [
             {
               "tag": "l",
               "text": "bhāvanā+abhāvanāsaktā dṛṣṭirmūḍhasya sarvadā|",
-              "segment_number": 515
+              "segment_number": 515,
+              "translated_text": "The vision of the deluded is always attached to meditation or non-meditation;"
             },
             {
               "tag": "l",
               "text": "bhāvyabhāvanayā sā tu svasthasyādṛṣṭirūpiṇī||18|63||",
-              "segment_number": 516
+              "segment_number": 516,
+              "translated_text": "but for the one who is self-established, that [vision] is of the nature of non-seeing, through the very thing to be meditated upon. (18.63)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.64"
+            "id": "verse_18.64",
+            "label": "verse 18.64"
           },
           "children": [
             {
               "tag": "l",
               "text": "sarvārambheṣu niṣkāmo yaścaredbālavanmuniḥ|",
-              "segment_number": 517
+              "segment_number": 517,
+              "translated_text": "The sage who moves desirelessly in all undertakings, like a child —"
             },
             {
               "tag": "l",
               "text": "na lepastasya śuddhasya kriyamāṇe+api karmaṇi||18|64||",
-              "segment_number": 518
+              "segment_number": 518,
+              "translated_text": "no stain attaches to that pure one, even while <s>karma</s> is being performed. (18.64)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.65"
+            "id": "verse_18.65",
+            "label": "verse 18.65"
           },
           "children": [
             {
               "tag": "l",
               "text": "sa eva dhanya ātmajñaḥ sarvabhāveṣu yaḥ samaḥ|",
-              "segment_number": 519
+              "segment_number": 519,
+              "translated_text": "Blessed indeed is that knower of the Self who is equal in all states —"
             },
             {
               "tag": "l",
               "text": "paśyañchṛṇvanspṛśañjighrannaśnannistarṣamānasaḥ||18|65||",
-              "segment_number": 520
+              "segment_number": 520,
+              "translated_text": "seeing, hearing, touching, smelling, eating — with a mind free from craving. (18.65)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.66"
+            "id": "verse_18.66",
+            "label": "verse 18.66"
           },
           "children": [
             {
               "tag": "l",
               "text": "kva saṃsāraḥ kva cābhāsaḥ kva sādhyaṃ kva ca sādhanam|",
-              "segment_number": 521
+              "segment_number": 521,
+              "translated_text": "Where is <s>saṃsāra</s>, where appearance, where the goal, where the means?"
             },
             {
               "tag": "l",
               "text": "ākāśasyeva dhīrasya nirvikalpasya sarvadā||18|66||",
-              "segment_number": 522
+              "segment_number": 522,
+              "translated_text": "For the wise one, always free from conceptualization, like the sky itself. (18.66)"
             }
           ]
         },
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.67"
+            "id": "verse_18.67",
+            "label": "verse 18.67"
           },
           "children": [
             {
               "tag": "l",
               "text": "sa jayatyarthasaṃnyāsī pūrṇasvarasavigrahaḥ|",
-              "segment_number": 523
+              "segment_number": 523,
+              "translated_text": "He triumphs — the renouncer of [the pursuit of] objects, whose embodiment is of full, natural resonance;"
             },
             {
               "tag": "l",
@@ -5660,7 +6095,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.68"
+            "id": "verse_18.68",
+            "label": "verse 18.68"
           },
           "children": [
             {
@@ -5680,7 +6116,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.69"
+            "id": "verse_18.69",
+            "label": "verse 18.69"
           },
           "children": [
             {
@@ -5700,7 +6137,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.70"
+            "id": "verse_18.70",
+            "label": "verse 18.70"
           },
           "children": [
             {
@@ -5720,7 +6158,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.71"
+            "id": "verse_18.71",
+            "label": "verse 18.71"
           },
           "children": [
             {
@@ -5740,7 +6179,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.72"
+            "id": "verse_18.72",
+            "label": "verse 18.72"
           },
           "children": [
             {
@@ -5760,7 +6200,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.73"
+            "id": "verse_18.73",
+            "label": "verse 18.73"
           },
           "children": [
             {
@@ -5780,7 +6221,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.74"
+            "id": "verse_18.74",
+            "label": "verse 18.74"
           },
           "children": [
             {
@@ -5800,7 +6242,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.75"
+            "id": "verse_18.75",
+            "label": "verse 18.75"
           },
           "children": [
             {
@@ -5820,7 +6263,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.76"
+            "id": "verse_18.76",
+            "label": "verse 18.76"
           },
           "children": [
             {
@@ -5840,7 +6284,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.77"
+            "id": "verse_18.77",
+            "label": "verse 18.77"
           },
           "children": [
             {
@@ -5860,7 +6305,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.78"
+            "id": "verse_18.78",
+            "label": "verse 18.78"
           },
           "children": [
             {
@@ -5880,7 +6326,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.79"
+            "id": "verse_18.79",
+            "label": "verse 18.79"
           },
           "children": [
             {
@@ -5900,7 +6347,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.80"
+            "id": "verse_18.80",
+            "label": "verse 18.80"
           },
           "children": [
             {
@@ -5920,7 +6368,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.81"
+            "id": "verse_18.81",
+            "label": "verse 18.81"
           },
           "children": [
             {
@@ -5940,7 +6389,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.82"
+            "id": "verse_18.82",
+            "label": "verse 18.82"
           },
           "children": [
             {
@@ -5960,7 +6410,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.83"
+            "id": "verse_18.83",
+            "label": "verse 18.83"
           },
           "children": [
             {
@@ -5980,7 +6431,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.84"
+            "id": "verse_18.84",
+            "label": "verse 18.84"
           },
           "children": [
             {
@@ -6000,7 +6452,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.85"
+            "id": "verse_18.85",
+            "label": "verse 18.85"
           },
           "children": [
             {
@@ -6020,7 +6473,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.86"
+            "id": "verse_18.86",
+            "label": "verse 18.86"
           },
           "children": [
             {
@@ -6040,7 +6494,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.87"
+            "id": "verse_18.87",
+            "label": "verse 18.87"
           },
           "children": [
             {
@@ -6060,7 +6515,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.88"
+            "id": "verse_18.88",
+            "label": "verse 18.88"
           },
           "children": [
             {
@@ -6080,7 +6536,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.89"
+            "id": "verse_18.89",
+            "label": "verse 18.89"
           },
           "children": [
             {
@@ -6100,7 +6557,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.90"
+            "id": "verse_18.90",
+            "label": "verse 18.90"
           },
           "children": [
             {
@@ -6120,7 +6578,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.91"
+            "id": "verse_18.91",
+            "label": "verse 18.91"
           },
           "children": [
             {
@@ -6140,7 +6599,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.92"
+            "id": "verse_18.92",
+            "label": "verse 18.92"
           },
           "children": [
             {
@@ -6160,7 +6620,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.93"
+            "id": "verse_18.93",
+            "label": "verse 18.93"
           },
           "children": [
             {
@@ -6180,7 +6641,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.94"
+            "id": "verse_18.94",
+            "label": "verse 18.94"
           },
           "children": [
             {
@@ -6200,7 +6662,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.96"
+            "id": "verse_18.96",
+            "label": "verse 18.96"
           },
           "children": [
             {
@@ -6232,7 +6695,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.97"
+            "id": "verse_18.97",
+            "label": "verse 18.97"
           },
           "children": [
             {
@@ -6252,7 +6716,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.98"
+            "id": "verse_18.98",
+            "label": "verse 18.98"
           },
           "children": [
             {
@@ -6272,7 +6737,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.99"
+            "id": "verse_18.99",
+            "label": "verse 18.99"
           },
           "children": [
             {
@@ -6292,7 +6758,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_18.100"
+            "id": "verse_18.100",
+            "label": "verse 18.100"
           },
           "children": [
             {
@@ -6327,10 +6794,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||19||",
               "segment_number": 592,
               "translated_text": "<s>Janaka</s> said: (19)"
@@ -6340,7 +6804,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.1"
+            "id": "verse_19.1",
+            "label": "verse 19.1"
           },
           "children": [
             {
@@ -6360,7 +6825,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.2"
+            "id": "verse_19.2",
+            "label": "verse 19.2"
           },
           "children": [
             {
@@ -6380,7 +6846,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.3"
+            "id": "verse_19.3",
+            "label": "verse 19.3"
           },
           "children": [
             {
@@ -6400,7 +6867,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.4"
+            "id": "verse_19.4",
+            "label": "verse 19.4"
           },
           "children": [
             {
@@ -6420,7 +6888,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.5"
+            "id": "verse_19.5",
+            "label": "verse 19.5"
           },
           "children": [
             {
@@ -6440,7 +6909,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.6"
+            "id": "verse_19.6",
+            "label": "verse 19.6"
           },
           "children": [
             {
@@ -6460,7 +6930,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.7"
+            "id": "verse_19.7",
+            "label": "verse 19.7"
           },
           "children": [
             {
@@ -6480,7 +6951,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_19.8"
+            "id": "verse_19.8",
+            "label": "verse 19.8"
           },
           "children": [
             {
@@ -6515,10 +6987,7 @@
           "tag": "p",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "janaka uvāca||20||",
               "segment_number": 610,
               "translated_text": "<s>Janaka</s> said: (20)"
@@ -6528,7 +6997,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.1"
+            "id": "verse_20.1",
+            "label": "verse 20.1"
           },
           "children": [
             {
@@ -6548,7 +7018,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.2"
+            "id": "verse_20.2",
+            "label": "verse 20.2"
           },
           "children": [
             {
@@ -6568,7 +7039,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.3"
+            "id": "verse_20.3",
+            "label": "verse 20.3"
           },
           "children": [
             {
@@ -6588,7 +7060,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.4"
+            "id": "verse_20.4",
+            "label": "verse 20.4"
           },
           "children": [
             {
@@ -6608,7 +7081,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.5"
+            "id": "verse_20.5",
+            "label": "verse 20.5"
           },
           "children": [
             {
@@ -6628,7 +7102,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.6"
+            "id": "verse_20.6",
+            "label": "verse 20.6"
           },
           "children": [
             {
@@ -6648,7 +7123,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.7"
+            "id": "verse_20.7",
+            "label": "verse 20.7"
           },
           "children": [
             {
@@ -6668,7 +7144,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.8"
+            "id": "verse_20.8",
+            "label": "verse 20.8"
           },
           "children": [
             {
@@ -6688,7 +7165,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.9"
+            "id": "verse_20.9",
+            "label": "verse 20.9"
           },
           "children": [
             {
@@ -6708,7 +7186,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.10"
+            "id": "verse_20.10",
+            "label": "verse 20.10"
           },
           "children": [
             {
@@ -6728,7 +7207,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.11"
+            "id": "verse_20.11",
+            "label": "verse 20.11"
           },
           "children": [
             {
@@ -6748,7 +7228,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.12"
+            "id": "verse_20.12",
+            "label": "verse 20.12"
           },
           "children": [
             {
@@ -6768,7 +7249,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.13"
+            "id": "verse_20.13",
+            "label": "verse 20.13"
           },
           "children": [
             {
@@ -6788,7 +7270,8 @@
         {
           "tag": "lg",
           "attributes": {
-            "id": "verse_20.14"
+            "id": "verse_20.14",
+            "label": "verse 20.14"
           },
           "children": [
             {
@@ -6809,10 +7292,7 @@
           "tag": "trailer",
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "||iti śrīmadaṣṭāvakragītā||",
               "segment_number": 639,
               "translated_text": "Thus [ends] the glorious <s>Aṣṭāvakragītā</s>."

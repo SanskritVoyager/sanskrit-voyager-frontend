@@ -35,23 +35,14 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Vaidya 93"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Vaidya_93",
+        "label": "Vaidya 93"
+      }
     },
     {
-      "tag": "l",
-      "attributes": {
-        "rend": "bold"
-      },
+      "tag": "quote",
       "text": "Svalpākṣarā prajñāpāramitā |",
       "segment_number": 1,
       "translated_text": "<s>Svalpākṣarā Prajñāpāramitā</s> (The Perfection of Wisdom in Few Syllables)"
@@ -104,10 +95,7 @@
       "text": "atha khalu bhagavāṃstasyāṃ velāyāṃ prajñāpāramitāṃ bhāṣate sma | tadyathā - bodhisattvena mahāsattvena samacittena bhavitavyam | sarvasattveṣu maitracittena bhavitavyam | kṛtajñena bhavitavyam | kṛtavedinā ca bhavitavyam | sarvapāpaviratacittena bhavitavyam | idaṃ ca prajñāpāramitāhṛdayamāgrahītavyam - namo ratnatrayāya | namaḥ śākyamunaye tathāgatāya arhate samyaksaṃbuddhāya | tadyathā - oṃ mune mune mahāmunaye svāhā || asyāḥ prajñāpāramitāyā lābhāt mayā anuttarā samyaksaṃbodhiranuprāptā | sarvabuddhāśca ato niryātāḥ || mayā api iyameva (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Svalp, Vaidya 94",
           "segment_number": 9,
           "translated_text": "Svalp, Vaidya 94"

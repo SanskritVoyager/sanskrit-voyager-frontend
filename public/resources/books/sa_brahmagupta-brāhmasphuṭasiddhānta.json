@@ -36,23 +36,24 @@
   },
   "body": [
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[atha gaṇita-adhyāyas]",
+      "text": "atha gaṇita-adhyāyas",
       "segment_number": 1,
-      "translated_text": "[Now, the chapter on mathematics]"
+      "translated_text": "Now, the chapter on mathematics"
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[parikarma-viṃśatis]",
+      "text": "parikarma-viṃśatis",
       "segment_number": 2,
-      "translated_text": "[The twenty operations]"
+      "translated_text": "The twenty operations"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.1"
+        "id": "BSS_12.1",
+        "label": "BSS 12.1"
       },
       "children": [
         {
@@ -78,7 +79,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.2"
+        "id": "BSS_12.2",
+        "label": "BSS 12.2"
       },
       "children": [
         {
@@ -104,7 +106,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.3"
+        "id": "BSS_12.3",
+        "label": "BSS 12.3"
       },
       "children": [
         {
@@ -130,7 +133,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.4"
+        "id": "BSS_12.4",
+        "label": "BSS 12.4"
       },
       "children": [
         {
@@ -163,7 +167,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.5"
+        "id": "BSS_12.5",
+        "label": "BSS 12.5"
       },
       "children": [
         {
@@ -189,7 +194,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.6"
+        "id": "BSS_12.6",
+        "label": "BSS 12.6"
       },
       "children": [
         {
@@ -215,7 +221,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.7"
+        "id": "BSS_12.7",
+        "label": "BSS 12.7"
       },
       "children": [
         {
@@ -241,7 +248,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.8"
+        "id": "BSS_12.8",
+        "label": "BSS 12.8"
       },
       "children": [
         {
@@ -267,7 +275,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.9"
+        "id": "BSS_12.9",
+        "label": "BSS 12.9"
       },
       "children": [
         {
@@ -293,7 +302,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.10"
+        "id": "BSS_12.10",
+        "label": "BSS 12.10"
       },
       "children": [
         {
@@ -319,7 +329,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.11"
+        "id": "BSS_12.11",
+        "label": "BSS 12.11"
       },
       "children": [
         {
@@ -345,7 +356,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.12"
+        "id": "BSS_12.12",
+        "label": "BSS 12.12"
       },
       "children": [
         {
@@ -371,7 +383,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.13"
+        "id": "BSS_12.13",
+        "label": "BSS 12.13"
       },
       "children": [
         {
@@ -395,16 +408,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[miśraka-vyavahāras]",
+      "text": "miśraka-vyavahāras",
       "segment_number": 29,
-      "translated_text": "[Mixture procedure]"
+      "translated_text": "Mixture procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.14"
+        "id": "BSS_12.14",
+        "label": "BSS 12.14"
       },
       "children": [
         {
@@ -430,7 +444,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.15"
+        "id": "BSS_12.15",
+        "label": "BSS 12.15"
       },
       "children": [
         {
@@ -456,7 +471,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.16"
+        "id": "BSS_12.16",
+        "label": "BSS 12.16"
       },
       "children": [
         {
@@ -480,16 +496,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[śreḍhī-vyavahāras]",
+      "text": "śreḍhī-vyavahāras",
       "segment_number": 36,
-      "translated_text": "[Series procedure]"
+      "translated_text": "Series procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.17"
+        "id": "BSS_12.17",
+        "label": "BSS 12.17"
       },
       "children": [
         {
@@ -515,7 +532,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.18"
+        "id": "BSS_12.18",
+        "label": "BSS 12.18"
       },
       "children": [
         {
@@ -541,7 +559,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.19"
+        "id": "BSS_12.19",
+        "label": "BSS 12.19"
       },
       "children": [
         {
@@ -567,7 +586,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.20"
+        "id": "BSS_12.20",
+        "label": "BSS 12.20"
       },
       "children": [
         {
@@ -591,16 +611,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[kṣetra-vyavahāras]",
+      "text": "kṣetra-vyavahāras",
       "segment_number": 45,
-      "translated_text": "[Geometry procedure]"
+      "translated_text": "Geometry procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.21"
+        "id": "BSS_12.21",
+        "label": "BSS 12.21"
       },
       "children": [
         {
@@ -626,7 +647,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.22"
+        "id": "BSS_12.22",
+        "label": "BSS 12.22"
       },
       "children": [
         {
@@ -659,7 +681,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.23"
+        "id": "BSS_12.23",
+        "label": "BSS 12.23"
       },
       "children": [
         {
@@ -685,7 +708,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.24"
+        "id": "BSS_12.24",
+        "label": "BSS 12.24"
       },
       "children": [
         {
@@ -718,7 +742,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.25"
+        "id": "BSS_12.25",
+        "label": "BSS 12.25"
       },
       "children": [
         {
@@ -744,7 +769,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.26"
+        "id": "BSS_12.26",
+        "label": "BSS 12.26"
       },
       "children": [
         {
@@ -770,7 +796,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.27"
+        "id": "BSS_12.27",
+        "label": "BSS 12.27"
       },
       "children": [
         {
@@ -796,7 +823,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.28"
+        "id": "BSS_12.28",
+        "label": "BSS 12.28"
       },
       "children": [
         {
@@ -822,7 +850,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.29"
+        "id": "BSS_12.29",
+        "label": "BSS 12.29"
       },
       "children": [
         {
@@ -848,7 +877,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.30"
+        "id": "BSS_12.30",
+        "label": "BSS 12.30"
       },
       "children": [
         {
@@ -874,7 +904,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.31"
+        "id": "BSS_12.31",
+        "label": "BSS 12.31"
       },
       "children": [
         {
@@ -900,7 +931,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.32"
+        "id": "BSS_12.32",
+        "label": "BSS 12.32"
       },
       "children": [
         {
@@ -926,7 +958,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.33"
+        "id": "BSS_12.33",
+        "label": "BSS 12.33"
       },
       "children": [
         {
@@ -952,7 +985,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.34"
+        "id": "BSS_12.34",
+        "label": "BSS 12.34"
       },
       "children": [
         {
@@ -978,7 +1012,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.35"
+        "id": "BSS_12.35",
+        "label": "BSS 12.35"
       },
       "children": [
         {
@@ -1004,7 +1039,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.36"
+        "id": "BSS_12.36",
+        "label": "BSS 12.36"
       },
       "children": [
         {
@@ -1030,7 +1066,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.37"
+        "id": "BSS_12.37",
+        "label": "BSS 12.37"
       },
       "children": [
         {
@@ -1056,7 +1093,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.38"
+        "id": "BSS_12.38",
+        "label": "BSS 12.38"
       },
       "children": [
         {
@@ -1082,7 +1120,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.39"
+        "id": "BSS_12.39",
+        "label": "BSS 12.39"
       },
       "children": [
         {
@@ -1108,7 +1147,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.40"
+        "id": "BSS_12.40",
+        "label": "BSS 12.40"
       },
       "children": [
         {
@@ -1134,7 +1174,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.41"
+        "id": "BSS_12.41",
+        "label": "BSS 12.41"
       },
       "children": [
         {
@@ -1160,7 +1201,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.42"
+        "id": "BSS_12.42",
+        "label": "BSS 12.42"
       },
       "children": [
         {
@@ -1186,7 +1228,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.43"
+        "id": "BSS_12.43",
+        "label": "BSS 12.43"
       },
       "children": [
         {
@@ -1210,16 +1253,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[khāta-vyavahāras]",
+      "text": "khāta-vyavahāras",
       "segment_number": 92,
-      "translated_text": "[Excavation procedure]"
+      "translated_text": "Excavation procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.44"
+        "id": "BSS_12.44",
+        "label": "BSS 12.44"
       },
       "children": [
         {
@@ -1245,7 +1289,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.45"
+        "id": "BSS_12.45",
+        "label": "BSS 12.45"
       },
       "children": [
         {
@@ -1271,7 +1316,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.46"
+        "id": "BSS_12.46",
+        "label": "BSS 12.46"
       },
       "children": [
         {
@@ -1295,16 +1341,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[citi-vyavahāras]",
+      "text": "citi-vyavahāras",
       "segment_number": 99,
-      "translated_text": "[Stacking procedure]"
+      "translated_text": "Stacking procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.47"
+        "id": "BSS_12.47",
+        "label": "BSS 12.47"
       },
       "children": [
         {
@@ -1328,16 +1375,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[krākacika-vyavahāras]",
+      "text": "krākacika-vyavahāras",
       "segment_number": 102,
-      "translated_text": "[Sawing procedure]"
+      "translated_text": "Sawing procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.48"
+        "id": "BSS_12.48",
+        "label": "BSS 12.48"
       },
       "children": [
         {
@@ -1363,7 +1411,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.49"
+        "id": "BSS_12.49",
+        "label": "BSS 12.49"
       },
       "children": [
         {
@@ -1387,16 +1436,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[rāśi-vyavahāras]",
+      "text": "rāśi-vyavahāras",
       "segment_number": 107,
-      "translated_text": "[Grain-heap procedure]"
+      "translated_text": "Grain-heap procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.50"
+        "id": "BSS_12.50",
+        "label": "BSS 12.50"
       },
       "children": [
         {
@@ -1422,7 +1472,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.51"
+        "id": "BSS_12.51",
+        "label": "BSS 12.51"
       },
       "children": [
         {
@@ -1446,16 +1497,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[chāyā-vyavahāras]",
+      "text": "chāyā-vyavahāras",
       "segment_number": 112,
-      "translated_text": "[Shadow procedure]"
+      "translated_text": "Shadow procedure"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.52"
+        "id": "BSS_12.52",
+        "label": "BSS 12.52"
       },
       "children": [
         {
@@ -1481,7 +1533,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.53"
+        "id": "BSS_12.53",
+        "label": "BSS 12.53"
       },
       "children": [
         {
@@ -1507,7 +1560,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.54"
+        "id": "BSS_12.54",
+        "label": "BSS 12.54"
       },
       "children": [
         {
@@ -1531,16 +1585,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[pratyutpanna-ādayas]",
+      "text": "pratyutpanna-ādayas",
       "segment_number": 119,
-      "translated_text": "[Multiplication and other operations]"
+      "translated_text": "Multiplication and other operations"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.55"
+        "id": "BSS_12.55",
+        "label": "BSS 12.55"
       },
       "children": [
         {
@@ -1566,7 +1621,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.56"
+        "id": "BSS_12.56",
+        "label": "BSS 12.56"
       },
       "children": [
         {
@@ -1592,7 +1648,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.57"
+        "id": "BSS_12.57",
+        "label": "BSS 12.57"
       },
       "children": [
         {
@@ -1618,7 +1675,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.58"
+        "id": "BSS_12.58",
+        "label": "BSS 12.58"
       },
       "children": [
         {
@@ -1644,7 +1702,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.59"
+        "id": "BSS_12.59",
+        "label": "BSS 12.59"
       },
       "children": [
         {
@@ -1670,7 +1729,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.60"
+        "id": "BSS_12.60",
+        "label": "BSS 12.60"
       },
       "children": [
         {
@@ -1696,7 +1756,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.61"
+        "id": "BSS_12.61",
+        "label": "BSS 12.61"
       },
       "children": [
         {
@@ -1729,7 +1790,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.62"
+        "id": "BSS_12.62",
+        "label": "BSS 12.62"
       },
       "children": [
         {
@@ -1755,7 +1817,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.63"
+        "id": "BSS_12.63",
+        "label": "BSS 12.63"
       },
       "children": [
         {
@@ -1781,7 +1844,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.64"
+        "id": "BSS_12.64",
+        "label": "BSS 12.64"
       },
       "children": [
         {
@@ -1807,7 +1871,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.65"
+        "id": "BSS_12.65",
+        "label": "BSS 12.65"
       },
       "children": [
         {
@@ -1833,7 +1898,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_12.66"
+        "id": "BSS_12.66",
+        "label": "BSS 12.66"
       },
       "children": [
         {
@@ -1866,16 +1932,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[atha kuṭṭaka-adhyāyas]",
+      "text": "atha kuṭṭaka-adhyāyas",
       "segment_number": 145,
-      "translated_text": "[Now, the chapter on indeterminate equations (<s>kuṭṭaka</s>)]"
+      "translated_text": "Now, the chapter on indeterminate equations (<s>kuṭṭaka</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.1"
+        "id": "BSS_18.1",
+        "label": "BSS 18.1"
       },
       "children": [
         {
@@ -1901,7 +1968,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.2"
+        "id": "BSS_18.2",
+        "label": "BSS 18.2"
       },
       "children": [
         {
@@ -1925,16 +1993,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[kuṭṭakam]",
+      "text": "kuṭṭakam",
       "segment_number": 150,
-      "translated_text": "[The <s>kuṭṭaka</s> method]"
+      "translated_text": "The <s>kuṭṭaka</s> method"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.3"
+        "id": "BSS_18.3",
+        "label": "BSS 18.3"
       },
       "children": [
         {
@@ -1960,7 +2029,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.4"
+        "id": "BSS_18.4",
+        "label": "BSS 18.4"
       },
       "children": [
         {
@@ -1986,7 +2056,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.5"
+        "id": "BSS_18.5",
+        "label": "BSS 18.5"
       },
       "children": [
         {
@@ -2012,7 +2083,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.6"
+        "id": "BSS_18.6",
+        "label": "BSS 18.6"
       },
       "children": [
         {
@@ -2038,7 +2110,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.7"
+        "id": "BSS_18.7",
+        "label": "BSS 18.7"
       },
       "children": [
         {
@@ -2071,7 +2144,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.8"
+        "id": "BSS_18.8",
+        "label": "BSS 18.8"
       },
       "children": [
         {
@@ -2104,7 +2178,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.9"
+        "id": "BSS_18.9",
+        "label": "BSS 18.9"
       },
       "children": [
         {
@@ -2137,7 +2212,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.10"
+        "id": "BSS_18.10",
+        "label": "BSS 18.10"
       },
       "children": [
         {
@@ -2170,7 +2246,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.11"
+        "id": "BSS_18.11",
+        "label": "BSS 18.11"
       },
       "children": [
         {
@@ -2203,7 +2280,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.12"
+        "id": "BSS_18.12",
+        "label": "BSS 18.12"
       },
       "children": [
         {
@@ -2236,7 +2314,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.13"
+        "id": "BSS_18.13",
+        "label": "BSS 18.13"
       },
       "children": [
         {
@@ -2269,7 +2348,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.14"
+        "id": "BSS_18.14",
+        "label": "BSS 18.14"
       },
       "children": [
         {
@@ -2302,7 +2382,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.15"
+        "id": "BSS_18.15",
+        "label": "BSS 18.15"
       },
       "children": [
         {
@@ -2335,7 +2416,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.16"
+        "id": "BSS_18.16",
+        "label": "BSS 18.16"
       },
       "children": [
         {
@@ -2368,7 +2450,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.17"
+        "id": "BSS_18.17",
+        "label": "BSS 18.17"
       },
       "children": [
         {
@@ -2401,7 +2484,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.18"
+        "id": "BSS_18.18",
+        "label": "BSS 18.18"
       },
       "children": [
         {
@@ -2434,7 +2518,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.19"
+        "id": "BSS_18.19",
+        "label": "BSS 18.19"
       },
       "children": [
         {
@@ -2467,7 +2552,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.20"
+        "id": "BSS_18.20",
+        "label": "BSS 18.20"
       },
       "children": [
         {
@@ -2500,7 +2586,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.21"
+        "id": "BSS_18.21",
+        "label": "BSS 18.21"
       },
       "children": [
         {
@@ -2533,7 +2620,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.22"
+        "id": "BSS_18.22",
+        "label": "BSS 18.22"
       },
       "children": [
         {
@@ -2566,7 +2654,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.23"
+        "id": "BSS_18.23",
+        "label": "BSS 18.23"
       },
       "children": [
         {
@@ -2599,7 +2688,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.24"
+        "id": "BSS_18.24",
+        "label": "BSS 18.24"
       },
       "children": [
         {
@@ -2632,7 +2722,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.25"
+        "id": "BSS_18.25",
+        "label": "BSS 18.25"
       },
       "children": [
         {
@@ -2665,7 +2756,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.26"
+        "id": "BSS_18.26",
+        "label": "BSS 18.26"
       },
       "children": [
         {
@@ -2698,7 +2790,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.27"
+        "id": "BSS_18.27",
+        "label": "BSS 18.27"
       },
       "children": [
         {
@@ -2731,7 +2824,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.28"
+        "id": "BSS_18.28",
+        "label": "BSS 18.28"
       },
       "children": [
         {
@@ -2764,7 +2858,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.29"
+        "id": "BSS_18.29",
+        "label": "BSS 18.29"
       },
       "children": [
         {
@@ -2795,16 +2890,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[dhana-ṛṇa-śūnyam]",
+      "text": "dhana-ṛṇa-śūnyam",
       "segment_number": 205,
-      "translated_text": "[Positive, negative, and zero]"
+      "translated_text": "Positive, negative, and zero"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.30"
+        "id": "BSS_18.30",
+        "label": "BSS 18.30"
       },
       "children": [
         {
@@ -2837,7 +2933,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.31"
+        "id": "BSS_18.31",
+        "label": "BSS 18.31"
       },
       "children": [
         {
@@ -2870,7 +2967,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.32"
+        "id": "BSS_18.32",
+        "label": "BSS 18.32"
       },
       "children": [
         {
@@ -2903,7 +3001,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.33"
+        "id": "BSS_18.33",
+        "label": "BSS 18.33"
       },
       "children": [
         {
@@ -2936,7 +3035,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.34"
+        "id": "BSS_18.34",
+        "label": "BSS 18.34"
       },
       "children": [
         {
@@ -2969,7 +3069,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.35"
+        "id": "BSS_18.35",
+        "label": "BSS 18.35"
       },
       "children": [
         {
@@ -3000,16 +3101,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[saṅkramaṇam]",
+      "text": "saṅkramaṇam",
       "segment_number": 218,
-      "translated_text": "[<s>Saṅkramaṇa</s> (Concurrence)]"
+      "translated_text": "<s>Saṅkramaṇa</s> (Concurrence)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.36"
+        "id": "BSS_18.36",
+        "label": "BSS 18.36"
       },
       "children": [
         {
@@ -3040,16 +3142,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[karaṇī]",
+      "text": "karaṇī",
       "segment_number": 221,
-      "translated_text": "[<s>Karaṇī</s> (Surds)]"
+      "translated_text": "<s>Karaṇī</s> (Surds)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.37"
+        "id": "BSS_18.37",
+        "label": "BSS 18.37"
       },
       "children": [
         {
@@ -3082,7 +3185,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.38"
+        "id": "BSS_18.38",
+        "label": "BSS 18.38"
       },
       "children": [
         {
@@ -3115,7 +3219,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.39"
+        "id": "BSS_18.39",
+        "label": "BSS 18.39"
       },
       "children": [
         {
@@ -3148,7 +3253,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.40"
+        "id": "BSS_18.40",
+        "label": "BSS 18.40"
       },
       "children": [
         {
@@ -3181,7 +3287,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.41"
+        "id": "BSS_18.41",
+        "label": "BSS 18.41"
       },
       "children": [
         {
@@ -3214,7 +3321,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.42"
+        "id": "BSS_18.42",
+        "label": "BSS 18.42"
       },
       "children": [
         {
@@ -3245,16 +3353,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[eka-varṇa-samī-karaṇam]",
+      "text": "eka-varṇa-samī-karaṇam",
       "segment_number": 234,
-      "translated_text": "[Equation with one unknown (<s>eka-varṇa-samīkaraṇa</s>)]"
+      "translated_text": "Equation with one unknown (<s>eka-varṇa-samīkaraṇa</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.43"
+        "id": "BSS_18.43",
+        "label": "BSS 18.43"
       },
       "children": [
         {
@@ -3287,7 +3396,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.44"
+        "id": "BSS_18.44",
+        "label": "BSS 18.44"
       },
       "children": [
         {
@@ -3320,7 +3430,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.45"
+        "id": "BSS_18.45",
+        "label": "BSS 18.45"
       },
       "children": [
         {
@@ -3353,7 +3464,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.46"
+        "id": "BSS_18.46",
+        "label": "BSS 18.46"
       },
       "children": [
         {
@@ -3386,7 +3498,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.47"
+        "id": "BSS_18.47",
+        "label": "BSS 18.47"
       },
       "children": [
         {
@@ -3419,7 +3532,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.48"
+        "id": "BSS_18.48",
+        "label": "BSS 18.48"
       },
       "children": [
         {
@@ -3452,7 +3566,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.49"
+        "id": "BSS_18.49",
+        "label": "BSS 18.49"
       },
       "children": [
         {
@@ -3478,7 +3593,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.50"
+        "id": "BSS_18.50",
+        "label": "BSS 18.50"
       },
       "children": [
         {
@@ -3509,16 +3625,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[aneka-varṇa-samī-karaṇam]",
+      "text": "aneka-varṇa-samī-karaṇam",
       "segment_number": 251,
-      "translated_text": "[Equation with multiple unknowns (<s>aneka-varṇa-samīkaraṇa</s>)]"
+      "translated_text": "Equation with multiple unknowns (<s>aneka-varṇa-samīkaraṇa</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.51"
+        "id": "BSS_18.51",
+        "label": "BSS 18.51"
       },
       "children": [
         {
@@ -3551,7 +3668,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.52"
+        "id": "BSS_18.52",
+        "label": "BSS 18.52"
       },
       "children": [
         {
@@ -3584,7 +3702,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.53"
+        "id": "BSS_18.53",
+        "label": "BSS 18.53"
       },
       "children": [
         {
@@ -3617,7 +3736,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.54"
+        "id": "BSS_18.54",
+        "label": "BSS 18.54"
       },
       "children": [
         {
@@ -3650,7 +3770,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.55"
+        "id": "BSS_18.55",
+        "label": "BSS 18.55"
       },
       "children": [
         {
@@ -3683,7 +3804,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.56"
+        "id": "BSS_18.56",
+        "label": "BSS 18.56"
       },
       "children": [
         {
@@ -3716,7 +3838,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.57"
+        "id": "BSS_18.57",
+        "label": "BSS 18.57"
       },
       "children": [
         {
@@ -3749,7 +3872,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.58"
+        "id": "BSS_18.58",
+        "label": "BSS 18.58"
       },
       "children": [
         {
@@ -3782,7 +3906,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.59"
+        "id": "BSS_18.59",
+        "label": "BSS 18.59"
       },
       "children": [
         {
@@ -3813,16 +3938,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[bhāvitakam]",
+      "text": "bhāvitakam",
       "segment_number": 270,
-      "translated_text": "[<s>Bhāvitaka</s> (Product of unknowns)]"
+      "translated_text": "<s>Bhāvitaka</s> (Product of unknowns)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.60"
+        "id": "BSS_18.60",
+        "label": "BSS 18.60"
       },
       "children": [
         {
@@ -3855,7 +3981,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.61"
+        "id": "BSS_18.61",
+        "label": "BSS 18.61"
       },
       "children": [
         {
@@ -3888,7 +4015,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.62"
+        "id": "BSS_18.62",
+        "label": "BSS 18.62"
       },
       "children": [
         {
@@ -3921,7 +4049,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.63"
+        "id": "BSS_18.63",
+        "label": "BSS 18.63"
       },
       "children": [
         {
@@ -3952,16 +4081,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[varga-prakṛtis]",
+      "text": "varga-prakṛtis",
       "segment_number": 279,
-      "translated_text": "[<s>Varga-prakṛti</s> (Square-nature equation)]"
+      "translated_text": "<s>Varga-prakṛti</s> (Square-nature equation)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.64"
+        "id": "BSS_18.64",
+        "label": "BSS 18.64"
       },
       "children": [
         {
@@ -3994,7 +4124,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.65"
+        "id": "BSS_18.65",
+        "label": "BSS 18.65"
       },
       "children": [
         {
@@ -4027,7 +4158,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.66"
+        "id": "BSS_18.66",
+        "label": "BSS 18.66"
       },
       "children": [
         {
@@ -4060,7 +4192,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.67"
+        "id": "BSS_18.67",
+        "label": "BSS 18.67"
       },
       "children": [
         {
@@ -4093,7 +4226,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.68"
+        "id": "BSS_18.68",
+        "label": "BSS 18.68"
       },
       "children": [
         {
@@ -4126,7 +4260,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.69"
+        "id": "BSS_18.69",
+        "label": "BSS 18.69"
       },
       "children": [
         {
@@ -4159,7 +4294,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.70"
+        "id": "BSS_18.70",
+        "label": "BSS 18.70"
       },
       "children": [
         {
@@ -4192,7 +4328,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.71"
+        "id": "BSS_18.71",
+        "label": "BSS 18.71"
       },
       "children": [
         {
@@ -4225,7 +4362,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.72"
+        "id": "BSS_18.72",
+        "label": "BSS 18.72"
       },
       "children": [
         {
@@ -4258,7 +4396,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.73"
+        "id": "BSS_18.73",
+        "label": "BSS 18.73"
       },
       "children": [
         {
@@ -4291,7 +4430,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.74"
+        "id": "BSS_18.74",
+        "label": "BSS 18.74"
       },
       "children": [
         {
@@ -4322,16 +4462,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[udāharaṇāni]",
+      "text": "udāharaṇāni",
       "segment_number": 302,
-      "translated_text": "[Examples (<s>udāharaṇa</s>)]"
+      "translated_text": "Examples (<s>udāharaṇa</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.75"
+        "id": "BSS_18.75",
+        "label": "BSS 18.75"
       },
       "children": [
         {
@@ -4364,7 +4505,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.76"
+        "id": "BSS_18.76",
+        "label": "BSS 18.76"
       },
       "children": [
         {
@@ -4397,7 +4539,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.77"
+        "id": "BSS_18.77",
+        "label": "BSS 18.77"
       },
       "children": [
         {
@@ -4430,7 +4573,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.78"
+        "id": "BSS_18.78",
+        "label": "BSS 18.78"
       },
       "children": [
         {
@@ -4463,7 +4607,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.79"
+        "id": "BSS_18.79",
+        "label": "BSS 18.79"
       },
       "children": [
         {
@@ -4496,7 +4641,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.80"
+        "id": "BSS_18.80",
+        "label": "BSS 18.80"
       },
       "children": [
         {
@@ -4529,7 +4675,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.81"
+        "id": "BSS_18.81",
+        "label": "BSS 18.81"
       },
       "children": [
         {
@@ -4562,7 +4709,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.82"
+        "id": "BSS_18.82",
+        "label": "BSS 18.82"
       },
       "children": [
         {
@@ -4595,7 +4743,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.83"
+        "id": "BSS_18.83",
+        "label": "BSS 18.83"
       },
       "children": [
         {
@@ -4628,7 +4777,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.84"
+        "id": "BSS_18.84",
+        "label": "BSS 18.84"
       },
       "children": [
         {
@@ -4661,7 +4811,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.85"
+        "id": "BSS_18.85",
+        "label": "BSS 18.85"
       },
       "children": [
         {
@@ -4694,7 +4845,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.86"
+        "id": "BSS_18.86",
+        "label": "BSS 18.86"
       },
       "children": [
         {
@@ -4727,7 +4879,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.87"
+        "id": "BSS_18.87",
+        "label": "BSS 18.87"
       },
       "children": [
         {
@@ -4760,7 +4913,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.88"
+        "id": "BSS_18.88",
+        "label": "BSS 18.88"
       },
       "children": [
         {
@@ -4800,7 +4954,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.89"
+        "id": "BSS_18.89",
+        "label": "BSS 18.89"
       },
       "children": [
         {
@@ -4833,7 +4988,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.90"
+        "id": "BSS_18.90",
+        "label": "BSS 18.90"
       },
       "children": [
         {
@@ -4866,7 +5022,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.91"
+        "id": "BSS_18.91",
+        "label": "BSS 18.91"
       },
       "children": [
         {
@@ -4899,7 +5056,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.92"
+        "id": "BSS_18.92",
+        "label": "BSS 18.92"
       },
       "children": [
         {
@@ -4932,7 +5090,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.93"
+        "id": "BSS_18.93",
+        "label": "BSS 18.93"
       },
       "children": [
         {
@@ -4965,7 +5124,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.94"
+        "id": "BSS_18.94",
+        "label": "BSS 18.94"
       },
       "children": [
         {
@@ -4998,7 +5158,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.95"
+        "id": "BSS_18.95",
+        "label": "BSS 18.95"
       },
       "children": [
         {
@@ -5031,7 +5192,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.96"
+        "id": "BSS_18.96",
+        "label": "BSS 18.96"
       },
       "children": [
         {
@@ -5064,7 +5226,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.97"
+        "id": "BSS_18.97",
+        "label": "BSS 18.97"
       },
       "children": [
         {
@@ -5097,7 +5260,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.98"
+        "id": "BSS_18.98",
+        "label": "BSS 18.98"
       },
       "children": [
         {
@@ -5123,7 +5287,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.99"
+        "id": "BSS_18.99",
+        "label": "BSS 18.99"
       },
       "children": [
         {
@@ -5156,7 +5321,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.100"
+        "id": "BSS_18.100",
+        "label": "BSS 18.100"
       },
       "children": [
         {
@@ -5196,7 +5362,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.101"
+        "id": "BSS_18.101",
+        "label": "BSS 18.101"
       },
       "children": [
         {
@@ -5229,7 +5396,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_18.102"
+        "id": "BSS_18.102",
+        "label": "BSS 18.102"
       },
       "children": [
         {
@@ -5269,23 +5437,24 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[śaṅku-chāyā-ādi-jñānam]",
+      "text": "śaṅku-chāyā-ādi-jñānam",
       "segment_number": 360,
-      "translated_text": "[Knowledge of the gnomon-shadow and related topics]"
+      "translated_text": "Knowledge of the gnomon-shadow and related topics"
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[praśnās]",
+      "text": "praśnās",
       "segment_number": 361,
-      "translated_text": "[Problems]"
+      "translated_text": "Problems"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.1"
+        "id": "BSS_19.1",
+        "label": "BSS 19.1"
       },
       "children": [
         {
@@ -5311,7 +5480,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.2"
+        "id": "BSS_19.2",
+        "label": "BSS 19.2"
       },
       "children": [
         {
@@ -5337,7 +5507,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.3"
+        "id": "BSS_19.3",
+        "label": "BSS 19.3"
       },
       "children": [
         {
@@ -5363,7 +5534,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.4"
+        "id": "BSS_19.4",
+        "label": "BSS 19.4"
       },
       "children": [
         {
@@ -5389,7 +5561,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.5"
+        "id": "BSS_19.5",
+        "label": "BSS 19.5"
       },
       "children": [
         {
@@ -5422,7 +5595,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.6"
+        "id": "BSS_19.6",
+        "label": "BSS 19.6"
       },
       "children": [
         {
@@ -5455,7 +5629,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.7"
+        "id": "BSS_19.7",
+        "label": "BSS 19.7"
       },
       "children": [
         {
@@ -5481,7 +5656,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.8"
+        "id": "BSS_19.8",
+        "label": "BSS 19.8"
       },
       "children": [
         {
@@ -5505,16 +5681,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[uttarāṇi]",
+      "text": "uttarāṇi",
       "segment_number": 378,
-      "translated_text": "[Solutions]"
+      "translated_text": "Solutions"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.9"
+        "id": "BSS_19.9",
+        "label": "BSS 19.9"
       },
       "children": [
         {
@@ -5540,7 +5717,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.10"
+        "id": "BSS_19.10",
+        "label": "BSS 19.10"
       },
       "children": [
         {
@@ -5566,7 +5744,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.11"
+        "id": "BSS_19.11",
+        "label": "BSS 19.11"
       },
       "children": [
         {
@@ -5592,7 +5771,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.12"
+        "id": "BSS_19.12",
+        "label": "BSS 19.12"
       },
       "children": [
         {
@@ -5618,7 +5798,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.13"
+        "id": "BSS_19.13",
+        "label": "BSS 19.13"
       },
       "children": [
         {
@@ -5644,7 +5825,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.14"
+        "id": "BSS_19.14",
+        "label": "BSS 19.14"
       },
       "children": [
         {
@@ -5670,7 +5852,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.15"
+        "id": "BSS_19.15",
+        "label": "BSS 19.15"
       },
       "children": [
         {
@@ -5696,7 +5879,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.16"
+        "id": "BSS_19.16",
+        "label": "BSS 19.16"
       },
       "children": [
         {
@@ -5722,7 +5906,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.17"
+        "id": "BSS_19.17",
+        "label": "BSS 19.17"
       },
       "children": [
         {
@@ -5748,7 +5933,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.18"
+        "id": "BSS_19.18",
+        "label": "BSS 19.18"
       },
       "children": [
         {
@@ -5774,7 +5960,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.19"
+        "id": "BSS_19.19",
+        "label": "BSS 19.19"
       },
       "children": [
         {
@@ -5800,7 +5987,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_19.20"
+        "id": "BSS_19.20",
+        "label": "BSS 19.20"
       },
       "children": [
         {
@@ -5824,16 +6012,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[chandas-citi-uttaram]",
+      "text": "chandas-citi-uttaram",
       "segment_number": 403,
-      "translated_text": "[Prosody and Combinatorics]"
+      "translated_text": "Prosody and Combinatorics"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.1"
+        "id": "BSS_20.1",
+        "label": "BSS 20.1"
       },
       "children": [
         {
@@ -5859,7 +6048,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.2"
+        "id": "BSS_20.2",
+        "label": "BSS 20.2"
       },
       "children": [
         {
@@ -5885,7 +6075,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.3"
+        "id": "BSS_20.3",
+        "label": "BSS 20.3"
       },
       "children": [
         {
@@ -5911,7 +6102,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.4"
+        "id": "BSS_20.4",
+        "label": "BSS 20.4"
       },
       "children": [
         {
@@ -5937,7 +6129,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.5"
+        "id": "BSS_20.5",
+        "label": "BSS 20.5"
       },
       "children": [
         {
@@ -5963,7 +6156,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.6"
+        "id": "BSS_20.6",
+        "label": "BSS 20.6"
       },
       "children": [
         {
@@ -5989,7 +6183,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.7"
+        "id": "BSS_20.7",
+        "label": "BSS 20.7"
       },
       "children": [
         {
@@ -6015,7 +6210,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.8"
+        "id": "BSS_20.8",
+        "label": "BSS 20.8"
       },
       "children": [
         {
@@ -6041,7 +6237,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.9"
+        "id": "BSS_20.9",
+        "label": "BSS 20.9"
       },
       "children": [
         {
@@ -6067,7 +6264,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.10"
+        "id": "BSS_20.10",
+        "label": "BSS 20.10"
       },
       "children": [
         {
@@ -6093,7 +6291,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.11"
+        "id": "BSS_20.11",
+        "label": "BSS 20.11"
       },
       "children": [
         {
@@ -6119,7 +6318,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.12"
+        "id": "BSS_20.12",
+        "label": "BSS 20.12"
       },
       "children": [
         {
@@ -6145,7 +6345,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.13"
+        "id": "BSS_20.13",
+        "label": "BSS 20.13"
       },
       "children": [
         {
@@ -6171,7 +6372,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.14"
+        "id": "BSS_20.14",
+        "label": "BSS 20.14"
       },
       "children": [
         {
@@ -6197,7 +6399,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.15"
+        "id": "BSS_20.15",
+        "label": "BSS 20.15"
       },
       "children": [
         {
@@ -6223,7 +6426,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.16"
+        "id": "BSS_20.16",
+        "label": "BSS 20.16"
       },
       "children": [
         {
@@ -6249,7 +6453,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.17"
+        "id": "BSS_20.17",
+        "label": "BSS 20.17"
       },
       "children": [
         {
@@ -6275,7 +6480,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.18"
+        "id": "BSS_20.18",
+        "label": "BSS 20.18"
       },
       "children": [
         {
@@ -6301,7 +6507,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_20.19"
+        "id": "BSS_20.19",
+        "label": "BSS 20.19"
       },
       "children": [
         {
@@ -6334,16 +6541,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[jyā-prakaraṇam]",
+      "text": "jyā-prakaraṇam",
       "segment_number": 443,
-      "translated_text": "[Chapter on Sines (<s>jyā-prakaraṇa</s>)]"
+      "translated_text": "Chapter on Sines (<s>jyā-prakaraṇa</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.17"
+        "id": "BSS_21.17",
+        "label": "BSS 21.17"
       },
       "children": [
         {
@@ -6369,7 +6577,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.18"
+        "id": "BSS_21.18",
+        "label": "BSS 21.18"
       },
       "children": [
         {
@@ -6395,7 +6604,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.19"
+        "id": "BSS_21.19",
+        "label": "BSS 21.19"
       },
       "children": [
         {
@@ -6421,7 +6631,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.20"
+        "id": "BSS_21.20",
+        "label": "BSS 21.20"
       },
       "children": [
         {
@@ -6447,7 +6658,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.21"
+        "id": "BSS_21.21",
+        "label": "BSS 21.21"
       },
       "children": [
         {
@@ -6473,7 +6685,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.22"
+        "id": "BSS_21.22",
+        "label": "BSS 21.22"
       },
       "children": [
         {
@@ -6499,7 +6712,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BSS_21.23"
+        "id": "BSS_21.23",
+        "label": "BSS 21.23"
       },
       "children": [
         {

@@ -1,0 +1,64 @@
+.welcome {
+  min-height: 100%;
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--mantine-spacing-md);
+  padding: 48px 0 72px;
+}
+
+.titleRow {
+  display: flex;
+  align-items: center;
+  gap: var(--mantine-spacing-md);
+}
+
+.logo {
+  flex: 0 0 auto;
+  color: light-dark(var(--mantine-color-coolOrange-6), var(--mantine-color-coolOrange-4));
+}
+
+.title {
+  margin: 0;
+  font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;
+  font-size: 2rem;
+  line-height: 1.15;
+  font-weight: 500;
+  color: light-dark(var(--mantine-color-gray-9), var(--mantine-color-gray-1));
+}
+
+.description {
+  width: 100%;
+  color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-4));
+  line-height: 1.55;
+}
+
+.bookPicker {
+  width: 100%;
+  max-width: 100%;
+  padding-top: var(--mantine-spacing-xs);
+}
+
+@media (max-width: 768px) {
+  .welcome {
+    justify-content: flex-start;
+    padding-top: 96px;
+  }
+
+  .titleRow {
+    align-items: flex-start;
+    gap: var(--mantine-spacing-sm);
+  }
+
+  .logo {
+    width: 44px;
+    height: 44px;
+  }
+
+  .title {
+    font-size: 1.75rem;
+  }
+}

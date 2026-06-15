@@ -204,6 +204,25 @@ const ClickableSimpleBooks = ({
     'sp', 'epigraph',
   ]);
 
+  const extractXmlId = (attrs?: Record<string, any>): string | undefined => {
+    if (!attrs) return;
+    const key = Object.keys(attrs).find(k => /(^id$|}id$)/.test(k));
+    const val = key ? attrs[key] : undefined;
+    return typeof val === 'string' ? val.trim() : undefined;
+  };
+
+  const formatLabelId = (raw?: string): string | undefined =>
+    raw ? raw.replace(/_/g, ' ') : raw;
+
+  const isEmptyLabelledLg = (el: TextElement): string | undefined => {
+    if (el.tag !== 'lg') return;
+    const rawId = extractXmlId(el.attributes);
+    if (!rawId) return;
+    const hasNoText = !el.text || !el.text.trim();
+    const hasNoChildren = !el.children || el.children.length === 0;
+    return hasNoText && hasNoChildren ? rawId : undefined;
+  };
+
   const renderTextElement = (element: TextElement): React.ReactNode => {
     const isBlock = blockTags.has(element.tag);
 
@@ -312,42 +331,30 @@ const ClickableSimpleBooks = ({
       });
     };
 
-    const extractXmlId = (attrs?: Record<string, any>): string | undefined => {
-      if (!attrs) return;
-      const key = Object.keys(attrs).find(k => /(^id$|}id$)/.test(k));
-      const val = key ? attrs[key] : undefined;
-      return typeof val === 'string' ? val.trim() : undefined;
-    };
-
-    const formatLabelId = (raw?: string): string | undefined =>
-      /*raw ? raw.replace(/^[^_]*_/, '') : raw; old pattern, removed a lot */
-      raw ? raw.replace(/_/g, ' ') : raw; /* new pattern, just replace underscores with spaces */
-
-
     if (element.tag === 'lg') {
       const rawId = extractXmlId(element.attributes);
       if (rawId) {
         const labelText = formatLabelId(rawId);
         return (
-          <>
-            <div
-              className={`
-                ${classes.label}
-                ${isTargetSegment ? classes.highlightedSegment : ''}
-                ${isMatchedSegment ? classes.matchedSegment : ''}
-              `}
-              data-segment-number={segmentNumber}
-              ref={setSegmentRef}
-              id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
-            >
-              {labelText}
-            </div>
+          <div
+            className={`
+              ${classes.paragraphContainer}
+              ${classes.lg}
+              ${classes.labeledLg}
+              ${isTargetSegment ? classes.highlightedSegment : ''}
+              ${isMatchedSegment ? classes.matchedSegment : ''}
+            `}
+            data-segment-number={segmentNumber}
+            ref={setSegmentRef}
+            id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
+          >
+            <div className={classes.label}>{labelText}</div>
             {element.children?.map((child, childIndex) => (
               <React.Fragment key={`lg-label-child-${childIndex}`}>
                 {renderTextElement(child)}
               </React.Fragment>
             ))}
-          </>
+          </div>
         );
       }
     }
@@ -591,12 +598,54 @@ const ClickableSimpleBooks = ({
               : ''
         }`}
       >
-        {bookText.body?.map((element, index) => (
-          <React.Fragment key={index}>
-            {renderTextElement(element)}
-            {['lg', 'p', 'pb', 'l'].includes(element.tag) && <br />}
-          </React.Fragment>
-        ))}
+        {(() => {
+          const els = bookText.body || [];
+          const out: React.ReactNode[] = [];
+          for (let i = 0; i < els.length; i++) {
+            const el = els[i];
+            const labelId = isEmptyLabelledLg(el);
+            const next = els[i + 1];
+            if (labelId && next) {
+              // Empty <lg> carrying only a label — adopt the next sibling as
+              // the labelled content so the label aligns to that block's first line.
+              const labelSegmentNumber = el.segment_number ?? null;
+              const isTarget = labelSegmentNumber !== null && labelSegmentNumber === targetSegmentNumber;
+              const isMatched = labelSegmentNumber !== null && matchedBookSegments.includes(labelSegmentNumber);
+              out.push(
+                <React.Fragment key={i}>
+                  <div
+                    className={`
+                      ${classes.paragraphContainer}
+                      ${classes.labeledLg}
+                      ${isTarget ? classes.highlightedSegment : ''}
+                      ${isMatched ? classes.matchedSegment : ''}
+                    `}
+                    data-segment-number={labelSegmentNumber}
+                    ref={(node) => {
+                      if (node && labelSegmentNumber !== null) {
+                        segmentRefs.current.set(labelSegmentNumber, node);
+                      }
+                    }}
+                    id={labelSegmentNumber !== null ? `segment-${labelSegmentNumber}` : undefined}
+                  >
+                    <div className={classes.label}>{formatLabelId(labelId)}</div>
+                    {renderTextElement(next)}
+                  </div>
+                  {['lg', 'p', 'pb', 'l'].includes(next.tag) && <br />}
+                </React.Fragment>
+              );
+              i++; // consumed `next`
+              continue;
+            }
+            out.push(
+              <React.Fragment key={i}>
+                {renderTextElement(el)}
+                {['lg', 'p', 'pb', 'l'].includes(el.tag) && <br />}
+              </React.Fragment>
+            );
+          }
+          return out;
+        })()}
       </div>
       {combinedMatchedSegments.length > 0 && (
         <ScrollMarkers

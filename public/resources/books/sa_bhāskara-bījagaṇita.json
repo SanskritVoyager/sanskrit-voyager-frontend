@@ -36,16 +36,17 @@
   },
   "body": [
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[dhana-ṛṇa-ṣaṣ-vidham]",
+      "text": "dhana-ṛṇa-ṣaṣ-vidham",
       "segment_number": 1,
-      "translated_text": "[The six operations with positive and negative numbers]"
+      "translated_text": "The six operations with positive and negative numbers"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_1"
+        "id": "BG_1",
+        "label": "BG 1"
       },
       "children": [
         {
@@ -71,7 +72,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_2"
+        "id": "BG_2",
+        "label": "BG 2"
       },
       "children": [
         {
@@ -106,7 +108,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_4"
+        "id": "BG_4",
+        "label": "BG 4"
       },
       "children": [
         {
@@ -195,7 +198,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_12"
+        "id": "BG_12",
+        "label": "BG 12"
       },
       "children": [
         {
@@ -246,11 +250,11 @@
       "translated_text": "and tell separately the square root of nine, [considered as] positive and as negative, quickly."
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[śūnya-ṣaṣ-vidham]",
+      "text": "śūnya-ṣaṣ-vidham",
       "segment_number": 21,
-      "translated_text": "[The six operations with zero]"
+      "translated_text": "The six operations with zero"
     },
     {
       "tag": "l",
@@ -291,7 +295,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_20"
+        "id": "BG_20",
+        "label": "BG 20"
       },
       "children": [
         {
@@ -315,16 +320,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[varṇa-ṣaṣ-vidham]",
+      "text": "varṇa-ṣaṣ-vidham",
       "segment_number": 28,
-      "translated_text": "[The six operations with unknowns (<s>varṇa</s>)]"
+      "translated_text": "The six operations with unknowns (<s>varṇa</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_21"
+        "id": "BG_21",
+        "label": "BG 21"
       },
       "children": [
         {
@@ -359,7 +365,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_23"
+        "id": "BG_23",
+        "label": "BG 23"
       },
       "children": [
         {
@@ -403,7 +410,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_26"
+        "id": "BG_26",
+        "label": "BG 26"
       },
       "children": [
         {
@@ -438,7 +446,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_27"
+        "id": "BG_27",
+        "label": "BG 27"
       },
       "children": [
         {
@@ -464,7 +473,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_28"
+        "id": "BG_28",
+        "label": "BG 28"
       },
       "children": [
         {
@@ -490,7 +500,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_29"
+        "id": "BG_29",
+        "label": "BG 29"
       },
       "children": [
         {
@@ -525,7 +536,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_31"
+        "id": "BG_31",
+        "label": "BG 31"
       },
       "children": [
         {
@@ -551,7 +563,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_32"
+        "id": "BG_32",
+        "label": "BG 32"
       },
       "children": [
         {
@@ -577,7 +590,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_33"
+        "id": "BG_33",
+        "label": "BG 33"
       },
       "children": [
         {
@@ -601,16 +615,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[karaṇī-ṣaṣ-vidham]",
+      "text": "karaṇī-ṣaṣ-vidham",
       "segment_number": 52,
-      "translated_text": "[The six operations with surds (<s>karaṇī</s>)]"
+      "translated_text": "The six operations with surds (<s>karaṇī</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_34"
+        "id": "BG_34",
+        "label": "BG 34"
       },
       "children": [
         {
@@ -654,7 +669,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_35"
+        "id": "BG_35",
+        "label": "BG 35"
       },
       "children": [
         {
@@ -671,7 +687,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_36"
+        "id": "BG_36",
+        "label": "BG 36"
       },
       "children": [
         {
@@ -697,7 +714,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_37"
+        "id": "BG_37",
+        "label": "BG 37"
       },
       "children": [
         {
@@ -714,7 +732,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_38"
+        "id": "BG_38",
+        "label": "BG 38"
       },
       "children": [
         {
@@ -749,7 +768,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_39"
+        "id": "BG_39",
+        "label": "BG 39"
       },
       "children": [
         {
@@ -775,7 +795,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_40"
+        "id": "BG_40",
+        "label": "BG 40"
       },
       "children": [
         {
@@ -810,7 +831,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_41"
+        "id": "BG_41",
+        "label": "BG 41"
       },
       "children": [
         {
@@ -854,7 +876,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_42"
+        "id": "BG_42",
+        "label": "BG 42"
       },
       "children": [
         {
@@ -880,7 +903,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_43"
+        "id": "BG_43",
+        "label": "BG 43"
       },
       "children": [
         {
@@ -915,7 +939,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_44"
+        "id": "BG_44",
+        "label": "BG 44"
       },
       "children": [
         {
@@ -995,7 +1020,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_45"
+        "id": "BG_45",
+        "label": "BG 45"
       },
       "children": [
         {
@@ -1021,7 +1047,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_46"
+        "id": "BG_46",
+        "label": "BG 46"
       },
       "children": [
         {
@@ -1047,7 +1074,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_47"
+        "id": "BG_47",
+        "label": "BG 47"
       },
       "children": [
         {
@@ -1073,7 +1101,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_48"
+        "id": "BG_48",
+        "label": "BG 48"
       },
       "children": [
         {
@@ -1099,7 +1128,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_49"
+        "id": "BG_49",
+        "label": "BG 49"
       },
       "children": [
         {
@@ -1123,16 +1153,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[kuṭṭaka-vivaraṇam]",
+      "text": "kuṭṭaka-vivaraṇam",
       "segment_number": 96,
-      "translated_text": "[Exposition of the Pulverizer (<s>Kuṭṭaka</s>)]"
+      "translated_text": "Exposition of the Pulverizer (<s>Kuṭṭaka</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_50"
+        "id": "BG_50",
+        "label": "BG 50"
       },
       "children": [
         {
@@ -1158,7 +1189,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_51"
+        "id": "BG_51",
+        "label": "BG 51"
       },
       "children": [
         {
@@ -1220,7 +1252,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_52"
+        "id": "BG_52",
+        "label": "BG 52"
       },
       "children": [
         {
@@ -1246,7 +1279,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_53"
+        "id": "BG_53",
+        "label": "BG 53"
       },
       "children": [
         {
@@ -1272,7 +1306,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_54"
+        "id": "BG_54",
+        "label": "BG 54"
       },
       "children": [
         {
@@ -1307,7 +1342,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_56"
+        "id": "BG_56",
+        "label": "BG 56"
       },
       "children": [
         {
@@ -1333,7 +1369,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_57"
+        "id": "BG_57",
+        "label": "BG 57"
       },
       "children": [
         {
@@ -1359,7 +1396,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_58"
+        "id": "BG_58",
+        "label": "BG 58"
       },
       "children": [
         {
@@ -1394,7 +1432,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_60"
+        "id": "BG_60",
+        "label": "BG 60"
       },
       "children": [
         {
@@ -1420,7 +1459,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_61"
+        "id": "BG_61",
+        "label": "BG 61"
       },
       "children": [
         {
@@ -1446,7 +1486,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_62"
+        "id": "BG_62",
+        "label": "BG 62"
       },
       "children": [
         {
@@ -1472,7 +1513,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_63"
+        "id": "BG_63",
+        "label": "BG 63"
       },
       "children": [
         {
@@ -1498,7 +1540,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_64"
+        "id": "BG_64",
+        "label": "BG 64"
       },
       "children": [
         {
@@ -1524,7 +1567,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_65"
+        "id": "BG_65",
+        "label": "BG 65"
       },
       "children": [
         {
@@ -1550,7 +1594,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_66"
+        "id": "BG_66",
+        "label": "BG 66"
       },
       "children": [
         {
@@ -1576,7 +1621,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_67"
+        "id": "BG_67",
+        "label": "BG 67"
       },
       "children": [
         {
@@ -1611,7 +1657,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_68"
+        "id": "BG_68",
+        "label": "BG 68"
       },
       "children": [
         {
@@ -1637,7 +1684,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_69"
+        "id": "BG_69",
+        "label": "BG 69"
       },
       "children": [
         {
@@ -1661,16 +1709,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[varga-prakṛtis]",
+      "text": "varga-prakṛtis",
       "segment_number": 140,
-      "translated_text": "[Square-Nature (<s>Varga-prakṛti</s>)]"
+      "translated_text": "Square-Nature (<s>Varga-prakṛti</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_70"
+        "id": "BG_70",
+        "label": "BG 70"
       },
       "children": [
         {
@@ -1696,7 +1745,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_71"
+        "id": "BG_71",
+        "label": "BG 71"
       },
       "children": [
         {
@@ -1749,7 +1799,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_72"
+        "id": "BG_72",
+        "label": "BG 72"
       },
       "children": [
         {
@@ -1775,7 +1826,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_73"
+        "id": "BG_73",
+        "label": "BG 73"
       },
       "children": [
         {
@@ -1810,7 +1862,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_74"
+        "id": "BG_74",
+        "label": "BG 74"
       },
       "children": [
         {
@@ -1836,7 +1889,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_75"
+        "id": "BG_75",
+        "label": "BG 75"
       },
       "children": [
         {
@@ -1916,7 +1970,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_76"
+        "id": "BG_76",
+        "label": "BG 76"
       },
       "children": [
         {
@@ -1951,7 +2006,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_78"
+        "id": "BG_78",
+        "label": "BG 78"
       },
       "children": [
         {
@@ -1986,7 +2042,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_79"
+        "id": "BG_79",
+        "label": "BG 79"
       },
       "children": [
         {
@@ -2012,7 +2069,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_80"
+        "id": "BG_80",
+        "label": "BG 80"
       },
       "children": [
         {
@@ -2038,7 +2096,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_81"
+        "id": "BG_81",
+        "label": "BG 81"
       },
       "children": [
         {
@@ -2082,7 +2141,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_84"
+        "id": "BG_84",
+        "label": "BG 84"
       },
       "children": [
         {
@@ -2108,7 +2168,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_85"
+        "id": "BG_85",
+        "label": "BG 85"
       },
       "children": [
         {
@@ -2134,7 +2195,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_86"
+        "id": "BG_86",
+        "label": "BG 86"
       },
       "children": [
         {
@@ -2160,7 +2222,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_87"
+        "id": "BG_87",
+        "label": "BG 87"
       },
       "children": [
         {
@@ -2186,7 +2249,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_88"
+        "id": "BG_88",
+        "label": "BG 88"
       },
       "children": [
         {
@@ -2210,16 +2274,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[eka-varṇa-samī-karaṇam]",
+      "text": "eka-varṇa-samī-karaṇam",
       "segment_number": 187,
-      "translated_text": "[Equations in one unknown]"
+      "translated_text": "Equations in one unknown"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_89"
+        "id": "BG_89",
+        "label": "BG 89"
       },
       "children": [
         {
@@ -2281,7 +2346,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_90"
+        "id": "BG_90",
+        "label": "BG 90"
       },
       "children": [
         {
@@ -2307,7 +2373,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_91"
+        "id": "BG_91",
+        "label": "BG 91"
       },
       "children": [
         {
@@ -2333,7 +2400,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_92"
+        "id": "BG_92",
+        "label": "BG 92"
       },
       "children": [
         {
@@ -2359,7 +2427,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_93"
+        "id": "BG_93",
+        "label": "BG 93"
       },
       "children": [
         {
@@ -2385,7 +2454,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_94"
+        "id": "BG_94",
+        "label": "BG 94"
       },
       "children": [
         {
@@ -2411,7 +2481,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_95"
+        "id": "BG_95",
+        "label": "BG 95"
       },
       "children": [
         {
@@ -2437,7 +2508,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_96"
+        "id": "BG_96",
+        "label": "BG 96"
       },
       "children": [
         {
@@ -2463,7 +2535,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_97"
+        "id": "BG_97",
+        "label": "BG 97"
       },
       "children": [
         {
@@ -2489,7 +2562,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_98"
+        "id": "BG_98",
+        "label": "BG 98"
       },
       "children": [
         {
@@ -2515,7 +2589,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_99"
+        "id": "BG_99",
+        "label": "BG 99"
       },
       "children": [
         {
@@ -2541,7 +2616,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_100"
+        "id": "BG_100",
+        "label": "BG 100"
       },
       "children": [
         {
@@ -2567,7 +2643,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_101"
+        "id": "BG_101",
+        "label": "BG 101"
       },
       "children": [
         {
@@ -2593,7 +2670,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_102"
+        "id": "BG_102",
+        "label": "BG 102"
       },
       "children": [
         {
@@ -2619,7 +2697,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_103"
+        "id": "BG_103",
+        "label": "BG 103"
       },
       "children": [
         {
@@ -2645,7 +2724,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_104"
+        "id": "BG_104",
+        "label": "BG 104"
       },
       "children": [
         {
@@ -2671,7 +2751,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_105"
+        "id": "BG_105",
+        "label": "BG 105"
       },
       "children": [
         {
@@ -2697,7 +2778,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_106"
+        "id": "BG_106",
+        "label": "BG 106"
       },
       "children": [
         {
@@ -2723,7 +2805,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_107"
+        "id": "BG_107",
+        "label": "BG 107"
       },
       "children": [
         {
@@ -2749,7 +2832,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_108"
+        "id": "BG_108",
+        "label": "BG 108"
       },
       "children": [
         {
@@ -2775,7 +2859,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_109"
+        "id": "BG_109",
+        "label": "BG 109"
       },
       "children": [
         {
@@ -2801,7 +2886,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_110"
+        "id": "BG_110",
+        "label": "BG 110"
       },
       "children": [
         {
@@ -2827,7 +2913,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_111"
+        "id": "BG_111",
+        "label": "BG 111"
       },
       "children": [
         {
@@ -2853,7 +2940,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_112"
+        "id": "BG_112",
+        "label": "BG 112"
       },
       "children": [
         {
@@ -2879,7 +2967,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_113"
+        "id": "BG_113",
+        "label": "BG 113"
       },
       "children": [
         {
@@ -2905,7 +2994,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_114"
+        "id": "BG_114",
+        "label": "BG 114"
       },
       "children": [
         {
@@ -2929,16 +3019,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[madhyama-āharaṇam]",
+      "text": "madhyama-āharaṇam",
       "segment_number": 244,
-      "translated_text": "[Middle extraction (<s>madhyamāharaṇa</s>)]"
+      "translated_text": "Middle extraction (<s>madhyamāharaṇa</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_115"
+        "id": "BG_115",
+        "label": "BG 115"
       },
       "children": [
         {
@@ -3000,7 +3091,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_116"
+        "id": "BG_116",
+        "label": "BG 116"
       },
       "children": [
         {
@@ -3026,7 +3118,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_117"
+        "id": "BG_117",
+        "label": "BG 117"
       },
       "children": [
         {
@@ -3052,7 +3145,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_118"
+        "id": "BG_118",
+        "label": "BG 118"
       },
       "children": [
         {
@@ -3078,7 +3172,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_119"
+        "id": "BG_119",
+        "label": "BG 119"
       },
       "children": [
         {
@@ -3104,7 +3199,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_120"
+        "id": "BG_120",
+        "label": "BG 120"
       },
       "children": [
         {
@@ -3130,7 +3226,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_121"
+        "id": "BG_121",
+        "label": "BG 121"
       },
       "children": [
         {
@@ -3156,7 +3253,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_122"
+        "id": "BG_122",
+        "label": "BG 122"
       },
       "children": [
         {
@@ -3182,7 +3280,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_123"
+        "id": "BG_123",
+        "label": "BG 123"
       },
       "children": [
         {
@@ -3217,7 +3316,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_124"
+        "id": "BG_124",
+        "label": "BG 124"
       },
       "children": [
         {
@@ -3243,7 +3343,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_125"
+        "id": "BG_125",
+        "label": "BG 125"
       },
       "children": [
         {
@@ -3287,7 +3388,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_126"
+        "id": "BG_126",
+        "label": "BG 126"
       },
       "children": [
         {
@@ -3331,7 +3433,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_127"
+        "id": "BG_127",
+        "label": "BG 127"
       },
       "children": [
         {
@@ -3357,7 +3460,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_128"
+        "id": "BG_128",
+        "label": "BG 128"
       },
       "children": [
         {
@@ -3383,7 +3487,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_129"
+        "id": "BG_129",
+        "label": "BG 129"
       },
       "children": [
         {
@@ -3409,7 +3514,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_130"
+        "id": "BG_130",
+        "label": "BG 130"
       },
       "children": [
         {
@@ -3435,7 +3541,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_131"
+        "id": "BG_131",
+        "label": "BG 131"
       },
       "children": [
         {
@@ -3479,7 +3586,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_132"
+        "id": "BG_132",
+        "label": "BG 132"
       },
       "children": [
         {
@@ -3505,7 +3613,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_133"
+        "id": "BG_133",
+        "label": "BG 133"
       },
       "children": [
         {
@@ -3529,16 +3638,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[aneka-varṇa-samīkaraṇam]",
+      "text": "aneka-varṇa-samīkaraṇam",
       "segment_number": 294,
-      "translated_text": "[Equations with multiple unknowns (<s>anekavarṇa-samīkaraṇa</s>)]"
+      "translated_text": "Equations with multiple unknowns (<s>anekavarṇa-samīkaraṇa</s>)"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_134"
+        "id": "BG_134",
+        "label": "BG 134"
       },
       "children": [
         {
@@ -3609,7 +3719,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_135"
+        "id": "BG_135",
+        "label": "BG 135"
       },
       "children": [
         {
@@ -3635,7 +3746,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_136"
+        "id": "BG_136",
+        "label": "BG 136"
       },
       "children": [
         {
@@ -3661,7 +3773,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_137"
+        "id": "BG_137",
+        "label": "BG 137"
       },
       "children": [
         {
@@ -3687,7 +3800,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_138"
+        "id": "BG_138",
+        "label": "BG 138"
       },
       "children": [
         {
@@ -3731,7 +3845,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_139"
+        "id": "BG_139",
+        "label": "BG 139"
       },
       "children": [
         {
@@ -3757,7 +3872,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_140"
+        "id": "BG_140",
+        "label": "BG 140"
       },
       "children": [
         {
@@ -3783,7 +3899,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_141"
+        "id": "BG_141",
+        "label": "BG 141"
       },
       "children": [
         {
@@ -3809,7 +3926,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_142"
+        "id": "BG_142",
+        "label": "BG 142"
       },
       "children": [
         {
@@ -3835,7 +3953,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_143"
+        "id": "BG_143",
+        "label": "BG 143"
       },
       "children": [
         {
@@ -3861,7 +3980,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_144"
+        "id": "BG_144",
+        "label": "BG 144"
       },
       "children": [
         {
@@ -3887,7 +4007,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_145"
+        "id": "BG_145",
+        "label": "BG 145"
       },
       "children": [
         {
@@ -3913,7 +4034,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_146"
+        "id": "BG_146",
+        "label": "BG 146"
       },
       "children": [
         {
@@ -3939,7 +4061,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_147"
+        "id": "BG_147",
+        "label": "BG 147"
       },
       "children": [
         {
@@ -3965,7 +4088,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_148"
+        "id": "BG_148",
+        "label": "BG 148"
       },
       "children": [
         {
@@ -3998,16 +4122,17 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {},
-      "text": "[aneka-varṇa-samī-karaṇa-antar-gatam madhyama-āharaṇam]",
+      "text": "aneka-varṇa-samī-karaṇa-antar-gatam madhyama-āharaṇam",
       "segment_number": 333,
-      "translated_text": "[The intermediate equation (<s>madhyamāharaṇa</s>) within multi-variable equations]"
+      "translated_text": "The intermediate equation (<s>madhyamāharaṇa</s>) within multi-variable equations"
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_149"
+        "id": "BG_149",
+        "label": "BG 149"
       },
       "children": [
         {
@@ -4060,7 +4185,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "BG_150"
+        "id": "BG_150",
+        "label": "BG 150"
       },
       "children": [
         {

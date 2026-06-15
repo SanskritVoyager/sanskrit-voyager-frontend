@@ -35,23 +35,14 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Vaidya 119"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Vaidya_119",
+        "label": "Vaidya 119"
+      }
     },
     {
-      "tag": "l",
-      "attributes": {
-        "rend": "bold"
-      },
+      "tag": "quote",
       "text": "Āryapratītyasamutpādo nāma mahāyānasūtram |",
       "segment_number": 1,
       "translated_text": "The <s>Mahāyānasūtra</s> (Great Vehicle Discourse) called <s>Āryapratītyasamutpāda</s> (Noble Dependent Origination)."

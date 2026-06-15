@@ -38,7 +38,8 @@
       "tag": "p",
       "attributes": {},
       "text": "Tathāgatabimbakārāpaṇasūtra",
-      "segment_number": 1
+      "segment_number": 1,
+      "translated_text": "<s>Tathāgatabimbakārāpaṇasūtra</s> (Sūtra on the Making of Images of the Tathāgata)"
     },
     {
       "tag": "p",
@@ -46,264 +47,244 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r1",
-          "segment_number": 3
+          "segment_number": 3,
+          "translated_text": "Tbks 2r1"
         },
         {
           "tag": "text",
           "text": ") s sakotūhalahṛdayā evam ūcu |\naho puṇyaphalaprabhāvam iti mahātvaṃ\naho puṇyaprabhāvam iti tūṣṇībabhūvuḥ\n  tataḥ su",
-          "segment_number": 4
+          "segment_number": 4,
+          "translated_text": ") With hearts full of wonder, they spoke thus: \"Oh, the greatness of the power of the fruit of merit!\" \"Oh, the power of merit!\" — and they fell silent. Then <s>Su</s>-"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "va",
-          "segment_number": 5
+          "segment_number": 5,
+          "translated_text": "-var-"
         },
         {
           "tag": "text",
           "text": "rṇaprabho (",
-          "segment_number": 6
+          "segment_number": 6,
+          "translated_text": "-ṇaprabha (<s>Suvarṇaprabha</s>), ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r2",
-          "segment_number": 7
+          "segment_number": 7,
+          "translated_text": "Tbks 2r2"
         },
         {
           "tag": "text",
           "text": ") saparivāra bhagavantaṃ pradakṣiṇīkṛtya śirasā praṇamya bhagavato 'ntikaṃ niṣaṇṇa dharmaśravaṇārtham* a",
-          "segment_number": 8
+          "segment_number": 8,
+          "translated_text": ") together with his retinue, having circumambulated the Blessed One and bowed his head, sat near the Blessed One for the purpose of hearing the <s>Dharma</s>."
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "tha",
-          "segment_number": 9
+          "segment_number": 9,
+          "translated_text": "Then"
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 10
+          "segment_number": 10,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r3",
-          "segment_number": 11
+          "segment_number": 11,
+          "translated_text": "Tbks 2r3"
         },
         {
           "tag": "text",
           "text": ") bhagavāṃ sarvasatvānusaṃśayaṃ jñātvā tebhyo mahājanakāyebhya dharmaśrāvaṇikebhyaḥ tasya suvarṇaprabhasya rājakumārasya pū",
-          "segment_number": 12
+          "segment_number": 12,
+          "translated_text": ") the Blessed One, knowing the doubts of all beings, for those great assemblies desirous of hearing the <s>Dharma</s>, [taught] concerning that prince <s>Suvarṇaprabha</s>'s former"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "rva",
-          "segment_number": 13
+          "segment_number": 13,
+          "translated_text": "meritorious"
         },
         {
           "tag": "text",
           "text": "sucaritapuṇyaphalena (",
-          "segment_number": 14
+          "segment_number": 14,
+          "translated_text": "deeds and their fruit, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r4",
-          "segment_number": 15
+          "segment_number": 15,
+          "translated_text": "Tbks 2r4"
         },
         {
           "tag": "text",
           "text": ") prabhāvasamudayasaṃdarśanahetubhūtāṃ vicitra prakārāṃ sapratītyasamutpādāṃ caturāryasatyakathā",
-          "segment_number": 16
+          "segment_number": 16,
+          "translated_text": ") a <s>Dharma</s>-teaching that was the cause for displaying the arising of [his] power and glory, of various kinds, connected with <s>pratītyasamutpāda</s> (dependent origination) and the Four Noble Truths (<s>caturāryasatya</s>),"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "saṃ",
-          "segment_number": 17
+          "segment_number": 17,
+          "translated_text": "en-"
         },
         {
           "tag": "text",
           "text": "yuktāṃ (",
-          "segment_number": 18
+          "segment_number": 18,
+          "translated_text": "-dowed [with these]. ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r5",
-          "segment_number": 19
+          "segment_number": 19,
+          "translated_text": "Tbks 2r5"
         },
         {
           "tag": "text",
           "text": ") dharmadeśanāṃ deśayati | ādau kalyāṇaṃ madhye kalyāṇaṃ paryavasāne kalyāṇaṃ svarthaṃ suvyaṃjanaṃ kevalaṃ pa",
-          "segment_number": 20
+          "segment_number": 20,
+          "translated_text": ") He taught the <s>Dharma</s>-teaching: good in the beginning, good in the middle, good at the end, with good meaning, with good phrasing, complete,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ri",
-          "segment_number": 21
+          "segment_number": 21,
+          "translated_text": "wholly"
         },
         {
           "tag": "text",
           "text": "pūrṇam* (",
-          "segment_number": 22
+          "segment_number": 22,
+          "translated_text": "perfect, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r6",
-          "segment_number": 23
+          "segment_number": 23,
+          "translated_text": "Tbks 2r6"
         },
         {
           "tag": "text",
           "text": ") pariśuddhaṃ paryavadātaṃ brahmacaryaṃ prakāśayati sma :\n  bhūtapūrvaṃ bhikṣavaḥ atīte 'dhvani ekanavatime kalpe (",
-          "segment_number": 24
+          "segment_number": 24,
+          "translated_text": ") pure and stainless. He proclaimed the holy life (<s>brahmacarya</s>):\n\"Once upon a time, O monks, in the past, in the ninety-first <s>kalpa</s> (cosmic age), ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r7",
-          "segment_number": 25
+          "segment_number": 25,
+          "translated_text": "Tbks 2r7"
         },
         {
           "tag": "text",
           "text": ") vipaśyī nāma samyaksaṃbuddho vidyācaraṇasaṃpannas sugato lokavid anuttaraḥ puruṣadamyasārathiś śāstā devamanuṣyā",
-          "segment_number": 26
+          "segment_number": 26,
+          "translated_text": ") there was a Perfectly Awakened One named <s>Vipaśyī</s>, endowed with knowledge and conduct, a <s>Sugata</s>, knower of the world, unsurpassed, charioteer of men to be tamed, teacher of gods and humans,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ṇāṃ",
-          "segment_number": 27
+          "segment_number": 27,
+          "translated_text": "a"
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 28
+          "segment_number": 28,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2v1",
-          "segment_number": 29
+          "segment_number": 29,
+          "translated_text": "Tbks 2v1"
         },
         {
           "tag": "text",
           "text": ") buddho bhagavāṃ buddhakṛtyam a..aśiṣyavineyakṛtyaṃ kṛtvā nirindhano 'gnir iva parinirvṛta samabhijagāma : tad eka pu",
-          "segment_number": 30
+          "segment_number": 30,
+          "translated_text": ") <s>Buddha</s>, a Blessed One. Having accomplished the Buddha's task and the task of training disciples, he passed into complete <s>parinirvāṇa</s> like a fire whose fuel is exhausted. Then one"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ru",
-          "segment_number": 31
+          "segment_number": 31,
+          "translated_text": "man,"
         },
         {
           "tag": "text",
           "text": "ṣo (",
-          "segment_number": 32
+          "segment_number": 32,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2v2",
-          "segment_number": 33
+          "segment_number": 33,
+          "translated_text": "Tbks 2v2"
         },
         {
           "tag": "text",
           "text": ") bhikṣavaḥ paruṣadaridrakṛṣikarmaṇāvaprativṛtti bhagavatā vipaśyina śāsanebhiḥ prasannāḥ bhagavato vipa",
-          "segment_number": 34
+          "segment_number": 34,
+          "translated_text": ") O monks, a rough, poor farmer by occupation, having gained faith in the teachings of the Blessed One <s>Vipaśyī</s>, [wished to] make an image of the Blessed <s>Vipa</s>-"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "śyi",
-          "segment_number": 35
+          "segment_number": 35,
+          "translated_text": "-śyī."
         },
         {
           "tag": "text",
           "text": "naḥ (",
-          "segment_number": 36
+          "segment_number": 36,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2v3",
-          "segment_number": 37
+          "segment_number": 37,
+          "translated_text": "Tbks 2v3"
         },
         {
           "tag": "text",
           "text": ") pratimāṃ kartā\n  tasmiṃ kāle tasmiṃ samaye sa evāyaṃ suvarṇaprabho rājakumāra yad bhagavato vipaśyinaḥ prati",
-          "segment_number": 38
+          "segment_number": 38,
+          "translated_text": ") At that time, at that moment, this very prince <s>Suvarṇaprabha</s> was the one who had an image of the Blessed <s>Vipaśyī</s>"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "māṃ",
-          "segment_number": 39
+          "segment_number": 39,
+          "translated_text": "made."
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 40
+          "segment_number": 40,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2v4",
-          "segment_number": 41
+          "segment_number": 41,
+          "translated_text": "Tbks 2v4"
         },
         {
           "tag": "text",
           "text": ") kārayata yat puṇyaphalasamudayaprabhāvai divyasukhopabhogaiśvaryamahātva",
-          "segment_number": 42
+          "segment_number": 42,
+          "translated_text": ") By the power of the arising of the meritorious fruit [of that deed], he experienced the greatness of divine pleasures, enjoyments, and sovereignty."
         },
         {
           "tag": "hi",
@@ -311,798 +292,741 @@
             "rend": "it"
           },
           "text": "m a",
-          "segment_number": 43
+          "segment_number": 43,
+          "translated_text": "This"
         },
         {
           "tag": "text",
           "text": "nubhūtavān* ayaṃ sa su",
-          "segment_number": 44
+          "segment_number": 44,
+          "translated_text": "very <s>Su</s>-"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "va",
-          "segment_number": 45
+          "segment_number": 45,
+          "translated_text": "-var-"
         },
         {
           "tag": "text",
           "text": "rṇaprabho (",
-          "segment_number": 46
+          "segment_number": 46,
+          "translated_text": "-ṇaprabha, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2rv5",
-          "segment_number": 47
+          "segment_number": 47,
+          "translated_text": "Tbks 2rv5"
         },
         {
           "tag": "text",
           "text": ") rājakumāra samāsato bhikṣava sarvāsu jātiṣu tad bhāṣayāmi:\n  saptaratnamayena samanvāgato śrī",
-          "segment_number": 48
+          "segment_number": 48,
+          "translated_text": ") prince, in brief, O monks, in all his births — I shall speak of them:\nEndowed with the seven treasures, [he attained] the glorious"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ca",
-          "segment_number": 49
+          "segment_number": 49,
+          "translated_text": "sovereignty"
         },
         {
           "tag": "text",
           "text": "kravartirājyaṃ (",
-          "segment_number": 50
+          "segment_number": 50,
+          "translated_text": "of a <s>Cakravartī</s> king, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 2r6",
-          "segment_number": 51
+          "segment_number": 51,
+          "translated_text": "Tbks 2r6"
         },
         {
           "tag": "text",
           "text": ") caturdvīpeśvaro nabhastalacara : apratihatacakraratnagatipracāra | adhīśvarādhipati | śatasa",
-          "segment_number": 52
+          "segment_number": 52,
+          "translated_text": ") lord of the four continents, traverser of the sky, with unobstructed movement of the jewel-wheel, supreme overlord."
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ha",
-          "segment_number": 53
+          "segment_number": 53,
+          "translated_text": "A hundred"
         },
         {
           "tag": "text",
           "text": "srakṛtvā (",
-          "segment_number": 54
+          "segment_number": 54,
+          "translated_text": "thousand times ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3r1",
-          "segment_number": 55
+          "segment_number": 55,
+          "translated_text": "Tbks 3r1"
         },
         {
           "tag": "text",
           "text": ") caturdvīpeśvaro rājā cakravartī babhūvu |\n  anenaiva buddhapratimāpuṇyaphalavipākena tathaivaṃvidha | (",
-          "segment_number": 56
+          "segment_number": 56,
+          "translated_text": ") he became a <s>Cakravartī</s> king, lord of the four continents.\nBy this very ripening of the meritorious fruit of making a Buddha image, in the same manner, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3r2",
-          "segment_number": 57
+          "segment_number": 57,
+          "translated_text": "Tbks 3r2"
         },
         {
           "tag": "text",
           "text": ") sa kāmāvacareṣu devanikāyeṣu svargeṣu ekaikaśaḥ śatasahasrakṛtvā bhikṣava devānām indro rājā babhūva : (",
-          "segment_number": 58
+          "segment_number": 58,
+          "translated_text": ") in the heavens of the desire-realm gods, in each [heaven] individually, a hundred thousand times, O monks, he became <s>Indra</s>, king of the gods."
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3r2",
-          "segment_number": 59
+          "segment_number": 59,
+          "translated_text": "Tbks 3r2"
         },
         {
           "tag": "text",
           "text": ") evaṃvidha : śatasahasrakṛtvā daśa brahmakāyikeṣu brahmādhipatir babhūvu: anulomapratilomaja",
-          "segment_number": 60
+          "segment_number": 60,
+          "translated_text": ") In the same manner, a hundred thousand times he became the chief of <s>Brahmā</s> in the ten <s>Brahmakāyika</s> [heavens]. In a hundred thousand births, both in forward and reverse order,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "nma",
-          "segment_number": 61
+          "segment_number": 61,
+          "translated_text": "in"
         },
         {
           "tag": "text",
           "text": "śatasahasreṣu (",
-          "segment_number": 62
+          "segment_number": 62,
+          "translated_text": "a hundred thousand [births] ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3r4",
-          "segment_number": 63
+          "segment_number": 63,
+          "translated_text": "Tbks 3r4"
         },
         {
           "tag": "text",
           "text": ") koṭi kṣatriyabrāhmaṇeśvarādhipatikuleṣu rājā babhūva | evaṃvidhaś ca bhikṣava| sau",
-          "segment_number": 64
+          "segment_number": 64,
+          "translated_text": ") he became king in tens of millions of ruling families of <s>Kṣatriyas</s>, <s>Brāhmaṇas</s>, and lords. And in this manner, O monks,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "bhā",
-          "segment_number": 65
+          "segment_number": 65,
+          "translated_text": "endowed"
         },
         {
           "tag": "text",
           "text": "gyakāntidyutikīrtiyaśobalasamanvāgata (",
-          "segment_number": 66
+          "segment_number": 66,
+          "translated_text": "with beauty, grace, splendor, fame, glory, and strength, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3r5",
-          "segment_number": 67
+          "segment_number": 67,
+          "translated_text": "Tbks 3r5"
         },
         {
           "tag": "text",
           "text": ") svargā cyuta| aiśvaryeṣu rājakule jātaḥ uttamajāta anuttamajā",
-          "segment_number": 68
+          "segment_number": 68,
+          "translated_text": ") having fallen from heaven, born in a royal family of sovereignty, of the highest birth, of unsurpassed birth,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ta|",
-          "segment_number": 69
+          "segment_number": 69,
+          "translated_text": "the"
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 70
+          "segment_number": 70,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3r6",
-          "segment_number": 71
+          "segment_number": 71,
+          "translated_text": "Tbks 3r6"
         },
         {
           "tag": "text",
           "text": ") suvarṇaprabho rājakumāraḥ antike devamanuṣyāṇāṃ acyutaṃ ajaraṃ amaraṇaṃ śivaṃ śāntaṃ padaṃ labhiṣyatīti | tato (",
-          "segment_number": 72
+          "segment_number": 72,
+          "translated_text": ") prince <s>Suvarṇaprabha</s> will attain, in the presence of gods and humans, the imperishable, unaging, deathless, auspicious, peaceful state.\" Then, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3r7",
-          "segment_number": 73
+          "segment_number": 73,
+          "translated_text": "Tbks 3r7"
         },
         {
           "tag": "text",
           "text": ") 'sya bhikṣava suvarṇaprabhasya rājakumārasya buddhapratimāpuṇyaphalaprabhāvam anuśṛṇutā mānuṣyajātiṣu ye",
-          "segment_number": 74
+          "segment_number": 74,
+          "translated_text": ") \"O monks, hearing of the power of the meritorious fruit of making a Buddha image of this prince <s>Suvarṇaprabha</s>, in [your] human births,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ṣu",
-          "segment_number": 75
+          "segment_number": 75,
+          "translated_text": "those who"
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 76
+          "segment_number": 76,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3v1",
-          "segment_number": 77
+          "segment_number": 77,
+          "translated_text": "Tbks 3v1"
         },
         {
           "tag": "text",
           "text": ") ātmahitaparahitakāmena nāma bhikṣava buddhapratimā nikaraṇīyā |\n  tadyathā bhikṣava : mṛnmayī vā | (",
-          "segment_number": 78
+          "segment_number": 78,
+          "translated_text": ") desire their own welfare and the welfare of others should indeed, O monks, make Buddha images.\nNamely, O monks: of clay, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3v2",
-          "segment_number": 79
+          "segment_number": 79,
+          "translated_text": "Tbks 3v2"
         },
         {
           "tag": "text",
           "text": ") śailamayī vā | dantamayī vā | dārumayī vā | suvarṇamayī vā | kaṃsamayī vā | tra...mayī vā | rupyamayī (",
-          "segment_number": 80
+          "segment_number": 80,
+          "translated_text": ") or of stone, or of ivory, or of wood, or of gold, or of bronze, or of [...] material, or of silver, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3v3",
-          "segment_number": 81
+          "segment_number": 81,
+          "translated_text": "Tbks 3v3"
         },
         {
           "tag": "text",
           "text": ") vā sphaṭikamayī vā | maṇiratnakamayī vā | rītamayī vā | buddhapratimā karaṇīyakā vā | dīrghakā vā | hra",
-          "segment_number": 82
+          "segment_number": 82,
+          "translated_text": ") or of crystal, or of jewels and gems, or of brass — a Buddha image should be made, whether large, whether"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "sva",
-          "segment_number": 83
+          "segment_number": 83,
+          "translated_text": "small,"
         },
         {
           "tag": "text",
           "text": "kāṃ (",
-          "segment_number": 84
+          "segment_number": 84,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3v4",
-          "segment_number": 85
+          "segment_number": 85,
+          "translated_text": "Tbks 3v4"
         },
         {
           "tag": "text",
           "text": ") vā | sadhātukaṃ vā | sapratītyasamutpādaṃ vā |\n  buddhapratimā kārayitvā | sthāpayitvā gandhodakapuṣpodakādibhi",
-          "segment_number": 86
+          "segment_number": 86,
+          "translated_text": ") or [medium], with relics (<s>dhātu</s>) or with [an inscription of] <s>pratītyasamutpāda</s> (dependent origination).\nHaving made and installed a Buddha image, with fragrant water, flower-water, and other"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ḥ",
-          "segment_number": 87
+          "segment_number": 87,
+          "translated_text": "such"
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 88
+          "segment_number": 88,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3v5",
-          "segment_number": 89
+          "segment_number": 89,
+          "translated_text": "Tbks 3v5"
         },
         {
           "tag": "text",
           "text": ") pūjāviśeṣai| snāpayitvā pūjayitvā yasya kasyacid bhikṣavaḥ kulaputrasya vā kuladuhitur vā buddhapratimāpu",
-          "segment_number": 90
+          "segment_number": 90,
+          "translated_text": ") special offerings, having bathed and worshipped [it] — for any son of good family or daughter of good family, O monks, the outflow of merit from the Buddha image,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ṇya",
-          "segment_number": 91
+          "segment_number": 91,
+          "translated_text": "the merit"
         },
         {
           "tag": "text",
           "text": "phalaniṣyanda : (",
-          "segment_number": 92
+          "segment_number": 92,
+          "translated_text": "fruit: ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3v6",
-          "segment_number": 93
+          "segment_number": 93,
+          "translated_text": "Tbks 3v6"
         },
         {
           "tag": "text",
           "text": ") puṇyaskandhaḥ puṇyarāśi aprameya asādharaṇa: anantyupama: puṇyaskandheti\n  punar aparaṃ bhikṣava: (",
-          "segment_number": 94
+          "segment_number": 94,
+          "translated_text": ") the mass of merit, the heap of merit, is immeasurable, extraordinary, infinite, incomparable — such a mass of merit!\"\n\"Furthermore, O monks, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 3v7",
-          "segment_number": 95
+          "segment_number": 95,
+          "translated_text": "Tbks 3v7"
         },
         {
           "tag": "text",
           "text": ") yaḥ kaścid bhikṣur vā bhikṣuṇī vā upāsako vā upāsikā vā | kṣatriyo vā brāhmaṇo vā | vaiśyo vā | śūdro vā evaṃrūpā",
-          "segment_number": 96
+          "segment_number": 96,
+          "translated_text": ") whatever monk or nun, male or female lay follower, <s>Kṣatriya</s> or <s>Brāhmaṇa</s>, <s>Vaiśya</s> or <s>Śūdra</s> — in such"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "su",
-          "segment_number": 97
+          "segment_number": 97,
+          "translated_text": "kinds of"
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 98
+          "segment_number": 98,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4r1",
-          "segment_number": 99
+          "segment_number": 99,
+          "translated_text": "Tbks 4r1"
         },
         {
           "tag": "text",
           "text": ") jātiṣu | śrutidharo bhavati | jātismaro bhavati | svajanaparijanadāsīdāsakarmakarapauruṣeyaprabhṛtiṣu sa ādeyavādyo bhavati | (",
-          "segment_number": 100
+          "segment_number": 100,
+          "translated_text": ") births — one becomes a retainer of what is heard, one becomes a rememberer of past lives, among one's own people, relatives, servants, workers, and attendants, one becomes one whose words are authoritative. ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4r2",
-          "segment_number": 101
+          "segment_number": 101,
+          "translated_text": "Tbks 4r2"
         },
         {
           "tag": "text",
           "text": ") sarvasatvapriyadarśanadharo bhavati | sarvaguṇalakṣaṇadharo bhavati sarvasatvādhipatir bhavati | sarvabuddhapratyekabuddhaśrāvakārhadguṇa",
-          "segment_number": 102
+          "segment_number": 102,
+          "translated_text": ") One becomes pleasing to the sight of all beings, one becomes endowed with all virtues and auspicious marks, one becomes the lord of all beings, one becomes endowed with all the qualities"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "sa",
-          "segment_number": 103
+          "segment_number": 103,
+          "translated_text": "worthy of"
         },
         {
           "tag": "text",
           "text": "māgato (",
-          "segment_number": 104
+          "segment_number": 104,
+          "translated_text": "the <s>Buddhas</s>, <s>Pratyekabuddhas</s>, and <s>Śrāvakas</s>. ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4r3",
-          "segment_number": 105
+          "segment_number": 105,
+          "translated_text": "Tbks 4r3"
         },
         {
           "tag": "text",
           "text": ") bhavati | nityaṃ bodhicittaparāyaṇo bhavati | yasya yatrābhikāṃkṣati | tatra tatra etaṃ labhati | rāgadveṣamoherṣyāmātsarya",
-          "segment_number": 106
+          "segment_number": 106,
+          "translated_text": ") One is always devoted to <s>bodhicitta</s> (the mind of awakening). Whatever one desires, wherever — there one obtains it. From desire, hatred, delusion, envy, jealousy,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "lo",
-          "segment_number": 107
+          "segment_number": 107,
+          "translated_text": "greed,"
         },
         {
           "tag": "text",
           "text": "bhatṛṣṇādikleśādibhi| (",
-          "segment_number": 108
+          "segment_number": 108,
+          "translated_text": "craving, and other afflictions (<s>kleśas</s>) — ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4r4",
-          "segment_number": 109
+          "segment_number": 109,
+          "translated_text": "Tbks 4r4"
         },
         {
           "tag": "text",
           "text": ") vivarjito bhavati | buddhatvam anvantaram adhigacchati | kṣipraṃ ca parinirvāṇaṃ śāntam adhigacchatīti vadāmi bhikṣavaḥ (",
-          "segment_number": 110
+          "segment_number": 110,
+          "translated_text": ") one becomes free. One attains <s>Buddhahood</s> without interval. And one quickly attains the peaceful <s>parinirvāṇa</s> — thus I say, O monks.\""
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4r5",
-          "segment_number": 111
+          "segment_number": 111,
+          "translated_text": "Tbks 4r5"
         },
         {
           "tag": "text",
           "text": ")\n  tat kasmād dhetor anantaphalasamudayaprabhāva | buddhapratimāpuṇyaphalasamudayaprabhāvam* buddhapratimāpuṇyaphalavipāka (",
-          "segment_number": 112
+          "segment_number": 112,
+          "translated_text": "\"And why? Because of the power of the arising of infinite fruit — the power of the arising of the meritorious fruit of a Buddha image, the ripening of the meritorious fruit of a Buddha image."
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4r6",
-          "segment_number": 113
+          "segment_number": 113,
+          "translated_text": "Tbks 4r6"
         },
         {
           "tag": "text",
           "text": ")\n  parinirvṛto 'pi adhigato nāpi buddho bhagavāṃ parinirvṛta iva buddhapratimāyā darśanād iti vadāmi bhikṣava idam avocad bhagavāṃ (",
-          "segment_number": 114
+          "segment_number": 114,
+          "translated_text": "Even though the <s>Buddha</s>, the Blessed One, has passed into <s>parinirvāṇa</s>, the <s>Buddha</s>, the Blessed One, has not [truly] attained <s>parinirvāṇa</s> — [he is still present] through the seeing of a Buddha image. Thus I say, O monks.\" This the Blessed One spoke. ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4r7",
-          "segment_number": 115
+          "segment_number": 115,
+          "translated_text": "Tbks 4r7"
         },
         {
           "tag": "text",
           "text": ") tathāparaṃ gāthāṃ bhāṣate |\n  kṛtvā purā kāśyapabiṃbam agryaṃ gandhodakai snāpitavāṃ dvijendraḥ |\n(",
-          "segment_number": 116
+          "segment_number": 116,
+          "translated_text": ") Then he further spoke these verses:\n\"Having formerly made an excellent image of [the Buddha] <s>Kāśyapa</s>, and having bathed [it] with fragrant waters, the foremost among the twice-born —"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4v1",
-          "segment_number": 117
+          "segment_number": 117,
+          "translated_text": "Tbks 4v1"
         },
         {
           "tag": "text",
           "text": ") puṣpai sugandhais sumanojñaga",
-          "segment_number": 118
+          "segment_number": 118,
+          "translated_text": ") with flowers, sweet fragrances, and delightful"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ndhai",
-          "segment_number": 119
+          "segment_number": 119,
+          "translated_text": "scents —"
         },
         {
           "tag": "text",
           "text": "tenaiva puṇyena bhavād vimuktaḥ 1\n  yaṃ nirmalaḥ kleśamalair vimukta cittasya citteśvaratāgatiṃ syaḥ\n  rūpaṃ na tṛptāś ca nirīkṣya matvā tadbiṃba saṃ",
-          "segment_number": 120
+          "segment_number": 120,
+          "translated_text": "by that very merit was freed from [the cycle of] existence. (1)\nHe who is stainless, freed from the defilements of the <s>kleśas</s>, to attain the state of mastery over mind — [his] form, even after seeing [it], one is not satiated — [therefore] one should bathe the image"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "snā",
-          "segment_number": 121
+          "segment_number": 121,
+          "translated_text": "of the"
         },
         {
           "tag": "text",
           "text": "payato jinasya 2 (",
-          "segment_number": 122
+          "segment_number": 122,
+          "translated_text": "<s>Jina</s> (Conqueror). (2) ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4v2",
-          "segment_number": 123
+          "segment_number": 123,
+          "translated_text": "Tbks 4v2"
         },
         {
           "tag": "text",
           "text": ")\n  vicitrabhogā vividhaprakārā candrārkasaumyādhikatejaśobhā |\n  labhanti nāryaḥ puruṣāś ca loke tadbiṃba saṃsnāpayato",
-          "segment_number": 124
+          "segment_number": 124,
+          "translated_text": ")\nVarious enjoyments of many kinds, with splendor surpassing the beauty of the moon, sun, and gentleness — women and men in this world obtain [these]"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ji",
-          "segment_number": 125
+          "segment_number": 125,
+          "translated_text": "by bathing"
         },
         {
           "tag": "text",
           "text": "nasya 3 (",
-          "segment_number": 126
+          "segment_number": 126,
+          "translated_text": "the image of the <s>Jina</s>. (3) ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4v3",
-          "segment_number": 127
+          "segment_number": 127,
+          "translated_text": "Tbks 4v3"
         },
         {
           "tag": "text",
           "text": ")\n  kleśāndhakārādivimuktacittā mohāndhakārādivipūrṇacandra |\n  śāntaṃ padaṃ yānti narā striyo vā tadbiṃba saṃsnāpayato jina",
-          "segment_number": 128
+          "segment_number": 128,
+          "translated_text": ")\nWith minds freed from the darkness of the <s>kleśas</s>, like the full moon [dispelling] the darkness of delusion, men and women attain the peaceful state"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "sya",
-          "segment_number": 129
+          "segment_number": 129,
+          "translated_text": "by bathing the image of the <s>Jina</s>."
         },
         {
           "tag": "text",
           "text": "4 (",
-          "segment_number": 130
+          "segment_number": 130,
+          "translated_text": "(4) ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4v4",
-          "segment_number": 131
+          "segment_number": 131,
+          "translated_text": "Tbks 4v4"
         },
         {
           "tag": "text",
           "text": ")\n  tyaktvā kaḍevaram ihaiva narā striyo vā\n  svarge prayāti bahukalpaśatai sunirvṛt*\n  te prāpnuvanty anupamaṃ sukham apsa",
-          "segment_number": 132
+          "segment_number": 132,
+          "translated_text": ")\nHaving abandoned the body here in this [world], men and women go to heaven, well-content for hundreds of <s>kalpas</s>; they attain incomparable happiness with the <s>Apsaras</s>"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "re",
-          "segment_number": 133
+          "segment_number": 133,
+          "translated_text": "(celestial"
         },
         {
           "tag": "text",
           "text": "bhi (",
-          "segment_number": 134
+          "segment_number": 134,
+          "translated_text": "nymphs). ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4v5",
-          "segment_number": 135
+          "segment_number": 135,
+          "translated_text": "Tbks 4v5"
         },
         {
           "tag": "text",
           "text": ")\n  viśvasya tat phalam udāram uvāca buddhaḥ 5\n  śrīkāntidivyasalilo guṇarūpaśobhā\n  saubhāgyabhāgye varasaukhyapaṭutvavā",
-          "segment_number": 136
+          "segment_number": 136,
+          "translated_text": ")\nThe <s>Buddha</s> declared that noble fruit [which comes] from faith. (5)\nGlorious, beautiful, with divine waters, with the splendor of virtuous form, with good fortune, blessings, excellent happiness, eloquence of"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "kya",
-          "segment_number": 137
+          "segment_number": 137,
+          "translated_text": "speech,"
         },
         {
           "tag": "text",
           "text": "| (",
-          "segment_number": 138
+          "segment_number": 138,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4v6",
-          "segment_number": 139
+          "segment_number": 139,
+          "translated_text": "Tbks 4v6"
         },
         {
           "tag": "text",
           "text": ")\n  ādityacandrakiraṇā iva saumyatejā\n  - buddhabiṃbakaraṇā labhate manuṣyaḥ 6\n  yāvantaḥ paramāṇavo bhagavata stūpeṣu biṃ",
-          "segment_number": 140
+          "segment_number": 140,
+          "translated_text": ")\nwith gentle radiance like the rays of the sun and moon — a person obtains [all this] from making a Buddha image. (6)\nAs many atoms as there are in the <s>stūpas</s> and images of the Blessed One,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ba",
-          "segment_number": 141
+          "segment_number": 141,
+          "translated_text": "that"
         },
         {
           "tag": "text",
           "text": "sya vā | (",
-          "segment_number": 142
+          "segment_number": 142,
+          "translated_text": "many — ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 4v7",
-          "segment_number": 143
+          "segment_number": 143,
+          "translated_text": "Tbks 4v7"
         },
         {
           "tag": "text",
           "text": ")\n  tat kartum* divi bhūtale ca niyataṃ tāvanti rājyāni te |\n  buddhānāṃ khalu dhātave bhagavatā śarīrā ni ca nirmitā | (",
-          "segment_number": 144
+          "segment_number": 144,
+          "translated_text": ")\nthat many kingdoms in heaven and on earth are certainly [obtained] by one who makes them.\nIndeed, the relics and bodies of the <s>Buddhas</s> were fashioned by the Blessed One — ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5r1",
-          "segment_number": 145
+          "segment_number": 145,
+          "translated_text": "Tbks 5r1"
         },
         {
           "tag": "text",
           "text": ")",
-          "segment_number": 146
+          "segment_number": 146,
+          "translated_text": ")"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "ekaikādbhutapuṇyarāśijanitair ekaikasūkṣmāṇubhi | 7",
-          "segment_number": 147
+          "segment_number": 147,
+          "translated_text": "each born from a wondrous heap of merit, each from a subtle atom. (7)\nThe image of him whose fame [pervades] the three worlds, the mighty one of the ten powers, whose renown is celebrated in all directions —"
         },
         {
           "tag": "text",
           "text": "trailokyayaśasya biṃbaṃ daśabalabalinā dikṣu vikhyātakīrte |\n  ye ma",
-          "segment_number": 148
+          "segment_number": 148,
+          "translated_text": "those"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "rtyāḥ",
-          "segment_number": 149
+          "segment_number": 149,
+          "translated_text": "mortals"
         },
         {
           "tag": "text",
           "text": "kārayitvā pramuditamanasā pūjayante yathāvat (",
-          "segment_number": 150
+          "segment_number": 150,
+          "translated_text": "who, having had [it] made, worship [it] with joyful minds in the proper manner, ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5r2",
-          "segment_number": 151
+          "segment_number": 151,
+          "translated_text": "Tbks 5r2"
         },
         {
           "tag": "text",
           "text": ")\n  svarge saktye ca rūpaṃ nayanaratikaraṃ śuddhacāmīkarābham*\n  te labdhāś śāntikā",
-          "segment_number": 152
+          "segment_number": 152,
+          "translated_text": ")\nobtain in heaven and in their own realm a form that delights the eyes, pure as fine gold. They who desire peace"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "mā",
-          "segment_number": 153
+          "segment_number": 153,
+          "translated_text": "and"
         },
         {
           "tag": "text",
           "text": "sukham idam atulaṃ prāpnuvanty āvajuṣṭaṃ || 8 (",
-          "segment_number": 154
+          "segment_number": 154,
+          "translated_text": "happiness attain this incomparable [bliss], attended [by divine beings]. (8) ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5r3",
-          "segment_number": 155
+          "segment_number": 155,
+          "translated_text": "Tbks 5r3"
         },
         {
           "tag": "text",
           "text": ")\n  ity evādiprakārāṃ suvarṇaprabhavasuyuktāṃ dharmadeśanāṃ śrutvā paṃcaśatasaha",
-          "segment_number": 156
+          "segment_number": 156,
+          "translated_text": ")\nHaving heard this and other such well-connected <s>Dharma</s>-teachings concerning <s>Suvarṇaprabha</s>, the five hundred"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "sra",
-          "segment_number": 157
+          "segment_number": 157,
+          "translated_text": "thousand"
         },
         {
           "tag": "text",
           "text": "(",
-          "segment_number": 158
+          "segment_number": 158,
+          "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5r4",
-          "segment_number": 159
+          "segment_number": 159,
+          "translated_text": "Tbks 5r4"
         },
         {
           "tag": "text",
           "text": ") antaḥpurastrīkāntaparivārai suvarṇaprabho rājakumāra buddhapratimāpuṇyaphalarājaśrīsamudayasaṃmudasaukhyaṃ (",
-          "segment_number": 160
+          "segment_number": 160,
+          "translated_text": ") [women of the] inner palace, the beloved retinue, and prince <s>Suvarṇaprabha</s>, [experiencing] the joy and happiness arising from the royal glory of the meritorious fruit of the Buddha image,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5r5",
-          "segment_number": 161
+          "segment_number": 161,
+          "translated_text": "Tbks 5r5"
         },
         {
           "tag": "text",
           "text": ") sarvaṃ gārhasthyam apahāya tathaiva śāsane pravrajita\n  yoniśa sa manaskāraṃ kṛtvā sarvakleśaprahāṇā arhatvaṃ strīpa",
-          "segment_number": 162
+          "segment_number": 162,
+          "translated_text": ") abandoned all household life entirely and likewise went forth into the [Buddha's] teaching. Having applied proper mental attention (<s>yoniśo manaskāra</s>), through the abandonment of all <s>kleśas</s>, [they attained] <s>Arhatship</s> — the women"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ri",
-          "segment_number": 163
+          "segment_number": 163,
+          "translated_text": "of the"
         },
         {
           "tag": "text",
           "text": "vārās (",
-          "segment_number": 164
+          "segment_number": 164,
+          "translated_text": "retinue. ("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5r6",
-          "segment_number": 165
+          "segment_number": 165,
+          "translated_text": "Tbks 5r6"
         },
         {
           "tag": "text",
@@ -1111,10 +1035,7 @@
           "translated_text": "who regard a clod of earth and gold equally, whose minds are even, whose task is accomplished, whose burdens are removed, whose fetters of existence (<s>bhavasaṃyojana</s>) are utterly destroyed, who are liberated from the bonds of <s>saṃsāra</s>"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "nā",
           "segment_number": 167,
           "translated_text": "[continued]"
@@ -1126,10 +1047,7 @@
           "translated_text": "[manuscript fragment]"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5r7",
           "segment_number": 169,
           "translated_text": "[Tbks folio 5r7]"
@@ -1141,10 +1059,7 @@
           "translated_text": "whose pair of feet are venerated by all the gods, fully awakened — [this is] the illumination of the greatness and glory of the accumulation of the meritorious fruits of <s>Buddha</s> images"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "m",
           "segment_number": 171,
           "translated_text": "[continued]"
@@ -1156,10 +1071,7 @@
           "translated_text": "— this sūtra"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Tbks 5v1",
           "segment_number": 173,
           "translated_text": "[Tbks folio 5v1]"
@@ -1191,7 +1103,8 @@
           ]
         }
       ],
-      "segment_number": 2
+      "segment_number": 2,
+      "translated_text": "("
     },
     {
       "tag": "p",

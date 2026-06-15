@@ -38,7 +38,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_1"
+        "id": "NKv_1",
+        "label": "NKv 1"
       },
       "children": [
         {
@@ -52,7 +53,8 @@
                 "n": "a"
               },
               "text": "na bhetavyaṃ na boddhavyaṃ",
-              "segment_number": 1
+              "segment_number": 1,
+              "translated_text": "One should not fear, nor understand,"
             },
             {
               "tag": "seg",
@@ -61,7 +63,8 @@
                 "n": "b"
               },
               "text": "na śrāvyaṃ vādino vacaḥ",
-              "segment_number": 2
+              "segment_number": 2,
+              "translated_text": "nor listen to the opponent's words;"
             }
           ]
         },
@@ -76,7 +79,8 @@
                 "n": "c"
               },
               "text": "jhaṭiti prativaktavyaṃ",
-              "segment_number": 3
+              "segment_number": 3,
+              "translated_text": "one should retort instantly—"
             },
             {
               "tag": "seg",
@@ -85,12 +89,14 @@
                 "n": "d"
               },
               "text": "sabhāsu vijigīṣubhiḥ",
-              "segment_number": 4
+              "segment_number": 4,
+              "translated_text": "[this is the way] for those who wish to triumph in assemblies."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 5
+              "segment_number": 5,
+              "translated_text": "//"
             }
           ]
         }
@@ -158,7 +164,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_2"
+        "id": "NKv_2",
+        "label": "NKv 2"
       },
       "children": [
         {
@@ -172,7 +179,8 @@
                 "n": "a"
               },
               "text": "asaṃbhramo vilajjatvam",
-              "segment_number": 6
+              "segment_number": 6,
+              "translated_text": "Composure, shamelessness,"
             },
             {
               "tag": "seg",
@@ -181,7 +189,8 @@
                 "n": "b"
               },
               "text": "avajñā prativādini",
-              "segment_number": 7
+              "segment_number": 7,
+              "translated_text": "contempt for the opponent,"
             }
           ]
         },
@@ -196,7 +205,8 @@
                 "n": "c"
               },
               "text": "hāso rājñaḥ stavaś ceti",
-              "segment_number": 8
+              "segment_number": 8,
+              "translated_text": "laughter, praise of the king—and thus"
             },
             {
               "tag": "seg",
@@ -205,12 +215,14 @@
                 "n": "d"
               },
               "text": "pañcaite jayahetavas",
-              "segment_number": 9
+              "segment_number": 9,
+              "translated_text": "these five are the causes of victory."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 10
+              "segment_number": 10,
+              "translated_text": "//"
             }
           ]
         }
@@ -278,7 +290,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_3"
+        "id": "NKv_3",
+        "label": "NKv 3"
       },
       "children": [
         {
@@ -292,7 +305,8 @@
                 "n": "a"
               },
               "text": "uccair udghoṣya jetavyaṃ",
-              "segment_number": 11
+              "segment_number": 11,
+              "translated_text": "One should win by shouting loudly"
             },
             {
               "tag": "seg",
@@ -301,7 +315,8 @@
                 "n": "b"
               },
               "text": "madhyasthaś ced apaṇḍitas",
-              "segment_number": 12
+              "segment_number": 12,
+              "translated_text": "if the judge is unlearned;"
             }
           ]
         },
@@ -316,7 +331,8 @@
                 "n": "c"
               },
               "text": "paṇḍito yadi tatraiva",
-              "segment_number": 13
+              "segment_number": 13,
+              "translated_text": "if he is learned, then right there"
             },
             {
               "tag": "seg",
@@ -325,12 +341,14 @@
                 "n": "d"
               },
               "text": "pakṣapāto 'dhiropyatām",
-              "segment_number": 14
+              "segment_number": 14,
+              "translated_text": "partiality should be imposed upon him."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 15
+              "segment_number": 15,
+              "translated_text": "//"
             }
           ]
         }
@@ -403,7 +421,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_4"
+        "id": "NKv_4",
+        "label": "NKv 4"
       },
       "children": [
         {
@@ -417,7 +436,8 @@
                 "n": "a"
               },
               "text": "lobho hetur dhanaṃ sādhyaṃ",
-              "segment_number": 16
+              "segment_number": 16,
+              "translated_text": "Greed is the reason, wealth is the goal,"
             },
             {
               "tag": "seg",
@@ -426,7 +446,8 @@
                 "n": "b"
               },
               "text": "dṛṣṭāntas tu purohitas",
-              "segment_number": 17
+              "segment_number": 17,
+              "translated_text": "the family priest is the illustration,"
             }
           ]
         },
@@ -441,7 +462,8 @@
                 "n": "c"
               },
               "text": "ātmotkarṣo nigamanam",
-              "segment_number": 18
+              "segment_number": 18,
+              "translated_text": "self-aggrandizement is the conclusion—"
             },
             {
               "tag": "seg",
@@ -450,12 +472,14 @@
                 "n": "d"
               },
               "text": "anumāneṣv ayaṃ vidhis",
-              "segment_number": 19
+              "segment_number": 19,
+              "translated_text": "this is the method in inferences."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 20
+              "segment_number": 20,
+              "translated_text": "//"
             }
           ]
         }
@@ -523,7 +547,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_5"
+        "id": "NKv_5",
+        "label": "NKv 5"
       },
       "children": [
         {
@@ -537,7 +562,8 @@
                 "n": "a"
               },
               "text": "abhyāsyaṃ lajjamānena",
-              "segment_number": 21
+              "segment_number": 21,
+              "translated_text": "Truth must be practiced with shame"
             },
             {
               "tag": "seg",
@@ -546,7 +572,8 @@
                 "n": "b"
               },
               "text": "tattvaṃ jijñāsunā ciram",
-              "segment_number": 22
+              "segment_number": 22,
+              "translated_text": "by one who seeks knowledge for a long time;"
             }
           ]
         },
@@ -561,7 +588,8 @@
                 "n": "c"
               },
               "text": "jigīṣunā hriyaṃ tyaktvā",
-              "segment_number": 23
+              "segment_number": 23,
+              "translated_text": "by one who seeks victory, modesty should be abandoned,"
             },
             {
               "tag": "seg",
@@ -570,12 +598,14 @@
                 "n": "d"
               },
               "text": "kāryaḥ kolāhalo mahān",
-              "segment_number": 24
+              "segment_number": 24,
+              "translated_text": "and a great uproar should be made."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 25
+              "segment_number": 25,
+              "translated_text": "//"
             }
           ]
         }
@@ -643,7 +673,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_6"
+        "id": "NKv_6",
+        "label": "NKv 6"
       },
       "children": [
         {
@@ -657,7 +688,8 @@
                 "n": "a"
               },
               "text": "pāṭhanair granthanirmāṇaiḥ",
-              "segment_number": 26
+              "segment_number": 26,
+              "translated_text": "Through lectures and the composition of treatises,"
             },
             {
               "tag": "seg",
@@ -666,7 +698,8 @@
                 "n": "b"
               },
               "text": "pratiṣṭhā tāvad āpyate",
-              "segment_number": 27
+              "segment_number": 27,
+              "translated_text": "renown is obtained for a while;"
             }
           ]
         },
@@ -681,7 +714,8 @@
                 "n": "c"
               },
               "text": "evam ca tathyavyutpattir",
-              "segment_number": 28
+              "segment_number": 28,
+              "translated_text": "and whether genuine learning [comes] thus"
             },
             {
               "tag": "seg",
@@ -690,12 +724,14 @@
                 "n": "d"
               },
               "text": "āyuṣo 'nte bhaven na vā",
-              "segment_number": 29
+              "segment_number": 29,
+              "translated_text": "at the end of one's life or not."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 30
+              "segment_number": 30,
+              "translated_text": "//"
             }
           ]
         }
@@ -763,7 +799,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_7"
+        "id": "NKv_7",
+        "label": "NKv 7"
       },
       "children": [
         {
@@ -777,7 +814,8 @@
                 "n": "a"
               },
               "text": "stotāraḥ ke bhaviṣyanti",
-              "segment_number": 31
+              "segment_number": 31,
+              "translated_text": "Who on the face of the earth will be"
             },
             {
               "tag": "seg",
@@ -786,7 +824,8 @@
                 "n": "b"
               },
               "text": "mūrkhasya jagatītale",
-              "segment_number": 32
+              "segment_number": 32,
+              "translated_text": "the praisers of a fool?"
             }
           ]
         },
@@ -801,7 +840,8 @@
                 "n": "c"
               },
               "text": "na stauti cet svayaṃ ca svaṃ",
-              "segment_number": 33
+              "segment_number": 33,
+              "translated_text": "If he does not praise himself,"
             },
             {
               "tag": "seg",
@@ -810,12 +850,14 @@
                 "n": "d"
               },
               "text": "kadā tasyāstu nirvṛtis",
-              "segment_number": 34
+              "segment_number": 34,
+              "translated_text": "when will he ever find satisfaction?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 35
+              "segment_number": 35,
+              "translated_text": "//"
             }
           ]
         }
@@ -883,7 +925,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_8"
+        "id": "NKv_8",
+        "label": "NKv 8"
       },
       "children": [
         {
@@ -897,7 +940,8 @@
                 "n": "a"
               },
               "text": "vācyatāṃ samayo 'tītaḥ",
-              "segment_number": 36
+              "segment_number": 36,
+              "translated_text": "\"The time for discussion has passed;"
             },
             {
               "tag": "seg",
@@ -906,7 +950,8 @@
                 "n": "b"
               },
               "text": "spaṣṭam agre bhaviṣyati",
-              "segment_number": 37
+              "segment_number": 37,
+              "translated_text": "it will become clear later\"—"
             }
           ]
         },
@@ -921,7 +966,8 @@
                 "n": "c"
               },
               "text": "iti pāṭhayatāṃ granthe",
-              "segment_number": 38
+              "segment_number": 38,
+              "translated_text": "for those who teach thus from texts,"
             },
             {
               "tag": "seg",
@@ -930,12 +976,14 @@
                 "n": "d"
               },
               "text": "kāṭhinyaṃ kutra vartate",
-              "segment_number": 39
+              "segment_number": 39,
+              "translated_text": "where is the difficulty?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 40
+              "segment_number": 40,
+              "translated_text": "//"
             }
           ]
         }
@@ -1003,7 +1051,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_9"
+        "id": "NKv_9",
+        "label": "NKv 9"
       },
       "children": [
         {
@@ -1017,7 +1066,8 @@
                 "n": "a"
               },
               "text": "agatitvam atiśraddhā",
-              "segment_number": 41
+              "segment_number": 41,
+              "translated_text": "Helplessness, excessive faith,"
             },
             {
               "tag": "seg",
@@ -1026,7 +1076,8 @@
                 "n": "b"
               },
               "text": "jñānābhāsena tṛptatā",
-              "segment_number": 42
+              "segment_number": 42,
+              "translated_text": "and satisfaction with a semblance of knowledge—"
             }
           ]
         },
@@ -1041,7 +1092,8 @@
                 "n": "c"
               },
               "text": "trayaḥ śiṣyaguṇā hy ete",
-              "segment_number": 43
+              "segment_number": 43,
+              "translated_text": "these three qualities of a student"
             },
             {
               "tag": "seg",
@@ -1050,12 +1102,14 @@
                 "n": "d"
               },
               "text": "mūrkhācāryasya bhāgyajās",
-              "segment_number": 44
+              "segment_number": 44,
+              "translated_text": "are born from the fortune of a foolish teacher."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 45
+              "segment_number": 45,
+              "translated_text": "//"
             }
           ]
         }
@@ -1123,7 +1177,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_10"
+        "id": "NKv_10",
+        "label": "NKv 10"
       },
       "children": [
         {
@@ -1137,7 +1192,8 @@
                 "n": "a"
               },
               "text": "yadi na kvāpi vidyāyāṃ",
-              "segment_number": 46
+              "segment_number": 46,
+              "translated_text": "If the mind does not advance at all"
             },
             {
               "tag": "seg",
@@ -1146,7 +1202,8 @@
                 "n": "b"
               },
               "text": "sarvathā kramate matis",
-              "segment_number": 47
+              "segment_number": 47,
+              "translated_text": "in any branch of learning,"
             }
           ]
         },
@@ -1161,7 +1218,8 @@
                 "n": "c"
               },
               "text": "māntrikās tu bhaviṣyāmo",
-              "segment_number": 48
+              "segment_number": 48,
+              "translated_text": "'We shall become <s>māntrikas</s> (sorcerers),"
             },
             {
               "tag": "seg",
@@ -1170,12 +1228,14 @@
                 "n": "d"
               },
               "text": "yogino yatayo 'pi vā",
-              "segment_number": 49
+              "segment_number": 49,
+              "translated_text": "or <s>yogins</s>, or ascetics.'"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 50
+              "segment_number": 50,
+              "translated_text": "//"
             }
           ]
         }
@@ -1243,7 +1303,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_11"
+        "id": "NKv_11",
+        "label": "NKv 11"
       },
       "children": [
         {
@@ -1257,7 +1318,8 @@
                 "n": "a"
               },
               "text": "avilambena saṃsiddhau",
-              "segment_number": 51
+              "segment_number": 51,
+              "translated_text": "Without delay in [achieving] success,"
             },
             {
               "tag": "seg",
@@ -1266,7 +1328,8 @@
                 "n": "b"
               },
               "text": "māntrikair āpyate yaśas",
-              "segment_number": 52
+              "segment_number": 52,
+              "translated_text": "<s>māntrikas</s> (sorcerers) obtain fame;"
             }
           ]
         },
@@ -1281,7 +1344,8 @@
                 "n": "c"
               },
               "text": "vilambe karmabāhulyaṃ",
-              "segment_number": 53
+              "segment_number": 53,
+              "translated_text": "if there is delay, abundance of ritual work"
             },
             {
               "tag": "seg",
@@ -1290,12 +1354,14 @@
                 "n": "d"
               },
               "text": "vikhyāpyāvāpyate dhanam",
-              "segment_number": 54
+              "segment_number": 54,
+              "translated_text": "is proclaimed, and wealth is obtained."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 55
+              "segment_number": 55,
+              "translated_text": "//"
             }
           ]
         }
@@ -1363,7 +1429,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_12"
+        "id": "NKv_12",
+        "label": "NKv 12"
       },
       "children": [
         {
@@ -1377,7 +1444,8 @@
                 "n": "a"
               },
               "text": "sukhaṃ sukhiṣu duḥkhe 'pi",
-              "segment_number": 56
+              "segment_number": 56,
+              "translated_text": "Happiness among the happy, and a livelihood"
             },
             {
               "tag": "seg",
@@ -1386,7 +1454,8 @@
                 "n": "b"
               },
               "text": "jīvanaṃ duḥkhaśāliṣu",
-              "segment_number": 57
+              "segment_number": 57,
+              "translated_text": "even in the misery of the miserable—"
             }
           ]
         },
@@ -1401,7 +1470,8 @@
                 "n": "c"
               },
               "text": "anugrahāyate yeṣāṃ",
-              "segment_number": 58
+              "segment_number": 58,
+              "translated_text": "those for whom [everything] becomes a favor,"
             },
             {
               "tag": "seg",
@@ -1410,12 +1480,14 @@
                 "n": "d"
               },
               "text": "te dhanyāḥ khalu māntrikās",
-              "segment_number": 59
+              "segment_number": 59,
+              "translated_text": "those blessed ones are truly <s>māntrikas</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 60
+              "segment_number": 60,
+              "translated_text": "//"
             }
           ]
         }
@@ -1488,7 +1560,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_13"
+        "id": "NKv_13",
+        "label": "NKv 13"
       },
       "children": [
         {
@@ -1502,7 +1575,8 @@
                 "n": "a"
               },
               "text": "yāvad ajñānato maunam",
-              "segment_number": 61
+              "segment_number": 61,
+              "translated_text": "As long as silence [comes] from ignorance"
             },
             {
               "tag": "seg",
@@ -1511,7 +1585,8 @@
                 "n": "b"
               },
               "text": "ācāro vā vilakṣaṇas",
-              "segment_number": 62
+              "segment_number": 62,
+              "translated_text": "or conduct is peculiar,"
             }
           ]
         },
@@ -1526,7 +1601,8 @@
                 "n": "c"
               },
               "text": "tāvan māhātmyarūpeṇa",
-              "segment_number": 63
+              "segment_number": 63,
+              "translated_text": "so long it culminates in the form"
             },
             {
               "tag": "seg",
@@ -1535,12 +1611,14 @@
                 "n": "d"
               },
               "text": "paryavasyati māntrike",
-              "segment_number": 64
+              "segment_number": 64,
+              "translated_text": "of greatness for the sorcerer."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 65
+              "segment_number": 65,
+              "translated_text": "//"
             }
           ]
         }
@@ -1608,7 +1686,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_14"
+        "id": "NKv_14",
+        "label": "NKv 14"
       },
       "children": [
         {
@@ -1622,7 +1701,8 @@
                 "n": "a"
               },
               "text": "cārān vicārya daivajñair",
-              "segment_number": 66
+              "segment_number": 66,
+              "translated_text": "Having examined the planetary movements, astrologers"
             },
             {
               "tag": "seg",
@@ -1631,7 +1711,8 @@
                 "n": "b"
               },
               "text": "vaktavyaṃ bhūbhujāṃ phalam",
-              "segment_number": 67
+              "segment_number": 67,
+              "translated_text": "should pronounce the fate of kings;"
             }
           ]
         },
@@ -1646,7 +1727,8 @@
                 "n": "c"
               },
               "text": "grahacāraparijñānaṃ",
-              "segment_number": 68
+              "segment_number": 68,
+              "translated_text": "for knowledge of planetary motions"
             },
             {
               "tag": "seg",
@@ -1655,12 +1737,14 @@
                 "n": "d"
               },
               "text": "teṣām āvaśyakaṃ yatas",
-              "segment_number": 69
+              "segment_number": 69,
+              "translated_text": "is essential for them."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 70
+              "segment_number": 70,
+              "translated_text": "//"
             }
           ]
         }
@@ -1728,7 +1812,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_15"
+        "id": "NKv_15",
+        "label": "NKv 15"
       },
       "children": [
         {
@@ -1742,7 +1827,8 @@
                 "n": "a"
               },
               "text": "putra ity eva pitari",
-              "segment_number": 71
+              "segment_number": 71,
+              "translated_text": "'A son' if asked by the father,"
             },
             {
               "tag": "seg",
@@ -1751,7 +1837,8 @@
                 "n": "b"
               },
               "text": "kanyakety eva mātari",
-              "segment_number": 72
+              "segment_number": 72,
+              "translated_text": "'a daughter' if asked by the mother—"
             }
           ]
         },
@@ -1766,7 +1853,8 @@
                 "n": "c"
               },
               "text": "garbhapraśneṣu kathayan",
-              "segment_number": 73
+              "segment_number": 73,
+              "translated_text": "the astrologer who says thus in questions about pregnancy"
             },
             {
               "tag": "seg",
@@ -1775,12 +1863,14 @@
                 "n": "d"
               },
               "text": "daivajño vijayī bhavet",
-              "segment_number": 74
+              "segment_number": 74,
+              "translated_text": "shall be victorious."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 75
+              "segment_number": 75,
+              "translated_text": "//"
             }
           ]
         }
@@ -1848,7 +1938,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_16"
+        "id": "NKv_16",
+        "label": "NKv 16"
       },
       "children": [
         {
@@ -1862,7 +1953,8 @@
                 "n": "a"
               },
               "text": "āyuspraśne dīrgham āyur",
-              "segment_number": 76
+              "segment_number": 76,
+              "translated_text": "In questions about longevity, a long life"
             },
             {
               "tag": "seg",
@@ -1871,7 +1963,8 @@
                 "n": "b"
               },
               "text": "vācyaṃ mauhūrtikair janais",
-              "segment_number": 77
+              "segment_number": 77,
+              "translated_text": "should be predicted by the astrologers;"
             }
           ]
         },
@@ -1886,7 +1979,8 @@
                 "n": "c"
               },
               "text": "jīvanto bahumanyante",
-              "segment_number": 78
+              "segment_number": 78,
+              "translated_text": "the living will hold [them] in high regard—"
             },
             {
               "tag": "seg",
@@ -1895,12 +1989,14 @@
                 "n": "d"
               },
               "text": "mṛtāḥ prakṣyanti kaṃ punas",
-              "segment_number": 79
+              "segment_number": 79,
+              "translated_text": "and who, after dying, will question them again?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 80
+              "segment_number": 80,
+              "translated_text": "//"
             }
           ]
         }
@@ -1968,7 +2064,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_17"
+        "id": "NKv_17",
+        "label": "NKv 17"
       },
       "children": [
         {
@@ -1982,7 +2079,8 @@
                 "n": "a"
               },
               "text": "sarvaṃ koṭidvayopetaṃ",
-              "segment_number": 81
+              "segment_number": 81,
+              "translated_text": "Everything should be stated with two possibilities,"
             },
             {
               "tag": "seg",
@@ -1991,7 +2089,8 @@
                 "n": "b"
               },
               "text": "sarvaṃ kāladvayāvadhi",
-              "segment_number": 82
+              "segment_number": 82,
+              "translated_text": "everything within two time limits,"
             }
           ]
         },
@@ -2006,7 +2105,8 @@
                 "n": "c"
               },
               "text": "sarvaṃ vyāmiśram iva ca",
-              "segment_number": 83
+              "segment_number": 83,
+              "translated_text": "everything as if mixed—"
             },
             {
               "tag": "seg",
@@ -2015,12 +2115,14 @@
                 "n": "d"
               },
               "text": "vaktavyaṃ daivacintakais",
-              "segment_number": 84
+              "segment_number": 84,
+              "translated_text": "thus should diviners speak."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 85
+              "segment_number": 85,
+              "translated_text": "//"
             }
           ]
         }
@@ -2088,7 +2190,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_18"
+        "id": "NKv_18",
+        "label": "NKv 18"
       },
       "children": [
         {
@@ -2102,7 +2205,8 @@
                 "n": "a"
               },
               "text": "nirdhanānāṃ dhanāvāptiṃ",
-              "segment_number": 86
+              "segment_number": 86,
+              "translated_text": "Promising wealth to the poor,"
             },
             {
               "tag": "seg",
@@ -2111,7 +2215,8 @@
                 "n": "b"
               },
               "text": "dhaninām adhikaṃ dhanam",
-              "segment_number": 87
+              "segment_number": 87,
+              "translated_text": "and greater wealth to the wealthy—"
             }
           ]
         },
@@ -2126,7 +2231,8 @@
                 "n": "c"
               },
               "text": "bruvāṇāḥ sarvathā grāhyā",
-              "segment_number": 88
+              "segment_number": 88,
+              "translated_text": "speaking thus, astrologers"
             },
             {
               "tag": "seg",
@@ -2135,12 +2241,14 @@
                 "n": "d"
               },
               "text": "lokair jyautiṣikā janās",
-              "segment_number": 89
+              "segment_number": 89,
+              "translated_text": "are accepted by people in all cases."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 90
+              "segment_number": 90,
+              "translated_text": "//"
             }
           ]
         }
@@ -2208,7 +2316,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_19"
+        "id": "NKv_19",
+        "label": "NKv 19"
       },
       "children": [
         {
@@ -2222,7 +2331,8 @@
                 "n": "a"
               },
               "text": "śatasya lābhe tāmbūlaṃ",
-              "segment_number": 91
+              "segment_number": 91,
+              "translated_text": "A betel leaf for [predicting] the gain of a hundred,"
             },
             {
               "tag": "seg",
@@ -2231,7 +2341,8 @@
                 "n": "b"
               },
               "text": "sahasrasya tu bhojanam",
-              "segment_number": 92
+              "segment_number": 92,
+              "translated_text": "a meal for a thousand—"
             }
           ]
         },
@@ -2246,7 +2357,8 @@
                 "n": "c"
               },
               "text": "daivajñānām upālambho",
-              "segment_number": 93
+              "segment_number": 93,
+              "translated_text": "the reproach of astrologers"
             },
             {
               "tag": "seg",
@@ -2255,12 +2367,14 @@
                 "n": "d"
               },
               "text": "nityaḥ kāryaviparyaye",
-              "segment_number": 94
+              "segment_number": 94,
+              "translated_text": "is constant when events go awry."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 95
+              "segment_number": 95,
+              "translated_text": "//"
             }
           ]
         }
@@ -2328,7 +2442,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_20"
+        "id": "NKv_20",
+        "label": "NKv 20"
       },
       "children": [
         {
@@ -2342,7 +2457,8 @@
                 "n": "a"
               },
               "text": "api sāgaraparyantā",
-              "segment_number": 96
+              "segment_number": 96,
+              "translated_text": "Even the earth bounded by oceans"
             },
             {
               "tag": "seg",
@@ -2351,7 +2467,8 @@
                 "n": "b"
               },
               "text": "vicetavyā vasuṃdharā",
-              "segment_number": 97
+              "segment_number": 97,
+              "translated_text": "must be searched through,"
             }
           ]
         },
@@ -2366,7 +2483,8 @@
                 "n": "c"
               },
               "text": "deśo hy aratnimātre 'pi",
-              "segment_number": 98
+              "segment_number": 98,
+              "translated_text": "for there is no place, even of a cubit's measure,"
             },
             {
               "tag": "seg",
@@ -2375,12 +2493,14 @@
                 "n": "d"
               },
               "text": "nāsti daivajñavarjitas",
-              "segment_number": 99
+              "segment_number": 99,
+              "translated_text": "devoid of an astrologer."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 100
+              "segment_number": 100,
+              "translated_text": "//"
             }
           ]
         }
@@ -2448,7 +2568,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_21"
+        "id": "NKv_21",
+        "label": "NKv 21"
       },
       "children": [
         {
@@ -2462,7 +2583,8 @@
                 "n": "a"
               },
               "text": "vārān ke cid grahān ke cit",
-              "segment_number": 101
+              "segment_number": 101,
+              "translated_text": "Some know the weekdays, some the planets,"
             },
             {
               "tag": "seg",
@@ -2471,7 +2593,8 @@
                 "n": "b"
               },
               "text": "ke cid ṛkṣāṇi jānate",
-              "segment_number": 102
+              "segment_number": 102,
+              "translated_text": "some know the constellations;"
             }
           ]
         },
@@ -2486,7 +2609,8 @@
                 "n": "c"
               },
               "text": "tritayaṃ ye vijānanti",
-              "segment_number": 103
+              "segment_number": 103,
+              "translated_text": "those who know all three"
             },
             {
               "tag": "seg",
@@ -2495,12 +2619,14 @@
                 "n": "d"
               },
               "text": "te vācaspatayaḥ svayam",
-              "segment_number": 104
+              "segment_number": 104,
+              "translated_text": "are <s>Vācaspati</s> (Bṛhaspati, lord of speech) himself."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 105
+              "segment_number": 105,
+              "translated_text": "//"
             }
           ]
         }
@@ -2568,7 +2694,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_22"
+        "id": "NKv_22",
+        "label": "NKv 22"
       },
       "children": [
         {
@@ -2582,7 +2709,8 @@
                 "n": "a"
               },
               "text": "naimittikāḥ svapnadṛśo",
-              "segment_number": 106
+              "segment_number": 106,
+              "translated_text": "Omen-readers, dream-interpreters,"
             },
             {
               "tag": "seg",
@@ -2591,7 +2719,8 @@
                 "n": "b"
               },
               "text": "devatānām [[amī trayaḥ]]",
-              "segment_number": 107
+              "segment_number": 107,
+              "translated_text": "and oracles of deities—[[these three]]"
             }
           ]
         },
@@ -2606,7 +2735,8 @@
                 "n": "c"
               },
               "text": "nisargaśatravaḥ sṛṣṭā",
-              "segment_number": 108
+              "segment_number": 108,
+              "translated_text": "were created by nature as enemies"
             },
             {
               "tag": "seg",
@@ -2615,12 +2745,14 @@
                 "n": "d"
               },
               "text": "daivajñānām amī trayas",
-              "segment_number": 109
+              "segment_number": 109,
+              "translated_text": "of the astrologers, these three."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 110
+              "segment_number": 110,
+              "translated_text": "//"
             }
           ]
         }
@@ -2688,7 +2820,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_23"
+        "id": "NKv_23",
+        "label": "NKv 23"
       },
       "children": [
         {
@@ -2702,7 +2835,8 @@
                 "n": "a"
               },
               "text": "svasthair asādhyarogaiś ca",
-              "segment_number": 111
+              "segment_number": 111,
+              "translated_text": "From the healthy and the incurably ill,"
             },
             {
               "tag": "seg",
@@ -2711,7 +2845,8 @@
                 "n": "b"
               },
               "text": "jantubhir nāsti kiṃ cana",
-              "segment_number": 112
+              "segment_number": 112,
+              "translated_text": "there is nothing [to gain];"
             }
           ]
         },
@@ -2726,7 +2861,8 @@
                 "n": "c"
               },
               "text": "kātarā dīrgharogāś ca",
-              "segment_number": 113
+              "segment_number": 113,
+              "translated_text": "the timid and the chronically sick"
             },
             {
               "tag": "seg",
@@ -2735,12 +2871,14 @@
                 "n": "d"
               },
               "text": "bhiṣajāṃ bhāgyahetavas",
-              "segment_number": 114
+              "segment_number": 114,
+              "translated_text": "are the causes of fortune for physicians."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 115
+              "segment_number": 115,
+              "translated_text": "//"
             }
           ]
         }
@@ -2808,7 +2946,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_24"
+        "id": "NKv_24",
+        "label": "NKv 24"
       },
       "children": [
         {
@@ -2822,7 +2961,8 @@
                 "n": "a"
               },
               "text": "nātidhairyaṃ pradātavyaṃ",
-              "segment_number": 116
+              "segment_number": 116,
+              "translated_text": "Neither too much confidence should be given"
             },
             {
               "tag": "seg",
@@ -2831,7 +2971,8 @@
                 "n": "b"
               },
               "text": "nātibhītiś ca rogiṇi",
-              "segment_number": 117
+              "segment_number": 117,
+              "translated_text": "nor too much fear to the patient;"
             }
           ]
         },
@@ -2846,7 +2987,8 @@
                 "n": "c"
               },
               "text": "naiścintyān nādime dānaṃ",
-              "segment_number": 118
+              "segment_number": 118,
+              "translated_text": "from indifference, no gift [comes] at the beginning,"
             },
             {
               "tag": "seg",
@@ -2855,12 +2997,14 @@
                 "n": "d"
               },
               "text": "nairāśyād eva nāntime",
-              "segment_number": 119
+              "segment_number": 119,
+              "translated_text": "and from despair, none at the end either."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 120
+              "segment_number": 120,
+              "translated_text": "//"
             }
           ]
         }
@@ -2928,7 +3072,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_25"
+        "id": "NKv_25",
+        "label": "NKv 25"
       },
       "children": [
         {
@@ -2942,7 +3087,8 @@
                 "n": "a"
               },
               "text": "bhaiṣajyaṃ tu yathākāmaṃ",
-              "segment_number": 121
+              "segment_number": 121,
+              "translated_text": "Medicine may be prescribed at will,"
             },
             {
               "tag": "seg",
@@ -2951,7 +3097,8 @@
                 "n": "b"
               },
               "text": "pathyaṃ tu kaṭhinaṃ vadet",
-              "segment_number": 122
+              "segment_number": 122,
+              "translated_text": "but the regimen should be declared strict;"
             }
           ]
         },
@@ -2966,7 +3113,8 @@
                 "n": "c"
               },
               "text": "ārogyaṃ vaidyamāhātmyād",
-              "segment_number": 123
+              "segment_number": 123,
+              "translated_text": "recovery [is attributed] to the physician's greatness,"
             },
             {
               "tag": "seg",
@@ -2975,12 +3123,14 @@
                 "n": "d"
               },
               "text": "anyathātvam apathyatas",
-              "segment_number": 124
+              "segment_number": 124,
+              "translated_text": "failure to the patient's non-compliance."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 125
+              "segment_number": 125,
+              "translated_text": "//"
             }
           ]
         }
@@ -3048,7 +3198,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_26"
+        "id": "NKv_26",
+        "label": "NKv 26"
       },
       "children": [
         {
@@ -3062,7 +3213,8 @@
                 "n": "a"
               },
               "text": "nidānaṃ roganāmāni",
-              "segment_number": 126
+              "segment_number": 126,
+              "translated_text": "The etiology, the names of diseases,"
             },
             {
               "tag": "seg",
@@ -3071,7 +3223,8 @@
                 "n": "b"
               },
               "text": "sātmyāsātmye cikitsitam",
-              "segment_number": 127
+              "segment_number": 127,
+              "translated_text": "what is suitable and unsuitable, and the treatment—"
             }
           ]
         },
@@ -3086,7 +3239,8 @@
                 "n": "c"
               },
               "text": "sarvam apy upadekṣyanti",
-              "segment_number": 128
+              "segment_number": 128,
+              "translated_text": "all this will be taught"
             },
             {
               "tag": "seg",
@@ -3095,12 +3249,14 @@
                 "n": "d"
               },
               "text": "rogiṇaḥ sadane striyas",
-              "segment_number": 129
+              "segment_number": 129,
+              "translated_text": "by the women in the patient's house."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 130
+              "segment_number": 130,
+              "translated_text": "//"
             }
           ]
         }
@@ -3168,7 +3324,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_27"
+        "id": "NKv_27",
+        "label": "NKv 27"
       },
       "children": [
         {
@@ -3182,7 +3339,8 @@
                 "n": "a"
               },
               "text": "jṛmbhamāṇeṣu rogeṣu",
-              "segment_number": 131
+              "segment_number": 131,
+              "translated_text": "As diseases proliferate"
             },
             {
               "tag": "seg",
@@ -3191,7 +3349,8 @@
                 "n": "b"
               },
               "text": "mriyamāṇeṣu jantuṣu",
-              "segment_number": 132
+              "segment_number": 132,
+              "translated_text": "and creatures die,"
             }
           ]
         },
@@ -3206,7 +3365,8 @@
                 "n": "c"
               },
               "text": "rogatattveṣu śanakair",
-              "segment_number": 133
+              "segment_number": 133,
+              "translated_text": "physicians gradually become expert"
             },
             {
               "tag": "seg",
@@ -3215,12 +3375,14 @@
                 "n": "d"
               },
               "text": "vyutpadyante cikitsakās",
-              "segment_number": 134
+              "segment_number": 134,
+              "translated_text": "in the true nature of ailments."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 135
+              "segment_number": 135,
+              "translated_text": "//"
             }
           ]
         }
@@ -3288,7 +3450,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_28"
+        "id": "NKv_28",
+        "label": "NKv 28"
       },
       "children": [
         {
@@ -3302,7 +3465,8 @@
                 "n": "a"
               },
               "text": "pravartanārtham ārambhe",
-              "segment_number": 136
+              "segment_number": 136,
+              "translated_text": "At the beginning, to get things started;"
             },
             {
               "tag": "seg",
@@ -3311,7 +3475,8 @@
                 "n": "b"
               },
               "text": "madhye tv auṣadhahetave",
-              "segment_number": 137
+              "segment_number": 137,
+              "translated_text": "in the middle, on the pretext of medicine;"
             }
           ]
         },
@@ -3326,7 +3491,8 @@
                 "n": "c"
               },
               "text": "bahumānārtham ante ca",
-              "segment_number": 138
+              "segment_number": 138,
+              "translated_text": "and at the end, for gaining respect—"
             },
             {
               "tag": "seg",
@@ -3335,12 +3501,14 @@
                 "n": "d"
               },
               "text": "jihīrṣanti cikitsakās",
-              "segment_number": 139
+              "segment_number": 139,
+              "translated_text": "physicians seek to take [money]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 140
+              "segment_number": 140,
+              "translated_text": "//"
             }
           ]
         }
@@ -3408,7 +3576,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_29"
+        "id": "NKv_29",
+        "label": "NKv 29"
       },
       "children": [
         {
@@ -3422,7 +3591,8 @@
                 "n": "a"
               },
               "text": "lipsamāneṣu vaidyeṣu",
-              "segment_number": 141
+              "segment_number": 141,
+              "translated_text": "When physicians are eager to obtain [a patient],"
             },
             {
               "tag": "seg",
@@ -3431,7 +3601,8 @@
                 "n": "b"
               },
               "text": "cirād āsādya rogiṇam",
-              "segment_number": 142
+              "segment_number": 142,
+              "translated_text": "having finally found a sick person,"
             }
           ]
         },
@@ -3446,7 +3617,8 @@
                 "n": "c"
               },
               "text": "dāyādāḥ saṃprarohanti",
-              "segment_number": 143
+              "segment_number": 143,
+              "translated_text": "heirs sprout up [alongside],"
             },
             {
               "tag": "seg",
@@ -3455,12 +3627,14 @@
                 "n": "d"
               },
               "text": "daivajñā māntrikā api",
-              "segment_number": 144
+              "segment_number": 144,
+              "translated_text": "as do astrologers and sorcerers."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 145
+              "segment_number": 145,
+              "translated_text": "//"
             }
           ]
         }
@@ -3528,7 +3702,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_30"
+        "id": "NKv_30",
+        "label": "NKv 30"
       },
       "children": [
         {
@@ -3542,7 +3717,8 @@
                 "n": "a"
               },
               "text": "rogasyopakrame sāntvaṃ",
-              "segment_number": 146
+              "segment_number": 146,
+              "translated_text": "At the onset of illness, kind words;"
             },
             {
               "tag": "seg",
@@ -3551,7 +3727,8 @@
                 "n": "b"
               },
               "text": "madhye kiṃ cid dhanavyayas",
-              "segment_number": 147
+              "segment_number": 147,
+              "translated_text": "in the middle, some expenditure of money;"
             }
           ]
         },
@@ -3566,7 +3743,8 @@
                 "n": "c"
               },
               "text": "śanair anādaras śāntau",
-              "segment_number": 148
+              "segment_number": 148,
+              "translated_text": "gradually, indifference when cured—"
             },
             {
               "tag": "seg",
@@ -3575,12 +3753,14 @@
                 "n": "d"
               },
               "text": "snāto vaidyaṃ na paśyati",
-              "segment_number": 149
+              "segment_number": 149,
+              "translated_text": "once bathed [in health], one does not see the physician."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 150
+              "segment_number": 150,
+              "translated_text": "//"
             }
           ]
         }
@@ -3648,7 +3828,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_31"
+        "id": "NKv_31",
+        "label": "NKv 31"
       },
       "children": [
         {
@@ -3662,7 +3843,8 @@
                 "n": "a"
               },
               "text": "daivajñatvaṃ māntrikatā",
-              "segment_number": 151
+              "segment_number": 151,
+              "translated_text": "Astrology, sorcery,"
             },
             {
               "tag": "seg",
@@ -3671,7 +3853,8 @@
                 "n": "b"
               },
               "text": "bhaiṣajyaṃ cāṭukauśalam",
-              "segment_number": 152
+              "segment_number": 152,
+              "translated_text": "medicine, and the skill of flattery—"
             }
           ]
         },
@@ -3686,7 +3869,8 @@
                 "n": "c"
               },
               "text": "ekaikam arthalābhāya",
-              "segment_number": 153
+              "segment_number": 153,
+              "translated_text": "each one [suffices] for gaining wealth,"
             },
             {
               "tag": "seg",
@@ -3695,12 +3879,14 @@
                 "n": "d"
               },
               "text": "dvitriyogas tu durlabhas",
-              "segment_number": 154
+              "segment_number": 154,
+              "translated_text": "but a combination of two or three is rare."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 155
+              "segment_number": 155,
+              "translated_text": "//"
             }
           ]
         }
@@ -3768,7 +3954,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_32"
+        "id": "NKv_32",
+        "label": "NKv 32"
       },
       "children": [
         {
@@ -3782,7 +3969,8 @@
                 "n": "a"
               },
               "text": "anṛtaṃ cāṭuvādaś ca",
-              "segment_number": 156
+              "segment_number": 156,
+              "translated_text": "Falsehood and flattering speech—"
             },
             {
               "tag": "seg",
@@ -3791,7 +3979,8 @@
                 "n": "b"
               },
               "text": "dhanayogo mahān ayam",
-              "segment_number": 157
+              "segment_number": 157,
+              "translated_text": "this is a great combination for wealth;"
             }
           ]
         },
@@ -3806,7 +3995,8 @@
                 "n": "c"
               },
               "text": "satyaṃ vaiduṣyam ity eṣa",
-              "segment_number": 158
+              "segment_number": 158,
+              "translated_text": "truth and learning—this"
             },
             {
               "tag": "seg",
@@ -3815,12 +4005,14 @@
                 "n": "d"
               },
               "text": "yogo dāridryakārakas",
-              "segment_number": 159
+              "segment_number": 159,
+              "translated_text": "is the combination that causes poverty."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 160
+              "segment_number": 160,
+              "translated_text": "//"
             }
           ]
         }
@@ -3888,7 +4080,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_33"
+        "id": "NKv_33",
+        "label": "NKv 33"
       },
       "children": [
         {
@@ -3902,7 +4095,8 @@
                 "n": "a"
               },
               "text": "kātaryaṃ durvinītatvaṃ",
-              "segment_number": 161
+              "segment_number": 161,
+              "translated_text": "Timidity, lack of discipline,"
             },
             {
               "tag": "seg",
@@ -3911,7 +4105,8 @@
                 "n": "b"
               },
               "text": "kārpaṇyam avivekatām",
-              "segment_number": 162
+              "segment_number": 162,
+              "translated_text": "wretchedness, and lack of discernment—"
             }
           ]
         },
@@ -3926,7 +4121,8 @@
                 "n": "c"
               },
               "text": "sarvaṃ mārjanti kavayaḥ",
-              "segment_number": 163
+              "segment_number": 163,
+              "translated_text": "all these are cleansed by poets"
             },
             {
               "tag": "seg",
@@ -3935,12 +4131,14 @@
                 "n": "d"
               },
               "text": "śālīnāṃ muṣṭikiṃkarās",
-              "segment_number": 164
+              "segment_number": 164,
+              "translated_text": "who are slaves to the fistful [of grain] from the wealthy."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 165
+              "segment_number": 165,
+              "translated_text": "//"
             }
           ]
         }
@@ -4008,7 +4206,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_34"
+        "id": "NKv_34",
+        "label": "NKv 34"
       },
       "children": [
         {
@@ -4022,7 +4221,8 @@
                 "n": "a"
               },
               "text": "na kāraṇam apekṣante",
-              "segment_number": 166
+              "segment_number": 166,
+              "translated_text": "Poets, ready to praise,"
             },
             {
               "tag": "seg",
@@ -4031,7 +4231,8 @@
                 "n": "b"
               },
               "text": "kavayaḥ stotum udyatās",
-              "segment_number": 167
+              "segment_number": 167,
+              "translated_text": "do not look for a reason;"
             }
           ]
         },
@@ -4046,7 +4247,8 @@
                 "n": "c"
               },
               "text": "kiṃ cid astuvatām teṣāṃ",
-              "segment_number": 168
+              "segment_number": 168,
+              "translated_text": "even if there is nothing to praise,"
             },
             {
               "tag": "seg",
@@ -4055,12 +4257,14 @@
                 "n": "d"
               },
               "text": "jihvā phuraphurāyate",
-              "segment_number": 169
+              "segment_number": 169,
+              "translated_text": "their tongue quivers [with eagerness]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 170
+              "segment_number": 170,
+              "translated_text": "//"
             }
           ]
         }
@@ -4128,7 +4332,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_35"
+        "id": "NKv_35",
+        "label": "NKv 35"
       },
       "children": [
         {
@@ -4142,7 +4347,8 @@
                 "n": "a"
               },
               "text": "stutaṃ stuvanti kavayo",
-              "segment_number": 171
+              "segment_number": 171,
+              "translated_text": "Poets praise what has already been praised,"
             },
             {
               "tag": "seg",
@@ -4151,7 +4357,8 @@
                 "n": "b"
               },
               "text": "na svato guṇadarśinas",
-              "segment_number": 172
+              "segment_number": 172,
+              "translated_text": "not discerning qualities on their own;"
             }
           ]
         },
@@ -4166,7 +4373,8 @@
                 "n": "c"
               },
               "text": "kītaḥ kaś cid alir nāma",
-              "segment_number": 173
+              "segment_number": 173,
+              "translated_text": "there is a certain insect called a bee—"
             },
             {
               "tag": "seg",
@@ -4175,12 +4383,14 @@
                 "n": "d"
               },
               "text": "kiyatī tatra varṇanā",
-              "segment_number": 174
+              "segment_number": 174,
+              "translated_text": "how much description [can be given] of that?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 175
+              "segment_number": 175,
+              "translated_text": "//"
             }
           ]
         }
@@ -4248,7 +4458,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_36"
+        "id": "NKv_36",
+        "label": "NKv 36"
       },
       "children": [
         {
@@ -4262,7 +4473,8 @@
                 "n": "a"
               },
               "text": "ekaiva kavitā puṃsāṃ",
-              "segment_number": 176
+              "segment_number": 176,
+              "translated_text": "A single poem of a man"
             },
             {
               "tag": "seg",
@@ -4271,7 +4483,8 @@
                 "n": "b"
               },
               "text": "grāmāyāśvāya hastine",
-              "segment_number": 177
+              "segment_number": 177,
+              "translated_text": "serves for a village, for a horse, for an elephant,"
             }
           ]
         },
@@ -4286,7 +4499,8 @@
                 "n": "c"
               },
               "text": "antato 'nnāya vastrāya",
-              "segment_number": 178
+              "segment_number": 178,
+              "translated_text": "and ultimately for food, for garments,"
             },
             {
               "tag": "seg",
@@ -4295,12 +4509,14 @@
                 "n": "d"
               },
               "text": "tāmbūlāya ca kalpate",
-              "segment_number": 179
+              "segment_number": 179,
+              "translated_text": "and for betel."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 180
+              "segment_number": 180,
+              "translated_text": "//"
             }
           ]
         }
@@ -4368,7 +4584,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_37"
+        "id": "NKv_37",
+        "label": "NKv 37"
       },
       "children": [
         {
@@ -4382,7 +4599,8 @@
                 "n": "a"
               },
               "text": "śabdākhyam aparaṃ brahma",
-              "segment_number": 181
+              "segment_number": 181,
+              "translated_text": "The supreme <s>Brahman</s> called 'word,'"
             },
             {
               "tag": "seg",
@@ -4391,7 +4609,8 @@
                 "n": "b"
               },
               "text": "saṃdarbheṇa pariṣkṛtam",
-              "segment_number": 182
+              "segment_number": 182,
+              "translated_text": "refined through composition,"
             }
           ]
         },
@@ -4406,7 +4625,8 @@
                 "n": "c"
               },
               "text": "vikrīyate katipayair",
-              "segment_number": 183
+              "segment_number": 183,
+              "translated_text": "is sold by some"
             },
             {
               "tag": "seg",
@@ -4415,12 +4635,14 @@
                 "n": "d"
               },
               "text": "vṛthānyair viniyujyate",
-              "segment_number": 184
+              "segment_number": 184,
+              "translated_text": "and wasted in vain by others."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 185
+              "segment_number": 185,
+              "translated_text": "//"
             }
           ]
         }
@@ -4488,7 +4710,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_38"
+        "id": "NKv_38",
+        "label": "NKv 38"
       },
       "children": [
         {
@@ -4502,7 +4725,8 @@
                 "n": "a"
               },
               "text": "varṇayanti narābhāsān",
-              "segment_number": 186
+              "segment_number": 186,
+              "translated_text": "Those people who, even having obtained <s>Vāṇī</s> (the goddess of speech), describe semblances of men—"
             },
             {
               "tag": "seg",
@@ -4511,7 +4735,8 @@
                 "n": "b"
               },
               "text": "vāṇīṃ labdhvāpi ye janās",
-              "segment_number": 187
+              "segment_number": 187,
+              "translated_text": "[are like those who,]"
             }
           ]
         },
@@ -4526,7 +4751,8 @@
                 "n": "c"
               },
               "text": "labdhvāpi kāmadhenuṃ te",
-              "segment_number": 188
+              "segment_number": 188,
+              "translated_text": "even having obtained the wish-fulfilling cow,"
             },
             {
               "tag": "seg",
@@ -4535,12 +4761,14 @@
                 "n": "d"
               },
               "text": "lāṅgale viniyuñjate",
-              "segment_number": 189
+              "segment_number": 189,
+              "translated_text": "yoke her to a plough."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 190
+              "segment_number": 190,
+              "translated_text": "//"
             }
           ]
         }
@@ -4608,7 +4836,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_39"
+        "id": "NKv_39",
+        "label": "NKv 39"
       },
       "children": [
         {
@@ -4622,7 +4851,8 @@
                 "n": "a"
               },
               "text": "praśaṃsanto narābhāsān",
-              "segment_number": 191
+              "segment_number": 191,
+              "translated_text": "Praising semblances of men,"
             },
             {
               "tag": "seg",
@@ -4631,7 +4861,8 @@
                 "n": "b"
               },
               "text": "pralapanto 'nyathānyathā",
-              "segment_number": 192
+              "segment_number": 192,
+              "translated_text": "prattling this way and that—"
             }
           ]
         },
@@ -4646,7 +4877,8 @@
                 "n": "c"
               },
               "text": "kathaṃ tarantu kavayaḥ",
-              "segment_number": 193
+              "segment_number": 193,
+              "translated_text": "how shall poets cross over,"
             },
             {
               "tag": "seg",
@@ -4655,12 +4887,14 @@
                 "n": "d"
               },
               "text": "kāmapāramyavādinas",
-              "segment_number": 194
+              "segment_number": 194,
+              "translated_text": "[they who are] speakers of the fulfillment of desires?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 195
+              "segment_number": 195,
+              "translated_text": "//"
             }
           ]
         }
@@ -4728,7 +4962,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_40"
+        "id": "NKv_40",
+        "label": "NKv 40"
       },
       "children": [
         {
@@ -4742,7 +4977,8 @@
                 "n": "a"
               },
               "text": "yat sandarbhe yad ullekhe",
-              "segment_number": 196
+              "segment_number": 196,
+              "translated_text": "The mind that is absorbed"
             },
             {
               "tag": "seg",
@@ -4751,7 +4987,8 @@
                 "n": "b"
               },
               "text": "yad vyaṅgye nibhṛtaṃ manas",
-              "segment_number": 197
+              "segment_number": 197,
+              "translated_text": "in composition, in description, in suggestion—"
             }
           ]
         },
@@ -4766,7 +5003,8 @@
                 "n": "c"
               },
               "text": "samādher api taj jyāyāḥ",
-              "segment_number": 198
+              "segment_number": 198,
+              "translated_text": "that is superior even to <s>samādhi</s> (deep meditation),"
             },
             {
               "tag": "seg",
@@ -4775,12 +5013,14 @@
                 "n": "d"
               },
               "text": "śaṃkaro yadi varṇyate",
-              "segment_number": 199
+              "segment_number": 199,
+              "translated_text": "if <s>Śaṃkara</s> (Śiva) is the subject described."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 200
+              "segment_number": 200,
+              "translated_text": "//"
             }
           ]
         }
@@ -4846,12 +5086,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p20352"
       },
-      "text": "[bandhavaḥ]",
-      "segment_number": 201
+      "text": "bandhavaḥ",
+      "segment_number": 201,
+      "translated_text": "Relatives"
     },
     {
       "tag": "note",
@@ -4861,16 +5102,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[bandhavaḥ]"
+          "text": "bandhavaḥ"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_41"
+        "id": "NKv_41",
+        "label": "NKv 41"
       },
       "children": [
         {
@@ -4884,7 +5126,8 @@
                 "n": "a"
               },
               "text": "gṛhiṇī bhaginī tasyāḥ",
-              "segment_number": 202
+              "segment_number": 202,
+              "translated_text": "The wife, her sister,"
             },
             {
               "tag": "seg",
@@ -4893,7 +5136,8 @@
                 "n": "b"
               },
               "text": "śvaśurau śyāla ity api",
-              "segment_number": 203
+              "segment_number": 203,
+              "translated_text": "the parents-in-law, and the brother-in-law—"
             }
           ]
         },
@@ -4908,7 +5152,8 @@
                 "n": "c"
               },
               "text": "prāṇinām kalinā sṛṣṭāḥ",
-              "segment_number": 204
+              "segment_number": 204,
+              "translated_text": "by <s>Kali</s> (the age of strife) were created for living beings"
             },
             {
               "tag": "seg",
@@ -4917,12 +5162,14 @@
                 "n": "d"
               },
               "text": "pañca prāṇā ime 'pare",
-              "segment_number": 205
+              "segment_number": 205,
+              "translated_text": "these five other vital breaths."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 206
+              "segment_number": 206,
+              "translated_text": "//"
             }
           ]
         }
@@ -4990,7 +5237,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_42"
+        "id": "NKv_42",
+        "label": "NKv 42"
       },
       "children": [
         {
@@ -5004,7 +5252,8 @@
                 "n": "a"
               },
               "text": "jāmātaro bhāgineyā",
-              "segment_number": 207
+              "segment_number": 207,
+              "translated_text": "Sons-in-law, nephews,"
             },
             {
               "tag": "seg",
@@ -5013,7 +5262,8 @@
                 "n": "b"
               },
               "text": "mātulā dārabāndhavās",
-              "segment_number": 208
+              "segment_number": 208,
+              "translated_text": "maternal uncles, and the wife's relatives—"
             }
           ]
         },
@@ -5028,7 +5278,8 @@
                 "n": "c"
               },
               "text": "ajñātā eva gṛhiṇāṃ",
-              "segment_number": 209
+              "segment_number": 209,
+              "translated_text": "unknown to the householders,"
             },
             {
               "tag": "seg",
@@ -5037,12 +5288,14 @@
                 "n": "d"
               },
               "text": "bhakṣayanty ākhuvad gṛhe",
-              "segment_number": 210
+              "segment_number": 210,
+              "translated_text": "they devour [the household] like rats in the house."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 211
+              "segment_number": 211,
+              "translated_text": "//"
             }
           ]
         }
@@ -5110,7 +5363,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_43"
+        "id": "NKv_43",
+        "label": "NKv 43"
       },
       "children": [
         {
@@ -5124,7 +5378,8 @@
                 "n": "a"
               },
               "text": "mātulasya balaṃ mātā",
-              "segment_number": 212
+              "segment_number": 212,
+              "translated_text": "The mother is the strength of the maternal uncle,"
             },
             {
               "tag": "seg",
@@ -5133,7 +5388,8 @@
                 "n": "b"
               },
               "text": "jāmātur duhitā balam",
-              "segment_number": 213
+              "segment_number": 213,
+              "translated_text": "the daughter is the strength of the son-in-law,"
             }
           ]
         },
@@ -5148,7 +5404,8 @@
                 "n": "c"
               },
               "text": "śvaśurasya balaṃ bhāryā",
-              "segment_number": 214
+              "segment_number": 214,
+              "translated_text": "the wife is the strength of the father-in-law,"
             },
             {
               "tag": "seg",
@@ -5157,12 +5414,14 @@
                 "n": "d"
               },
               "text": "svayam evātither balam",
-              "segment_number": 215
+              "segment_number": 215,
+              "translated_text": "and the guest himself is his own strength."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 216
+              "segment_number": 216,
+              "translated_text": "//"
             }
           ]
         }
@@ -5230,7 +5489,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_44"
+        "id": "NKv_44",
+        "label": "NKv 44"
       },
       "children": [
         {
@@ -5244,7 +5504,8 @@
                 "n": "a"
               },
               "text": "jāmātur vakratā tāvad",
-              "segment_number": 217
+              "segment_number": 217,
+              "translated_text": "The son-in-law's crookedness lasts"
             },
             {
               "tag": "seg",
@@ -5253,7 +5514,8 @@
                 "n": "b"
               },
               "text": "yāvac chyālasya bālatā",
-              "segment_number": 218
+              "segment_number": 218,
+              "translated_text": "only as long as the brother-in-law is a child;"
             }
           ]
         },
@@ -5268,7 +5530,8 @@
                 "n": "c"
               },
               "text": "prabudhyamāne sāralyaṃ",
-              "segment_number": 219
+              "segment_number": 219,
+              "translated_text": "when he begins to awaken, simplicity [appears];"
             },
             {
               "tag": "seg",
@@ -5277,12 +5540,14 @@
                 "n": "d"
               },
               "text": "prabuddhe 'smin palāyanam",
-              "segment_number": 220
+              "segment_number": 220,
+              "translated_text": "when he is fully awakened, flight."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 221
+              "segment_number": 221,
+              "translated_text": "//"
             }
           ]
         }
@@ -5350,7 +5615,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_45"
+        "id": "NKv_45",
+        "label": "NKv 45"
       },
       "children": [
         {
@@ -5364,7 +5630,8 @@
                 "n": "a"
               },
               "text": "bhāryā jyeṣṭhā śiśuḥ śyālaḥ",
-              "segment_number": 222
+              "segment_number": 222,
+              "translated_text": "The wife is the elder, the brother-in-law is a child,"
             },
             {
               "tag": "seg",
@@ -5373,7 +5640,8 @@
                 "n": "b"
               },
               "text": "śvaśrūḥ svātantryavartinī",
-              "segment_number": 223
+              "segment_number": 223,
+              "translated_text": "the mother-in-law acts independently,"
             }
           ]
         },
@@ -5388,7 +5656,8 @@
                 "n": "c"
               },
               "text": "śvaśuras tu pravāsīti",
-              "segment_number": 224
+              "segment_number": 224,
+              "translated_text": "and the father-in-law is abroad—"
             },
             {
               "tag": "seg",
@@ -5397,12 +5666,14 @@
                 "n": "d"
               },
               "text": "jāmātur bhāgyadhoraṇī",
-              "segment_number": 225
+              "segment_number": 225,
+              "translated_text": "such is the son-in-law's arc of fortune."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 226
+              "segment_number": 226,
+              "translated_text": "//"
             }
           ]
         }
@@ -5470,7 +5741,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_46"
+        "id": "NKv_46",
+        "label": "NKv 46"
       },
       "children": [
         {
@@ -5484,7 +5756,8 @@
                 "n": "a"
               },
               "text": "bhūṣaṇair vāsanaiḥ pātraiḥ",
-              "segment_number": 227
+              "segment_number": 227,
+              "translated_text": "With ornaments, garments, and vessels,"
             },
             {
               "tag": "seg",
@@ -5493,7 +5766,8 @@
                 "n": "b"
               },
               "text": "putrāṇām upalālanais",
-              "segment_number": 228
+              "segment_number": 228,
+              "translated_text": "and with caressing of the children—"
             }
           ]
         },
@@ -5508,7 +5782,8 @@
                 "n": "c"
               },
               "text": "sakṛd āgatya gacchantī",
-              "segment_number": 229
+              "segment_number": 229,
+              "translated_text": "coming just once and departing,"
             },
             {
               "tag": "seg",
@@ -5517,12 +5792,14 @@
                 "n": "d"
               },
               "text": "kanyā nirmārṣṭi mandiram",
-              "segment_number": 230
+              "segment_number": 230,
+              "translated_text": "the daughter sweeps the house clean."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 231
+              "segment_number": 231,
+              "translated_text": "//"
             }
           ]
         }
@@ -5590,7 +5867,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_47"
+        "id": "NKv_47",
+        "label": "NKv 47"
       },
       "children": [
         {
@@ -5604,7 +5882,8 @@
                 "n": "a"
               },
               "text": "gṛhiṇī svajanaṃ vakti",
-              "segment_number": 232
+              "segment_number": 232,
+              "translated_text": "The wife calls her own relatives"
             },
             {
               "tag": "seg",
@@ -5613,7 +5892,8 @@
                 "n": "b"
               },
               "text": "śuṣkāhāraṃ mitāśanam",
-              "segment_number": 233
+              "segment_number": 233,
+              "translated_text": "eaters of dry food and sparing eaters,"
             }
           ]
         },
@@ -5628,7 +5908,8 @@
                 "n": "c"
               },
               "text": "patipakṣyāṃs tu bahvāśān",
-              "segment_number": 234
+              "segment_number": 234,
+              "translated_text": "but those on the husband's side, gluttons,"
             },
             {
               "tag": "seg",
@@ -5637,12 +5918,14 @@
                 "n": "d"
               },
               "text": "kṣīrapāṃs taskarān api",
-              "segment_number": 235
+              "segment_number": 235,
+              "translated_text": "milk-drinkers, and even thieves."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 236
+              "segment_number": 236,
+              "translated_text": "//"
             }
           ]
         }
@@ -5710,7 +5993,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_48"
+        "id": "NKv_48",
+        "label": "NKv 48"
       },
       "children": [
         {
@@ -5724,7 +6008,8 @@
                 "n": "a"
               },
               "text": "bhārye dve putraśālinyau",
-              "segment_number": 237
+              "segment_number": 237,
+              "translated_text": "Two wives with sons,"
             },
             {
               "tag": "seg",
@@ -5733,7 +6018,8 @@
                 "n": "b"
               },
               "text": "bhaginī pativarjitā",
-              "segment_number": 238
+              "segment_number": 238,
+              "translated_text": "a sister without a husband—"
             }
           ]
         },
@@ -5748,7 +6034,8 @@
                 "n": "c"
               },
               "text": "aśrāntakalaho nāma",
-              "segment_number": 239
+              "segment_number": 239,
+              "translated_text": "'Unending Quarrel' is the name"
             },
             {
               "tag": "seg",
@@ -5757,12 +6044,14 @@
                 "n": "d"
               },
               "text": "yogo 'yaṃ gṛhamedhinām",
-              "segment_number": 240
+              "segment_number": 240,
+              "translated_text": "of this combination for householders."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 241
+              "segment_number": 241,
+              "translated_text": "//"
             }
           ]
         }
@@ -5830,7 +6119,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_49"
+        "id": "NKv_49",
+        "label": "NKv 49"
       },
       "children": [
         {
@@ -5844,7 +6134,8 @@
                 "n": "a"
               },
               "text": "bhārye dve bahavaḥ putrā",
-              "segment_number": 242
+              "segment_number": 242,
+              "translated_text": "Two wives, many sons,"
             },
             {
               "tag": "seg",
@@ -5853,7 +6144,8 @@
                 "n": "b"
               },
               "text": "dāridryaṃ rogasaṃbhavas",
-              "segment_number": 243
+              "segment_number": 243,
+              "translated_text": "poverty, the onset of disease,"
             }
           ]
         },
@@ -5868,7 +6160,8 @@
                 "n": "c"
               },
               "text": "jīrṇau ca mātāpitarāv",
-              "segment_number": 244
+              "segment_number": 244,
+              "translated_text": "and aged mother and father—"
             },
             {
               "tag": "seg",
@@ -5877,12 +6170,14 @@
                 "n": "d"
               },
               "text": "ekaikaṃ narakādhikam",
-              "segment_number": 245
+              "segment_number": 245,
+              "translated_text": "each one is worse than hell."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 246
+              "segment_number": 246,
+              "translated_text": "//"
             }
           ]
         }
@@ -5948,12 +6243,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p22699"
       },
-      "text": "[uttamaṛṇāḥ]",
-      "segment_number": 247
+      "text": "uttamaṛṇāḥ",
+      "segment_number": 247,
+      "translated_text": "Creditors"
     },
     {
       "tag": "note",
@@ -5963,16 +6259,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[uttama-ṛṇāḥ]"
+          "text": "uttama-ṛṇāḥ"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_50"
+        "id": "NKv_50",
+        "label": "NKv 50"
       },
       "children": [
         {
@@ -5986,7 +6283,8 @@
                 "n": "a"
               },
               "text": "smṛte sīdanti gātrāṇi",
-              "segment_number": 248
+              "segment_number": 248,
+              "translated_text": "At [their] mere recollection, the limbs grow feeble;"
             },
             {
               "tag": "seg",
@@ -5995,7 +6293,8 @@
                 "n": "b"
               },
               "text": "dṛṣṭe prajñā vinaśyati",
-              "segment_number": 249
+              "segment_number": 249,
+              "translated_text": "at [their] sight, reason is destroyed—"
             }
           ]
         },
@@ -6010,7 +6309,8 @@
                 "n": "c"
               },
               "text": "aho mahad idaṃ bhūtam",
-              "segment_number": 250
+              "segment_number": 250,
+              "translated_text": "ah, how great is this specter"
             },
             {
               "tag": "seg",
@@ -6019,12 +6319,14 @@
                 "n": "d"
               },
               "text": "uttamarṇābhiśābdhitam",
-              "segment_number": 251
+              "segment_number": 251,
+              "translated_text": "called the creditor!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 252
+              "segment_number": 252,
+              "translated_text": "//"
             }
           ]
         }
@@ -6092,7 +6394,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_51"
+        "id": "NKv_51",
+        "label": "NKv 51"
       },
       "children": [
         {
@@ -6106,7 +6409,8 @@
                 "n": "a"
               },
               "text": "antako 'pi hi jantūnām",
-              "segment_number": 253
+              "segment_number": 253,
+              "translated_text": "Even <s>Antaka</s> (Death) indeed waits"
             },
             {
               "tag": "seg",
@@ -6115,7 +6419,8 @@
                 "n": "b"
               },
               "text": "antakālam apekṣate",
-              "segment_number": 254
+              "segment_number": 254,
+              "translated_text": "for the final hour of creatures;"
             }
           ]
         },
@@ -6130,7 +6435,8 @@
                 "n": "c"
               },
               "text": "na kālaniyamaḥ kaś cid",
-              "segment_number": 255
+              "segment_number": 255,
+              "translated_text": "but no restriction of time whatsoever"
             },
             {
               "tag": "seg",
@@ -6139,12 +6445,14 @@
                 "n": "d"
               },
               "text": "uttamārṇasya vidyate",
-              "segment_number": 256
+              "segment_number": 256,
+              "translated_text": "exists for the creditor."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 257
+              "segment_number": 257,
+              "translated_text": "//"
             }
           ]
         }
@@ -6212,7 +6520,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_52"
+        "id": "NKv_52",
+        "label": "NKv 52"
       },
       "children": [
         {
@@ -6226,7 +6535,8 @@
                 "n": "a"
               },
               "text": "na paśyāmo mukhe daṃṣṭrāṃ",
-              "segment_number": 258
+              "segment_number": 258,
+              "translated_text": "We see no fangs in his mouth,"
             },
             {
               "tag": "seg",
@@ -6235,7 +6545,8 @@
                 "n": "b"
               },
               "text": "na pāśaṃ vā karāñjale",
-              "segment_number": 259
+              "segment_number": 259,
+              "translated_text": "nor a noose in his hand;"
             }
           ]
         },
@@ -6250,7 +6561,8 @@
                 "n": "c"
               },
               "text": "uttamārṇam avekṣyaiva",
-              "segment_number": 260
+              "segment_number": 260,
+              "translated_text": "yet merely upon beholding the creditor,"
             },
             {
               "tag": "seg",
@@ -6259,12 +6571,14 @@
                 "n": "d"
               },
               "text": "tathāpy udvejite manas",
-              "segment_number": 261
+              "segment_number": 261,
+              "translated_text": "the mind is nonetheless agitated."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 262
+              "segment_number": 262,
+              "translated_text": "//"
             }
           ]
         }
@@ -6330,12 +6644,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p23505"
       },
-      "text": "[dāridryam]",
-      "segment_number": 263
+      "text": "dāridryam",
+      "segment_number": 263,
+      "translated_text": "Poverty"
     },
     {
       "tag": "note",
@@ -6345,16 +6660,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[dāridryam]"
+          "text": "dāridryam"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_53"
+        "id": "NKv_53",
+        "label": "NKv 53"
       },
       "children": [
         {
@@ -6368,7 +6684,8 @@
                 "n": "a"
               },
               "text": "śatrau sāntvaṃ pratīkāraḥ",
-              "segment_number": 264
+              "segment_number": 264,
+              "translated_text": "Conciliation toward an enemy, remedy"
             },
             {
               "tag": "seg",
@@ -6377,7 +6694,8 @@
                 "n": "b"
               },
               "text": "sarvarogeṣu bheṣajam",
-              "segment_number": 265
+              "segment_number": 265,
+              "translated_text": "for all diseases, meditation on <s>Mṛtyuñjaya</s> (conqueror of death) at death—"
             }
           ]
         },
@@ -6392,7 +6710,8 @@
                 "n": "c"
               },
               "text": "mṛtyau mṛtyuñjayadhyānaṃ",
-              "segment_number": 266
+              "segment_number": 266,
+              "translated_text": "but against poverty,"
             },
             {
               "tag": "seg",
@@ -6401,12 +6720,14 @@
                 "n": "d"
               },
               "text": "dāridrye tu na kiṃ cana",
-              "segment_number": 267
+              "segment_number": 267,
+              "translated_text": "there is nothing at all."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 268
+              "segment_number": 268,
+              "translated_text": "//"
             }
           ]
         }
@@ -6474,7 +6795,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_54"
+        "id": "NKv_54",
+        "label": "NKv 54"
       },
       "children": [
         {
@@ -6488,7 +6810,8 @@
                 "n": "a"
               },
               "text": "śaktiṃ karoti saṃcāre",
-              "segment_number": 269
+              "segment_number": 269,
+              "translated_text": "It gives strength for wandering,"
             },
             {
               "tag": "seg",
@@ -6497,7 +6820,8 @@
                 "n": "b"
               },
               "text": "śītoṣṇe marṣayaty api",
-              "segment_number": 270
+              "segment_number": 270,
+              "translated_text": "it makes one endure cold and heat,"
             }
           ]
         },
@@ -6512,7 +6836,8 @@
                 "n": "c"
               },
               "text": "dīpayaty udare vahniṃ",
-              "segment_number": 271
+              "segment_number": 271,
+              "translated_text": "it kindles the fire in the belly—"
             },
             {
               "tag": "seg",
@@ -6521,12 +6846,14 @@
                 "n": "d"
               },
               "text": "dāridryaṃ paramauṣadham",
-              "segment_number": 272
+              "segment_number": 272,
+              "translated_text": "poverty is the supreme medicine."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 273
+              "segment_number": 273,
+              "translated_text": "//"
             }
           ]
         }
@@ -6594,7 +6921,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_55"
+        "id": "NKv_55",
+        "label": "NKv 55"
       },
       "children": [
         {
@@ -6608,7 +6936,8 @@
                 "n": "a"
               },
               "text": "giraṃ skhalantīṃ mīlantīṃ",
-              "segment_number": 274
+              "segment_number": 274,
+              "translated_text": "Speech that falters, eyes that blink,"
             },
             {
               "tag": "seg",
@@ -6617,7 +6946,8 @@
                 "n": "b"
               },
               "text": "dṛṣṭiṃ pādau visaṃsthulau",
-              "segment_number": 275
+              "segment_number": 275,
+              "translated_text": "feet that stumble—"
             }
           ]
         },
@@ -6632,7 +6962,8 @@
                 "n": "c"
               },
               "text": "protsāhayati yācñāyāṃ",
-              "segment_number": 276
+              "segment_number": 276,
+              "translated_text": "poverty, like a king's command, drives one forward"
             },
             {
               "tag": "seg",
@@ -6641,12 +6972,14 @@
                 "n": "d"
               },
               "text": "rājājñeva daridratā",
-              "segment_number": 277
+              "segment_number": 277,
+              "translated_text": "in the act of begging."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 278
+              "segment_number": 278,
+              "translated_text": "//"
             }
           ]
         }
@@ -6719,7 +7052,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_56"
+        "id": "NKv_56",
+        "label": "NKv 56"
       },
       "children": [
         {
@@ -6733,7 +7067,8 @@
                 "n": "a"
               },
               "text": "jīryanti rājavidveṣā",
-              "segment_number": 279
+              "segment_number": 279,
+              "translated_text": "Offenses against kings decay,"
             },
             {
               "tag": "seg",
@@ -6742,7 +7077,8 @@
                 "n": "b"
               },
               "text": "jīryanty avihitāny api",
-              "segment_number": 280
+              "segment_number": 280,
+              "translated_text": "even forbidden deeds decay—"
             }
           ]
         },
@@ -6757,7 +7093,8 @@
                 "n": "c"
               },
               "text": "ākiṃcanyabalāḍhyānām",
-              "segment_number": 281
+              "segment_number": 281,
+              "translated_text": "for those mighty in their utter destitution,"
             },
             {
               "tag": "seg",
@@ -6766,12 +7103,14 @@
                 "n": "d"
               },
               "text": "antato 'śmāpi jīryati",
-              "segment_number": 282
+              "segment_number": 282,
+              "translated_text": "even stone decays in the end."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 283
+              "segment_number": 283,
+              "translated_text": "//"
             }
           ]
         }
@@ -6839,7 +7178,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_57"
+        "id": "NKv_57",
+        "label": "NKv 57"
       },
       "children": [
         {
@@ -6853,7 +7193,8 @@
                 "n": "a"
               },
               "text": "nāsya corā na piśunā",
-              "segment_number": 284
+              "segment_number": 284,
+              "translated_text": "He has no thieves, no slanderers,"
             },
             {
               "tag": "seg",
@@ -6862,7 +7203,8 @@
                 "n": "b"
               },
               "text": "na dāyādā na pārthivās",
-              "segment_number": 285
+              "segment_number": 285,
+              "translated_text": "no heirs, no kings—"
             }
           ]
         },
@@ -6877,7 +7219,8 @@
                 "n": "c"
               },
               "text": "dainyaṃ rājyād api jyāyo",
-              "segment_number": 286
+              "segment_number": 286,
+              "translated_text": "indigence is greater than kingship,"
             },
             {
               "tag": "seg",
@@ -6886,12 +7229,14 @@
                 "n": "d"
               },
               "text": "yadi tattvaṃ prabudhyate",
-              "segment_number": 287
+              "segment_number": 287,
+              "translated_text": "if the truth is realized."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 288
+              "segment_number": 288,
+              "translated_text": "//"
             }
           ]
         }
@@ -6957,12 +7302,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p24892"
       },
-      "text": "[dhaninaḥ]",
-      "segment_number": 289
+      "text": "dhaninaḥ",
+      "segment_number": 289,
+      "translated_text": "The Wealthy"
     },
     {
       "tag": "note",
@@ -6972,16 +7318,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[dhaninaḥ]"
+          "text": "dhaninaḥ"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_58"
+        "id": "NKv_58",
+        "label": "NKv 58"
       },
       "children": [
         {
@@ -6995,7 +7342,8 @@
                 "n": "a"
               },
               "text": "prakāśayaty ahaṃkāraṃ",
-              "segment_number": 290
+              "segment_number": 290,
+              "translated_text": "It manifests arrogance,"
             },
             {
               "tag": "seg",
@@ -7004,7 +7352,8 @@
                 "n": "b"
               },
               "text": "pravartayati taskarān",
-              "segment_number": 291
+              "segment_number": 291,
+              "translated_text": "it sets thieves in motion,"
             }
           ]
         },
@@ -7019,7 +7368,8 @@
                 "n": "c"
               },
               "text": "protsāhayati dāyādāṃl",
-              "segment_number": 292
+              "segment_number": 292,
+              "translated_text": "it encourages heirs—"
             },
             {
               "tag": "seg",
@@ -7028,12 +7378,14 @@
                 "n": "d"
               },
               "text": "lākṣmīḥ kiṃ cid upasthitā",
-              "segment_number": 293
+              "segment_number": 293,
+              "translated_text": "<s>Lakṣmī</s> (wealth/fortune), when she arrives even slightly."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 294
+              "segment_number": 294,
+              "translated_text": "//"
             }
           ]
         }
@@ -7101,7 +7453,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_59"
+        "id": "NKv_59",
+        "label": "NKv 59"
       },
       "children": [
         {
@@ -7115,7 +7468,8 @@
                 "n": "a"
               },
               "text": "viḍambayanti ye nityaṃ",
-              "segment_number": 295
+              "segment_number": 295,
+              "translated_text": "Those wealthy people who constantly"
             },
             {
               "tag": "seg",
@@ -7124,7 +7478,8 @@
                 "n": "b"
               },
               "text": "vidagdhān dhanino janās",
-              "segment_number": 296
+              "segment_number": 296,
+              "translated_text": "mock the learned—"
             }
           ]
         },
@@ -7139,7 +7494,8 @@
                 "n": "c"
               },
               "text": "ta eva tu viḍambyante",
-              "segment_number": 297
+              "segment_number": 297,
+              "translated_text": "they themselves are mocked"
             },
             {
               "tag": "seg",
@@ -7148,12 +7504,14 @@
                 "n": "d"
               },
               "text": "śriyā kimcidupekṣitās",
-              "segment_number": 298
+              "segment_number": 298,
+              "translated_text": "when <s>Śrī</s> (fortune) slightly neglects them."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 299
+              "segment_number": 299,
+              "translated_text": "//"
             }
           ]
         }
@@ -7221,7 +7579,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_60"
+        "id": "NKv_60",
+        "label": "NKv 60"
       },
       "children": [
         {
@@ -7235,7 +7594,8 @@
                 "n": "a"
               },
               "text": "prāmāṇyabuddhiḥ stotreṣu",
-              "segment_number": 300
+              "segment_number": 300,
+              "translated_text": "Regarding praises as authoritative,"
             },
             {
               "tag": "seg",
@@ -7244,7 +7604,8 @@
                 "n": "b"
               },
               "text": "devatābuddhir ātmani",
-              "segment_number": 301
+              "segment_number": 301,
+              "translated_text": "regarding oneself as a deity,"
             }
           ]
         },
@@ -7259,7 +7620,8 @@
                 "n": "c"
               },
               "text": "kīṭabuddhir manuṣyeṣu",
-              "segment_number": 302
+              "segment_number": 302,
+              "translated_text": "regarding other humans as insects—"
             },
             {
               "tag": "seg",
@@ -7268,12 +7630,14 @@
                 "n": "d"
               },
               "text": "nūtanāyāḥ śriyaḥ phalam",
-              "segment_number": 303
+              "segment_number": 303,
+              "translated_text": "such is the fruit of newly-arrived wealth."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 304
+              "segment_number": 304,
+              "translated_text": "//"
             }
           ]
         }
@@ -7341,7 +7705,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_61"
+        "id": "NKv_61",
+        "label": "NKv 61"
       },
       "children": [
         {
@@ -7355,7 +7720,8 @@
                 "n": "a"
               },
               "text": "śṛṇvanta eva pṛcchanti",
-              "segment_number": 305
+              "segment_number": 305,
+              "translated_text": "Even while hearing, they ask again;"
             },
             {
               "tag": "seg",
@@ -7364,7 +7730,8 @@
                 "n": "b"
               },
               "text": "paśyanto 'pi na jānate",
-              "segment_number": 306
+              "segment_number": 306,
+              "translated_text": "even while seeing, they do not understand—"
             }
           ]
         },
@@ -7379,7 +7746,8 @@
                 "n": "c"
               },
               "text": "viḍambanāni dhanikāḥ",
-              "segment_number": 307
+              "segment_number": 307,
+              "translated_text": "the wealthy consider mockeries"
             },
             {
               "tag": "seg",
@@ -7388,12 +7756,14 @@
                 "n": "d"
               },
               "text": "stotrāṇīty eva manvate",
-              "segment_number": 308
+              "segment_number": 308,
+              "translated_text": "to be nothing but praises."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 309
+              "segment_number": 309,
+              "translated_text": "//"
             }
           ]
         }
@@ -7461,7 +7831,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_62"
+        "id": "NKv_62",
+        "label": "NKv 62"
       },
       "children": [
         {
@@ -7475,7 +7846,8 @@
                 "n": "a"
               },
               "text": "āvṛtya śrīmadenāndhān",
-              "segment_number": 310
+              "segment_number": 310,
+              "translated_text": "Surrounding those blinded by the pride of wealth,"
             },
             {
               "tag": "seg",
@@ -7484,7 +7856,8 @@
                 "n": "b"
               },
               "text": "anyonyakṛtasaṃvidas",
-              "segment_number": 311
+              "segment_number": 311,
+              "translated_text": "conspiring with one another,"
             }
           ]
         },
@@ -7499,7 +7872,8 @@
                 "n": "c"
               },
               "text": "svairaṃ hasanti+pārśvasthā",
-              "segment_number": 312
+              "segment_number": 312,
+              "translated_text": "the attendants laugh freely"
             },
             {
               "tag": "seg",
@@ -7508,12 +7882,14 @@
                 "n": "d"
               },
               "text": "bālonmattapiśācavat",
-              "segment_number": 313
+              "segment_number": 313,
+              "translated_text": "like children, madmen, and ghosts."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 314
+              "segment_number": 314,
+              "translated_text": "//"
             }
           ]
         }
@@ -7581,7 +7957,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_63"
+        "id": "NKv_63",
+        "label": "NKv 63"
       },
       "children": [
         {
@@ -7595,7 +7972,8 @@
                 "n": "a"
               },
               "text": "stotavyaiḥ stūyante nityaṃ",
-              "segment_number": 315
+              "segment_number": 315,
+              "translated_text": "They are constantly praised by those who should be praised,"
             },
             {
               "tag": "seg",
@@ -7604,7 +7982,8 @@
                 "n": "b"
               },
               "text": "sevanīyaiś ca sevyate",
-              "segment_number": 316
+              "segment_number": 316,
+              "translated_text": "and served by those who should be served—"
             }
           ]
         },
@@ -7619,7 +7998,8 @@
                 "n": "c"
               },
               "text": "na bibheti na jihreti",
-              "segment_number": 317
+              "segment_number": 317,
+              "translated_text": "yet the wealthy person neither fears"
             },
             {
               "tag": "seg",
@@ -7628,12 +8008,14 @@
                 "n": "d"
               },
               "text": "tathāpi dhaniko janas",
-              "segment_number": 318
+              "segment_number": 318,
+              "translated_text": "nor feels ashamed."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 319
+              "segment_number": 319,
+              "translated_text": "//"
             }
           ]
         }
@@ -7701,7 +8083,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_64"
+        "id": "NKv_64",
+        "label": "NKv 64"
       },
       "children": [
         {
@@ -7715,7 +8098,8 @@
                 "n": "a"
               },
               "text": "kṣaṇamātraṃ grahāveśo",
-              "segment_number": 320
+              "segment_number": 320,
+              "translated_text": "The possession by a <s>graha</s> (spirit) lasts but a moment,"
             },
             {
               "tag": "seg",
@@ -7724,7 +8108,8 @@
                 "n": "b"
               },
               "text": "yāmamātraṃ surāmadas",
-              "segment_number": 321
+              "segment_number": 321,
+              "translated_text": "the intoxication from liquor but a <s>yāma</s> (three hours)—"
             }
           ]
         },
@@ -7739,7 +8124,8 @@
                 "n": "c"
               },
               "text": "lakṣmīmadas tu mūrkhāṇām",
-              "segment_number": 322
+              "segment_number": 322,
+              "translated_text": "but the intoxication of wealth in fools"
             },
             {
               "tag": "seg",
@@ -7748,12 +8134,14 @@
                 "n": "d"
               },
               "text": "ādeham anuvartate",
-              "segment_number": 323
+              "segment_number": 323,
+              "translated_text": "persists for the entire lifetime."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 324
+              "segment_number": 324,
+              "translated_text": "//"
             }
           ]
         }
@@ -7821,7 +8209,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_65"
+        "id": "NKv_65",
+        "label": "NKv 65"
       },
       "children": [
         {
@@ -7835,7 +8224,8 @@
                 "n": "a"
               },
               "text": "śrīr māsam ardhamāsaṃ vā",
-              "segment_number": 325
+              "segment_number": 325,
+              "translated_text": "<s>Śrī</s> (fortune), having played for a month or half a month,"
             },
             {
               "tag": "seg",
@@ -7844,7 +8234,8 @@
                 "n": "b"
               },
               "text": "ceṣṭitvā vinivartate",
-              "segment_number": 326
+              "segment_number": 326,
+              "translated_text": "departs;"
             }
           ]
         },
@@ -7859,7 +8250,8 @@
                 "n": "c"
               },
               "text": "vikāras tu tadārabdho",
-              "segment_number": 327
+              "segment_number": 327,
+              "translated_text": "but the disorder once begun by her"
             },
             {
               "tag": "seg",
@@ -7868,12 +8260,14 @@
                 "n": "d"
               },
               "text": "nityaṃ laśunagandhavat",
-              "segment_number": 328
+              "segment_number": 328,
+              "translated_text": "is permanent, like the smell of garlic."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 329
+              "segment_number": 329,
+              "translated_text": "//"
             }
           ]
         }
@@ -7941,7 +8335,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_66"
+        "id": "NKv_66",
+        "label": "NKv 66"
       },
       "children": [
         {
@@ -7955,7 +8350,8 @@
                 "n": "a"
               },
               "text": "kaṇṭḥe madaḥ kodravajo",
-              "segment_number": 330
+              "segment_number": 330,
+              "translated_text": "The intoxication from <s>kodrava</s> (millet) grain is in the throat,"
             },
             {
               "tag": "seg",
@@ -7964,7 +8360,8 @@
                 "n": "b"
               },
               "text": "hṛdi tāmbūlajo madas",
-              "segment_number": 331
+              "segment_number": 331,
+              "translated_text": "the intoxication from betel is in the heart;"
             }
           ]
         },
@@ -7979,7 +8376,8 @@
                 "n": "c"
               },
               "text": "lakṣmīmadas tu sarvāṅge",
-              "segment_number": 332
+              "segment_number": 332,
+              "translated_text": "but the intoxication of wealth pervades all limbs,"
             },
             {
               "tag": "seg",
@@ -7988,12 +8386,14 @@
                 "n": "d"
               },
               "text": "putradāramukheṣv api",
-              "segment_number": 333
+              "segment_number": 333,
+              "translated_text": "even the faces of sons and wives."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 334
+              "segment_number": 334,
+              "translated_text": "//"
             }
           ]
         }
@@ -8061,7 +8461,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_67"
+        "id": "NKv_67",
+        "label": "NKv 67"
       },
       "children": [
         {
@@ -8075,7 +8476,8 @@
                 "n": "a"
               },
               "text": "yatrāsīd asti vā lakṣmīs",
-              "segment_number": 335
+              "segment_number": 335,
+              "translated_text": "Whether <s>Lakṣmī</s> was or is [present] there,"
             },
             {
               "tag": "seg",
@@ -8084,7 +8486,8 @@
                 "n": "b"
               },
               "text": "tatronmadaḥ pravartatām",
-              "segment_number": 336
+              "segment_number": 336,
+              "translated_text": "let the pride prevail there;"
             }
           ]
         },
@@ -8099,7 +8502,8 @@
                 "n": "c"
               },
               "text": "kule 'py avataraty eṣa",
-              "segment_number": 337
+              "segment_number": 337,
+              "translated_text": "but how does it descend even into the family,"
             },
             {
               "tag": "seg",
@@ -8108,12 +8512,14 @@
                 "n": "d"
               },
               "text": "kuṣṭhāpasmāravat katham",
-              "segment_number": 338
+              "segment_number": 338,
+              "translated_text": "like leprosy or epilepsy?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 339
+              "segment_number": 339,
+              "translated_text": "//"
             }
           ]
         }
@@ -8181,7 +8587,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_68"
+        "id": "NKv_68",
+        "label": "NKv 68"
       },
       "children": [
         {
@@ -8195,7 +8602,8 @@
                 "n": "a"
               },
               "text": "adhyāpayanti śāstrāṇi",
-              "segment_number": 340
+              "segment_number": 340,
+              "translated_text": "They teach the <s>śāstras</s> (scriptures),"
             },
             {
               "tag": "seg",
@@ -8204,7 +8612,8 @@
                 "n": "b"
               },
               "text": "tṛṇīkurvanti paṇḍitān",
-              "segment_number": 341
+              "segment_number": 341,
+              "translated_text": "they belittle the learned,"
             }
           ]
         },
@@ -8219,7 +8628,8 @@
                 "n": "c"
               },
               "text": "vismārayanti jātiṃ svāṃ",
-              "segment_number": 342
+              "segment_number": 342,
+              "translated_text": "they make one forget one's own caste—"
             },
             {
               "tag": "seg",
@@ -8228,12 +8638,14 @@
                 "n": "d"
               },
               "text": "varāṭāḥ pañcaṣā kare",
-              "segment_number": 343
+              "segment_number": 343,
+              "translated_text": "five or six cowrie shells in the hand."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 344
+              "segment_number": 344,
+              "translated_text": "//"
             }
           ]
         }
@@ -8301,7 +8713,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_69"
+        "id": "NKv_69",
+        "label": "NKv 69"
       },
       "children": [
         {
@@ -8315,7 +8728,8 @@
                 "n": "a"
               },
               "text": "bibhartu bhṛtyān dhaniko",
-              "segment_number": 345
+              "segment_number": 345,
+              "translated_text": "Let the rich man support his dependents"
             },
             {
               "tag": "seg",
@@ -8324,7 +8738,8 @@
                 "n": "b"
               },
               "text": "dattāṃ vā deyam arthiṣu",
-              "segment_number": 346
+              "segment_number": 346,
+              "translated_text": "or give what is due to supplicants—"
             }
           ]
         },
@@ -8339,7 +8754,8 @@
                 "n": "c"
               },
               "text": "yāvad yācakasādharmyaṃ",
-              "segment_number": 347
+              "segment_number": 347,
+              "translated_text": "as long as [his conduct] resembles that of a beggar,"
             },
             {
               "tag": "seg",
@@ -8348,12 +8764,14 @@
                 "n": "d"
               },
               "text": "tāval loko na mṛṣyati",
-              "segment_number": 348
+              "segment_number": 348,
+              "translated_text": "the world does not tolerate it."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 349
+              "segment_number": 349,
+              "translated_text": "//"
             }
           ]
         }
@@ -8419,12 +8837,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p28014"
       },
-      "text": "[piśunāḥ]",
-      "segment_number": 350
+      "text": "piśunāḥ",
+      "segment_number": 350,
+      "translated_text": "Slanderers"
     },
     {
       "tag": "note",
@@ -8434,16 +8853,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[piśunāḥ]"
+          "text": "piśunāḥ"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_70"
+        "id": "NKv_70",
+        "label": "NKv 70"
       },
       "children": [
         {
@@ -8457,7 +8877,8 @@
                 "n": "a"
               },
               "text": "dhanabhāro hi lokasya",
-              "segment_number": 351
+              "segment_number": 351,
+              "translated_text": "The burden of other people's wealth"
             },
             {
               "tag": "seg",
@@ -8466,7 +8887,8 @@
                 "n": "b"
               },
               "text": "piśunair eva dhāryate",
-              "segment_number": 352
+              "segment_number": 352,
+              "translated_text": "is indeed borne by slanderers;"
             }
           ]
         },
@@ -8481,7 +8903,8 @@
                 "n": "c"
               },
               "text": "kathaṃ te taṃ laghūkartuṃ",
-              "segment_number": 353
+              "segment_number": 353,
+              "translated_text": "how they strive to lighten it"
             },
             {
               "tag": "seg",
@@ -8490,12 +8913,14 @@
                 "n": "d"
               },
               "text": "yatante 'parathā svatas",
-              "segment_number": 354
+              "segment_number": 354,
+              "translated_text": "by other means on their own!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 355
+              "segment_number": 355,
+              "translated_text": "//"
             }
           ]
         }
@@ -8563,7 +8988,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_71"
+        "id": "NKv_71",
+        "label": "NKv 71"
       },
       "children": [
         {
@@ -8577,7 +9003,8 @@
                 "n": "a"
               },
               "text": "śramānurūpaṃ piśune",
-              "segment_number": 356
+              "segment_number": 356,
+              "translated_text": "Is the reward from kings commensurate"
             },
             {
               "tag": "seg",
@@ -8586,7 +9013,8 @@
                 "n": "b"
               },
               "text": "kim upakriyate nṛpais",
-              "segment_number": 357
+              "segment_number": 357,
+              "translated_text": "with the slanderer's labor?"
             }
           ]
         },
@@ -8601,7 +9029,8 @@
                 "n": "c"
               },
               "text": "dviguṇaṃ triguṇaṃ caiva",
-              "segment_number": 358
+              "segment_number": 358,
+              "translated_text": "Twofold and threefold indeed"
             },
             {
               "tag": "seg",
@@ -8610,12 +9039,14 @@
                 "n": "d"
               },
               "text": "kṛtānto lālayiṣyati",
-              "segment_number": 359
+              "segment_number": 359,
+              "translated_text": "shall <s>Kṛtānta</s> (Death/Yama) reward them."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 360
+              "segment_number": 360,
+              "translated_text": "//"
             }
           ]
         }
@@ -8683,7 +9114,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_72"
+        "id": "NKv_72",
+        "label": "NKv 72"
       },
       "children": [
         {
@@ -8697,7 +9129,8 @@
                 "n": "a"
               },
               "text": "Gokarṇe Bhadrakarṇe ca",
-              "segment_number": 361
+              "segment_number": 361,
+              "translated_text": "At <s>Gokarṇa</s> and <s>Bhadrakarṇa</s>,"
             },
             {
               "tag": "seg",
@@ -8706,7 +9139,8 @@
                 "n": "b"
               },
               "text": "japo duṣkarmanāśanas",
-              "segment_number": 362
+              "segment_number": 362,
+              "translated_text": "recitation destroys evil deeds;"
             }
           ]
         },
@@ -8721,7 +9155,8 @@
                 "n": "c"
               },
               "text": "rājakarṇe japaḥ sadyaḥ",
-              "segment_number": 363
+              "segment_number": 363,
+              "translated_text": "in the king's ear, recitation"
             },
             {
               "tag": "seg",
@@ -8730,12 +9165,14 @@
                 "n": "d"
               },
               "text": "sarvakarmavināśanas",
-              "segment_number": 364
+              "segment_number": 364,
+              "translated_text": "instantly destroys all deeds."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 365
+              "segment_number": 365,
+              "translated_text": "//"
             }
           ]
         }
@@ -8803,7 +9240,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_73"
+        "id": "NKv_73",
+        "label": "NKv 73"
       },
       "children": [
         {
@@ -8817,7 +9255,8 @@
                 "n": "a"
               },
               "text": "na svārthaṃ kimcid icchanti",
-              "segment_number": 366
+              "segment_number": 366,
+              "translated_text": "They desire nothing for themselves,"
             },
             {
               "tag": "seg",
@@ -8826,7 +9265,8 @@
                 "n": "b"
               },
               "text": "na preryante ca kena cit",
-              "segment_number": 367
+              "segment_number": 367,
+              "translated_text": "nor are they impelled by anyone—"
             }
           ]
         },
@@ -8841,7 +9281,8 @@
                 "n": "c"
               },
               "text": "parārtheṣu pravartante",
-              "segment_number": 368
+              "segment_number": 368,
+              "translated_text": "they engage in others' affairs;"
             },
             {
               "tag": "seg",
@@ -8850,12 +9291,14 @@
                 "n": "d"
               },
               "text": "śaṭhāḥ santaś ca tulyavat",
-              "segment_number": 369
+              "segment_number": 369,
+              "translated_text": "the wicked and the saintly are alike [in this]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 370
+              "segment_number": 370,
+              "translated_text": "//"
             }
           ]
         }
@@ -8923,7 +9366,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_74"
+        "id": "NKv_74",
+        "label": "NKv 74"
       },
       "children": [
         {
@@ -8937,7 +9381,8 @@
                 "n": "a"
               },
               "text": "kālāntare hy anarthāya",
-              "segment_number": 371
+              "segment_number": 371,
+              "translated_text": "A vulture perched atop a house"
             },
             {
               "tag": "seg",
@@ -8946,7 +9391,8 @@
                 "n": "b"
               },
               "text": "gṛdhro gehopari sthitas",
-              "segment_number": 372
+              "segment_number": 372,
+              "translated_text": "[portends] misfortune in time;"
             }
           ]
         },
@@ -8961,7 +9407,8 @@
                 "n": "c"
               },
               "text": "khalo gṛhasamīpasthaḥ",
-              "segment_number": 373
+              "segment_number": 373,
+              "translated_text": "a rogue near the house"
             },
             {
               "tag": "seg",
@@ -8970,12 +9417,14 @@
                 "n": "d"
               },
               "text": "sadyo 'narthāya dehinām",
-              "segment_number": 374
+              "segment_number": 374,
+              "translated_text": "brings instant misfortune to living beings."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 375
+              "segment_number": 375,
+              "translated_text": "//"
             }
           ]
         }
@@ -9041,12 +9490,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p29347"
       },
-      "text": "[lobhinaḥ]",
-      "segment_number": 376
+      "text": "lobhinaḥ",
+      "segment_number": 376,
+      "translated_text": "The Greedy"
     },
     {
       "tag": "note",
@@ -9056,16 +9506,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[lobhinaḥ]"
+          "text": "lobhinaḥ"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_75"
+        "id": "NKv_75",
+        "label": "NKv 75"
       },
       "children": [
         {
@@ -9079,7 +9530,8 @@
                 "n": "a"
               },
               "text": "śuṣkopavāso dharmeṣu",
-              "segment_number": 377
+              "segment_number": 377,
+              "translated_text": "Dry fasting in religious matters,"
             },
             {
               "tag": "seg",
@@ -9088,7 +9540,8 @@
                 "n": "b"
               },
               "text": "bhaiṣajyeṣu ca laṅghanam",
-              "segment_number": 378
+              "segment_number": 378,
+              "translated_text": "fasting in medical matters,"
             }
           ]
         },
@@ -9103,7 +9556,8 @@
                 "n": "c"
               },
               "text": "japayajñaś ca yajñeṣu",
-              "segment_number": 379
+              "segment_number": 379,
+              "translated_text": "and <s>japa</s>-sacrifice among sacrifices—"
             },
             {
               "tag": "seg",
@@ -9112,12 +9566,14 @@
                 "n": "d"
               },
               "text": "rocate lobhaśālinām",
-              "segment_number": 380
+              "segment_number": 380,
+              "translated_text": "these please those who are covetous."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 381
+              "segment_number": 381,
+              "translated_text": "//"
             }
           ]
         }
@@ -9185,7 +9641,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_76"
+        "id": "NKv_76",
+        "label": "NKv 76"
       },
       "children": [
         {
@@ -9199,7 +9656,8 @@
                 "n": "a"
               },
               "text": "kiṃ vakṣyatīva dhanikād",
-              "segment_number": 382
+              "segment_number": 382,
+              "translated_text": "'What will he say?'—as long as the poor man"
             },
             {
               "tag": "seg",
@@ -9208,7 +9666,8 @@
                 "n": "b"
               },
               "text": "yāvad udvijate 'dhanas",
-              "segment_number": 383
+              "segment_number": 383,
+              "translated_text": "is anxious before the rich man,"
             }
           ]
         },
@@ -9223,7 +9682,8 @@
                 "n": "c"
               },
               "text": "kiṃ prakṣyatīti lubdho 'pi",
-              "segment_number": 384
+              "segment_number": 384,
+              "translated_text": "'What will he ask?'—the miser too"
             },
             {
               "tag": "seg",
@@ -9232,12 +9692,14 @@
                 "n": "d"
               },
               "text": "tāvad udvijate tatas",
-              "segment_number": 385
+              "segment_number": 385,
+              "translated_text": "is equally anxious about that."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 386
+              "segment_number": 386,
+              "translated_text": "//"
             }
           ]
         }
@@ -9305,7 +9767,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_77"
+        "id": "NKv_77",
+        "label": "NKv 77"
       },
       "children": [
         {
@@ -9319,7 +9782,8 @@
                 "n": "a"
               },
               "text": "sarvam ātithyaśāstrārthaṃ",
-              "segment_number": 387
+              "segment_number": 387,
+              "translated_text": "The greedy put into practice"
             },
             {
               "tag": "seg",
@@ -9328,7 +9792,8 @@
                 "n": "b"
               },
               "text": "sākṣāt kurvanti lobhinas",
-              "segment_number": 388
+              "segment_number": 388,
+              "translated_text": "the entire meaning of the treatise on hospitality—"
             }
           ]
         },
@@ -9343,7 +9808,8 @@
                 "n": "c"
               },
               "text": "bhikṣākabalam ekaikaṃ",
-              "segment_number": 389
+              "segment_number": 389,
+              "translated_text": "they who regard each morsel of begged food"
             },
             {
               "tag": "seg",
@@ -9352,12 +9818,14 @@
                 "n": "d"
               },
               "text": "ye hi paśyanti meruvat",
-              "segment_number": 390
+              "segment_number": 390,
+              "translated_text": "as [vast as] Mount <s>Meru</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 391
+              "segment_number": 391,
+              "translated_text": "//"
             }
           ]
         }
@@ -9425,7 +9893,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_78"
+        "id": "NKv_78",
+        "label": "NKv 78"
       },
       "children": [
         {
@@ -9439,7 +9908,8 @@
                 "n": "a"
               },
               "text": "dhanapālaḥ piśāco hi",
-              "segment_number": 392
+              "segment_number": 392,
+              "translated_text": "The guardian of wealth, being a <s>piśāca</s> (demon), gives"
             },
             {
               "tag": "seg",
@@ -9448,7 +9918,8 @@
                 "n": "b"
               },
               "text": "datte svāminy upasthite",
-              "segment_number": 393
+              "segment_number": 393,
+              "translated_text": "when the master is present;"
             }
           ]
         },
@@ -9463,7 +9934,8 @@
                 "n": "c"
               },
               "text": "dhanalubdhaḥ piśācas tu",
-              "segment_number": 394
+              "segment_number": 394,
+              "translated_text": "but the one greedy for wealth, [though also] a demon,"
             },
             {
               "tag": "seg",
@@ -9472,12 +9944,14 @@
                 "n": "d"
               },
               "text": "na kasmai cana ditsate",
-              "segment_number": 395
+              "segment_number": 395,
+              "translated_text": "does not wish to give to anyone."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 396
+              "segment_number": 396,
+              "translated_text": "//"
             }
           ]
         }
@@ -9545,7 +10019,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_79"
+        "id": "NKv_79",
+        "label": "NKv 79"
       },
       "children": [
         {
@@ -9559,7 +10034,8 @@
                 "n": "a"
               },
               "text": "dātāro 'rthibhir arthyante",
-              "segment_number": 397
+              "segment_number": 397,
+              "translated_text": "Givers are sought by supplicants,"
             },
             {
               "tag": "seg",
@@ -9568,7 +10044,8 @@
                 "n": "b"
               },
               "text": "dātṛbhiḥ puno 'rthinas",
-              "segment_number": 398
+              "segment_number": 398,
+              "translated_text": "and supplicants [are sought] again by givers—"
             }
           ]
         },
@@ -9583,7 +10060,8 @@
                 "n": "c"
               },
               "text": "kartṛkarmavyatīhārād",
-              "segment_number": 399
+              "segment_number": 399,
+              "translated_text": "from this interchange of agent and object,"
             },
             {
               "tag": "seg",
@@ -9592,12 +10070,14 @@
                 "n": "d"
               },
               "text": "aho nimnonnataṃ kiyat",
-              "segment_number": 400
+              "segment_number": 400,
+              "translated_text": "oh, how great is the high and low!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 401
+              "segment_number": 401,
+              "translated_text": "//"
             }
           ]
         }
@@ -9665,7 +10145,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_80"
+        "id": "NKv_80",
+        "label": "NKv 80"
       },
       "children": [
         {
@@ -9679,7 +10160,8 @@
                 "n": "a"
               },
               "text": "svasminn asati nārthasya",
-              "segment_number": 402
+              "segment_number": 402,
+              "translated_text": "'If I do not exist, there would be"
             },
             {
               "tag": "seg",
@@ -9688,7 +10170,8 @@
                 "n": "b"
               },
               "text": "rakṣakaḥ saṃbhaved iti",
-              "segment_number": 403
+              "segment_number": 403,
+              "translated_text": "no protector of the wealth'—"
             }
           ]
         },
@@ -9703,7 +10186,8 @@
                 "n": "c"
               },
               "text": "niścityaivaṃ svayam api",
-              "segment_number": 404
+              "segment_number": 404,
+              "translated_text": "having thus determined, the miser"
             },
             {
               "tag": "seg",
@@ -9712,12 +10196,14 @@
                 "n": "d"
               },
               "text": "bhuṅkte lubdhaḥ kathaṃ cana",
-              "segment_number": 405
+              "segment_number": 405,
+              "translated_text": "himself also somehow eats."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 406
+              "segment_number": 406,
+              "translated_text": "//"
             }
           ]
         }
@@ -9785,7 +10271,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_81"
+        "id": "NKv_81",
+        "label": "NKv 81"
       },
       "children": [
         {
@@ -9799,7 +10286,8 @@
                 "n": "a"
               },
               "text": "prasthāsyamānaḥ praviśet",
-              "segment_number": 407
+              "segment_number": 407,
+              "translated_text": "About to depart, [the guest] enters;"
             },
             {
               "tag": "seg",
@@ -9808,7 +10296,8 @@
                 "n": "b"
               },
               "text": "pratiṣṭheta dine dine",
-              "segment_number": 408
+              "segment_number": 408,
+              "translated_text": "he settles in day after day;"
             }
           ]
         },
@@ -9823,7 +10312,8 @@
                 "n": "c"
               },
               "text": "vicitrān ullikhed vighnāṃs",
-              "segment_number": 409
+              "segment_number": 409,
+              "translated_text": "he invents various obstacles—"
             },
             {
               "tag": "seg",
@@ -9832,12 +10322,14 @@
                 "n": "d"
               },
               "text": "tiṣṭhāsur atithiś ciram",
-              "segment_number": 410
+              "segment_number": 410,
+              "translated_text": "[thus behaves] a guest who wishes to stay long."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 411
+              "segment_number": 411,
+              "translated_text": "//"
             }
           ]
         }
@@ -9903,12 +10395,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p31205"
       },
-      "text": "[dhārmikāḥ]",
-      "segment_number": 412
+      "text": "dhārmikāḥ",
+      "segment_number": 412,
+      "translated_text": "The Pious"
     },
     {
       "tag": "note",
@@ -9918,16 +10411,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[dhārmikāḥ]"
+          "text": "dhārmikāḥ"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_82"
+        "id": "NKv_82",
+        "label": "NKv 82"
       },
       "children": [
         {
@@ -9941,7 +10435,8 @@
                 "n": "a"
               },
               "text": "pradīyate viduṣy ekaṃ",
-              "segment_number": 413
+              "segment_number": 413,
+              "translated_text": "One [coin] is given to a scholar,"
             },
             {
               "tag": "seg",
@@ -9950,7 +10445,8 @@
                 "n": "b"
               },
               "text": "kavau daśa naṭe śatam",
-              "segment_number": 414
+              "segment_number": 414,
+              "translated_text": "ten to a poet, a hundred to an actor,"
             }
           ]
         },
@@ -9965,7 +10461,8 @@
                 "n": "c"
               },
               "text": "sahasraṃ dāmbhike loke",
-              "segment_number": 415
+              "segment_number": 415,
+              "translated_text": "a thousand to a hypocrite in the world—"
             },
             {
               "tag": "seg",
@@ -9974,12 +10471,14 @@
                 "n": "d"
               },
               "text": "śrotriye tu na kimcana",
-              "segment_number": 416
+              "segment_number": 416,
+              "translated_text": "but to a learned <s>Vedic</s> scholar, nothing at all."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 417
+              "segment_number": 417,
+              "translated_text": "//"
             }
           ]
         }
@@ -10047,7 +10546,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_83"
+        "id": "NKv_83",
+        "label": "NKv 83"
       },
       "children": [
         {
@@ -10061,7 +10561,8 @@
                 "n": "a"
               },
               "text": "ghaṭakaṃ samyagārādhya",
-              "segment_number": 418
+              "segment_number": 418,
+              "translated_text": "Having properly propitiated the matchmaker,"
             },
             {
               "tag": "seg",
@@ -10070,7 +10571,8 @@
                 "n": "b"
               },
               "text": "vairāgyaṃ paramaṃ vahet",
-              "segment_number": 419
+              "segment_number": 419,
+              "translated_text": "one should cultivate supreme detachment;"
             }
           ]
         },
@@ -10085,7 +10587,8 @@
                 "n": "c"
               },
               "text": "tāvad arthāḥ prasiddhyanti",
-              "segment_number": 420
+              "segment_number": 420,
+              "translated_text": "worldly aims succeed"
             },
             {
               "tag": "seg",
@@ -10094,12 +10597,14 @@
                 "n": "d"
               },
               "text": "yāvac cāpalam āvṛtam",
-              "segment_number": 421
+              "segment_number": 421,
+              "translated_text": "as long as fickleness is concealed."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 422
+              "segment_number": 422,
+              "translated_text": "//"
             }
           ]
         }
@@ -10167,7 +10672,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_84"
+        "id": "NKv_84",
+        "label": "NKv 84"
       },
       "children": [
         {
@@ -10181,7 +10687,8 @@
                 "n": "a"
               },
               "text": "ekataḥ sarvaśāstrāṇi",
-              "segment_number": 423
+              "segment_number": 423,
+              "translated_text": "On one side, all the <s>śāstras</s> (scriptures);"
             },
             {
               "tag": "seg",
@@ -10190,7 +10697,8 @@
                 "n": "b"
               },
               "text": "tulasīkāṣṭham ekatas",
-              "segment_number": 424
+              "segment_number": 424,
+              "translated_text": "on the other, a <s>tulasī</s> (holy basil) twig—"
             }
           ]
         },
@@ -10205,7 +10713,8 @@
                 "n": "c"
               },
               "text": "vaktavyaṃ kiṃ cid ity uktaṃ",
-              "segment_number": 425
+              "segment_number": 425,
+              "translated_text": "something should be said, it was declared,"
             },
             {
               "tag": "seg",
@@ -10214,12 +10723,14 @@
                 "n": "d"
               },
               "text": "vastutas tulasī parā",
-              "segment_number": 426
+              "segment_number": 426,
+              "translated_text": "but in truth, <s>tulasī</s> is supreme."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 427
+              "segment_number": 427,
+              "translated_text": "//"
             }
           ]
         }
@@ -10287,7 +10798,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_85"
+        "id": "NKv_85",
+        "label": "NKv 85"
       },
       "children": [
         {
@@ -10301,7 +10813,8 @@
                 "n": "a"
               },
               "text": "vismṛtaṃ vāhaṭenedaṃ",
-              "segment_number": 428
+              "segment_number": 428,
+              "translated_text": "<s>Vāgbhaṭa</s> forgot this"
             },
             {
               "tag": "seg",
@@ -10310,7 +10823,8 @@
                 "n": "b"
               },
               "text": "tulasyāḥ paṭhatā guṇan",
-              "segment_number": 429
+              "segment_number": 429,
+              "translated_text": "while enumerating the virtues of <s>tulasī</s>:"
             }
           ]
         },
@@ -10325,7 +10839,8 @@
                 "n": "c"
               },
               "text": "viśvasaṃmohinī vitta",
-              "segment_number": 430
+              "segment_number": 430,
+              "translated_text": "'She deludes the whole world' and 'she bestows wealth'—"
             },
             {
               "tag": "seg",
@@ -10334,12 +10849,14 @@
                 "n": "d"
               },
               "text": "dāyinīti guṇadvayam",
-              "segment_number": 431
+              "segment_number": 431,
+              "translated_text": "these two virtues."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 432
+              "segment_number": 432,
+              "translated_text": "//"
             }
           ]
         }
@@ -10407,7 +10924,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_86"
+        "id": "NKv_86",
+        "label": "NKv 86"
       },
       "children": [
         {
@@ -10421,7 +10939,8 @@
                 "n": "a"
               },
               "text": "kaupīnaṃ bhasitālepo",
-              "segment_number": 433
+              "segment_number": 433,
+              "translated_text": "A loincloth, an application of ashes,"
             },
             {
               "tag": "seg",
@@ -10430,7 +10949,8 @@
                 "n": "b"
               },
               "text": "darbhā+rudrākṣamālikā",
-              "segment_number": 434
+              "segment_number": 434,
+              "translated_text": "a <s>darbha</s> (sacred grass) and <s>rudrākṣa</s> rosary,"
             }
           ]
         },
@@ -10445,7 +10965,8 @@
                 "n": "c"
               },
               "text": "maunam ekāsikā ceti",
-              "segment_number": 435
+              "segment_number": 435,
+              "translated_text": "silence, and eating alone—"
             },
             {
               "tag": "seg",
@@ -10454,12 +10975,14 @@
                 "n": "d"
               },
               "text": "mūrkhasaṃjīvanāni ṣaṭ",
-              "segment_number": 436
+              "segment_number": 436,
+              "translated_text": "these six are the revivers of fools."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 437
+              "segment_number": 437,
+              "translated_text": "//"
             }
           ]
         }
@@ -10527,7 +11050,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_87"
+        "id": "NKv_87",
+        "label": "NKv 87"
       },
       "children": [
         {
@@ -10541,7 +11065,8 @@
                 "n": "a"
               },
               "text": "vāsaḥ puṇyeṣu tīrtheṣu",
-              "segment_number": 438
+              "segment_number": 438,
+              "translated_text": "Residence at holy <s>tīrthas</s> (pilgrimage sites),"
             },
             {
               "tag": "seg",
@@ -10550,7 +11075,8 @@
                 "n": "b"
               },
               "text": "prasiddhaś ca mṛto gurus",
-              "segment_number": 439
+              "segment_number": 439,
+              "translated_text": "a famous and deceased <s>guru</s>,"
             }
           ]
         },
@@ -10565,7 +11091,8 @@
                 "n": "c"
               },
               "text": "adhyāpanāvṛttayaś ca",
-              "segment_number": 440
+              "segment_number": 440,
+              "translated_text": "and teaching activities—"
             },
             {
               "tag": "seg",
@@ -10574,12 +11101,14 @@
                 "n": "d"
               },
               "text": "kīrtanīyā dhanārthibhis",
-              "segment_number": 441
+              "segment_number": 441,
+              "translated_text": "these should be proclaimed by seekers of wealth."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 442
+              "segment_number": 442,
+              "translated_text": "//"
             }
           ]
         }
@@ -10647,7 +11176,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_88"
+        "id": "NKv_88",
+        "label": "NKv 88"
       },
       "children": [
         {
@@ -10661,7 +11191,8 @@
                 "n": "a"
               },
               "text": "mantrabhraṃśe saṃpradāyaḥ",
-              "segment_number": 443
+              "segment_number": 443,
+              "translated_text": "When the <s>mantra</s> is forgotten, 'it is the tradition';"
             },
             {
               "tag": "seg",
@@ -10670,7 +11201,8 @@
                 "n": "b"
               },
               "text": "prayogaś cyutasaṃkṛtau",
-              "segment_number": 444
+              "segment_number": 444,
+              "translated_text": "when Sanskrit has lapsed, 'it is the [local] practice';"
             }
           ]
         },
@@ -10685,7 +11217,8 @@
                 "n": "c"
               },
               "text": "deśadharmas tv anācāre",
-              "segment_number": 445
+              "segment_number": 445,
+              "translated_text": "when conduct is lacking, 'it is the regional custom'—"
             },
             {
               "tag": "seg",
@@ -10694,12 +11227,14 @@
                 "n": "d"
               },
               "text": "pṛcchatāṃ siddham uttaram",
-              "segment_number": 446
+              "segment_number": 446,
+              "translated_text": "for questioners, the answer is ready."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 447
+              "segment_number": 447,
+              "translated_text": "//"
             }
           ]
         }
@@ -10767,7 +11302,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_89"
+        "id": "NKv_89",
+        "label": "NKv 89"
       },
       "children": [
         {
@@ -10781,7 +11317,8 @@
                 "n": "a"
               },
               "text": "yathā jānanti bahavo",
-              "segment_number": 448
+              "segment_number": 448,
+              "translated_text": "So that many may know,"
             },
             {
               "tag": "seg",
@@ -10790,7 +11327,8 @@
                 "n": "b"
               },
               "text": "yathā vakṣyanti dātari",
-              "segment_number": 449
+              "segment_number": 449,
+              "translated_text": "so that [they] may speak [well] of the donor—"
             }
           ]
         },
@@ -10805,7 +11343,8 @@
                 "n": "c"
               },
               "text": "tathā dharmaṃ caret sarvaṃ",
-              "segment_number": 450
+              "segment_number": 450,
+              "translated_text": "thus one should perform all <s>dharma</s> (religious duties);"
             },
             {
               "tag": "seg",
@@ -10814,12 +11353,14 @@
                 "n": "d"
               },
               "text": "na vṛthā kiṃ cid ācaret",
-              "segment_number": 451
+              "segment_number": 451,
+              "translated_text": "nothing should be done in vain."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 452
+              "segment_number": 452,
+              "translated_text": "//"
             }
           ]
         }
@@ -10887,7 +11428,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_90"
+        "id": "NKv_90",
+        "label": "NKv 90"
       },
       "children": [
         {
@@ -10901,7 +11443,8 @@
                 "n": "a"
               },
               "text": "sadā japapaṭo haste",
-              "segment_number": 453
+              "segment_number": 453,
+              "translated_text": "A <s>japa</s> (recitation) cloth always in hand,"
             },
             {
               "tag": "seg",
@@ -10910,7 +11453,8 @@
                 "n": "b"
               },
               "text": "madhye madhye 'kṣimīlanam",
-              "segment_number": 454
+              "segment_number": 454,
+              "translated_text": "occasional closing of the eyes,"
             }
           ]
         },
@@ -10925,7 +11469,8 @@
                 "n": "c"
               },
               "text": "sarvaṃ brahmeti vādaś ca",
-              "segment_number": 455
+              "segment_number": 455,
+              "translated_text": "and the declaration 'All is <s>Brahman</s>'—"
             },
             {
               "tag": "seg",
@@ -10934,12 +11479,14 @@
                 "n": "d"
               },
               "text": "sadyaspratyayahetavas",
-              "segment_number": 456
+              "segment_number": 456,
+              "translated_text": "these are the causes of immediate credibility."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 457
+              "segment_number": 457,
+              "translated_text": "//"
             }
           ]
         }
@@ -11007,7 +11554,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_91"
+        "id": "NKv_91",
+        "label": "NKv 91"
       },
       "children": [
         {
@@ -11021,7 +11569,8 @@
                 "n": "a"
               },
               "text": "āmadhyāhnaṃ nadīvāsaḥ",
-              "segment_number": 458
+              "segment_number": 458,
+              "translated_text": "Dwelling by a river until midday,"
             },
             {
               "tag": "seg",
@@ -11030,7 +11579,8 @@
                 "n": "b"
               },
               "text": "samāje devatārcanam",
-              "segment_number": 459
+              "segment_number": 459,
+              "translated_text": "worship of deities in public gatherings,"
             }
           ]
         },
@@ -11045,7 +11595,8 @@
                 "n": "c"
               },
               "text": "satataṃ śuciveṣaś cety",
-              "segment_number": 460
+              "segment_number": 460,
+              "translated_text": "and constantly wearing clean attire—"
             },
             {
               "tag": "seg",
@@ -11054,12 +11605,14 @@
                 "n": "d"
               },
               "text": "etad dambhasya jīvitam",
-              "segment_number": 461
+              "segment_number": 461,
+              "translated_text": "this is the life of hypocrisy."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 462
+              "segment_number": 462,
+              "translated_text": "//"
             }
           ]
         }
@@ -11127,7 +11680,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_92"
+        "id": "NKv_92",
+        "label": "NKv 92"
       },
       "children": [
         {
@@ -11141,7 +11695,8 @@
                 "n": "a"
               },
               "text": "tāvad dīrghaṃ nityakarma",
-              "segment_number": 463
+              "segment_number": 463,
+              "translated_text": "The daily ritual is long"
             },
             {
               "tag": "seg",
@@ -11150,7 +11705,8 @@
                 "n": "b"
               },
               "text": "yāvat syād draṣṭṛmelanam",
-              "segment_number": 464
+              "segment_number": 464,
+              "translated_text": "as long as there are spectators present;"
             }
           ]
         },
@@ -11165,7 +11721,8 @@
                 "n": "c"
               },
               "text": "tāvatsaṃkṣipyate sarvaṃ",
-              "segment_number": 465
+              "segment_number": 465,
+              "translated_text": "everything is abbreviated"
             },
             {
               "tag": "seg",
@@ -11174,12 +11731,14 @@
                 "n": "d"
               },
               "text": "yāvad draṣṭā na vidyate",
-              "segment_number": 466
+              "segment_number": 466,
+              "translated_text": "as soon as there is no observer."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 467
+              "segment_number": 467,
+              "translated_text": "//"
             }
           ]
         }
@@ -11247,7 +11806,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_93"
+        "id": "NKv_93",
+        "label": "NKv 93"
       },
       "children": [
         {
@@ -11261,7 +11821,8 @@
                 "n": "a"
               },
               "text": "ānandabāṣparomāñcau",
-              "segment_number": 468
+              "segment_number": 468,
+              "translated_text": "Tears of bliss and horripilation"
             },
             {
               "tag": "seg",
@@ -11270,7 +11831,8 @@
                 "n": "b"
               },
               "text": "yasya svecchāvaśaṃvadau",
-              "segment_number": 469
+              "segment_number": 469,
+              "translated_text": "obedient to one's own will—"
             }
           ]
         },
@@ -11285,7 +11847,8 @@
                 "n": "c"
               },
               "text": "kiṃ tasya sādhanair anyaiḥ",
-              "segment_number": 470
+              "segment_number": 470,
+              "translated_text": "what need has such a person of other spiritual practices?"
             },
             {
               "tag": "seg",
@@ -11294,12 +11857,14 @@
                 "n": "d"
               },
               "text": "kiṃkarāḥ sarvapārthivās",
-              "segment_number": 471
+              "segment_number": 471,
+              "translated_text": "All kings become his servants."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 472
+              "segment_number": 472,
+              "translated_text": "//"
             }
           ]
         }
@@ -11365,12 +11930,13 @@
       ]
     },
     {
-      "tag": "p",
+      "tag": "Subchapter",
       "attributes": {
         "{http://www.w3.org/XML/1998/namespace}id": "NKv_p34342"
       },
-      "text": "[durjanāḥ]",
-      "segment_number": 473
+      "text": "durjanāḥ",
+      "segment_number": 473,
+      "translated_text": "The Wicked"
     },
     {
       "tag": "note",
@@ -11380,16 +11946,17 @@
       },
       "children": [
         {
-          "tag": "p",
+          "tag": "Subchapter",
           "attributes": {},
-          "text": "[durjanāḥ]"
+          "text": "durjanāḥ"
         }
       ]
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_94"
+        "id": "NKv_94",
+        "label": "NKv 94"
       },
       "children": [
         {
@@ -11403,7 +11970,8 @@
                 "n": "a"
               },
               "text": "daṇḍyamānā vikurvanti",
-              "segment_number": 474
+              "segment_number": 474,
+              "translated_text": "When punished, they misbehave;"
             },
             {
               "tag": "seg",
@@ -11412,7 +11980,8 @@
                 "n": "b"
               },
               "text": "lālyamānās tatas tarām",
-              "segment_number": 475
+              "segment_number": 475,
+              "translated_text": "when indulged, all the more so—"
             }
           ]
         },
@@ -11427,7 +11996,8 @@
                 "n": "c"
               },
               "text": "durjanānām ato nyāyyaṃ",
-              "segment_number": 476
+              "segment_number": 476,
+              "translated_text": "for the wicked, therefore, the proper course is"
             },
             {
               "tag": "seg",
@@ -11436,12 +12006,14 @@
                 "n": "d"
               },
               "text": "dūrād eva visarjanam",
-              "segment_number": 477
+              "segment_number": 477,
+              "translated_text": "dismissal from a distance."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 478
+              "segment_number": 478,
+              "translated_text": "//"
             }
           ]
         }
@@ -11509,7 +12081,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_95"
+        "id": "NKv_95",
+        "label": "NKv 95"
       },
       "children": [
         {
@@ -11523,7 +12096,8 @@
                 "n": "a"
               },
               "text": "adānam īṣaddānaṃ ca",
-              "segment_number": 479
+              "segment_number": 479,
+              "translated_text": "Non-giving and slight giving"
             },
             {
               "tag": "seg",
@@ -11532,7 +12106,8 @@
                 "n": "b"
               },
               "text": "kimcitkopāya durdhiyām",
-              "segment_number": 480
+              "segment_number": 480,
+              "translated_text": "cause some anger in the wicked;"
             }
           ]
         },
@@ -11547,7 +12122,8 @@
                 "n": "c"
               },
               "text": "saṃpūrṇadānaṃ prakṛtir",
-              "segment_number": 481
+              "segment_number": 481,
+              "translated_text": "complete giving becomes [their] nature,"
             },
             {
               "tag": "seg",
@@ -11556,12 +12132,14 @@
                 "n": "d"
               },
               "text": "virāmo vairakāraṇam",
-              "segment_number": 482
+              "segment_number": 482,
+              "translated_text": "and cessation [of giving] becomes the cause of enmity."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 483
+              "segment_number": 483,
+              "translated_text": "//"
             }
           ]
         }
@@ -11629,7 +12207,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_96"
+        "id": "NKv_96",
+        "label": "NKv 96"
       },
       "children": [
         {
@@ -11643,7 +12222,8 @@
                 "n": "a"
               },
               "text": "jyāyān asaṃstavo duṣṭair",
-              "segment_number": 484
+              "segment_number": 484,
+              "translated_text": "Non-association with the wicked is preferable;"
             },
             {
               "tag": "seg",
@@ -11652,7 +12232,8 @@
                 "n": "b"
               },
               "text": "īrṣyāyai saṃstavaḥ punas",
-              "segment_number": 485
+              "segment_number": 485,
+              "translated_text": "association, moreover, [leads] to jealousy;"
             }
           ]
         },
@@ -11667,7 +12248,8 @@
                 "n": "c"
               },
               "text": "apatyasaṃbandhavidhiḥ",
-              "segment_number": 486
+              "segment_number": 486,
+              "translated_text": "the arrangement of marriage alliance"
             },
             {
               "tag": "seg",
@@ -11676,12 +12258,14 @@
                 "n": "d"
               },
               "text": "svānarthāyaiva kevalam",
-              "segment_number": 487
+              "segment_number": 487,
+              "translated_text": "is solely for one's own ruin."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 488
+              "segment_number": 488,
+              "translated_text": "//"
             }
           ]
         }
@@ -11749,7 +12333,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_97"
+        "id": "NKv_97",
+        "label": "NKv 97"
       },
       "children": [
         {
@@ -11763,7 +12348,8 @@
                 "n": "a"
               },
               "text": "jñāteyaṃ jñānahīnatvaṃ",
-              "segment_number": 489
+              "segment_number": 489,
+              "translated_text": "Kinship, lack of knowledge,"
             },
             {
               "tag": "seg",
@@ -11772,7 +12358,8 @@
                 "n": "b"
               },
               "text": "piśunatvaṃ daridratā",
-              "segment_number": 490
+              "segment_number": 490,
+              "translated_text": "slander, and poverty—"
             }
           ]
         },
@@ -11787,7 +12374,8 @@
                 "n": "c"
               },
               "text": "milanti yadi catvāri",
-              "segment_number": 491
+              "segment_number": 491,
+              "translated_text": "if these four come together,"
             },
             {
               "tag": "seg",
@@ -11796,12 +12384,14 @@
                 "n": "d"
               },
               "text": "tad diśe 'pi namo namas",
-              "segment_number": 492
+              "segment_number": 492,
+              "translated_text": "then salutations even to that direction!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 493
+              "segment_number": 493,
+              "translated_text": "//"
             }
           ]
         }
@@ -11869,7 +12459,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_98"
+        "id": "NKv_98",
+        "label": "NKv 98"
       },
       "children": [
         {
@@ -11883,7 +12474,8 @@
                 "n": "a"
               },
               "text": "parachidreṣu hṛdayaṃ",
-              "segment_number": 494
+              "segment_number": 494,
+              "translated_text": "The heart [set] on others' faults,"
             },
             {
               "tag": "seg",
@@ -11892,7 +12484,8 @@
                 "n": "b"
               },
               "text": "paravārtāsu ca śravas",
-              "segment_number": 495
+              "segment_number": 495,
+              "translated_text": "the ear on others' affairs,"
             }
           ]
         },
@@ -11907,7 +12500,8 @@
                 "n": "c"
               },
               "text": "paramarmāsu vācaṃ ca",
-              "segment_number": 496
+              "segment_number": 496,
+              "translated_text": "and speech on others' vulnerabilities—"
             },
             {
               "tag": "seg",
@@ -11916,12 +12510,14 @@
                 "n": "d"
               },
               "text": "khalānām asṛjad vidhis",
-              "segment_number": 497
+              "segment_number": 497,
+              "translated_text": "thus did the Creator fashion the wicked."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 498
+              "segment_number": 498,
+              "translated_text": "//"
             }
           ]
         }
@@ -11989,7 +12585,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_99"
+        "id": "NKv_99",
+        "label": "NKv 99"
       },
       "children": [
         {
@@ -12003,7 +12600,8 @@
                 "n": "a"
               },
               "text": "viṣeṇa pucchalagnena",
-              "segment_number": 499
+              "segment_number": 499,
+              "translated_text": "Like a scorpion with poison in its tail"
             },
             {
               "tag": "seg",
@@ -12012,7 +12610,8 @@
                 "n": "b"
               },
               "text": "vṛścikaḥ prāṇinām iva",
-              "segment_number": 500
+              "segment_number": 500,
+              "translated_text": "[stinging] living beings,"
             }
           ]
         },
@@ -12027,7 +12626,8 @@
                 "n": "c"
               },
               "text": "kalinā daśamāṃśena",
-              "segment_number": 501
+              "segment_number": 501,
+              "translated_text": "even a tenth part of <s>Kali</s>"
             },
             {
               "tag": "seg",
@@ -12036,12 +12636,14 @@
                 "n": "d"
               },
               "text": "sarvaḥ kālo 'pi dāruṇas",
-              "segment_number": 502
+              "segment_number": 502,
+              "translated_text": "makes every age terrible."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 503
+              "segment_number": 503,
+              "translated_text": "//"
             }
           ]
         }
@@ -12109,7 +12711,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_100"
+        "id": "NKv_100",
+        "label": "NKv 100"
       },
       "children": [
         {
@@ -12123,7 +12726,8 @@
                 "n": "a"
               },
               "text": "yatra bhāryāgiro vedā",
-              "segment_number": 504
+              "segment_number": 504,
+              "translated_text": "Where the wife's words are the <s>Vedas</s>,"
             },
             {
               "tag": "seg",
@@ -12132,7 +12736,8 @@
                 "n": "b"
               },
               "text": "yatra dharmo 'rthasādhanam",
-              "segment_number": 505
+              "segment_number": 505,
+              "translated_text": "where <s>dharma</s> (righteousness) is [merely] a means to wealth,"
             }
           ]
         },
@@ -12147,7 +12752,8 @@
                 "n": "c"
               },
               "text": "yatra svapratibhā mānaṃ",
-              "segment_number": 506
+              "segment_number": 506,
+              "translated_text": "where one's own cleverness is [the measure of] honor—"
             },
             {
               "tag": "seg",
@@ -12156,12 +12762,14 @@
                 "n": "d"
               },
               "text": "tasmai śrīkalaye namas",
-              "segment_number": 507
+              "segment_number": 507,
+              "translated_text": "salutations to that glorious <s>Kali</s> [age]!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 508
+              "segment_number": 508,
+              "translated_text": "//"
             }
           ]
         }
@@ -12229,7 +12837,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_101"
+        "id": "NKv_101",
+        "label": "NKv 101"
       },
       "children": [
         {
@@ -12243,7 +12852,8 @@
                 "n": "a"
               },
               "text": "kāmam astu jagat sarvaṃ",
-              "segment_number": 509
+              "segment_number": 509,
+              "translated_text": "Let the entire world willingly"
             },
             {
               "tag": "seg",
@@ -12252,7 +12862,8 @@
                 "n": "b"
               },
               "text": "kālasyāsya vaśaṃvadam",
-              "segment_number": 510
+              "segment_number": 510,
+              "translated_text": "be subject to this [power of] Time;"
             }
           ]
         },
@@ -12267,7 +12878,8 @@
                 "n": "c"
               },
               "text": "kālakālaṃ prapannānāṃ",
-              "segment_number": 511
+              "segment_number": 511,
+              "translated_text": "for those who have taken refuge in <s>Kālakāla</s> (the Destroyer of Time, i.e., <s>Śiva</s>),"
             },
             {
               "tag": "seg",
@@ -12276,12 +12888,14 @@
                 "n": "d"
               },
               "text": "kālaḥ kiṃ naḥ kariṣyati?",
-              "segment_number": 512
+              "segment_number": 512,
+              "translated_text": "what can Time do to us?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 513
+              "segment_number": 513,
+              "translated_text": "//"
             }
           ]
         }
@@ -12349,7 +12963,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "NKv_102"
+        "id": "NKv_102",
+        "label": "NKv 102"
       },
       "children": [
         {
@@ -12363,7 +12978,8 @@
                 "n": "a"
               },
               "text": "kavinā nīlakaṇṭhena",
-              "segment_number": 514
+              "segment_number": 514,
+              "translated_text": "By the poet <s>Nīlakaṇṭha</s>,"
             },
             {
               "tag": "seg",
@@ -12372,7 +12988,8 @@
                 "n": "b"
               },
               "text": "kaler etad viḍambanam",
-              "segment_number": 515
+              "segment_number": 515,
+              "translated_text": "this satire of the <s>Kali</s> [age]"
             }
           ]
         },
@@ -12387,7 +13004,8 @@
                 "n": "c"
               },
               "text": "racitaṃ viduṣāṃ prītyai",
-              "segment_number": 516
+              "segment_number": 516,
+              "translated_text": "was composed for the delight of the learned,"
             },
             {
               "tag": "seg",
@@ -12396,12 +13014,14 @@
                 "n": "d"
               },
               "text": "rājāsthānānumodanam",
-              "segment_number": 517
+              "segment_number": 517,
+              "translated_text": "[with] the approval of [the court at] <s>Rājāsthāna</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 518
+              "segment_number": 518,
+              "translated_text": "//"
             }
           ]
         }
@@ -12470,7 +13090,8 @@
       "tag": "trailer",
       "attributes": {},
       "text": "iti Nīlakaṇṭha-viracitaṃ Kaliviḍambanaṃ saṃpūrṇam",
-      "segment_number": 519
+      "segment_number": 519,
+      "translated_text": "Thus ends the <s>Kaliviḍambana</s> composed by <s>Nīlakaṇṭha</s>."
     }
   ]
 }

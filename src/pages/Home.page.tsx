@@ -1,4 +1,6 @@
 import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
+import { useParams, useLocation, useNavigate, useSearchParams } from 'react-router-dom';
+import { findOriginalBySlug, loadTitles, toSlug } from '../utils/bookSlug';
 import {
   Select,
   MultiSelect,
@@ -6,7 +8,6 @@ import {
   Textarea,
   Button,
   Loader,
-  Text,
   Stack,
   ActionIcon,
   Skeleton,
@@ -39,9 +40,9 @@ import {
 } from '../utils/Api';
 import { HeaderSearch } from '@/components/Header/HeaderSearch';
 import { NavbarSimple } from '@/components/Navbar/NavbarSimple';
+import Welcome from '@/components/Welcome/Welcome';
 import classes from './HomePage.module.css';
 import DictionarySelectComponent from '@/components/Navbar/DictionarySelect';
-import BookSelect from '@/components/Navbar/BookSelect';
 import ClickableSimpleBooks from '@/components/ClickableBooks/ClickableSimpleBooks';
 import ClickableWords from '@/components/ClickableWords';
 import { WordEntry, GroupedEntries } from '../types/wordTypes';
@@ -71,6 +72,13 @@ interface ResizablePanelHandle {
 }
 
 export function HomePage() {
+  // ----- Routing -----
+  const { slug, segment } = useParams<{ slug?: string; segment?: string }>();
+  const location = useLocation();
+  const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const isTextRoute = location.pathname.startsWith('/text/');
+
   // ----- General state -----
   const [text, setText] = useState('');
   const [scheme, setScheme] = useState<ComboboxItem>({ value: 'IAST', label: 'IAST' });
@@ -120,6 +128,8 @@ export function HomePage() {
   const [matchedBookSegments, setMatchedBookSegments] = useState<number[]>([]);
 
   const isWordInfoHalf = text !== '' || bookTitle !== null;
+  const showWelcomeState =
+    text.trim() === '' && bookTitle === null && selectedWord.trim() === '' && wordData.length === 0;
 
   // OLD const breakpoints = [50, 450, 600, 800];
 
@@ -220,13 +230,23 @@ export function HomePage() {
             // Always try the API first
             await fetchBookFromApi(bookTitle);
           } catch (apiError) {
-            // If API fails, try the local resource
-            // for offline add /public/ for online remove it or it won't load the books
-            const response = await fetch(`/resources/books/${bookTitle}.json`);
-            if (!response.ok) {
-              throw new Error(`Failed to fetch: ${response.status}`);
+            // If API fails, try the local resource.
+            // Book filenames on disk are a mix of NFC and NFD (macOS APFS preserves
+            // whatever form the file was created with), so try the title as-is first
+            // and fall back to the other normalization. Vite's SPA fallback returns
+            // text/html with 200, so we check Content-Type instead of response.ok.
+            const tryLocalFetch = async (name: string) => {
+              const r = await fetch(`/resources/books/${name}.json`);
+              if (!r.ok) return null;
+              if (!(r.headers.get('content-type') || '').includes('json')) return null;
+              return r.json();
+            };
+            const data =
+              (await tryLocalFetch(bookTitle.normalize('NFC'))) ??
+              (await tryLocalFetch(bookTitle.normalize('NFD')));
+            if (!data) {
+              throw new Error(`Failed to fetch local book: ${bookTitle}`);
             }
-            const data = await response.json();
             setBookText(data);
           }
         } catch (error) {
@@ -259,6 +279,76 @@ export function HomePage() {
       setSearchMatchedSegments([]);
     }
   }, [bookTitle]);
+
+  // Effect: URL → bookTitle. Resolves the route slug to the identifier the
+  // loader expects. /book/:slug → reverse-lookup via titles.json (curated
+  // catalog). /text/:slug → slug is the backend identifier; the AdvancedSearch
+  // callback sets bookTitle to the original (with diacritics) before navigating,
+  // so the toSlug-match guard below avoids clobbering it. Cold-loads of /text/
+  // URLs use the slug as-is and rely on backend tolerance.
+  useEffect(() => {
+    if (!slug) return;
+    let cancelled = false;
+    if (isTextRoute) {
+      if (!bookTitle || toSlug(bookTitle) !== slug) setBookTitle(slug);
+    } else {
+      loadTitles()
+        .then((titles) => {
+          if (cancelled) return;
+          const original = findOriginalBySlug(slug, titles);
+          if (original && bookTitle !== original) setBookTitle(original);
+        })
+        .catch((err) => console.error('Failed to resolve book slug:', err));
+    }
+    return () => {
+      cancelled = true;
+    };
+  }, [slug, isTextRoute]);
+
+  // Effect: URL :segment → targetSegmentNumber. Runs after the loader effect
+  // sets bookText so the existing scroll-to-segment logic picks it up.
+  useEffect(() => {
+    if (segment == null) return;
+    const n = Number(segment);
+    if (Number.isFinite(n)) setTargetSegmentNumber(n);
+  }, [segment]);
+
+  // ----- Dictionary search ↔ URL sync -----
+  // The lookup lives in a query string (?w=…&dicts=…) rather than a path
+  // segment so it layers on top of the book/text route instead of replacing
+  // it — you can look a word up while reading. mw is the default dictionary,
+  // so a bare-mw (or empty) selection is omitted from the URL; any other set
+  // is encoded in full (mw included if it's there alongside others).
+  const isDefaultDicts = (dicts: string[]) =>
+    dicts.length === 0 || (dicts.length === 1 && dicts[0] === 'mw');
+
+  // Effect: URL ?w / ?dicts → dictionary search state. Authoritative, so
+  // sharing a link, the back button, and forward all reproduce the lookup.
+  useEffect(() => {
+    const w = searchParams.get('w') ?? '';
+    if (w !== selectedWord) setSelectedWord(w);
+
+    const dictsParam = searchParams.get('dicts');
+    const dicts = dictsParam ? dictsParam.split(',').filter(Boolean) : [];
+    if (dicts.join(',') !== selectedDictionaries.join(',')) setSelectedDictionaries(dicts);
+  }, [searchParams]);
+
+  // Effect: dictionary search state → URL. Skips the first run so the read
+  // effect above can hydrate state from an incoming URL without it being
+  // wiped before the word lands.
+  const skipDictUrlWrite = useRef(true);
+  useEffect(() => {
+    if (skipDictUrlWrite.current) {
+      skipDictUrlWrite.current = false;
+      return;
+    }
+    const next = new URLSearchParams(searchParams);
+    if (selectedWord) next.set('w', selectedWord);
+    else next.delete('w');
+    if (isDefaultDicts(selectedDictionaries)) next.delete('dicts');
+    else next.set('dicts', selectedDictionaries.join(','));
+    if (next.toString() !== searchParams.toString()) setSearchParams(next);
+  }, [selectedWord, selectedDictionaries]);
 
   // Function to fetch a book from the API
   const fetchBookFromApi = async (title: string) => {
@@ -297,8 +387,6 @@ export function HomePage() {
   // Calculate heights based on viewport
   const vhActual = `${availableHeight}px`;
   const vhActualHalf = `${availableHeight / 2}px`;
-
-  const showEmptyMobileState = isMobile && text === null && bookTitle === null && wordData == null;
 
   const textScrollRef = useRef<HTMLDivElement>(null);
 
@@ -633,12 +721,6 @@ export function HomePage() {
                           }
                     }
                   >
-                    {showEmptyMobileState && (
-                      <Text c="dimmed" ta="center" mt="xl">
-                        Select a book or enter text to begin
-                      </Text>
-                    )}
-
                     {/* Here starts the chevron container */}
                     {isWordInfoHalf && (
                       <div className={classes.chevronContainer}>
@@ -664,7 +746,9 @@ export function HomePage() {
                     )}
 
                     <div className={classes.scrollContainer}>
-                      {isLoadingWordData ? (
+                      {showWelcomeState ? (
+                        <Welcome setBookTitle={setBookTitle} bookTitle={bookTitle} />
+                      ) : isLoadingWordData ? (
                         <LoadingSkeleton />
                       ) : (
                         <WordDataComponent
@@ -712,9 +796,14 @@ export function HomePage() {
             // console.log('Advanced search params:', params);
           }}
           setTargetSegmentNumber={setTargetSegmentNumber}
-          onOpenText={(textId, bookTitle) => {
-            // Store both the ID and title
+          onOpenText={(textId, bookTitle, segmentNumber) => {
+            // Set bookTitle directly with the original (diacritics preserved) so
+            // the API call uses what the backend expects. The URL gets the ASCII
+            // slug only for cosmetics/sharing; the URL effect's slug-match guard
+            // prevents it from overwriting bookTitle back to the slug.
             setBookTitle(bookTitle);
+            const path = `/text/${toSlug(bookTitle)}` + (segmentNumber ? `/${segmentNumber}` : '');
+            navigate(path);
           }}
           matchedBookSegments={matchedBookSegments}
           setMatchedBookSegments={setMatchedBookSegments}

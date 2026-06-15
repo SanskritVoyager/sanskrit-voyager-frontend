@@ -1,5 +1,5 @@
 import { useState, ReactNode } from 'react';
-import { Group, Code, Select, Stack, Textarea, Button } from '@mantine/core';
+import { Group, Code, Select, Stack, Textarea, Button, Text } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import {
   IconBellRinging,
@@ -21,6 +21,7 @@ import classes from './NavbarSimple.module.css'; // You might need to adjust the
 import DictionarySelectComponent from './DictionarySelect';
 import BookSelect from './BookSelect';
 import TranslationControl from './TranslationControl';
+import Logo from '../../utils/logo';
 
 interface NavbarProps {
   // Updated Props
@@ -79,6 +80,11 @@ export function NavbarSimple({
 
   return (
     <nav className={classes.navbar}>
+      <div className={classes.navbarHeader}>
+        <Text className={classes.brandTitle}>Sanskrit Voyager</Text>
+        <Logo size={32} className={classes.logo} />
+      </div>
+
       <div className={classes.navbarMain}>
         {/* Content from NavbarSimple moved here */}
         <Stack gap="3px" justify="flex-end">
@@ -106,7 +112,7 @@ export function NavbarSimple({
             }}
             style={{
               width: '100%',
-              paddingTop: isSmallMobile ? '30px' : '60px',
+              paddingTop: '0px',
             }}
           />
 
@@ -153,7 +159,9 @@ export function NavbarSimple({
           maxRows={8}
         />
 
-        {(text || bookTitle) && (
+        {/* Start Reading is mobile-only: on desktop/tablet the floating panel
+            overlays the reading view, so the button is redundant. */}
+        {isMobile && (text || bookTitle) && (
           <Button
             className={classes.readingButton}
             leftSection={<IconVocabularyOff size={14} />}
@@ -201,6 +209,23 @@ export function NavbarSimple({
             Provide Feedback
           </Button>
         )} */}
+      </div>
+
+      <div className={classes.navbarFooter}>
+        <a className={classes.footerLink} href="/docs/">
+          Documentation
+        </a>
+        <a className={classes.footerLink} href="/docs/about">
+          About
+        </a>
+        <a
+          className={classes.footerLink}
+          href="https://github.com/SanskritVoyager/sanskrit-voyager-frontend"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
+        </a>
       </div>
     </nav>
   );

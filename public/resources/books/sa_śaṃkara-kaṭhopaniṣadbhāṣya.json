@@ -115,10 +115,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "oṃ\nuśan ha vai vājaśravasaḥ sarvavedasaṃ dadau /\ntasya ha naciketā nāma putra āsa // KaU_1.1/1,1.1 //",
           "segment_number": 11,
           "translated_text": "Oṃ. <s>Uśan</s> indeed, <s>Vājaśravasa</s> gave away all his possessions. He had a son named <s>Naciketas</s>. ||<s>KaU</s> 1.1||"
@@ -133,10 +130,7 @@
       "translated_text": "Here the narrative serves to praise the knowledge. '<s>Uśan</s>' means 'desiring'; '<s>ha</s>' and '<s>vai</s>' are particles for recalling a past event. '<s>Vājaśravas</s>' — he whose fame (<s>śravas</s>) arises from food (<s>vāja</s>, i.e., wealth) and its giving, or [the word is used] as a proper name. '<s>Vājaśravasaḥ</s>' means the son of <s>Vājaśravas</s>. He, desiring the fruit of the <s>Viśvajit</s> sacrifice and the <s>Sarvamedha</s>, performed the ritual. In that sacrifice, he gave — gave away — all his possessions, all his wealth. That sacrificer had a son named <s>Naciketas</s>. ||<s>KaUBh</s> 1.1||"
     },
     {
-      "tag": "l",
-      "attributes": {
-        "rend": "bold"
-      },
+      "tag": "quote",
       "text": "taṃ ha kumāraṃ santaṃ dakṣiṇāsu nīyamānāsu śraddhāviveśa so 'manyata // KaU_1.2/1,1.2 //",
       "segment_number": 13,
       "translated_text": "While he was still a boy, as the <s>dakṣiṇās</s> (sacrificial gifts) were being led away, faith entered him. He thought: ||<s>KaU</s> 1.2||"
@@ -908,10 +902,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ye ye kāmā durlabhā martyaloke sarvān kāmāṃś chandataḥ prārthayasva /\nimā rāmāḥ sarathāḥ satūryā na hīdṛśā lambhanīyā manuṣyaiḥ /\nābhir matprattābhiḥ paricārayasva naciketo maraṇaṃ mānuprākṣīḥ // KaU_1.25/1,1.25 //",
           "segment_number": 96,
           "translated_text": "Whatever desires are hard to obtain in the mortal world, ask for all those desires according to your wish. Here are these <s>rāmāḥ</s> (beautiful maidens) with chariots, with musical instruments — such as these are not to be obtained by mortals. Let yourself be served by these, given by me. O <s>Naciketas</s>, do not ask about death."
@@ -1855,10 +1846,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "atha tṛtīyā vallī /\nṛtaṃ pibantau sukṛtasya loke guhāṃ praviṣṭau parame parārdhe /\nchāyātapau brahmavido vadanti pañcāgnayo ye ca triṇāciketāḥ // KaU_3.1/1,3.1 //",
           "segment_number": 195,
           "translated_text": "Now the third <s>vallī</s>:\nThe two who drink <s>ṛta</s> (truth/order), in the world of good deeds, having entered the cave, in the highest abode —\nthose who know <s>Brahman</s> call them shadow and light, as do the householders of the five fires and those who have thrice built the <s>Nāciketa</s> [fire]. (<s>KaU</s> 3.1)"
@@ -3277,10 +3265,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ya eṣa supteṣu jāgarti kāmaṃ kāmaṃ puruṣo nirmimāṇaḥ /\ntad eva śukraṃ tad brahma tad evāmṛtam ucyate /\ntasmiṃl lokāḥ śritāḥ sarve tad u nātyeti kaścana // etad vai tat // KaU_5.8/2,2.8 //",
           "segment_number": 348,
           "translated_text": "He who, among all sleeping beings, remains awake, shaping desire after desire — that <s>Puruṣa</s> — that alone is the Bright, that is <s>Brahman</s>, that alone is called the Immortal. In it all worlds rest; no one transcends it. This verily is That."
@@ -3523,10 +3508,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ūrdhvamūlo avākśākha eṣo 'śvatthaḥ sanātanaḥ /\ntad eva śukraṃ tad brahma tad evāmṛtam ucyate /\ntasmiṃl lokāḥ śritāḥ sarve tad u nātyeti kaścana // etad vai tat // KaU_6.1/2,3.1 //",
           "segment_number": 374,
           "translated_text": "With roots above and branches below, this is the eternal <s>Aśvattha</s> (sacred fig tree). That alone is the Bright, that is <s>Brahman</s>, that alone is called the Immortal. In it all worlds rest; no one transcends it. This verily is That."
@@ -3764,7 +3746,8 @@
       "tag": "p",
       "attributes": {},
       "text": "avyaktāt tu paraḥ puruṣo vyāpako, vyāpakasyāpy ākāśādeḥ sarvasya kāraṇatvād aliṅgo liṅgyate gamyate yena tal liṅgaṃ budhyādi, tad avidyamānaṃ yasya so 'yam aliṅga eva ca / sarvasaṃsāradharmavarjita ity etat / yaṃ jñātvācāryataḥ śāstrataś ca mucyate jantur avidyādihṛdayagranthibhir jīvann eva, patite 'pi śarīre 'mṛtatvaṃ ca gacchati / so 'liṅgaḥ paro 'vyaktāt puruṣa iti pūrveṇaiva sambandhaḥ // KaUBh_6.8/2,3.8 //",
-      "segment_number": 399
+      "segment_number": 399,
+      "translated_text": "But higher than the Unmanifest (<s>avyakta</s>) is the <s>Puruṣa</s> (Supreme Person), all-pervading. Because even the pervading [entities] like space and all [else] are caused [by Him], He is without a mark (<s>aliṅga</s>) — that by which one is marked or known, such as intellect and the like, is a mark (<s>liṅga</s>), and that is absent in Him — thus He is indeed without a mark. [This means] He is devoid of all the properties of <s>saṃsāra</s> — that is the meaning. Having known whom — through a teacher and through scripture — the living being is liberated even while alive from the knots of the heart beginning with ignorance, and even when the body falls, attains immortality. That markless <s>Puruṣa</s>, higher than the Unmanifest — the connection is with the previous [verse]. // KaUBh 6.8/2,3.8 //"
     },
     {
       "tag": "lg",
@@ -3776,13 +3759,15 @@
           "tag": "l",
           "attributes": {},
           "text": "na saṃdṛśe tiṣṭhati rūpam asya na cakṣuṣā paśyati kaścanainam /",
-          "segment_number": 400
+          "segment_number": 400,
+          "translated_text": "His form does not stand within the range of sight; no one beholds Him with the eye."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "hṛdā manīṣā manasābhikḷpto ya etad vidur amṛtās te bhavanti // KaU_6.9/2,3.9 //",
-          "segment_number": 401
+          "segment_number": 401,
+          "translated_text": "He is apprehended by the heart, by the intellect, by the mind — those who know this become immortal. // KaU 6.9/2,3.9 //"
         }
       ]
     },
@@ -3790,7 +3775,8 @@
       "tag": "p",
       "attributes": {},
       "text": "kathaṃ tarhi tasyāliṅgasya darśanam upapadyata ity ucyate na san dṛśe san darśanaviṣaye na tiṣṭhati pratyagātmano 'sya rūpam / ato na cakṣuṣā sarvendriyeṇa, cakṣurgrahaṇasyopalākṣaṇārthatvāt, paśyati nopalabhate kaścana kaścid apy enaṃ prakṛtam ātmānam / kathaṃ tarhi taṃ paśyed ity ucyate -- hṛdā hṛtsthayā buddhyā / manīṣā manasaḥ saṅkalpādirūpasyeṣṭe niyantṛtveneti manīṭ tayā manīṣāvikalpayitryā buddhyā / manasā mananarūpeṇa samyag darśanenābhikḷpto 'bhisamarthito 'bhiprakāśita ity etat / ātmā jñātuṃ śakya iti vākyaśeṣaḥ / tam ātmānaṃ brahmaitad ye vidur amṛtās te bhavanti // KaUBh_6.9/2,3.9 //",
-      "segment_number": 402
+      "segment_number": 402,
+      "translated_text": "How then is the vision of that markless [<s>Puruṣa</s>] possible? It is said: His form — of the innermost Self — does not stand within the range of sight, within the domain of visual perception. Therefore, no one — not anyone at all — sees or apprehends Him with the eye — [meaning] with any sense organ, since the mention of the eye is by way of illustration. How then does one see Him? It is said: By the heart — by the intellect situated in the heart. By <s>manīṣā</s> — [the word is analyzed as] <s>manasaḥ</s> (of the mind, whose form is volition and the like) <s>īṣṭe</s> (rules) as controller, thus <s>manīṭ</s>; by that — by the discriminating intellect called <s>manīṣā</s>. By the mind — by right vision of the nature of thought. \"Apprehended\" (<s>abhikḷpta</s>) means ascertained, illuminated — that is the meaning. The completion of the sentence is: the Self can be known [thus]. Those who know this Self, this <s>Brahman</s>, become immortal. // KaUBh 6.9/2,3.9 //"
     },
     {
       "tag": "lg",
@@ -3802,13 +3788,15 @@
           "tag": "l",
           "attributes": {},
           "text": "yadā pañcāvatiṣṭhante jñānāni manasā saha /",
-          "segment_number": 403
+          "segment_number": 403,
+          "translated_text": "When the five [organs of] knowledge, together with the mind, come to rest,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "buddhiś ca na viceṣṭati tām āhuḥ paramāṃ gatim // KaU_6.10/2,3.10 //",
-          "segment_number": 404
+          "segment_number": 404,
+          "translated_text": "and the intellect too does not stir — they call that the supreme state. // KaU 6.10/2,3.10 //"
         }
       ]
     },
@@ -3816,7 +3804,8 @@
       "tag": "p",
       "attributes": {},
       "text": "sā hṛnmanīṭ kathaṃ prāpyata iti tad artho yoga ucyate -- yadā yasmin kāle svaviṣayebhyo nivartitānyātmany eva pañca jñānāni / jñānārthatvāc chrotrādīnīndriyāṇi jñānāny ucyante / avatiṣṭhante saha manasā yad anugatāni, tena saṃkalpādivyāvṛttenāntaḥkaraṇena / buddhiś cādhyavasāyalakṣaṇā na viceṣṭati svavyāpāreṣu na viceṣṭate na vyāpriyate, tām āhuḥ paramā gatim // KaUBh_6.10/2,3.10 //",
-      "segment_number": 405
+      "segment_number": 405,
+      "translated_text": "How is that heart-intellect attained? For that purpose, <s>yoga</s> is described: \"When\" — at whatever time the five organs of knowledge, withdrawn from their respective objects, rest in the Self alone. The sense organs — hearing and the like — are called \"organs of knowledge\" because they serve the purpose of knowledge. They rest \"together with the mind\" — that is, accompanied by the internal organ (mind) which has turned away from volition and the like. \"And the intellect\" — characterized by determination — \"does not stir,\" does not move, does not engage in its own activities. They call that the supreme state. // KaUBh 6.10/2,3.10 //"
     },
     {
       "tag": "lg",
@@ -3828,13 +3817,15 @@
           "tag": "l",
           "attributes": {},
           "text": "tāṃ yogam iti manyante sthirām indriyadhāraṇām /",
-          "segment_number": 406
+          "segment_number": 406,
+          "translated_text": "They consider that — the firm holding of the senses — to be <s>yoga</s>."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "apramattas tadā bhavati yogo hi prabhavāpyayau // KaU_6.11/2,3.11 //",
-          "segment_number": 407
+          "segment_number": 407,
+          "translated_text": "One then becomes vigilant; for <s>yoga</s> is subject to arising and passing away. // KaU 6.11/2,3.11 //"
         }
       ]
     },
@@ -3842,7 +3833,8 @@
       "tag": "p",
       "attributes": {},
       "text": "tām īdṛśīṃ tadavasthāṃ yogam iti manyante viyogam eva santam / sarvānarthasaṃyogaviyogalakṣaṇā hīyam avasthā yoginaḥ / etasyāṃ hy avasthāyām avidyādhyāropaṇavarjitasvarūpapratiṣṭha ātmā / sthirām indrayadhāraṇāṃ sthirām acalām indrayadhāraṇāṃ bāhyāntaḥkaraṇānāṃ dhāraṇam ity arthaḥ / apramattaḥ pramādavarjitaḥ samādhānaṃ prati nityaṃ yatnavāṃs tadā tasmin kāle, yadaiva pravṛttayogo bhavatīti sāmarthyād avagamyate / na hi buddhyādiceṣṭābhāve pramādasaṃbhavo 'sti / tasmāt prāg eva buddhyādiceṣṭoparamād apramādo vidhīyate / athavā yadaivendriyāṇāṃ sthirā dhāraṇā, tadānīm eva niraṅkuśam apramattatvam ity ato 'bhidhīyate 'pramattas tadā bhavatīti / kutaḥ / yogo hi yasmāt prabhavāpyayāv upajanāpāyadharmaka ity arthaḥ / ato 'pāyaparihārāyāpramādaḥ kartavya ity abhiprāyaḥ // KaUBh_6.11/2,3.11 //",
-      "segment_number": 408
+      "segment_number": 408,
+      "translated_text": "They consider that state, being of such a nature, to be <s>yoga</s> — though it is actually a disjunction (<s>viyoga</s>). For this state of the <s>yogin</s> is characterized by the disjunction from all connection with misfortune. In this state, the Self is established in its own nature, free from the superimposition caused by ignorance. \"Firm holding of the senses\" — firm, unshaking holding of the senses, meaning the restraint of the external and internal organs — that is the meaning. \"Vigilant\" — free from heedlessness, always making effort toward concentration at that time, when <s>yoga</s> is undertaken — this is understood from the context. For there is no possibility of heedlessness in the absence of activity of the intellect and the like. Therefore, vigilance is prescribed even before the cessation of the activity of the intellect and the like. Or, when there is firm holding of the senses, at that very time there is unbridled vigilance — hence it is said \"one then becomes vigilant.\" Why? Because <s>yoga</s> — since <s>yoga</s> — is subject to arising and passing away, meaning it has the nature of coming into being and ceasing. Therefore, to avoid its cessation, vigilance should be maintained — that is the purport. // KaUBh 6.11/2,3.11 //"
     },
     {
       "tag": "lg",
@@ -3854,13 +3846,15 @@
           "tag": "l",
           "attributes": {},
           "text": "naiva vācā na manasā prāptuṃ śakyo na cakṣuṣā /",
-          "segment_number": 409
+          "segment_number": 409,
+          "translated_text": "He cannot be attained by speech, nor by mind, nor by the eye."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "astīti bruvato 'nyatra kathaṃ tad upalabhyate // KaU_6.12/2,3.12 //",
-          "segment_number": 410
+          "segment_number": 410,
+          "translated_text": "Other than to one who says \"He exists\" — how can He be apprehended? // KaU 6.12/2,3.12 //"
         }
       ]
     },
@@ -3868,7 +3862,8 @@
       "tag": "p",
       "attributes": {},
       "text": "buddhyādiceṣṭāviṣayaṃ ced brahmedaṃ tad iti viśeṣato gṛhyeta, buddhyādyuparame ca grahaṇakāraṇābhāvād anupalabhyamānaṃ nāsty eva brahma / yad dhi karaṇagocaraṃ tad astīti prasiddhaṃ loke viparītaṃ cāsad iti / ataś cānarthako yogo 'anupalabhyamānatvād vā nāstīty upalabdhavyaṃ brahmety evaṃ prāpta idam ucyate / satyam / naiva vācā na manasā na cakṣuṣā nānyair apīndriyaiḥ prāptuṃ śakyata ity arthaḥ / tathāpi sarvaviśeṣarahito 'pi jagato mūlam ity avagatatvād asty eva, kāryapravilāpanasyāstitvaniṣṭhatvāt / tathā hīdaṃ kāryaṃ sūkṣmatāratamyapāramparyeṇānugamyamānaṃ sadbuddhiniṣṭhām evāvagamayati / yadāpi viṣayapravilāpanena pravilāpyamānā buddhis tadāpi sā satpratyayagarbhaiva vilīyate / buddhir hi naḥ pramāṇaṃ sadasator yāthātmyāvagame / mūlaṃ cej jagato na syād asad anvitam evedaṃ kāryam asad ity evaṃ gṛhyeta, na tv etad asti, satyasad ity eva tu gṛhyate, yathā mṛdādikāryaṃ ghaṭādi mṛdādyanvitam / tasmāj jagato mūlam ātmāstīty evopalabdhavyaḥ / kasmāt / astīti bruvato 'stitvavādina āgamārthānusāriṇaḥ śraddadhānād anyatra nāstikavādini nāsti jagato mūlam ātmā niranvayam evedaṃ kāryam abhāvāntaṃ pravilīyata iti manyamāne viparītadarśini, kathaṃ tad brahma tattvata upalabhyate, na kathañcanopalabhyata ity arthaḥ // KaUBh_6.12/2,3.12 //",
-      "segment_number": 411
+      "segment_number": 411,
+      "translated_text": "If this <s>Brahman</s>, being the object of the activity of the intellect and the like, were grasped in a specific form as \"this is that,\" then when the intellect and the like cease, due to the absence of the instrument of apprehension, <s>Brahman</s> would not exist at all since it would be unapprehended. For what is within the range of the instruments [of knowledge] is well-known in the world to exist, and the opposite [what is not within their range] is regarded as non-existent. Hence <s>yoga</s> would be purposeless; or [one might conclude:] \"since it is unapprehended, <s>Brahman</s> does not exist and is not to be apprehended\" — anticipating such a conclusion, this is said: True. He cannot be attained by speech, nor by mind, nor by the eye, nor by any other sense organs — that is the meaning. Nevertheless, being devoid of all specific attributes yet being understood as the root of the world, He certainly exists, because the dissolution of effects culminates in existence. For this effect, when traced back through the succession of increasing subtlety, leads to the conclusion of existence (<s>sat</s>). Even when the intellect, being dissolved through the dissolution of objects, dissolves, it dissolves while containing within itself the seed of the cognition of existence. For the intellect is our means of knowledge for ascertaining the true nature of existence and non-existence. If there were no root of the world, this effect would be conjoined with non-existence and would be apprehended as \"[it is] non-existent\" — but this is not the case; rather, it is apprehended as \"existent\" indeed — just as the effect of clay and the like, such as a pot, is conjoined with clay and the like. Therefore, the Self, the root of the world, is to be apprehended as indeed existing. Why? Other than (<s>anyatra</s>) — apart from — one who says \"it exists,\" one who follows the meaning of scripture, one who has faith — [the opposite being] a nihilist (<s>nāstikavādin</s>) who, holding the wrong view, thinks \"the Self, the root of the world, does not exist; this effect dissolves into utter non-existence without any trace\" — how can that <s>Brahman</s> be truly apprehended? It can in no way be apprehended [by such a person] — that is the meaning. // KaUBh 6.12/2,3.12 //"
     },
     {
       "tag": "lg",
@@ -3880,13 +3875,15 @@
           "tag": "l",
           "attributes": {},
           "text": "astīty evopalabdhavyas tattvabhāvena cobhayoḥ /",
-          "segment_number": 412
+          "segment_number": 412,
+          "translated_text": "He is to be apprehended as \"He exists\" indeed, and [then] as the true nature of both."
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "astīty evopalabdhasya tattvabhāvaḥ prasīdati // KaU_6.13/2,3.13 //",
-          "segment_number": 413
+          "segment_number": 413,
+          "translated_text": "For one who has apprehended [Him] as \"He exists,\" the true nature reveals itself. // KaU 6.13/2,3.13 //"
         }
       ]
     },
@@ -3901,12 +3898,14 @@
             "rend": "blue"
           },
           "text": "\"vācārambhaṇaṃ vikāro nāmadheyaṃ mṛttikety eva satyam\" (ChU 6,1.4)",
-          "segment_number": 415
+          "segment_number": 415,
+          "translated_text": "\"[The modification is] merely a verbal handle, a name; the reality is just clay\" (<s>Chāndogyopaniṣad</s> 6.1.4)"
         },
         {
           "tag": "text",
           "text": "iti śruteḥ / tadā tasya nirupādhikasyāliṅgasya sadasadādipratyayaviṣayatvavarjitasyātmanas tattvabhāvo bhavati / tena ca rūpeṇātmopalabdhavya ity anuvartate / tatrāpy ubhayoḥ sopādhikanirupādhikayor astitvatattvabhāvayoḥ -- nirdhāraṇārthā ṣaṣṭhī -- pūrvam astīty evopalabdhasyātmanaḥ satkāryopādhikṛtāstitvapratyayenopalabdhasyety arthaḥ / paścāt pratyastamitasarvopādhirūpa ātmanas tattvabhāvo viditāviditābhyāmanyo 'dvayasvabhāvo \"neti neti\"",
-          "segment_number": 416
+          "segment_number": 416,
+          "translated_text": "— according to this <s>Śruti</s>. Then the true nature (<s>tattvabhāva</s>) of that Self — which is without limiting adjuncts, without a mark, beyond the domain of cognitions such as existent and non-existent — comes to be. And in that form, the Self is to be apprehended — this continues [from before]. And of both — of the [Self] with limiting adjuncts and without limiting adjuncts, of existence and true nature — the genitive is in the sense of selection. First, of the Self apprehended as \"He exists\" — meaning: of the Self apprehended through the cognition of existence conditioned by the limiting adjunct of the existent effect. Afterward, the true nature of the Self — in which all forms of limiting adjuncts have set — which is other than the known and the unknown, non-dual in nature, [described as] \"not this, not this\" (<s>neti neti</s>),"
         },
         {
           "tag": "hi",
@@ -3914,7 +3913,8 @@
             "rend": "blue"
           },
           "text": "\"asthūlam anaṇv ahrasvam\" (BĀU 3,8.8)",
-          "segment_number": 417
+          "segment_number": 417,
+          "translated_text": "\"not gross, not minute, not short\" (<s>Bṛhadāraṇyakopaniṣad</s> 3.8.8),"
         },
         {
           "tag": "hi",
@@ -3922,15 +3922,18 @@
             "rend": "blue"
           },
           "text": "\"adṛśye 'nātmye 'nirukte 'nilayane\" (TaittU 2,7.1)",
-          "segment_number": 418
+          "segment_number": 418,
+          "translated_text": "\"invisible, without self [i.e., without a second], inexpressible, without foundation\" (<s>Taittirīyopaniṣad</s> 2.7.1)"
         },
         {
           "tag": "text",
           "text": "ity ādi śrutinirdiṣṭaḥ prasīdatyabhimukhībhavati / ātmaprakāśanāya pūrvam astīty upalabdhavata ity etat // KaUBh_6.13/2,3.13 //",
-          "segment_number": 419
+          "segment_number": 419,
+          "translated_text": "— and so forth, as indicated by the <s>Śrutis</s> — reveals itself, becomes manifest. For the Self's self-revelation, He is first to be apprehended as \"He exists\" — that is the meaning. // KaUBh 6.13/2,3.13 //"
         }
       ],
-      "segment_number": 414
+      "segment_number": 414,
+      "translated_text": "Therefore, rejecting the position of the nihilist, which is demonic (<s>āsura</s>), the Self is to be apprehended as \"He exists\" indeed — through the limiting adjuncts (<s>upādhis</s>) of the intellect and the like, [functioning] through the notion of the existence of the effect. But when the Self is free from those [adjuncts] and without modification, and the effect does not exist apart from the cause —"
     },
     {
       "tag": "lg",
@@ -3942,13 +3945,15 @@
           "tag": "l",
           "attributes": {},
           "text": "yadā sarve pramucyante kāmā ye 'sya hṛdi śritāḥ /",
-          "segment_number": 420
+          "segment_number": 420,
+          "translated_text": "When all desires that dwell in the heart are released,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "atha martyo 'mṛto bhavaty atra brahma samaśnute // KaU_6.14/2,3.14 //",
-          "segment_number": 421
+          "segment_number": 421,
+          "translated_text": "then the mortal becomes immortal — here he attains <s>Brahman</s>. // KaU 6.14/2,3.14 //"
         }
       ]
     },
@@ -3963,15 +3968,18 @@
             "rend": "blue"
           },
           "text": "\"kāmaḥ saṅkalpaḥ\" (BĀU 1,5.3)",
-          "segment_number": 423
+          "segment_number": 423,
+          "translated_text": "\"Desire is volition\" (<s>Bṛhadāraṇyakopaniṣad</s> 1.5.3)"
         },
         {
           "tag": "text",
           "text": "ity ādiśrutyantarāc ca / atha tadā martyaḥ prāk prabodhād āsīt sa prabodhottarakālam avidyākāmakarmalakṣaṇasya mṛtyor vināśād amṛto bhavati, gamanaprayojakasya mṛtyor vinaśād gamanānupapatter atrehaiva pradipanirvāṇavatsarvabandhanopaśamād brahma samaśnute brahmaiva bhavatīty arthaḥ // KaUBh_6.14/2,3.14 //",
-          "segment_number": 424
+          "segment_number": 424,
+          "translated_text": "— and [this is known] from other <s>Śrutis</s> as well. Then the mortal — who was [mortal] prior to awakening — in the time after awakening, through the destruction of death characterized by ignorance, desire, and action, becomes immortal. Since death, the impeller of transmigration, is destroyed, and therefore transmigration is impossible, here — right here [in this body] — like the extinguishing of a lamp, through the cessation of all bonds, he attains <s>Brahman</s>, meaning he becomes <s>Brahman</s> itself — that is the meaning. // KaUBh 6.14/2,3.14 //"
         }
       ],
-      "segment_number": 422
+      "segment_number": 422,
+      "translated_text": "Thus, for one who sees the Self as the highest reality, \"when\" — at whatever time — all desires are released, are dissolved — since there is no other [object] to be desired — [the desires] that, prior to awakening, dwelt in the heart, i.e., in the intellect, of this knower. For the intellect is the abode of desires, not the Self —"
     },
     {
       "tag": "lg",
@@ -3983,13 +3991,15 @@
           "tag": "l",
           "attributes": {},
           "text": "yadā sarve prabhidyante hṛdayasyeha granthayaḥ /",
-          "segment_number": 425
+          "segment_number": 425,
+          "translated_text": "When all the knots of the heart are severed here,"
         },
         {
           "tag": "l",
           "attributes": {},
           "text": "atha martyo 'mṛto bhavaty etāvad dhy anuśāsanam // KaU_6.15/2,3.15 //",
-          "segment_number": 426
+          "segment_number": 426,
+          "translated_text": "then the mortal becomes immortal — this much indeed is the teaching. // KaU 6.15/2,3.15 //"
         }
       ]
     },
@@ -4081,10 +4091,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "aṅguṣṭhamātraḥ puruṣo 'ntarātmā sadā janānāṃ hṛdaye saṃniviṣṭaḥ /\ntaṃ svāc charīrāt pravṛhen muñjād iveṣīkāṃ dhairyeṇa /\ntaṃ vidyāc chukram amṛtaṃ taṃ vidyāc chukram amṛtam iti // KaU_6.17/2,3.17 //",
           "segment_number": 437,
           "translated_text": "The <s>Puruṣa</s> of the measure of a thumb, the inner <s>Ātman</s>, is always seated in the heart of beings. One should draw him out from one's own body, as one draws a reed from <s>muñja</s> grass, with firmness. One should know him as the pure, the immortal — one should know him as the pure, the immortal. (<s>KaU</s> 6.17/2.3.17)"

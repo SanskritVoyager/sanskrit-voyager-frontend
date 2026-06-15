@@ -35,17 +35,11 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 186"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_186",
+        "label": "Matsumura 186"
+      }
     },
     {
       "tag": "p",
@@ -57,13 +51,10 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "sāketena hi kasyacid vitaritaṃ marditaṃ (",
+      "text": "sāketena hi kasyacid vitaritaṃ marditaṃ",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "276r1 = GBM 6.864",
           "segment_number": 3,
           "translated_text": "[276r1 = GBM 6.864]"
@@ -76,20 +67,14 @@
         }
       ],
       "segment_number": 2,
-      "translated_text": "By [the story at] <s>Sāketa</s> indeed, to someone it was distributed, crushed ("
+      "translated_text": "By [the story at] <s>Sāketa</s> indeed, to someone it was distributed, crushed"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 187"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_187",
+        "label": "Matsumura 187"
+      }
     },
     {
       "tag": "p",
@@ -123,535 +108,528 @@
       "translated_text": "<s>Kaṭhina-v</s> 1. The <s>Buddha</s>, the Blessed One, spent the rains at <s>Śrāvastī</s>, in <s>Jetavana</s>, the park of <s>Anāthapiṇḍada</s>. At that time, a large number of <s>bhikṣus</s> had spent the rains at <s>Sāketa</s>. After the passage of three months of the rainy season, having made their robes and completed their robes, taking up their bowls and robes, through much grass and much mud, being exhausted by heat, their bodies drenched with sweat, wandering on a journey through the countryside —"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 188"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_188",
+        "label": "Matsumura 188"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "Kaṭhina-v 2. dharmatā khalu buddhā bhagavanta āgantukān bhikṣūn anayā pratisaṃmodanayā pratisaṃmoda",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "n",
-          "segment_number": 10,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "te / kuto yūyaṃ bhikṣava etarhy āgacchata : kutra vā stha varṣā uṣitā iti pratisaṃmodate bhagavān āgantukān bhikṣūn anayā pratisaṃmodanayā sukhaṃ sparśaṃ varṣā nayā kuto yūyaṃ bhikṣava etarhy āgacchatha kutra vā stha varṣā uṣitāḥ te kathayaṃti sāketād vayaṃ bhadant'; etarhy āgacchāma sākete vā sma varṣā uṣitāḥ kaccid yūyaṃ bhikṣavaḥ sākete sukhaṃ sparśaṃ varṣā uṣitā na vā stha klāntāḥ piṇḍakena tathyaṃ vayaṃ bhadanta (",
-          "segment_number": 11,
-          "translated_text": "they greet: 'Where do you <s>bhikṣus</s> come from now? Where did you spend the rains?' The Blessed One greeted the visiting <s>bhikṣus</s> with this greeting: 'Did you spend the rains comfortably? Where do you <s>bhikṣus</s> come from now? Where did you spend the rains?' They said: 'We come now from <s>Sāketa</s>, venerable sir. We spent the rains at <s>Sāketa</s>.' 'Did you, <s>bhikṣus</s>, spend the rains comfortably at <s>Sāketa</s>? Were you not wearied by alms-rounds?' 'Truly, venerable sir, ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 189",
-          "segment_number": 12,
-          "translated_text": "[Matsumura 189]"
-        },
-        {
-          "tag": "text",
-          "text": ") sāketa sukhaṃ sparśaṃ varṣā uṣitā na vā sma",
-          "segment_number": 13,
-          "translated_text": ") we spent the rains comfortably at <s>Sāketa</s>, nor were we"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 14,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "klāntā",
-          "segment_number": 15,
-          "translated_text": "wearied"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 16,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "piṇḍakenāpi tu vayaṃ samādāya pātracīvaraṃ bahutṛṇe bahukardame uṣṇena klāmyanta",
-          "segment_number": 17,
-          "translated_text": "by alms-rounds. But we, having taken up our bowls and robes, through much grass and much mud, being exhausted by heat,"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 18,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "svedaparyākulīkṛtaśarīrā janapadacārikāṃ carantaḥ kṛcchreṇehānuprāptāḥ",
-          "segment_number": 19,
-          "translated_text": "our bodies drenched with sweat, wandering on a journey through the countryside, arrived here with difficulty.'"
-        }
-      ],
       "segment_number": 9,
       "translated_text": "<s>Kaṭhina-v</s> 2. It is indeed the natural practice that <s>Buddha</s>s, Blessed Ones, greet visiting <s>bhikṣus</s> with this greeting —"
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "n",
+      "segment_number": 10,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "te / kuto yūyaṃ bhikṣava etarhy āgacchata : kutra vā stha varṣā uṣitā iti pratisaṃmodate bhagavān āgantukān bhikṣūn anayā pratisaṃmodanayā sukhaṃ sparśaṃ varṣā nayā kuto yūyaṃ bhikṣava etarhy āgacchatha kutra vā stha varṣā uṣitāḥ te kathayaṃti sāketād vayaṃ bhadant'; etarhy āgacchāma sākete vā sma varṣā uṣitāḥ kaccid yūyaṃ bhikṣavaḥ sākete sukhaṃ sparśaṃ varṣā uṣitā na vā stha klāntāḥ piṇḍakena tathyaṃ vayaṃ bhadanta",
+      "translated_text": "they greet: 'Where do you <s>bhikṣus</s> come from now? Where did you spend the rains?' The Blessed One greeted the visiting <s>bhikṣus</s> with this greeting: 'Did you spend the rains comfortably? Where do you <s>bhikṣus</s> come from now? Where did you spend the rains?' They said: 'We come now from <s>Sāketa</s>, venerable sir. We spent the rains at <s>Sāketa</s>.' 'Did you, <s>bhikṣus</s>, spend the rains comfortably at <s>Sāketa</s>? Were you not wearied by alms-rounds?' 'Truly, venerable sir,",
+      "segment_number": 11
+    },
+    {
+      "tag": "lg",
+      "segment_number": 12,
+      "attributes": {
+        "id": "Matsumura_189",
+        "label": "Matsumura 189"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sāketa sukhaṃ sparśaṃ varṣā uṣitā na vā sma",
+      "translated_text": "we spent the rains comfortably at <s>Sāketa</s>, nor were we",
+      "segment_number": 13
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 14,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "klāntā",
+      "translated_text": "wearied",
+      "segment_number": 15
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 16,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "piṇḍakenāpi tu vayaṃ samādāya pātracīvaraṃ bahutṛṇe bahukardame uṣṇena klāmyanta",
+      "translated_text": "by alms-rounds. But we, having taken up our bowls and robes, through much grass and much mud, being exhausted by heat,",
+      "segment_number": 17
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 18,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "svedaparyākulīkṛtaśarīrā janapadacārikāṃ carantaḥ kṛcchreṇehānuprāptāḥ",
+      "translated_text": "our bodies drenched with sweat, wandering on a journey through the countryside, arrived here with difficulty.'",
+      "segment_number": 19
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "Kaṭhina-v 3. bhagavān saṃlakṣayati / klāmyanti bata me śrāvakāḥ samādāya pātracīvaraṃ bahutṛṇe bahukardame uṣṇena klāmyanti svedaparyākulīkṛtaśarīrā janapadacārikāṃ caranto yanv ahaṃ bhikṣūṇāṃ sparśavihārārthaṃ dātrīṇāṃ ca deyadharmaparibhogārthaṃ bhikṣūṇāṃ kaṭhinam anujānīyaṃ / yasmāt paṃcānuśaṃsā",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 21,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "kaṭhināstare na daśāhaparamaṃ na māsaparamaṃ na rātri",
-          "segment_number": 22,
-          "translated_text": "of the <s>kaṭhina</s>-spreading: no ten-day limit, no one-month limit, no overnight"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "vi",
-          "segment_number": 23,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "pravāsāḥ sāntarottareṇa cīvareṇa janapadacārikāṃ (",
-          "segment_number": 24,
-          "translated_text": "separation [from robes], setting out on a journey through the countryside with an inner and outer robe ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 190",
-          "segment_number": 25,
-          "translated_text": "[Matsumura 190]"
-        },
-        {
-          "tag": "text",
-          "text": ") prakramaṇaṃ yāvadap",
-          "segment_number": 26,
-          "translated_text": ") setting out, and as much as"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "t",
-          "segment_number": 27,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "a",
-          "segment_number": 28,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ṃ",
-          "segment_number": 29,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "vikalpi",
-          "segment_number": 30,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ta",
-          "segment_number": 31,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "cīvaradhāraṇam iti / apare 'pi paṃcānuśaṃsā",
-          "segment_number": 32,
-          "translated_text": "wearing of distributed robes as one wishes.' And there are also five [more] advantages"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 33,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "/ na gaṇabhojanaṃ na (",
-          "segment_number": 34,
-          "translated_text": ": no [restriction on] group dining, no ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 191",
-          "segment_number": 35,
-          "translated_text": "[Matsumura 191]"
-        },
-        {
-          "tag": "text",
-          "text": ") paraṃparabhojanaṃ na kuleṣv ānimantritacārikā yāvadāptaṃ cīvaraparyeṣaṇaṃ (",
-          "segment_number": 36,
-          "translated_text": ") successive dining, no [restriction on] uninvited visiting of families, seeking robes as much as one wishes ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 192",
-          "segment_number": 37,
-          "translated_text": "[Matsumura 192]"
-        },
-        {
-          "tag": "text",
-          "text": ") kārtikān māsād yāvat phālguno māso atrāntarāt sāstṛtakaṭhi",
-          "segment_number": 38,
-          "translated_text": ") from the month of <s>Kārttika</s> until the month of <s>Phālguna</s> — during this interval, those who have spread the <s>kaṭhina</s>"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "nā",
-          "segment_number": 39,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "nāṃ lābha iti viditvā bhikṣūn āmantrayate sma / tasmāt tarhi bhikṣavo 'nujānāmi bhikṣūṇāṃ sparśavihārārthaṃ dātrīṇāṃ ca deyadharmaparibhogārthaṃ varṣoṣitair bhikṣubhiḥ kaṭhinam āstartavyaṃ yasmāt paṃcānuśaṃsā",
-          "segment_number": 40,
-          "translated_text": "obtain [these privileges].' Having understood this, he addressed the <s>bhikṣus</s>: 'Therefore, <s>bhikṣus</s>, I permit: for the sake of comfortable dwelling of the <s>bhikṣus</s> and for the donors' enjoyment of their gifts, the <s>kaṭhina</s> is to be spread by <s>bhikṣus</s> who have spent the rains. For there are five advantages"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 41,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "kaṭhine na daśāhaparamaṃ pūrvavad yāvad āstṛtakaṭhinānāṃ lābha iti",
-          "segment_number": 42,
-          "translated_text": "of the <s>kaṭhina</s>: no ten-day limit — as before, up to: this is the benefit of those who have spread the <s>kaṭhina</s>.'"
-        }
-      ],
       "segment_number": 20,
       "translated_text": "<s>Kaṭhina-v</s> 3. The Blessed One reflected: 'Alas, my disciples are exhausted! Having taken up their bowls and robes, through much grass and much mud, they are exhausted by heat, their bodies drenched with sweat, wandering on a journey through the countryside. Suppose I were to permit the <s>kaṭhina</s> (robe-spreading ceremony) for the <s>bhikṣus</s>, for the sake of comfortable dwelling and for the donors' enjoyment of their gifts. For there are five advantages"
     },
     {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 21,
+      "translated_text": "[continued]"
+    },
+    {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 4. uktaṃ bhagavatā kaṭhinam āstartavyam iti bhikṣavo na jānate katham (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 193",
-          "segment_number": 44,
-          "translated_text": "[Matsumura 193]"
-        },
-        {
-          "tag": "text",
-          "text": ") āstartavyam iti / bhagavān āha / yad varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpadyate tasmād āstartavyaṃ evaṃ ca punar āstartavyaṃ pūrvavat* sāmagryam ārocayitavyaṃ idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ yadi saṃghasyābhirucitam anena cīvareṇa saṃghasya kaṭhinam (",
-          "segment_number": 45,
-          "translated_text": ") it should be spread. The Blessed One said: 'When a robe-acquisition accrues to the <s>Saṃgha</s> that has spent the rains, from that [robe] it should be spread. And it should be spread thus: first, the agreement should be announced: \"This robe is the robe-acquisition that has accrued to the <s>Saṃgha</s> that has spent the rains. If it pleases the <s>Saṃgha</s>, with this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "276v1 = GBM 6.865",
-          "segment_number": 46,
-          "translated_text": "[276v1 = GBM 6.865]"
-        },
-        {
-          "tag": "text",
-          "text": ") āstariṣyati / tataḥ paścād aparasmin divase śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūṃ (",
-          "segment_number": 47,
-          "translated_text": ") will be spread.\" Thereafter, on the following day, having arranged the seats, having struck the bell, [having summoned] the <s>bhikṣus</s> by roll-call ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 194",
-          "segment_number": 48,
-          "translated_text": "[Matsumura 194]"
-        },
-        {
-          "tag": "text",
-          "text": ") samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavya",
-          "segment_number": 49,
-          "translated_text": ") having assembled [them], when the entire <s>Saṃgha</s> is seated and assembled, a motion having been made by one <s>bhikṣu</s>, the formal act is to be performed:"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "m",
-          "segment_number": 50,
-          "translated_text": "[continued]"
-        }
-      ],
+      "text": "kaṭhināstare na daśāhaparamaṃ na māsaparamaṃ na rātri",
+      "translated_text": "of the <s>kaṭhina</s>-spreading: no ten-day limit, no one-month limit, no overnight",
+      "segment_number": 22
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "vi",
+      "segment_number": 23,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "pravāsāḥ sāntarottareṇa cīvareṇa janapadacārikāṃ",
+      "translated_text": "separation [from robes], setting out on a journey through the countryside with an inner and outer robe",
+      "segment_number": 24
+    },
+    {
+      "tag": "lg",
+      "segment_number": 25,
+      "attributes": {
+        "id": "Matsumura_190",
+        "label": "Matsumura 190"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "prakramaṇaṃ yāvadap",
+      "translated_text": "setting out, and as much as",
+      "segment_number": 26
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "t",
+      "segment_number": 27,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "a",
+      "translated_text": "[continued]",
+      "segment_number": 28
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ṃ",
+      "segment_number": 29,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "vikalpi",
+      "translated_text": "[continued]",
+      "segment_number": 30
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ta",
+      "segment_number": 31,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "cīvaradhāraṇam iti / apare 'pi paṃcānuśaṃsā",
+      "translated_text": "wearing of distributed robes as one wishes.' And there are also five [more] advantages",
+      "segment_number": 32
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 33,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "/ na gaṇabhojanaṃ na",
+      "translated_text": ": no [restriction on] group dining, no",
+      "segment_number": 34
+    },
+    {
+      "tag": "lg",
+      "segment_number": 35,
+      "attributes": {
+        "id": "Matsumura_191",
+        "label": "Matsumura 191"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "paraṃparabhojanaṃ na kuleṣv ānimantritacārikā yāvadāptaṃ cīvaraparyeṣaṇaṃ",
+      "translated_text": "successive dining, no [restriction on] uninvited visiting of families, seeking robes as much as one wishes",
+      "segment_number": 36
+    },
+    {
+      "tag": "lg",
+      "segment_number": 37,
+      "attributes": {
+        "id": "Matsumura_192",
+        "label": "Matsumura 192"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kārtikān māsād yāvat phālguno māso atrāntarāt sāstṛtakaṭhi",
+      "translated_text": "from the month of <s>Kārttika</s> until the month of <s>Phālguna</s> — during this interval, those who have spread the <s>kaṭhina</s>",
+      "segment_number": 38
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "nā",
+      "segment_number": 39,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "nāṃ lābha iti viditvā bhikṣūn āmantrayate sma / tasmāt tarhi bhikṣavo 'nujānāmi bhikṣūṇāṃ sparśavihārārthaṃ dātrīṇāṃ ca deyadharmaparibhogārthaṃ varṣoṣitair bhikṣubhiḥ kaṭhinam āstartavyaṃ yasmāt paṃcānuśaṃsā",
+      "translated_text": "obtain [these privileges].' Having understood this, he addressed the <s>bhikṣus</s>: 'Therefore, <s>bhikṣus</s>, I permit: for the sake of comfortable dwelling of the <s>bhikṣus</s> and for the donors' enjoyment of their gifts, the <s>kaṭhina</s> is to be spread by <s>bhikṣus</s> who have spent the rains. For there are five advantages",
+      "segment_number": 40
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 41,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kaṭhine na daśāhaparamaṃ pūrvavad yāvad āstṛtakaṭhinānāṃ lābha iti",
+      "translated_text": "of the <s>kaṭhina</s>: no ten-day limit — as before, up to: this is the benefit of those who have spread the <s>kaṭhina</s>.'",
+      "segment_number": 42
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 4. uktaṃ bhagavatā kaṭhinam āstartavyam iti bhikṣavo na jānate katham",
       "segment_number": 43,
-      "translated_text": "<s>Kaṭhina-v</s> 4. The Blessed One said the <s>kaṭhina</s> should be spread, but the <s>bhikṣus</s> did not know how ("
+      "translated_text": "<s>Kaṭhina-v</s> 4. The Blessed One said the <s>kaṭhina</s> should be spread, but the <s>bhikṣus</s> did not know how"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 44,
+      "attributes": {
+        "id": "Matsumura_193",
+        "label": "Matsumura 193"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 5. śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ saṃghasya kaṭhinam abhirucitaṃ anena cīvareṇa kaṭhinam āstarituṃ / yenāstīrṇakaṭhinād āvāsāt prakrāmantaḥ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 195",
-          "segment_number": 52,
-          "translated_text": "[Matsumura 195]"
-        },
-        {
-          "tag": "text",
-          "text": ") purāṇacīvarāṇāṃ apy avipravāso bhaviṣyati prāg eva navakānāṃ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārthaṃ saṃmanyetānena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmantaḥ purāṇacīvarāṇām apy avipravāso bhaviṣyati prāg eva navakānām ity eṣā jñaptiḥ // evaṃ ca karma kartavyaṃ",
-          "segment_number": 53,
-          "translated_text": ") even old robes will not be lost, how much less new ones. If it is the right time and the <s>Saṃgha</s> approves, may the <s>Saṃgha</s> consent that it approve this robe for the purpose of <s>kaṭhina</s>. With this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread, even old robes will not be lost, how much less new ones.' This is the motion. And the formal act is to be performed thus:"
-        }
-      ],
+      "text": "āstartavyam iti / bhagavān āha / yad varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpadyate tasmād āstartavyaṃ evaṃ ca punar āstartavyaṃ pūrvavat* sāmagryam ārocayitavyaṃ idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ yadi saṃghasyābhirucitam anena cīvareṇa saṃghasya kaṭhinam (",
+      "translated_text": "it should be spread. The Blessed One said: 'When a robe-acquisition accrues to the <s>Saṃgha</s> that has spent the rains, from that [robe] it should be spread. And it should be spread thus: first, the agreement should be announced: \"This robe is the robe-acquisition that has accrued to the <s>Saṃgha</s> that has spent the rains. If it pleases the <s>Saṃgha</s>, with this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> (",
+      "segment_number": 45
+    },
+    {
+      "tag": "quote",
+      "text": "276v1 = GBM 6.865",
+      "segment_number": 46,
+      "translated_text": "[276v1 = GBM 6.865]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": ") āstariṣyati / tataḥ paścād aparasmin divase śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūṃ",
+      "translated_text": ") will be spread.\" Thereafter, on the following day, having arranged the seats, having struck the bell, [having summoned] the <s>bhikṣus</s> by roll-call",
+      "segment_number": 47
+    },
+    {
+      "tag": "lg",
+      "segment_number": 48,
+      "attributes": {
+        "id": "Matsumura_194",
+        "label": "Matsumura 194"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavya",
+      "translated_text": "having assembled [them], when the entire <s>Saṃgha</s> is seated and assembled, a motion having been made by one <s>bhikṣu</s>, the formal act is to be performed:",
+      "segment_number": 49
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "m",
+      "segment_number": 50,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 5. śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ saṃghasya kaṭhinam abhirucitaṃ anena cīvareṇa kaṭhinam āstarituṃ / yenāstīrṇakaṭhinād āvāsāt prakrāmantaḥ",
       "segment_number": 51,
-      "translated_text": "<s>Kaṭhina-v</s> 5. 'Let the venerable <s>Saṃgha</s> hear. This robe is the robe-acquisition that has accrued to the <s>Saṃgha</s> that has spent the rains. It has pleased the <s>Saṃgha</s> to make the <s>kaṭhina</s> with this robe. With this robe the <s>kaṭhina</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread ("
+      "translated_text": "<s>Kaṭhina-v</s> 5. 'Let the venerable <s>Saṃgha</s> hear. This robe is the robe-acquisition that has accrued to the <s>Saṃgha</s> that has spent the rains. It has pleased the <s>Saṃgha</s> to make the <s>kaṭhina</s> with this robe. With this robe the <s>kaṭhina</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 52,
+      "attributes": {
+        "id": "Matsumura_195",
+        "label": "Matsumura 195"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 6. śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ saṃghasya cābhirucitaṃ kaṭhinaṃ kartuṃ tat saṃgha idaṃ cīvaraṃ kaṭhinārthaṃ saṃmanyate anena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt prakrāmataḥ purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 196",
-          "segment_number": 55,
-          "translated_text": "[Matsumura 196]"
-        },
-        {
-          "tag": "text",
-          "text": ") yeṣām āyuṣmatāṃ kṣamate idaṃ cīvaraṃ kaṭhinārthaṃ saṃmantum anena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt prakramata",
-          "segment_number": 56,
-          "translated_text": ") Those venerable ones who approve of approving this robe for the purpose of <s>kaṭhina</s> — with this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread,"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 57,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ sa tūṣṇīṃ na kṣamate bhāṣantāṃ saṃmataḥ saṃghena idaṃ cīvaraṃ kaṭhinārtham anena cīvareṇa",
-          "segment_number": 58,
-          "translated_text": "even old robes will not be lost, how much less new ones — let them remain silent. Those who do not approve, let them speak.' It is approved by the <s>Saṃgha</s>. This robe is for the purpose of <s>kaṭhina</s>. With this robe"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "saṃghasya",
-          "segment_number": 59,
-          "translated_text": "the <s>Saṃgha</s>'s"
-        },
-        {
-          "tag": "text",
-          "text": "kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmataḥ purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīṃ evam etad dhārayāmi",
-          "segment_number": 60,
-          "translated_text": "<s>kaṭhina</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread, even old robes will not be lost, how much less new ones. It is approved and consented to by the <s>Saṃgha</s>, since they remain silent. Thus I understand it."
-        }
-      ],
+      "text": "purāṇacīvarāṇāṃ apy avipravāso bhaviṣyati prāg eva navakānāṃ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārthaṃ saṃmanyetānena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmantaḥ purāṇacīvarāṇām apy avipravāso bhaviṣyati prāg eva navakānām ity eṣā jñaptiḥ // evaṃ ca karma kartavyaṃ",
+      "translated_text": "even old robes will not be lost, how much less new ones. If it is the right time and the <s>Saṃgha</s> approves, may the <s>Saṃgha</s> consent that it approve this robe for the purpose of <s>kaṭhina</s>. With this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread, even old robes will not be lost, how much less new ones.' This is the motion. And the formal act is to be performed thus:",
+      "segment_number": 53
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 6. śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ varṣoṣitasya saṃghasya cīvaralābhaḥ saṃpannaḥ saṃghasya cābhirucitaṃ kaṭhinaṃ kartuṃ tat saṃgha idaṃ cīvaraṃ kaṭhinārthaṃ saṃmanyate anena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt prakrāmataḥ purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ",
       "segment_number": 54,
-      "translated_text": "<s>Kaṭhina-v</s> 6. 'Let the venerable <s>Saṃgha</s> hear. This robe is the robe-acquisition that has accrued to the <s>Saṃgha</s> that has spent the rains. And it has pleased the <s>Saṃgha</s> to make the <s>kaṭhina</s>. The <s>Saṃgha</s> approves this robe for the purpose of <s>kaṭhina</s>. With this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread, even old robes will not be lost, how much less new ones ("
+      "translated_text": "<s>Kaṭhina-v</s> 6. 'Let the venerable <s>Saṃgha</s> hear. This robe is the robe-acquisition that has accrued to the <s>Saṃgha</s> that has spent the rains. And it has pleased the <s>Saṃgha</s> to make the <s>kaṭhina</s>. The <s>Saṃgha</s> approves this robe for the purpose of <s>kaṭhina</s>. With this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread, even old robes will not be lost, how much less new ones"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 55,
+      "attributes": {
+        "id": "Matsumura_196",
+        "label": "Matsumura 196"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 7. tataḥ paścāt kaṭhināstārako bhikṣuḥ saṃmantavyaḥ paṃcabhir dharmaiḥ samanvāgataḥ kaṭhināstārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ katamaiḥ paṃcabhiḥ avarṣiko varṣachinnakaḥ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 197",
-          "segment_number": 62,
-          "translated_text": "[Matsumura 197]"
-        },
-        {
-          "tag": "text",
-          "text": ") paścimakāṃ varṣām upagato anyatra varṣoṣitaḥ śikṣādattakaḥ apare api paṃca na saṃmantavyāḥ pārivāsika mūlapārivāsika mānāpya mūlamānāpyacāra utkṣiptakaḥ apare paṃca na saṃmantavyā cchandād gacchati dveṣāṃ mohād bhayād gacchati āstṛtaṃ cānāstṛtaṃ kaṭhinaṃ na jānāti : paṃcabhis tu dharmaiḥ samanvāgataḥ kaṭhināstārako bhikṣur asaṃmataś ca saṃmantavya",
-          "segment_number": 63,
-          "translated_text": ") one who entered the later rains, one who spent the rains elsewhere, one who has returned the training. Another five also should not be appointed: one on probation (<s>pārivāsika</s>), one on original probation (<s>mūlapārivāsika</s>), one under <s>mānāpya</s> (penance), one under original <s>mānāpya</s> conduct, one who has been suspended. Another five should not be appointed: one who goes by partiality, by hatred, by delusion, by fear, and one who does not know [what constitutes] a spread and an unspread <s>kaṭhina</s>. But one endowed with five qualities should be appointed as the <s>kaṭhina</s>-spreader <s>bhikṣu</s> — even if not [previously] appointed, he should be appointed,"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 64,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "saṃmataś c",
-          "segment_number": 65,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "a n",
-          "segment_number": 66,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "āvakāśayitavyaḥ katamaiḥ paṃcabhiḥ na cchandād gacchati na dveṣān na mohān na bhayād gacchati āstṛtānāstṛtaṃ ca kaṭhinaṃ jānāti",
-          "segment_number": 67,
-          "translated_text": "and one [already] appointed should be given an opportunity. With which five? One who does not go by partiality, not by hatred, not by delusion, not by fear, and one who knows [what constitutes] a spread and an unspread <s>kaṭhina</s>."
-        }
-      ],
+      "text": "yeṣām āyuṣmatāṃ kṣamate idaṃ cīvaraṃ kaṭhinārthaṃ saṃmantum anena cīvareṇa saṃghasya kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt prakramata",
+      "translated_text": "Those venerable ones who approve of approving this robe for the purpose of <s>kaṭhina</s> — with this robe the <s>kaṭhina</s> of the <s>Saṃgha</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread,",
+      "segment_number": 56
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 57,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ sa tūṣṇīṃ na kṣamate bhāṣantāṃ saṃmataḥ saṃghena idaṃ cīvaraṃ kaṭhinārtham anena cīvareṇa",
+      "translated_text": "even old robes will not be lost, how much less new ones — let them remain silent. Those who do not approve, let them speak.' It is approved by the <s>Saṃgha</s>. This robe is for the purpose of <s>kaṭhina</s>. With this robe",
+      "segment_number": 58
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "saṃghasya",
+      "segment_number": 59,
+      "translated_text": "the <s>Saṃgha</s>'s"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kaṭhinam āstariṣyati yenāstīrṇakaṭhinād āvāsāt* prakrāmataḥ purāṇacīvarakāṇām apy avipravāso bhaviṣyati prāg eva navakānāṃ kṣāntam anujñātaṃ saṃghena yasmāt tūṣṇīṃ evam etad dhārayāmi",
+      "translated_text": "<s>kaṭhina</s> will be spread. For those departing from a residence where the <s>kaṭhina</s> has been spread, even old robes will not be lost, how much less new ones. It is approved and consented to by the <s>Saṃgha</s>, since they remain silent. Thus I understand it.",
+      "segment_number": 60
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 7. tataḥ paścāt kaṭhināstārako bhikṣuḥ saṃmantavyaḥ paṃcabhir dharmaiḥ samanvāgataḥ kaṭhināstārako bhikṣur asaṃmato na saṃmantavyaḥ saṃmataś cāvakāśayitavyaḥ katamaiḥ paṃcabhiḥ avarṣiko varṣachinnakaḥ",
       "segment_number": 61,
-      "translated_text": "<s>Kaṭhina-v</s> 7. Thereafter, a <s>bhikṣu</s> who will spread the <s>kaṭhina</s> is to be appointed — one endowed with five qualities. A <s>kaṭhina</s>-spreader <s>bhikṣu</s> who is not appointed should not be appointed [if unqualified]; and one [already] appointed should be given an opportunity. With which five [disqualifying traits]? One who has not spent the rains, one who has broken the rains, ("
+      "translated_text": "<s>Kaṭhina-v</s> 7. Thereafter, a <s>bhikṣu</s> who will spread the <s>kaṭhina</s> is to be appointed — one endowed with five qualities. A <s>kaṭhina</s>-spreader <s>bhikṣu</s> who is not appointed should not be appointed [if unqualified]; and one [already] appointed should be given an opportunity. With which five [disqualifying traits]? One who has not spent the rains, one who has broken the rains,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 62,
+      "attributes": {
+        "id": "Matsumura_197",
+        "label": "Matsumura 197"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 8. evaṃ ca punaḥ saṃmantavyaḥ śayanāsanaprajñaptiṃ kṛtvā pūrvavad (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 198",
-          "segment_number": 69,
-          "translated_text": "[Matsumura 198]"
-        },
-        {
-          "tag": "text",
-          "text": ") yāvad utsāhayitavyaḥ utsahase tvam evaṃnāmā saṃghasya kaṭhin",
-          "segment_number": 70,
-          "translated_text": ") up to: he should be encouraged: 'Do you, so-and-so, undertake to spread the <s>kaṭhina</s> of the <s>Saṃgha</s>"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "am",
-          "segment_number": 71,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "āstartum iti saced utsahate",
-          "segment_number": 72,
-          "translated_text": "— to spread it?' If he undertakes,"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "te",
-          "segment_number": 73,
-          "translated_text": "[continued]"
-        },
-        {
-          "tag": "text",
-          "text": "na vaktavyaṃ utsahed iti / tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam*",
-          "segment_number": 74,
-          "translated_text": "he should not be told, 'Undertake!' Thereafter, a motion having been made by one <s>bhikṣu</s>, the formal act is to be performed."
-        }
-      ],
+      "text": "paścimakāṃ varṣām upagato anyatra varṣoṣitaḥ śikṣādattakaḥ apare api paṃca na saṃmantavyāḥ pārivāsika mūlapārivāsika mānāpya mūlamānāpyacāra utkṣiptakaḥ apare paṃca na saṃmantavyā cchandād gacchati dveṣāṃ mohād bhayād gacchati āstṛtaṃ cānāstṛtaṃ kaṭhinaṃ na jānāti : paṃcabhis tu dharmaiḥ samanvāgataḥ kaṭhināstārako bhikṣur asaṃmataś ca saṃmantavya",
+      "translated_text": "one who entered the later rains, one who spent the rains elsewhere, one who has returned the training. Another five also should not be appointed: one on probation (<s>pārivāsika</s>), one on original probation (<s>mūlapārivāsika</s>), one under <s>mānāpya</s> (penance), one under original <s>mānāpya</s> conduct, one who has been suspended. Another five should not be appointed: one who goes by partiality, by hatred, by delusion, by fear, and one who does not know [what constitutes] a spread and an unspread <s>kaṭhina</s>. But one endowed with five qualities should be appointed as the <s>kaṭhina</s>-spreader <s>bhikṣu</s> — even if not [previously] appointed, he should be appointed,",
+      "segment_number": 63
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 64,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "saṃmataś c",
+      "translated_text": "[continued]",
+      "segment_number": 65
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "a n",
+      "segment_number": 66,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āvakāśayitavyaḥ katamaiḥ paṃcabhiḥ na cchandād gacchati na dveṣān na mohān na bhayād gacchati āstṛtānāstṛtaṃ ca kaṭhinaṃ jānāti",
+      "translated_text": "and one [already] appointed should be given an opportunity. With which five? One who does not go by partiality, not by hatred, not by delusion, not by fear, and one who knows [what constitutes] a spread and an unspread <s>kaṭhina</s>.",
+      "segment_number": 67
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 8. evaṃ ca punaḥ saṃmantavyaḥ śayanāsanaprajñaptiṃ kṛtvā pūrvavad",
       "segment_number": 68,
-      "translated_text": "<s>Kaṭhina-v</s> 8. And he should be appointed thus: having arranged the seats, as before ("
+      "translated_text": "<s>Kaṭhina-v</s> 8. And he should be appointed thus: having arranged the seats, as before"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 69,
+      "attributes": {
+        "id": "Matsumura_198",
+        "label": "Matsumura 198"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 9a. śṛṇotu bhadantāḥ saṃgha ayam evaṃnāmā kaṭhināstārako bhikṣur utsahate saṃghasya kaṭhinam āstartuṃ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho (",
+      "text": "yāvad utsāhayitavyaḥ utsahase tvam evaṃnāmā saṃghasya kaṭhin",
+      "translated_text": "up to: he should be encouraged: 'Do you, so-and-so, undertake to spread the <s>kaṭhina</s> of the <s>Saṃgha</s>",
+      "segment_number": 70
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "am",
+      "segment_number": 71,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āstartum iti saced utsahate",
+      "translated_text": "— to spread it?' If he undertakes,",
+      "segment_number": 72
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "te",
+      "segment_number": 73,
+      "translated_text": "[continued]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "na vaktavyaṃ utsahed iti / tataḥ paścād ekena bhikṣuṇā jñaptiṃ kṛtvā karma kartavyam*",
+      "translated_text": "he should not be told, 'Undertake!' Thereafter, a motion having been made by one <s>bhikṣu</s>, the formal act is to be performed.",
+      "segment_number": 74
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 9a. śṛṇotu bhadantāḥ saṃgha ayam evaṃnāmā kaṭhināstārako bhikṣur utsahate saṃghasya kaṭhinam āstartuṃ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "277r1 = GBM 6.866",
           "segment_number": 76,
           "translated_text": "[277r1 = GBM 6.866]"
@@ -688,20 +666,14 @@
         }
       ],
       "segment_number": 75,
-      "translated_text": "<s>Kaṭhina-v</s> 9a. 'Let the venerable <s>Saṃgha</s> hear. This <s>bhikṣu</s> named so-and-so, the <s>kaṭhina</s>-spreader, undertakes to spread the <s>kaṭhina</s> of the <s>Saṃgha</s>. If it is the right time and the <s>Saṃgha</s> approves, may the <s>Saṃgha</s> consent ("
+      "translated_text": "<s>Kaṭhina-v</s> 9a. 'Let the venerable <s>Saṃgha</s> hear. This <s>bhikṣu</s> named so-and-so, the <s>kaṭhina</s>-spreader, undertakes to spread the <s>kaṭhina</s> of the <s>Saṃgha</s>. If it is the right time and the <s>Saṃgha</s> approves, may the <s>Saṃgha</s> consent"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 199"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_199",
+        "label": "Matsumura 199"
+      }
     },
     {
       "tag": "p",
@@ -746,40 +718,39 @@
       "tag": "p",
       "attributes": {},
       "text": "Kaṭhina-v 10. tataḥ kaṭhināstārakasya bhikṣo",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "r",
-          "segment_number": 87,
-          "translated_text": "[continuation: -r]"
-        },
-        {
-          "tag": "text",
-          "text": "jñaptyā kaṭhinaṃ āstaritavyaṃ (",
-          "segment_number": 88,
-          "translated_text": "by means of a formal motion (<s>jñapti</s>), the <s>kaṭhina</s> is to be spread ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 200",
-          "segment_number": 89,
-          "translated_text": "<s>Matsumura</s> 200"
-        },
-        {
-          "tag": "text",
-          "text": ") śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ saṃghena kaṭhinārthaṃ saṃmatam ayaṃ caivaṃnāmā kaṭhināstārako bhikṣuḥ saṃmataḥ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārtham evaṃnāmno bhikṣor anupradadyād ity eṣā jñaptiḥ",
-          "segment_number": 90,
-          "translated_text": ") Let the venerable <s>saṃgha</s> listen. This robe has been approved by the <s>saṃgha</s> for the purpose of the <s>kaṭhina</s>. And this <s>bhikṣu</s> named so-and-so has been appointed as the <s>kaṭhina</s>-spreader. If the time is appropriate for the <s>saṃgha</s>, may it approve and authorize that the <s>saṃgha</s> should hand over this robe for the purpose of the <s>kaṭhina</s> to the <s>bhikṣu</s> named so-and-so. This is the formal motion (<s>jñapti</s>)."
-        }
-      ],
       "segment_number": 86,
       "translated_text": "<s>Kaṭhina-vastu</s> 10. Then, by the <s>kaṭhina</s>-spreading <s>bhikṣu</s>"
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "r",
+      "segment_number": 87,
+      "translated_text": "[continuation: -r]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "jñaptyā kaṭhinaṃ āstaritavyaṃ",
+      "translated_text": "by means of a formal motion (<s>jñapti</s>), the <s>kaṭhina</s> is to be spread",
+      "segment_number": 88
+    },
+    {
+      "tag": "lg",
+      "segment_number": 89,
+      "attributes": {
+        "id": "Matsumura_200",
+        "label": "Matsumura 200"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ saṃghena kaṭhinārthaṃ saṃmatam ayaṃ caivaṃnāmā kaṭhināstārako bhikṣuḥ saṃmataḥ sacet saṃghasya prāptakālaṃ kṣametānujānīyāt saṃgho yat saṃghaḥ idaṃ cīvaraṃ kaṭhinārtham evaṃnāmno bhikṣor anupradadyād ity eṣā jñaptiḥ",
+      "translated_text": "Let the venerable <s>saṃgha</s> listen. This robe has been approved by the <s>saṃgha</s> for the purpose of the <s>kaṭhina</s>. And this <s>bhikṣu</s> named so-and-so has been appointed as the <s>kaṭhina</s>-spreader. If the time is appropriate for the <s>saṃgha</s>, may it approve and authorize that the <s>saṃgha</s> should hand over this robe for the purpose of the <s>kaṭhina</s> to the <s>bhikṣu</s> named so-and-so. This is the formal motion (<s>jñapti</s>).",
+      "segment_number": 90
     },
     {
       "tag": "p",
@@ -802,110 +773,109 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 12. tataḥ paścād āśvayujamāse śuklapakṣapaṃcadaśyāṃ ārocayitavyam* : (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 201",
-          "segment_number": 94,
-          "translated_text": "<s>Matsumura</s> 201"
-        },
-        {
-          "tag": "text",
-          "text": ") śvo 'ham āyuṣmanta",
-          "segment_number": 95,
-          "translated_text": ") 'Tomorrow I, venerable ones"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 96,
-          "translated_text": "[continuation: -ḥ]"
-        },
-        {
-          "tag": "text",
-          "text": "kaṭhinam āstariṣyāmi / yuṣmābhi",
-          "segment_number": 97,
-          "translated_text": "shall spread the <s>kaṭhina</s>. By you"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 98,
-          "translated_text": "[continuation: -ḥ]"
-        },
-        {
-          "tag": "text",
-          "text": "svakasvakāni cīvarāṇi pratyuddhartavyāni iti tataḥ kaṭhināstārakeṇa (",
-          "segment_number": 99,
-          "translated_text": "your own respective robes should be collected.' Then by the <s>kaṭhina</s>-spreading ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 202",
-          "segment_number": 100,
-          "translated_text": "<s>Matsumura</s> 202"
-        },
-        {
-          "tag": "text",
-          "text": ") bhikṣuṇā kaṭhina",
-          "segment_number": 101,
-          "translated_text": ") <s>bhikṣu</s>, the <s>kaṭhina</s>"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ṃ",
-          "segment_number": 102,
-          "translated_text": "[continuation: -ṃ]"
-        },
-        {
-          "tag": "text",
-          "text": "gandhapuṣpānvitaṃ surabhidhūpadhūpitaṃ kṛtvā śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūn samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite vṛddhānte sthāpayitavyaṃ tato vṛddhānte sthivā kaṭhinaṃ gṛhītvā vaktavyaṃ",
-          "segment_number": 103,
-          "translated_text": "having been prepared with fragrant flowers and perfumed with sweet incense, having arranged the seating, having struck the <s>gaṇḍī</s> (gong), having assembled the <s>bhikṣus</s> by roll-call, when the entire <s>saṃgha</s> is seated and assembled, it should be placed at the senior end. Then, standing at the senior end and having taken up the <s>kaṭhina</s>, he should say:"
-        }
-      ],
+      "text": "Kaṭhina-v 12. tataḥ paścād āśvayujamāse śuklapakṣapaṃcadaśyāṃ ārocayitavyam* :",
       "segment_number": 93,
-      "translated_text": "<s>Kaṭhina-vastu</s> 12. Then afterward, on the fifteenth day of the bright half of the month of <s>Āśvayuja</s> (October), he should announce: ("
+      "translated_text": "<s>Kaṭhina-vastu</s> 12. Then afterward, on the fifteenth day of the bright half of the month of <s>Āśvayuja</s> (October), he should announce:"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 94,
+      "attributes": {
+        "id": "Matsumura_201",
+        "label": "Matsumura 201"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 13. śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ saṃghena kaṭhinaṃ saṃmatam ahaṃ caivaṃnāmā bhikṣuḥ kaṭhināstārakaḥ so 'ham evaṃnāmā kaṭhināstārakas tena cīvareṇa saṃghasya kaṭhinam āstariṣyāmīti / evaṃ dvir api tṛr api tata āstīrya saṃghasthavirasya purastāt sthitvā evaṃ vaktavyaṃ samanvāhara sthavira idaṃ cīvaraṃ saṃghena kaṭhinaṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 203",
-          "segment_number": 105,
-          "translated_text": "<s>Matsumura</s> 203"
-        },
-        {
-          "tag": "text",
-          "text": ") saṃmatam ahaṃ caivaṃnāmā kaṭhināstārakas tan mayā anena cīvareṇa saṃghasya kaṭhinam āstṛtam iti",
-          "segment_number": 106,
-          "translated_text": "). And I am so-and-so, the <s>kaṭhina</s>-spreader. I have spread the <s>kaṭhina</s> for the <s>saṃgha</s> with this robe.'"
-        }
-      ],
+      "text": "śvo 'ham āyuṣmanta",
+      "translated_text": "'Tomorrow I, venerable ones",
+      "segment_number": 95
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 96,
+      "translated_text": "[continuation: -ḥ]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kaṭhinam āstariṣyāmi / yuṣmābhi",
+      "translated_text": "shall spread the <s>kaṭhina</s>. By you",
+      "segment_number": 97
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 98,
+      "translated_text": "[continuation: -ḥ]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "svakasvakāni cīvarāṇi pratyuddhartavyāni iti tataḥ kaṭhināstārakeṇa",
+      "translated_text": "your own respective robes should be collected.' Then by the <s>kaṭhina</s>-spreading",
+      "segment_number": 99
+    },
+    {
+      "tag": "lg",
+      "segment_number": 100,
+      "attributes": {
+        "id": "Matsumura_202",
+        "label": "Matsumura 202"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "bhikṣuṇā kaṭhina",
+      "translated_text": "<s>bhikṣu</s>, the <s>kaṭhina</s>",
+      "segment_number": 101
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ṃ",
+      "segment_number": 102,
+      "translated_text": "[continuation: -ṃ]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "gandhapuṣpānvitaṃ surabhidhūpadhūpitaṃ kṛtvā śayanāsanaprajñaptiṃ kṛtvā gaṇḍīm ākoṭya pṛṣtavācikayā bhikṣūn samanuyujya sarvasaṃghe sanniṣaṇṇe sannipatite vṛddhānte sthāpayitavyaṃ tato vṛddhānte sthivā kaṭhinaṃ gṛhītvā vaktavyaṃ",
+      "translated_text": "having been prepared with fragrant flowers and perfumed with sweet incense, having arranged the seating, having struck the <s>gaṇḍī</s> (gong), having assembled the <s>bhikṣus</s> by roll-call, when the entire <s>saṃgha</s> is seated and assembled, it should be placed at the senior end. Then, standing at the senior end and having taken up the <s>kaṭhina</s>, he should say:",
+      "segment_number": 103
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 13. śṛṇotu bhadantāḥ saṃgha idaṃ cīvaraṃ saṃghena kaṭhinaṃ saṃmatam ahaṃ caivaṃnāmā bhikṣuḥ kaṭhināstārakaḥ so 'ham evaṃnāmā kaṭhināstārakas tena cīvareṇa saṃghasya kaṭhinam āstariṣyāmīti / evaṃ dvir api tṛr api tata āstīrya saṃghasthavirasya purastāt sthitvā evaṃ vaktavyaṃ samanvāhara sthavira idaṃ cīvaraṃ saṃghena kaṭhinaṃ",
       "segment_number": 104,
-      "translated_text": "<s>Kaṭhina-vastu</s> 13. 'Let the venerable <s>saṃgha</s> listen. This robe has been approved by the <s>saṃgha</s> as the <s>kaṭhina</s>. And I am the <s>bhikṣu</s> named so-and-so, the <s>kaṭhina</s>-spreader. I, so-and-so the <s>kaṭhina</s>-spreader, shall spread the <s>kaṭhina</s> for the <s>saṃgha</s> with this robe.' Thus twice and thrice. Then, having spread it, standing before the senior monk of the <s>saṃgha</s>, he should say thus: 'Please acknowledge, Elder. This robe has been approved by the <s>saṃgha</s> as the <s>kaṭhina</s> ("
+      "translated_text": "<s>Kaṭhina-vastu</s> 13. 'Let the venerable <s>saṃgha</s> listen. This robe has been approved by the <s>saṃgha</s> as the <s>kaṭhina</s>. And I am the <s>bhikṣu</s> named so-and-so, the <s>kaṭhina</s>-spreader. I, so-and-so the <s>kaṭhina</s>-spreader, shall spread the <s>kaṭhina</s> for the <s>saṃgha</s> with this robe.' Thus twice and thrice. Then, having spread it, standing before the senior monk of the <s>saṃgha</s>, he should say thus: 'Please acknowledge, Elder. This robe has been approved by the <s>saṃgha</s> as the <s>kaṭhina</s>"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 105,
+      "attributes": {
+        "id": "Matsumura_203",
+        "label": "Matsumura 203"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "saṃmatam ahaṃ caivaṃnāmā kaṭhināstārakas tan mayā anena cīvareṇa saṃghasya kaṭhinam āstṛtam iti",
+      "translated_text": ". And I am so-and-so, the <s>kaṭhina</s>-spreader. I have spread the <s>kaṭhina</s> for the <s>saṃgha</s> with this robe.'",
+      "segment_number": 106
     },
     {
       "tag": "p",
@@ -917,26 +887,24 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 15. kaṭhināstārakeṇa bhikṣuṇā kaṭhinaṃ gṛhītvā na prasrāvakuṭiṃ na varcaskuṭiṃ na dhūmāgāraṃ praveṣṭavyaṃ nābhyavakāśe sthātavyaṃ na bahiḥsīmāṃ gantavyaṃ saced gacchati na tasyāṃ vastavyaṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 204",
-          "segment_number": 109,
-          "translated_text": "<s>Matsumura</s> 204"
-        },
-        {
-          "tag": "text",
-          "text": ") kaṭhināstārako bhikṣur yathāprajñaptān āsamudācārikāṃ dharmān na samādāya vartate sātisāro bhavati",
-          "segment_number": 110,
-          "translated_text": "). If the <s>kaṭhina</s>-spreading <s>bhikṣu</s> does not observe the prescribed customary duties, he commits a transgression (<s>sātisāra</s>)."
-        }
-      ],
+      "text": "Kaṭhina-v 15. kaṭhināstārakeṇa bhikṣuṇā kaṭhinaṃ gṛhītvā na prasrāvakuṭiṃ na varcaskuṭiṃ na dhūmāgāraṃ praveṣṭavyaṃ nābhyavakāśe sthātavyaṃ na bahiḥsīmāṃ gantavyaṃ saced gacchati na tasyāṃ vastavyaṃ",
       "segment_number": 108,
-      "translated_text": "<s>Kaṭhina-vastu</s> 15. The <s>kaṭhina</s>-spreading <s>bhikṣu</s>, having taken up the <s>kaṭhina</s>, should not enter the urinal hut, the latrine hut, or the fumigation house; should not stand in the open air; should not go beyond the <s>sīmā</s> (boundary). If he goes, he should not stay there ("
+      "translated_text": "<s>Kaṭhina-vastu</s> 15. The <s>kaṭhina</s>-spreading <s>bhikṣu</s>, having taken up the <s>kaṭhina</s>, should not enter the urinal hut, the latrine hut, or the fumigation house; should not stand in the open air; should not go beyond the <s>sīmā</s> (boundary). If he goes, he should not stay there"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 109,
+      "attributes": {
+        "id": "Matsumura_204",
+        "label": "Matsumura 204"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kaṭhināstārako bhikṣur yathāprajñaptān āsamudācārikāṃ dharmān na samādāya vartate sātisāro bhavati",
+      "translated_text": ". If the <s>kaṭhina</s>-spreading <s>bhikṣu</s> does not observe the prescribed customary duties, he commits a transgression (<s>sātisāra</s>).",
+      "segment_number": 110
     },
     {
       "tag": "p",
@@ -1028,10 +996,7 @@
           "translated_text": "("
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "277v1 = GBM 6.867",
           "segment_number": 123,
           "translated_text": "277v1 = GBM 6.867"
@@ -1062,17 +1027,11 @@
       "translated_text": "<s>Kaṭhina-vastu</s> 17. The venerable <s>Upāli</s> asks the <s>Buddha</s>, the <s>Bhagavān</s>: 'For how many, Venerable Sir, is the <s>kaṭhina</s>"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 205"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_205",
+        "label": "Matsumura 205"
+      }
     },
     {
       "tag": "p",
@@ -1100,17 +1059,11 @@
       "translated_text": "<s>Kaṭhina-vastu</s> 19. 'For how many, Venerable Sir, is there neither gain nor advantage?' 'For five, <s>Upāli</s>: for one suspended for not acknowledging an offense, for one suspended for not making amends, for one suspended for not renouncing a wrong view, for one who kept the rains retreat elsewhere, and for one who sided with the wrong party when the <s>saṃgha</s> was split.'"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 206"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_206",
+        "label": "Matsumura 206"
+      }
     },
     {
       "tag": "p",
@@ -1174,17 +1127,11 @@
       "translated_text": "<s>Kaṭhina-vastu</s> 21. 'Let the venerable <s>saṃgha</s> listen. In this very <s>āvāsa</s> (dwelling), the <s>kaṭhina</s> has been spread by the united <s>saṃgha</s>, and many <s>bhikṣus</s> robbed by thieves have arrived. If the time is appropriate for the <s>saṃgha</s>, may it approve and authorize that the <s>saṃgha</s> should withdraw the <s>kaṭhina</s> for the sake of the <s>bhikṣus</s> robbed by thieves. This is the formal motion (<s>jñapti</s>). And the act (<s>karma</s>) should be performed thus:'"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 207"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_207",
+        "label": "Matsumura 207"
+      }
     },
     {
       "tag": "p",
@@ -1234,54 +1181,46 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 23. āyuṣmān upālī buddhaṃ bhagavantaṃ pṛcchati / labhyaṃ bhadanta vitaritena cīvarakeṇa kaṭhinam āstartum* na labhyam upālin* labhyaṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 208",
-          "segment_number": 145,
-          "translated_text": "<s>Matsumura</s> 208"
-        },
-        {
-          "tag": "text",
-          "text": ") bhadanta vilikhitena dakaśāṭikācīvareṇa gaṇḍūṣacīvareṇa paṭṭikācīvareṇa plotikācīvareṇa pariṣaṇḍācīvareṇa purāṇacīvareṇa (",
-          "segment_number": 146,
-          "translated_text": "), Venerable Sir, with a scratched robe, a water-cloth robe, a ball-shaped robe, a strip-cloth robe, a patched robe, a bordered robe, an old robe ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 209",
-          "segment_number": 147,
-          "translated_text": "<s>Matsumura</s> 209"
-        },
-        {
-          "tag": "text",
-          "text": ") sannihitacīvareṇa phupphusacīvareṇa kaṭhinam āstartuṃ na labhyam upālin* // //",
-          "segment_number": 148,
-          "translated_text": "), a stored robe, or a bubble-cloth robe to spread the <s>kaṭhina</s>?' 'It is not permissible, <s>Upāli</s>.'"
-        }
-      ],
+      "text": "Kaṭhina-v 23. āyuṣmān upālī buddhaṃ bhagavantaṃ pṛcchati / labhyaṃ bhadanta vitaritena cīvarakeṇa kaṭhinam āstartum* na labhyam upālin* labhyaṃ",
       "segment_number": 144,
-      "translated_text": "<s>Kaṭhina-vastu</s> 23. The venerable <s>Upāli</s> asks the <s>Buddha</s>, the <s>Bhagavān</s>: 'Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> with a spread-out robe?' 'It is not permissible, <s>Upāli</s>.' 'Is it permissible ("
+      "translated_text": "<s>Kaṭhina-vastu</s> 23. The venerable <s>Upāli</s> asks the <s>Buddha</s>, the <s>Bhagavān</s>: 'Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> with a spread-out robe?' 'It is not permissible, <s>Upāli</s>.' 'Is it permissible"
     },
     {
-      "tag": "note",
+      "tag": "lg",
+      "segment_number": 145,
+      "attributes": {
+        "id": "Matsumura_208",
+        "label": "Matsumura 208"
+      }
+    },
+    {
+      "tag": "p",
       "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 210"
-        }
-      ]
+      "text": "bhadanta vilikhitena dakaśāṭikācīvareṇa gaṇḍūṣacīvareṇa paṭṭikācīvareṇa plotikācīvareṇa pariṣaṇḍācīvareṇa purāṇacīvareṇa",
+      "translated_text": ", Venerable Sir, with a scratched robe, a water-cloth robe, a ball-shaped robe, a strip-cloth robe, a patched robe, a bordered robe, an old robe",
+      "segment_number": 146
+    },
+    {
+      "tag": "lg",
+      "segment_number": 147,
+      "attributes": {
+        "id": "Matsumura_209",
+        "label": "Matsumura 209"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sannihitacīvareṇa phupphusacīvareṇa kaṭhinam āstartuṃ na labhyam upālin* // //",
+      "translated_text": ", a stored robe, or a bubble-cloth robe to spread the <s>kaṭhina</s>?' 'It is not permissible, <s>Upāli</s>.'",
+      "segment_number": 148
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_210",
+        "label": "Matsumura 210"
+      }
     },
     {
       "tag": "p",
@@ -1320,84 +1259,73 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 24. āyuṣmān (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "278r1 = GBM 6.868",
-          "segment_number": 154,
-          "translated_text": "278r1 = GBM 6.868"
-        },
-        {
-          "tag": "text",
-          "text": ") upālī buddhaṃ bhagavantaṃ pṛcchati labhyaṃ bhadanta marditena cīvareṇa kaṭhinam āstartuṃ na labhyam upālin* labhyaṃ bhadanta akālacīvareṇa paudgalikayā saṃghāṭyā (",
-          "segment_number": 155,
-          "translated_text": ") <s>Upāli</s> asks the <s>Buddha</s>, the <s>Bhagavān</s>: 'Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> with a crushed robe?' 'It is not permissible, <s>Upāli</s>.' 'Is it permissible, Venerable Sir, with an untimely robe, with a personal <s>saṃghāṭī</s> (outer robe) ("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 211",
-          "segment_number": 156,
-          "translated_text": "<s>Matsumura</s> 211"
-        },
-        {
-          "tag": "text",
-          "text": ") uttarāsaṃgena antarvāsena akalpikena cīvareṇa acchinakena ūnapaṃcakena asammatena",
-          "segment_number": 157,
-          "translated_text": "), an <s>uttarāsaṅga</s> (upper robe), an <s>antarvāsa</s> (inner robe), an improper robe, an untorn robe, or one with fewer than five [monks], with one unapproved?"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "cīvareṇa asammatena",
-          "segment_number": 158,
-          "translated_text": "with a robe that is not authorized"
-        },
-        {
-          "tag": "text",
-          "text": "(",
-          "segment_number": 159,
-          "translated_text": "("
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 212",
-          "segment_number": 160,
-          "translated_text": "[Matsumura 212]"
-        },
-        {
-          "tag": "text",
-          "text": ") kaṭhināstārakena bahiḥsīmāsammatena kaṭhinacīvareṇa bahiḥsīmāsaṃmatena kaṭhināstārakena kaṭhinam āstartuṃ na labhyam upālin* // //",
-          "segment_number": 161,
-          "translated_text": ") with a <s>kaṭhina</s>-spreading [robe] authorized outside the boundary, with a <s>kaṭhina</s>-robe authorized outside the boundary, with a <s>kaṭhina</s>-spreading [robe] — the <s>kaṭhina</s> may not be spread, <s>Upālin</s>."
-        }
-      ],
+      "text": "Kaṭhina-v 24. āyuṣmān",
       "segment_number": 153,
-      "translated_text": "<s>Kaṭhina-vastu</s> 24. The venerable ("
+      "translated_text": "<s>Kaṭhina-vastu</s> 24. The venerable"
     },
     {
-      "tag": "note",
+      "tag": "quote",
+      "text": "278r1 = GBM 6.868",
+      "segment_number": 154,
+      "translated_text": "278r1 = GBM 6.868"
+    },
+    {
+      "tag": "p",
       "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 213"
-        }
-      ]
+      "text": ") upālī buddhaṃ bhagavantaṃ pṛcchati labhyaṃ bhadanta marditena cīvareṇa kaṭhinam āstartuṃ na labhyam upālin* labhyaṃ bhadanta akālacīvareṇa paudgalikayā saṃghāṭyā",
+      "translated_text": ") <s>Upāli</s> asks the <s>Buddha</s>, the <s>Bhagavān</s>: 'Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> with a crushed robe?' 'It is not permissible, <s>Upāli</s>.' 'Is it permissible, Venerable Sir, with an untimely robe, with a personal <s>saṃghāṭī</s> (outer robe)",
+      "segment_number": 155
+    },
+    {
+      "tag": "lg",
+      "segment_number": 156,
+      "attributes": {
+        "id": "Matsumura_211",
+        "label": "Matsumura 211"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "uttarāsaṃgena antarvāsena akalpikena cīvareṇa acchinakena ūnapaṃcakena asammatena",
+      "translated_text": ", an <s>uttarāsaṅga</s> (upper robe), an <s>antarvāsa</s> (inner robe), an improper robe, an untorn robe, or one with fewer than five [monks], with one unapproved?",
+      "segment_number": 157
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "cīvareṇa asammatena",
+      "segment_number": 158,
+      "translated_text": "with a robe that is not authorized"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "segment_number": 159
+    },
+    {
+      "tag": "lg",
+      "segment_number": 160,
+      "attributes": {
+        "id": "Matsumura_212",
+        "label": "Matsumura 212"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kaṭhināstārakena bahiḥsīmāsammatena kaṭhinacīvareṇa bahiḥsīmāsaṃmatena kaṭhināstārakena kaṭhinam āstartuṃ na labhyam upālin* // //",
+      "translated_text": "with a <s>kaṭhina</s>-spreading [robe] authorized outside the boundary, with a <s>kaṭhina</s>-robe authorized outside the boundary, with a <s>kaṭhina</s>-spreading [robe] — the <s>kaṭhina</s> may not be spread, <s>Upālin</s>.",
+      "segment_number": 161
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_213",
+        "label": "Matsumura 213"
+      }
     },
     {
       "tag": "p",
@@ -1417,68 +1345,62 @@
       "tag": "p",
       "attributes": {},
       "text": "Kaṭhina-v 25. labhyaṃ bhadanta kālikena cīvareṇa saṃghasya kaṭhinam āstartuṃ labhyaṃ upālin* yo bhadanta traimāsyātyayāt saṃghasya cīvaralābhaḥ saṃpadyate",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "tena labhyaṃ",
-          "segment_number": 165,
-          "translated_text": "\"With those, it is permissible"
-        },
-        {
-          "tag": "text",
-          "text": "kaṭhinam āstartuṃ labhyam upāliṃ ahatacīvareṇa labhyaṃ ahatakalpitena labhyaṃ ātyayikacīvareṇa labhyaṃ paulotikacīvareṇa labhyaṃ paulotikayā (",
-          "segment_number": 166,
-          "translated_text": "to spread the <s>kaṭhina</s>. It is permissible, <s>Upālin</s>. With an unused robe — permissible. With a robe made permissible from unused [cloth] — permissible. With an urgent robe — permissible. With a pieced-together robe — permissible. With a pieced-together"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 214",
-          "segment_number": 167,
-          "translated_text": "[Matsumura 214]"
-        },
-        {
-          "tag": "text",
-          "text": ") saṃghāṭyā na labhyaṃ",
-          "segment_number": 168,
-          "translated_text": ") outer robe (<s>saṃghāṭī</s>) — not permissible.\""
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "labhyaṃ bhadanta paudgalikayā saṃghāṭyā kaṭhinam āstartuṃ labhyam upālin",
-          "segment_number": 169,
-          "translated_text": "\"Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> with an individual's outer robe?\" \"It is permissible, <s>Upālin</s>,"
-        },
-        {
-          "tag": "text",
-          "text": "sacet saṃghe nisṛṣṭā bhavati evam uttarāsaṃgenāntarvāsena // //",
-          "segment_number": 170,
-          "translated_text": "if it has been relinquished to the <s>Saṅgha</s>. Likewise with the upper robe and the inner robe.\""
-        }
-      ],
       "segment_number": 164,
       "translated_text": "[Kaṭhina-v 25.] \"Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> of the <s>Saṅgha</s> with a seasonal robe?\" \"It is permissible, <s>Upālin</s>.\" \"Venerable Sir, what about robe-gains that accrue to the <s>Saṅgha</s> at the end of the three-month [period]?\""
     },
     {
-      "tag": "note",
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "tena labhyaṃ",
+      "segment_number": 165,
+      "translated_text": "\"With those, it is permissible"
+    },
+    {
+      "tag": "p",
       "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 215"
-        }
-      ]
+      "text": "kaṭhinam āstartuṃ labhyam upāliṃ ahatacīvareṇa labhyaṃ ahatakalpitena labhyaṃ ātyayikacīvareṇa labhyaṃ paulotikacīvareṇa labhyaṃ paulotikayā",
+      "translated_text": "to spread the <s>kaṭhina</s>. It is permissible, <s>Upālin</s>. With an unused robe — permissible. With a robe made permissible from unused [cloth] — permissible. With an urgent robe — permissible. With a pieced-together robe — permissible. With a pieced-together",
+      "segment_number": 166
+    },
+    {
+      "tag": "lg",
+      "segment_number": 167,
+      "attributes": {
+        "id": "Matsumura_214",
+        "label": "Matsumura 214"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "saṃghāṭyā na labhyaṃ",
+      "translated_text": "outer robe (<s>saṃghāṭī</s>) — not permissible.\"",
+      "segment_number": 168
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "labhyaṃ bhadanta paudgalikayā saṃghāṭyā kaṭhinam āstartuṃ labhyam upālin",
+      "segment_number": 169,
+      "translated_text": "\"Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> with an individual's outer robe?\" \"It is permissible, <s>Upālin</s>,"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sacet saṃghe nisṛṣṭā bhavati evam uttarāsaṃgenāntarvāsena // //",
+      "translated_text": "if it has been relinquished to the <s>Saṅgha</s>. Likewise with the upper robe and the inner robe.\"",
+      "segment_number": 170
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_215",
+        "label": "Matsumura 215"
+      }
     },
     {
       "tag": "p",
@@ -1497,65 +1419,62 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 26. labhyaṃ bhadanta paudgalikena cīvareṇa kaṭhinam āstartuṃ na labhyam upāliṃ labhyaṃ sacet saṃghe nisṛṣṭaṃ bhavati gṛhapaticīvareṇa na labhyaṃ labhyaṃ sacet saṃghe nisṛṣṭaṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 216",
-          "segment_number": 174,
-          "translated_text": "[Matsumura 216]"
-        },
-        {
-          "tag": "text",
-          "text": ") bhavati paṃcakena labhyaṃ sādhikena paṃcakena labhyaṃ sammatena kaṭhinacīvare",
-          "segment_number": 175,
-          "translated_text": ").\" \"With a set of five?\" \"Permissible.\" \"With a set of five plus extra?\" \"Permissible.\" \"With an authorized <s>kaṭhina</s>-robe"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ṇa",
-          "segment_number": 176,
-          "translated_text": ","
-        },
-        {
-          "tag": "text",
-          "text": "kaṭhināstārakena labhyaṃ antaḥsīmāsammatena kaṭhinacīvareṇa labhyaṃ antaḥsīmāsammatena kaṭhināstārakena labhyaṃ",
-          "segment_number": 177,
-          "translated_text": "with a <s>kaṭhina</s>-spreading [robe]?\" \"Permissible.\" \"With a <s>kaṭhina</s>-robe authorized within the boundary?\" \"Permissible.\" \"With a <s>kaṭhina</s>-spreading [robe] authorized within the boundary?\" \"Permissible.\""
-        }
-      ],
+      "text": "Kaṭhina-v 26. labhyaṃ bhadanta paudgalikena cīvareṇa kaṭhinam āstartuṃ na labhyam upāliṃ labhyaṃ sacet saṃghe nisṛṣṭaṃ bhavati gṛhapaticīvareṇa na labhyaṃ labhyaṃ sacet saṃghe nisṛṣṭaṃ",
       "segment_number": 173,
       "translated_text": "[Kaṭhina-v 26.] \"Is it permissible, Venerable Sir, to spread the <s>kaṭhina</s> with an individual's robe?\" \"Not permissible, <s>Upālin</s> — permissible if it has been relinquished to the <s>Saṅgha</s>.\" \"With a householder's robe?\" \"Not permissible — permissible if it has been relinquished to the <s>Saṅgha</s>"
     },
     {
+      "tag": "lg",
+      "segment_number": 174,
+      "attributes": {
+        "id": "Matsumura_216",
+        "label": "Matsumura 216"
+      }
+    },
+    {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 27. aṣṭau mātṛkāpadāni kaṭhinoddhārāya saṃvartante katame 'ṣṭau prakramaṇaṃ niṣṭhāpanaṃ sanniṣṭhāpanaṃ nāśanaṃ śravaṇaṃ sīmātikrāntaṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 217",
-          "segment_number": 179,
-          "translated_text": "[Matsumura 217]"
-        },
-        {
-          "tag": "text",
-          "text": ") āśācchedakaṃ kaṭhinoddhāram evāṣṭamam* prakramaṇāntikaḥ kaṭhinoddhārā niṣṭhāpanāntikaḥ sanniṣṭhāpanāntikaḥ nāśanāntikaḥ śravaṇāntikaḥ sīmātikrāntikaḥ āśācchedakaḥ kaṭhinoddhāram evāṣṭamam*",
-          "segment_number": 180,
-          "translated_text": ") cutting off of expectation, and the <s>kaṭhina</s> withdrawal itself as the eighth. [These are:] the withdrawal of the <s>kaṭhina</s> ending with departure; ending with completion; ending with determination [not to complete]; ending with destruction; ending with hearing; ending with crossing the boundary; ending with cutting off of expectation; and the <s>kaṭhina</s> withdrawal itself as the eighth."
-        }
-      ],
+      "text": "bhavati paṃcakena labhyaṃ sādhikena paṃcakena labhyaṃ sammatena kaṭhinacīvare",
+      "translated_text": ".\" \"With a set of five?\" \"Permissible.\" \"With a set of five plus extra?\" \"Permissible.\" \"With an authorized <s>kaṭhina</s>-robe",
+      "segment_number": 175
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ṇa",
+      "segment_number": 176,
+      "translated_text": ","
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "kaṭhināstārakena labhyaṃ antaḥsīmāsammatena kaṭhinacīvareṇa labhyaṃ antaḥsīmāsammatena kaṭhināstārakena labhyaṃ",
+      "translated_text": "with a <s>kaṭhina</s>-spreading [robe]?\" \"Permissible.\" \"With a <s>kaṭhina</s>-robe authorized within the boundary?\" \"Permissible.\" \"With a <s>kaṭhina</s>-spreading [robe] authorized within the boundary?\" \"Permissible.\"",
+      "segment_number": 177
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 27. aṣṭau mātṛkāpadāni kaṭhinoddhārāya saṃvartante katame 'ṣṭau prakramaṇaṃ niṣṭhāpanaṃ sanniṣṭhāpanaṃ nāśanaṃ śravaṇaṃ sīmātikrāntaṃ",
       "segment_number": 178,
       "translated_text": "[Kaṭhina-v 27.] Eight root-categories conduce to the withdrawal of the <s>kaṭhina</s>. Which eight? Departure, completion, determination [not to complete], destruction, hearing, crossing the boundary,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 179,
+      "attributes": {
+        "id": "Matsumura_217",
+        "label": "Matsumura 217"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āśācchedakaṃ kaṭhinoddhāram evāṣṭamam* prakramaṇāntikaḥ kaṭhinoddhārā niṣṭhāpanāntikaḥ sanniṣṭhāpanāntikaḥ nāśanāntikaḥ śravaṇāntikaḥ sīmātikrāntikaḥ āśācchedakaḥ kaṭhinoddhāram evāṣṭamam*",
+      "translated_text": "cutting off of expectation, and the <s>kaṭhina</s> withdrawal itself as the eighth. [These are:] the withdrawal of the <s>kaṭhina</s> ending with departure; ending with completion; ending with determination [not to complete]; ending with destruction; ending with hearing; ending with crossing the boundary; ending with cutting off of expectation; and the <s>kaṭhina</s> withdrawal itself as the eighth.",
+      "segment_number": 180
     },
     {
       "tag": "p",
@@ -1565,17 +1484,11 @@
       "translated_text": "[Kaṭhina-v 28.] What is the withdrawal of the <s>kaṭhina</s> ending with departure? Here, a <s>bhikṣu</s>, from a residence where the <s>kaṭhina</s> has been spread, whose robe is not made and not finished, taking his bowl and robe, departs beyond the boundary with no intention of returning. For him, this is the withdrawal of the <s>kaṭhina</s> ending with departure."
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 218"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_218",
+        "label": "Matsumura 218"
+      }
     },
     {
       "tag": "p",
@@ -1634,125 +1547,123 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 30. sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 219",
-          "segment_number": 190,
-          "translated_text": "[Matsumura 219]"
-        },
-        {
-          "tag": "text",
-          "text": ") āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmi nāpi cīvaraṃ kariṣyāmīti tasya sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
-          "segment_number": 191,
-          "translated_text": ") from a residence where the <s>kaṭhina</s> has been spread, whose robe is not made and not finished, departs beyond the boundary [thinking:] \"I shall return, I shall make the robe.\" Then this thought arises in him: \"I shall certainly not return, nor shall I make the robe.\" For him, this is the withdrawal of the <s>kaṭhina</s> ending with determination [not to complete]."
-        }
-      ],
+      "text": "Kaṭhina-v 30. sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur",
       "segment_number": 189,
       "translated_text": "[Kaṭhina-v 30.] What is the withdrawal of the <s>kaṭhina</s> ending with determination [not to complete]? Here, a <s>bhikṣu</s>,"
     },
     {
+      "tag": "lg",
+      "segment_number": 190,
+      "attributes": {
+        "id": "Matsumura_219",
+        "label": "Matsumura 219"
+      }
+    },
+    {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 31. nāśanāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 220",
-          "segment_number": 193,
-          "translated_text": "[Matsumura 220]"
-        },
-        {
-          "tag": "text",
-          "text": ") āvāsād akṛta",
-          "segment_number": 194,
-          "translated_text": ") whose robe is not"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "c",
-          "segment_number": 195,
-          "translated_text": "ma"
-        },
-        {
-          "tag": "text",
-          "text": "ī",
-          "segment_number": 196,
-          "translated_text": "de"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "varo",
-          "segment_number": 197,
-          "translated_text": ""
-        },
-        {
-          "tag": "text",
-          "text": "'n",
-          "segment_number": 198,
-          "translated_text": "and not"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "i",
-          "segment_number": 199,
-          "translated_text": "fi"
-        },
-        {
-          "tag": "text",
-          "text": "ṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi (",
-          "segment_number": 200,
-          "translated_text": "nished, departs beyond the boundary [thinking:] \"I shall return,"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "278v1 = GBM 6.869",
-          "segment_number": 201,
-          "translated_text": "[278v1 = GBM 6.869]"
-        },
-        {
-          "tag": "text",
-          "text": ") cīvaraṃ kariṣyāmi /",
-          "segment_number": 202,
-          "translated_text": ") I shall make the robe.\""
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "tasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvaraṃ kariṣyāmīti",
-          "segment_number": 203,
-          "translated_text": "Then this thought arises in him: \"I shall certainly not return, but I shall make the robe.\""
-        },
-        {
-          "tag": "text",
-          "text": "sa tad ārabhate ārabdhaṃ tu naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ",
-          "segment_number": 204,
-          "translated_text": "He begins that [robe-making], but what was begun is destroyed. For him, this is the withdrawal of the <s>kaṭhina</s> ending with destruction."
-        }
-      ],
+      "text": "āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmi nāpi cīvaraṃ kariṣyāmīti tasya sanniṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+      "translated_text": "from a residence where the <s>kaṭhina</s> has been spread, whose robe is not made and not finished, departs beyond the boundary [thinking:] \"I shall return, I shall make the robe.\" Then this thought arises in him: \"I shall certainly not return, nor shall I make the robe.\" For him, this is the withdrawal of the <s>kaṭhina</s> ending with determination [not to complete].",
+      "segment_number": 191
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Kaṭhina-v 31. nāśanāntikaḥ kaṭhinoddhāraḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād",
       "segment_number": 192,
       "translated_text": "[Kaṭhina-v 31.] What is the withdrawal of the <s>kaṭhina</s> ending with destruction? Here, a <s>bhikṣu</s>, from a residence where the <s>kaṭhina</s> has been spread,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 193,
+      "attributes": {
+        "id": "Matsumura_220",
+        "label": "Matsumura 220"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āvāsād akṛta",
+      "translated_text": "whose robe is not",
+      "segment_number": 194
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "c",
+      "segment_number": 195,
+      "translated_text": "ma"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ī",
+      "translated_text": "de",
+      "segment_number": 196
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "varo",
+      "segment_number": 197,
+      "translated_text": ""
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "'n",
+      "translated_text": "and not",
+      "segment_number": 198
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "i",
+      "segment_number": 199,
+      "translated_text": "fi"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ṣṭhitacīvaraḥ bahiḥsīmāṃ prakrāmati pratyeṣyāmi (",
+      "translated_text": "nished, departs beyond the boundary [thinking:] \"I shall return,",
+      "segment_number": 200
+    },
+    {
+      "tag": "quote",
+      "text": "278v1 = GBM 6.869",
+      "segment_number": 201,
+      "translated_text": "[278v1 = GBM 6.869]"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": ") cīvaraṃ kariṣyāmi /",
+      "translated_text": ") I shall make the robe.\"",
+      "segment_number": 202
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "tasyaivaṃ bhavati na haiva pratyeṣyāmi api tu cīvaraṃ kariṣyāmīti",
+      "segment_number": 203,
+      "translated_text": "Then this thought arises in him: \"I shall certainly not return, but I shall make the robe.\""
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sa tad ārabhate ārabdhaṃ tu naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ",
+      "translated_text": "He begins that [robe-making], but what was begun is destroyed. For him, this is the withdrawal of the <s>kaṭhina</s> ending with destruction.",
+      "segment_number": 204
     },
     {
       "tag": "p",
@@ -1762,17 +1673,11 @@
       "translated_text": "[Kaṭhina-v 32.] What is the withdrawal of the <s>kaṭhina</s> ending with hearing? Here, a <s>bhikṣu</s>, from a residence where the <s>kaṭhina</s> has been spread, whose robe is not made and not finished, departs beyond the boundary [thinking:] \"I shall return, I shall make the robe.\" And the <s>kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>. He hears: \"The <s>kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>.\" And having heard, he approves: \"Well withdrawn! Properly withdrawn!\" For him, this is the withdrawal of the <s>kaṭhina</s> ending with hearing."
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 221"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_221",
+        "label": "Matsumura 221"
+      }
     },
     {
       "tag": "p",
@@ -1802,26 +1707,24 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 35. kaṭhinoddhāra evāṣṭamaḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 222",
-          "segment_number": 210,
-          "translated_text": "[Matsumura 222]"
-        },
-        {
-          "tag": "text",
-          "text": ") āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati cāgatya kaṭhinoddhāraḥ pratyanubhavati tasya kaṭhinodhāra evāṣṭamaḥ // //",
-          "segment_number": 211,
-          "translated_text": ") whose robe is not made and not finished, departs beyond the boundary, and having returned, undergoes the <s>kaṭhina</s> withdrawal. For him, the <s>kaṭhina</s> withdrawal itself is the eighth."
-        }
-      ],
+      "text": "Kaṭhina-v 35. kaṭhinoddhāra evāṣṭamaḥ katamaḥ yathāpi tad bhikṣur āstīrṇakaṭhinād",
       "segment_number": 209,
       "translated_text": "[Kaṭhina-v 35.] What is the eighth, the <s>kaṭhina</s> withdrawal itself? Here, a <s>bhikṣu</s>, from a residence where the <s>kaṭhina</s> has been spread,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 210,
+      "attributes": {
+        "id": "Matsumura_222",
+        "label": "Matsumura 222"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati cāgatya kaṭhinoddhāraḥ pratyanubhavati tasya kaṭhinodhāra evāṣṭamaḥ // //",
+      "translated_text": "whose robe is not made and not finished, departs beyond the boundary, and having returned, undergoes the <s>kaṭhina</s> withdrawal. For him, the <s>kaṭhina</s> withdrawal itself is the eighth.",
+      "segment_number": 211
     },
     {
       "tag": "p",
@@ -1886,17 +1789,11 @@
       "translated_text": "[Kaṭhina-v 37.] Here, a <s>bhikṣu</s>, from a residence where the <s>kaṭhina</s> has been spread, whose robe is not made and not finished, departs beyond the boundary [thinking:] \"I shall return, I shall make the robe.\" Then this thought arises in him: \"I shall certainly not return, nor shall I make the robe.\" For him, this is the"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 223"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_223",
+        "label": "Matsumura 223"
+      }
     },
     {
       "tag": "p",
@@ -1925,10 +1822,7 @@
       "text": "Kaṭhina-v 41. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmi / tasya tatra gatasyaivaṃ bhavati (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "279r1 = GBM 6.870",
           "segment_number": 224,
           "translated_text": "[279r1 = GBM 6.870]"
@@ -1983,17 +1877,11 @@
       "translated_text": "[Kaṭhina-v 42.] Here, a <s>bhikṣu</s>, from a residence where the <s>kaṭhina</s> has been spread, whose robe is not made and not finished, departs beyond the boundary [thinking:] \"I shall return, I shall make the robe.\" Having gone there, he begins [the robe-making], and what was begun is destroyed. For him, this is the withdrawal of the <s>kaṭhina</s> ending with destruc-"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 224"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_224",
+        "label": "Matsumura 224"
+      }
     },
     {
       "tag": "p",
@@ -2090,26 +1978,24 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 47. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 225",
-          "segment_number": 244,
-          "translated_text": "(<s>Matsumura</s> 225)"
-        },
-        {
-          "tag": "text",
-          "text": ") paligodhasantatir bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtam* sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate / sādhūddhṛtaṃ suṣṭhūddhṛtam iti // tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
-          "segment_number": 245,
-          "translated_text": "goes beyond the boundary with the continuous expectation of return, [thinking:] 'I shall return and make the robe.' The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>. He hears: 'The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>.' Having heard, he approves: 'Well withdrawn! Properly withdrawn!' For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by hearing."
-        }
-      ],
+      "text": "Kaṭhina-v 47. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ",
       "segment_number": 243,
       "translated_text": "47. Suppose a <s>bhikṣu</s> from a residence where the <s>Kaṭhina</s> has been spread, whose robe is not yet made and not yet completed,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 244,
+      "attributes": {
+        "id": "Matsumura_225",
+        "label": "Matsumura 225"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "paligodhasantatir bahiḥsīmāṃ prakrāmati pratyeṣyāmi cīvaraṃ kariṣyāmīti / samagreṇa ca saṃghena kaṭhinam uddhṛtam* sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti śrutvā cābhyanumodate / sādhūddhṛtaṃ suṣṭhūddhṛtam iti // tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
+      "translated_text": "goes beyond the boundary with the continuous expectation of return, [thinking:] 'I shall return and make the robe.' The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>. He hears: 'The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>.' Having heard, he approves: 'Well withdrawn! Properly withdrawn!' For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by hearing.",
+      "segment_number": 245
     },
     {
       "tag": "p",
@@ -2155,10 +2041,7 @@
       "text": "Kaṭhina-v 51. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ paligodhasantatir bahiḥsīmāṃ prakrāmati (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "279v1 = GBM 6.871",
           "segment_number": 252,
           "translated_text": "(279v1 = GBM 6.871)"
@@ -2176,41 +2059,40 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 52. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 226",
-          "segment_number": 255,
-          "translated_text": "(<s>Matsumura</s> 226)"
-        },
-        {
-          "tag": "text",
-          "text": ") 'niṣṭhitacīvaraḥ vicikitsāsantatir bahiḥsīmāṃ prakrāmati kin nu pratyeṣyāmi āhosvi",
-          "segment_number": 256,
-          "translated_text": "whose robe is not yet completed, goes beyond the boundary with continuous doubt, [thinking:] 'Shall I return, or"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "n",
-          "segment_number": 257,
-          "translated_text": "shall I"
-        },
-        {
-          "tag": "text",
-          "text": "na pratyeṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
-          "segment_number": 258,
-          "translated_text": "not return?' Then he thinks: 'I shall certainly not return, but I shall make the robe.' For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by completion."
-        }
-      ],
+      "text": "Kaṭhina-v 52. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro",
       "segment_number": 254,
       "translated_text": "52. Suppose a <s>bhikṣu</s> from a residence where the <s>Kaṭhina</s> has been spread, whose robe is not yet made,"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 255,
+      "attributes": {
+        "id": "Matsumura_226",
+        "label": "Matsumura 226"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "'niṣṭhitacīvaraḥ vicikitsāsantatir bahiḥsīmāṃ prakrāmati kin nu pratyeṣyāmi āhosvi",
+      "translated_text": "whose robe is not yet completed, goes beyond the boundary with continuous doubt, [thinking:] 'Shall I return, or",
+      "segment_number": 256
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "n",
+      "segment_number": 257,
+      "translated_text": "shall I"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "na pratyeṣyāmīti tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ kariṣyāmīti tasya niṣṭhāpanāntikaḥ kaṭhinoddhāraḥ //",
+      "translated_text": "not return?' Then he thinks: 'I shall certainly not return, but I shall make the robe.' For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by completion.",
+      "segment_number": 258
     },
     {
       "tag": "p",
@@ -2263,41 +2145,40 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "Kaṭhina-v 55. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ vicikitsāsantatir bahiḥsīmāṃ prakrāmati / kin nu (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 227",
-          "segment_number": 266,
-          "translated_text": "(<s>Matsumura</s> 227)"
-        },
-        {
-          "tag": "text",
-          "text": ") pratyeṣyāmi āhosvin na pratyeṣyāmīti samagreṇa saṃghena kaṭhinam uddhṛtam*",
-          "segment_number": 267,
-          "translated_text": "return, or shall I not return?' The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>."
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti",
-          "segment_number": 268,
-          "translated_text": "He hears: 'The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>.'"
-        },
-        {
-          "tag": "text",
-          "text": "śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
-          "segment_number": 269,
-          "translated_text": "Having heard, he approves: 'Well withdrawn! Properly withdrawn!' For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by hearing."
-        }
-      ],
+      "text": "Kaṭhina-v 55. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaraḥ vicikitsāsantatir bahiḥsīmāṃ prakrāmati / kin nu",
       "segment_number": 265,
       "translated_text": "55. Suppose a <s>bhikṣu</s> from a residence where the <s>Kaṭhina</s> has been spread, whose robe is not yet made and not yet completed, goes beyond the boundary with continuous doubt, [thinking:] 'Shall I"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 266,
+      "attributes": {
+        "id": "Matsumura_227",
+        "label": "Matsumura 227"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "pratyeṣyāmi āhosvin na pratyeṣyāmīti samagreṇa saṃghena kaṭhinam uddhṛtam*",
+      "translated_text": "return, or shall I not return?' The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>.",
+      "segment_number": 267
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "sa śṛṇoti samagreṇa saṃghena kaṭhinam uddhṛtam iti",
+      "segment_number": 268,
+      "translated_text": "He hears: 'The <s>Kaṭhina</s> has been withdrawn by the complete <s>Saṅgha</s>.'"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "śrutvā cābhyanumodate sādhūddhṛtaṃ suṣṭhūddhṛtam iti tasya śrāvaṇāntikaḥ kaṭhinoddhāraḥ //",
+      "translated_text": "Having heard, he approves: 'Well withdrawn! Properly withdrawn!' For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by hearing.",
+      "segment_number": 269
     },
     {
       "tag": "p",
@@ -2362,17 +2243,11 @@
       "translated_text": "By the qualifier 'with expectation,' another group of twenty should be made as before."
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 228"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_228",
+        "label": "Matsumura 228"
+      }
     },
     {
       "tag": "p",
@@ -2408,10 +2283,7 @@
       "text": "Kaṭhina-v 59. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvaro bahiḥsīmāṃ prakrāmati karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti / tasyaivaṃ bhavati na haiva pratyeṣyāmy api tu cīvaraṃ (",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "280r1 = GBM 6.872",
           "segment_number": 283,
           "translated_text": "(280r1 = GBM 6.872)"
@@ -2437,55 +2309,55 @@
       "tag": "p",
       "attributes": {},
       "text": "Kaṭhina-v 61. yathāpi tad bhikṣur āstīrṇakaṭhinād āvāsād akṛtacīvaro 'niṣṭhitacīvara",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "ḥ",
-          "segment_number": 287,
-          "translated_text": ""
-        },
-        {
-          "tag": "text",
-          "text": "bahiḥsīmāṃ prakrā",
-          "segment_number": 288,
-          "translated_text": "goes beyond the boundary"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "it"
-          },
-          "text": "mati",
-          "segment_number": 289,
-          "translated_text": ""
-        },
-        {
-          "tag": "text",
-          "text": "karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti (",
-          "segment_number": 290,
-          "translated_text": "on account of a duty, [thinking:] 'I shall return and make the robe.'"
-        },
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 229",
-          "segment_number": 291,
-          "translated_text": "(<s>Matsumura</s> 229)"
-        },
-        {
-          "tag": "text",
-          "text": ") sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //",
-          "segment_number": 292,
-          "translated_text": "He begins that [work], and what he has begun is destroyed. For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by destruction."
-        }
-      ],
       "segment_number": 286,
       "translated_text": "61. Suppose a <s>bhikṣu</s> from a residence where the <s>Kaṭhina</s> has been spread, whose robe is not yet made and not yet completed"
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "ḥ",
+      "segment_number": 287,
+      "translated_text": ""
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "bahiḥsīmāṃ prakrā",
+      "translated_text": "goes beyond the boundary",
+      "segment_number": 288
+    },
+    {
+      "tag": "hi",
+      "attributes": {
+        "rend": "it"
+      },
+      "text": "mati",
+      "segment_number": 289,
+      "translated_text": ""
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "karaṇīyena pratyeṣyāmi cīvaraṃ kariṣyāmīti",
+      "translated_text": "on account of a duty, [thinking:] 'I shall return and make the robe.'",
+      "segment_number": 290
+    },
+    {
+      "tag": "lg",
+      "segment_number": 291,
+      "attributes": {
+        "id": "Matsumura_229",
+        "label": "Matsumura 229"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "sa tad ārabhate ārabdhaṃ cāsya naśyati tasya nāśanāntikaḥ kaṭhinoddhāraḥ //",
+      "translated_text": "He begins that [work], and what he has begun is destroyed. For him, the withdrawal of <s>Kaṭhina</s> [privileges] ends by destruction.",
+      "segment_number": 292
     },
     {
       "tag": "p",
@@ -2612,17 +2484,11 @@
       "translated_text": "[The withdrawal] ending by destruction. // 11 //"
     },
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Matsumura 230"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Matsumura_230",
+        "label": "Matsumura 230"
+      }
     },
     {
       "tag": "l",

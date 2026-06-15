@@ -40,20 +40,21 @@
       "tag": "head",
       "attributes": {},
       "text": "Gorakṣa-śatakam",
-      "translated_text": "Gorakṣa-śataka",
+      "translated_text": "<s>Gorakṣa-śatakam</s> (The Hundred Verses of <s>Gorakṣa</s>)",
       "segment_number": 1
     },
     {
       "tag": "p",
       "attributes": {},
       "text": "oṃ parama-gurave gorakṣanāthāya namaḥ",
-      "translated_text": "Om, homage to the supreme guru <s>Gorakṣanātha</s>.",
+      "translated_text": "<s>Oṃ</s>. Salutations to the supreme guru <s>Gorakṣanātha</s>",
       "segment_number": 2
     },
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_1"
+        "id": "GorS_1",
+        "label": "GorS 1"
       },
       "children": [
         {
@@ -67,7 +68,7 @@
                 "n": "a"
               },
               "text": "oṃ gorakṣa-śatakaṃ vakṣye",
-              "translated_text": "Om, I will recite the Gorakṣa-śataka.",
+              "translated_text": "<s>Oṃ</s>. I shall expound the <s>Gorakṣa-śataka</s>",
               "segment_number": 3
             },
             {
@@ -77,7 +78,7 @@
                 "n": "b"
               },
               "text": "bhava-pāśa-vimuktaye",
-              "translated_text": "For liberation from the bonds of existence.",
+              "translated_text": "for liberation from the bonds of worldly existence,",
               "segment_number": 4
             }
           ]
@@ -93,7 +94,7 @@
                 "n": "c"
               },
               "text": "ātma-bodha-karaṃ puṃsāṃ",
-              "translated_text": "It causes self-awareness in people.",
+              "translated_text": "which produces self-knowledge in people,",
               "segment_number": 5
             },
             {
@@ -103,7 +104,7 @@
                 "n": "d"
               },
               "text": "viveka-dvāra-kuñcikām",
-              "translated_text": "The key to the door of discernment.",
+              "translated_text": "the key that opens the door of discrimination.",
               "segment_number": 6
             },
             {
@@ -119,7 +120,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_2"
+        "id": "GorS_2",
+        "label": "GorS 2"
       },
       "children": [
         {
@@ -133,7 +135,7 @@
                 "n": "a"
               },
               "text": "etad vimukti-sopānam",
-              "translated_text": "This is the stairway to liberation.",
+              "translated_text": "This is the stairway to liberation,",
               "segment_number": 8
             },
             {
@@ -143,7 +145,7 @@
                 "n": "b"
               },
               "text": "etat kālasya vañcanam",
-              "translated_text": "This is the deception of time.",
+              "translated_text": "this is the deception of death;",
               "segment_number": 9
             }
           ]
@@ -159,7 +161,7 @@
                 "n": "c"
               },
               "text": "yad vyāvṛttaṃ mano mohād",
-              "translated_text": "When the mind is turned away from delusion.",
+              "translated_text": "that by which the mind, turned away from delusion,",
               "segment_number": 10
             },
             {
@@ -169,7 +171,7 @@
                 "n": "d"
               },
               "text": "āsaktaṃ paramātmani",
-              "translated_text": "Attached to the Supreme Self.",
+              "translated_text": "becomes attached to the supreme Self.",
               "segment_number": 11
             },
             {
@@ -185,7 +187,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_3"
+        "id": "GorS_3",
+        "label": "GorS 3"
       },
       "children": [
         {
@@ -199,7 +202,7 @@
                 "n": "a"
               },
               "text": "dvija-sevita-śākhasya",
-              "translated_text": "Of the branch served by the twice-born.",
+              "translated_text": "Of the <s>śruti</s>-wish-fulfilling tree whose branches are frequented by the twice-born,",
               "segment_number": 13
             },
             {
@@ -209,7 +212,7 @@
                 "n": "b"
               },
               "text": "śruti-kalpa-taroḥ phalam",
-              "translated_text": "The fruit of the tree of Vedic knowledge.",
+              "translated_text": "the fruit",
               "segment_number": 14
             }
           ]
@@ -225,7 +228,7 @@
                 "n": "c"
               },
               "text": "śamanaṃ bhava-tāpasya",
-              "translated_text": "The pacification of worldly suffering.",
+              "translated_text": "which alleviates the torment of worldly existence—",
               "segment_number": 15
             },
             {
@@ -235,7 +238,7 @@
                 "n": "d"
               },
               "text": "yogaṃ bhajati sajjanaḥ",
-              "translated_text": "The virtuous person practices yoga.",
+              "translated_text": "the virtuous person resorts to <s>yoga</s>.",
               "segment_number": 16
             },
             {
@@ -251,7 +254,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_4"
+        "id": "GorS_4",
+        "label": "GorS 4"
       },
       "children": [
         {
@@ -265,7 +269,7 @@
                 "n": "a"
               },
               "text": "āsanaṃ prāṇa-saṃyāmaḥ",
-              "translated_text": "Posture, breath control.",
+              "translated_text": "<s>Āsana</s> (posture), <s>prāṇa-saṃyāma</s> (breath control),",
               "segment_number": 18
             },
             {
@@ -275,7 +279,7 @@
                 "n": "b"
               },
               "text": "pratyāhāro'tha dhāraṇā",
-              "translated_text": "Withdrawal, and then concentration.",
+              "translated_text": "<s>pratyāhāra</s> (withdrawal of senses), and <s>dhāraṇā</s> (concentration),",
               "segment_number": 19
             }
           ]
@@ -291,7 +295,7 @@
                 "n": "c"
               },
               "text": "dhyānaṃ samādhir etāni",
-              "translated_text": "Meditation and absorption, these are.",
+              "translated_text": "<s>dhyāna</s> (meditation), and <s>samādhi</s> (absorption)—these",
               "segment_number": 20
             },
             {
@@ -301,7 +305,7 @@
                 "n": "d"
               },
               "text": "yogāṅgāni bhavanti ṣaṭ",
-              "translated_text": "The six limbs of yoga.",
+              "translated_text": "are the six limbs of <s>yoga</s>.",
               "segment_number": 21
             },
             {
@@ -317,7 +321,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_5"
+        "id": "GorS_5",
+        "label": "GorS 5"
       },
       "children": [
         {
@@ -331,7 +336,7 @@
                 "n": "a"
               },
               "text": "āsanāni tu tāvanti",
-              "translated_text": "As many postures as.",
+              "translated_text": "The <s>āsanas</s> (postures) are as many",
               "segment_number": 23
             },
             {
@@ -341,7 +346,7 @@
                 "n": "b"
               },
               "text": "yāvatyo jīva-jātayaḥ",
-              "translated_text": "There are species of living beings.",
+              "translated_text": "as there are species of living beings;",
               "segment_number": 24
             }
           ]
@@ -357,7 +362,7 @@
                 "n": "c"
               },
               "text": "eteṣām akhilān bhedān",
-              "translated_text": "The distinctions among all these.",
+              "translated_text": "all the varieties of these",
               "segment_number": 25
             },
             {
@@ -367,7 +372,7 @@
                 "n": "d"
               },
               "text": "vijānāti maheśvaraḥ",
-              "translated_text": "Are known by the great lord.",
+              "translated_text": "<s>Maheśvara</s> (the Great Lord) alone knows.",
               "segment_number": 26
             },
             {
@@ -383,7 +388,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_6"
+        "id": "GorS_6",
+        "label": "GorS 6"
       },
       "children": [
         {
@@ -397,7 +403,7 @@
                 "n": "a"
               },
               "text": "caturāśīti-lakṣāṇāṃ",
-              "translated_text": "Of eighty-four lakhs.",
+              "translated_text": "Of the eighty-four <s>lakṣas</s> (8,400,000),",
               "segment_number": 28
             },
             {
@@ -407,7 +413,7 @@
                 "n": "b"
               },
               "text": "ekam ekam udāhṛtam",
-              "translated_text": "One by one is mentioned.",
+              "translated_text": "each one has been described;",
               "segment_number": 29
             }
           ]
@@ -423,7 +429,7 @@
                 "n": "c"
               },
               "text": "tataḥ śivena pīṭhānāṃ",
-              "translated_text": "Then by Śiva, of seats.",
+              "translated_text": "from those, by <s>Śiva</s>, sixteen hundred",
               "segment_number": 30
             },
             {
@@ -433,7 +439,7 @@
                 "n": "d"
               },
               "text": "ṣoḍeśānaṃ śataṃ kṛtam",
-              "translated_text": "A hundred and sixteen are made.",
+              "translated_text": "seats have been established.",
               "segment_number": 31
             },
             {
@@ -449,7 +455,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_7"
+        "id": "GorS_7",
+        "label": "GorS 7"
       },
       "children": [
         {
@@ -463,7 +470,7 @@
                 "n": "a"
               },
               "text": "āsanebhyaḥ samastebhyo",
-              "translated_text": "Among all the postures.",
+              "translated_text": "Among all the <s>āsanas</s>,",
               "segment_number": 33
             },
             {
@@ -473,7 +480,7 @@
                 "n": "b"
               },
               "text": "dvayam eva viśiṣyate",
-              "translated_text": "Two are especially distinguished.",
+              "translated_text": "two alone are distinguished:",
               "segment_number": 34
             }
           ]
@@ -489,7 +496,7 @@
                 "n": "c"
               },
               "text": "ekaṃ siddhāsanaṃ proktaṃ",
-              "translated_text": "One is called <s>Siddhāsana</s>.",
+              "translated_text": "one is declared to be <s>siddhāsana</s> (the accomplished posture),",
               "segment_number": 35
             },
             {
@@ -499,7 +506,7 @@
                 "n": "d"
               },
               "text": "dvitīyaṃ kamalāsanam",
-              "translated_text": "The second is <s>Kamalāsana</s>.",
+              "translated_text": "the second is <s>kamalāsana</s> (the lotus posture).",
               "segment_number": 36
             },
             {
@@ -515,7 +522,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_8"
+        "id": "GorS_8",
+        "label": "GorS 8"
       },
       "children": [
         {
@@ -529,7 +537,7 @@
                 "n": "a"
               },
               "text": "yoni-sthānakam aṅghri-mūla-ghaṭitaṃ kṛtvā dṛḍhaṃ vinyasen",
-              "translated_text": "Placing the heel at the base of the genitals, one should firmly establish.",
+              "translated_text": "Having firmly placed the heel at the <s>yoni-sthāna</s> (perineum), one should steadily place",
               "segment_number": 38
             },
             {
@@ -539,7 +547,7 @@
                 "n": "b"
               },
               "text": "meḍhre pādam athaikam eva niyataṃ kṛtvā samaṃ vigraham",
-              "translated_text": "Then placing one foot on the genitals, keeping the body straight.",
+              "translated_text": "one foot upon the phallus, keeping the body straight and steady;",
               "segment_number": 39
             }
           ]
@@ -555,7 +563,7 @@
                 "n": "c"
               },
               "text": "sthāṇuḥ saṃyamitendriyo'cala-dṛśā paśyan bhruvor antaram",
-              "translated_text": "Like a pillar, with controlled senses, gazing steadily at the space between the eyebrows.",
+              "translated_text": "motionless, with senses restrained and gaze unwavering, looking at the space between the eyebrows—",
               "segment_number": 40
             },
             {
@@ -565,7 +573,7 @@
                 "n": "d"
               },
               "text": "etan mokṣa-kavāṭa-bheda-janakaṃ siddhāsanaṃ procyate",
-              "translated_text": "This is called <s>Siddhāsana</s>, the opener of the gate of liberation.",
+              "translated_text": "this, which opens the door to liberation, is called <s>siddhāsana</s> (the accomplished posture).",
               "segment_number": 41
             },
             {
@@ -581,7 +589,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_9"
+        "id": "GorS_9",
+        "label": "GorS 9"
       },
       "children": [
         {
@@ -595,7 +604,7 @@
                 "n": "a"
               },
               "text": "vāmorūpari dakṣiṇaṃ hi caraṇaṃ saṃsthāpya vāmaṃ tathā",
-              "translated_text": "Placing the right foot over the left thigh and the left foot likewise.",
+              "translated_text": "Placing the right foot upon the left thigh, and likewise the left",
               "segment_number": 43
             },
             {
@@ -605,7 +614,7 @@
                 "n": "b"
               },
               "text": "dakṣorūpari paścimena vidhinā dhṛtvā karābhyāṃ dṛḍham",
-              "translated_text": "Holding firmly with the hands, in the manner of the ancients.",
+              "translated_text": "upon the right thigh, firmly grasping [the toes] from behind with both hands,",
               "segment_number": 44
             }
           ]
@@ -621,7 +630,7 @@
                 "n": "c"
               },
               "text": "aṅguṣṭhau hṛdaye nidhāya cibukaṃ nāsāgram ālokayed",
-              "translated_text": "Placing the thumbs on the heart, gaze at the tip of the nose.",
+              "translated_text": "pressing the chin to the chest and fixing the thumbs [at the heart], one should gaze at the tip of the nose—",
               "segment_number": 45
             },
             {
@@ -631,7 +640,7 @@
                 "n": "d"
               },
               "text": "etad-vyādhi-vikāra-hāri yamināṃ padmāsanaṃ procyate",
-              "translated_text": "This is called <s>Padmāsana</s>, the destroyer of diseases for the self-controlled.",
+              "translated_text": "this, which destroys diseases and ailments, is called <s>padmāsana</s> (the lotus posture) for <s>yamins</s> (the self-controlled).",
               "segment_number": 46
             },
             {
@@ -647,7 +656,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_10"
+        "id": "GorS_10",
+        "label": "GorS 10"
       },
       "children": [
         {
@@ -661,7 +671,7 @@
                 "n": "a"
               },
               "text": "ādhāraḥ prathamaṃ cakraṃ",
-              "translated_text": "The base is the first chakra.",
+              "translated_text": "The <s>ādhāra</s> (root support) is the first <s>cakra</s>,",
               "segment_number": 48
             },
             {
@@ -671,7 +681,7 @@
                 "n": "b"
               },
               "text": "svādhiṣṭhānaṃ dvitīyakam",
-              "translated_text": "The second is <s>Svādhiṣṭhāna</s>.",
+              "translated_text": "<s>svādhiṣṭhāna</s> (one's own abode) is the second;",
               "segment_number": 49
             }
           ]
@@ -687,7 +697,7 @@
                 "n": "c"
               },
               "text": "yoni-sthānaṃ dvayor madhye",
-              "translated_text": "The place of the yoni is between the two.",
+              "translated_text": "between the two is the <s>yoni-sthāna</s> (seat of creation),",
               "segment_number": 50
             },
             {
@@ -697,7 +707,7 @@
                 "n": "d"
               },
               "text": "kāma-rūpaṃ nigadyate",
-              "translated_text": "It is called <s>Kāma-rūpa</s>.",
+              "translated_text": "which is called <s>kāma-rūpa</s> (the form of desire).",
               "segment_number": 51
             },
             {
@@ -713,7 +723,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_11"
+        "id": "GorS_11",
+        "label": "GorS 11"
       },
       "children": [
         {
@@ -727,7 +738,7 @@
                 "n": "a"
               },
               "text": "ādhārākhye guda-sthāne",
-              "translated_text": "In the place called <s>Ādhāra</s> at the anus.",
+              "translated_text": "In the place called <s>ādhāra</s>, at the region of the anus,",
               "segment_number": 53
             },
             {
@@ -737,7 +748,7 @@
                 "n": "b"
               },
               "text": "paṅkajaṃ yac caturdalam",
-              "translated_text": "There is a lotus with four petals.",
+              "translated_text": "there is a four-petalled lotus;",
               "segment_number": 54
             }
           ]
@@ -753,7 +764,7 @@
                 "n": "c"
               },
               "text": "tan-madhye procyate yoniḥ",
-              "translated_text": "In its center is said to be the yoni.",
+              "translated_text": "in the middle of that is proclaimed the <s>yoni</s> (source),",
               "segment_number": 55
             },
             {
@@ -763,7 +774,7 @@
                 "n": "d"
               },
               "text": "kāmākhyā siddha-vanditā",
-              "translated_text": "<s>Kāmākhyā</s>, worshipped by the accomplished.",
+              "translated_text": "called <s>kāmākhyā</s>, venerated by the <s>siddhas</s> (accomplished ones).",
               "segment_number": 56
             },
             {
@@ -779,7 +790,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_12"
+        "id": "GorS_12",
+        "label": "GorS 12"
       },
       "children": [
         {
@@ -793,7 +805,7 @@
                 "n": "a"
               },
               "text": "yoni-madhye mahāliṅgaṃ",
-              "translated_text": "In the center of the yoni is the great <s>Liṅga</s>.",
+              "translated_text": "In the middle of the <s>yoni</s> is a great <s>liṅga</s>,",
               "segment_number": 58
             },
             {
@@ -803,7 +815,7 @@
                 "n": "b"
               },
               "text": "paścimābhimukhaṃ sthitam",
-              "translated_text": "Facing west, it stands.",
+              "translated_text": "situated facing westward;",
               "segment_number": 59
             }
           ]
@@ -819,7 +831,7 @@
                 "n": "c"
               },
               "text": "mastake maṇivad bhinnaṃ",
-              "translated_text": "At the head, like a jewel, divided.",
+              "translated_text": "one who knows it as split like a jewel at its head",
               "segment_number": 60
             },
             {
@@ -829,7 +841,7 @@
                 "n": "d"
               },
               "text": "yo jānāti sa yogavit",
-              "translated_text": "He who knows this is a knower of yoga.",
+              "translated_text": "is a knower of <s>yoga</s>.",
               "segment_number": 61
             },
             {
@@ -845,7 +857,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_13"
+        "id": "GorS_13",
+        "label": "GorS 13"
       },
       "children": [
         {
@@ -859,7 +872,7 @@
                 "n": "a"
               },
               "text": "tapta-cāmīkarābhāsaṃ",
-              "translated_text": "Resembling heated gold.",
+              "translated_text": "Shining like molten gold,",
               "segment_number": 63
             },
             {
@@ -869,7 +882,7 @@
                 "n": "b"
               },
               "text": "taḍil-lekheva visphurat",
-              "translated_text": "Flashing like a streak of lightning.",
+              "translated_text": "flashing like a streak of lightning,",
               "segment_number": 64
             }
           ]
@@ -885,7 +898,7 @@
                 "n": "c"
               },
               "text": "caturasraṃ puraṃ vahner",
-              "translated_text": "A square city of fire.",
+              "translated_text": "the four-sided city of fire—",
               "segment_number": 65
             },
             {
@@ -895,7 +908,7 @@
                 "n": "d"
               },
               "text": "adho-meḍhram evābhidhīyate",
-              "translated_text": "It is said to be below the genitals.",
+              "translated_text": "this is designated as being below the phallus.",
               "segment_number": 66
             },
             {
@@ -911,7 +924,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_14"
+        "id": "GorS_14",
+        "label": "GorS 14"
       },
       "children": [
         {
@@ -925,7 +939,7 @@
                 "n": "a"
               },
               "text": "sva-śabdena bhavet prāṇaḥ",
-              "translated_text": "By its sound, <s>Prāṇa</s> becomes.",
+              "translated_text": "By the word 'sva' is meant <s>prāṇa</s> (vital breath);",
               "segment_number": 68
             },
             {
@@ -935,7 +949,7 @@
                 "n": "b"
               },
               "text": "svādhiṣṭhānaṃ tad-āśrayaḥ",
-              "translated_text": "<s>Svādhiṣṭhāna</s> is its abode.",
+              "translated_text": "<s>svādhiṣṭhāna</s> is its seat;",
               "segment_number": 69
             }
           ]
@@ -951,7 +965,7 @@
                 "n": "c"
               },
               "text": "svādhiṣṭhānākhyayā tasmān",
-              "translated_text": "Therefore, it is known as <s>Svādhiṣṭhāna</s>.",
+              "translated_text": "therefore, by the name <s>svādhiṣṭhāna</s>,",
               "segment_number": 70
             },
             {
@@ -961,7 +975,7 @@
                 "n": "d"
               },
               "text": "meḍhram evābhidhīyate",
-              "translated_text": "The genitals are thus named.",
+              "translated_text": "the region of the phallus is designated.",
               "segment_number": 71
             },
             {
@@ -977,7 +991,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_15"
+        "id": "GorS_15",
+        "label": "GorS 15"
       },
       "children": [
         {
@@ -991,7 +1006,7 @@
                 "n": "a"
               },
               "text": "tantunā maṇivat proto",
-              "translated_text": "Threaded like a jewel.",
+              "translated_text": "Where the <s>kanda</s> (bulb) is strung like a jewel on a thread",
               "segment_number": 73
             },
             {
@@ -1001,7 +1016,7 @@
                 "n": "b"
               },
               "text": "yatra kandaḥ suṣumṇayā",
-              "translated_text": "Where the bulb is through the <s>Suṣumṇā</s>.",
+              "translated_text": "by the <s>suṣumṇā</s>,",
               "segment_number": 74
             }
           ]
@@ -1017,7 +1032,7 @@
                 "n": "c"
               },
               "text": "tan-nābhi-maṇḍalaṃ cakraṃ",
-              "translated_text": "That is the navel circle.",
+              "translated_text": "that navel region <s>cakra</s>",
               "segment_number": 75
             },
             {
@@ -1027,7 +1042,7 @@
                 "n": "d"
               },
               "text": "procyate maṇi-pūrakam",
-              "translated_text": "It is called <s>Maṇipūraka</s>.",
+              "translated_text": "is called <s>maṇipūraka</s> (the jewel-filled).",
               "segment_number": 76
             },
             {
@@ -1043,7 +1058,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_16"
+        "id": "GorS_16",
+        "label": "GorS 16"
       },
       "children": [
         {
@@ -1057,7 +1073,7 @@
                 "n": "a"
               },
               "text": "ūrdhvaṃ meḍhrād adho nābheḥ",
-              "translated_text": "Above the genitals, below the navel.",
+              "translated_text": "Above the phallus and below the navel,",
               "segment_number": 78
             },
             {
@@ -1067,7 +1083,7 @@
                 "n": "b"
               },
               "text": "kanda-yoniḥ sva-gāṇḍavat",
-              "translated_text": "The bulb-yoni is like a bird's egg.",
+              "translated_text": "the <s>kanda-yoni</s> (root-bulb) is shaped like a bird's egg;",
               "segment_number": 79
             }
           ]
@@ -1083,7 +1099,7 @@
                 "n": "c"
               },
               "text": "tatra nāḍyaḥ samutpannāḥ",
-              "translated_text": "There arise the channels.",
+              "translated_text": "from there the <s>nāḍīs</s> (channels) originate,",
               "segment_number": 80
             },
             {
@@ -1093,7 +1109,7 @@
                 "n": "d"
               },
               "text": "sahasrāṇi dvisaptatiḥ",
-              "translated_text": "Seventy-two thousand.",
+              "translated_text": "seventy-two thousand in number.",
               "segment_number": 81
             },
             {
@@ -1109,7 +1125,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_17"
+        "id": "GorS_17",
+        "label": "GorS 17"
       },
       "children": [
         {
@@ -1123,7 +1140,7 @@
                 "n": "a"
               },
               "text": "teṣu nāḍi-sahasreṣu",
-              "translated_text": "Among those thousand channels.",
+              "translated_text": "Among those thousands of <s>nāḍīs</s>,",
               "segment_number": 83
             },
             {
@@ -1133,7 +1150,7 @@
                 "n": "b"
               },
               "text": "dvisaptatir udāhṛtāḥ",
-              "translated_text": "Seventy-two are mentioned.",
+              "translated_text": "seventy-two are enumerated;",
               "segment_number": 84
             }
           ]
@@ -1149,7 +1166,7 @@
                 "n": "c"
               },
               "text": "prādhānyāt prāṇa-vāhinyo",
-              "translated_text": "Primarily those that carry <s>Prāṇa</s>.",
+              "translated_text": "among those, the chief <s>prāṇa</s>-carrying ones,",
               "segment_number": 85
             },
             {
@@ -1159,7 +1176,7 @@
                 "n": "d"
               },
               "text": "bhūyas tatra daśa smṛtāḥ",
-              "translated_text": "Mostly, there are ten remembered.",
+              "translated_text": "ten are further mentioned as important.",
               "segment_number": 86
             },
             {
@@ -1175,7 +1192,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_18"
+        "id": "GorS_18",
+        "label": "GorS 18"
       },
       "children": [
         {
@@ -1189,7 +1207,7 @@
                 "n": "a"
               },
               "text": "iḍā ca piṅgalā caiva",
-              "translated_text": "<s>Iḍā</s> and <s>Piṅgalā</s> indeed.",
+              "translated_text": "<s>Iḍā</s> and <s>Piṅgalā</s>,",
               "segment_number": 88
             },
             {
@@ -1199,7 +1217,7 @@
                 "n": "b"
               },
               "text": "suṣumṇā ca tṛtīyakā",
-              "translated_text": "And <s>Suṣumṇā</s> as the third.",
+              "translated_text": "and <s>Suṣumṇā</s> as the third,",
               "segment_number": 89
             }
           ]
@@ -1215,7 +1233,7 @@
                 "n": "c"
               },
               "text": "gāndhārī hasti-jihvā ca",
-              "translated_text": "<s>Gāndhārī</s> and <s>Hasti-jihvā</s> also.",
+              "translated_text": "<s>Gāndhārī</s>, <s>Hasti-jihvā</s>,",
               "segment_number": 90
             },
             {
@@ -1225,7 +1243,7 @@
                 "n": "d"
               },
               "text": "pūṣā caiva yaśasvinī",
-              "translated_text": "<s>Pūṣā</s> and indeed <s>Yaśasvinī</s>.",
+              "translated_text": "<s>Pūṣā</s>, and <s>Yaśasvinī</s>,",
               "segment_number": 91
             },
             {
@@ -1241,7 +1259,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_19"
+        "id": "GorS_19",
+        "label": "GorS 19"
       },
       "children": [
         {
@@ -1255,7 +1274,7 @@
                 "n": "a"
               },
               "text": "alambuṣā kuhūś caiva",
-              "translated_text": "<s>Alambuṣā</s> and <s>Kuhū</s> also.",
+              "translated_text": "<s>Alambuṣā</s>, <s>Kuhū</s>,",
               "segment_number": 93
             },
             {
@@ -1265,7 +1284,7 @@
                 "n": "b"
               },
               "text": "śaṅkhinī daśamī smṛtā",
-              "translated_text": "<s>Śaṅkhinī</s> is remembered as the tenth.",
+              "translated_text": "and <s>Śaṅkhinī</s> is mentioned as the tenth;",
               "segment_number": 94
             }
           ]
@@ -1281,7 +1300,7 @@
                 "n": "c"
               },
               "text": "etan nāḍi-mayaṃ cakraṃ",
-              "translated_text": "This wheel made of channels.",
+              "translated_text": "this wheel composed of <s>nāḍīs</s>",
               "segment_number": 95
             },
             {
@@ -1291,7 +1310,7 @@
                 "n": "d"
               },
               "text": "jñātavyaṃ yogibhiḥ sadā",
-              "translated_text": "Should always be known by yogis.",
+              "translated_text": "should always be known by <s>yogins</s>.",
               "segment_number": 96
             },
             {
@@ -1307,7 +1326,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_20"
+        "id": "GorS_20",
+        "label": "GorS 20"
       },
       "children": [
         {
@@ -1321,7 +1341,7 @@
                 "n": "a"
               },
               "text": "iḍā vāme sthitā bhāge",
-              "translated_text": "<s>Iḍā</s> is situated on the left side.",
+              "translated_text": "<s>Iḍā</s> is situated on the left side,",
               "segment_number": 98
             },
             {
@@ -1331,7 +1351,7 @@
                 "n": "b"
               },
               "text": "piṅgalā dakṣiṇe tathā",
-              "translated_text": "<s>Piṅgalā</s> likewise on the right.",
+              "translated_text": "<s>Piṅgalā</s> on the right likewise;",
               "segment_number": 99
             }
           ]
@@ -1347,7 +1367,7 @@
                 "n": "c"
               },
               "text": "suṣumṇā madhya-deśe tu",
-              "translated_text": "<s>Suṣumṇā</s> is in the middle region.",
+              "translated_text": "<s>Suṣumṇā</s> is in the middle region,",
               "segment_number": 100
             },
             {
@@ -1357,7 +1377,7 @@
                 "n": "d"
               },
               "text": "gāndhārī vāma-cakṣuṣi",
-              "translated_text": "<s>Gāndhārī</s> is in the left eye.",
+              "translated_text": "<s>Gāndhārī</s> in the left eye,",
               "segment_number": 101
             },
             {
@@ -1373,7 +1393,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_21"
+        "id": "GorS_21",
+        "label": "GorS 21"
       },
       "children": [
         {
@@ -1387,7 +1408,7 @@
                 "n": "a"
               },
               "text": "dakṣiṇe hasti-jihvā ca",
-              "translated_text": "On the right is <s>Hasti-jihvā</s>.",
+              "translated_text": "<s>Hasti-jihvā</s> in the right [eye],",
               "segment_number": 103
             },
             {
@@ -1397,7 +1418,7 @@
                 "n": "b"
               },
               "text": "pūṣā karṇe ca dakṣiṇe",
-              "translated_text": "<s>Pūṣā</s> is in the right ear.",
+              "translated_text": "<s>Pūṣā</s> in the right ear,",
               "segment_number": 104
             }
           ]
@@ -1413,7 +1434,7 @@
                 "n": "c"
               },
               "text": "yaśasvinī vāma-karṇe",
-              "translated_text": "<s>Yaśasvinī</s> is in the left ear.",
+              "translated_text": "<s>Yaśasvinī</s> in the left ear,",
               "segment_number": 105
             },
             {
@@ -1423,7 +1444,7 @@
                 "n": "d"
               },
               "text": "cāsane vāpy alambuṣā",
-              "translated_text": "<s>Alambuṣā</s> is also in the seat.",
+              "translated_text": "and <s>Alambuṣā</s> in the anus,",
               "segment_number": 106
             },
             {
@@ -1439,7 +1460,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_22"
+        "id": "GorS_22",
+        "label": "GorS 22"
       },
       "children": [
         {
@@ -1453,7 +1475,7 @@
                 "n": "a"
               },
               "text": "kūhuś ca liṅga-deśe tu",
-              "translated_text": "<s>Kuhū</s> is in the genital area.",
+              "translated_text": "<s>Kuhū</s> in the region of the genitals,",
               "segment_number": 108
             },
             {
@@ -1463,7 +1485,7 @@
                 "n": "b"
               },
               "text": "mūla-sthāne ca śaṅkhinī",
-              "translated_text": "In the root place is <s>Śaṅkhinī</s>.",
+              "translated_text": "and <s>Śaṅkhinī</s> at the <s>mūla-sthāna</s> (root place);",
               "segment_number": 109
             }
           ]
@@ -1479,7 +1501,7 @@
                 "n": "c"
               },
               "text": "evaṃ dvāram upāśritya",
-              "translated_text": "Thus, at the doors are established.",
+              "translated_text": "thus, situated at the doorways,",
               "segment_number": 110
             },
             {
@@ -1489,7 +1511,7 @@
                 "n": "d"
               },
               "text": "tiṣṭhanti daśa nāḍikāḥ",
-              "translated_text": "The ten <s>nāḍīs</s> remain.",
+              "translated_text": "abide the ten <s>nāḍīs</s>.",
               "segment_number": 111
             },
             {
@@ -1505,7 +1527,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_23"
+        "id": "GorS_23",
+        "label": "GorS 23"
       },
       "children": [
         {
@@ -1519,7 +1542,7 @@
                 "n": "a"
               },
               "text": "satataṃ prāṇa-vāhinyaḥ",
-              "translated_text": "Constantly carrying <s>Prāṇa</s>.",
+              "translated_text": "They continuously carry <s>prāṇa</s> (vital breath),",
               "segment_number": 113
             },
             {
@@ -1529,7 +1552,7 @@
                 "n": "b"
               },
               "text": "soma-sūryāgni-devatāḥ",
-              "translated_text": "Having <s>Soma</s>, <s>Sūrya</s>, and <s>Agni</s> as deities.",
+              "translated_text": "having <s>Soma</s>, <s>Sūrya</s>, and <s>Agni</s> as their deities;",
               "segment_number": 114
             }
           ]
@@ -1545,7 +1568,7 @@
                 "n": "c"
               },
               "text": "iḍā-piṅgalā-suṣumṇā ca",
-              "translated_text": "<s>Iḍā</s>, <s>Piṅgalā</s>, and <s>Suṣumṇā</s> also.",
+              "translated_text": "<s>Iḍā</s>, <s>Piṅgalā</s>, and <s>Suṣumṇā</s>—",
               "segment_number": 115
             },
             {
@@ -1555,7 +1578,7 @@
                 "n": "d"
               },
               "text": "tisro nāḍya udāhṛtāḥ",
-              "translated_text": "Three channels are mentioned.",
+              "translated_text": "these three <s>nāḍīs</s> are enumerated [as the chief ones].",
               "segment_number": 116
             },
             {
@@ -1571,7 +1594,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_24"
+        "id": "GorS_24",
+        "label": "GorS 24"
       },
       "children": [
         {
@@ -1585,7 +1609,7 @@
                 "n": "a"
               },
               "text": "prāṇāpānau samānaś ca hy",
-              "translated_text": "<s>Prāṇa</s> and <s>Apāna</s>, and also <s>Samāna</s>.",
+              "translated_text": "<s>Prāṇa</s>, <s>Apāna</s>, <s>Samāna</s>,",
               "segment_number": 118
             },
             {
@@ -1595,7 +1619,7 @@
                 "n": "b"
               },
               "text": "udāno vyāna eva ca",
-              "translated_text": "<s>Udāna</s> and indeed <s>Vyāna</s>.",
+              "translated_text": "<s>Udāna</s>, and <s>Vyāna</s>,",
               "segment_number": 119
             }
           ]
@@ -1611,7 +1635,7 @@
                 "n": "c"
               },
               "text": "nāgaḥ kūrmaś ca kṛkaro",
-              "translated_text": "<s>Nāga</s>, <s>Kūrma</s>, and <s>Kṛkara</s>.",
+              "translated_text": "<s>Nāga</s>, <s>Kūrma</s>, <s>Kṛkara</s>,",
               "segment_number": 120
             },
             {
@@ -1621,7 +1645,7 @@
                 "n": "d"
               },
               "text": "devadatto dhanañjayaḥ",
-              "translated_text": "<s>Devadatta</s> and <s>Dhanañjaya</s>.",
+              "translated_text": "<s>Devadatta</s>, and <s>Dhanañjaya</s>—",
               "segment_number": 121
             },
             {
@@ -1637,7 +1661,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_25"
+        "id": "GorS_25",
+        "label": "GorS 25"
       },
       "children": [
         {
@@ -1651,7 +1676,7 @@
                 "n": "a"
               },
               "text": "nāgādyāḥ pañca vikhyātāḥ",
-              "translated_text": "The five starting with <s>Nāga</s> are well-known.",
+              "translated_text": "those beginning with <s>Nāga</s> are the five well-known [subsidiary airs],",
               "segment_number": 123
             },
             {
@@ -1661,7 +1686,7 @@
                 "n": "b"
               },
               "text": "prāṇādyāḥ pañca vāyavaḥ",
-              "translated_text": "The five winds starting with <s>Prāṇa</s>.",
+              "translated_text": "and those beginning with <s>Prāṇa</s> are the five <s>vāyus</s> (winds);",
               "segment_number": 124
             }
           ]
@@ -1677,7 +1702,7 @@
                 "n": "c"
               },
               "text": "ete nāḍi-sahasreṣu",
-              "translated_text": "These, among the thousand channels.",
+              "translated_text": "these dwell within the thousands of <s>nāḍīs</s>",
               "segment_number": 125
             },
             {
@@ -1687,7 +1712,7 @@
                 "n": "d"
               },
               "text": "vartante jīva-rūpiṇaḥ",
-              "translated_text": "Exist in the form of life.",
+              "translated_text": "in the form of the living being.",
               "segment_number": 126
             },
             {
@@ -1703,7 +1728,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_26"
+        "id": "GorS_26",
+        "label": "GorS 26"
       },
       "children": [
         {
@@ -1717,7 +1743,7 @@
                 "n": "a"
               },
               "text": "prāṇāpāna-vaśo jīvo hy",
-              "translated_text": "The life under the control of <s>Prāṇa</s> and <s>Apāna</s>.",
+              "translated_text": "The <s>jīva</s> (individual soul), under the control of <s>prāṇa</s> and <s>apāna</s>,",
               "segment_number": 128
             },
             {
@@ -1727,7 +1753,7 @@
                 "n": "b"
               },
               "text": "adhaś cordhvaṃ ca dhāvati",
-              "translated_text": "Runs downward and upward.",
+              "translated_text": "runs downward and upward;",
               "segment_number": 129
             }
           ]
@@ -1743,7 +1769,7 @@
                 "n": "c"
               },
               "text": "vāma-dakṣiṇa-mārgeṇa",
-              "translated_text": "Through the left and right paths.",
+              "translated_text": "along the left and right pathways,",
               "segment_number": 130
             },
             {
@@ -1753,7 +1779,7 @@
                 "n": "d"
               },
               "text": "cañcalatvān na dṛśyate",
-              "translated_text": "Due to restlessness, it is not seen.",
+              "translated_text": "due to its restlessness, it is not seen.",
               "segment_number": 131
             },
             {
@@ -1769,7 +1795,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_27"
+        "id": "GorS_27",
+        "label": "GorS 27"
       },
       "children": [
         {
@@ -1783,7 +1810,7 @@
                 "n": "a"
               },
               "text": "ākṣipto bhuvi daṇḍena",
-              "translated_text": "Struck on the ground with a stick.",
+              "translated_text": "Just as a ball struck on the ground",
               "segment_number": 133
             },
             {
@@ -1793,7 +1820,7 @@
                 "n": "b"
               },
               "text": "yathoccalati kandukaḥ",
-              "translated_text": "As a ball rises.",
+              "translated_text": "by a stick bounces upward,",
               "segment_number": 134
             }
           ]
@@ -1809,7 +1836,7 @@
                 "n": "c"
               },
               "text": "prāṇāpāna-samākṣiptas",
-              "translated_text": "Thrown by <s>Prāṇa</s> and <s>Apāna</s>.",
+              "translated_text": "so the <s>jīva</s>, impelled by",
               "segment_number": 135
             },
             {
@@ -1819,7 +1846,7 @@
                 "n": "d"
               },
               "text": "tathā jīvo'nukṛṣyate",
-              "translated_text": "Thus, life is drawn.",
+              "translated_text": "<s>prāṇa</s> and <s>apāna</s>, is dragged along.",
               "segment_number": 136
             },
             {
@@ -1835,7 +1862,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_28"
+        "id": "GorS_28",
+        "label": "GorS 28"
       },
       "children": [
         {
@@ -1849,7 +1877,7 @@
                 "n": "a"
               },
               "text": "rajju-baddho yathā śyeno",
-              "translated_text": "Like a falcon bound by a cord.",
+              "translated_text": "Just as a hawk bound by a rope,",
               "segment_number": 138
             },
             {
@@ -1859,7 +1887,7 @@
                 "n": "b"
               },
               "text": "gato'py ākṛṣyate(?)",
-              "translated_text": "Even gone, it is drawn back.",
+              "translated_text": "even when it flies away, is pulled back,",
               "segment_number": 139
             }
           ]
@@ -1875,7 +1903,7 @@
                 "n": "c"
               },
               "text": "guṇa-baddhas tathā jīvaḥ",
-              "translated_text": "Similarly, life is bound by qualities.",
+              "translated_text": "so the <s>jīva</s>, bound by the <s>guṇas</s> (qualities of nature),",
               "segment_number": 140
             },
             {
@@ -1885,7 +1913,7 @@
                 "n": "d"
               },
               "text": "prāṇāpānena kṛṣyate",
-              "translated_text": "Is drawn by <s>Prāṇa</s> and <s>Apāna</s>.",
+              "translated_text": "is pulled by <s>prāṇa</s> and <s>apāna</s>.",
               "segment_number": 141
             },
             {
@@ -1901,7 +1929,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_29"
+        "id": "GorS_29",
+        "label": "GorS 29"
       },
       "children": [
         {
@@ -1915,7 +1944,7 @@
                 "n": "a"
               },
               "text": "apānaḥ karṣati prāṇaḥ",
-              "translated_text": "<s>Apāna</s> pulls <s>Prāṇa</s>.",
+              "translated_text": "<s>Apāna</s> pulls <s>prāṇa</s>,",
               "segment_number": 143
             },
             {
@@ -1925,7 +1954,7 @@
                 "n": "b"
               },
               "text": "prāṇo'pānaṃ ca karṣati",
-              "translated_text": "<s>Prāṇa</s> pulls <s>Apāna</s>.",
+              "translated_text": "and <s>prāṇa</s> pulls <s>apāna</s>;",
               "segment_number": 144
             }
           ]
@@ -1941,7 +1970,7 @@
                 "n": "c"
               },
               "text": "ūrdhvādhaḥ saṃsthitāv etau",
-              "translated_text": "These two are situated above and below.",
+              "translated_text": "these two are situated above and below—",
               "segment_number": 145
             },
             {
@@ -1951,7 +1980,7 @@
                 "n": "d"
               },
               "text": "yo jānāti sa yogavit",
-              "translated_text": "He who knows this is a knower of yoga.",
+              "translated_text": "one who knows this is a knower of <s>yoga</s>.",
               "segment_number": 146
             },
             {
@@ -1967,7 +1996,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_30"
+        "id": "GorS_30",
+        "label": "GorS 30"
       },
       "children": [
         {
@@ -1981,7 +2011,7 @@
                 "n": "a"
               },
               "text": "kandordhve kuṇḍalī-śaktir",
-              "translated_text": "Above the bulb is the <s>Kuṇḍalinī</s> power.",
+              "translated_text": "Above the <s>kanda</s> (root-bulb), the <s>kuṇḍalinī</s> power,",
               "segment_number": 148
             },
             {
@@ -1991,7 +2021,7 @@
                 "n": "b"
               },
               "text": "aṣṭadhā kuṇḍalī-kṛtā",
-              "translated_text": "Coiled eight times.",
+              "translated_text": "coiled eightfold,",
               "segment_number": 149
             }
           ]
@@ -2007,7 +2037,7 @@
                 "n": "c"
               },
               "text": "brahma-dvāra-mukhaṃ nityaṃ",
-              "translated_text": "Always at the opening of the <s>Brahma-dvāra</s>.",
+              "translated_text": "the opening of the gate of <s>Brahman</s>",
               "segment_number": 150
             },
             {
@@ -2017,7 +2047,7 @@
                 "n": "d"
               },
               "text": "mukhenāvṛtya tiṣṭhati",
-              "translated_text": "It remains covering with its mouth.",
+              "translated_text": "she always covers with her mouth.",
               "segment_number": 151
             },
             {
@@ -2033,7 +2063,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_31"
+        "id": "GorS_31",
+        "label": "GorS 31"
       },
       "children": [
         {
@@ -2047,7 +2078,7 @@
                 "n": "a"
               },
               "text": "prabuddhā vahni-yogena",
-              "translated_text": "Awakened by the union with fire.",
+              "translated_text": "Awakened through union with fire",
               "segment_number": 153
             },
             {
@@ -2057,7 +2088,7 @@
                 "n": "b"
               },
               "text": "manasā mārutā hatā",
-              "translated_text": "Struck by the mind and wind.",
+              "translated_text": "and struck by the mind and the wind,",
               "segment_number": 154
             }
           ]
@@ -2073,7 +2104,7 @@
                 "n": "c"
               },
               "text": "prajīva-guṇam ādāya",
-              "translated_text": "Taking the quality of life.",
+              "translated_text": "taking up the quality of the living being,",
               "segment_number": 155
             },
             {
@@ -2083,7 +2114,7 @@
                 "n": "d"
               },
               "text": "vrajaty ūrdhvaṃ suṣumṇayā",
-              "translated_text": "Goes upwards through <s>Suṣumṇā</s>.",
+              "translated_text": "she ascends upward through the <s>suṣumṇā</s>.",
               "segment_number": 156
             },
             {
@@ -2099,7 +2130,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_32"
+        "id": "GorS_32",
+        "label": "GorS 32"
       },
       "children": [
         {
@@ -2113,7 +2145,7 @@
                 "n": "a"
               },
               "text": "mahāmudrāṃ namo-mudrām",
-              "translated_text": "<s>Mahāmudrā</s> and <s>Namo-mudrā</s>.",
+              "translated_text": "<s>Mahāmudrā</s> (the great seal), <s>namo-mudrā</s> (the salutation seal),",
               "segment_number": 158
             },
             {
@@ -2123,7 +2155,7 @@
                 "n": "b"
               },
               "text": "uḍḍiyānaṃ jalandharam",
-              "translated_text": "<s>Uḍḍiyāna</s> and <s>Jalandhara</s>.",
+              "translated_text": "<s>uḍḍiyāna</s> (the flying-up lock), <s>jālandhara</s> (the net-holder lock),",
               "segment_number": 159
             }
           ]
@@ -2139,7 +2171,7 @@
                 "n": "c"
               },
               "text": "mūla-bandhaṃ ca yo vetti",
-              "translated_text": "And he who knows the <s>Mūla-bandha</s>.",
+              "translated_text": "<s>mūla-bandha</s> (the root lock)—one who knows these",
               "segment_number": 160
             },
             {
@@ -2149,7 +2181,7 @@
                 "n": "d"
               },
               "text": "sa yogī siddhi-bhājanam",
-              "translated_text": "That yogi is a vessel of perfection.",
+              "translated_text": "is a <s>yogin</s> worthy of <s>siddhis</s> (attainments).",
               "segment_number": 161
             },
             {
@@ -2165,7 +2197,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_33"
+        "id": "GorS_33",
+        "label": "GorS 33"
       },
       "children": [
         {
@@ -2179,7 +2212,7 @@
                 "n": "a"
               },
               "text": "vakṣo-nyasta-hanur nipīḍya suciraṃ yoniṃ ca vāmāṅghriṇā",
-              "translated_text": "Pressing the chin on the chest and the yoni with the left heel for a long time.",
+              "translated_text": "Pressing the chin firmly to the chest, pressing the <s>yoni</s> (perineum) for a long time with the left foot,",
               "segment_number": 163
             },
             {
@@ -2189,7 +2222,7 @@
                 "n": "b"
               },
               "text": "hastābhyām avadhāritaṃ prasaritaṃ pādaṃ tathā dakṣiṇam",
-              "translated_text": "Holding the extended foot with the hands, also the right.",
+              "translated_text": "holding the outstretched right foot firmly with both hands,",
               "segment_number": 164
             }
           ]
@@ -2205,7 +2238,7 @@
                 "n": "c"
               },
               "text": "āpūrya śvasanena kukṣi-yugalaṃ baddhvā śanai recayed",
-              "translated_text": "Filling the pair of bellies with breath, then slowly exhaling.",
+              "translated_text": "filling the cavity of the abdomen with breath, then slowly exhaling—",
               "segment_number": 165
             },
             {
@@ -2215,7 +2248,7 @@
                 "n": "d"
               },
               "text": "eṣā pātaka-nāśinī sumahatī mudrā nṝṇāṃ procyate",
-              "translated_text": "This is called the great sin-destroying mudrā for people.",
+              "translated_text": "this great <s>mudrā</s>, which destroys sins, is proclaimed for people.",
               "segment_number": 166
             },
             {
@@ -2231,7 +2264,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_34"
+        "id": "GorS_34",
+        "label": "GorS 34"
       },
       "children": [
         {
@@ -2245,7 +2279,7 @@
                 "n": "a"
               },
               "text": "kapāla-kuhare jihvā",
-              "translated_text": "The tongue in the cavity of the skull.",
+              "translated_text": "The tongue, inserted into the cavity of the palate,",
               "segment_number": 168
             },
             {
@@ -2255,7 +2289,7 @@
                 "n": "b"
               },
               "text": "praviṣṭā viparītagā",
-              "translated_text": "Entered and turned backwards.",
+              "translated_text": "turned upward in the reverse direction,",
               "segment_number": 169
             }
           ]
@@ -2271,7 +2305,7 @@
                 "n": "c"
               },
               "text": "bhruvor antargatā dṛṣṭir",
-              "translated_text": "The gaze fixed between the eyebrows.",
+              "translated_text": "with the gaze directed between the eyebrows—",
               "segment_number": 170
             },
             {
@@ -2281,7 +2315,7 @@
                 "n": "d"
               },
               "text": "mudrā bhavati khecarī",
-              "translated_text": "Becomes the <s>Khecarī</s> mudrā.",
+              "translated_text": "this is the <s>mudrā</s> called <s>khecarī</s> (moving in space).",
               "segment_number": 171
             },
             {
@@ -2297,7 +2331,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_35"
+        "id": "GorS_35",
+        "label": "GorS 35"
       },
       "children": [
         {
@@ -2311,7 +2346,7 @@
                 "n": "a"
               },
               "text": "ūrdhvaṃ meḍhrād adho nābher",
-              "translated_text": "Above the genitals, below the navel.",
+              "translated_text": "Above the phallus and below the navel—",
               "segment_number": 173
             },
             {
@@ -2321,7 +2356,7 @@
                 "n": "b"
               },
               "text": "uḍḍiyānaṃ pracakṣate",
-              "translated_text": "Is called <s>Uḍḍiyāna</s>.",
+              "translated_text": "this is called <s>uḍḍiyāna</s> (the flying-up);",
               "segment_number": 174
             }
           ]
@@ -2337,7 +2372,7 @@
                 "n": "c"
               },
               "text": "uḍḍiyāna-jayo bandho",
-              "translated_text": "Victory in <s>Uḍḍiyāna</s> is the bond.",
+              "translated_text": "the mastery of <s>uḍḍiyāna bandha</s> (the flying-up lock)",
               "segment_number": 175
             },
             {
@@ -2347,7 +2382,7 @@
                 "n": "d"
               },
               "text": "mṛtyu-mātaṅga-kesarī",
-              "translated_text": "The lion to the elephant of death.",
+              "translated_text": "is a lion against the elephant of death.",
               "segment_number": 176
             },
             {
@@ -2363,7 +2398,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_36"
+        "id": "GorS_36",
+        "label": "GorS 36"
       },
       "children": [
         {
@@ -2377,7 +2413,7 @@
                 "n": "a"
               },
               "text": "jālandhare kṛte bandhe",
-              "translated_text": "When the bond of <s>Jālandhara</s> is made.",
+              "translated_text": "When the <s>jālandhara bandha</s> (net-holder lock) is performed,",
               "segment_number": 178
             },
             {
@@ -2387,7 +2423,7 @@
                 "n": "b"
               },
               "text": "kaṇṭha-saṅkoca-lakṣaṇe",
-              "translated_text": "Characterized by the contraction of the throat.",
+              "translated_text": "characterized by the contraction of the throat,",
               "segment_number": 179
             }
           ]
@@ -2403,7 +2439,7 @@
                 "n": "c"
               },
               "text": "na pīyūṣaṃ pataty agnau",
-              "translated_text": "The nectar does not fall into the fire.",
+              "translated_text": "the nectar does not fall into the [digestive] fire,",
               "segment_number": 180
             },
             {
@@ -2413,7 +2449,7 @@
                 "n": "d"
               },
               "text": "na ca vāyuḥ prakupyati",
-              "translated_text": "Nor does the wind become agitated.",
+              "translated_text": "nor does the breath become agitated.",
               "segment_number": 181
             },
             {
@@ -2429,7 +2465,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_37"
+        "id": "GorS_37",
+        "label": "GorS 37"
       },
       "children": [
         {
@@ -2443,7 +2480,7 @@
                 "n": "a"
               },
               "text": "pārṣṇi-bhāgena sampīḍya",
-              "translated_text": "Pressing with the heel.",
+              "translated_text": "Pressing the <s>yoni</s> (perineum) with the heel,",
               "segment_number": 183
             },
             {
@@ -2453,7 +2490,7 @@
                 "n": "b"
               },
               "text": "yonim ākuñcayed gudam",
-              "translated_text": "Contract the yoni and anus.",
+              "translated_text": "one should contract the anus;",
               "segment_number": 184
             }
           ]
@@ -2469,7 +2506,7 @@
                 "n": "c"
               },
               "text": "apānam ūrdhvam ākṛṣya",
-              "translated_text": "Drawing <s>Apāna</s> upwards.",
+              "translated_text": "drawing <s>apāna</s> upward—",
               "segment_number": 185
             },
             {
@@ -2479,7 +2516,7 @@
                 "n": "d"
               },
               "text": "mūla-bandho nigadyate",
-              "translated_text": "Is called <s>Mūla-bandha</s>.",
+              "translated_text": "this is called <s>mūla-bandha</s> (the root lock).",
               "segment_number": 186
             },
             {
@@ -2495,7 +2532,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_38"
+        "id": "GorS_38",
+        "label": "GorS 38"
       },
       "children": [
         {
@@ -2509,7 +2547,7 @@
                 "n": "a"
               },
               "text": "yataḥ kāla-bhayāt brahmā",
-              "translated_text": "For fear of time, <s>Brahmā</s>.",
+              "translated_text": "Since even <s>Brahmā</s>, out of fear of death,",
               "segment_number": 188
             },
             {
@@ -2519,7 +2557,7 @@
                 "n": "b"
               },
               "text": "prāṇāyāma-parāyaṇaḥ",
-              "translated_text": "Devoted to <s>Prāṇāyāma</s>.",
+              "translated_text": "was devoted to <s>prāṇāyāma</s> (breath control),",
               "segment_number": 189
             }
           ]
@@ -2535,7 +2573,7 @@
                 "n": "c"
               },
               "text": "yogino munayaś caiva",
-              "translated_text": "And the yogis and sages.",
+              "translated_text": "as were the <s>yogins</s> and <s>munis</s> (sages)—",
               "segment_number": 190
             },
             {
@@ -2545,7 +2583,7 @@
                 "n": "d"
               },
               "text": "tataḥ prāṇaṃ nibandhayet",
-              "translated_text": "Therefore, bind the <s>Prāṇa</s>.",
+              "translated_text": "therefore one should restrain the breath.",
               "segment_number": 191
             },
             {
@@ -2561,7 +2599,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_39"
+        "id": "GorS_39",
+        "label": "GorS 39"
       },
       "children": [
         {
@@ -2575,7 +2614,7 @@
                 "n": "a"
               },
               "text": "cale vāte calaṃ sarvaṃ",
-              "translated_text": "When the wind moves, all moves.",
+              "translated_text": "When the breath moves, everything moves;",
               "segment_number": 193
             },
             {
@@ -2585,7 +2624,7 @@
                 "n": "b"
               },
               "text": "niścale niścalaṃ bhavet",
-              "translated_text": "When still, all becomes still.",
+              "translated_text": "when it is still, everything becomes still;",
               "segment_number": 194
             }
           ]
@@ -2601,7 +2640,7 @@
                 "n": "c"
               },
               "text": "yogī sthāṇutvam āpnoti",
-              "translated_text": "The yogi achieves steadiness.",
+              "translated_text": "the <s>yogin</s> attains steadiness—",
               "segment_number": 195
             },
             {
@@ -2611,7 +2650,7 @@
                 "n": "d"
               },
               "text": "tato vāyuṃ nibandhayet",
-              "translated_text": "Therefore, bind the wind.",
+              "translated_text": "therefore one should restrain the breath.",
               "segment_number": 196
             },
             {
@@ -2627,7 +2666,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_40"
+        "id": "GorS_40",
+        "label": "GorS 40"
       },
       "children": [
         {
@@ -2641,7 +2681,7 @@
                 "n": "a"
               },
               "text": "ṣaṭ-triṃśad-aṅgulaṃ haṃsaḥ",
-              "translated_text": "The swan is thirty-six fingers long.",
+              "translated_text": "The <s>haṃsa</s> (breath) travels outward",
               "segment_number": 198
             },
             {
@@ -2651,7 +2691,7 @@
                 "n": "b"
               },
               "text": "prayāṇaṃ kurute bahiḥ",
-              "translated_text": "Makes its journey outside.",
+              "translated_text": "a distance of thirty-six finger-breadths;",
               "segment_number": 199
             }
           ]
@@ -2667,7 +2707,7 @@
                 "n": "c"
               },
               "text": "vāma-dakṣiṇa-mārgeṇa",
-              "translated_text": "Through the left and right paths.",
+              "translated_text": "through the left and right pathways—",
               "segment_number": 200
             },
             {
@@ -2677,7 +2717,7 @@
                 "n": "d"
               },
               "text": "tataḥ prāṇo'bhidhīyate",
-              "translated_text": "Then it is called <s>Prāṇa</s>.",
+              "translated_text": "therefore it is called <s>prāṇa</s> (vital breath).",
               "segment_number": 201
             },
             {
@@ -2693,7 +2733,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_41"
+        "id": "GorS_41",
+        "label": "GorS 41"
       },
       "children": [
         {
@@ -2707,7 +2748,7 @@
                 "n": "a"
               },
               "text": "baddha-padmāsano yogī",
-              "translated_text": "The yogi in <s>Padmāsana</s>.",
+              "translated_text": "The <s>yogin</s>, seated in <s>baddha-padmāsana</s> (bound lotus posture),",
               "segment_number": 203
             },
             {
@@ -2717,7 +2758,7 @@
                 "n": "b"
               },
               "text": "namaskṛtya guruṃ śivam",
-              "translated_text": "Saluting the guru, <s>Śiva</s>.",
+              "translated_text": "having saluted the guru and <s>Śiva</s>,",
               "segment_number": 204
             }
           ]
@@ -2733,7 +2774,7 @@
                 "n": "c"
               },
               "text": "nāsāgra-dṛṣṭir ekākī",
-              "translated_text": "With gaze on the tip of the nose, alone.",
+              "translated_text": "with gaze fixed on the tip of the nose, alone,",
               "segment_number": 205
             },
             {
@@ -2743,7 +2784,7 @@
                 "n": "d"
               },
               "text": "prāṇāyāmaṃ samabhyaset",
-              "translated_text": "Should practice <s>Prāṇāyāma</s>.",
+              "translated_text": "should practice <s>prāṇāyāma</s> (breath control).",
               "segment_number": 206
             },
             {
@@ -2759,7 +2800,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_42"
+        "id": "GorS_42",
+        "label": "GorS 42"
       },
       "children": [
         {
@@ -2773,7 +2815,7 @@
                 "n": "a"
               },
               "text": "prāṇo deha-sthito vāyur",
-              "translated_text": "<s>Prāṇa</s> is the wind residing in the body.",
+              "translated_text": "<s>Prāṇa</s> is the breath dwelling in the body;",
               "segment_number": 208
             },
             {
@@ -2783,7 +2825,7 @@
                 "n": "b"
               },
               "text": "āyāmas tan-nibandhanam",
-              "translated_text": "Its extension is its binding.",
+              "translated_text": "<s>āyāma</s> is its restraint;",
               "segment_number": 209
             }
           ]
@@ -2799,7 +2841,7 @@
                 "n": "c"
               },
               "text": "eka-śvāsa-mayī mātrā",
-              "translated_text": "One breath is the measure.",
+              "translated_text": "a single breath constitutes one <s>mātrā</s> (measure)—",
               "segment_number": 210
             },
             {
@@ -2809,7 +2851,7 @@
                 "n": "d"
               },
               "text": "tad yogī gaganāyate",
-              "translated_text": "Then the yogi becomes like the sky.",
+              "translated_text": "by that the <s>yogin</s> reaches the sky.",
               "segment_number": 211
             },
             {
@@ -2825,7 +2867,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_43"
+        "id": "GorS_43",
+        "label": "GorS 43"
       },
       "children": [
         {
@@ -2839,7 +2882,7 @@
                 "n": "a"
               },
               "text": "baddha-padmāsano yogī",
-              "translated_text": "The yogi in <s>Padmāsana</s>.",
+              "translated_text": "The <s>yogin</s>, seated in <s>baddha-padmāsana</s> (bound lotus posture),",
               "segment_number": 213
             },
             {
@@ -2849,7 +2892,7 @@
                 "n": "b"
               },
               "text": "prāṇaṃ candreṇa pūrayet",
-              "translated_text": "Should fill the <s>Prāṇa</s> with the moon.",
+              "translated_text": "should fill [the breath] through the <s>candra</s> (moon, left nostril);",
               "segment_number": 214
             }
           ]
@@ -2865,7 +2908,7 @@
                 "n": "c"
               },
               "text": "dhārayitvā yathā-śakti",
-              "translated_text": "Holding as much as possible.",
+              "translated_text": "having retained it as long as possible,",
               "segment_number": 215
             },
             {
@@ -2875,7 +2918,7 @@
                 "n": "d"
               },
               "text": "bhūyaḥ sūryeṇa recayet",
-              "translated_text": "Then exhale with the sun.",
+              "translated_text": "one should then exhale through the <s>sūrya</s> (sun, right nostril).",
               "segment_number": 216
             },
             {
@@ -2891,7 +2934,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_44"
+        "id": "GorS_44",
+        "label": "GorS 44"
       },
       "children": [
         {
@@ -2905,7 +2949,7 @@
                 "n": "a"
               },
               "text": "amṛtodadhi-saṅkāśaṃ",
-              "translated_text": "Resembling the ocean of nectar.",
+              "translated_text": "Resembling the ocean of nectar,",
               "segment_number": 218
             },
             {
@@ -2915,7 +2959,7 @@
                 "n": "b"
               },
               "text": "kṣīroda-dhavala-prabham",
-              "translated_text": "With the brilliance of milk.",
+              "translated_text": "white and radiant like the ocean of milk,",
               "segment_number": 219
             }
           ]
@@ -2931,7 +2975,7 @@
                 "n": "c"
               },
               "text": "dhyātvā candramayaṃ bimbaṃ",
-              "translated_text": "Meditating on the lunar orb.",
+              "translated_text": "meditating on the moon-disc—",
               "segment_number": 220
             },
             {
@@ -2941,7 +2985,7 @@
                 "n": "d"
               },
               "text": "prāṇāyāme sukhī bhavet",
-              "translated_text": "Becomes happy in <s>Prāṇāyāma</s>.",
+              "translated_text": "one becomes happy in <s>prāṇāyāma</s>.",
               "segment_number": 221
             },
             {
@@ -2957,7 +3001,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_45"
+        "id": "GorS_45",
+        "label": "GorS 45"
       },
       "children": [
         {
@@ -2971,7 +3016,7 @@
                 "n": "a"
               },
               "text": "prāṇaṃ sūryeṇa cākṛṣya",
-              "translated_text": "Drawing <s>Prāṇa</s> with the sun.",
+              "translated_text": "Drawing the breath through the <s>sūrya</s> (sun, right nostril),",
               "segment_number": 223
             },
             {
@@ -2981,7 +3026,7 @@
                 "n": "b"
               },
               "text": "pūrayed udaraṃ śanaiḥ",
-              "translated_text": "Fill the belly slowly.",
+              "translated_text": "one should fill the abdomen slowly;",
               "segment_number": 224
             }
           ]
@@ -2997,7 +3042,7 @@
                 "n": "c"
               },
               "text": "kumbhayitvā vidhānena",
-              "translated_text": "Holding as per the method.",
+              "translated_text": "having retained it according to the prescribed method,",
               "segment_number": 225
             },
             {
@@ -3007,7 +3052,7 @@
                 "n": "d"
               },
               "text": "bhūyaś candreṇa recayet",
-              "translated_text": "Then exhale with the moon.",
+              "translated_text": "one should then exhale through the <s>candra</s> (moon, left nostril).",
               "segment_number": 226
             },
             {
@@ -3023,7 +3068,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_46"
+        "id": "GorS_46",
+        "label": "GorS 46"
       },
       "children": [
         {
@@ -3037,7 +3083,7 @@
                 "n": "a"
               },
               "text": "prajvalaj-jvalana-jvālā",
-              "translated_text": "Flames of blazing fire.",
+              "translated_text": "The blazing mass of flames,",
               "segment_number": 228
             },
             {
@@ -3047,7 +3093,7 @@
                 "n": "b"
               },
               "text": "puñjam āditya-maṇḍalam",
-              "translated_text": "The orb of the sun.",
+              "translated_text": "the solar disc—",
               "segment_number": 229
             }
           ]
@@ -3063,7 +3109,7 @@
                 "n": "c"
               },
               "text": "dhyātvā nābhi-sthitaṃ yogī",
-              "translated_text": "Meditating at the navel, the yogi.",
+              "translated_text": "meditating on it as situated at the navel, the <s>yogin</s>",
               "segment_number": 230
             },
             {
@@ -3073,7 +3119,7 @@
                 "n": "d"
               },
               "text": "prāṇāyāme sukhī bhavet",
-              "translated_text": "Becomes happy in <s>Prāṇāyāma</s>.",
+              "translated_text": "becomes happy in <s>prāṇāyāma</s>.",
               "segment_number": 231
             },
             {
@@ -3089,7 +3135,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_47"
+        "id": "GorS_47",
+        "label": "GorS 47"
       },
       "children": [
         {
@@ -3103,7 +3150,7 @@
                 "n": "a"
               },
               "text": "recakaḥ pūrakaś caiva",
-              "translated_text": "<s>Recaka</s> and <s>Pūraka</s> indeed.",
+              "translated_text": "<s>Recaka</s> (exhalation), <s>pūraka</s> (inhalation),",
               "segment_number": 233
             },
             {
@@ -3113,7 +3160,7 @@
                 "n": "b"
               },
               "text": "kumbhakaḥ praṇavātmakaḥ",
-              "translated_text": "<s>Kumbhaka</s> is of the nature of <s>Praṇava</s>.",
+              "translated_text": "and <s>kumbhaka</s> (retention), which is of the nature of <s>praṇava</s> (<s>Oṃ</s>)—",
               "segment_number": 234
             }
           ]
@@ -3129,7 +3176,7 @@
                 "n": "c"
               },
               "text": "prāṇāyāmo bhavet tredhā",
-              "translated_text": "<s>Prāṇāyāma</s> becomes threefold.",
+              "translated_text": "<s>prāṇāyāma</s> is of three kinds,",
               "segment_number": 235
             },
             {
@@ -3139,7 +3186,7 @@
                 "n": "d"
               },
               "text": "mātrā dvādaśa-saṃyutaḥ",
-              "translated_text": "With twelve units of measure.",
+              "translated_text": "measured by twelve <s>mātrās</s> (units).",
               "segment_number": 236
             },
             {
@@ -3155,7 +3202,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_48"
+        "id": "GorS_48",
+        "label": "GorS 48"
       },
       "children": [
         {
@@ -3169,7 +3217,7 @@
                 "n": "a"
               },
               "text": "dvādaśādhamake mātrā",
-              "translated_text": "In the lower, twelve units.",
+              "translated_text": "In the inferior [<s>prāṇāyāma</s>] there are twelve <s>mātrās</s>,",
               "segment_number": 238
             },
             {
@@ -3179,7 +3227,7 @@
                 "n": "b"
               },
               "text": "madhyame dviguṇās tataḥ",
-              "translated_text": "In the middle, twice that.",
+              "translated_text": "in the middle, twice that number,",
               "segment_number": 239
             }
           ]
@@ -3195,7 +3243,7 @@
                 "n": "c"
               },
               "text": "uttame triguṇā mātrāḥ",
-              "translated_text": "In the superior, thrice the units.",
+              "translated_text": "in the superior, three times the <s>mātrās</s>—",
               "segment_number": 240
             },
             {
@@ -3205,7 +3253,7 @@
                 "n": "d"
               },
               "text": "prāṇāyāmasya nirṇayaḥ",
-              "translated_text": "This is the determination of <s>Prāṇāyāma</s>.",
+              "translated_text": "this is the determination of <s>prāṇāyāma</s>.",
               "segment_number": 241
             },
             {
@@ -3221,7 +3269,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_49"
+        "id": "GorS_49",
+        "label": "GorS 49"
       },
       "children": [
         {
@@ -3235,7 +3284,7 @@
                 "n": "a"
               },
               "text": "adhame ca ghano gharmaḥ",
-              "translated_text": "In the lower, there is intense heat.",
+              "translated_text": "In the inferior, there is profuse perspiration;",
               "segment_number": 243
             },
             {
@@ -3245,7 +3294,7 @@
                 "n": "b"
               },
               "text": "kampo bhavati madhyame",
-              "translated_text": "Trembling occurs in the middle.",
+              "translated_text": "in the middle, trembling occurs;",
               "segment_number": 244
             }
           ]
@@ -3261,7 +3310,7 @@
                 "n": "c"
               },
               "text": "uttiṣṭhaty uttame yogī",
-              "translated_text": "In the superior, the yogi rises.",
+              "translated_text": "in the superior, the <s>yogin</s> rises up",
               "segment_number": 245
             },
             {
@@ -3271,7 +3320,7 @@
                 "n": "d"
               },
               "text": "baddha-padmāsano muhuḥ",
-              "translated_text": "In the bound <s>Padmāsana</s>, repeatedly.",
+              "translated_text": "repeatedly from the <s>baddha-padmāsana</s> (bound lotus posture).",
               "segment_number": 246
             },
             {
@@ -3287,7 +3336,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_50"
+        "id": "GorS_50",
+        "label": "GorS 50"
       },
       "children": [
         {
@@ -3301,7 +3351,7 @@
                 "n": "a"
               },
               "text": "aṅgānāṃ mardanaṃ śastaṃ",
-              "translated_text": "Massaging the limbs is beneficial.",
+              "translated_text": "Rubbing the limbs is recommended",
               "segment_number": 248
             },
             {
@@ -3311,7 +3361,7 @@
                 "n": "b"
               },
               "text": "śrama-saṃjāta-vāriṇā",
-              "translated_text": "With sweat generated by effort.",
+              "translated_text": "with the perspiration produced by exertion;",
               "segment_number": 249
             }
           ]
@@ -3327,7 +3377,7 @@
                 "n": "c"
               },
               "text": "kaṭv-amla-lavaṇa-tyāgī",
-              "translated_text": "Abandoning pungent, sour, and salty foods.",
+              "translated_text": "abandoning pungent, sour, and salty [foods],",
               "segment_number": 250
             },
             {
@@ -3337,7 +3387,7 @@
                 "n": "d"
               },
               "text": "kṣīra-bhojanam ācaret",
-              "translated_text": "One should consume milk.",
+              "translated_text": "one should maintain a diet of milk.",
               "segment_number": 251
             },
             {
@@ -3353,7 +3403,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_51"
+        "id": "GorS_51",
+        "label": "GorS 51"
       },
       "children": [
         {
@@ -3367,7 +3418,7 @@
                 "n": "a"
               },
               "text": "mandaṃ mandaṃ pibed vāyuṃ",
-              "translated_text": "Slowly, slowly drink the wind.",
+              "translated_text": "One should inhale the breath gently, gently,",
               "segment_number": 253
             },
             {
@@ -3377,7 +3428,7 @@
                 "n": "b"
               },
               "text": "mandaṃ mandaṃ viyojayet",
-              "translated_text": "Slowly, slowly release it.",
+              "translated_text": "and release it gently, gently;",
               "segment_number": 254
             }
           ]
@@ -3393,7 +3444,7 @@
                 "n": "c"
               },
               "text": "nādhikaṃ stambhayed vāyuṃ",
-              "translated_text": "Do not excessively restrain the wind.",
+              "translated_text": "one should not retain the breath excessively,",
               "segment_number": 255
             },
             {
@@ -3403,7 +3454,7 @@
                 "n": "d"
               },
               "text": "na ca śīghraṃ vimocayet",
-              "translated_text": "Nor release it quickly.",
+              "translated_text": "nor release it too quickly.",
               "segment_number": 256
             },
             {
@@ -3419,7 +3470,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_52"
+        "id": "GorS_52",
+        "label": "GorS 52"
       },
       "children": [
         {
@@ -3433,7 +3485,7 @@
                 "n": "a"
               },
               "text": "ūrdhvam ākṛṣya cāpānaṃ",
-              "translated_text": "Drawing <s>Apāna</s> upwards.",
+              "translated_text": "Drawing <s>apāna</s> upward",
               "segment_number": 258
             },
             {
@@ -3443,7 +3495,7 @@
                 "n": "b"
               },
               "text": "vātaṃ prāṇe niyojayet",
-              "translated_text": "Engage the wind in <s>Prāṇa</s>.",
+              "translated_text": "and joining the breath with <s>prāṇa</s>,",
               "segment_number": 259
             }
           ]
@@ -3459,7 +3511,7 @@
                 "n": "c"
               },
               "text": "mūrdhānaṃ nīyate śaktyā",
-              "translated_text": "The head is led by force.",
+              "translated_text": "being led to the crown of the head by the <s>śakti</s> (power),",
               "segment_number": 260
             },
             {
@@ -3469,7 +3521,7 @@
                 "n": "d"
               },
               "text": "sarva-pāpaiḥ pramucyate",
-              "translated_text": "Is freed from all sins.",
+              "translated_text": "one is freed from all sins.",
               "segment_number": 261
             },
             {
@@ -3485,7 +3537,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_53"
+        "id": "GorS_53",
+        "label": "GorS 53"
       },
       "children": [
         {
@@ -3499,7 +3552,7 @@
                 "n": "a"
               },
               "text": "prāṇāyāmo bhavaty evaṃ",
-              "translated_text": "<s>Prāṇāyāma</s> thus becomes.",
+              "translated_text": "Thus <s>prāṇāyāma</s> becomes",
               "segment_number": 263
             },
             {
@@ -3509,7 +3562,7 @@
                 "n": "b"
               },
               "text": "pātakendhana-pātakaḥ",
-              "translated_text": "The destroyer of the fuel of sin.",
+              "translated_text": "the destroyer of the fuel of sin,",
               "segment_number": 264
             }
           ]
@@ -3525,7 +3578,7 @@
                 "n": "c"
               },
               "text": "enombudhi-mahā-setuḥ",
-              "translated_text": "The great bridge over the ocean of sin.",
+              "translated_text": "the great bridge across the ocean of transgressions—",
               "segment_number": 265
             },
             {
@@ -3535,7 +3588,7 @@
                 "n": "d"
               },
               "text": "procyate yogibhiḥ sadā",
-              "translated_text": "Is always proclaimed by yogis.",
+              "translated_text": "so it is always proclaimed by the <s>yogins</s>.",
               "segment_number": 266
             },
             {
@@ -3551,7 +3604,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_54"
+        "id": "GorS_54",
+        "label": "GorS 54"
       },
       "children": [
         {
@@ -3565,7 +3619,7 @@
                 "n": "a"
               },
               "text": "āsanena rujo hanti",
-              "translated_text": "Destroys ailments with posture.",
+              "translated_text": "By <s>āsana</s> one destroys ailments,",
               "segment_number": 268
             },
             {
@@ -3575,7 +3629,7 @@
                 "n": "b"
               },
               "text": "prāṇāyāmena pātakam",
-              "translated_text": "Destroys sin with <s>Prāṇāyāma</s>.",
+              "translated_text": "by <s>prāṇāyāma</s> one destroys sin,",
               "segment_number": 269
             }
           ]
@@ -3591,7 +3645,7 @@
                 "n": "c"
               },
               "text": "vikāraṃ mānasaṃ yogī",
-              "translated_text": "The yogi, mental distortion.",
+              "translated_text": "and mental disturbances the <s>yogin</s> [destroys]",
               "segment_number": 270
             },
             {
@@ -3601,7 +3655,7 @@
                 "n": "d"
               },
               "text": "pratyāhāreṇa sarvadā",
-              "translated_text": "Always with withdrawal.",
+              "translated_text": "by <s>pratyāhāra</s> (withdrawal of the senses), always.",
               "segment_number": 271
             },
             {
@@ -3617,7 +3671,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_55"
+        "id": "GorS_55",
+        "label": "GorS 55"
       },
       "children": [
         {
@@ -3631,7 +3686,7 @@
                 "n": "a"
               },
               "text": "candrāmṛta-mayīṃ dhārāṃ",
-              "translated_text": "The stream of lunar nectar.",
+              "translated_text": "The stream of lunar nectar",
               "segment_number": 273
             },
             {
@@ -3641,7 +3696,7 @@
                 "n": "b"
               },
               "text": "pratyāhārati bhāskaraḥ",
-              "translated_text": "The sun withdraws.",
+              "translated_text": "is withdrawn by the sun;",
               "segment_number": 274
             }
           ]
@@ -3657,7 +3712,7 @@
                 "n": "c"
               },
               "text": "tat-pratyāharaṇaṃ tasya",
-              "translated_text": "That withdrawal of it.",
+              "translated_text": "that withdrawal of it—",
               "segment_number": 275
             },
             {
@@ -3667,7 +3722,7 @@
                 "n": "d"
               },
               "text": "pratyāhāraḥ sa ucyate",
-              "translated_text": "Is called withdrawal.",
+              "translated_text": "that is called <s>pratyāhāra</s> (withdrawal).",
               "segment_number": 276
             },
             {
@@ -3683,7 +3738,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_56"
+        "id": "GorS_56",
+        "label": "GorS 56"
       },
       "children": [
         {
@@ -3697,7 +3753,7 @@
                 "n": "a"
               },
               "text": "ekā strī bhujyate dvābhyām",
-              "translated_text": "One woman is enjoyed by two.",
+              "translated_text": "One woman is enjoyed by two—",
               "segment_number": 278
             },
             {
@@ -3707,7 +3763,7 @@
                 "n": "b"
               },
               "text": "āgatā soma-maṇḍalāt",
-              "translated_text": "Coming from the lunar orb.",
+              "translated_text": "she who has come from the lunar sphere;",
               "segment_number": 279
             }
           ]
@@ -3723,7 +3779,7 @@
                 "n": "c"
               },
               "text": "tṛtīyo yo bhavet tābhyāṃ",
-              "translated_text": "The third who is with them.",
+              "translated_text": "the third one who unites with those two—",
               "segment_number": 280
             },
             {
@@ -3733,7 +3789,7 @@
                 "n": "d"
               },
               "text": "sa bhavaty ajarāmaraḥ",
-              "translated_text": "He becomes ageless and immortal.",
+              "translated_text": "he becomes ageless and immortal.",
               "segment_number": 281
             },
             {
@@ -3749,7 +3805,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_57"
+        "id": "GorS_57",
+        "label": "GorS 57"
       },
       "children": [
         {
@@ -3763,7 +3820,7 @@
                 "n": "a"
               },
               "text": "nābhideśe bhavaty eko",
-              "translated_text": "In the navel region is one.",
+              "translated_text": "In the region of the navel dwells one—",
               "segment_number": 283
             },
             {
@@ -3773,7 +3830,7 @@
                 "n": "b"
               },
               "text": "bhāskaro dahanātmakaḥ",
-              "translated_text": "The sun, of fiery nature.",
+              "translated_text": "the sun, of the nature of fire;",
               "segment_number": 284
             }
           ]
@@ -3789,7 +3846,7 @@
                 "n": "c"
               },
               "text": "amṛtātmā sthito nityaṃ",
-              "translated_text": "The immortal soul is always situated.",
+              "translated_text": "of the nature of nectar, ever situated",
               "segment_number": 285
             },
             {
@@ -3799,7 +3856,7 @@
                 "n": "d"
               },
               "text": "tālumūle ca candramāḥ",
-              "translated_text": "And the moon at the root of the palate.",
+              "translated_text": "at the root of the palate, is the moon.",
               "segment_number": 286
             },
             {
@@ -3815,7 +3872,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_58"
+        "id": "GorS_58",
+        "label": "GorS 58"
       },
       "children": [
         {
@@ -3829,7 +3887,7 @@
                 "n": "a"
               },
               "text": "varṣaty adhomukhaś candro",
-              "translated_text": "The downward-facing moon rains.",
+              "translated_text": "The moon rains downward,",
               "segment_number": 288
             },
             {
@@ -3839,7 +3897,7 @@
                 "n": "b"
               },
               "text": "grasaty ūrdhva-mukho raviḥ",
-              "translated_text": "The upward-facing sun devours.",
+              "translated_text": "the sun devours facing upward;",
               "segment_number": 289
             }
           ]
@@ -3855,7 +3913,7 @@
                 "n": "c"
               },
               "text": "jñātavyaṃ karaṇaṃ tatra",
-              "translated_text": "The method is to be known there.",
+              "translated_text": "one should know the technique by which",
               "segment_number": 290
             },
             {
@@ -3865,7 +3923,7 @@
                 "n": "d"
               },
               "text": "yena pīyūṣam āpyate",
-              "translated_text": "By which nectar is obtained.",
+              "translated_text": "the nectar is obtained.",
               "segment_number": 291
             },
             {
@@ -3881,7 +3939,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_59"
+        "id": "GorS_59",
+        "label": "GorS 59"
       },
       "children": [
         {
@@ -3895,7 +3954,7 @@
                 "n": "a"
               },
               "text": "ūrdhva-nābhir adhas tālu",
-              "translated_text": "Above the navel, below the palate.",
+              "translated_text": "The navel is above, the palate below;",
               "segment_number": 293
             },
             {
@@ -3905,7 +3964,7 @@
                 "n": "b"
               },
               "text": "ūrdhva-bhānur adhaḥ śaśī",
-              "translated_text": "The upward sun, the downward moon.",
+              "translated_text": "the sun is above, the moon below—",
               "segment_number": 294
             }
           ]
@@ -3921,7 +3980,7 @@
                 "n": "c"
               },
               "text": "karaṇaṃ viparītākhyaṃ",
-              "translated_text": "The method called inverted.",
+              "translated_text": "the technique called <s>viparīta</s> (inversion)",
               "segment_number": 295
             },
             {
@@ -3931,7 +3990,7 @@
                 "n": "d"
               },
               "text": "guru-vaktreṇa labhyate",
-              "translated_text": "Is obtained from the guru's mouth.",
+              "translated_text": "is obtained from the mouth of the guru.",
               "segment_number": 296
             },
             {
@@ -3947,7 +4006,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_60"
+        "id": "GorS_60",
+        "label": "GorS 60"
       },
       "children": [
         {
@@ -3961,7 +4021,7 @@
                 "n": "a"
               },
               "text": "tridhā baddho vṛṣo yatra",
-              "translated_text": "Where the bull is tied threefold.",
+              "translated_text": "Where the bull, bound in three ways,",
               "segment_number": 298
             },
             {
@@ -3971,7 +4031,7 @@
                 "n": "b"
               },
               "text": "rauravīti mahāsvanam",
-              "translated_text": "Roaring with a great sound.",
+              "translated_text": "bellows with a great roar—",
               "segment_number": 299
             }
           ]
@@ -3987,7 +4047,7 @@
                 "n": "c"
               },
               "text": "anāhataṃ ca tac cakraṃ",
-              "translated_text": "And the <s>Anāhata</s> that is the wheel.",
+              "translated_text": "that <s>cakra</s> called <s>anāhata</s> (unstruck),",
               "segment_number": 300
             },
             {
@@ -3997,7 +4057,7 @@
                 "n": "d"
               },
               "text": "hṛdaye yogino viduḥ",
-              "translated_text": "Known in the heart of the yogi.",
+              "translated_text": "the <s>yogins</s> know to be at the heart.",
               "segment_number": 301
             },
             {
@@ -4013,7 +4073,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_61"
+        "id": "GorS_61",
+        "label": "GorS 61"
       },
       "children": [
         {
@@ -4027,7 +4088,7 @@
                 "n": "a"
               },
               "text": "anāhatam atikramya",
-              "translated_text": "Surpassing the <s>Anāhata</s>.",
+              "translated_text": "Having crossed beyond the <s>anāhata</s>",
               "segment_number": 303
             },
             {
@@ -4037,7 +4098,7 @@
                 "n": "b"
               },
               "text": "cākramya maṇipūrakam",
-              "translated_text": "Reaching the <s>Maṇipūraka</s>.",
+              "translated_text": "and having traversed the <s>maṇipūraka</s>,",
               "segment_number": 304
             }
           ]
@@ -4053,7 +4114,7 @@
                 "n": "c"
               },
               "text": "prāpte prāṇaṃ mahāpadmaṃ",
-              "translated_text": "When the great lotus is reached by <s>Prāṇa</s>.",
+              "translated_text": "having attained the great lotus of <s>prāṇa</s>—",
               "segment_number": 305
             },
             {
@@ -4063,7 +4124,7 @@
                 "n": "d"
               },
               "text": "yogitvam amṛtāyate",
-              "translated_text": "Yogic state becomes immortal.",
+              "translated_text": "the state of <s>yoga</s> becomes immortal.",
               "segment_number": 306
             },
             {
@@ -4079,7 +4140,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_62"
+        "id": "GorS_62",
+        "label": "GorS 62"
       },
       "children": [
         {
@@ -4093,7 +4155,7 @@
                 "n": "a"
               },
               "text": "viśabdaḥ saṃsmṛto haṃso",
-              "translated_text": "The sound remembered as <s>Haṃsa</s>.",
+              "translated_text": "By the syllable 'vi' is remembered <s>haṃsa</s> (the swan/breath);",
               "segment_number": 308
             },
             {
@@ -4103,7 +4165,7 @@
                 "n": "b"
               },
               "text": "nirmalaḥ śuddha ucyate",
-              "translated_text": "Is called pure and clean.",
+              "translated_text": "'nirmala' (stainless) is said to mean 'śuddha' (pure);",
               "segment_number": 309
             }
           ]
@@ -4119,7 +4181,7 @@
                 "n": "c"
               },
               "text": "ataḥ kaṇṭhe viśuddhākhye",
-              "translated_text": "Therefore, at the throat in <s>Viśuddha</s>.",
+              "translated_text": "therefore, at the throat, the one called <s>viśuddha</s> (specially pure)—",
               "segment_number": 310
             },
             {
@@ -4129,7 +4191,7 @@
                 "n": "d"
               },
               "text": "cakraṃ cakra-vido viduḥ",
-              "translated_text": "The wheel is known by the knowers of the wheel.",
+              "translated_text": "that <s>cakra</s>, the knowers of <s>cakras</s> know.",
               "segment_number": 311
             },
             {
@@ -4145,7 +4207,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_63"
+        "id": "GorS_63",
+        "label": "GorS 63"
       },
       "children": [
         {
@@ -4159,7 +4222,7 @@
                 "n": "a"
               },
               "text": "viśuddhe parame cakre",
-              "translated_text": "In the supreme wheel of <s>Viśuddha</s>.",
+              "translated_text": "In the supreme <s>cakra</s> called <s>viśuddha</s>",
               "segment_number": 313
             },
             {
@@ -4211,7 +4274,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_64"
+        "id": "GorS_64",
+        "label": "GorS 64"
       },
       "children": [
         {
@@ -4277,7 +4341,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_65"
+        "id": "GorS_65",
+        "label": "GorS 65"
       },
       "children": [
         {
@@ -4343,7 +4408,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_66"
+        "id": "GorS_66",
+        "label": "GorS 66"
       },
       "children": [
         {
@@ -4409,7 +4475,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_67"
+        "id": "GorS_67",
+        "label": "GorS 67"
       },
       "children": [
         {
@@ -4475,7 +4542,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_68"
+        "id": "GorS_68",
+        "label": "GorS 68"
       },
       "children": [
         {
@@ -4541,7 +4609,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_69"
+        "id": "GorS_69",
+        "label": "GorS 69"
       },
       "children": [
         {
@@ -4607,7 +4676,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_70"
+        "id": "GorS_70",
+        "label": "GorS 70"
       },
       "children": [
         {
@@ -4673,7 +4743,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_71"
+        "id": "GorS_71",
+        "label": "GorS 71"
       },
       "children": [
         {
@@ -4739,7 +4810,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_72"
+        "id": "GorS_72",
+        "label": "GorS 72"
       },
       "children": [
         {
@@ -4805,7 +4877,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_73"
+        "id": "GorS_73",
+        "label": "GorS 73"
       },
       "children": [
         {
@@ -4871,7 +4944,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_74"
+        "id": "GorS_74",
+        "label": "GorS 74"
       },
       "children": [
         {
@@ -4937,7 +5011,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_75"
+        "id": "GorS_75",
+        "label": "GorS 75"
       },
       "children": [
         {
@@ -5003,7 +5078,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_76"
+        "id": "GorS_76",
+        "label": "GorS 76"
       },
       "children": [
         {
@@ -5069,7 +5145,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_77"
+        "id": "GorS_77",
+        "label": "GorS 77"
       },
       "children": [
         {
@@ -5135,7 +5212,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_78"
+        "id": "GorS_78",
+        "label": "GorS 78"
       },
       "children": [
         {
@@ -5201,7 +5279,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_79"
+        "id": "GorS_79",
+        "label": "GorS 79"
       },
       "children": [
         {
@@ -5267,7 +5346,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_80"
+        "id": "GorS_80",
+        "label": "GorS 80"
       },
       "children": [
         {
@@ -5339,7 +5419,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_82"
+        "id": "GorS_82",
+        "label": "GorS 82"
       },
       "children": [
         {
@@ -5405,7 +5486,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_83"
+        "id": "GorS_83",
+        "label": "GorS 83"
       },
       "children": [
         {
@@ -5471,7 +5553,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_84"
+        "id": "GorS_84",
+        "label": "GorS 84"
       },
       "children": [
         {
@@ -5537,7 +5620,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_85"
+        "id": "GorS_85",
+        "label": "GorS 85"
       },
       "children": [
         {
@@ -5603,7 +5687,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_86"
+        "id": "GorS_86",
+        "label": "GorS 86"
       },
       "children": [
         {
@@ -5669,7 +5754,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_87"
+        "id": "GorS_87",
+        "label": "GorS 87"
       },
       "children": [
         {
@@ -5735,7 +5821,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_88"
+        "id": "GorS_88",
+        "label": "GorS 88"
       },
       "children": [
         {
@@ -5801,7 +5888,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_89"
+        "id": "GorS_89",
+        "label": "GorS 89"
       },
       "children": [
         {
@@ -5867,7 +5955,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_90"
+        "id": "GorS_90",
+        "label": "GorS 90"
       },
       "children": [
         {
@@ -5933,7 +6022,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_91"
+        "id": "GorS_91",
+        "label": "GorS 91"
       },
       "children": [
         {
@@ -5999,7 +6089,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_92"
+        "id": "GorS_92",
+        "label": "GorS 92"
       },
       "children": [
         {
@@ -6065,7 +6156,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_93"
+        "id": "GorS_93",
+        "label": "GorS 93"
       },
       "children": [
         {
@@ -6131,7 +6223,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_94"
+        "id": "GorS_94",
+        "label": "GorS 94"
       },
       "children": [
         {
@@ -6203,7 +6296,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_96"
+        "id": "GorS_96",
+        "label": "GorS 96"
       },
       "children": [
         {
@@ -6269,7 +6363,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_97"
+        "id": "GorS_97",
+        "label": "GorS 97"
       },
       "children": [
         {
@@ -6335,7 +6430,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_98"
+        "id": "GorS_98",
+        "label": "GorS 98"
       },
       "children": [
         {
@@ -6401,7 +6497,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_99"
+        "id": "GorS_99",
+        "label": "GorS 99"
       },
       "children": [
         {
@@ -6467,7 +6564,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_100"
+        "id": "GorS_100",
+        "label": "GorS 100"
       },
       "children": [
         {
@@ -6533,7 +6631,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "GorS_101"
+        "id": "GorS_101",
+        "label": "GorS 101"
       },
       "children": [
         {

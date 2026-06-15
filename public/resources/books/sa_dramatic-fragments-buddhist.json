@@ -400,10 +400,7 @@
       "text": "SHT 16 fragment 9 (IDP SHT 16/9)\nadditional fragment not edited by Lüders, here bold\nA1 /// praviśati nāyako",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "viduṣ.",
           "segment_number": 52,
           "translated_text": "The Jester (<s>Vidūṣaka</s>)"
@@ -452,10 +449,7 @@
       "text": "3 /// vissrabdhaṃ ye vi[ṣ]",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "a hy a",
           "segment_number": 59,
           "translated_text": "[ous] indeed"
@@ -630,13 +624,16 @@
       "text": "3 ///",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "[kā] ─ bhaṭṭa iya(ṃ)",
+          "tag": "Subchapter",
+          "text": "kā",
           "segment_number": 84,
-          "translated_text": "[Maid:] — Master, this [woman]"
+          "translated_text": "Maid:"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": " ─ bhaṭṭa iya(ṃ)",
+          "translated_text": " — Master, this [woman]"
         },
         {
           "tag": "text",
@@ -654,19 +651,27 @@
       "text": "4 ///",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "[p]a[k]o b(a)h(u)[k]ī(lā)",
+          "tag": "Subchapter",
+          "text": "p",
           "segment_number": 87,
           "translated_text": "... playful, given to much sport"
         },
         {
-          "tag": "text",
-          "text": "[l]olo vā tti ─ dhānaṃ ─ susnigdhā samprati pa[k]tīḥ _ atha\nsnānoda[k]. ///",
+          "tag": "p",
+          "attributes": {},
+          "text": "a[k]o b(a)h(u)[k]ī(lā)"
+        },
+        {
+          "tag": "Subchapter",
+          "text": "l",
           "segment_number": 88,
-          "translated_text": "or so — <s>Dhānañjaya</s> — very affectionate now [are] the dishes — now the bathing water ... ///"
+          "translated_text": "or so — <s>Dhānañjaya</s> — very affectionate now [are]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "olo vā tti ─ dhānaṃ ─ susnigdhā samprati pa[k]tīḥ _ atha\nsnānoda[k]. ///",
+          "translated_text": " the dishes — now the bathing water ... ///"
         }
       ],
       "segment_number": 86,
@@ -678,10 +683,7 @@
       "text": "B1 ///",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": ".y. m a[n]u[ṣ]ṭh(ī)[y](a)[t](ān tā)[t](a)",
           "segment_number": 90,
           "translated_text": "... let it be carried out, father"
@@ -702,10 +704,7 @@
       "text": "2 ///",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "tatraiva gac[ch]āmi",
           "segment_number": 93,
           "translated_text": "I am going right there"
@@ -740,10 +739,7 @@
       "text": "SHT 16 fragment 14+15+32 (IDP SHT 16/14+15, 32)\ned. H. Lüders SBAW 1911, p. 404 (= Phil.Ind., p. 205f.)\nfragm. 14+15 mounted together between glass sheets\nadditional akṣaras not edited by Lüders, here bold\nr1 + + + + + + + + + + + +",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": ".[r]. .[th].",
           "segment_number": 98,
           "translated_text": "... ..."
@@ -764,10 +760,7 @@
       "text": "2 v[i]tavyam* _ apar[i]m[i]tārttham av⟨ā⟩ptukāmena _ satsannikarṣe khalu pp[r]ayatitavyam* _ mayā hi",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "─",
           "segment_number": 101,
           "translated_text": "—"
@@ -788,10 +781,7 @@
       "text": "3 + [jādar]e[ṇa] s(th)itamatibhir alab[bh](y)aṃ yat (su)raiś (c)āsuraiś ca ─ vi(dū ─ bho upa)jjhāya _ e[t]",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "assa",
           "segment_number": 104,
           "translated_text": "of this"
@@ -833,10 +823,7 @@
       "text": "2 + + + + + + + + + + + + + + + + + m [i]yan m[e] ta .. + + + + + .. [nā]śanama[ll]",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ā va ..",
           "segment_number": 110,
           "translated_text": "... ..."
@@ -857,10 +844,7 @@
       "text": "3 .. upadeso _ edisassa bambhaṇajanassa anuggāhako bh(ā)[t](i ─ śā)[r](i) ─ kiñ ca varṇṇāvare",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ṇau",
           "segment_number": 113,
           "translated_text": "[person]"
@@ -1289,10 +1273,7 @@
           "translated_text": "[...]"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": ".. pa ⟨⟨.. rat[ā]⟩⟩ ra sr[o]t.",
           "segment_number": 174,
           "translated_text": "... [...] stream ..."
@@ -1367,16 +1348,18 @@
           "translated_text": "(fragment 112)"
         },
         {
-          "tag": "text",
-          "text": "[r](tta)[m]",
+          "tag": "Subchapter",
+          "text": "r",
           "segment_number": 184,
           "translated_text": "the course,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "p",
+          "attributes": {},
+          "text": "(tta)[m]"
+        },
+        {
+          "tag": "quote",
           "text": "ā",
           "segment_number": 185,
           "translated_text": "..."
@@ -1388,10 +1371,7 @@
           "translated_text": "..."
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "a",
           "segment_number": 187,
           "translated_text": "..."
@@ -1466,10 +1446,15 @@
           "translated_text": "(fragment 112)"
         },
         {
-          "tag": "text",
-          "text": "[i]ti niś(c)ayaḥ k(ṛ)taḥ ///",
+          "tag": "Subchapter",
+          "text": "i",
           "segment_number": 197,
           "translated_text": "thus the determination has been made ///"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ti niś(c)ayaḥ k(ṛ)taḥ ///"
         },
         {
           "tag": "hi",
@@ -1481,10 +1466,16 @@
           "translated_text": "(fragment 89)"
         },
         {
-          "tag": "text",
-          "text": "[k](ar)[m](ak)ṣ(et)r(am) b(ījam) u(t)[p](at)t(icetas). .. .. .. .. .. .. .. .. .. .. .. ///",
+          "tag": "Subchapter",
+          "text": "k",
           "segment_number": 199,
-          "translated_text": "the field of <s>karma</s> (action), the seed, the arising-consciousness ... [...] ///"
+          "translated_text": "the field of <s>karma</s> (action), the seed, the arising-consciousness ... [...]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "(ar)[m](ak)ṣ(et)r(am) b(ījam) u(t)[p](at)t(icetas). .. .. .. .. .. .. .. .. .. .. .. ///",
+          "translated_text": " ///"
         },
         {
           "tag": "hi",
@@ -1547,10 +1538,7 @@
           },
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "?.. .. .. .. .. .. [ga]tena mārgge[ṇa] .. .. .. .. .. .. .. ..",
               "segment_number": 207,
               "translated_text": "? ... by the path that was taken ... ..."
@@ -1639,10 +1627,7 @@
           },
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "?.. .. .. .. .. .r. .. e .. ..",
               "segment_number": 218,
               "translated_text": "? ... ..."
@@ -1725,10 +1710,7 @@
           "translated_text": "[...] ///"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "children": [
             {
               "tag": "hi",
@@ -1823,10 +1805,7 @@
           },
           "children": [
             {
-              "tag": "hi",
-              "attributes": {
-                "rend": "bold"
-              },
+              "tag": "quote",
               "text": "? .. .. .. .. .. vyam iti a .. .. .. .. ..",
               "segment_number": 240,
               "translated_text": "? ... ... must be ... thus ... ..."
@@ -1978,13 +1957,15 @@
           "translated_text": "..."
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "[k]. .. .. ─ da .. .. ..",
+          "tag": "Subchapter",
+          "text": "k",
           "segment_number": 260,
           "translated_text": "... ... — ..."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": ". .. .. ─ da .. .. .."
         },
         {
           "tag": "text",
@@ -2062,10 +2043,7 @@
           "translated_text": "[...]"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "gaṇikā vi",
           "segment_number": 271,
           "translated_text": "courtesan (<s>gaṇikā</s>) ..."
@@ -2285,10 +2263,7 @@
           "translated_text": "— self-lord (<s>ātmeśvara</s>),"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "children": [
             {
               "tag": "hi",
@@ -2401,10 +2376,15 @@
           "translated_text": "(fragment 26)"
         },
         {
-          "tag": "text",
-          "text": "[pa]taye ─ maudga",
+          "tag": "Subchapter",
+          "text": "pa",
           "segment_number": 315,
           "translated_text": "to the lord (<s>pati</s>) — <s>Maudgalyāyana</s>,"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "taye ─ maudga"
         },
         {
           "tag": "hi",
@@ -2470,10 +2450,16 @@
           "translated_text": "(fragment 64)"
         },
         {
-          "tag": "text",
-          "text": "[k](a)[r](aṃ) ─ b(u)d(dh)a ─ s(v)āgataṃ .. ///",
+          "tag": "Subchapter",
+          "text": "k",
           "segment_number": 324,
-          "translated_text": "[...] — <s>Buddha</s> — Welcome! ... ///"
+          "translated_text": "..."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "(a)[r](aṃ) ─ b(u)d(dh)a ─ s(v)āgataṃ .. ///",
+          "translated_text": " — <s>Buddha</s> — Welcome! ... ///"
         },
         {
           "tag": "hi",
@@ -2524,10 +2510,15 @@
           "translated_text": "(fragment 64)"
         },
         {
-          "tag": "text",
-          "text": "[b]u[d]dh[aḥ] ─ u[p](a)[t](i)[ṣ]y(a) [y]. ///",
+          "tag": "Subchapter",
+          "text": "b",
           "segment_number": 331,
           "translated_text": "<s>Buddha</s> — <s>Upatiṣya</s> ... ///"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "u[d]dh[aḥ] ─ u[p](a)[t](i)[ṣ]y(a) [y]. ///"
         }
       ],
       "segment_number": 327,
@@ -2548,10 +2539,15 @@
           "translated_text": "(fragment 26)"
         },
         {
-          "tag": "text",
-          "text": "[d] (v)[i]śuddhasya ⟨⟨..⟩⟩ manaso",
+          "tag": "Subchapter",
+          "text": "d",
           "segment_number": 334,
           "translated_text": "of the purified mind,"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": " (v)[i]śuddhasya ⟨⟨..⟩⟩ manaso"
         },
         {
           "tag": "hi",
@@ -2671,10 +2667,15 @@
           "translated_text": "(fragment 119)"
         },
         {
-          "tag": "text",
-          "text": "[rda]vāgnipa",
+          "tag": "Subchapter",
+          "text": "rda",
           "segment_number": 350,
           "translated_text": "consumed by forest-fire,"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "vāgnipa"
         },
         {
           "tag": "hi",
@@ -2692,10 +2693,7 @@
           "translated_text": "as if enveloped, the blue"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "children": [
             {
               "tag": "hi",
@@ -2739,10 +2737,16 @@
           "translated_text": "(fragment 101)"
         },
         {
-          "tag": "text",
-          "text": "[ṣ]. t. sukhān[ā](ṃ) ///",
+          "tag": "Subchapter",
+          "text": "ṣ",
           "segment_number": 358,
-          "translated_text": "[...] of pleasures ... ///"
+          "translated_text": "..."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": ". t. sukhān[ā](ṃ) ///",
+          "translated_text": " of pleasures ... ///"
         },
         {
           "tag": "hi",
@@ -4244,10 +4248,7 @@
       "text": "SHT 16 fragment 69 (IDP SHT 16/)\nadditional fragment not edited by Lüders, here bold\nA1 /// (vi)dū ─ dukkarakar[e] ..\n2 ///",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": ".. .[e] .. .. ..",
           "segment_number": 570,
           "translated_text": "... ... ... ... ..."
@@ -4268,10 +4269,7 @@
       "text": "B1 ///",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": ".. y. [s]s. k. .. +",
           "segment_number": 573,
           "translated_text": "... ... ... ... +"
@@ -4964,13 +4962,15 @@
       "text": "SHT 16 fragment 94 (IDP SHT 16/94)\nfragment found under SHT 810 fragment 346 [cf. SHT X (Erg.)]\nA2, B1: The akṣaras",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "[ṣ](ṭa)",
+          "tag": "Subchapter",
+          "text": "ṣ",
           "segment_number": 672,
           "translated_text": "... [seen/ṣṭa]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "(ṭa)"
         },
         {
           "tag": "text",
@@ -4979,10 +4979,7 @@
           "translated_text": "and"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "du[ṣ](ṭa)",
           "segment_number": 674,
           "translated_text": "wicked (<s>duṣṭa</s>)"
@@ -5250,13 +5247,18 @@
       "text": "B1 /// .. [p]r(ā)[p]t(aca)",
       "children": [
         {
-          "tag": "hi",
+          "tag": "Subchapter",
           "attributes": {
             "rend": "it"
           },
-          "text": "[k]ṣu[r].",
+          "text": "k",
           "segment_number": 711,
           "translated_text": "razor ..."
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ṣu[r]."
         },
         {
           "tag": "text",
@@ -5288,19 +5290,30 @@
       "text": "2 ///",
       "children": [
         {
-          "tag": "hi",
+          "tag": "Subchapter",
           "attributes": {
             "rend": "it"
           },
-          "text": "[m]. t.ḥ",
+          "text": "m",
           "segment_number": 716,
           "translated_text": "... dead ..."
         },
         {
-          "tag": "text",
-          "text": "[k]e .ā .i + .. ///",
+          "tag": "p",
+          "attributes": {},
+          "text": ". t.ḥ"
+        },
+        {
+          "tag": "Subchapter",
+          "text": "k",
           "segment_number": 717,
-          "translated_text": "... [...] ///"
+          "translated_text": "... [...]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "e .ā .i + .. ///",
+          "translated_text": " ///"
         }
       ],
       "segment_number": 715,
@@ -5312,13 +5325,18 @@
       "text": "B1 ///",
       "children": [
         {
-          "tag": "hi",
+          "tag": "Subchapter",
           "attributes": {
             "rend": "it"
           },
-          "text": "[khal]u",
+          "text": "khal",
           "segment_number": 719,
           "translated_text": "indeed,"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "u"
         },
         {
           "tag": "text",
@@ -5529,10 +5547,15 @@
           "translated_text": "..."
         },
         {
-          "tag": "text",
-          "text": "[h]. ..\nB1 ///",
+          "tag": "Subchapter",
+          "text": "h",
           "segment_number": 749,
           "translated_text": "house ... B1 ///"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": ". ..\nB1 ///"
         },
         {
           "tag": "hi",
@@ -5608,10 +5631,7 @@
       "text": "SHT 57a + SHT 16 fragment 116 (in italics) (Lüders SBAW 1911, pp. 390f.: C1 (= Phil.Ind., pp. 192f.);\nrestored text according to SHT 16/26(+64+68+75+101+119+120); fol. .. .. (on recto)\nakṣaras in bold not read by Lüders\nr1 + + + + .y. + + + + .. c[ā]nnyadṛ[ṣ]ṭi[to] de[h]. + + (bud)dh(a ─) [u](patiṣya) /// + .. .. + + + + + + + + .. + + + +\n2 .. bhāvaḥ a[tha] + + + + + [ṣa]yā buddhitapasām ṛddhayaḥ // + + + + + + + + + + + + + + + + + + + + (ñ ca vāyoḥ) [ā]tme(śvaraddh)yānabalena kuryyur na yoginā[ṃ]\n3 duṣkaram asti (k)i(ñcit ─) [ś]āri ─ tasmād ātmasaṃ(s)ā(ra)sya ka + + + + + + + + + (buddhaḥ) [// u](patiṣ)y(a) .. + + + + [ry]yam utta(mav)āryyaṃ municaryyam avinivāryyavī\n4 ryyam āryam* [v]iga[ta] .. + + + bhayadaṃ śaraṇam a",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ha[m] a[ra] ..",
           "segment_number": 760,
           "translated_text": "... I ..."
@@ -5623,13 +5643,18 @@
           "translated_text": "[...]"
         },
         {
-          "tag": "hi",
+          "tag": "Subchapter",
           "attributes": {
             "rend": "it"
           },
-          "text": "[ma]ti ─ buddha ─ svāga[ta]ṃ",
+          "text": "ma",
           "segment_number": 762,
           "translated_text": "... — <s>Buddha</s> — Welcome!"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ti ─ buddha ─ svāga[ta]ṃ"
         },
         {
           "tag": "text",
@@ -5638,13 +5663,15 @@
           "translated_text": "[...] he shall be the helmsman of the ship of <s>Dharma</s>, the commander of the army of <s>Dharma</s> (<s>dharmasenāpati</s>). v1 <s>Maudgalyāyana</s> // Of the people blinded by delusion (<s>moha</s>), [he is] the one who gives sight; of the lost one,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "[ṃj]ñ[āk](a)[r].",
+          "tag": "Subchapter",
+          "text": "ṃj",
           "segment_number": 764,
           "translated_text": "the one who gives recognition,"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ñ[āk](a)[r]."
         },
         {
           "tag": "text",
@@ -5653,13 +5680,18 @@
           "translated_text": "[...]"
         },
         {
-          "tag": "hi",
+          "tag": "Subchapter",
           "attributes": {
             "rend": "it"
           },
-          "text": "[s]ya saṃvi[t]karam* mṛ",
+          "text": "s",
           "segment_number": 766,
           "translated_text": "the one who gives consciousness; of the dead,"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "ya saṃvi[t]karam* mṛ"
         },
         {
           "tag": "text",
@@ -5668,10 +5700,7 @@
           "translated_text": "[...] the one who establishes in knowledge (<s>jñāna</s>) — I salute [...] — <s>Śāri[putra]</s> — 2 the one who brings awakening ... good [...] — <s>Buddha</s> — Welcome,"
         },
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "ā[v]i[ne] vi ..",
           "segment_number": 768,
           "translated_text": "to the venerable one ..."
@@ -5683,13 +5712,18 @@
           "translated_text": "[...]"
         },
         {
-          "tag": "hi",
+          "tag": "Subchapter",
           "attributes": {
             "rend": "it"
           },
-          "text": "[ṛ]d[dh]ivikalpeśvarāya",
+          "text": "ṛ",
           "segment_number": 770,
           "translated_text": "to the lord of manifold supernatural powers (<s>ṛddhivikalpeśvara</s>),"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "d[dh]ivikalpeśvarāya"
         },
         {
           "tag": "text",
@@ -5707,10 +5741,7 @@
       "text": "SHT 57b\ned. Lüders SBAW 1911, p. 391: C2 (= Phil.Ind., pp. 193f.)\nrestored text according to SHT 16/26(+64+68+75+101+119+120)\nbold akṣara marks the beginning of the line\nr1 .. .. .. .. .. + + + + + + + + + + .. .. .. + + + + + + .. .. .. .. khi .. + + + + + + + + + + +\n2 (r davāgniparigatam i",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "va",
           "segment_number": 773,
           "translated_text": "as if"
@@ -5752,19 +5783,22 @@
       "text": "SHT 57c\ned. Lüders SBAW 1911, pp. 391f.: C4 (= Phil.Ind., pp. 194f.); fol. .. 7 (on recto)\noriginal in Museum für Asiatische Kunst (III 27); facsimile in Lüders SBAW 1911\nbold akṣara marks the beginning of a line\nr1 va .. .. nno bhāvāt* so .. [kṣi] .. y. .. nopā .. .. .. e[vaṃ hi] sati [i](da)[n] tu yat[n]ena jñā[yatāṃ] .. .. .. .. .. .. he ki(ñ)c. + .. + .. .. yy. .. .. na [hi] + + + .. .. .. .. .. .. .. +\n2 (śa)",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "rī",
           "segment_number": 779,
           "translated_text": "[the]"
         },
         {
-          "tag": "text",
-          "text": "[ra]nirmuktam ā[tma]sa[ṃ]jñakam buddhis[au]kṣmyaṃ tat* ─ sūkṣmatvāc caiva doṣāṇām avyāpārāc ca cetasaḥ (d)[⟨ī⟩](rghatvā)[d ā]yuṣaś caiva mokṣa(s tu) [pa]rikalpyate ─ śāri ─ (bhaga)van* asya dharmasya +\n3 .. .. .. thātma[#]grāhe sata @read sati@@ na naiṣṭhikī nirvṛttir @read nirvṛtir@@ bhavati nairātmyādarśanāc ca bhavati tadyathā [nadī]srotaso varttamāna[sya] pra[t]yu .. [śya] .e .. .. ddhya + (a)sminn uparate 'syo +\n4 .. prāptaṃ tac ca yathā nimnagatam bhavati tatrādau srota uparataṃ vinaṣ[ṭ]am iti [bhava]ti [evam a]s. .. .ā ..ṃ śarī[r]endriy. + buddhisrotaso varttamā[na](sya) bhagavatādhi[ga] +\n5 ve kalyaṃ kriyata tatkṛto 'hetukasya notpadyate bīj⟨o⟩daka⟨ṃ⟩ p[ṛ]thiv(ya)r(t).ṃ .ai .. .. .[eva]ṅ.. ..[ḥ] tasmin na .. .. .[ya]mān. .. .. .. .. + + + [a]smiṃ vi(naṣṭe mukta iti niścayaḥ kṛtaḥ)\nv1 karmmā @read karmma@@ kṣetram bījam utpatticetas tṛṣṇā kledacchādanañ cā[p]y [ava](ndh)ya(ṃ) [e](vaṃ lo)[k](aḥ) [s](as)y(a)[v](a)j j[ā]yamāno jñānāditye + + + + + + t. ─ [b](uddhaḥ ─) + (gatena mārgeṇa)",
+          "tag": "Subchapter",
+          "text": "ra",
           "segment_number": 780,
-          "translated_text": "... that which is called the self (<s>ātmasaṃjñaka</s>), freed from the body, is the subtlety of <s>buddhi</s> (intellect). 'Because of the subtlety of the faults, and because of the inactivity of the mind, and because of the length of lifespan, liberation (<s>mokṣa</s>) is conceived.' — <s>Śāriputra</s> — Blessed One, of this <s>dharma</s> ...\n3 ... when there is grasping of the self (<s>ātmagrāha</s>), there is no final cessation (<s>nirvṛti</s>); and from not seeing non-self (<s>nairātmya</s>), [suffering] arises. Just as of a river current that is flowing, the counter... when this ceases, of this ...\n4 ... that which has been attained, and just as it flows downward, therein the current having first ceased is said to be destroyed. Even so ... of the current of <s>buddhi</s> (intellect) and the sense organs, of the body, flowing — the Blessed One's realization ...\n5 ... that which is done for the sake of [liberation]; of that which is uncaused, [a new birth] does not arise. Seed, water, and earth are the purpose ... thus ... in that ... when this is destroyed, [the determination is made that one is] liberated."
+          "translated_text": "... that which is called the self (<s>ātmasaṃjñaka</s>), freed from the body, is the subtlety of <s>buddhi</s> (intellect). 'Because of the subtlety of the faults, and because of the inactivity of the mind, and because of the length of lifespan, liberation (<s>mokṣa</s>) is conceived.' — <s>Śāriputra</s> — Blessed One, of this <s>dharma</s> ...\n3 ... when there is grasping of the self (<s>ātmagrāha</s>), there is no final cessation (<s>nirvṛti</s>); and from not seeing non-self (<s>nairātmya</s>), [suffering]"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": "nirmuktam ā[tma]sa[ṃ]jñakam buddhis[au]kṣmyaṃ tat* ─ sūkṣmatvāc caiva doṣāṇām avyāpārāc ca cetasaḥ (d)[⟨ī⟩](rghatvā)[d ā]yuṣaś caiva mokṣa(s tu) [pa]rikalpyate ─ śāri ─ (bhaga)van* asya dharmasya +\n3 .. .. .. thātma[#]grāhe sata @read sati@@ na naiṣṭhikī nirvṛttir @read nirvṛtir@@ bhavati nairātmyādarśanāc ca bhavati tadyathā [nadī]srotaso varttamāna[sya] pra[t]yu .. [śya] .e .. .. ddhya + (a)sminn uparate 'syo +\n4 .. prāptaṃ tac ca yathā nimnagatam bhavati tatrādau srota uparataṃ vinaṣ[ṭ]am iti [bhava]ti [evam a]s. .. .ā ..ṃ śarī[r]endriy. + buddhisrotaso varttamā[na](sya) bhagavatādhi[ga] +\n5 ve kalyaṃ kriyata tatkṛto 'hetukasya notpadyate bīj⟨o⟩daka⟨ṃ⟩ p[ṛ]thiv(ya)r(t).ṃ .ai .. .. .[eva]ṅ.. ..[ḥ] tasmin na .. .. .[ya]mān. .. .. .. .. + + + [a]smiṃ vi(naṣṭe mukta iti niścayaḥ kṛtaḥ)\nv1 karmmā @read karmma@@ kṣetram bījam utpatticetas tṛṣṇā kledacchādanañ cā[p]y [ava](ndh)ya(ṃ) [e](vaṃ lo)[k](aḥ) [s](as)y(a)[v](a)j j[ā]yamāno jñānāditye + + + + + + t. ─ [b](uddhaḥ ─) + (gatena mārgeṇa)",
+          "translated_text": " arises. Just as of a river current that is flowing, the counter... when this ceases, of this ...\n4 ... that which has been attained, and just as it flows downward, therein the current having first ceased is said to be destroyed. Even so ... of the current of <s>buddhi</s> (intellect) and the sense organs, of the body, flowing — the Blessed One's realization ...\n5 ... that which is done for the sake of [liberation]; of that which is uncaused, [a new birth] does not arise. Seed, water, and earth are the purpose ... thus ... in that ... when this is destroyed, [the determination is made that one is] liberated."
         },
         {
           "tag": "lg",

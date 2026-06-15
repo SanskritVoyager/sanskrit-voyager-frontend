@@ -1,49 +1,499 @@
 {
-  "0": "Homage to all <s>Buddhas</s> and <s>Bodhisattvas</s>!",
-  "1": "<s>Viṃśatikākārikā</s> (Twenty Verses)",
-  "2": "This is <s>vijñaptimātra</s> (consciousness-only), because of the appearance of non-existent objects,",
-  "3": "just as a person with an eye-disease (<s>taimirika</s>) sees non-existent hairs, moons, and the like. (verse 1)",
-  "4": "If consciousness is without [real] objects, the regularity of place and time,",
-  "5": "the irregularity of the [perceiving] mental continuum, and functional efficacy would not be justified. (verse 2)",
-  "6": "Irregularity of place and the like is established as in a dream; and irregularity of the continuum, as in the case of <s>pretas</s> (hungry ghosts) —",
-  "7": "when all [of them] see rivers of pus and the like. (verse 3)",
-  "8": "Functional efficacy [is established] as in the harm caused by dreams; and as in hell —",
-  "9": "where all see the hell-guardians and the like and are tormented by them. (verse 4)",
-  "10": "Just as animals are [not] born in heaven, so too not in hell;",
-  "11": "not for the <s>pretas</s> [are they real beings], because they [the guardians] do not experience the suffering born from that [place]. (verse 5)",
-  "12": "If the arising of such [hell-guardian] beings there through <s>karma</s> (action) is accepted,",
-  "13": "why is transformation of consciousness not accepted [instead]? (verse 6)",
-  "14": "The <s>vāsanā</s> (latent impression) of the <s>karma</s> is in one place, the fruit is imagined in another;",
-  "15": "why is [the fruit] not accepted right there where the <s>vāsanā</s> is? What is the reason? (verse 7)",
-  "16": "The existence of the <s>āyatanas</s> (sense-bases) of form and the like was stated with respect to those beings to be guided,",
-  "17": "spoken intentionally, like [the reference to] spontaneously born (<s>upapāduka</s>) beings. (verse 8)",
-  "18": "Since consciousness (<s>vijñapti</s>) arises from its own seed (<s>svabīja</s>), appearing as whatever [object],",
-  "19": "the <s>Muni</s> (Sage) spoke of those [seeds and appearances] as its twofold <s>āyatanas</s> (sense-bases). (verse 9)",
-  "20": "Thus [is] the entry into the selflessness of persons (<s>pudgalanairātmya</s>);",
-  "21": "but the other teaching — the entry into the selflessness of <s>dharmas</s> (<s>dharmanairātmya</s>) — is through the imagined self (<s>kalpitātman</s>) [of dharmas]. (verse 10)",
-  "22": "That [external object] is neither one nor many; the object, [considered] atom by atom (<s>paramāṇuśas</s>), [does not exist];",
-  "23": "nor are they combined, because the atom (<s>paramāṇu</s>) is not established. (verse 11)",
-  "24": "Because of simultaneous conjunction with six [neighbors], the atom would have six parts;",
-  "25": "if the six share the same location, the aggregate would be merely atom-sized. (verse 12)",
-  "26": "If the atom has no conjunction, to what [component] does that aggregate belong?",
-  "27": "And conjunction is not established because of [the atom's] partlessness (<s>anavayavatva</s>). (verse 13)",
-  "28": "That which has division into directional parts (<s>digbhāgabheda</s>) cannot be one;",
-  "29": "otherwise, how would there be shadow and obstruction? And if there is no aggregate, these do not belong to it. (verse 14)",
-  "30": "If [atoms are] one, there would be no gradual movement, no simultaneous apprehension and non-apprehension,",
-  "31": "no separated manifold activity, and no perception of subtle [atoms]. (verse 15)",
-  "32": "Perceptual cognition (<s>pratyakṣabuddhi</s>), as in dreams and the like — that [cognition occurs],",
-  "33": "yet at that time, that object is not seen [to exist]; how then is its perceptual character maintained? (verse 16)",
-  "34": "As stated, consciousness appears as that [object]; memory arises therefrom.",
-  "35": "In a dream, one who has not awakened does not understand the absence of the visual object. (verse 17)",
-  "36": "By mutual dominant causation (<s>anyonyādhipatitva</s>), there is mutual regularity of consciousness.",
-  "37": "The mind impaired by torpor (<s>middha</s>) in a dream — therefore its fruit is unequal [to waking]. (verse 18)",
-  "38": "Death [is caused] by the transformation due to the distinctive influence of another's consciousness,",
-  "39": "just as the loss of memory and the like of others [is caused] by the mental power of <s>piśācas</s> (spirits) and the like. (verse 19)",
-  "40": "How else [is] the emptying of the <s>Daṇḍaka</s> forest through the anger of sages [explained]?",
-  "41": "How else is the great fault of mental punishment (<s>manodaṇḍa</s>) established thereby? (verse 20)",
-  "42": "How is the knowledge of those who know others' minds not fully accurate? Just as",
-  "43": "knowledge of one's own mind [is limited] because of ignorance; [perfect knowledge] is the domain of the <s>Buddha</s>. (verse 21)",
-  "44": "This establishment of <s>vijñaptimātratā</s> (consciousness-only), commensurate with my own ability,",
-  "45": "has been made by me; but that [full reality] in all its aspects is inconceivable — it is the domain of the <s>Buddha</s>. (verse 22)",
-  "46": "The <s>Viṃśatikākārikā</s> (Twenty Verses) is completed."
+  "file_title": "viṃśatikākārikā",
+  "file_title_normal": "vimsatikakarika",
+  "metadata": {
+    "original_title": "Viṃśatikākārikā",
+    "contributors": [
+      {
+        "role": "data entry",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "contribution to GRETIL",
+        "name": "members of the Digital Sanskrit Buddhist Canon Input Project",
+        "when": ""
+      },
+      {
+        "role": "initial normalization and conversion to legacy GRETIL formats",
+        "name": "Reinhold Grünendahl",
+        "when": ""
+      },
+      {
+        "role": "normalization and conversion to TEI-conformant markup",
+        "name": "Maximilian Mehner",
+        "when": ""
+      }
+    ],
+    "publisher": "Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen",
+    "license": {
+      "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+      "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    },
+    "publication_date": "2020-07-31",
+    "source": "Ramshankar Tripathi: Vijnaptimatratasiddhi prakarana dvayam. Varanasi : Sampurnananda Sanskrit University, 1992."
+  },
+  "body": [
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// namaḥ sarvabuddhabodhisattvebhyaḥ //",
+      "segment_number": 1,
+      "translated_text": "Homage to all <s>Buddhas</s> and <s>Bodhisattvas</s>!"
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "Viṃśatikākārikā (Vk)",
+      "segment_number": 2,
+      "translated_text": "<s>Viṃśatikākārikā</s> (Twenty Verses)"
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñaptimātramevaitadasadarthāvabhāsanāt /",
+          "segment_number": 3,
+          "translated_text": "This is <s>vijñaptimātra</s> (consciousness-only), because of the appearance of non-existent objects,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yathā taimirikasyāsatkeśacandrādidarśanam || 1 ||",
+          "segment_number": 4,
+          "translated_text": "just as a person with an eye-disease (<s>taimirika</s>) sees non-existent hairs, moons, and the like. (verse 1)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi vijñaptiranarthā niyamo deśakālayoḥ /",
+          "segment_number": 5,
+          "translated_text": "If consciousness is without [real] objects, the regularity of place and time,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santānasyāniyamaśca yuktā kṛtyakriyā na ca || 2 ||",
+          "segment_number": 6,
+          "translated_text": "the irregularity of the [perceiving] mental continuum, and functional efficacy would not be justified. (verse 2)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "deśādiuniyamaḥ siddhaḥ svapnavat pretavat punaḥ /",
+          "segment_number": 7,
+          "translated_text": "Irregularity of place and the like is established as in a dream; and irregularity of the continuum, as in the case of <s>pretas</s> (hungry ghosts) —"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "santānāniyamaḥ sarvaiḥ pūyanadyādidarśane || 3 ||",
+          "segment_number": 8,
+          "translated_text": "when all [of them] see rivers of pus and the like. (verse 3)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapnopaghātavat kṛtyakriyā narakavat punaḥ /",
+          "segment_number": 9,
+          "translated_text": "Functional efficacy [is established] as in the harm caused by dreams; and as in hell —"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "sarvaṃ narakapālādidarśane taiśca bādhane || 4 ||",
+          "segment_number": 10,
+          "translated_text": "where all see the hell-guardians and the like and are tormented by them. (verse 4)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tiraścāṃ sambhavaḥ svarge yathā na narake tathā /",
+          "segment_number": 11,
+          "translated_text": "Just as animals are [not] born in heaven, so too not in hell;"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na pretānāṃ yatastajjaṃ duḥkhaṃ nānubhavanti te || 5 ||",
+          "segment_number": 12,
+          "translated_text": "not for the <s>pretas</s> [are they real beings], because they [the guardians] do not experience the suffering born from that [place]. (verse 5)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yadi tatkarmabhistatra bhūtānāṃ sambhavastathā /",
+          "segment_number": 13,
+          "translated_text": "If the arising of such [hell-guardian] beings there through <s>karma</s> (action) is accepted,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "iṣyate pariṇāmaśca kiṃ vijñānasya neṣyate || 6 ||",
+          "segment_number": 14,
+          "translated_text": "why is transformation of consciousness not accepted [instead]? (verse 6)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "karmaṇo vāsanānyatra phalamanyatra kalpyate /",
+          "segment_number": 15,
+          "translated_text": "The <s>vāsanā</s> (latent impression) of the <s>karma</s> is in one place, the fruit is imagined in another;"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tatraiva neṣyate yatra vāsanā kiṃ nu kāraṇam || 7 ||",
+          "segment_number": 16,
+          "translated_text": "why is [the fruit] not accepted right there where the <s>vāsanā</s> is? What is the reason? (verse 7)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "rūpādyāyatanāstitvaṃ tadvineyajanaṃ prati /",
+          "segment_number": 17,
+          "translated_text": "The existence of the <s>āyatanas</s> (sense-bases) of form and the like was stated with respect to those beings to be guided,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "abhiprāyavaśāduktamupapādukasattvavat || 8 ||",
+          "segment_number": 18,
+          "translated_text": "spoken intentionally, like [the reference to] spontaneously born (<s>upapāduka</s>) beings. (verse 8)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "yataḥ svabījād vijñaptiryadābhāsā pravartate /",
+          "segment_number": 19,
+          "translated_text": "Since consciousness (<s>vijñapti</s>) arises from its own seed (<s>svabīja</s>), appearing as whatever [object],"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "dvividhāyatanatvena te tasyā munirabravīt || 9 ||",
+          "segment_number": 20,
+          "translated_text": "the <s>Muni</s> (Sage) spoke of those [seeds and appearances] as its twofold <s>āyatanas</s> (sense-bases). (verse 9)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "tathā pudgalanairātmyapraveśo hi hyanyathā punaḥ /",
+          "segment_number": 21,
+          "translated_text": "Thus [is] the entry into the selflessness of persons (<s>pudgalanairātmya</s>);"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "deśanā dharmanairātmyapraveśaḥ kalpitātmanā || 10 ||",
+          "segment_number": 22,
+          "translated_text": "but the other teaching — the entry into the selflessness of <s>dharmas</s> (<s>dharmanairātmya</s>) — is through the imagined self (<s>kalpitātman</s>) [of dharmas]. (verse 10)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na tadekaṃ na cānekaṃ viṣayaḥ paramāṇuśaḥ /",
+          "segment_number": 23,
+          "translated_text": "That [external object] is neither one nor many; the object, [considered] atom by atom (<s>paramāṇuśas</s>), [does not exist];"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na ca te saṃhatā yasmāt paramāṇurna sidhyati || 11 ||",
+          "segment_number": 24,
+          "translated_text": "nor are they combined, because the atom (<s>paramāṇu</s>) is not established. (verse 11)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṭkena yugapadyogāt paramāṇoḥ ṣaḍaṃśatā /",
+          "segment_number": 25,
+          "translated_text": "Because of simultaneous conjunction with six [neighbors], the atom would have six parts;"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ṣaṇṇāṃ samānadeśatvāt piṇḍaḥ syādaṇumātrakaḥ || 12 ||",
+          "segment_number": 26,
+          "translated_text": "if the six share the same location, the aggregate would be merely atom-sized. (verse 12)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paramāṇorasaṃyoge tatsaṅghāte 'sti kasya saḥ /",
+          "segment_number": 27,
+          "translated_text": "If the atom has no conjunction, to what [component] does that aggregate belong?"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na cānavayavatvena tatsaṃyogo na sidhyati || 13 ||",
+          "segment_number": 28,
+          "translated_text": "And conjunction is not established because of [the atom's] partlessness (<s>anavayavatva</s>). (verse 13)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "digbhāgabhedo yasyāsti tasyaikatvaṃ na yujyate /",
+          "segment_number": 29,
+          "translated_text": "That which has division into directional parts (<s>digbhāgabheda</s>) cannot be one;"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "chāyāvṛtī kathaṃ vānyo na piṇḍaścenna tasya te || 14 ||",
+          "segment_number": 30,
+          "translated_text": "otherwise, how would there be shadow and obstruction? And if there is no aggregate, these do not belong to it. (verse 14)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "ekatve na krameṇetiryugapanna grahāgrahau /",
+          "segment_number": 31,
+          "translated_text": "If [atoms are] one, there would be no gradual movement, no simultaneous apprehension and non-apprehension,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vicchinnānekavṛttiśca sūkṣmānīkṣā ca no bhavet || 15 ||",
+          "segment_number": 32,
+          "translated_text": "no separated manifold activity, and no perception of subtle [atoms]. (verse 15)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "pratyakṣabuddhiḥ svapnādau yathā sā ca yadā tadā /",
+          "segment_number": 33,
+          "translated_text": "Perceptual cognition (<s>pratyakṣabuddhi</s>), as in dreams and the like — that [cognition occurs],"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "na so 'rtho dṛśyate tasya pratyakṣatvaṃ kathaṃ matam || 16 ||",
+          "segment_number": 34,
+          "translated_text": "yet at that time, that object is not seen [to exist]; how then is its perceptual character maintained? (verse 16)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "uktaṃ yathā tadābhāsā vijñaptiḥ smaraṇaṃ tataḥ /",
+          "segment_number": 35,
+          "translated_text": "As stated, consciousness appears as that [object]; memory arises therefrom."
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svapne dṛgviṣayābhāvaṃ nāprabuddho 'vagacchati || 17 ||",
+          "segment_number": 36,
+          "translated_text": "In a dream, one who has not awakened does not understand the absence of the visual object. (verse 17)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "anyonyādhipatitvena vijñaptiniyamo mithaḥ /",
+          "segment_number": 37,
+          "translated_text": "By mutual dominant causation (<s>anyonyādhipatitva</s>), there is mutual regularity of consciousness."
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "middhenopahataṃ cittaṃ svapne tenāsamaṃ phalam || 18 ||",
+          "segment_number": 38,
+          "translated_text": "The mind impaired by torpor (<s>middha</s>) in a dream — therefore its fruit is unequal [to waking]. (verse 18)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "maraṇaṃ paravijñaptiviśeṣād vikriyā yathā /",
+          "segment_number": 39,
+          "translated_text": "Death [is caused] by the transformation due to the distinctive influence of another's consciousness,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "smṛtilopādikānyeṣāṃ piśācādimanovaśāt || 19 ||",
+          "segment_number": 40,
+          "translated_text": "just as the loss of memory and the like of others [is caused] by the mental power of <s>piśācas</s> (spirits) and the like. (verse 19)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kathaṃ vā daṇḍakāraṇyaśūnyatvamṛṣikopataḥ /",
+          "segment_number": 41,
+          "translated_text": "How else [is] the emptying of the <s>Daṇḍaka</s> forest through the anger of sages [explained]?"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "manodaṇḍo mahāvadyaḥ kathaṃ vā tena sidhyati || 20 ||",
+          "segment_number": 42,
+          "translated_text": "How else is the great fault of mental punishment (<s>manodaṇḍa</s>) established thereby? (verse 20)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "paracittavidāṃ jñānamayathārthaṃ kathaṃ yathā /",
+          "segment_number": 43,
+          "translated_text": "How is the knowledge of those who know others' minds not fully accurate? Just as"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "svacittajñānamajñānād yathā buddhasya gocaraḥ || 21 ||",
+          "segment_number": 44,
+          "translated_text": "knowledge of one's own mind [is limited] because of ignorance; [perfect knowledge] is the domain of the <s>Buddha</s>. (verse 21)"
+        }
+      ]
+    },
+    {
+      "tag": "lg",
+      "attributes": {},
+      "children": [
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "vijñaptimātratāsiddhiḥ svaśaktisadṛśī mayā /",
+          "segment_number": 45,
+          "translated_text": "This establishment of <s>vijñaptimātratā</s> (consciousness-only), commensurate with my own ability,"
+        },
+        {
+          "tag": "l",
+          "attributes": {},
+          "text": "kṛteyaṃ sarvathā sā tu na cintyā buddhagocaraḥ || 22 ||",
+          "segment_number": 46,
+          "translated_text": "has been made by me; but that [full reality] in all its aspects is inconceivable — it is the domain of the <s>Buddha</s>. (verse 22)"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "// viṃśatikākārikāḥ samāptāḥ //",
+      "segment_number": 47,
+      "translated_text": "The <s>Viṃśatikākārikā</s> (Twenty Verses) is completed."
+    }
+  ]
 }

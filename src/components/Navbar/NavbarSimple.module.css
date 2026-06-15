@@ -2,12 +2,7 @@
   height: 100%;
   transition: min-width 0.4s ease; /* Adjust the duration and easing as needed */
   width: 100%;
-  position: fixed;
   overflow-y: auto;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
   z-index: 120;
 
   @media (max-width: 1000px) {
@@ -26,14 +21,110 @@
   border-right: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
   position: relative;
   /* z-index: 500;  */
-  background-color: var(--mantine-color-body); 
-  
-   
+  background-color: var(--mantine-color-body);
+
+  /* Desktop & tablet (navbar is a fixed 350px column): render as a detached
+     floating card. Mobile (<=660px, 100vw) stays edge-to-edge, unchanged.
+     Placed after the base declarations so these win the cascade when matched. */
+  @media (min-width: 661px) {
+    box-sizing: border-box;
+    margin: 12px;
+    width: calc(100% - 24px);
+    height: calc(100% - 24px);
+    border: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+    border-radius: var(--mantine-radius-md);
+    /* Light mode: bg = page body, so child controls (e.g. the SegmentedControl
+       track/indicator) keep their intended contrast. Dark mode: one step
+       lighter than the default dark input bg (dark-6), so the card reads as an
+       elevated surface and the inputs sit recessed against it without
+       recoloring the inputs themselves. */
+    background-color: light-dark(var(--mantine-color-lightscale-2), var(--mantine-color-dark-6));
+    box-shadow:
+      var(--mantine-shadow-md),
+      0 0 0 0.5px rgba(134, 142, 150, 0.15);
+    overflow: hidden;
+    overflow-y: auto;
+  }
+}
+
+/* Dark-mode shadow ring (rgba can't pass through light-dark()).
+   Mirrors the AdvancedSearch .optionsContainer precedent. */
+[data-mantine-color-scheme="dark"] .navbar {
+  @media (min-width: 661px) {
+    box-shadow:
+      0 0.25rem 1.25rem rgba(0, 0, 0, 0.035),
+      0 0 0 0.5px rgba(214, 211, 209, 0.3);
+  }
 }
 
 
 .navbarMain {
   flex: 1;
+}
+
+/* Brand header (title + logo) at the top of the panel. Title on the left,
+   logo pushed to the upper-right corner via space-between. A subtle
+   separation line under it mirrors the footer's border. */
+.navbarHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding-bottom: var(--mantine-spacing-sm);
+  margin-bottom: var(--mantine-spacing-md);
+  border-bottom: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+}
+
+/* Tablet seam (661–768px): the content area isn't offset by the 56px fixed
+   header yet in this band, so clear it here. Mobile (<=660px) already shifts
+   the navbar down; desktop (>=769px) is offset by the content container. */
+@media (min-width: 661px) and (max-width: 768px) {
+  .navbarHeader {
+    padding-top: 40px;
+  }
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+  color: light-dark(var(--mantine-color-dark-9), var(--mantine-color-dark-0));
+  flex-shrink: 0;
+}
+
+/* Custom brand title: Libertinus, non-bold. Separation handled by the
+   header's border-bottom, not a text underline. */
+.brandTitle {
+  font-family: 'LibertinusSans', sans-serif;
+  font-size: var(--mantine-font-size-lg);
+  font-weight: 400;
+  line-height: 1;
+  color: light-dark(var(--mantine-color-gray-8), var(--mantine-color-gray-1));
+}
+
+/* Footer pinned to the bottom (navbarMain flex:1 pushes it down), with a
+   subtle separation line above the links. space-evenly distributes equal
+   space between AND around the links, so the left/right edge padding matches
+   the inter-link spacing (no column gap, which would shrink the edges). */
+.navbarFooter {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  row-gap: var(--mantine-spacing-sm);
+  padding-top: var(--mantine-spacing-sm);
+  border-top: rem(1px) solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+}
+
+.footerLink {
+  text-decoration: none;
+  font-size: var(--mantine-font-size-sm);
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-dark-1));
+  transition: color 0.2s ease;
+}
+
+.footerLink:hover {
+  color: light-dark(var(--mantine-color-coolOrange-6), var(--mantine-color-coolOrange-4));
+  text-decoration: underline;
 }
 
 

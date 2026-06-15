@@ -44,7 +44,7 @@ interface AdvancedSearchProps {
   advancedSearchResults: SearchResult | null;
   setAdvancedSearchResults: (results: SearchResult | null) => void;
   onSearch: (params: any) => void;
-  onOpenText?: (textId: string, title: string) => void;
+  onOpenText?: (textId: string, title: string, segmentNumber?: number) => void;
   isMobile: boolean | undefined;
   setTargetSegmentNumber: (segmentNumber: number) => void;
   query: string;
@@ -213,7 +213,7 @@ function AdvancedSearch({
       }
       // console.log('matched_segments', matchedBookSegments);
       setTargetSegmentNumber(segmentNumber || 0);
-      onOpenText(textId, title);
+      onOpenText(textId, title, segmentNumber);
       handleAdvancedSearch.close();
       // console.log(segmentNumber);
       isMobile ? setIsNavbarVisible(false) : null;

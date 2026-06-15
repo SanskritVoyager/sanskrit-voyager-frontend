@@ -35,17 +35,11 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Vaidya 90"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Vaidya_90",
+        "label": "Vaidya 90"
+      }
     },
     {
       "tag": "p",
@@ -53,10 +47,7 @@
       "text": "naya - dvyardhaśatikā - ardhaśatikādyaparaparyāyā",
       "children": [
         {
-          "tag": "l",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Adhyardhaśatikā prajñāpāramitā |",
           "segment_number": 2,
           "translated_text": "<s>Adhyardhaśatikā Prajñāpāramitā</s> (The Perfection of Wisdom in One Hundred and Fifty [Lines])"
@@ -99,10 +90,7 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Adhś, Vaidya 91",
           "segment_number": 8,
           "translated_text": "[Reference: Adhś, Vaidya p. 91]"
@@ -165,10 +153,7 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Adhś, Vaidya 92",
           "segment_number": 17,
           "translated_text": "[Adhś, Vaidya 92]"

@@ -3,7 +3,6 @@ import {
   Badge,
   ActionIcon,
   Group,
-  Burger,
   rem,
   OptionsFilter,
   ComboboxItem,
@@ -12,12 +11,17 @@ import {
   Tooltip,
   Button,
 } from '@mantine/core';
-import { useDisclosure, useDebouncedState, useHotkeys } from '@mantine/hooks';
-import { IconSearch, IconListSearch, IconMessageCircle } from '@tabler/icons-react';
+import { useDebouncedState, useHotkeys } from '@mantine/hooks';
+import {
+  IconSearch,
+  IconListSearch,
+  IconMessageCircle,
+  IconLayoutSidebarLeftCollapse,
+  IconLayoutSidebarLeftExpand,
+} from '@tabler/icons-react';
 import classes from './HeaderSearch.module.css';
 import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
 import React, { useState, useEffect, useRef } from 'react';
-import Logo from '../../utils/logo';
 import SearchToggle from './AdvancedSearchToggle';
 import SearchHighlightToggle from './SearchHighlightToggle';
 
@@ -64,7 +68,6 @@ export function HeaderSearch({
   onToggleInPageSearch?: () => void;
   bookTitle?: string | null;
 }) {
-  const [opened, { toggle }] = useDisclosure(isNavbarVisible);
   const [entries, setEntries] = useState([]);
   const [filteredData, setFilteredData] = useState<string[]>([]);
   const [value, setValue] = useDebouncedState('', 600);
@@ -155,35 +158,23 @@ export function HeaderSearch({
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group gap={isMobile ? 'xs' : 'md'}>
-          <Burger
-            opened={isNavbarVisible}
-            onClick={() => {
-              toggle();
-              onToggleNavbar();
-            }}
-            size={isMobile ? 'sm' : 'sm'}
-            classNames={{
-              root: classes.burgerRoot,
-              burger: classes.burgerBurger,
-            }}
-          />
-
-          <Tooltip label="Open documentation" position="bottom">
-            <a
-              href="/docs"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                textDecoration: 'none',
-                display: 'flex', // Add this
-                alignItems: 'center', // Add this
-                height: '100%', // Add this for consistent height
-                lineHeight: 0, // Remove any line-height issues
-                padding: 0, // Remove any default padding
-              }}
+          <Tooltip label={isNavbarVisible ? 'Hide panel' : 'Show panel'} position="bottom">
+            <ActionIcon
+              className={classes.navbarToggle}
+              onClick={onToggleNavbar}
+              variant="default"
+              size={isMobile ? 'md' : 'lg'}
+              aria-label={isNavbarVisible ? 'Hide panel' : 'Show panel'}
             >
-              <Logo className={classes.logoSanskrit} />
-            </a>
+              {isNavbarVisible ? (
+                <IconLayoutSidebarLeftCollapse
+                  className={classes.navbarToggleIcon}
+                  stroke={1.5}
+                />
+              ) : (
+                <IconLayoutSidebarLeftExpand className={classes.navbarToggleIcon} stroke={1.5} />
+              )}
+            </ActionIcon>
           </Tooltip>
 
           <ActionToggle />
@@ -196,31 +187,7 @@ export function HeaderSearch({
           )}
         </Group>
 
-        <Group grow preventGrowOverflow={false} wrap="nowrap" className={classes.groupContainer}>
-          <Group
-            grow
-            preventGrowOverflow={false}
-            wrap="nowrap"
-            gap={5}
-            className={classes.links}
-            visibleFrom="sm"
-          >
-            {items}
-            {/*<Tooltip label="Provide feedback" position="bottom">
-              <Button
-                component="a"
-                href="https://forms.gle/tsMiRceuVK5c42MT7"
-                target="_blank"
-                rel="noopener noreferrer"
-                variant="subtle"
-                leftSection={<IconMessageCircle size={16} />}
-                className={classes.feedbackButton}
-                size="sm"
-              >
-                Feedback
-              </Button>
-            </Tooltip> */}
-          </Group>
+        <Group preventGrowOverflow={false} wrap="nowrap" className={classes.groupContainer}>
           <Autocomplete
             className={classes.search}
             rightSection={

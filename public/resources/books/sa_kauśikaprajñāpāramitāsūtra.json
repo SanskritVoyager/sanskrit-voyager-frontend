@@ -35,23 +35,14 @@
   },
   "body": [
     {
-      "tag": "note",
-      "attributes": {},
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Vaidya 95"
-        }
-      ]
+      "tag": "lg",
+      "attributes": {
+        "id": "Vaidya_95",
+        "label": "Vaidya 95"
+      }
     },
     {
-      "tag": "l",
-      "attributes": {
-        "rend": "bold"
-      },
+      "tag": "quote",
       "text": "Kauśikaprajñāpāramitāsūtram |",
       "segment_number": 1,
       "translated_text": "<s>Kauśikaprajñāpāramitāsūtra</s> (The Sūtra on the Perfection of Wisdom for <s>Kauśika</s>)"
@@ -104,10 +95,7 @@
       "text": "(",
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Kauś, Vaidya 96",
           "segment_number": 9,
           "translated_text": "[Reference: Kauś, Vaidya p. 96]"

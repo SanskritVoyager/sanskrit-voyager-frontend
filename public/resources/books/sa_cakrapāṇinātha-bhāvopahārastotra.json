@@ -53,15 +53,15 @@
       "tag": "p",
       "attributes": {},
       "text": "Q: akṛtvā mānasaṃ yāgaṃ",
-      "children": [
-        {
-          "tag": "note",
-          "attributes": {},
-          "text": "SvaTa 3.32c"
-        }
-      ],
       "segment_number": 3,
       "translated_text": "[Quotation:] 'Without performing the mental sacrifice (<s>mānasa-yāga</s>)'"
+    },
+    {
+      "tag": "lg",
+      "attributes": {
+        "id": "SvaTa_3.32c",
+        "label": "SvaTa 3.32c"
+      }
     },
     {
       "tag": "p",
@@ -73,17 +73,24 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_1"
+        "id": "CakBhst_1",
+        "label": "CakBhst 1"
       },
       "children": [
         {
-          "tag": "l",
+          "tag": "Subchapter",
           "attributes": {
             "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_1ab"
           },
-          "text": "[oṃ] namaḥ sūryakalājāla&kāladehāpahāriṇe",
+          "text": "oṃ",
           "segment_number": 5,
-          "translated_text": "[<s>Oṃ</s>] Homage to the one who steals away the body of Time through the net of solar rays (<s>sūrya-kalā-jāla</s>),"
+          "translated_text": "<s>Oṃ</s>"
+        },
+        {
+          "tag": "p",
+          "attributes": {},
+          "text": " namaḥ sūryakalājāla&kāladehāpahāriṇe",
+          "translated_text": " Homage to the one who steals away the body of Time through the net of solar rays (<s>sūrya-kalā-jāla</s>),"
         },
         {
           "tag": "l",
@@ -148,7 +155,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_2"
+        "id": "CakBhst_2",
+        "label": "CakBhst 2"
       },
       "children": [
         {
@@ -249,7 +257,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_3"
+        "id": "CakBhst_3",
+        "label": "CakBhst 3"
       },
       "children": [
         {
@@ -310,7 +319,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_4"
+        "id": "CakBhst_4",
+        "label": "CakBhst 4"
       },
       "children": [
         {
@@ -336,7 +346,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_5"
+        "id": "CakBhst_5",
+        "label": "CakBhst 5"
       },
       "children": [
         {
@@ -397,7 +408,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_6"
+        "id": "CakBhst_6",
+        "label": "CakBhst 6"
       },
       "children": [
         {
@@ -437,7 +449,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_7"
+        "id": "CakBhst_7",
+        "label": "CakBhst 7"
       },
       "children": [
         {
@@ -491,7 +504,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_8"
+        "id": "CakBhst_8",
+        "label": "CakBhst 8"
       },
       "children": [
         {
@@ -524,7 +538,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_9"
+        "id": "CakBhst_9",
+        "label": "CakBhst 9"
       },
       "children": [
         {
@@ -557,7 +572,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_10"
+        "id": "CakBhst_10",
+        "label": "CakBhst 10"
       },
       "children": [
         {
@@ -590,7 +606,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_11"
+        "id": "CakBhst_11",
+        "label": "CakBhst 11"
       },
       "children": [
         {
@@ -623,7 +640,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_12"
+        "id": "CakBhst_12",
+        "label": "CakBhst 12"
       },
       "children": [
         {
@@ -656,7 +674,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_13"
+        "id": "CakBhst_13",
+        "label": "CakBhst 13"
       },
       "children": [
         {
@@ -689,7 +708,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_14"
+        "id": "CakBhst_14",
+        "label": "CakBhst 14"
       },
       "children": [
         {
@@ -722,7 +742,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_15"
+        "id": "CakBhst_15",
+        "label": "CakBhst 15"
       },
       "children": [
         {
@@ -769,7 +790,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_16"
+        "id": "CakBhst_16",
+        "label": "CakBhst 16"
       },
       "children": [
         {
@@ -802,7 +824,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_17"
+        "id": "CakBhst_17",
+        "label": "CakBhst 17"
       },
       "children": [
         {
@@ -835,7 +858,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_18"
+        "id": "CakBhst_18",
+        "label": "CakBhst 18"
       },
       "children": [
         {
@@ -889,7 +913,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_19"
+        "id": "CakBhst_19",
+        "label": "CakBhst 19"
       },
       "children": [
         {
@@ -922,7 +947,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_20"
+        "id": "CakBhst_20",
+        "label": "CakBhst 20"
       },
       "children": [
         {
@@ -955,7 +981,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_21"
+        "id": "CakBhst_21",
+        "label": "CakBhst 21"
       },
       "children": [
         {
@@ -988,7 +1015,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_22"
+        "id": "CakBhst_22",
+        "label": "CakBhst 22"
       },
       "children": [
         {
@@ -1021,7 +1049,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_23"
+        "id": "CakBhst_23",
+        "label": "CakBhst 23"
       },
       "children": [
         {
@@ -1054,7 +1083,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_24"
+        "id": "CakBhst_24",
+        "label": "CakBhst 24"
       },
       "children": [
         {
@@ -1087,7 +1117,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_25"
+        "id": "CakBhst_25",
+        "label": "CakBhst 25"
       },
       "children": [
         {
@@ -1142,7 +1173,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_26"
+        "id": "CakBhst_26",
+        "label": "CakBhst 26"
       },
       "children": [
         {
@@ -1175,7 +1207,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_27"
+        "id": "CakBhst_27",
+        "label": "CakBhst 27"
       },
       "children": [
         {
@@ -1208,7 +1241,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_28"
+        "id": "CakBhst_28",
+        "label": "CakBhst 28"
       },
       "children": [
         {
@@ -1241,7 +1275,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_29"
+        "id": "CakBhst_29",
+        "label": "CakBhst 29"
       },
       "children": [
         {
@@ -1301,7 +1336,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_30"
+        "id": "CakBhst_30",
+        "label": "CakBhst 30"
       },
       "children": [
         {
@@ -1362,7 +1398,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_31"
+        "id": "CakBhst_31",
+        "label": "CakBhst 31"
       },
       "children": [
         {
@@ -1395,7 +1432,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_32"
+        "id": "CakBhst_32",
+        "label": "CakBhst 32"
       },
       "children": [
         {
@@ -1428,7 +1466,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_33"
+        "id": "CakBhst_33",
+        "label": "CakBhst 33"
       },
       "children": [
         {
@@ -1493,7 +1532,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_34"
+        "id": "CakBhst_34",
+        "label": "CakBhst 34"
       },
       "children": [
         {
@@ -1526,7 +1566,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_35"
+        "id": "CakBhst_35",
+        "label": "CakBhst 35"
       },
       "children": [
         {
@@ -1559,7 +1600,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_36"
+        "id": "CakBhst_36",
+        "label": "CakBhst 36"
       },
       "children": [
         {
@@ -1592,7 +1634,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_37"
+        "id": "CakBhst_37",
+        "label": "CakBhst 37"
       },
       "children": [
         {
@@ -1625,7 +1668,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_38"
+        "id": "CakBhst_38",
+        "label": "CakBhst 38"
       },
       "children": [
         {
@@ -1658,7 +1702,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_39"
+        "id": "CakBhst_39",
+        "label": "CakBhst 39"
       },
       "children": [
         {
@@ -1691,7 +1736,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_40"
+        "id": "CakBhst_40",
+        "label": "CakBhst 40"
       },
       "children": [
         {
@@ -1724,7 +1770,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_41"
+        "id": "CakBhst_41",
+        "label": "CakBhst 41"
       },
       "children": [
         {
@@ -1771,7 +1818,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_42"
+        "id": "CakBhst_42",
+        "label": "CakBhst 42"
       },
       "children": [
         {
@@ -1804,7 +1852,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_43"
+        "id": "CakBhst_43",
+        "label": "CakBhst 43"
       },
       "children": [
         {
@@ -1837,7 +1886,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_44"
+        "id": "CakBhst_44",
+        "label": "CakBhst 44"
       },
       "children": [
         {
@@ -1870,7 +1920,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_45"
+        "id": "CakBhst_45",
+        "label": "CakBhst 45"
       },
       "children": [
         {
@@ -1957,7 +2008,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_46"
+        "id": "CakBhst_46",
+        "label": "CakBhst 46"
       },
       "children": [
         {
@@ -1990,7 +2042,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "{http://www.w3.org/XML/1998/namespace}id": "CakBhst_47"
+        "id": "CakBhst_47",
+        "label": "CakBhst 47"
       },
       "children": [
         {

@@ -39,10 +39,7 @@
       "attributes": {},
       "children": [
         {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
+          "tag": "quote",
           "text": "Hayagrīvavidyā",
           "segment_number": 1,
           "translated_text": "<s>Hayagrīvavidyā</s> (The Spell of Hayagrīva)"
@@ -66,50 +63,46 @@
     {
       "tag": "p",
       "attributes": {},
-      "text": "om tarula tarula vitarula vitarula sarvaviṣaghātaka jvalitavisphuliṅgāṭṭahāsa kesarāṭopapravṛddhavega vajrakhuranirghātaka calitavasudhātala niḥsvasitahasitamārutotkṣiptadharaṇīdhara parabhṛtagaṇasamūhavikṣobhaṇakara paravidyāsaṃbhakṣaṇakara sarvagrāhotsādanakara paramaśāntikarasarvagrahapraśamanakara budhya budhya dhāva dhāva ca bhagavā hayagrīva khāda khāda paramaṃtrām / rakṣa rakṣa kṣamasva kṣamasva sa mayābhihitāṃ mantrām / siddhiṃ me diśadiśa āviśa āviśa / ghorapiśāca sarvagraheṣvapratihato mama varavajradaṃṣṭra kiṃ cirāpayasi / idaṃ duṣṭagrahaṃ duṣṭasattvaṃ duṣṭapiśācaṃ vā dhuna dhuna vidhuna vidhuna kampa kampa matha matha pramatha pramatha / tathāgatājñāṃ pālaya buddhadharmasaṃghānujñātaṃ me karma śīghraṃ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Hgv 44",
-          "segment_number": 5,
-          "translated_text": "Hgv 44"
-        },
-        {
-          "tag": "text",
-          "text": ") kuru kuru mā vilamba / hayagrīvāya phaṭ vajrakhurāya phaṭ vajradaṃṣṭrāya phaṭ vajradaṃṣṭrotkaṭabhayabhairavāya phaṭ / paravidyāsaṃbhakṣaṇāya phaṭ / paramantravināśakāya phaṭ / sarvagrahotsādakāya phaṭ / sarvaviṣaghātakāya phaṭ / sarvagraheṣvapratihatāya phaṭ / vaḍavāmukhāya phaṭ / sarvagrahapiśācān me vaśamānaya / yāvanto mamaye kecitahitaiṣiṇastān sarvān vaḍavāmukhena nikṛntaya phaṭ / namo nama āryāvalokiteśvarāya bodhisattvāya mahāsattvāya / sidhyantu mama maṃtrapadā hayagrīvo bhagavān ājñāpayati svāhā /",
-          "segment_number": 6,
-          "translated_text": ") do, do! Do not delay! To <s>Hayagrīva</s>, <s>phaṭ</s>! To the <s>vajra</s>-hooved one, <s>phaṭ</s>! To the <s>vajra</s>-fanged one, <s>phaṭ</s>! To the terrifyingly fierce one with protruding <s>vajra</s>-fangs, <s>phaṭ</s>! To the devourer of hostile <s>vidyās</s>, <s>phaṭ</s>! To the destroyer of enemy <s>mantras</s>, <s>phaṭ</s>! To the eradicator of all <s>grahas</s>, <s>phaṭ</s>! To the destroyer of all poisons, <s>phaṭ</s>! To the one unobstructed among all <s>grahas</s>, <s>phaṭ</s>! To the mare-faced one, <s>phaṭ</s>! Bring all <s>graha</s>-<s>piśācas</s> (seizing spirits) under my control! As many as there are who wish me harm — cut them all down with the mare's mouth, <s>phaṭ</s>! Homage, homage to the noble <s>Avalokiteśvara</s>, the <s>Bodhisattva</s>, the <s>Mahāsattva</s>! May my <s>mantra</s>-words be accomplished! The blessed <s>Hayagrīva</s> commands! <s>Svāhā</s>!"
-        }
-      ],
+      "text": "om tarula tarula vitarula vitarula sarvaviṣaghātaka jvalitavisphuliṅgāṭṭahāsa kesarāṭopapravṛddhavega vajrakhuranirghātaka calitavasudhātala niḥsvasitahasitamārutotkṣiptadharaṇīdhara parabhṛtagaṇasamūhavikṣobhaṇakara paravidyāsaṃbhakṣaṇakara sarvagrāhotsādanakara paramaśāntikarasarvagrahapraśamanakara budhya budhya dhāva dhāva ca bhagavā hayagrīva khāda khāda paramaṃtrām / rakṣa rakṣa kṣamasva kṣamasva sa mayābhihitāṃ mantrām / siddhiṃ me diśadiśa āviśa āviśa / ghorapiśāca sarvagraheṣvapratihato mama varavajradaṃṣṭra kiṃ cirāpayasi / idaṃ duṣṭagrahaṃ duṣṭasattvaṃ duṣṭapiśācaṃ vā dhuna dhuna vidhuna vidhuna kampa kampa matha matha pramatha pramatha / tathāgatājñāṃ pālaya buddhadharmasaṃghānujñātaṃ me karma śīghraṃ",
       "segment_number": 4,
-      "translated_text": "<s>Oṃ tarula tarula vitarula vitarula</s>! O destroyer of all poisons! O one with blazing, sparking, thunderous laughter! O one whose mane swells with surging force! O crusher with <s>vajra</s>-hooves! O shaker of the surface of the earth! O one whose exhalations and laughter are winds that lift up the mountains! O one who agitates the host of hostile <s>bhṛta</s>-beings! O devourer of hostile <s>vidyās</s> (spells)! O eradicator of all <s>graha</s> (malign seizures)! O supreme peacemaker and pacifier of all <s>grahas</s>! Awaken, awaken! Rush, rush, O blessed <s>Hayagrīva</s>! Devour, devour the enemy <s>mantras</s>! Protect, protect! Be patient, be patient with the <s>mantra</s> spoken by me! Grant me <s>siddhi</s> (accomplishment), grant! Enter, enter! O terrible <s>piśāca</s> (flesh-eating spirit), among all <s>grahas</s> you are unobstructed! O one with supreme <s>vajra</s>-fangs, why do you delay? This wicked <s>graha</s>, this wicked being, this wicked <s>piśāca</s> — shake, shake! Violently shake, violently shake! Tremble, tremble! Crush, crush! Thoroughly crush, thoroughly crush! Uphold the command of the <s>Tathāgata</s>! The task sanctioned by the <s>Buddha</s>, <s>Dharma</s>, and <s>Saṃgha</s> — quickly ("
+      "translated_text": "<s>Oṃ tarula tarula vitarula vitarula</s>! O destroyer of all poisons! O one with blazing, sparking, thunderous laughter! O one whose mane swells with surging force! O crusher with <s>vajra</s>-hooves! O shaker of the surface of the earth! O one whose exhalations and laughter are winds that lift up the mountains! O one who agitates the host of hostile <s>bhṛta</s>-beings! O devourer of hostile <s>vidyās</s> (spells)! O eradicator of all <s>graha</s> (malign seizures)! O supreme peacemaker and pacifier of all <s>grahas</s>! Awaken, awaken! Rush, rush, O blessed <s>Hayagrīva</s>! Devour, devour the enemy <s>mantras</s>! Protect, protect! Be patient, be patient with the <s>mantra</s> spoken by me! Grant me <s>siddhi</s> (accomplishment), grant! Enter, enter! O terrible <s>piśāca</s> (flesh-eating spirit), among all <s>grahas</s> you are unobstructed! O one with supreme <s>vajra</s>-fangs, why do you delay? This wicked <s>graha</s>, this wicked being, this wicked <s>piśāca</s> — shake, shake! Violently shake, violently shake! Tremble, tremble! Crush, crush! Thoroughly crush, thoroughly crush! Uphold the command of the <s>Tathāgata</s>! The task sanctioned by the <s>Buddha</s>, <s>Dharma</s>, and <s>Saṃgha</s> — quickly"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 5,
+      "attributes": {
+        "id": "Hgv_44",
+        "label": "Hgv 44"
+      }
     },
     {
       "tag": "p",
       "attributes": {},
-      "text": "ayaṃ hayagrīvavidyā rājā paṭhitasiddhaḥ upacāraḥ ātmarakṣājāpena pararakṣā paṃcaraṃgīsūtram ekaviṃśatigranthayaḥ kṛtvā bandhitavyam / yāvajīvaṃ rakṣā kṛtā bhavati / ḍāinīgrahagṛhītasya pratikṛtiṃ kṛtvā piṇḍaśastreṇa chettavyā / sarvaparakṛtā maṃtrāśchinnā bhavanti sarvaśatravastambhanaṃ manasā vyavahāre svakham mukhe kṛtvā vidyā japtayā uttarāyati / spṛṣṭāveśaneṣusnātaṃ śucivastraprāvṛtaṃ śucau pradeśe sumanasāsaṃbaddhā āveśaye śuklavaliryathālaṃbhena / candragrahe sūryagrahe ghṛtaṃ tāmrabhājane kṛtvā tāvajjepadyāvaccandro mukto bhavati taṃ ghṛtaṃ pive medhāvī bhavati ekenoddeśena ślokaśatamudgṛṇhāti / padmāṃ juhe ghṛtamakṣayaṃ bhavati / atha sādhitumicchet / candanamayaṃ lokeśvarapratimā kartavyā / dakṣiṇenāryavajradharaḥ / vāmenāryāvalokiteśvaraḥ (",
-      "children": [
-        {
-          "tag": "hi",
-          "attributes": {
-            "rend": "bold"
-          },
-          "text": "Hgv 45",
-          "segment_number": 8,
-          "translated_text": "Hgv 45"
-        },
-        {
-          "tag": "text",
-          "text": ") trimūrtiḥ kāryaḥ / sarvopari vaḍavāmukhaḥ paravidyāsaṃbhakṣaṇaḥ / tasyāgrataḥ ayaṃ hayagrīvavidyārājam aṣṭasahasraṃ japet / tataḥ sarvakarmāṇi kuryāt / spṛṣṭāveśanaṃ gugguladhūpena / satatajāpena sarvakāryasiddhirbhavati / sarvaḍāinī dṛṣṭamātrā vaśībhavati / bhasmanā sarṣapeṇa udakena sapta japtena rakṣā kartavyā / sīmābandhaḥ kṛto bhavati / sarvamudrāmokṣaṇam udakena vaśīkaraṇaṃ phalapuṣpādyaiḥ / ayaṃ paṭhitasiddhaḥ / asādhita eva sarvakarmāṇi kurute // 0 //",
-          "segment_number": 9,
-          "translated_text": "[One should construct] a <s>trimūrti</s> (triple form of the deity); above all [others stands] <s>Vaḍavāmukha</s> (the mare-faced one), who consumes the highest knowledge (<s>paravidyā</s>; before him, one should recite this <s>Hayagrīvavidyārāja</s> (the sovereign <s>vidyā</s> of <s>Hayagrīva</s>) eight thousand times; thereafter one should perform all ritual acts; [one should perform] <s>spṛṣṭāveśana</s> (anointing the touched image) with incense of <s>guggula</s> (bdellium resin); by constant <s>jāpa</s> (repetition), success in all undertakings comes about; every <s>ḍākinī</s> (female spirit) is brought under control by mere sight; with ashes, mustard seeds, and water consecrated seven times by recitation, a protective rite should be performed; a <s>sīmābandha</s> (boundary seal) is thereby established; liberation of all <s>mudrās</s> (seals/gestures) [is achieved] through water, [and] subjugation through fruits, flowers, and other [offerings]; this [<s>vidyā</s>] is perfected by [mere] recitation; even without prior ritual preparation it accomplishes all ritual acts."
-        }
-      ],
+      "text": "kuru kuru mā vilamba / hayagrīvāya phaṭ vajrakhurāya phaṭ vajradaṃṣṭrāya phaṭ vajradaṃṣṭrotkaṭabhayabhairavāya phaṭ / paravidyāsaṃbhakṣaṇāya phaṭ / paramantravināśakāya phaṭ / sarvagrahotsādakāya phaṭ / sarvaviṣaghātakāya phaṭ / sarvagraheṣvapratihatāya phaṭ / vaḍavāmukhāya phaṭ / sarvagrahapiśācān me vaśamānaya / yāvanto mamaye kecitahitaiṣiṇastān sarvān vaḍavāmukhena nikṛntaya phaṭ / namo nama āryāvalokiteśvarāya bodhisattvāya mahāsattvāya / sidhyantu mama maṃtrapadā hayagrīvo bhagavān ājñāpayati svāhā /",
+      "translated_text": "do, do! Do not delay! To <s>Hayagrīva</s>, <s>phaṭ</s>! To the <s>vajra</s>-hooved one, <s>phaṭ</s>! To the <s>vajra</s>-fanged one, <s>phaṭ</s>! To the terrifyingly fierce one with protruding <s>vajra</s>-fangs, <s>phaṭ</s>! To the devourer of hostile <s>vidyās</s>, <s>phaṭ</s>! To the destroyer of enemy <s>mantras</s>, <s>phaṭ</s>! To the eradicator of all <s>grahas</s>, <s>phaṭ</s>! To the destroyer of all poisons, <s>phaṭ</s>! To the one unobstructed among all <s>grahas</s>, <s>phaṭ</s>! To the mare-faced one, <s>phaṭ</s>! Bring all <s>graha</s>-<s>piśācas</s> (seizing spirits) under my control! As many as there are who wish me harm — cut them all down with the mare's mouth, <s>phaṭ</s>! Homage, homage to the noble <s>Avalokiteśvara</s>, the <s>Bodhisattva</s>, the <s>Mahāsattva</s>! May my <s>mantra</s>-words be accomplished! The blessed <s>Hayagrīva</s> commands! <s>Svāhā</s>!",
+      "segment_number": 6
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "ayaṃ hayagrīvavidyā rājā paṭhitasiddhaḥ upacāraḥ ātmarakṣājāpena pararakṣā paṃcaraṃgīsūtram ekaviṃśatigranthayaḥ kṛtvā bandhitavyam / yāvajīvaṃ rakṣā kṛtā bhavati / ḍāinīgrahagṛhītasya pratikṛtiṃ kṛtvā piṇḍaśastreṇa chettavyā / sarvaparakṛtā maṃtrāśchinnā bhavanti sarvaśatravastambhanaṃ manasā vyavahāre svakham mukhe kṛtvā vidyā japtayā uttarāyati / spṛṣṭāveśaneṣusnātaṃ śucivastraprāvṛtaṃ śucau pradeśe sumanasāsaṃbaddhā āveśaye śuklavaliryathālaṃbhena / candragrahe sūryagrahe ghṛtaṃ tāmrabhājane kṛtvā tāvajjepadyāvaccandro mukto bhavati taṃ ghṛtaṃ pive medhāvī bhavati ekenoddeśena ślokaśatamudgṛṇhāti / padmāṃ juhe ghṛtamakṣayaṃ bhavati / atha sādhitumicchet / candanamayaṃ lokeśvarapratimā kartavyā / dakṣiṇenāryavajradharaḥ / vāmenāryāvalokiteśvaraḥ",
       "segment_number": 7,
-      "translated_text": "This <s>Hayagrīvavidyā</s> (Spell of Hayagrīva) is the king (of spells), perfected through recitation. The ritual procedure is as follows: through the <s>jāpa</s> (recitation) for self-protection, (one achieves) protection of others. A <s>pañcaraṅgīsūtra</s> (five-colored thread) should be tied with twenty-one knots; protection is established for as long as one lives. For one seized by a <s>ḍākinī-graha</s> (witch-seizure), an effigy should be made and cut with a sharp instrument. All enemy <s>mantras</s> are severed. For the paralysis of all enemies, having mentally (uttered the spell) in one's dealings and placed one's own hand on the mouth, one should recite the <s>vidyā</s> (spell), and it will rise up (in power). For those afflicted by touch or possession, (the person) having bathed, clad in clean garments, in a clean place, bound with flowers, should be subjected to possession (exorcism) with white offerings as appropriate. During a lunar or solar eclipse, having placed clarified butter in a copper vessel, one should recite (the spell) as long as the moon remains eclipsed; one who drinks that clarified butter becomes intelligent and can memorize a hundred verses at a single hearing. If one makes an offering with <s>padma</s> (lotus), the clarified butter becomes inexhaustible. Now, if one wishes to accomplish (the practice): an image of <s>Lokeśvara</s> (Lord of the World) should be made of sandalwood. On the right, the noble <s>Vajradhara</s>; on the left, the noble <s>Avalokiteśvara</s> ("
+      "translated_text": "This <s>Hayagrīvavidyā</s> (Spell of Hayagrīva) is the king (of spells), perfected through recitation. The ritual procedure is as follows: through the <s>jāpa</s> (recitation) for self-protection, (one achieves) protection of others. A <s>pañcaraṅgīsūtra</s> (five-colored thread) should be tied with twenty-one knots; protection is established for as long as one lives. For one seized by a <s>ḍākinī-graha</s> (witch-seizure), an effigy should be made and cut with a sharp instrument. All enemy <s>mantras</s> are severed. For the paralysis of all enemies, having mentally (uttered the spell) in one's dealings and placed one's own hand on the mouth, one should recite the <s>vidyā</s> (spell), and it will rise up (in power). For those afflicted by touch or possession, (the person) having bathed, clad in clean garments, in a clean place, bound with flowers, should be subjected to possession (exorcism) with white offerings as appropriate. During a lunar or solar eclipse, having placed clarified butter in a copper vessel, one should recite (the spell) as long as the moon remains eclipsed; one who drinks that clarified butter becomes intelligent and can memorize a hundred verses at a single hearing. If one makes an offering with <s>padma</s> (lotus), the clarified butter becomes inexhaustible. Now, if one wishes to accomplish (the practice): an image of <s>Lokeśvara</s> (Lord of the World) should be made of sandalwood. On the right, the noble <s>Vajradhara</s>; on the left, the noble <s>Avalokiteśvara</s>"
+    },
+    {
+      "tag": "lg",
+      "segment_number": 8,
+      "attributes": {
+        "id": "Hgv_45",
+        "label": "Hgv 45"
+      }
+    },
+    {
+      "tag": "p",
+      "attributes": {},
+      "text": "trimūrtiḥ kāryaḥ / sarvopari vaḍavāmukhaḥ paravidyāsaṃbhakṣaṇaḥ / tasyāgrataḥ ayaṃ hayagrīvavidyārājam aṣṭasahasraṃ japet / tataḥ sarvakarmāṇi kuryāt / spṛṣṭāveśanaṃ gugguladhūpena / satatajāpena sarvakāryasiddhirbhavati / sarvaḍāinī dṛṣṭamātrā vaśībhavati / bhasmanā sarṣapeṇa udakena sapta japtena rakṣā kartavyā / sīmābandhaḥ kṛto bhavati / sarvamudrāmokṣaṇam udakena vaśīkaraṇaṃ phalapuṣpādyaiḥ / ayaṃ paṭhitasiddhaḥ / asādhita eva sarvakarmāṇi kurute // 0 //",
+      "translated_text": "[One should construct] a <s>trimūrti</s> (triple form of the deity); above all [others stands] <s>Vaḍavāmukha</s> (the mare-faced one), who consumes the highest knowledge (<s>paravidyā</s>; before him, one should recite this <s>Hayagrīvavidyārāja</s> (the sovereign <s>vidyā</s> of <s>Hayagrīva</s>) eight thousand times; thereafter one should perform all ritual acts; [one should perform] <s>spṛṣṭāveśana</s> (anointing the touched image) with incense of <s>guggula</s> (bdellium resin); by constant <s>jāpa</s> (repetition), success in all undertakings comes about; every <s>ḍākinī</s> (female spirit) is brought under control by mere sight; with ashes, mustard seeds, and water consecrated seven times by recitation, a protective rite should be performed; a <s>sīmābandha</s> (boundary seal) is thereby established; liberation of all <s>mudrās</s> (seals/gestures) [is achieved] through water, [and] subjugation through fruits, flowers, and other [offerings]; this [<s>vidyā</s>] is perfected by [mere] recitation; even without prior ritual preparation it accomplishes all ritual acts.",
+      "segment_number": 9
     }
   ]
 }

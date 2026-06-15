@@ -38,7 +38,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_1"
+        "id": "Saul_1",
+        "label": "Saul 1"
       },
       "children": [
         {
@@ -52,7 +53,8 @@
                 "n": "a"
               },
               "text": "śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃ",
-              "segment_number": 1
+              "segment_number": 1,
+              "translated_text": "<s>Śiva</s>, only when united with <s>Śakti</s>, becomes capable of creating;"
             },
             {
               "tag": "seg",
@@ -61,7 +63,8 @@
                 "n": "b"
               },
               "text": "na ced evaṃ devo na khalu kuśalaḥ spanditum api",
-              "segment_number": 2
+              "segment_number": 2,
+              "translated_text": "otherwise, the God is indeed not able even to stir."
             }
           ]
         },
@@ -76,7 +79,8 @@
                 "n": "c"
               },
               "text": "atas tvām ārādhyāṃ hariharavirañcyādibhir api",
-              "segment_number": 3
+              "segment_number": 3,
+              "translated_text": "Therefore, You who are worshipped even by <s>Hari</s>, <s>Hara</s>, <s>Virañci</s> and others—"
             },
             {
               "tag": "seg",
@@ -85,12 +89,14 @@
                 "n": "d"
               },
               "text": "praṇantuṃ stotuṃ vā katham akṛtapuṇyaḥ prabhavati",
-              "segment_number": 4
+              "segment_number": 4,
+              "translated_text": "how can one who has not acquired merit be capable of saluting or praising You?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 5
+              "segment_number": 5,
+              "translated_text": "//"
             }
           ]
         }
@@ -158,7 +164,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_2"
+        "id": "Saul_2",
+        "label": "Saul 2"
       },
       "children": [
         {
@@ -172,7 +179,8 @@
                 "n": "a"
               },
               "text": "tanīyāṃsaṃ pāṃsuṃ tava caraṇapaṅkeruhabhavaṃ",
-              "segment_number": 6
+              "segment_number": 6,
+              "translated_text": "Gathering the finest dust born from the lotus of Your feet,"
             },
             {
               "tag": "seg",
@@ -181,7 +189,8 @@
                 "n": "b"
               },
               "text": "virañciḥ saṃcinvan viracayati lokān avikalam",
-              "segment_number": 7
+              "segment_number": 7,
+              "translated_text": "<s>Virañci</s> (Brahmā) fashions the worlds without deficiency;"
             }
           ]
         },
@@ -196,7 +205,8 @@
                 "n": "c"
               },
               "text": "vahaty enaṃ śauriḥ katham api sahasreṇa śirasāṃ",
-              "segment_number": 8
+              "segment_number": 8,
+              "translated_text": "<s>Śauri</s> (Viṣṇu) bears this [dust] somehow upon his thousand heads;"
             },
             {
               "tag": "seg",
@@ -205,12 +215,14 @@
                 "n": "d"
               },
               "text": "haraḥ saṃkṣubhyainaṃ bhajati bhasitoddhūlanavidhim",
-              "segment_number": 9
+              "segment_number": 9,
+              "translated_text": "<s>Hara</s> (Śiva), pulverizing it, performs the rite of smearing himself with ashes."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 10
+              "segment_number": 10,
+              "translated_text": "//"
             }
           ]
         }
@@ -278,7 +290,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_3"
+        "id": "Saul_3",
+        "label": "Saul 3"
       },
       "children": [
         {
@@ -292,7 +305,8 @@
                 "n": "a"
               },
               "text": "avidyānām antastimiramihiradvīpanagarī",
-              "segment_number": 11
+              "segment_number": 11,
+              "translated_text": "For those steeped in ignorance, a sun-city dispelling the inner darkness;"
             },
             {
               "tag": "seg",
@@ -301,7 +315,8 @@
                 "n": "b"
               },
               "text": "jaḍānāṃ caitanyastabakamakarandasrutijharī",
-              "segment_number": 12
+              "segment_number": 12,
+              "translated_text": "for the dull-witted, a cascading stream of nectar from the cluster of consciousness;"
             }
           ]
         },
@@ -316,7 +331,8 @@
                 "n": "c"
               },
               "text": "daridrāṇāṃ cintāmaṇiguṇanikā janmajaladhau",
-              "segment_number": 13
+              "segment_number": 13,
+              "translated_text": "for the destitute, a chain of <s>cintāmaṇi</s> (wish-fulfilling) gems; for those drowning in the ocean of birth,"
             },
             {
               "tag": "seg",
@@ -325,12 +341,14 @@
                 "n": "d"
               },
               "text": "nimagnānāṃ daṃṣṭrā muraripuvarāhasya bhavatī",
-              "segment_number": 14
+              "segment_number": 14,
+              "translated_text": "You, O Goddess, are the tusk of <s>Murāri's</s> (Viṣṇu's) boar-form."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 15
+              "segment_number": 15,
+              "translated_text": "//"
             }
           ]
         }
@@ -398,7 +416,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_4"
+        "id": "Saul_4",
+        "label": "Saul 4"
       },
       "children": [
         {
@@ -412,7 +431,8 @@
                 "n": "a"
               },
               "text": "tvadanyaḥ pāṇibhyām abhayavarado daivatagaṇas",
-              "segment_number": 16
+              "segment_number": 16,
+              "translated_text": "Other hosts of deities grant refuge and boons with their hands;"
             },
             {
               "tag": "seg",
@@ -421,7 +441,8 @@
                 "n": "b"
               },
               "text": "tvam ekā naivāsi prakaṭitavarābhītyabhinayā",
-              "segment_number": 17
+              "segment_number": 17,
+              "translated_text": "You alone do not display the gestures of granting boons and fearlessness."
             }
           ]
         },
@@ -436,7 +457,8 @@
                 "n": "c"
               },
               "text": "bhayāt trātuṃ dātuṃ phalam api ca vāñchāsamadhikaṃ",
-              "segment_number": 18
+              "segment_number": 18,
+              "translated_text": "To protect from fear and to grant fruit exceeding desire—"
             },
             {
               "tag": "seg",
@@ -445,12 +467,14 @@
                 "n": "d"
               },
               "text": "śaraṇye lokānāṃ tava hi caraṇāv eva nipuṇau",
-              "segment_number": 19
+              "segment_number": 19,
+              "translated_text": "O refuge of the worlds, Your two feet alone are skilled in these, indeed."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 20
+              "segment_number": 20,
+              "translated_text": "//"
             }
           ]
         }
@@ -518,7 +542,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_5"
+        "id": "Saul_5",
+        "label": "Saul 5"
       },
       "children": [
         {
@@ -532,7 +557,8 @@
                 "n": "a"
               },
               "text": "haris tvām ārādhya praṇatajanasaubhāgyajananīṃ",
-              "segment_number": 21
+              "segment_number": 21,
+              "translated_text": "<s>Hari</s>, having worshipped You, O Mother of good fortune for those who bow,"
             },
             {
               "tag": "seg",
@@ -541,7 +567,8 @@
                 "n": "b"
               },
               "text": "purā nārī bhūtvā puraripum api kṣobham anayat",
-              "segment_number": 22
+              "segment_number": 22,
+              "translated_text": "formerly became a woman and brought even the Destroyer of Cities (<s>Śiva</s>) to agitation."
             }
           ]
         },
@@ -556,7 +583,8 @@
                 "n": "c"
               },
               "text": "smaro 'pi tvāṃ natvā ratinayanalehyena vapuṣā",
-              "segment_number": 23
+              "segment_number": 23,
+              "translated_text": "<s>Smara</s> (Kāma) too, having bowed to You, with a body delectable to <s>Rati's</s> eyes,"
             },
             {
               "tag": "seg",
@@ -565,12 +593,14 @@
                 "n": "d"
               },
               "text": "munīnām apy antaḥ prabhavati hi mohāya mahatām",
-              "segment_number": 24
+              "segment_number": 24,
+              "translated_text": "prevails in deluding even the minds of great sages."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 25
+              "segment_number": 25,
+              "translated_text": "//"
             }
           ]
         }
@@ -638,7 +668,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_6"
+        "id": "Saul_6",
+        "label": "Saul 6"
       },
       "children": [
         {
@@ -652,7 +683,8 @@
                 "n": "a"
               },
               "text": "dhanuḥ pauṣpaṃ maurvī madhukaramayī pañca viśikhā",
-              "segment_number": 26
+              "segment_number": 26,
+              "translated_text": "His bow is of flowers, his bowstring of bees, his five arrows [of blossoms],"
             },
             {
               "tag": "seg",
@@ -661,7 +693,8 @@
                 "n": "b"
               },
               "text": "vasantaḥ sāmanto malayamarudāyodhanarathaḥ",
-              "segment_number": 27
+              "segment_number": 27,
+              "translated_text": "Spring is his general, the Malaya breeze his war-chariot—"
             }
           ]
         },
@@ -676,7 +709,8 @@
                 "n": "c"
               },
               "text": "tathāpy ekaḥ sarvaṃ himagirisute kām api kṛpāṃ",
-              "segment_number": 28
+              "segment_number": 28,
+              "translated_text": "yet alone he conquers all this [world], O Daughter of the Snow Mountain, having obtained"
             },
             {
               "tag": "seg",
@@ -685,12 +719,14 @@
                 "n": "d"
               },
               "text": "apāṅgāt te labdhvā jagad idam anaṅgo vijayate",
-              "segment_number": 29
+              "segment_number": 29,
+              "translated_text": "some inexplicable grace from Your sidelong glance— <s>Anaṅga</s> (the Bodiless One) triumphs."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 30
+              "segment_number": 30,
+              "translated_text": "//"
             }
           ]
         }
@@ -758,7 +794,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_7"
+        "id": "Saul_7",
+        "label": "Saul 7"
       },
       "children": [
         {
@@ -772,7 +809,8 @@
                 "n": "a"
               },
               "text": "kvaṇatkāñcīdāmā karikalabhakumbhastanabharā",
-              "segment_number": 31
+              "segment_number": 31,
+              "translated_text": "With a tinkling girdle of gold, with breasts heavy as the frontal globes of a young elephant,"
             },
             {
               "tag": "seg",
@@ -781,7 +819,8 @@
                 "n": "b"
               },
               "text": "parikṣīṇā madhye pariṇataśaraccandravadanā",
-              "segment_number": 32
+              "segment_number": 32,
+              "translated_text": "slender at the waist, with a face like the full autumn moon,"
             }
           ]
         },
@@ -796,7 +835,8 @@
                 "n": "c"
               },
               "text": "dhanur bāṇān pāśaṃ sṛṇim api dadhānā karatalaiḥ",
-              "segment_number": 33
+              "segment_number": 33,
+              "translated_text": "holding bow, arrows, noose, and goad in Her hands—"
             },
             {
               "tag": "seg",
@@ -805,12 +845,14 @@
                 "n": "d"
               },
               "text": "purastād āstāṃ naḥ puramathitur āhopuruṣikā",
-              "segment_number": 34
+              "segment_number": 34,
+              "translated_text": "may the heroic splendor of the Destroyer of Cities (<s>Śiva</s>) [i.e., His consort <s>Tripurasundarī</s>] stand before us."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 35
+              "segment_number": 35,
+              "translated_text": "//"
             }
           ]
         }
@@ -878,7 +920,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_8"
+        "id": "Saul_8",
+        "label": "Saul 8"
       },
       "children": [
         {
@@ -892,7 +935,8 @@
                 "n": "a"
               },
               "text": "sudhāsindhor madhye suraviṭapivāṭīparivṛte",
-              "segment_number": 36
+              "segment_number": 36,
+              "translated_text": "In the midst of the ocean of nectar, surrounded by groves of celestial trees,"
             },
             {
               "tag": "seg",
@@ -901,7 +945,8 @@
                 "n": "b"
               },
               "text": "maṇidvīpe nīpopavanavati cintāmaṇigṛhe",
-              "segment_number": 37
+              "segment_number": 37,
+              "translated_text": "on the Jewel Island, in a grove of <s>kadamba</s> trees, within a palace of <s>cintāmaṇi</s> gems,"
             }
           ]
         },
@@ -916,7 +961,8 @@
                 "n": "c"
               },
               "text": "śivākāre mañce paramaśivaparyaṅkanilayāṃ",
-              "segment_number": 38
+              "segment_number": 38,
+              "translated_text": "upon a couch in the form of <s>Śiva</s>, reclining on Supreme <s>Śiva</s> as Your seat—"
             },
             {
               "tag": "seg",
@@ -925,12 +971,14 @@
                 "n": "d"
               },
               "text": "bhajanti tvāṃ dhanyāḥ kati cana cidānandalaharīm",
-              "segment_number": 39
+              "segment_number": 39,
+              "translated_text": "the fortunate few worship You, the Wave of Consciousness-Bliss."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 40
+              "segment_number": 40,
+              "translated_text": "//"
             }
           ]
         }
@@ -998,7 +1046,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_9"
+        "id": "Saul_9",
+        "label": "Saul 9"
       },
       "children": [
         {
@@ -1012,7 +1061,8 @@
                 "n": "a"
               },
               "text": "mahīṃ mūlādhāre kam api maṇipūre hutavahaṃ",
-              "segment_number": 41
+              "segment_number": 41,
+              "translated_text": "Earth in the <s>Mūlādhāra</s>, water in the <s>Maṇipūra</s>, fire"
             },
             {
               "tag": "seg",
@@ -1021,7 +1071,8 @@
                 "n": "b"
               },
               "text": "sthitaṃ svādhiṣṭhāne hṛdi marutam ākāśam upari",
-              "segment_number": 42
+              "segment_number": 42,
+              "translated_text": "established in <s>Svādhiṣṭhāna</s>, wind in the heart, space above,"
             }
           ]
         },
@@ -1036,7 +1087,8 @@
                 "n": "c"
               },
               "text": "mano 'pi bhrūmadhye sakalam api bhittvā kulapathaṃ",
-              "segment_number": 43
+              "segment_number": 43,
+              "translated_text": "mind too between the brows—having pierced the entire <s>kulapatha</s> (path of the Kuṇḍalinī),"
             },
             {
               "tag": "seg",
@@ -1045,12 +1097,14 @@
                 "n": "d"
               },
               "text": "sahasrāre padme saha rahasi patyā viharasi",
-              "segment_number": 44
+              "segment_number": 44,
+              "translated_text": "You sport with Your Lord in secret in the thousand-petaled lotus."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 45
+              "segment_number": 45,
+              "translated_text": "//"
             }
           ]
         }
@@ -1118,7 +1172,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_10"
+        "id": "Saul_10",
+        "label": "Saul 10"
       },
       "children": [
         {
@@ -1132,7 +1187,8 @@
                 "n": "a"
               },
               "text": "sudhādhārāsāraiś caraṇayugalāntarvigalitaiḥ",
-              "segment_number": 46
+              "segment_number": 46,
+              "translated_text": "With streams of nectar-showers flowing from within Your two feet,"
             },
             {
               "tag": "seg",
@@ -1141,7 +1197,8 @@
                 "n": "b"
               },
               "text": "prapañcaṃ siñcantī punar api rasaāmnāyamahasā",
-              "segment_number": 47
+              "segment_number": 47,
+              "translated_text": "irrigating the universe, and again through the greatness of the <s>rasāmnāya</s>,"
             }
           ]
         },
@@ -1156,7 +1213,8 @@
                 "n": "c"
               },
               "text": "avāpya svāṃ bhūmiṃ bhujaganibham adhyuṣṭavalayaṃ",
-              "segment_number": 48
+              "segment_number": 48,
+              "translated_text": "having reached Your own place, in a coil like a serpent,"
             },
             {
               "tag": "seg",
@@ -1165,12 +1223,14 @@
                 "n": "d"
               },
               "text": "svam ātmānaṃ kṛtvā svapiṣi kulakuṇḍe kuhariṇi",
-              "segment_number": 49
+              "segment_number": 49,
+              "translated_text": "making Yourself [into that form], You sleep in the hollow of the <s>kulakuṇḍa</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 50
+              "segment_number": 50,
+              "translated_text": "//"
             }
           ]
         }
@@ -1238,7 +1298,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_11"
+        "id": "Saul_11",
+        "label": "Saul 11"
       },
       "children": [
         {
@@ -1252,7 +1313,8 @@
                 "n": "a"
               },
               "text": "caturbhiḥ śrīkaṇṭhaiḥ śivayuvatibhiḥ pañcabhir api",
-              "segment_number": 51
+              "segment_number": 51,
+              "translated_text": "By four <s>Śrīkaṇṭhas</s> and five <s>Śivayuvatīs</s> (young Śiva-consorts),"
             },
             {
               "tag": "seg",
@@ -1261,7 +1323,8 @@
                 "n": "b"
               },
               "text": "prabhinnābhiḥ śaṃbhor navabhir iti mūlaprakṛtibhiḥ",
-              "segment_number": 52
+              "segment_number": 52,
+              "translated_text": "differentiated from <s>Śaṃbhu</s>, these nine being the root-natures (<s>mūlaprakṛti</s>),"
             }
           ]
         },
@@ -1276,7 +1339,8 @@
                 "n": "c"
               },
               "text": "trayaś catvāriṃśad vasudalakalāśratrivalaya",
-              "segment_number": 53
+              "segment_number": 53,
+              "translated_text": "forty-three [triangles], with circles of eight-petaled and sixteen-petaled [lotuses] in earth-divisions,"
             },
             {
               "tag": "seg",
@@ -1285,12 +1349,14 @@
                 "n": "d"
               },
               "text": "trirekhābhiḥ sārdhaṃ tava caraṇakoṇāḥ pariṇatāḥ",
-              "segment_number": 54
+              "segment_number": 54,
+              "translated_text": "together with three lines, the corners of Your [Śrī] <s>cakra</s> are formed."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 55
+              "segment_number": 55,
+              "translated_text": "//"
             }
           ]
         }
@@ -1358,7 +1424,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_12"
+        "id": "Saul_12",
+        "label": "Saul 12"
       },
       "children": [
         {
@@ -1372,7 +1439,8 @@
                 "n": "a"
               },
               "text": "tvadīyaṃ saundaryaṃ tuhinagirikanye tulayituṃ",
-              "segment_number": 56
+              "segment_number": 56,
+              "translated_text": "To measure Your beauty, O Daughter of the Snow Mountain,"
             },
             {
               "tag": "seg",
@@ -1381,7 +1449,8 @@
                 "n": "b"
               },
               "text": "kavīndrāḥ kalpante katham api viriñciprabhṛtayaḥ",
-              "segment_number": 57
+              "segment_number": 57,
+              "translated_text": "the foremost poets, <s>Virañci</s> (Brahmā) and others, somehow attempt—"
             }
           ]
         },
@@ -1396,7 +1465,8 @@
                 "n": "c"
               },
               "text": "yad ālokyautsukyād amaralalanā yānti manasā",
-              "segment_number": 58
+              "segment_number": 58,
+              "translated_text": "for beholding it, the celestial women, out of eagerness, mentally seek"
             },
             {
               "tag": "seg",
@@ -1405,12 +1475,14 @@
                 "n": "d"
               },
               "text": "tapobhir duṣprāpām api giriśasāyujyapadavīm",
-              "segment_number": 59
+              "segment_number": 59,
+              "translated_text": "that state of union with <s>Giriśa</s> (Śiva) which is unattainable even by austerities."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 60
+              "segment_number": 60,
+              "translated_text": "//"
             }
           ]
         }
@@ -1478,7 +1550,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_13"
+        "id": "Saul_13",
+        "label": "Saul 13"
       },
       "children": [
         {
@@ -1492,7 +1565,8 @@
                 "n": "a"
               },
               "text": "naraṃ varṣīyāṃsaṃ nayanavirasaṃ narmasu jaḍaṃ",
-              "segment_number": 61
+              "segment_number": 61,
+              "translated_text": "A man who is aged, unpleasing to the eyes, dull in amorous arts—"
             },
             {
               "tag": "seg",
@@ -1501,7 +1575,8 @@
                 "n": "b"
               },
               "text": "tavāpāṅgāloke patitam anudhāvanti śataśaḥ",
-              "segment_number": 62
+              "segment_number": 62,
+              "translated_text": "upon whom Your sidelong glance falls, him [young women] pursue by the hundreds,"
             }
           ]
         },
@@ -1516,7 +1591,8 @@
                 "n": "c"
               },
               "text": "galadveṇībandhāḥ kucakalaśavisrastasicayā",
-              "segment_number": 63
+              "segment_number": 63,
+              "translated_text": "with loosened braids, with garments slipping from the pitchers of their breasts,"
             },
             {
               "tag": "seg",
@@ -1525,12 +1601,14 @@
                 "n": "d"
               },
               "text": "haṭhāt truṭyatkāñcyo vigalitadukūlā yuvatayaḥ",
-              "segment_number": 64
+              "segment_number": 64,
+              "translated_text": "their girdles snapping by force, their silk garments falling away."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 65
+              "segment_number": 65,
+              "translated_text": "//"
             }
           ]
         }
@@ -1598,7 +1676,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_14"
+        "id": "Saul_14",
+        "label": "Saul 14"
       },
       "children": [
         {
@@ -1612,7 +1691,8 @@
                 "n": "a"
               },
               "text": "kṣitau ṣatpañcāśad dvisamadhikapañcāśad udake",
-              "segment_number": 66
+              "segment_number": 66,
+              "translated_text": "Fifty-six [rays] in earth, fifty-two in water,"
             },
             {
               "tag": "seg",
@@ -1621,7 +1701,8 @@
                 "n": "b"
               },
               "text": "hutāśe dvāṣaṣṭiś caturadhikapañcāśad anile",
-              "segment_number": 67
+              "segment_number": 67,
+              "translated_text": "sixty-two in fire, fifty-four in wind,"
             }
           ]
         },
@@ -1636,7 +1717,8 @@
                 "n": "c"
               },
               "text": "divi dviḥṣattriṃśan manasi ca catuḥṣaṣṭir iti ye",
-              "segment_number": 68
+              "segment_number": 68,
+              "translated_text": "seventy-two in heaven, and sixty-four in mind—these are the rays,"
             },
             {
               "tag": "seg",
@@ -1645,12 +1727,14 @@
                 "n": "d"
               },
               "text": "mayūkhās teṣām apy upari tava pādāmbujayugam",
-              "segment_number": 69
+              "segment_number": 69,
+              "translated_text": "yet above even these is the pair of Your lotus feet."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 70
+              "segment_number": 70,
+              "translated_text": "//"
             }
           ]
         }
@@ -1718,7 +1802,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_15"
+        "id": "Saul_15",
+        "label": "Saul 15"
       },
       "children": [
         {
@@ -1732,7 +1817,8 @@
                 "n": "a"
               },
               "text": "śarajjyotsnāśubhrāṃ śaśiyutajaṭājūṭamukuṭāṃ",
-              "segment_number": 71
+              "segment_number": 71,
+              "translated_text": "Radiant as autumnal moonlight, wearing the moon-adorned matted-hair crown,"
             },
             {
               "tag": "seg",
@@ -1741,7 +1827,8 @@
                 "n": "b"
               },
               "text": "varatrāsatrāṇasphaṭikaguṭikāpustakakarām",
-              "segment_number": 72
+              "segment_number": 72,
+              "translated_text": "holding in Her hands a crystal rosary bestowing boons and protection, and a book—"
             }
           ]
         },
@@ -1756,7 +1843,8 @@
                 "n": "c"
               },
               "text": "sakṛn na tvā natvā katham iva stāṃ saṃnidadhate",
-              "segment_number": 73
+              "segment_number": 73,
+              "translated_text": "having bowed to You but once, how can [the devotees] not possess"
             },
             {
               "tag": "seg",
@@ -1765,12 +1853,14 @@
                 "n": "d"
               },
               "text": "madhukṣīradrākṣāmadhurimadhurīṇā bhaṇitayaḥ",
-              "segment_number": 74
+              "segment_number": 74,
+              "translated_text": "speeches sweet with the sweetness of honey, milk, and grapes?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 75
+              "segment_number": 75,
+              "translated_text": "//"
             }
           ]
         }
@@ -1838,7 +1928,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_16"
+        "id": "Saul_16",
+        "label": "Saul 16"
       },
       "children": [
         {
@@ -1852,7 +1943,8 @@
                 "n": "a"
               },
               "text": "kavīndrāṇāṃ cetaḥkamalavanabālātaparuciṃ",
-              "segment_number": 76
+              "segment_number": 76,
+              "translated_text": "Those saintly ones who worship You, <s>Aruṇā</s> (the Dawn-hued One),"
             },
             {
               "tag": "seg",
@@ -1861,7 +1953,8 @@
                 "n": "b"
               },
               "text": "bhajante ye santaḥ kati cid aruṇām eva bhavatīm",
-              "segment_number": 77
+              "segment_number": 77,
+              "translated_text": "whose radiance is like the morning sun upon the lotus-forest of great poets' minds—"
             }
           ]
         },
@@ -1876,7 +1969,8 @@
                 "n": "c"
               },
               "text": "virañcipreyasyās taruṇataraśṛṅgāralaharī",
-              "segment_number": 78
+              "segment_number": 78,
+              "translated_text": "they compose, with waves of the freshest <s>śṛṅgāra</s> (erotic sentiment),"
             },
             {
               "tag": "seg",
@@ -1885,12 +1979,14 @@
                 "n": "d"
               },
               "text": "gabhīrābhir vāgbhir vidadhati satāṃ rañjanam amī",
-              "segment_number": 79
+              "segment_number": 79,
+              "translated_text": "with profound words, delight for the virtuous—the beloved of <s>Virañci</s> (Brahmā, i.e., <s>Sarasvatī</s>)."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 80
+              "segment_number": 80,
+              "translated_text": "//"
             }
           ]
         }
@@ -1958,7 +2054,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_17"
+        "id": "Saul_17",
+        "label": "Saul 17"
       },
       "children": [
         {
@@ -1972,7 +2069,8 @@
                 "n": "a"
               },
               "text": "savitrībhir vācāṃ śaśimaṇiśilābhaṅgarucibhir",
-              "segment_number": 81
+              "segment_number": 81,
+              "translated_text": "With the <s>Sāvitrī</s> goddesses of speech, radiant as moonstone broken in lustre,"
             },
             {
               "tag": "seg",
@@ -1981,7 +2079,8 @@
                 "n": "b"
               },
               "text": "vaśinyādyābhis tvāṃ saha janani saṃcintayati yaḥ",
-              "segment_number": 82
+              "segment_number": 82,
+              "translated_text": "<s>Vaśinī</s> and others—whoever contemplates You together with them, O Mother,"
             }
           ]
         },
@@ -1996,7 +2095,8 @@
                 "n": "c"
               },
               "text": "sa kartā kāvyānāṃ bhavati mahatāṃ bhaṅgisubhagair",
-              "segment_number": 83
+              "segment_number": 83,
+              "translated_text": "he becomes the creator of great poems, with graceful"
             },
             {
               "tag": "seg",
@@ -2005,12 +2105,14 @@
                 "n": "d"
               },
               "text": "vacobhir vāgdevīvadanakamalāmodamadhuraiḥ",
-              "segment_number": 84
+              "segment_number": 84,
+              "translated_text": "words fragrant-sweet as the lotus-face of <s>Vāgdevī</s> (Sarasvatī)."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 85
+              "segment_number": 85,
+              "translated_text": "//"
             }
           ]
         }
@@ -2078,7 +2180,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_18"
+        "id": "Saul_18",
+        "label": "Saul 18"
       },
       "children": [
         {
@@ -2092,7 +2195,8 @@
                 "n": "a"
               },
               "text": "tanucchāyābhis te taruṇataraṇiśrīsaraṇibhir",
-              "segment_number": 86
+              "segment_number": 86,
+              "translated_text": "One who meditates upon the entire heaven and earth as immersed in redness"
             },
             {
               "tag": "seg",
@@ -2101,7 +2205,8 @@
                 "n": "b"
               },
               "text": "divaṃ sarvām urvīm aruṇimanigmagnāṃ smarati yaḥ",
-              "segment_number": 87
+              "segment_number": 87,
+              "translated_text": "through the lustre-rays of Your body, like pathways of the freshest sun—"
             }
           ]
         },
@@ -2116,7 +2221,8 @@
                 "n": "c"
               },
               "text": "bhavanty asya trasyadvanahariṇaśālīnanayanāḥ",
-              "segment_number": 88
+              "segment_number": 88,
+              "translated_text": "for him there come women with timid deer-like eyes,"
             },
             {
               "tag": "seg",
@@ -2125,12 +2231,14 @@
                 "n": "d"
               },
               "text": "sahorvaśyā vaśyāḥ katikati na gīrvāṇagaṇikā",
-              "segment_number": 89
+              "segment_number": 89,
+              "translated_text": "including <s>Urvaśī</s> herself—how many celestial courtesans become subject to him!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 90
+              "segment_number": 90,
+              "translated_text": "//"
             }
           ]
         }
@@ -2198,7 +2306,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_19"
+        "id": "Saul_19",
+        "label": "Saul 19"
       },
       "children": [
         {
@@ -2212,7 +2321,8 @@
                 "n": "a"
               },
               "text": "mukhaṃ binduṃ kṛtvā kucayugam adhas tasya tadadho",
-              "segment_number": 91
+              "segment_number": 91,
+              "translated_text": "Making the face the <s>bindu</s> (dot), the pair of breasts below it, below that"
             },
             {
               "tag": "seg",
@@ -2221,7 +2331,8 @@
                 "n": "b"
               },
               "text": "harārdhaṃ dhyāyed yo haramahiṣi te manmathakalām",
-              "segment_number": 92
+              "segment_number": 92,
+              "translated_text": "the half of <s>Hara</s>—whoever thus meditates upon Your <s>Manmatha</s>-<s>kalā</s> (erotic form), O Consort of <s>Hara</s>,"
             }
           ]
         },
@@ -2236,7 +2347,8 @@
                 "n": "c"
               },
               "text": "sa sadyaḥ saṃkṣobhaṃ nayati vanitā ity atilaghu",
-              "segment_number": 93
+              "segment_number": 93,
+              "translated_text": "he immediately brings women to agitation—and this is but a trifle—"
             },
             {
               "tag": "seg",
@@ -2245,12 +2357,14 @@
                 "n": "d"
               },
               "text": "trilokīm apy āśu bhramayati ravīndustanayugām",
-              "segment_number": 94
+              "segment_number": 94,
+              "translated_text": "he quickly sets the three worlds spinning, [appearing] with the sun and moon as the pair of breasts."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 95
+              "segment_number": 95,
+              "translated_text": "//"
             }
           ]
         }
@@ -2318,7 +2432,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_20"
+        "id": "Saul_20",
+        "label": "Saul 20"
       },
       "children": [
         {
@@ -2332,7 +2447,8 @@
                 "n": "a"
               },
               "text": "kirantīm aṅgebhyaḥ kiraṇanikurambāmṛtarasaṃ",
-              "segment_number": 96
+              "segment_number": 96,
+              "translated_text": "One who holds You in his heart, radiating ambrosia from [Your] limbs"
             },
             {
               "tag": "seg",
@@ -2341,7 +2457,8 @@
                 "n": "b"
               },
               "text": "hṛdi tvām ādhatte himakaraśilāmūrtim iva yaḥ",
-              "segment_number": 97
+              "segment_number": 97,
+              "translated_text": "in clusters of rays, as if an image fashioned from moonstone—"
             }
           ]
         },
@@ -2356,7 +2473,8 @@
                 "n": "c"
               },
               "text": "sa sarpāṇāṃ darpaṃ śamayati śakuntādhipa iva",
-              "segment_number": 98
+              "segment_number": 98,
+              "translated_text": "he allays the pride of serpents like <s>Garuḍa</s> (king of birds),"
             },
             {
               "tag": "seg",
@@ -2365,12 +2483,14 @@
                 "n": "d"
               },
               "text": "jvarapluṣṭān dṛṣṭyā sukhayati sudhādhārasirayā",
-              "segment_number": 99
+              "segment_number": 99,
+              "translated_text": "and with his gaze, [flowing] like a stream of nectar, he soothes those afflicted by fever."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 100
+              "segment_number": 100,
+              "translated_text": "//"
             }
           ]
         }
@@ -2438,7 +2558,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_21"
+        "id": "Saul_21",
+        "label": "Saul 21"
       },
       "children": [
         {
@@ -2452,7 +2573,8 @@
                 "n": "a"
               },
               "text": "taḍillekhātanvīṃ tapanaśaśivaiśvānaramayīṃ",
-              "segment_number": 101
+              "segment_number": 101,
+              "translated_text": "Thin as a streak of lightning, consisting of the sun, moon, and fire,"
             },
             {
               "tag": "seg",
@@ -2461,7 +2583,8 @@
                 "n": "b"
               },
               "text": "niṣaṇṇāṃ ṣaṇṇām apy upari kamalānāṃ tava kalām",
-              "segment_number": 102
+              "segment_number": 102,
+              "translated_text": "Your <s>kalā</s> (subtle form) seated above the six lotuses—"
             }
           ]
         },
@@ -2476,7 +2599,8 @@
                 "n": "c"
               },
               "text": "mahāpadmāṭavyāṃ mṛditamalamāyena manasā",
-              "segment_number": 103
+              "segment_number": 103,
+              "translated_text": "great souls, beholding it in the great lotus-forest [of the <s>sahasrāra</s>], with minds"
             },
             {
               "tag": "seg",
@@ -2485,12 +2609,14 @@
                 "n": "d"
               },
               "text": "mahāntaḥ paśyanto dadhati paramāhlādalaharīm",
-              "segment_number": 104
+              "segment_number": 104,
+              "translated_text": "freed from the impurity of <s>māyā</s>, experience a supreme wave of bliss."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 105
+              "segment_number": 105,
+              "translated_text": "//"
             }
           ]
         }
@@ -2558,7 +2684,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_22"
+        "id": "Saul_22",
+        "label": "Saul 22"
       },
       "children": [
         {
@@ -2572,7 +2699,8 @@
                 "n": "a"
               },
               "text": "bhavāni tvaṃ dāse mayi vitara dṛṣṭiṃ sakaruṇāṃ",
-              "segment_number": 106
+              "segment_number": 106,
+              "translated_text": "O <s>Bhavānī</s>, bestow upon me, Your servant, a compassionate glance'—"
             },
             {
               "tag": "seg",
@@ -2581,7 +2709,8 @@
                 "n": "b"
               },
               "text": "iti stotuṃ vāñchan kathayati bhavāni tvam iti yaḥ",
-              "segment_number": 107
+              "segment_number": 107,
+              "translated_text": "one who, wishing thus to praise You, merely utters 'O <s>Bhavānī</s>, You—'"
             }
           ]
         },
@@ -2596,7 +2725,8 @@
                 "n": "c"
               },
               "text": "tadaiva tvaṃ tasmai diśasi nijasāyujyapadavīṃ",
-              "segment_number": 108
+              "segment_number": 108,
+              "translated_text": "at that very moment You grant him the state of union with You,"
             },
             {
               "tag": "seg",
@@ -2605,12 +2735,14 @@
                 "n": "d"
               },
               "text": "mukundabrahmendrasphuṭamukuṭanīrājitapadām",
-              "segment_number": 109
+              "segment_number": 109,
+              "translated_text": "whose feet are worshipped with shining crowns by <s>Mukunda</s>, <s>Brahmā</s>, and <s>Indra</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 110
+              "segment_number": 110,
+              "translated_text": "//"
             }
           ]
         }
@@ -2678,7 +2810,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_23"
+        "id": "Saul_23",
+        "label": "Saul 23"
       },
       "children": [
         {
@@ -2692,7 +2825,8 @@
                 "n": "a"
               },
               "text": "tvayā hṛtvā vāmaṃ vapur aparitṛptena manasā",
-              "segment_number": 111
+              "segment_number": 111,
+              "translated_text": "Having taken the left half of [<s>Śaṃbhu's</s>] body, with a mind still unsatisfied,"
             },
             {
               "tag": "seg",
@@ -2701,7 +2835,8 @@
                 "n": "b"
               },
               "text": "śarīrārdhaṃ śaṃbhor aparam api śaṅke hṛtam abhūt",
-              "segment_number": 112
+              "segment_number": 112,
+              "translated_text": "I suspect You seized the other half of <s>Śaṃbhu's</s> body as well—"
             }
           ]
         },
@@ -2716,7 +2851,8 @@
                 "n": "c"
               },
               "text": "tathā hi tvadrūpaṃ sakalam aruṇābhaṃ trinayanaṃ",
-              "segment_number": 113
+              "segment_number": 113,
+              "translated_text": "for thus Your form is entirely reddish, three-eyed,"
             },
             {
               "tag": "seg",
@@ -2725,12 +2861,14 @@
                 "n": "d"
               },
               "text": "kucābhyām ānamraṃ kuṭilaśaśicūḍālamukuṭam",
-              "segment_number": 114
+              "segment_number": 114,
+              "translated_text": "bent forward with breasts, wearing a crown with the crescent moon."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 115
+              "segment_number": 115,
+              "translated_text": "//"
             }
           ]
         }
@@ -2798,7 +2936,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_24"
+        "id": "Saul_24",
+        "label": "Saul 24"
       },
       "children": [
         {
@@ -2812,7 +2951,8 @@
                 "n": "a"
               },
               "text": "jagat sūte dhātā harir avati rudraḥ kṣapayate",
-              "segment_number": 116
+              "segment_number": 116,
+              "translated_text": "<s>Dhātṛ</s> (Brahmā) creates the world, <s>Hari</s> preserves it, <s>Rudra</s> destroys it,"
             },
             {
               "tag": "seg",
@@ -2821,7 +2961,8 @@
                 "n": "b"
               },
               "text": "tiras kurvann etat svam api vapur īśas tirayati",
-              "segment_number": 117
+              "segment_number": 117,
+              "translated_text": "<s>Īśa</s>, causing this [world] to vanish, himself also disappears,"
             }
           ]
         },
@@ -2836,7 +2977,8 @@
                 "n": "c"
               },
               "text": "sadāpūrvaḥ sarvaṃ tad idam anugṛhṇāti ca śivas",
-              "segment_number": 118
+              "segment_number": 118,
+              "translated_text": "<s>Sadāśiva</s>, ever-new, blesses all this—"
             },
             {
               "tag": "seg",
@@ -2845,12 +2987,14 @@
                 "n": "d"
               },
               "text": "tavājñām ālambya kṣanacalitayor bhrūlatikayoḥ",
-              "segment_number": 119
+              "segment_number": 119,
+              "translated_text": "all in obedience to Your command, by the momentary movement of Your eyebrow-creepers."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 120
+              "segment_number": 120,
+              "translated_text": "//"
             }
           ]
         }
@@ -2918,7 +3062,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_25"
+        "id": "Saul_25",
+        "label": "Saul 25"
       },
       "children": [
         {
@@ -2932,7 +3077,8 @@
                 "n": "a"
               },
               "text": "trayāṇāṃ devānāṃ triguṇajanitānāṃ tava śive",
-              "segment_number": 121
+              "segment_number": 121,
+              "translated_text": "Of the three gods born of the three <s>guṇas</s>, O Auspicious One,"
             },
             {
               "tag": "seg",
@@ -2941,7 +3087,8 @@
                 "n": "b"
               },
               "text": "bhavet pūjā pūjā tava caraṇayor yā viracitā",
-              "segment_number": 122
+              "segment_number": 122,
+              "translated_text": "the worship offered to Your feet becomes their worship [as well]."
             }
           ]
         },
@@ -2956,7 +3103,8 @@
                 "n": "c"
               },
               "text": "tathā hi tvatpādodvahanamaṇipīṭhasya nikaṭe",
-              "segment_number": 123
+              "segment_number": 123,
+              "translated_text": "For near the gem-studded pedestal that bears Your feet,"
             },
             {
               "tag": "seg",
@@ -2965,12 +3113,14 @@
                 "n": "d"
               },
               "text": "sthitā hy ete śaśvan mukulitakarottaṃsamukuṭāḥ",
-              "segment_number": 124
+              "segment_number": 124,
+              "translated_text": "these [gods] stand perpetually with folded hands raised to their crowns."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 125
+              "segment_number": 125,
+              "translated_text": "//"
             }
           ]
         }
@@ -3038,7 +3188,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_26"
+        "id": "Saul_26",
+        "label": "Saul 26"
       },
       "children": [
         {
@@ -3052,7 +3203,8 @@
                 "n": "a"
               },
               "text": "virañciḥ pañcatvaṃ vrajati harir āpnoti viratiṃ",
-              "segment_number": 126
+              "segment_number": 126,
+              "translated_text": "<s>Virañci</s> (Brahmā) meets destruction, <s>Hari</s> reaches cessation,"
             },
             {
               "tag": "seg",
@@ -3061,7 +3213,8 @@
                 "n": "b"
               },
               "text": "vināśaṃ kīnāśo bhajati dhanado yāti nidhanam",
-              "segment_number": 127
+              "segment_number": 127,
+              "translated_text": "<s>Kīnāśa</s> (Yama) undergoes ruin, <s>Dhanada</s> (Kubera) goes to his end,"
             }
           ]
         },
@@ -3076,7 +3229,8 @@
                 "n": "c"
               },
               "text": "vitandrī māhendrī vitatir api saṃmīlitadṛśā",
-              "segment_number": 128
+              "segment_number": 128,
+              "translated_text": "the host of <s>Mahendra</s> (Indra) too [perishes] with closed eyes—"
             },
             {
               "tag": "seg",
@@ -3085,12 +3239,14 @@
                 "n": "d"
               },
               "text": "mahāsaṃhāre +asmin viharati sati tvatpatir asau",
-              "segment_number": 129
+              "segment_number": 129,
+              "translated_text": "in this great dissolution, Your Lord (<s>Śiva</s>) alone sports, O <s>Satī</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 130
+              "segment_number": 130,
+              "translated_text": "//"
             }
           ]
         }
@@ -3158,7 +3314,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_27"
+        "id": "Saul_27",
+        "label": "Saul 27"
       },
       "children": [
         {
@@ -3172,7 +3329,8 @@
                 "n": "a"
               },
               "text": "japo jalpaḥ śilpaṃ sakalam api mudrāviracanā",
-              "segment_number": 131
+              "segment_number": 131,
+              "translated_text": "May my speech be <s>japa</s> (prayer), all my manual arts be <s>mudrā</s>-formation,"
             },
             {
               "tag": "seg",
@@ -3181,7 +3339,8 @@
                 "n": "b"
               },
               "text": "gatiḥ prādakṣiṇyakramaṇam aśanādy āhutividhiḥ",
-              "segment_number": 132
+              "segment_number": 132,
+              "translated_text": "my walking be circumambulation, eating be the rite of oblation,"
             }
           ]
         },
@@ -3196,7 +3355,8 @@
                 "n": "c"
               },
               "text": "praṇāmaḥ saṃveśaḥ sukham akhilam ātmārpaṇadṛśā",
-              "segment_number": 133
+              "segment_number": 133,
+              "translated_text": "my lying down be prostration, all comfort be seen as self-offering—"
             },
             {
               "tag": "seg",
@@ -3205,12 +3365,14 @@
                 "n": "d"
               },
               "text": "saparyāparyāyas tava bhavatu yan me vilasitam",
-              "segment_number": 134
+              "segment_number": 134,
+              "translated_text": "may whatever I do become synonymous with Your worship."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 135
+              "segment_number": 135,
+              "translated_text": "//"
             }
           ]
         }
@@ -3278,7 +3440,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_28"
+        "id": "Saul_28",
+        "label": "Saul 28"
       },
       "children": [
         {
@@ -3292,7 +3455,8 @@
                 "n": "a"
               },
               "text": "dadāne dīnebhyaḥ śriyam aniśam āśānusadṛśīṃ",
-              "segment_number": 136
+              "segment_number": 136,
+              "translated_text": "Giving wealth to the needy ceaselessly, in accord with their desires,"
             },
             {
               "tag": "seg",
@@ -3301,7 +3465,8 @@
                 "n": "b"
               },
               "text": "amandaṃ saundaryaprakaramakarandaṃ vikirati",
-              "segment_number": 137
+              "segment_number": 137,
+              "translated_text": "lavishly scattering the nectar-fragrance of beauty—"
             }
           ]
         },
@@ -3316,7 +3481,8 @@
                 "n": "c"
               },
               "text": "tavāsmin mandārastabakasubhage yātu caraṇe",
-              "segment_number": 138
+              "segment_number": 138,
+              "translated_text": "may my life be immersed in Your foot, beautiful as a <s>mandāra</s> flower-cluster;"
             },
             {
               "tag": "seg",
@@ -3325,12 +3491,14 @@
                 "n": "d"
               },
               "text": "nimajjan majjīvaḥ karaṇacaraṇaiḥ ṣa.ccaraṇatām",
-              "segment_number": 139
+              "segment_number": 139,
+              "translated_text": "immersing, may I attain six-footedness [like a bee] with my sense-organs and limbs."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 140
+              "segment_number": 140,
+              "translated_text": "//"
             }
           ]
         }
@@ -3398,7 +3566,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_29"
+        "id": "Saul_29",
+        "label": "Saul 29"
       },
       "children": [
         {
@@ -3412,7 +3581,8 @@
                 "n": "a"
               },
               "text": "sudhām apy āsvādya pratibhayajarāmṛtyuhariṇīṃ",
-              "segment_number": 141
+              "segment_number": 141,
+              "translated_text": "Even having tasted the nectar that wards off the dread of old age and death,"
             },
             {
               "tag": "seg",
@@ -3421,7 +3591,8 @@
                 "n": "b"
               },
               "text": "vipadyante viśve vidhiśatamakhādyā diviṣadaḥ",
-              "segment_number": 142
+              "segment_number": 142,
+              "translated_text": "the celestials—<s>Vidhi</s> (Brahmā), <s>Śatamakha</s> (Indra), and others—perish."
             }
           ]
         },
@@ -3436,7 +3607,8 @@
                 "n": "c"
               },
               "text": "karālaṃ yat kṣveḍaṃ kavalitavataḥ kālakalanā",
-              "segment_number": 143
+              "segment_number": 143,
+              "translated_text": "That <s>Śaṃbhu</s> swallowed the terrible <s>kālakūṭa</s> poison [yet survived]—"
             },
             {
               "tag": "seg",
@@ -3445,12 +3617,14 @@
                 "n": "d"
               },
               "text": "na śaṃbhos tanmūlaṃ tava janani tāṭaṅkamahimā",
-              "segment_number": 144
+              "segment_number": 144,
+              "translated_text": "is that not due, O Mother, to the power of Your earrings [which rendered the poison harmless]?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 145
+              "segment_number": 145,
+              "translated_text": "//"
             }
           ]
         }
@@ -3518,7 +3692,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_30"
+        "id": "Saul_30",
+        "label": "Saul 30"
       },
       "children": [
         {
@@ -3532,7 +3707,8 @@
                 "n": "a"
               },
               "text": "kirīṭaṃ vairiñcaṃ parihara puraḥ kaiṭabhabhidaḥ",
-              "segment_number": 146
+              "segment_number": 146,
+              "translated_text": "'Avoid the crown of <s>Virañci</s> (Brahmā) [at Your feet]! You stumble on the hard tiara of the Slayer of <s>Kaiṭabha</s> (Viṣṇu)!"
             },
             {
               "tag": "seg",
@@ -3541,7 +3717,8 @@
                 "n": "b"
               },
               "text": "kaṭhore koṭīre skhalasi jahi jambhārimukuṭam",
-              "segment_number": 147
+              "segment_number": 147,
+              "translated_text": "Dash aside the crown of the Enemy of <s>Jambha</s> (Indra)!'—"
             }
           ]
         },
@@ -3556,7 +3733,8 @@
                 "n": "c"
               },
               "text": "praṇamreṣv eteṣu prasabham abhiyātasya bhavanaṃ",
-              "segment_number": 148
+              "segment_number": 148,
+              "translated_text": "when these [gods] bow down and [<s>Śiva</s>] forcefully approaches [Your] chamber,"
             },
             {
               "tag": "seg",
@@ -3565,12 +3743,14 @@
                 "n": "d"
               },
               "text": "bhavasyābhyutthāne tava parijanoktir vijayate",
-              "segment_number": 149
+              "segment_number": 149,
+              "translated_text": "this speech of Your attendants [urging <s>Śiva</s> to rise] prevails gloriously."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 150
+              "segment_number": 150,
+              "translated_text": "//"
             }
           ]
         }
@@ -3638,7 +3818,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_31"
+        "id": "Saul_31",
+        "label": "Saul 31"
       },
       "children": [
         {
@@ -3652,7 +3833,8 @@
                 "n": "a"
               },
               "text": "catuḥṣaṣṭyā tantraiḥ sakalam abhisaṃdhāya bhuvanaṃ",
-              "segment_number": 151
+              "segment_number": 151,
+              "translated_text": "Having encompassed the entire universe with sixty-four <s>tantras</s>,"
             },
             {
               "tag": "seg",
@@ -3661,7 +3843,8 @@
                 "n": "b"
               },
               "text": "sthitas tattatsiddhiprasavaparatantraiḥ paśupatiḥ",
-              "segment_number": 152
+              "segment_number": 152,
+              "translated_text": "each devoted to bestowing its particular <s>siddhi</s> (supernatural power), <s>Paśupati</s> (Śiva) remained—"
             }
           ]
         },
@@ -3676,7 +3859,8 @@
                 "n": "c"
               },
               "text": "punas tvannirbandhād akhilapuruṣārthaikaghaṭanā",
-              "segment_number": 153
+              "segment_number": 153,
+              "translated_text": "yet again, at Your insistence, accomplishing all human goals at once,"
             },
             {
               "tag": "seg",
@@ -3685,12 +3869,14 @@
                 "n": "d"
               },
               "text": "svatantraṃ te tantraṃ kṣititalam avātītarad idam",
-              "segment_number": 154
+              "segment_number": 154,
+              "translated_text": "Your independent <s>tantra</s> (the Śrīvidyā) descended upon this earth."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 155
+              "segment_number": 155,
+              "translated_text": "//"
             }
           ]
         }
@@ -3758,7 +3944,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_32"
+        "id": "Saul_32",
+        "label": "Saul 32"
       },
       "children": [
         {
@@ -3772,7 +3959,8 @@
                 "n": "a"
               },
               "text": "śivaḥ śaktiḥ kāmaḥ kṣitir atha raviḥ śītakiraṇaḥ",
-              "segment_number": 156
+              "segment_number": 156,
+              "translated_text": "<s>Śiva</s>, <s>Śakti</s>, <s>Kāma</s>, <s>Kṣiti</s> (Earth), then <s>Ravi</s> (Sun), <s>Śītakiraṇa</s> (Moon),"
             },
             {
               "tag": "seg",
@@ -3781,7 +3969,8 @@
                 "n": "b"
               },
               "text": "smaro haṃsaḥ śakras tad anu ca parāmāraharayaḥ",
-              "segment_number": 157
+              "segment_number": 157,
+              "translated_text": "<s>Smara</s>, <s>Haṃsa</s>, <s>Śakra</s> (Indra), and thereafter <s>Para</s>, <s>Māra</s>, <s>Hari</s>—"
             }
           ]
         },
@@ -3796,7 +3985,8 @@
                 "n": "c"
               },
               "text": "amī hṛllekhābhis tisṛbhir avasāneṣu ghaṭitā",
-              "segment_number": 158
+              "segment_number": 158,
+              "translated_text": "these syllables, joined at their ends with the three <s>hrīṃ</s> (<s>hṛllekhā</s>) syllables,"
             },
             {
               "tag": "seg",
@@ -3805,12 +3995,14 @@
                 "n": "d"
               },
               "text": "bhajante varṇās te tava janani nāmāvayavatām",
-              "segment_number": 159
+              "segment_number": 159,
+              "translated_text": "form the constituent parts of Your name, O Mother."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 160
+              "segment_number": 160,
+              "translated_text": "//"
             }
           ]
         }
@@ -3878,7 +4070,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_33"
+        "id": "Saul_33",
+        "label": "Saul 33"
       },
       "children": [
         {
@@ -3892,7 +4085,8 @@
                 "n": "a"
               },
               "text": "smaraṃ yoniṃ lakṣmīṃ tritayam idam ādau tava manor",
-              "segment_number": 161
+              "segment_number": 161,
+              "translated_text": "<s>Smara</s> (ka), <s>Yoni</s> (e), <s>Lakṣmī</s> (ī)—placing this triad at the beginning of Your <s>mantra</s>,"
             },
             {
               "tag": "seg",
@@ -3901,7 +4095,8 @@
                 "n": "b"
               },
               "text": "nidhāyaike nitye niravadhimahābhogarasikāḥ",
-              "segment_number": 162
+              "segment_number": 162,
+              "translated_text": "some [adepts], O Eternal One, relishing boundless great enjoyment,"
             }
           ]
         },
@@ -3916,7 +4111,8 @@
                 "n": "c"
               },
               "text": "japanti tvāṃ cintāmaṇigunanibaddhākṣavalayāḥ",
-              "segment_number": 163
+              "segment_number": 163,
+              "translated_text": "recite [the <s>mantra</s>] with a rosary strung of <s>cintāmaṇi</s> gems,"
             },
             {
               "tag": "seg",
@@ -3925,12 +4121,14 @@
                 "n": "d"
               },
               "text": "śivāgnau juhvantaḥ surabhighṛtadhārāhutiśataiḥ",
-              "segment_number": 164
+              "segment_number": 164,
+              "translated_text": "offering hundreds of oblations of fragrant ghee into the fire of <s>Śiva</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 165
+              "segment_number": 165,
+              "translated_text": "//"
             }
           ]
         }
@@ -3998,7 +4196,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_34"
+        "id": "Saul_34",
+        "label": "Saul 34"
       },
       "children": [
         {
@@ -4012,7 +4211,8 @@
                 "n": "a"
               },
               "text": "śarīraṃ tvaṃ śaṃbhoḥ śaśimihiravakṣoruhayugaṃ",
-              "segment_number": 166
+              "segment_number": 166,
+              "translated_text": "You are the body of <s>Śaṃbhu</s>; the moon and sun are the pair of breasts—"
             },
             {
               "tag": "seg",
@@ -4021,7 +4221,8 @@
                 "n": "b"
               },
               "text": "tavātmānaṃ manye bhagavati bhavātmānam anagham",
-              "segment_number": 167
+              "segment_number": 167,
+              "translated_text": "I consider Your self, O Blessed One, to be the immaculate self of <s>Bhava</s> (Śiva)."
             }
           ]
         },
@@ -4036,7 +4237,8 @@
                 "n": "c"
               },
               "text": "ataḥ śeṣaḥ śeṣīty ayam ubhayasādhāraṇatayā",
-              "segment_number": 168
+              "segment_number": 168,
+              "translated_text": "Therefore the relationship between You two stands as 'remainder and possessor-of-remainder'"
             },
             {
               "tag": "seg",
@@ -4045,12 +4247,14 @@
                 "n": "d"
               },
               "text": "sthitaḥ saṃbandho vāṃ samarasaparānandaparayoḥ",
-              "segment_number": 169
+              "segment_number": 169,
+              "translated_text": "by virtue of mutual identity, both being absorbed in supreme bliss."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 170
+              "segment_number": 170,
+              "translated_text": "//"
             }
           ]
         }
@@ -4118,7 +4322,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_35"
+        "id": "Saul_35",
+        "label": "Saul 35"
       },
       "children": [
         {
@@ -4132,7 +4337,8 @@
                 "n": "a"
               },
               "text": "manas tvaṃ vyoma tvaṃ marud asi marutsārathir asi",
-              "segment_number": 171
+              "segment_number": 171,
+              "translated_text": "You are mind, You are space, You are wind, You are the charioteer of wind (fire),"
             },
             {
               "tag": "seg",
@@ -4141,7 +4347,8 @@
                 "n": "b"
               },
               "text": "tvam āpas tvaṃ bhūmis tvayi pariṇatāyāṃ na hi param",
-              "segment_number": 172
+              "segment_number": 172,
+              "translated_text": "You are water, You are earth—when You have transformed [into all], nothing remains beyond."
             }
           ]
         },
@@ -4156,7 +4363,8 @@
                 "n": "c"
               },
               "text": "tvam eva svātmānaṃ pariṇamayituṃ viśvavapuṣā",
-              "segment_number": 173
+              "segment_number": 173,
+              "translated_text": "You transform Your own self into the form of the universe,"
             },
             {
               "tag": "seg",
@@ -4165,12 +4373,14 @@
                 "n": "d"
               },
               "text": "cidānandākāraṃ śivayuvati bhāvena bibhṛṣe",
-              "segment_number": 174
+              "segment_number": 174,
+              "translated_text": "yet bear the form of Consciousness-Bliss, O Consort of <s>Śiva</s>, through Your essential nature."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 175
+              "segment_number": 175,
+              "translated_text": "//"
             }
           ]
         }
@@ -4238,7 +4448,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_36"
+        "id": "Saul_36",
+        "label": "Saul 36"
       },
       "children": [
         {
@@ -4252,7 +4463,8 @@
                 "n": "a"
               },
               "text": "tavājñācakrasthaṃ tapanaśaśikoṭidyutidharam",
-              "segment_number": 176
+              "segment_number": 176,
+              "translated_text": "Stationed in Your <s>Ājñā-cakra</s>, bearing the radiance of ten million suns and moons,"
             },
             {
               "tag": "seg",
@@ -4261,7 +4473,8 @@
                 "n": "b"
               },
               "text": "paraṃ śaṃbhuṃ vande parimilitapārśvaṃ paracitā",
-              "segment_number": 177
+              "segment_number": 177,
+              "translated_text": "I worship that Supreme <s>Śaṃbhu</s>, embraced at His side by the Supreme Consciousness (<s>Paracit</s>),"
             }
           ]
         },
@@ -4276,7 +4489,8 @@
                 "n": "c"
               },
               "text": "yam ārādhyan bhaktyā raviśaśiśucīnām aviṣaye",
-              "segment_number": 178
+              "segment_number": 178,
+              "translated_text": "worshipping whom with devotion, in a realm beyond [the light of] sun, moon, and fire,"
             },
             {
               "tag": "seg",
@@ -4285,12 +4499,14 @@
                 "n": "d"
               },
               "text": "nirāloke loko nivasati hi bhālokabhavane",
-              "segment_number": 179
+              "segment_number": 179,
+              "translated_text": "the world dwells in the abode of [spiritual] light, though [physically] lightless."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 180
+              "segment_number": 180,
+              "translated_text": "//"
             }
           ]
         }
@@ -4358,7 +4574,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_37"
+        "id": "Saul_37",
+        "label": "Saul 37"
       },
       "children": [
         {
@@ -4372,7 +4589,8 @@
                 "n": "a"
               },
               "text": "viśuddhau te śuddhasphaṭikaviśadaṃ vyomajanakaṃ",
-              "segment_number": 181
+              "segment_number": 181,
+              "translated_text": "In the <s>Viśuddhi</s> [cakra], pure, clear as crystal, the progenitor of space—"
             },
             {
               "tag": "seg",
@@ -4381,7 +4599,8 @@
                 "n": "b"
               },
               "text": "śivaṃ seve devīm api śivasamānavyasaninīm",
-              "segment_number": 182
+              "segment_number": 182,
+              "translated_text": "I worship <s>Śiva</s> and also the Goddess, equal to <s>Śiva</s> in Her pursuits,"
             }
           ]
         },
@@ -4396,7 +4615,8 @@
                 "n": "c"
               },
               "text": "yayoḥ kāntyā yāntyā śaśikiraṇasārūpyasaraṇiṃ",
-              "segment_number": 183
+              "segment_number": 183,
+              "translated_text": "by whose radiance, following the path of moonbeams,"
             },
             {
               "tag": "seg",
@@ -4405,12 +4625,14 @@
                 "n": "d"
               },
               "text": "vidhūtāntardhvāntā vilasati cakorīva jagatī",
-              "segment_number": 184
+              "segment_number": 184,
+              "translated_text": "the world, its inner darkness dispelled, shines forth like a <s>cakora</s> bird [delighting in moonlight]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 185
+              "segment_number": 185,
+              "translated_text": "//"
             }
           ]
         }
@@ -4478,7 +4700,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_38"
+        "id": "Saul_38",
+        "label": "Saul 38"
       },
       "children": [
         {
@@ -4492,7 +4715,8 @@
                 "n": "a"
               },
               "text": "samunmīlatsaṃvitkamalamakarandaikarasikaṃ",
-              "segment_number": 186
+              "segment_number": 186,
+              "translated_text": "Delighting solely in the nectar of the fully-blossoming lotus of pure awareness—"
             },
             {
               "tag": "seg",
@@ -4501,7 +4725,8 @@
                 "n": "b"
               },
               "text": "bhaje haṃsadvaṃdvaṃ kim api mahatāṃ mānasacaram",
-              "segment_number": 187
+              "segment_number": 187,
+              "translated_text": "I worship that ineffable pair of swans dwelling in the lake of the great souls,"
             }
           ]
         },
@@ -4516,7 +4741,8 @@
                 "n": "c"
               },
               "text": "yadālāpād aṣṭādaśaguṇitavidyāpariṇatir",
-              "segment_number": 188
+              "segment_number": 188,
+              "translated_text": "from whose conversation the eighteen-fold <s>vidyā</s> (knowledge) manifests,"
             },
             {
               "tag": "seg",
@@ -4525,12 +4751,14 @@
                 "n": "d"
               },
               "text": "yad ādatte doṣād guṇam akhilam adbhyaḥ paya iva",
-              "segment_number": 189
+              "segment_number": 189,
+              "translated_text": "who extract the good from the bad, as [swans separate] milk from water."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 190
+              "segment_number": 190,
+              "translated_text": "//"
             }
           ]
         }
@@ -4598,7 +4826,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_39"
+        "id": "Saul_39",
+        "label": "Saul 39"
       },
       "children": [
         {
@@ -4612,7 +4841,8 @@
                 "n": "a"
               },
               "text": "tava svādhiṣṭhāne hutavaham adhiṣṭhāya nirataṃ",
-              "segment_number": 191
+              "segment_number": 191,
+              "translated_text": "In Your <s>Svādhiṣṭhāna</s>, presiding over the fire, ever-engaged—"
             },
             {
               "tag": "seg",
@@ -4621,7 +4851,8 @@
                 "n": "b"
               },
               "text": "tam īḍe saṃvartaṃ janani mahatīṃ tāṃ ca samayām",
-              "segment_number": 192
+              "segment_number": 192,
+              "translated_text": "I praise that <s>Saṃvarta</s> (dissolution-fire) and that great <s>Samayā</s> (the Goddess), O Mother,"
             }
           ]
         },
@@ -4636,7 +4867,8 @@
                 "n": "c"
               },
               "text": "yadāloke lokān dahati mahati krodhakalile",
-              "segment_number": 193
+              "segment_number": 193,
+              "translated_text": "at whose glance the worlds burn in the great fury of wrath—"
             },
             {
               "tag": "seg",
@@ -4645,12 +4877,14 @@
                 "n": "d"
               },
               "text": "dayārdrā dṛṣṭis te śiśiram upacāraṃ racayati",
-              "segment_number": 194
+              "segment_number": 194,
+              "translated_text": "[yet] Your compassion-moistened gaze provides a cooling remedy."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 195
+              "segment_number": 195,
+              "translated_text": "//"
             }
           ]
         }
@@ -4718,7 +4952,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_40"
+        "id": "Saul_40",
+        "label": "Saul 40"
       },
       "children": [
         {
@@ -4732,7 +4967,8 @@
                 "n": "a"
               },
               "text": "taḍitvantaṃ śaktyā timiraparipanthisphuraṇayā",
-              "segment_number": 196
+              "segment_number": 196,
+              "translated_text": "Accompanied by <s>Śakti</s> whose flashing dispels darkness—like lightning,"
             },
             {
               "tag": "seg",
@@ -4741,7 +4977,8 @@
                 "n": "b"
               },
               "text": "sphurannānāratnābharaṇapariṇaddhendradhanuṣam",
-              "segment_number": 197
+              "segment_number": 197,
+              "translated_text": "adorned as with <s>Indra's</s> bow (rainbow) by the glow of various sparkling jewel-ornaments,"
             }
           ]
         },
@@ -4756,7 +4993,8 @@
                 "n": "c"
               },
               "text": "tava śyāmaṃ meghaṃ kam api maṇipūraikaśaraṇaṃ",
-              "segment_number": 198
+              "segment_number": 198,
+              "translated_text": "I worship Your dark cloud [<s>Śiva</s>], indefinable, abiding solely in the <s>Maṇipūra</s>,"
             },
             {
               "tag": "seg",
@@ -4765,12 +5003,14 @@
                 "n": "d"
               },
               "text": "niṣeve varṣantaṃ haramihirataptaṃ tribhuvanam",
-              "segment_number": 199
+              "segment_number": 199,
+              "translated_text": "raining [bliss] upon the three worlds scorched by the sun of <s>Hara</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 200
+              "segment_number": 200,
+              "translated_text": "//"
             }
           ]
         }
@@ -4838,7 +5078,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_41"
+        "id": "Saul_41",
+        "label": "Saul 41"
       },
       "children": [
         {
@@ -4852,7 +5093,8 @@
                 "n": "a"
               },
               "text": "tavādhāre mūle saha samayayā lāsyaparayā",
-              "segment_number": 201
+              "segment_number": 201,
+              "translated_text": "In Your base, the <s>Mūlādhāra</s>, together with <s>Samayā</s> who delights in dance,"
             },
             {
               "tag": "seg",
@@ -4861,7 +5103,8 @@
                 "n": "b"
               },
               "text": "navātmānaṃ vande navarasamahātāṇḍavanaṭam",
-              "segment_number": 202
+              "segment_number": 202,
+              "translated_text": "I worship the Nine-formed One, the dancer of the great <s>tāṇḍava</s> of the nine <s>rasas</s>."
             }
           ]
         },
@@ -4876,7 +5119,8 @@
                 "n": "c"
               },
               "text": "ubhābhyām etābhyām ubhayavidhim uddiśya dayayā",
-              "segment_number": 203
+              "segment_number": 203,
+              "translated_text": "Through both of these [Śiva and Śakti], indicating both modes [creation and dissolution], out of compassion,"
             },
             {
               "tag": "seg",
@@ -4885,12 +5129,14 @@
                 "n": "d"
               },
               "text": "sanāthābhyāṃ jajñe janakajananīmad jagad idam",
-              "segment_number": 204
+              "segment_number": 204,
+              "translated_text": "endowed with [both] a lord, this world was born, having father and mother."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 205
+              "segment_number": 205,
+              "translated_text": "//"
             }
           ]
         }
@@ -4958,7 +5204,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_42"
+        "id": "Saul_42",
+        "label": "Saul 42"
       },
       "children": [
         {
@@ -4972,7 +5219,8 @@
                 "n": "a"
               },
               "text": "gatair māṇikyatvaṃ gaganamaṇibhiḥ sāndraghaṭitaṃ",
-              "segment_number": 206
+              "segment_number": 206,
+              "translated_text": "Your golden crown, densely set with celestial gems that have become rubies—"
             },
             {
               "tag": "seg",
@@ -4981,7 +5229,8 @@
                 "n": "b"
               },
               "text": "kirīṭaṃ te haimaṃ himagirisute kīrtayati yaḥ",
-              "segment_number": 207
+              "segment_number": 207,
+              "translated_text": "whoever celebrates it, O Daughter of the Snow Mountain,"
             }
           ]
         },
@@ -4996,7 +5245,8 @@
                 "n": "c"
               },
               "text": "sa nīḍeyacchāyācchuraṇaśabalaṃ candraśakalaṃ",
-              "segment_number": 208
+              "segment_number": 208,
+              "translated_text": "would he not regard the crescent moon, dappled with the shade of a bird's nest,"
             },
             {
               "tag": "seg",
@@ -5005,12 +5255,14 @@
                 "n": "d"
               },
               "text": "dhanuḥ śaunāsīraṃ kim iti na nibadhnāti dhiṣaṇām",
-              "segment_number": 209
+              "segment_number": 209,
+              "translated_text": "as the rainbow-bow of <s>Indra</s>?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 210
+              "segment_number": 210,
+              "translated_text": "//"
             }
           ]
         }
@@ -5078,7 +5330,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_43"
+        "id": "Saul_43",
+        "label": "Saul 43"
       },
       "children": [
         {
@@ -5092,7 +5345,8 @@
                 "n": "a"
               },
               "text": "dhunotu dhvāntaṃ nas tulitadalitendīvaravanaṃ",
-              "segment_number": 211
+              "segment_number": 211,
+              "translated_text": "May Your mass of hair, O <s>Śivā</s>, dispel our darkness—"
             },
             {
               "tag": "seg",
@@ -5101,7 +5355,8 @@
                 "n": "b"
               },
               "text": "ghanasnigdhaṃ ślakṣṇaṃ cikuranikurambaṃ tava śive",
-              "segment_number": 212
+              "segment_number": 212,
+              "translated_text": "dense, smooth, dark as the destroyed indigo-lily grove—"
             }
           ]
         },
@@ -5116,7 +5371,8 @@
                 "n": "c"
               },
               "text": "yadīyaṃ saurabhyaṃ sahajam upalabdhuṃ sumanaso",
-              "segment_number": 213
+              "segment_number": 213,
+              "translated_text": "whose natural fragrance, I believe, causes the flowers"
             },
             {
               "tag": "seg",
@@ -5125,12 +5381,14 @@
                 "n": "d"
               },
               "text": "vasanty asmin manye balamathanavāṭīviṭapinām",
-              "segment_number": 214
+              "segment_number": 214,
+              "translated_text": "from the garden-trees of the Slayer of <s>Bala</s> (Indra) to dwell therein, seeking to perceive it."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 215
+              "segment_number": 215,
+              "translated_text": "//"
             }
           ]
         }
@@ -5198,7 +5456,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_44"
+        "id": "Saul_44",
+        "label": "Saul 44"
       },
       "children": [
         {
@@ -5212,7 +5471,8 @@
                 "n": "a"
               },
               "text": "vahantī sundūraṃ prabalakabarībhāratimira",
-              "segment_number": 216
+              "segment_number": 216,
+              "translated_text": "Bearing vermilion, with the deep darkness of the mass of heavy tresses"
             },
             {
               "tag": "seg",
@@ -5221,7 +5481,8 @@
                 "n": "b"
               },
               "text": "tviṣāṃ bṛndair bandīkṛtam iva navīnārkakiraṇam",
-              "segment_number": 217
+              "segment_number": 217,
+              "translated_text": "holding captive, as it were, the rays of the fresh sun with clusters of [dark] lustre—"
             }
           ]
         },
@@ -5236,7 +5497,8 @@
                 "n": "c"
               },
               "text": "tanotu kṣemaṃ nas tava vadanasaundaryalaharī",
-              "segment_number": 218
+              "segment_number": 218,
+              "translated_text": "may the parting-line of Your hair, like an overflow-channel"
             },
             {
               "tag": "seg",
@@ -5245,12 +5507,14 @@
                 "n": "d"
               },
               "text": "parīvāhasrotaḥsaraṇir iva sīmantasaraṇiḥ",
-              "segment_number": 219
+              "segment_number": 219,
+              "translated_text": "of the river of the beauty-wave of Your face, grant us welfare."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 220
+              "segment_number": 220,
+              "translated_text": "//"
             }
           ]
         }
@@ -5318,7 +5582,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_45"
+        "id": "Saul_45",
+        "label": "Saul 45"
       },
       "children": [
         {
@@ -5332,7 +5597,8 @@
                 "n": "a"
               },
               "text": "arālaiḥ svābhāvyād alikalabhasaśrībhir alakaiḥ",
-              "segment_number": 221
+              "segment_number": 221,
+              "translated_text": "With naturally curling locks possessing the beauty of young bees,"
             },
             {
               "tag": "seg",
@@ -5341,7 +5607,8 @@
                 "n": "b"
               },
               "text": "parītaṃ te vaktraṃ parihasati paṅkeruharucim",
-              "segment_number": 222
+              "segment_number": 222,
+              "translated_text": "Your face, surrounded [by them], mocks the beauty of the lotus."
             }
           ]
         },
@@ -5356,7 +5623,8 @@
                 "n": "c"
               },
               "text": "darasmere yasmin daśanarucikiñjalkarucire",
-              "segment_number": 223
+              "segment_number": 223,
+              "translated_text": "In its gentle smile, beautiful with the filament-lustre of the teeth,"
             },
             {
               "tag": "seg",
@@ -5365,12 +5633,14 @@
                 "n": "d"
               },
               "text": "sugandhau mādyanti smaramathanacakṣurmadhulihaḥ",
-              "segment_number": 224
+              "segment_number": 224,
+              "translated_text": "the bees that are <s>Smara's</s> (Kāma's, i.e., <s>Śiva</s> the destroyer of Kāma's) eyes become intoxicated by the fragrance."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 225
+              "segment_number": 225,
+              "translated_text": "//"
             }
           ]
         }
@@ -5438,7 +5708,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_46"
+        "id": "Saul_46",
+        "label": "Saul 46"
       },
       "children": [
         {
@@ -5452,7 +5723,8 @@
                 "n": "a"
               },
               "text": "lalāṭaṃ lāvaṇyadyutivimalam ābhāti tava yad",
-              "segment_number": 226
+              "segment_number": 226,
+              "translated_text": "Your forehead, spotlessly radiant with the lustre of beauty, shines—"
             },
             {
               "tag": "seg",
@@ -5461,7 +5733,8 @@
                 "n": "b"
               },
               "text": "dvitīyaṃ tan manye mukuṭaśaśikhaṇḍasya śakalam",
-              "segment_number": 227
+              "segment_number": 227,
+              "translated_text": "I consider it a second fragment of the crescent moon of Your crown;"
             }
           ]
         },
@@ -5476,7 +5749,8 @@
                 "n": "c"
               },
               "text": "viparyāsanyāsād ubhayam api saṃbhūya ca mithaḥ",
-              "segment_number": 228
+              "segment_number": 228,
+              "translated_text": "through the transposition of their placement, both combining together,"
             },
             {
               "tag": "seg",
@@ -5485,12 +5759,14 @@
                 "n": "d"
               },
               "text": "sudhālepasyūtiḥ pariṇamati rākāhimakaraḥ",
-              "segment_number": 229
+              "segment_number": 229,
+              "translated_text": "the plaster of nectar transforms into the full moon."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 230
+              "segment_number": 230,
+              "translated_text": "//"
             }
           ]
         }
@@ -5558,7 +5834,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_47"
+        "id": "Saul_47",
+        "label": "Saul 47"
       },
       "children": [
         {
@@ -5572,7 +5849,8 @@
                 "n": "a"
               },
               "text": "bhruvau bhugne kiṃcid bhuvanabhayabhaṅgavyasanini",
-              "segment_number": 231
+              "segment_number": 231,
+              "translated_text": "Your eyebrows, slightly arched, engaged in dispelling the fear of the world—"
             },
             {
               "tag": "seg",
@@ -5581,7 +5859,8 @@
                 "n": "b"
               },
               "text": "tvadīye netrābhyāṃ madhukararucibhyāṃ dhṛtaguṇe",
-              "segment_number": 232
+              "segment_number": 232,
+              "translated_text": "held as a bowstring by Your two eyes, [dark] like bees—"
             }
           ]
         },
@@ -5596,7 +5875,8 @@
                 "n": "c"
               },
               "text": "dhanur manye savyetarakaragṛhītaṃ ratipateḥ",
-              "segment_number": 233
+              "segment_number": 233,
+              "translated_text": "I consider them the bow of the Lord of Love (<s>Rati's</s> husband), held in left and right hands,"
             },
             {
               "tag": "seg",
@@ -5605,12 +5885,14 @@
                 "n": "d"
               },
               "text": "prakoṣṭhe muṣṭau ca sthagayati nigūḍhāntaram ume",
-              "segment_number": 234
+              "segment_number": 234,
+              "translated_text": "concealing the hidden [arrow] between forearm and fist, O <s>Umā</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 235
+              "segment_number": 235,
+              "translated_text": "//"
             }
           ]
         }
@@ -5678,7 +5960,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_48"
+        "id": "Saul_48",
+        "label": "Saul 48"
       },
       "children": [
         {
@@ -5692,7 +5975,8 @@
                 "n": "a"
               },
               "text": "ahaḥ sūte savyaṃ tava nayanam arkātmakatayā",
-              "segment_number": 236
+              "segment_number": 236,
+              "translated_text": "Your right eye, being of the nature of the Sun, creates the day;"
             },
             {
               "tag": "seg",
@@ -5701,7 +5985,8 @@
                 "n": "b"
               },
               "text": "triyāmāṃ vāmaṃ te sṛjati rajanīnāyakamayam",
-              "segment_number": 237
+              "segment_number": 237,
+              "translated_text": "Your left, being of the nature of the Moon (lord of night), produces the night."
             }
           ]
         },
@@ -5716,7 +6001,8 @@
                 "n": "c"
               },
               "text": "tṛtīyā te dṛṣtir daradalitahemāmbujaruciḥ",
-              "segment_number": 238
+              "segment_number": 238,
+              "translated_text": "Your third eye, with the lustre of a half-opened golden lotus,"
             },
             {
               "tag": "seg",
@@ -5725,12 +6011,14 @@
                 "n": "d"
               },
               "text": "samādhatte saṃdhyāṃ divasaniśayor antaracarīm",
-              "segment_number": 239
+              "segment_number": 239,
+              "translated_text": "produces the twilight that moves between day and night."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 240
+              "segment_number": 240,
+              "translated_text": "//"
             }
           ]
         }
@@ -5798,7 +6086,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_49"
+        "id": "Saul_49",
+        "label": "Saul 49"
       },
       "children": [
         {
@@ -5812,7 +6101,8 @@
                 "n": "a"
               },
               "text": "viśālā kalyāṇī sphuṭarucir ayodhyā kuvalayaiḥ",
-              "segment_number": 241
+              "segment_number": 241,
+              "translated_text": "Vast, auspicious, of manifest radiance, unconquerable by blue lotuses,"
             },
             {
               "tag": "seg",
@@ -5821,7 +6111,8 @@
                 "n": "b"
               },
               "text": "kṛpādhārādhārā kim api madhurā bhogavatikā",
-              "segment_number": 242
+              "segment_number": 242,
+              "translated_text": "a receptacle of streams of compassion, somehow sweet, like [the city] <s>Bhogavatī</s> (of the <s>Nāgas</s>)—"
             }
           ]
         },
@@ -5836,7 +6127,8 @@
                 "n": "c"
               },
               "text": "avantī dṛṣṭis te bahunagaravistāravijayā",
-              "segment_number": 243
+              "segment_number": 243,
+              "translated_text": "Your gaze, O <s>Avantī</s>, victorious in the expanse of many cities,"
             },
             {
               "tag": "seg",
@@ -5845,12 +6137,14 @@
                 "n": "d"
               },
               "text": "dhruvaṃ tattannāmavyavaharaṇayogyā vijayate",
-              "segment_number": 244
+              "segment_number": 244,
+              "translated_text": "is surely worthy of being called by each of those [city] names."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 245
+              "segment_number": 245,
+              "translated_text": "//"
             }
           ]
         }
@@ -5918,7 +6212,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_50"
+        "id": "Saul_50",
+        "label": "Saul 50"
       },
       "children": [
         {
@@ -5932,7 +6227,8 @@
                 "n": "a"
               },
               "text": "kavīnāṃ saṃdarbhastabakamakarandaikarasikaṃ",
-              "segment_number": 246
+              "segment_number": 246,
+              "translated_text": "Your pair of ears, solely delighting in the nectar of the flower-clusters of poets' compositions,"
             },
             {
               "tag": "seg",
@@ -5941,7 +6237,8 @@
                 "n": "b"
               },
               "text": "kaṭākṣavyākṣepabhramarakalabhau karṇayugalam",
-              "segment_number": 247
+              "segment_number": 247,
+              "translated_text": "the young bees that are Your sidelong glances—"
             }
           ]
         },
@@ -5956,7 +6253,8 @@
                 "n": "c"
               },
               "text": "amuñcantau dṛṣṭvā tava nvarasāsvādataralāv",
-              "segment_number": 248
+              "segment_number": 248,
+              "translated_text": "seeing these two [ears] restless with eagerness to taste the new <s>rasa</s> (aesthetic flavor),"
             },
             {
               "tag": "seg",
@@ -5965,12 +6263,14 @@
                 "n": "d"
               },
               "text": "asūyāsaṃsargād alikanayanaṃ kiṃcid aruṇam",
-              "segment_number": 249
+              "segment_number": 249,
+              "translated_text": "slightly reddened by association with jealousy, [like] a false eye"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 250
+              "segment_number": 250,
+              "translated_text": "//"
             }
           ]
         }
@@ -6038,7 +6338,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_51"
+        "id": "Saul_51",
+        "label": "Saul 51"
       },
       "children": [
         {
@@ -6052,7 +6353,8 @@
                 "n": "a"
               },
               "text": "śive śṛṅgārārdrā taditaramukhe kutsanaparā",
-              "segment_number": 251
+              "segment_number": 251,
+              "translated_text": "Moist with erotic sentiment (<s>śṛṅgāra</s>) toward <s>Śiva</s>, contemptuous toward other faces,"
             },
             {
               "tag": "seg",
@@ -6061,7 +6363,8 @@
                 "n": "b"
               },
               "text": "saroṣā gaṅgāyāṃ giriśacarite vismayavatī",
-              "segment_number": 252
+              "segment_number": 252,
+              "translated_text": "wrathful toward <s>Gaṅgā</s>, filled with wonder at the exploits of the Lord of the Mountain,"
             }
           ]
         },
@@ -6076,7 +6379,8 @@
                 "n": "c"
               },
               "text": "harāhibhyo bhītā sarasiruhasaubhāgyajayinī",
-              "segment_number": 253
+              "segment_number": 253,
+              "translated_text": "afraid of <s>Hara</s>'s serpents, victorious over the beauty of the lotus,"
             },
             {
               "tag": "seg",
@@ -6085,12 +6389,14 @@
                 "n": "d"
               },
               "text": "sakhīṣu smerā te mayi janani dṛṣṭiḥ sakaruṇā",
-              "segment_number": 254
+              "segment_number": 254,
+              "translated_text": "smiling toward friends—your gaze, O Mother, is compassionate toward me."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 255
+              "segment_number": 255,
+              "translated_text": "//"
             }
           ]
         }
@@ -6158,7 +6464,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_52"
+        "id": "Saul_52",
+        "label": "Saul 52"
       },
       "children": [
         {
@@ -6172,7 +6479,8 @@
                 "n": "a"
               },
               "text": "gate karṇābhyarṇaṃ garuta iva pakṣmāṇi dadhatī",
-              "segment_number": 256
+              "segment_number": 256,
+              "translated_text": "Reaching close to the ears, bearing eyelashes like wings of <s>Garuḍa</s>,"
             },
             {
               "tag": "seg",
@@ -6181,7 +6489,8 @@
                 "n": "b"
               },
               "text": "purāṃ bhettuś cittapraśamarasavidrāvaṇaphale",
-              "segment_number": 257
+              "segment_number": 257,
+              "translated_text": "accomplishing the dispelling of the tranquility-nectar in the mind of the destroyer of the cities,"
             }
           ]
         },
@@ -6196,7 +6505,8 @@
                 "n": "c"
               },
               "text": "ime netre gotrādharapatikulottaṃsakalike",
-              "segment_number": 258
+              "segment_number": 258,
+              "translated_text": "these two eyes, O bud-like crown-jewel of the family of the lord of mountains,"
             },
             {
               "tag": "seg",
@@ -6205,12 +6515,14 @@
                 "n": "d"
               },
               "text": "tavā-karṇākṛṣṭasmaraśaravilāsaṃ kalayataḥ",
-              "segment_number": 259
+              "segment_number": 259,
+              "translated_text": "display the playful sport of the arrows of <s>Kāma</s> (Love), drawn to the ear."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 260
+              "segment_number": 260,
+              "translated_text": "//"
             }
           ]
         }
@@ -6278,7 +6590,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_53"
+        "id": "Saul_53",
+        "label": "Saul 53"
       },
       "children": [
         {
@@ -6292,7 +6605,8 @@
                 "n": "a"
               },
               "text": "vibhaktatraivarṇyaṃ vyatikaritanīlāñjanatayā",
-              "segment_number": 261
+              "segment_number": 261,
+              "translated_text": "Displaying a division into three colors, mixed with dark collyrium,"
             },
             {
               "tag": "seg",
@@ -6301,7 +6615,8 @@
                 "n": "b"
               },
               "text": "vibhāti tvannetratritayam idam īśānadayite",
-              "segment_number": 262
+              "segment_number": 262,
+              "translated_text": "this triad of your eyes shines forth, O beloved of <s>Īśāna</s>,"
             }
           ]
         },
@@ -6316,7 +6631,8 @@
                 "n": "c"
               },
               "text": "punaḥ sraṣṭuṃ devān druhiṇaharirudrān uparatān",
-              "segment_number": 263
+              "segment_number": 263,
+              "translated_text": "as if bearing the three <s>guṇas</s> (qualities)—<s>rajas</s>, <s>sattva</s>, and <s>tamas</s>—"
             },
             {
               "tag": "seg",
@@ -6325,12 +6641,14 @@
                 "n": "d"
               },
               "text": "rajaḥ sattvaṃ bibhrat tama iti guṇānāṃ trayam iva",
-              "segment_number": 264
+              "segment_number": 264,
+              "translated_text": "in order to create anew the gods <s>Brahmā</s>, <s>Hari</s>, and <s>Rudra</s>, who had ceased [their functions]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 265
+              "segment_number": 265,
+              "translated_text": "//"
             }
           ]
         }
@@ -6398,7 +6716,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_54"
+        "id": "Saul_54",
+        "label": "Saul 54"
       },
       "children": [
         {
@@ -6412,7 +6731,8 @@
                 "n": "a"
               },
               "text": "pavitrīkartuṃ naḥ paśupatiparādhīnahṛdaye",
-              "segment_number": 266
+              "segment_number": 266,
+              "translated_text": "O you whose heart is subject to <s>Paśupati</s> (Lord of creatures), to purify us"
             },
             {
               "tag": "seg",
@@ -6421,7 +6741,8 @@
                 "n": "b"
               },
               "text": "dayāmitrair netrair aruṇadhavalaśyāmarucibhiḥ",
-              "segment_number": 267
+              "segment_number": 267,
+              "translated_text": "with your compassionate eyes of red, white, and dark hues,"
             }
           ]
         },
@@ -6436,7 +6757,8 @@
                 "n": "c"
               },
               "text": "nadaḥ śoṇo gaṅgā tapanatanayeti dhruvam amuṃ",
-              "segment_number": 268
+              "segment_number": 268,
+              "translated_text": "you surely bring about the confluence of three sacred rivers—"
             },
             {
               "tag": "seg",
@@ -6445,12 +6767,14 @@
                 "n": "d"
               },
               "text": "trayāṇāṃ tīrthānām upanayasi saṃbhedam anaghe",
-              "segment_number": 269
+              "segment_number": 269,
+              "translated_text": "the <s>Śoṇa</s> (Red River), the <s>Gaṅgā</s>, and the <s>Tapanatanayā</s> (Yamunā, daughter of the Sun), O sinless one."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 270
+              "segment_number": 270,
+              "translated_text": "//"
             }
           ]
         }
@@ -6518,7 +6842,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_55"
+        "id": "Saul_55",
+        "label": "Saul 55"
       },
       "children": [
         {
@@ -6532,7 +6857,8 @@
                 "n": "a"
               },
               "text": "tavā-parṇe karṇejapanayanapaiśunyacakitā",
-              "segment_number": 271
+              "segment_number": 271,
+              "translated_text": "In [the lake of] your ear, frightened by the tale-bearing of the eyes to the ear,"
             },
             {
               "tag": "seg",
@@ -6541,7 +6867,8 @@
                 "n": "b"
               },
               "text": "nilīyante toye niyatam animeṣāḥ śapharikāḥ",
-              "segment_number": 272
+              "segment_number": 272,
+              "translated_text": "the unblinking <s>śapharikā</s> (small fish) surely hide in the water;"
             }
           ]
         },
@@ -6556,7 +6883,8 @@
                 "n": "c"
               },
               "text": "iyaṃ ca śrīr baddhacchadapuṭakapāṭaṃ kuvalayam",
-              "segment_number": 273
+              "segment_number": 273,
+              "translated_text": "and <s>Śrī</s> (Lakṣmī), like a blue lotus with petals shut as if with doors,"
             },
             {
               "tag": "seg",
@@ -6565,12 +6893,14 @@
                 "n": "d"
               },
               "text": "jahāti pratyūṣe niśi ca vighaṭayya praviśati",
-              "segment_number": 274
+              "segment_number": 274,
+              "translated_text": "departs at dawn and enters again at night, opening [the petals]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 275
+              "segment_number": 275,
+              "translated_text": "//"
             }
           ]
         }
@@ -6638,7 +6968,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_56"
+        "id": "Saul_56",
+        "label": "Saul 56"
       },
       "children": [
         {
@@ -6652,7 +6983,8 @@
                 "n": "a"
               },
               "text": "nimeṣonmeṣābhyāṃ pralayam udayaṃ yāti jagatī",
-              "segment_number": 276
+              "segment_number": 276,
+              "translated_text": "The world undergoes dissolution and creation by the closing and opening of [your eyes]—"
             },
             {
               "tag": "seg",
@@ -6661,7 +6993,8 @@
                 "n": "b"
               },
               "text": "tavety āhuḥ santo dharaṇidhararājanyatanaye",
-              "segment_number": 277
+              "segment_number": 277,
+              "translated_text": "so say the sages, O daughter of the king of mountains;"
             }
           ]
         },
@@ -6676,7 +7009,8 @@
                 "n": "c"
               },
               "text": "tvadunmeṣāj jātaṃ jagad idam aśeṣaṃ pralayataḥ",
-              "segment_number": 278
+              "segment_number": 278,
+              "translated_text": "since this entire universe arose from the opening of your eyes, I think"
             },
             {
               "tag": "seg",
@@ -6685,12 +7019,14 @@
                 "n": "d"
               },
               "text": "paritrātuṃ śaṅke parihṛtanimeṣās tava dṛśaḥ",
-              "segment_number": 279
+              "segment_number": 279,
+              "translated_text": "your eyes have given up blinking in order to protect it from dissolution."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 280
+              "segment_number": 280,
+              "translated_text": "//"
             }
           ]
         }
@@ -6758,7 +7094,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_57"
+        "id": "Saul_57",
+        "label": "Saul 57"
       },
       "children": [
         {
@@ -6772,7 +7109,8 @@
                 "n": "a"
               },
               "text": "dṛśā drāghīyasyā daradalitanīlotpalarucā",
-              "segment_number": 281
+              "segment_number": 281,
+              "translated_text": "With your long gaze, having the luster of a slightly opened blue lotus,"
             },
             {
               "tag": "seg",
@@ -6781,7 +7119,8 @@
                 "n": "b"
               },
               "text": "davīyāṃsaṃ dīnaṃ snapaya kṛpayā mām api śive",
-              "segment_number": 282
+              "segment_number": 282,
+              "translated_text": "bathe even me, who am distant and wretched, with your compassion, O <s>Śive</s> (auspicious one);"
             }
           ]
         },
@@ -6796,7 +7135,8 @@
                 "n": "c"
               },
               "text": "anenāyaṃ dhanyo bhavati na ca te hānir iyatā",
-              "segment_number": 283
+              "segment_number": 283,
+              "translated_text": "by this [act] one becomes blessed, and there is no loss to you thereby—"
             },
             {
               "tag": "seg",
@@ -6805,12 +7145,14 @@
                 "n": "d"
               },
               "text": "vane vā harmye vā samakaranipāto himakaraḥ",
-              "segment_number": 284
+              "segment_number": 284,
+              "translated_text": "the moon falls equally on the forest or the palace."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 285
+              "segment_number": 285,
+              "translated_text": "//"
             }
           ]
         }
@@ -6878,7 +7220,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_58"
+        "id": "Saul_58",
+        "label": "Saul 58"
       },
       "children": [
         {
@@ -6892,7 +7235,8 @@
                 "n": "a"
               },
               "text": "arālaṃ te pālīyugalam agarājanyatanaye",
-              "segment_number": 286
+              "segment_number": 286,
+              "translated_text": "The curved pair of your brow-lines, O daughter of the king of mountains,"
             },
             {
               "tag": "seg",
@@ -6901,7 +7245,8 @@
                 "n": "b"
               },
               "text": "na keṣām ādhatte kusumaśarakodaṇḍakutukam",
-              "segment_number": 287
+              "segment_number": 287,
+              "translated_text": "in whom does it not arouse the curiosity of the bow of the flower-arrowed one (<s>Kāma</s>)?"
             }
           ]
         },
@@ -6916,7 +7261,8 @@
                 "n": "c"
               },
               "text": "tiraścīno yatra śravaṇapatham ullaṅghya vilasan",
-              "segment_number": 288
+              "segment_number": 288,
+              "translated_text": "Where, crossing transversely beyond the path of the ear, the shining"
             },
             {
               "tag": "seg",
@@ -6925,12 +7271,14 @@
                 "n": "d"
               },
               "text": "apāṅgavyāsaṅgo diśati śarasaṃdhānadhiṣaṇām",
-              "segment_number": 289
+              "segment_number": 289,
+              "translated_text": "sidelong glance imparts the skill of fitting the arrow to the bowstring."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 290
+              "segment_number": 290,
+              "translated_text": "//"
             }
           ]
         }
@@ -6998,7 +7346,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_59"
+        "id": "Saul_59",
+        "label": "Saul 59"
       },
       "children": [
         {
@@ -7012,7 +7361,8 @@
                 "n": "a"
               },
               "text": "sphuradgaṇḍābhogapratiphalitatāṭaṅkayugalaṃ",
-              "segment_number": 291
+              "segment_number": 291,
+              "translated_text": "With a pair of ear-ornaments reflected in the expanse of your radiant cheeks—"
             },
             {
               "tag": "seg",
@@ -7021,7 +7371,8 @@
                 "n": "b"
               },
               "text": "catuścakraṃ manye tava mukham idaṃ manmatharatham",
-              "segment_number": 292
+              "segment_number": 292,
+              "translated_text": "I consider this face of yours to be the four-wheeled chariot of <s>Manmatha</s> (Love),"
             }
           ]
         },
@@ -7036,7 +7387,8 @@
                 "n": "c"
               },
               "text": "yam āruhya druhyaty avaniratham arkenducaraṇaṃ",
-              "segment_number": 293
+              "segment_number": 293,
+              "translated_text": "mounting which, the great warrior <s>Māra</s> (Love) overpowers"
             },
             {
               "tag": "seg",
@@ -7045,12 +7397,14 @@
                 "n": "d"
               },
               "text": "mahāvīro māraḥ pramathapataye svaṃ jitavate",
-              "segment_number": 294
+              "segment_number": 294,
+              "translated_text": "the Lord of the <s>Pramathas</s> (<s>Śiva</s>), [whose chariot is] the earth with the sun and moon as wheels, who had [previously] been victorious."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 295
+              "segment_number": 295,
+              "translated_text": "//"
             }
           ]
         }
@@ -7118,7 +7472,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_60"
+        "id": "Saul_60",
+        "label": "Saul 60"
       },
       "children": [
         {
@@ -7132,7 +7487,8 @@
                 "n": "a"
               },
               "text": "sarasvatyāḥ sūktīr amṛtalaharīkauśalaharīḥ",
-              "segment_number": 296
+              "segment_number": 296,
+              "translated_text": "As you drink ceaselessly, O consort of <s>Śarva</s>, through the cup-like ears,"
             },
             {
               "tag": "seg",
@@ -7141,7 +7497,8 @@
                 "n": "b"
               },
               "text": "pibantyāḥ śarvāṇi śravaṇaculukābhyām aviratam",
-              "segment_number": 297
+              "segment_number": 297,
+              "translated_text": "the eloquent verses of <s>Sarasvatī</s>, waves of the river of nectar,"
             }
           ]
         },
@@ -7156,7 +7513,8 @@
                 "n": "c"
               },
               "text": "camatkāraślāghācalitaśirasaḥ kuṇḍalagaṇo",
-              "segment_number": 298
+              "segment_number": 298,
+              "translated_text": "your cluster of earrings, with head nodding in appreciative praise,"
             },
             {
               "tag": "seg",
@@ -7165,12 +7523,14 @@
                 "n": "d"
               },
               "text": "jhaṇatkārais tāraiḥ prativacanam ācaṣṭae iva te",
-              "segment_number": 299
+              "segment_number": 299,
+              "translated_text": "seems to speak a reply with their clear jingling sounds."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 300
+              "segment_number": 300,
+              "translated_text": "//"
             }
           ]
         }
@@ -7238,7 +7598,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_61"
+        "id": "Saul_61",
+        "label": "Saul 61"
       },
       "children": [
         {
@@ -7252,7 +7613,8 @@
                 "n": "a"
               },
               "text": "asau nāsāvaṃśas tuhinagirivaṃśadhvajapaṭi",
-              "segment_number": 301
+              "segment_number": 301,
+              "translated_text": "This bamboo-stem of your nose, O banner of the lineage of the Snowy Mountain,"
             },
             {
               "tag": "seg",
@@ -7261,7 +7623,8 @@
                 "n": "b"
               },
               "text": "tvadīyo nedīyaḥ phalatu phalam asmākam ucitam",
-              "segment_number": 302
+              "segment_number": 302,
+              "translated_text": "being so near [to your face], may it bear appropriate fruit for us;"
             }
           ]
         },
@@ -7276,7 +7639,8 @@
                 "n": "c"
               },
               "text": "vahann antar muktāḥ śiśirataraniśvāsaghaṭitāḥ",
-              "segment_number": 303
+              "segment_number": 303,
+              "translated_text": "bearing within it pearls formed by cool exhalations,"
             },
             {
               "tag": "seg",
@@ -7285,12 +7649,14 @@
                 "n": "d"
               },
               "text": "samṛddhyā yas tāsāṃ bahir api ca muktāmaṇidharaḥ",
-              "segment_number": 304
+              "segment_number": 304,
+              "translated_text": "and by their abundance, bearing a pearl-gem [ornament] even on the outside."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 305
+              "segment_number": 305,
+              "translated_text": "//"
             }
           ]
         }
@@ -7358,7 +7724,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_62"
+        "id": "Saul_62",
+        "label": "Saul 62"
       },
       "children": [
         {
@@ -7372,7 +7739,8 @@
                 "n": "a"
               },
               "text": "prakṛtyā raktāyās tava sudati dantacchadaruceḥ",
-              "segment_number": 306
+              "segment_number": 306,
+              "translated_text": "Of your lips, which are naturally red, O beautiful-toothed one, of the luster of the covering of your teeth,"
             },
             {
               "tag": "seg",
@@ -7381,7 +7749,8 @@
                 "n": "b"
               },
               "text": "pravakṣye sādṛśyaṃ janayatu phalaṃ vidrumalatā",
-              "segment_number": 307
+              "segment_number": 307,
+              "translated_text": "I shall describe a likeness—may the coral vine produce [such] fruit!"
             }
           ]
         },
@@ -7396,7 +7765,8 @@
                 "n": "c"
               },
               "text": "na bimbaṃ tadbimbapratiphalanalābhād aruṇitaṃ",
-              "segment_number": 308
+              "segment_number": 308,
+              "translated_text": "The <s>bimba</s> fruit, reddened only by the reflection of that [lip],"
             },
             {
               "tag": "seg",
@@ -7405,12 +7775,14 @@
                 "n": "d"
               },
               "text": "tulām adhyāroḍhuṃ katham iva vilajjeta kalayā",
-              "segment_number": 309
+              "segment_number": 309,
+              "translated_text": "how could it, even by a fraction, shamelessly claim to ascend to equality?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 310
+              "segment_number": 310,
+              "translated_text": "//"
             }
           ]
         }
@@ -7478,7 +7850,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_63"
+        "id": "Saul_63",
+        "label": "Saul 63"
       },
       "children": [
         {
@@ -7492,7 +7865,8 @@
                 "n": "a"
               },
               "text": "smitajyotsnājālaṃ tava vadanacandrasya pibatāṃ",
-              "segment_number": 311
+              "segment_number": 311,
+              "translated_text": "For the <s>cakora</s> birds drinking the network of moonlight from the smile of your moon-like face,"
             },
             {
               "tag": "seg",
@@ -7501,7 +7875,8 @@
                 "n": "b"
               },
               "text": "cakorāṇām āsīd atirasatayā cañcujaḍimā",
-              "segment_number": 312
+              "segment_number": 312,
+              "translated_text": "there was numbness of the beak due to excessive relish;"
             }
           ]
         },
@@ -7516,7 +7891,8 @@
                 "n": "c"
               },
               "text": "atas te śītāṃśor amṛtalaharīm amlarucayaḥ",
-              "segment_number": 313
+              "segment_number": 313,
+              "translated_text": "therefore, having a taste for the sour, they freely drink"
             },
             {
               "tag": "seg",
@@ -7525,12 +7901,14 @@
                 "n": "d"
               },
               "text": "pibanti svacchandaṃ niśiniśi bhṛśaṃ kāñcikadhiyā",
-              "segment_number": 314
+              "segment_number": 314,
+              "translated_text": "the nectar-stream of the cool-rayed [moon] every night, thinking it to be <s>kāñcika</s> (sour gruel)."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 315
+              "segment_number": 315,
+              "translated_text": "//"
             }
           ]
         }
@@ -7598,7 +7976,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_64"
+        "id": "Saul_64",
+        "label": "Saul 64"
       },
       "children": [
         {
@@ -7612,7 +7991,8 @@
                 "n": "a"
               },
               "text": "aviśrāntaṃ patyur guṇagaṇakathāmreḍanajapā",
-              "segment_number": 316
+              "segment_number": 316,
+              "translated_text": "Unceasingly engaged in the repetitive recitation of the enumeration of the Lord's virtues,"
             },
             {
               "tag": "seg",
@@ -7621,7 +8001,8 @@
                 "n": "b"
               },
               "text": "japāpuṣpacchāyā tava janani jihvā jayati sā",
-              "segment_number": 317
+              "segment_number": 317,
+              "translated_text": "your tongue, O Mother, prevails, having the hue of the <s>japā</s> (hibiscus) flower;"
             }
           ]
         },
@@ -7636,7 +8017,8 @@
                 "n": "c"
               },
               "text": "yadagrāsīnāyāḥ sphaṭikadṛṣadacchacchavimayī",
-              "segment_number": 318
+              "segment_number": 318,
+              "translated_text": "seated at whose tip, the form of <s>Sarasvatī</s>,"
             },
             {
               "tag": "seg",
@@ -7645,12 +8027,14 @@
                 "n": "d"
               },
               "text": "sarasvatyā mūrtiḥ pariṇamati māṇikyavapuṣā",
-              "segment_number": 319
+              "segment_number": 319,
+              "translated_text": "[normally] transparent like crystal, transforms into a ruby-bodied one."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 320
+              "segment_number": 320,
+              "translated_text": "//"
             }
           ]
         }
@@ -7718,7 +8102,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_65"
+        "id": "Saul_65",
+        "label": "Saul 65"
       },
       "children": [
         {
@@ -7732,7 +8117,8 @@
                 "n": "a"
               },
               "text": "raṇe jitvā daityān apahṛtaśirastraiḥ kavacibhir",
-              "segment_number": 321
+              "segment_number": 321,
+              "translated_text": "Having conquered the <s>Daityas</s> (demons) in battle, by the armored [gods] whose helmets had been removed,"
             },
             {
               "tag": "seg",
@@ -7741,7 +8127,8 @@
                 "n": "b"
               },
               "text": "nivṛttaiś caṇḍāṃśutripuraharanirmālyavimukhaiḥ",
-              "segment_number": 322
+              "segment_number": 322,
+              "translated_text": "returning, averse to the leftover offerings of the destroyer of the three cities (<s>Śiva</s>) who is fierce-rayed,"
             }
           ]
         },
@@ -7756,7 +8143,8 @@
                 "n": "c"
               },
               "text": "viśākhendropendraiḥ śaśiviśadakarpūraśakalā",
-              "segment_number": 323
+              "segment_number": 323,
+              "translated_text": "by <s>Viśākha</s> (<s>Skanda</s>), <s>Indra</s>, and <s>Upendra</s> (<s>Viṣṇu</s>), [your] morsels of betel, white as moonlight with pieces of camphor,"
             },
             {
               "tag": "seg",
@@ -7765,12 +8153,14 @@
                 "n": "d"
               },
               "text": "vilīyante mātas tava vadanatāmbūlakabalāḥ",
-              "segment_number": 324
+              "segment_number": 324,
+              "translated_text": "are eagerly dissolved, O Mother, from your mouth."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 325
+              "segment_number": 325,
+              "translated_text": "//"
             }
           ]
         }
@@ -7838,7 +8228,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_66"
+        "id": "Saul_66",
+        "label": "Saul 66"
       },
       "children": [
         {
@@ -7852,7 +8243,8 @@
                 "n": "a"
               },
               "text": "vipañcyā gāyantī vividham avadānaṃ paśupates",
-              "segment_number": 326
+              "segment_number": 326,
+              "translated_text": "As <s>Vāṇī</s> (<s>Sarasvatī</s>) sings on the <s>vīṇā</s> the various heroic deeds of <s>Paśupati</s>,"
             },
             {
               "tag": "seg",
@@ -7861,7 +8253,8 @@
                 "n": "b"
               },
               "text": "tvayārabdhe vaktuṃ calitaśirasā sādhuvacane",
-              "segment_number": 327
+              "segment_number": 327,
+              "translated_text": "when you begin to speak words of appreciation with nodding head,"
             }
           ]
         },
@@ -7876,7 +8269,8 @@
                 "n": "c"
               },
               "text": "tvadīyair mādhuryair apalapitatantrīkalaravāṃ",
-              "segment_number": 328
+              "segment_number": 328,
+              "translated_text": "by your sweetness [of voice], silencing the melody of the <s>vīṇā</s> strings,"
             },
             {
               "tag": "seg",
@@ -7885,12 +8279,14 @@
                 "n": "d"
               },
               "text": "nijāṃ vīṇāṃ vāṇī niculayati colena nibhṛtam",
-              "segment_number": 329
+              "segment_number": 329,
+              "translated_text": "<s>Vāṇī</s> quietly covers her own <s>vīṇā</s> with its cloth."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 330
+              "segment_number": 330,
+              "translated_text": "//"
             }
           ]
         }
@@ -7958,7 +8354,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_67"
+        "id": "Saul_67",
+        "label": "Saul 67"
       },
       "children": [
         {
@@ -7972,7 +8369,8 @@
                 "n": "a"
               },
               "text": "karāgreṇa spaṣṭaṃ tuhinagiriṇā vatsalatayā",
-              "segment_number": 331
+              "segment_number": 331,
+              "translated_text": "Clearly [held] at the fingertips by the Snowy Mountain [<s>Himālaya</s>] with paternal affection,"
             },
             {
               "tag": "seg",
@@ -7981,7 +8379,8 @@
                 "n": "b"
               },
               "text": "girīśenodastaṃ muhur adharapānākulatayā",
-              "segment_number": 332
+              "segment_number": 332,
+              "translated_text": "raised up by the Lord of the Mountain (<s>Śiva</s>) repeatedly in his eagerness to drink [from] your lips,"
             }
           ]
         },
@@ -7996,7 +8395,8 @@
                 "n": "c"
               },
               "text": "karagrāhyaṃ śaṃbhor mukhamukuravṛntaṃ girisute",
-              "segment_number": 333
+              "segment_number": 333,
+              "translated_text": "graspable by the hand of <s>Śambhu</s>, [like] the handle of a face-mirror, O daughter of the mountain—"
             },
             {
               "tag": "seg",
@@ -8005,12 +8405,14 @@
                 "n": "d"
               },
               "text": "kathaṃkāraṃ brūmas tava cibukam aupamyarahitam",
-              "segment_number": 334
+              "segment_number": 334,
+              "translated_text": "how shall we describe your chin, which is beyond comparison?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 335
+              "segment_number": 335,
+              "translated_text": "//"
             }
           ]
         }
@@ -8078,7 +8480,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_68"
+        "id": "Saul_68",
+        "label": "Saul 68"
       },
       "children": [
         {
@@ -8092,7 +8495,8 @@
                 "n": "a"
               },
               "text": "bhujāśleṣān nityaṃ puradamayituḥ kaṇṭakavatī",
-              "segment_number": 336
+              "segment_number": 336,
+              "translated_text": "Your neck, bristling always from the embrace of the arms of the destroyer of cities (<s>Śiva</s>),"
             },
             {
               "tag": "seg",
@@ -8101,7 +8505,8 @@
                 "n": "b"
               },
               "text": "tava grīvā dhatte mukhakamalanālaśriyam iyam",
-              "segment_number": 337
+              "segment_number": 337,
+              "translated_text": "bears the beauty of a lotus-stalk [supporting] the face-lotus;"
             }
           ]
         },
@@ -8116,7 +8521,8 @@
                 "n": "c"
               },
               "text": "svataḥ śvetā kālāgarubahalajambālamalinā",
-              "segment_number": 338
+              "segment_number": 338,
+              "translated_text": "naturally white, darkened by the thick paste of black <s>agaru</s> (aloe),"
             },
             {
               "tag": "seg",
@@ -8125,12 +8531,14 @@
                 "n": "d"
               },
               "text": "mṛṇālīlālityam vahati yadadho hāralatikā",
-              "segment_number": 339
+              "segment_number": 339,
+              "translated_text": "the necklace hanging below it bears the loveliness of a lotus fiber."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 340
+              "segment_number": 340,
+              "translated_text": "//"
             }
           ]
         }
@@ -8198,7 +8606,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_69"
+        "id": "Saul_69",
+        "label": "Saul 69"
       },
       "children": [
         {
@@ -8212,7 +8621,8 @@
                 "n": "a"
               },
               "text": "gale rekhās tisro gatigamakagītaikanipuṇe",
-              "segment_number": 341
+              "segment_number": 341,
+              "translated_text": "The three lines on your throat, O one skilled solely in the <s>gati</s>, <s>gamaka</s>, and <s>gīta</s> of music,"
             },
             {
               "tag": "seg",
@@ -8221,7 +8631,8 @@
                 "n": "b"
               },
               "text": "vivāhavyānaddhatriguṇaguṇasaṃkhyāpratibhuvaḥ",
-              "segment_number": 342
+              "segment_number": 342,
+              "translated_text": "representing the count of the three strands (<s>guṇas</s>) tied at the marriage [ceremony],"
             }
           ]
         },
@@ -8236,7 +8647,8 @@
                 "n": "c"
               },
               "text": "virājante nānāvidhamadhurarāgākarabhuvāṃ",
-              "segment_number": 343
+              "segment_number": 343,
+              "translated_text": "shine like the boundary lines that determine the fixed arrangement"
             },
             {
               "tag": "seg",
@@ -8245,12 +8657,14 @@
                 "n": "d"
               },
               "text": "trayāṇāṃ grāmāṇāṃ sthitiniyamasīmāna iva te",
-              "segment_number": 344
+              "segment_number": 344,
+              "translated_text": "of the three <s>grāmas</s> (musical scales), which are the sources of various sweet <s>rāgas</s> (melodies)."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 345
+              "segment_number": 345,
+              "translated_text": "//"
             }
           ]
         }
@@ -8318,7 +8732,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_70"
+        "id": "Saul_70",
+        "label": "Saul 70"
       },
       "children": [
         {
@@ -8332,7 +8747,8 @@
                 "n": "a"
               },
               "text": "mṛṇālīmṛdvīnāṃ tava bhujalatānāṃ catasṛṇāṃ",
-              "segment_number": 346
+              "segment_number": 346,
+              "translated_text": "The beauty of your four arm-creepers, soft as lotus stalks,"
             },
             {
               "tag": "seg",
@@ -8341,7 +8757,8 @@
                 "n": "b"
               },
               "text": "caturbhiḥ saundaryaṃ sarasijabhavaḥ stauti vadanaiḥ",
-              "segment_number": 347
+              "segment_number": 347,
+              "translated_text": "<s>Brahmā</s> (the lotus-born) praises with [his] four faces;"
             }
           ]
         },
@@ -8356,7 +8773,8 @@
                 "n": "c"
               },
               "text": "nakhebhyaḥ saṃtrasyan prathamamathanād andhakaripoś",
-              "segment_number": 348
+              "segment_number": 348,
+              "translated_text": "trembling from fear of the nails [of <s>Śiva</s>] since the first churning of <s>Andhaka</s> (the demon),"
             },
             {
               "tag": "seg",
@@ -8365,12 +8783,14 @@
                 "n": "d"
               },
               "text": "caturṇāṃ śīrṣāṇāṃ samam abhayahastārpaṇadhiyā",
-              "segment_number": 349
+              "segment_number": 349,
+              "translated_text": "with the intention of offering simultaneously the gesture of fearlessness to [his] four heads."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 350
+              "segment_number": 350,
+              "translated_text": "//"
             }
           ]
         }
@@ -8438,7 +8858,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_71"
+        "id": "Saul_71",
+        "label": "Saul 71"
       },
       "children": [
         {
@@ -8452,7 +8873,8 @@
                 "n": "a"
               },
               "text": "nakhānām uddyotair navanalinarāgaṃ vihasatāṃ",
-              "segment_number": 351
+              "segment_number": 351,
+              "translated_text": "Of your hands whose nails' radiance laughs at the color of fresh lotuses—"
             },
             {
               "tag": "seg",
@@ -8461,7 +8883,8 @@
                 "n": "b"
               },
               "text": "karāṇāṃ te kāntiṃ kathaya kathayāmaḥ katham ume",
-              "segment_number": 352
+              "segment_number": 352,
+              "translated_text": "how shall we describe their beauty, O <s>Umā</s>?"
             }
           ]
         },
@@ -8476,7 +8899,8 @@
                 "n": "c"
               },
               "text": "kayā cid vā sāmyaṃ bhajatu kalayā hanta kamalaṃ",
-              "segment_number": 353
+              "segment_number": 353,
+              "translated_text": "Perhaps the lotus may bear some comparison by a small fraction,"
             },
             {
               "tag": "seg",
@@ -8485,12 +8909,14 @@
                 "n": "d"
               },
               "text": "yadi krīḍallakṣmīcaraṇatalalākṣāruṇadalam",
-              "segment_number": 354
+              "segment_number": 354,
+              "translated_text": "if it has petals reddened by the lac-dye from the soles of <s>Lakṣmī</s>'s feet as she plays [upon it]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 355
+              "segment_number": 355,
+              "translated_text": "//"
             }
           ]
         }
@@ -8558,7 +8984,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_72"
+        "id": "Saul_72",
+        "label": "Saul 72"
       },
       "children": [
         {
@@ -8572,7 +8999,8 @@
                 "n": "a"
               },
               "text": "samaṃ devi skandadvipavadanapītaṃ stanayugaṃ",
-              "segment_number": 356
+              "segment_number": 356,
+              "translated_text": "O Goddess, may this pair of breasts, equally suckled by <s>Skanda</s> and the elephant-faced one (<s>Gaṇeśa</s>),"
             },
             {
               "tag": "seg",
@@ -8581,7 +9009,8 @@
                 "n": "b"
               },
               "text": "tavedaṃ naḥ khedaṃ haratu satataṃ prasnutamukham",
-              "segment_number": 357
+              "segment_number": 357,
+              "translated_text": "with ever-flowing faces [of milk], remove our sorrow always;"
             }
           ]
         },
@@ -8596,7 +9025,8 @@
                 "n": "c"
               },
               "text": "yad ālokyāśaṅkākulitahṛdayo hāsajanakaḥ",
-              "segment_number": 358
+              "segment_number": 358,
+              "translated_text": "seeing which, with heart agitated by doubt and causing laughter,"
             },
             {
               "tag": "seg",
@@ -8605,12 +9035,14 @@
                 "n": "d"
               },
               "text": "svakumbhau herambaḥ parimṛśati hastena jhaṭiti",
-              "segment_number": 359
+              "segment_number": 359,
+              "translated_text": "<s>Heramba</s> (<s>Gaṇeśa</s>) hastily feels his own two frontal globes with his trunk."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 360
+              "segment_number": 360,
+              "translated_text": "//"
             }
           ]
         }
@@ -8678,7 +9110,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_73"
+        "id": "Saul_73",
+        "label": "Saul 73"
       },
       "children": [
         {
@@ -8692,7 +9125,8 @@
                 "n": "a"
               },
               "text": "amū te vakṣojāv amṛtarasamāṇikyakutupau",
-              "segment_number": 361
+              "segment_number": 361,
+              "translated_text": "These two breasts of yours, like vessels of nectar and ruby,"
             },
             {
               "tag": "seg",
@@ -8701,7 +9135,8 @@
                 "n": "b"
               },
               "text": "na saṃdehaspando nagapatipatāke manasi naḥ",
-              "segment_number": 362
+              "segment_number": 362,
+              "translated_text": "let there be no doubt or trembling in our minds, O banner of the Mountain Lord;"
             }
           ]
         },
@@ -8716,7 +9151,8 @@
                 "n": "c"
               },
               "text": "pibantau tau yasmād aviditavadhūsaṃgamarasau",
-              "segment_number": 363
+              "segment_number": 363,
+              "translated_text": "for, having suckled from them, [yet] unknowing of the pleasure of union with a bride,"
             },
             {
               "tag": "seg",
@@ -8725,12 +9161,14 @@
                 "n": "d"
               },
               "text": "kumārāv adyāpi dviradavadanakrauñcadalanau",
-              "segment_number": 364
+              "segment_number": 364,
+              "translated_text": "the two princes—the elephant-faced (<s>Gaṇeśa</s>) and the piercer of <s>Krauñca</s> (<s>Skanda</s>)—remain [as youths] even today."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 365
+              "segment_number": 365,
+              "translated_text": "//"
             }
           ]
         }
@@ -8798,7 +9236,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_74"
+        "id": "Saul_74",
+        "label": "Saul 74"
       },
       "children": [
         {
@@ -8812,7 +9251,8 @@
                 "n": "a"
               },
               "text": "vahaty amba stamberamadanujakumbhaprakṛtibhiḥ",
-              "segment_number": 366
+              "segment_number": 366,
+              "translated_text": "O Mother, your bosom bears a necklace of pure pearls"
             },
             {
               "tag": "seg",
@@ -8821,7 +9261,8 @@
                 "n": "b"
               },
               "text": "samārabdhāṃ muktāmaṇibhir amalāṃ hāralatikām",
-              "segment_number": 367
+              "segment_number": 367,
+              "translated_text": "begun [to be strung] with pearls resembling the frontal globes of the young elephant of pride,"
             }
           ]
         },
@@ -8836,7 +9277,8 @@
                 "n": "c"
               },
               "text": "kucābhogo bimbādhararucibhir antaḥ śabalitāṃ",
-              "segment_number": 368
+              "segment_number": 368,
+              "translated_text": "variegated within by the luster of the <s>bimba</s>-fruit-like lower lip,"
             },
             {
               "tag": "seg",
@@ -8845,12 +9287,14 @@
                 "n": "d"
               },
               "text": "pratāpavyāmiśrāṃ puravijayinaḥ kīrtim iva te",
-              "segment_number": 369
+              "segment_number": 369,
+              "translated_text": "as if it were the fame of the conqueror of the cities (<s>Śiva</s>), mixed with glory."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 370
+              "segment_number": 370,
+              "translated_text": "//"
             }
           ]
         }
@@ -8918,7 +9362,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_75"
+        "id": "Saul_75",
+        "label": "Saul 75"
       },
       "children": [
         {
@@ -8932,7 +9377,8 @@
                 "n": "a"
               },
               "text": "tava stanyaṃ manye dharaṇidharakanye hṛdayataḥ",
-              "segment_number": 371
+              "segment_number": 371,
+              "translated_text": "I think your breast-milk, O daughter of the Mountain, from the heart"
             },
             {
               "tag": "seg",
@@ -8941,7 +9387,8 @@
                 "n": "b"
               },
               "text": "payaḥpārāvāraḥ parivahati sārasvata iva",
-              "segment_number": 372
+              "segment_number": 372,
+              "translated_text": "overflows like the ocean of milk [through] the stream of <s>Sarasvatī</s> (eloquence);"
             }
           ]
         },
@@ -8956,7 +9403,8 @@
                 "n": "c"
               },
               "text": "dayāvatyā dattaṃ draviḍaśiśur āsvādya tava yat",
-              "segment_number": 373
+              "segment_number": 373,
+              "translated_text": "for having tasted that [milk], given by you in compassion,"
             },
             {
               "tag": "seg",
@@ -8965,12 +9413,14 @@
                 "n": "d"
               },
               "text": "kavīnāṃ prauḍhānām ajani kamaniyaḥ kavayitā",
-              "segment_number": 374
+              "segment_number": 374,
+              "translated_text": "the <s>Draviḍa</s> child (<s>Jñānasambandhar</s>) became a lovely poet among mature poets."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 375
+              "segment_number": 375,
+              "translated_text": "//"
             }
           ]
         }
@@ -9038,7 +9488,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_76"
+        "id": "Saul_76",
+        "label": "Saul 76"
       },
       "children": [
         {
@@ -9052,7 +9503,8 @@
                 "n": "a"
               },
               "text": "harakrodhajvālāvalibhir avalīḍhena vapuṣā",
-              "segment_number": 376
+              "segment_number": 376,
+              "translated_text": "In the deep lake of your navel, <s>Manasija</s> (the Mind-born, <s>Kāma</s>), his body"
             },
             {
               "tag": "seg",
@@ -9061,7 +9513,8 @@
                 "n": "b"
               },
               "text": "gabhīre te nābhīsarasi kṛtasaṅgo manasijaḥ",
-              "segment_number": 377
+              "segment_number": 377,
+              "translated_text": "licked by the flames of <s>Hara</s>'s anger, took refuge;"
             }
           ]
         },
@@ -9076,7 +9529,8 @@
                 "n": "c"
               },
               "text": "samuttasthau tasmād acalatanaye dhūmalatikā",
-              "segment_number": 378
+              "segment_number": 378,
+              "translated_text": "from there arose a tendril of smoke, O daughter of the mountain—"
             },
             {
               "tag": "seg",
@@ -9085,12 +9539,14 @@
                 "n": "d"
               },
               "text": "janas tāṃ jānīte janani tava romāvalir iti",
-              "segment_number": 379
+              "segment_number": 379,
+              "translated_text": "people know that, O Mother, as the line of hair [on your belly]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 380
+              "segment_number": 380,
+              "translated_text": "//"
             }
           ]
         }
@@ -9158,7 +9614,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_77"
+        "id": "Saul_77",
+        "label": "Saul 77"
       },
       "children": [
         {
@@ -9172,7 +9629,8 @@
                 "n": "a"
               },
               "text": "yad etat kālindītanutarataraṅgākṛti śive",
-              "segment_number": 381
+              "segment_number": 381,
+              "translated_text": "That which, O <s>Śive</s>, resembles the slender, delicate waves of the <s>Kālindī</s> (Yamunā),"
             },
             {
               "tag": "seg",
@@ -9181,7 +9639,8 @@
                 "n": "b"
               },
               "text": "kṛśe madhye kiṃ cij janani tava tad bhāti sudhiyām",
-              "segment_number": 382
+              "segment_number": 382,
+              "translated_text": "your slender waist, O Mother, appears to the wise"
             }
           ]
         },
@@ -9196,7 +9655,8 @@
                 "n": "c"
               },
               "text": "vimardād anyoanyaṃ kucakalaśayor antaragataṃ",
-              "segment_number": 383
+              "segment_number": 383,
+              "translated_text": "as the space between the two pitcher-like breasts, pressed against each other,"
             },
             {
               "tag": "seg",
@@ -9205,12 +9665,14 @@
                 "n": "d"
               },
               "text": "tanūbhūtaṃ vyoma praviśad iva nābhīkuhariṇīm",
-              "segment_number": 384
+              "segment_number": 384,
+              "translated_text": "becoming thin [like the sky] and entering the cave of the navel."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 385
+              "segment_number": 385,
+              "translated_text": "//"
             }
           ]
         }
@@ -9278,7 +9740,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_78"
+        "id": "Saul_78",
+        "label": "Saul 78"
       },
       "children": [
         {
@@ -9292,7 +9755,8 @@
                 "n": "a"
               },
               "text": "sthiro gaṅgāvartaḥ stanamukularomāvalilatā",
-              "segment_number": 386
+              "segment_number": 386,
+              "translated_text": "A steady whirlpool of the <s>Gaṅgā</s>, with the creeper of the hair-line as the bud-like breast,"
             },
             {
               "tag": "seg",
@@ -9301,7 +9765,8 @@
                 "n": "b"
               },
               "text": "kalāvālaṃ kuṇḍaṃ kusumaśaratejohutabhujaḥ",
-              "segment_number": 387
+              "segment_number": 387,
+              "translated_text": "a basin for the fire of the splendor of the flower-arrowed one (<s>Kāma</s>),"
             }
           ]
         },
@@ -9316,7 +9781,8 @@
                 "n": "c"
               },
               "text": "rater līlāgāraṃ kim api tava nābhīti girije",
-              "segment_number": 388
+              "segment_number": 388,
+              "translated_text": "the pleasure-house of <s>Rati</s> (Love's consort)—your navel, O daughter of the mountain, is something indescribable;"
             },
             {
               "tag": "seg",
@@ -9325,12 +9791,14 @@
                 "n": "d"
               },
               "text": "biladvāraṃ siddher giriśanayanānāṃ vijayate",
-              "segment_number": 389
+              "segment_number": 389,
+              "translated_text": "a gateway to <s>siddhi</s> (perfection) for the eyes of the Lord of the Mountain (<s>Śiva</s>), it triumphs!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 390
+              "segment_number": 390,
+              "translated_text": "//"
             }
           ]
         }
@@ -9398,7 +9866,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_79"
+        "id": "Saul_79",
+        "label": "Saul 79"
       },
       "children": [
         {
@@ -9412,7 +9881,8 @@
                 "n": "a"
               },
               "text": "nisargakṣīṇasya stanataṭabhareṇa klamajuṣo",
-              "segment_number": 391
+              "segment_number": 391,
+              "translated_text": "Of [the waist] which is naturally slender, burdened by the weight of the breast-region, fatigued,"
             },
             {
               "tag": "seg",
@@ -9421,7 +9891,8 @@
                 "n": "b"
               },
               "text": "namanmūrter nābhau baliṣu śanakais truṭyatae iva",
-              "segment_number": 392
+              "segment_number": 392,
+              "translated_text": "bending in form, [appearing] at the navel and in the folds as if slowly breaking—"
             }
           ]
         },
@@ -9436,7 +9907,8 @@
                 "n": "c"
               },
               "text": "ciraṃ te madhyasya truṭitataṭinītīrataruṇā",
-              "segment_number": 393
+              "segment_number": 393,
+              "translated_text": "may there be well-being for the long-lasting stability of your waist,"
             },
             {
               "tag": "seg",
@@ -9445,12 +9917,14 @@
                 "n": "d"
               },
               "text": "samāvasthāsthemno bhavatu kuśalaṃ śailatanaye",
-              "segment_number": 394
+              "segment_number": 394,
+              "translated_text": "[which is like] a young tree on the bank of a river whose bank has broken away, O daughter of the mountain."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 395
+              "segment_number": 395,
+              "translated_text": "//"
             }
           ]
         }
@@ -9518,7 +9992,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_80"
+        "id": "Saul_80",
+        "label": "Saul 80"
       },
       "children": [
         {
@@ -9532,7 +10007,8 @@
                 "n": "a"
               },
               "text": "kucau sadyaḥ svidyattaṭaghaṭitakūrpāsabhidurau",
-              "segment_number": 396
+              "segment_number": 396,
+              "translated_text": "Your breasts, bursting through the bodice fitted tightly to the freshly perspiring slopes,"
             },
             {
               "tag": "seg",
@@ -9541,7 +10017,8 @@
                 "n": "b"
               },
               "text": "kaṣantau dormūle kanakakalaśābhau kalayatā",
-              "segment_number": 397
+              "segment_number": 397,
+              "translated_text": "rubbing against the root of the arms, [appearing] like golden pitchers—"
             }
           ]
         },
@@ -9556,7 +10033,8 @@
                 "n": "c"
               },
               "text": "tava trātuṃ bhaṅgād alam iti vilagnaṃ tanubhuvā",
-              "segment_number": 398
+              "segment_number": 398,
+              "translated_text": "[<s>Kāma</s>] the bodiless one, having clung [to your waist] as if to protect it from breaking,"
             },
             {
               "tag": "seg",
@@ -9565,12 +10043,14 @@
                 "n": "d"
               },
               "text": "tridhā naddhaṃ devi trivali lavalīvallibhir iva",
-              "segment_number": 399
+              "segment_number": 399,
+              "translated_text": "has tied it thrice, O Goddess, with the three folds [of skin] like <s>lavalī</s> creepers."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 400
+              "segment_number": 400,
+              "translated_text": "//"
             }
           ]
         }
@@ -9638,7 +10118,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_81"
+        "id": "Saul_81",
+        "label": "Saul 81"
       },
       "children": [
         {
@@ -9652,7 +10133,8 @@
                 "n": "a"
               },
               "text": "gurutvaṃ vistāraṃ kṣitidharapatiḥ pārvati nijān",
-              "segment_number": 401
+              "segment_number": 401,
+              "translated_text": "The lord of the mountains, O <s>Pārvatī</s>, having taken from his own [mass]"
             },
             {
               "tag": "seg",
@@ -9661,7 +10143,8 @@
                 "n": "b"
               },
               "text": "nitambād ācchidya tvayi haraṇarūpeṇa nidadhe",
-              "segment_number": 402
+              "segment_number": 402,
+              "translated_text": "weight and breadth, placed them upon your hips as if by theft;"
             }
           ]
         },
@@ -9676,7 +10159,8 @@
                 "n": "c"
               },
               "text": "atas te vistīrṇo gurur ayam aśeṣāṃ vasumatīṃ",
-              "segment_number": 403
+              "segment_number": 403,
+              "translated_text": "therefore, this broad and heavy forward-leaning mass of your hips"
             },
             {
               "tag": "seg",
@@ -9685,12 +10169,14 @@
                 "n": "d"
               },
               "text": "nitambaprāgbhāraḥ sthagayati laghutvaṃ nayati ca",
-              "segment_number": 404
+              "segment_number": 404,
+              "translated_text": "covers the entire earth and renders it lightweight."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 405
+              "segment_number": 405,
+              "translated_text": "//"
             }
           ]
         }
@@ -9758,7 +10244,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_82"
+        "id": "Saul_82",
+        "label": "Saul 82"
       },
       "children": [
         {
@@ -9772,7 +10259,8 @@
                 "n": "a"
               },
               "text": "karīndrāṇāṃ śuṇḍāḥ kanakakadalīkāṇḍapaṭalīm",
-              "segment_number": 406
+              "segment_number": 406,
+              "translated_text": "Surpassing on both sides, with both thighs, the trunks of lordly elephants"
             },
             {
               "tag": "seg",
@@ -9781,7 +10269,8 @@
                 "n": "b"
               },
               "text": "ubhābhyām ūrubhyām ubhayam api nirjitya bhavatī",
-              "segment_number": 407
+              "segment_number": 407,
+              "translated_text": "and the clusters of stems of golden plantain trees,"
             }
           ]
         },
@@ -9796,7 +10285,8 @@
                 "n": "c"
               },
               "text": "suvṛttābhyāṃ patyuḥ praṇatikaṭhinābhyāṃ girisute",
-              "segment_number": 408
+              "segment_number": 408,
+              "translated_text": "with [your] well-rounded [knees], hardened by prostration to the Lord, O daughter of the mountain,"
             },
             {
               "tag": "seg",
@@ -9805,12 +10295,14 @@
                 "n": "d"
               },
               "text": "vijigye jānubhyāṃ vibudhakarikumbhadvayam api",
-              "segment_number": 409
+              "segment_number": 409,
+              "translated_text": "you have conquered even the pair of frontal globes of the divine elephant with your knees."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 410
+              "segment_number": 410,
+              "translated_text": "//"
             }
           ]
         }
@@ -9878,7 +10370,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_83"
+        "id": "Saul_83",
+        "label": "Saul 83"
       },
       "children": [
         {
@@ -9892,7 +10385,8 @@
                 "n": "a"
               },
               "text": "parājetuṃ rudraṃ dviguṇaśaragarbhau girisute",
-              "segment_number": 411
+              "segment_number": 411,
+              "translated_text": "To defeat <s>Rudra</s>, O daughter of the mountain, your calves,"
             },
             {
               "tag": "seg",
@@ -9901,7 +10395,8 @@
                 "n": "b"
               },
               "text": "niṣaṅgau jaṅghe te viṣamaviśikho bāḍham akṛta",
-              "segment_number": 412
+              "segment_number": 412,
+              "translated_text": "[serving as] two quivers bearing doubled arrows, were surely made by the odd-arrowed one (<s>Kāma</s>);"
             }
           ]
         },
@@ -9916,7 +10411,8 @@
                 "n": "c"
               },
               "text": "yadagre dṛśyante daśaśaraphalāḥ pādayugalī",
-              "segment_number": 413
+              "segment_number": 413,
+              "translated_text": "at whose tips are seen the ten arrow-points [in the form of] the pair of feet,"
             },
             {
               "tag": "seg",
@@ -9925,12 +10421,14 @@
                 "n": "d"
               },
               "text": "nakhāgracchadmānaḥ suramukuṭaśāṇaikaniśitāḥ",
-              "segment_number": 414
+              "segment_number": 414,
+              "translated_text": "disguised as toenails, sharpened solely on the whetstone of the crowns of the gods."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 415
+              "segment_number": 415,
+              "translated_text": "//"
             }
           ]
         }
@@ -9998,7 +10496,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_84"
+        "id": "Saul_84",
+        "label": "Saul 84"
       },
       "children": [
         {
@@ -10012,7 +10511,8 @@
                 "n": "a"
               },
               "text": "śrutīnāṃ mūrdhāno dadhati tava yau śekharatayā",
-              "segment_number": 416
+              "segment_number": 416,
+              "translated_text": "Your two [feet], which the crowns of the <s>Śrutis</s> (Vedas/Upaniṣads) bear as their crest-jewels—"
             },
             {
               "tag": "seg",
@@ -10021,7 +10521,8 @@
                 "n": "b"
               },
               "text": "mamāpy etau mātaḥ śirasi dayayā dhehi caraṇau",
-              "segment_number": 417
+              "segment_number": 417,
+              "translated_text": "O Mother, place those two feet upon my head as well, out of compassion;"
             }
           ]
         },
@@ -10036,7 +10537,8 @@
                 "n": "c"
               },
               "text": "yayoḥ pādyaṃ pāthaḥ paśupatijaṭājūṭataṭinī",
-              "segment_number": 418
+              "segment_number": 418,
+              "translated_text": "whose washing-water is the river in the matted locks of <s>Paśupati</s> (<s>Gaṅgā</s>),"
             },
             {
               "tag": "seg",
@@ -10045,12 +10547,14 @@
                 "n": "d"
               },
               "text": "yayor lākṣālakṣmīr aruṇaharicūḍāmaṇiruciḥ",
-              "segment_number": 419
+              "segment_number": 419,
+              "translated_text": "whose lac-ornament has the luster of the red crest-jewel of <s>Hari</s> (<s>Viṣṇu</s>)."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 420
+              "segment_number": 420,
+              "translated_text": "//"
             }
           ]
         }
@@ -10118,7 +10622,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_85"
+        "id": "Saul_85",
+        "label": "Saul 85"
       },
       "children": [
         {
@@ -10132,7 +10637,8 @@
                 "n": "a"
               },
               "text": "namovākaṃ brūmo nayanaramaṇīyāya padayos",
-              "segment_number": 421
+              "segment_number": 421,
+              "translated_text": "We offer words of salutation to your pair of feet, delightful to the eyes,"
             },
             {
               "tag": "seg",
@@ -10141,7 +10647,8 @@
                 "n": "b"
               },
               "text": "tavāsmai dvandvāya sphuṭarucirasālaktakavate",
-              "segment_number": 422
+              "segment_number": 422,
+              "translated_text": "radiant with clearly gleaming lac-dye;"
             }
           ]
         },
@@ -10156,7 +10663,8 @@
                 "n": "c"
               },
               "text": "asūyaty atyantaṃ yad abhihananāya spṛhayate",
-              "segment_number": 423
+              "segment_number": 423,
+              "translated_text": "with which the Lord of creatures (<s>Paśupati</s>, <s>Śiva</s>) is exceedingly jealous, desiring to strike"
             },
             {
               "tag": "seg",
@@ -10165,12 +10673,14 @@
                 "n": "d"
               },
               "text": "paśūnām īśānaḥ pramadavanakaṅkelitarave",
-              "segment_number": 424
+              "segment_number": 424,
+              "translated_text": "the <s>Kaṅkeli</s> (Aśoka) tree in the pleasure garden [which your feet kicked to make it bloom]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 425
+              "segment_number": 425,
+              "translated_text": "//"
             }
           ]
         }
@@ -10238,7 +10748,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_86"
+        "id": "Saul_86",
+        "label": "Saul 86"
       },
       "children": [
         {
@@ -10252,7 +10763,8 @@
                 "n": "a"
               },
               "text": "mṛṣā kṛtvā gotraskhalanam atha vailakṣyanamitaṃ",
-              "segment_number": 426
+              "segment_number": 426,
+              "translated_text": "Having deliberately made a slip of the [family] name, and then bowing with embarrassment,"
             },
             {
               "tag": "seg",
@@ -10261,7 +10773,8 @@
                 "n": "b"
               },
               "text": "lalāṭe bhartāraṃ caraṇakamale tāḍayati te",
-              "segment_number": 427
+              "segment_number": 427,
+              "translated_text": "your Lord strikes [his own] forehead at [your] lotus-feet;"
             }
           ]
         },
@@ -10276,7 +10789,8 @@
                 "n": "c"
               },
               "text": "cirād antaḥśalyaṃ dahanakṛtam unmūlitavatā",
-              "segment_number": 428
+              "segment_number": 428,
+              "translated_text": "by <s>Śiva</s>'s enemy [<s>Kāma</s>], who has long since uprooted the thorn [of anger] created by fire [<s>Śiva</s>'s third eye],"
             },
             {
               "tag": "seg",
@@ -10285,12 +10799,14 @@
                 "n": "d"
               },
               "text": "tulākoṭikvāṇaiḥ kilikilitam īśānaripuṇā",
-              "segment_number": 429
+              "segment_number": 429,
+              "translated_text": "[this is] celebrated with tinkling sounds like the striking of a balance [i.e., the anklets' music]."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 430
+              "segment_number": 430,
+              "translated_text": "//"
             }
           ]
         }
@@ -10358,7 +10874,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_87"
+        "id": "Saul_87",
+        "label": "Saul 87"
       },
       "children": [
         {
@@ -10372,7 +10889,8 @@
                 "n": "a"
               },
               "text": "himānīhantavyaṃ himagiritaṭākrānticaturau",
-              "segment_number": 431
+              "segment_number": 431,
+              "translated_text": "Skilled in traversing the snow-laden slopes of the Snowy Mountain, able to destroy snow,"
             },
             {
               "tag": "seg",
@@ -10381,7 +10899,8 @@
                 "n": "b"
               },
               "text": "niśāyāṃ nidrāṇāṃ niśi ca parabhāge ca viśadau",
-              "segment_number": 432
+              "segment_number": 432,
+              "translated_text": "luminous at night when [all] are asleep, and also in the latter part of the night,"
             }
           ]
         },
@@ -10396,7 +10915,8 @@
                 "n": "c"
               },
               "text": "paraṃ lakṣmīpātraṃ śriyam atisṛjantau samayināṃ",
-              "segment_number": 433
+              "segment_number": 433,
+              "translated_text": "being the supreme receptacle of <s>Lakṣmī</s>, surpassing the beauty of the <s>samayins</s> (devotees)—"
             },
             {
               "tag": "seg",
@@ -10405,12 +10925,14 @@
                 "n": "d"
               },
               "text": "sarojaṃ tvatpādau janani jayataś citram iha kim",
-              "segment_number": 434
+              "segment_number": 434,
+              "translated_text": "your feet, O Mother, triumph over the lotus; what wonder is there in this?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 435
+              "segment_number": 435,
+              "translated_text": "//"
             }
           ]
         }
@@ -10478,7 +11000,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_88"
+        "id": "Saul_88",
+        "label": "Saul 88"
       },
       "children": [
         {
@@ -10492,7 +11015,8 @@
                 "n": "a"
               },
               "text": "padaṃ te kāntīnāṃ prapadam apadaṃ devi vipadāṃ",
-              "segment_number": 436
+              "segment_number": 436,
+              "translated_text": "Your forefoot is the abode of beauty and the refuge from misfortune, O Goddess;"
             },
             {
               "tag": "seg",
@@ -10501,7 +11025,8 @@
                 "n": "b"
               },
               "text": "kathaṃ nītaṃ sadbhiḥ kaṭhinakamaṭhīkarparatulām",
-              "segment_number": 437
+              "segment_number": 437,
+              "translated_text": "how has it been compared by the wise to the hard shell of a tortoise?"
             }
           ]
         },
@@ -10516,7 +11041,8 @@
                 "n": "c"
               },
               "text": "kathaṃ vā bāhubhyām upayamanakāle purabhidā",
-              "segment_number": 438
+              "segment_number": 438,
+              "translated_text": "How indeed [was it that] at the time of the marriage ceremony, the destroyer of the cities (<s>Śiva</s>),"
             },
             {
               "tag": "seg",
@@ -10525,12 +11051,14 @@
                 "n": "d"
               },
               "text": "yad ādāya nyastaṃ dṛṣadi dayamānena manasā",
-              "segment_number": 439
+              "segment_number": 439,
+              "translated_text": "with compassionate mind, having taken [your foot], placed it upon a grinding stone?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 440
+              "segment_number": 440,
+              "translated_text": "//"
             }
           ]
         }
@@ -10598,7 +11126,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_89"
+        "id": "Saul_89",
+        "label": "Saul 89"
       },
       "children": [
         {
@@ -10612,7 +11141,8 @@
                 "n": "a"
               },
               "text": "nakhair nākastrīṇāṃ karakamalasaṃkocaśaśibhis",
-              "segment_number": 441
+              "segment_number": 441,
+              "translated_text": "With toenails [shining like] moons that cause the lotus-hands of celestial women to close,"
             },
             {
               "tag": "seg",
@@ -10621,7 +11151,8 @@
                 "n": "b"
               },
               "text": "tarūṇāṃ divyānāṃ hasata iva te caṇḍi caraṇau",
-              "segment_number": 442
+              "segment_number": 442,
+              "translated_text": "your feet, O <s>Caṇḍī</s>, seem to laugh at the divine <s>kalpa</s> trees,"
             }
           ]
         },
@@ -10636,7 +11167,8 @@
                 "n": "c"
               },
               "text": "phalāni svasthebhyaḥ kisalayakarāgreṇa dadatāṃ",
-              "segment_number": 443
+              "segment_number": 443,
+              "translated_text": "which give fruits to the prosperous with their sprout-like hand-tips,"
             },
             {
               "tag": "seg",
@@ -10645,12 +11177,14 @@
                 "n": "d"
               },
               "text": "daridrebhyo bhadrāṃ śriyam aniśam ahnāya dadatau",
-              "segment_number": 444
+              "segment_number": 444,
+              "translated_text": "[while your feet] give auspicious wealth to the poor ceaselessly, day after day."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 445
+              "segment_number": 445,
+              "translated_text": "//"
             }
           ]
         }
@@ -10718,7 +11252,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_90"
+        "id": "Saul_90",
+        "label": "Saul 90"
       },
       "children": [
         {
@@ -10732,7 +11267,8 @@
                 "n": "a"
               },
               "text": "kadā kāle mātaḥ kathaya kalitālaktakarasaṃ",
-              "segment_number": 446
+              "segment_number": 446,
+              "translated_text": "When, O Mother, tell me—may I, a seeker of knowledge,"
             },
             {
               "tag": "seg",
@@ -10741,7 +11277,8 @@
                 "n": "b"
               },
               "text": "pibeyaṃ vidyārthī tava caraṇanirṇejanajalam",
-              "segment_number": 447
+              "segment_number": 447,
+              "translated_text": "drink the water that has washed your feet, tinged with lac-dye,"
             }
           ]
         },
@@ -10756,7 +11293,8 @@
                 "n": "c"
               },
               "text": "prakṛtyā mūkānām api ca kavitākāraṇatayā",
-              "segment_number": 448
+              "segment_number": 448,
+              "translated_text": "which, having the power to make even the naturally mute into poets,"
             },
             {
               "tag": "seg",
@@ -10765,12 +11303,14 @@
                 "n": "d"
               },
               "text": "yad ādhatte vāṇīmukhakamalatāmbūlarasatām",
-              "segment_number": 449
+              "segment_number": 449,
+              "translated_text": "imparts the flavor of the betel in the lotus-mouth of <s>Vāṇī</s> (<s>Sarasvatī</s>)?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 450
+              "segment_number": 450,
+              "translated_text": "//"
             }
           ]
         }
@@ -10838,7 +11378,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_91"
+        "id": "Saul_91",
+        "label": "Saul 91"
       },
       "children": [
         {
@@ -10852,7 +11393,8 @@
                 "n": "a"
               },
               "text": "padanyāsakrīḍāparicayam ivārabdhumanasaś",
-              "segment_number": 451
+              "segment_number": 451,
+              "translated_text": "As if having begun to learn the playful game of your gait,"
             },
             {
               "tag": "seg",
@@ -10861,7 +11403,8 @@
                 "n": "b"
               },
               "text": "carantas te khelaṃ bhavanakalahaṃsā na jahati",
-              "segment_number": 452
+              "segment_number": 452,
+              "translated_text": "the royal swans of your palace do not abandon their sporting;"
             }
           ]
         },
@@ -10876,7 +11419,8 @@
                 "n": "c"
               },
               "text": "suvikṣepe śikṣāṃ subhagamaṇimañjīraraṇita",
-              "segment_number": 453
+              "segment_number": 453,
+              "translated_text": "your lotus-foot, with the beautiful sound of gem-studded anklets,"
             },
             {
               "tag": "seg",
@@ -10885,12 +11429,14 @@
                 "n": "d"
               },
               "text": "cchalād ācakṣāṇaṃ caraṇakamalaṃ cārucarite",
-              "segment_number": 454
+              "segment_number": 454,
+              "translated_text": "seems to be teaching them [the art] of graceful flinging [of steps], O one of beautiful conduct."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 455
+              "segment_number": 455,
+              "translated_text": "//"
             }
           ]
         }
@@ -10958,7 +11504,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_92"
+        "id": "Saul_92",
+        "label": "Saul 92"
       },
       "children": [
         {
@@ -10972,7 +11519,8 @@
                 "n": "a"
               },
               "text": "arālā keśeṣu prakṛtisaralā mandahasite",
-              "segment_number": 456
+              "segment_number": 456,
+              "translated_text": "Curled in the hair, naturally straight in the gentle smile,"
             },
             {
               "tag": "seg",
@@ -10981,7 +11529,8 @@
                 "n": "b"
               },
               "text": "śirīṣābhā citte dṛṣad iva kaṭhorā kucataṭe",
-              "segment_number": 457
+              "segment_number": 457,
+              "translated_text": "delicate as <s>śirīṣa</s> (acacia) flowers in the heart, hard as stone on the breast-mounds,"
             }
           ]
         },
@@ -10996,7 +11545,8 @@
                 "n": "c"
               },
               "text": "bhṛśaṃ tanvī madhye pṛthur urasijārohaviṣaye",
-              "segment_number": 458
+              "segment_number": 458,
+              "translated_text": "exceedingly slender at the waist, broad in the region of the rising breasts—"
             },
             {
               "tag": "seg",
@@ -11005,12 +11555,14 @@
                 "n": "d"
               },
               "text": "jagat trātuṃ śaṃbhor jayati karuṇā kā cid aruṇā",
-              "segment_number": 459
+              "segment_number": 459,
+              "translated_text": "a certain reddish compassion of <s>Śambhu</s> triumphs, [existing] to protect the world!"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 460
+              "segment_number": 460,
+              "translated_text": "//"
             }
           ]
         }
@@ -11078,7 +11630,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_93"
+        "id": "Saul_93",
+        "label": "Saul 93"
       },
       "children": [
         {
@@ -11092,7 +11645,8 @@
                 "n": "a"
               },
               "text": "purārāter antaḥpuram asi tatas tvaccaraṇayoḥ",
-              "segment_number": 461
+              "segment_number": 461,
+              "translated_text": "You are the inner chamber of the enemy of the cities (<s>Śiva</s>); therefore the proper worship of your feet"
             },
             {
               "tag": "seg",
@@ -11101,7 +11655,8 @@
                 "n": "b"
               },
               "text": "saparyāmaryādā taralakaraṇānām asulabhā",
-              "segment_number": 462
+              "segment_number": 462,
+              "translated_text": "is unattainable for those of wavering senses;"
             }
           ]
         },
@@ -11116,7 +11671,8 @@
                 "n": "c"
               },
               "text": "tathā hy ete nītāḥ śatamakhamukhāḥ siddhim atulāṃ",
-              "segment_number": 463
+              "segment_number": 463,
+              "translated_text": "for these [gods], led by <s>Indra</s> (the hundred-sacrificer) and others, have attained incomparable <s>siddhi</s> (perfection)"
             },
             {
               "tag": "seg",
@@ -11125,12 +11681,14 @@
                 "n": "d"
               },
               "text": "tava dvāropāntasthitibhir aṇimādyābhir amarāḥ",
-              "segment_number": 464
+              "segment_number": 464,
+              "translated_text": "through the [powers of] <s>Aṇimā</s> and others, stationed at the doorstep of your [abode], [acting as] immortals."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 465
+              "segment_number": 465,
+              "translated_text": "//"
             }
           ]
         }
@@ -11198,7 +11756,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_94"
+        "id": "Saul_94",
+        "label": "Saul 94"
       },
       "children": [
         {
@@ -11212,7 +11771,8 @@
                 "n": "a"
               },
               "text": "gatās te mañcatvaṃ druhiṇaharirudreśvarabhṛtaḥ",
-              "segment_number": 466
+              "segment_number": 466,
+              "translated_text": "Those who serve as your couch—<s>Brahmā</s>, <s>Hari</s>, <s>Rudra</s>, and <s>Īśvara</s>—"
             },
             {
               "tag": "seg",
@@ -11221,7 +11781,8 @@
                 "n": "b"
               },
               "text": "śivaḥ svacchacchāyāghaṭitakapaṭapracchadapaṭaḥ",
-              "segment_number": 467
+              "segment_number": 467,
+              "translated_text": "<s>Śiva</s>, with a canopy fabricated from the reflection of his own pure radiance,"
             }
           ]
         },
@@ -11236,7 +11797,8 @@
                 "n": "c"
               },
               "text": "tvadīyānāṃ bhāsāṃ pratiphalanalābhāruṇatayā",
-              "segment_number": 468
+              "segment_number": 468,
+              "translated_text": "having attained redness from the reflection of your splendors,"
             },
             {
               "tag": "seg",
@@ -11245,12 +11807,14 @@
                 "n": "d"
               },
               "text": "śarīrī śṛṅgāro rasa iva dṛśāṃ dogdhi kutukam",
-              "segment_number": 469
+              "segment_number": 469,
+              "translated_text": "milks forth wonder for the eyes, as if the <s>Śṛṅgāra</s> (erotic) <s>rasa</s> (aesthetic sentiment) had taken bodily form."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 470
+              "segment_number": 470,
+              "translated_text": "//"
             }
           ]
         }
@@ -11318,7 +11882,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_95"
+        "id": "Saul_95",
+        "label": "Saul 95"
       },
       "children": [
         {
@@ -11332,7 +11897,8 @@
                 "n": "a"
               },
               "text": "kalaṅkaḥ kastūrī rajanikarabimbaṃ jalamayaṃ",
-              "segment_number": 471
+              "segment_number": 471,
+              "translated_text": "The stain is musk, the disc of the night-maker (moon) is made of water,"
             },
             {
               "tag": "seg",
@@ -11341,7 +11907,8 @@
                 "n": "b"
               },
               "text": "kalābhiḥ karpūrair marakatakaraṇḍaṃ nibiḍitam",
-              "segment_number": 472
+              "segment_number": 472,
+              "translated_text": "its digits are [made of] camphor packed in an emerald casket;"
             }
           ]
         },
@@ -11356,7 +11923,8 @@
                 "n": "c"
               },
               "text": "atas tvadbhogena pratidinam idaṃ riktakuharaṃ",
-              "segment_number": 473
+              "segment_number": 473,
+              "translated_text": "therefore, emptied daily by your enjoyment, this hollow [of the moon]"
             },
             {
               "tag": "seg",
@@ -11365,12 +11933,14 @@
                 "n": "d"
               },
               "text": "vidhir bhūyobhūyo nibiḍayati nūnaṃ tava kṛte",
-              "segment_number": 474
+              "segment_number": 474,
+              "translated_text": "is surely filled again and again by <s>Vidhī</s> (<s>Brahmā</s>) for your sake."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 475
+              "segment_number": 475,
+              "translated_text": "//"
             }
           ]
         }
@@ -11438,7 +12008,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_96"
+        "id": "Saul_96",
+        "label": "Saul 96"
       },
       "children": [
         {
@@ -11452,7 +12023,8 @@
                 "n": "a"
               },
               "text": "svadehodbhūtābhir ghṛṇibhir aṇimādyābhir abhito",
-              "segment_number": 476
+              "segment_number": 476,
+              "translated_text": "One who always meditates, 'I worship you, the eternal one, who are attended"
             },
             {
               "tag": "seg",
@@ -11461,7 +12033,8 @@
                 "n": "b"
               },
               "text": "niṣevye nitye tvām aham iti sadā bhāvayati yaḥ",
-              "segment_number": 477
+              "segment_number": 477,
+              "translated_text": "all around by the rays (<s>aṇimā</s> and other powers) born from your own body'—"
             }
           ]
         },
@@ -11476,7 +12049,8 @@
                 "n": "c"
               },
               "text": "kim āścaryaṃ tasya trinayansamṛddhiṃ tṛṇayato",
-              "segment_number": 478
+              "segment_number": 478,
+              "translated_text": "is it any wonder that for him, who regards even the wealth of the three-eyed one (<s>Śiva</s>) as a blade of grass,"
             },
             {
               "tag": "seg",
@@ -11485,12 +12059,14 @@
                 "n": "d"
               },
               "text": "mahāsaṃvartāgnir viracayati nīrājanavidhim",
-              "segment_number": 479
+              "segment_number": 479,
+              "translated_text": "the great fire of universal dissolution performs the <s>nīrājana</s> (waving of lights) ceremony?"
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 480
+              "segment_number": 480,
+              "translated_text": "//"
             }
           ]
         }
@@ -11558,7 +12134,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_97"
+        "id": "Saul_97",
+        "label": "Saul 97"
       },
       "children": [
         {
@@ -11572,7 +12149,8 @@
                 "n": "a"
               },
               "text": "kalatraṃ vaidhātraṃ katikati bhajante na kavayaḥ",
-              "segment_number": 481
+              "segment_number": 481,
+              "translated_text": "How many poets do not court the wife of <s>Vidhī</s> (<s>Sarasvatī</s>)?"
             },
             {
               "tag": "seg",
@@ -11581,7 +12159,8 @@
                 "n": "b"
               },
               "text": "śriyo devyāḥ ko vā na bhavati patiḥ kair api dhanaiḥ",
-              "segment_number": 482
+              "segment_number": 482,
+              "translated_text": "And who does not become the lord of <s>Śrī</s> (the goddess of wealth) with some riches?"
             }
           ]
         },
@@ -11596,7 +12175,8 @@
                 "n": "c"
               },
               "text": "mahādevaṃ hitvā tava sati satīnām acarame",
-              "segment_number": 483
+              "segment_number": 483,
+              "translated_text": "But except for <s>Mahādeva</s>, O <s>Satī</s>, O last (foremost) among chaste women,"
             },
             {
               "tag": "seg",
@@ -11605,12 +12185,14 @@
                 "n": "d"
               },
               "text": "kucābhyām āsaṅgaḥ kuravakataror apy asulabhaḥ",
-              "segment_number": 484
+              "segment_number": 484,
+              "translated_text": "even the <s>kuravaka</s> (Barleria) tree cannot easily attain the embrace of your breasts."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 485
+              "segment_number": 485,
+              "translated_text": "//"
             }
           ]
         }
@@ -11678,7 +12260,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_98"
+        "id": "Saul_98",
+        "label": "Saul 98"
       },
       "children": [
         {
@@ -11692,7 +12275,8 @@
                 "n": "a"
               },
               "text": "girām āhur devīṃ druhiṇagṛhiṇīm āgamavido",
-              "segment_number": 486
+              "segment_number": 486,
+              "translated_text": "Those who know the <s>Āgamas</s> (scriptures) call her the Goddess of Speech, the wife of <s>Brahmā</s>;"
             },
             {
               "tag": "seg",
@@ -11701,7 +12285,8 @@
                 "n": "b"
               },
               "text": "hareḥ patnīṃ padmāṃ harasahacārīm adritanayām",
-              "segment_number": 487
+              "segment_number": 487,
+              "translated_text": "the consort of <s>Hari</s> is <s>Padmā</s> (<s>Lakṣmī</s>); the companion of <s>Hara</s> is the daughter of the mountain;"
             }
           ]
         },
@@ -11716,7 +12301,8 @@
                 "n": "c"
               },
               "text": "turīyā kāpi tvaṃ duradhigamaniḥsīmamahimā",
-              "segment_number": 488
+              "segment_number": 488,
+              "translated_text": "but you are some fourth [power], of limitless and incomprehensible majesty;"
             },
             {
               "tag": "seg",
@@ -11725,12 +12311,14 @@
                 "n": "d"
               },
               "text": "mahāmāye viśvaṃ bhramayasi parabrahmamahiṣi",
-              "segment_number": 489
+              "segment_number": 489,
+              "translated_text": "O <s>Mahāmāyā</s> (Great Illusion), you delude the universe, O consort of the Supreme <s>Brahman</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 490
+              "segment_number": 490,
+              "translated_text": "//"
             }
           ]
         }
@@ -11798,7 +12386,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_99"
+        "id": "Saul_99",
+        "label": "Saul 99"
       },
       "children": [
         {
@@ -11812,7 +12401,8 @@
                 "n": "a"
               },
               "text": "sarasvatyā lakṣmyā vidhiharisapatno viharate",
-              "segment_number": 491
+              "segment_number": 491,
+              "translated_text": "He who worships you sports as the co-husband with <s>Vidhī</s> and <s>Hari</s> of <s>Sarasvatī</s> and <s>Lakṣmī</s>,"
             },
             {
               "tag": "seg",
@@ -11821,7 +12411,8 @@
                 "n": "b"
               },
               "text": "rateḥ pātivratyaṃ śithilayati ramyeṇa vapuṣā",
-              "segment_number": 492
+              "segment_number": 492,
+              "translated_text": "loosens the fidelity of <s>Rati</s> (Love's wife) with [his] beautiful form;"
             }
           ]
         },
@@ -11836,7 +12427,8 @@
                 "n": "c"
               },
               "text": "ciraṃ jīvann eṣa kṣapitapaśupāśavyatikaraḥ",
-              "segment_number": 493
+              "segment_number": 493,
+              "translated_text": "living long, having cut the bonds of <s>Paśupati</s> (worldly fetters),"
             },
             {
               "tag": "seg",
@@ -11845,12 +12437,14 @@
                 "n": "d"
               },
               "text": "parabrahmābhikhyaṃ rasayati rasaṃ tvadbhajanavān",
-              "segment_number": 494
+              "segment_number": 494,
+              "translated_text": "he relishes the bliss called Supreme <s>Brahman</s>."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 495
+              "segment_number": 495,
+              "translated_text": "//"
             }
           ]
         }
@@ -11918,7 +12512,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_100"
+        "id": "Saul_100",
+        "label": "Saul 100"
       },
       "children": [
         {
@@ -11932,7 +12527,8 @@
                 "n": "a"
               },
               "text": "pradīpajvālābhir divasakaranīrājanavidhiḥ",
-              "segment_number": 496
+              "segment_number": 496,
+              "translated_text": "Waving the lamp before the sun with lamp-flames,"
             },
             {
               "tag": "seg",
@@ -11941,7 +12537,8 @@
                 "n": "b"
               },
               "text": "sudhāsūteś candropalajalalavair arghyaghaṭanā",
-              "segment_number": 497
+              "segment_number": 497,
+              "translated_text": "offering <s>arghya</s> (water-offering) to the nectar-producing moon with drops of water from moonstone,"
             }
           ]
         },
@@ -11956,7 +12553,8 @@
                 "n": "c"
               },
               "text": "svakīyair ambhobhiḥ salilanidhisauhityakaraṇaṃ",
-              "segment_number": 498
+              "segment_number": 498,
+              "translated_text": "satisfying the ocean with its own waters—"
             },
             {
               "tag": "seg",
@@ -11965,12 +12563,14 @@
                 "n": "d"
               },
               "text": "tvadīyābhir vāgbhis tava janani vācāṃ stutir iyam",
-              "segment_number": 499
+              "segment_number": 499,
+              "translated_text": "such is this praise of the Goddess of Speech with your own words, O Mother."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 500
+              "segment_number": 500,
+              "translated_text": "//"
             }
           ]
         }
@@ -12038,7 +12638,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_101"
+        "id": "Saul_101",
+        "label": "Saul 101"
       },
       "children": [
         {
@@ -12052,7 +12653,8 @@
                 "n": "a"
               },
               "text": "samānītaḥ padbhyāṃ maṇimukuratām ambaramaṇir",
-              "segment_number": 501
+              "segment_number": 501,
+              "translated_text": "Brought to the state of a jewel for the crown at [your] feet, the sun-gem,"
             },
             {
               "tag": "seg",
@@ -12061,7 +12663,8 @@
                 "n": "b"
               },
               "text": "bhayād antarbaddhastimitakiraṇaśreṇimasṛṇaḥ",
-              "segment_number": 502
+              "segment_number": 502,
+              "translated_text": "with its rays held still within out of fear, smooth [and subdued]"
             }
           ]
         },
@@ -12076,7 +12679,8 @@
                 "n": "c"
               },
               "text": "dadhāti tvadvaktraṃ pratiphalitam aśrāntivikacaṃ",
-              "segment_number": 503
+              "segment_number": 503,
+              "translated_text": "He holds your face, reflected ceaselessly blooming,"
             },
             {
               "tag": "seg",
@@ -12085,12 +12689,14 @@
                 "n": "d"
               },
               "text": "nirātaṅkaṃ candrān nijahṛdayapaṅkeruham iva",
-              "segment_number": 504
+              "segment_number": 504,
+              "translated_text": "fearlessly, like the moon in the lotus of his own heart."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 505
+              "segment_number": 505,
+              "translated_text": "//"
             }
           ]
         }
@@ -12158,7 +12764,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_102"
+        "id": "Saul_102",
+        "label": "Saul 102"
       },
       "children": [
         {
@@ -12172,7 +12779,8 @@
                 "n": "a"
               },
               "text": "samudbhūtasthūlastanabharam uraś cāru hasitaṃ",
-              "segment_number": 506
+              "segment_number": 506,
+              "translated_text": "With a chest bearing the weight of full, risen breasts, with a charming smile,"
             },
             {
               "tag": "seg",
@@ -12181,7 +12789,8 @@
                 "n": "b"
               },
               "text": "kaṭākṣe kandarpaḥ kusumitakadambadyutivapuḥ",
-              "segment_number": 507
+              "segment_number": 507,
+              "translated_text": "with sidelong glances, <s>Kandarpa</s> (the god of love), with a body radiant like a blossoming <s>kadamba</s> tree,"
             }
           ]
         },
@@ -12196,7 +12805,8 @@
                 "n": "c"
               },
               "text": "harasya tvadbhrāntiṃ manasi janayām āsa madano",
-              "segment_number": 508
+              "segment_number": 508,
+              "translated_text": "<s>Madana</s> (Cupid) created in the mind of <s>Hara</s> (Śiva) the delusion of you;"
             },
             {
               "tag": "seg",
@@ -12205,12 +12815,14 @@
                 "n": "d"
               },
               "text": "bhavatyā ye bhaktāḥ pariṇatir amīṣām iyam ume",
-              "segment_number": 509
+              "segment_number": 509,
+              "translated_text": "those who are your devotees, O <s>Umā</s>, this is the transformation that befalls them."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 510
+              "segment_number": 510,
+              "translated_text": "//"
             }
           ]
         }
@@ -12278,7 +12890,8 @@
     {
       "tag": "lg",
       "attributes": {
-        "id": "Saul_103"
+        "id": "Saul_103",
+        "label": "Saul 103"
       },
       "children": [
         {
@@ -12292,7 +12905,8 @@
                 "n": "a"
               },
               "text": "nidhe nityasmere niravadhiguṇe nītinipuṇe",
-              "segment_number": 511
+              "segment_number": 511,
+              "translated_text": "O treasure of eternal smiles, O one of limitless virtues, O one skilled in wisdom,"
             },
             {
               "tag": "seg",
@@ -12301,7 +12915,8 @@
                 "n": "b"
               },
               "text": "nirāghātajñāne niyamaparacittaikanilaye",
-              "segment_number": 512
+              "segment_number": 512,
+              "translated_text": "O one of unobstructed knowledge, O one whose sole abode is the mind devoted to self-discipline,"
             }
           ]
         },
@@ -12316,7 +12931,8 @@
                 "n": "c"
               },
               "text": "niyatyā nirmukte nikhilanigamāntastutipade",
-              "segment_number": 513
+              "segment_number": 513,
+              "translated_text": "O one liberated by destiny, O one praised at the end of all <s>Nigamas</s> (Vedas),"
             },
             {
               "tag": "seg",
@@ -12325,12 +12941,14 @@
                 "n": "d"
               },
               "text": "nirātaṅke nitye nigamaya mamāpi stutim imām",
-              "segment_number": 514
+              "segment_number": 514,
+              "translated_text": "O fearless one, O eternal one, accept this hymn of mine as well."
             },
             {
               "tag": "text",
               "text": "//",
-              "segment_number": 515
+              "segment_number": 515,
+              "translated_text": "//"
             }
           ]
         }
