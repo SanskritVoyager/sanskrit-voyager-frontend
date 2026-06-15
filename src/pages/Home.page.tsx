@@ -94,7 +94,18 @@ export function HomePage() {
   const [displayInflectionTables, setDisplayInflectionTables] = useState(false);
   const [isLoadingWordData, setIsLoadingWordData] = useState(false);
   const [isAdvancedSearchVisible, handleAdvancedSearch] = useDisclosure(false);
-  const [isNavbarVisible, setIsNavbarVisible] = useState(true);
+  // Start the navbar closed when the app is opened directly via a deep link
+  // (a /book or /text URL carries a :slug) on mobile, where the navbar fills
+  // the screen (100vw) and would otherwise cover the text. matchMedia is read
+  // synchronously so the navbar starts in the right state — useMediaQuery
+  // resolves in an effect and would flash it open first. Landing on '/' (no
+  // slug) and desktop deep links keep the navbar open as before.
+  const [isNavbarVisible, setIsNavbarVisible] = useState(() => {
+    if (!slug) return true;
+    const isMobileViewport =
+      typeof window !== 'undefined' && window.matchMedia('(max-width: 660px)').matches;
+    return !isMobileViewport;
+  });
 
   // ----- Derived state -----
   const isTextEmpty = text === '' && Object.keys(bookText).length === 0;
