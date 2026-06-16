@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useThrottledCallback } from '@mantine/hooks';
+import { useThrottledCallback, useDebouncedCallback } from '@mantine/hooks';
 import classes from './ClickableSimpleBooks.module.css';
 
 interface ScrollMarkersProps {
@@ -39,8 +39,10 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
     }
   }, 100);
 
-  // Calculate marker positions with type information
-  const calculateMarkerPositions = useThrottledCallback(() => {
+  // Calculate marker positions with type information.
+  // Debounced because reading `offsetTop` forces a layout reflow: during a
+  // continuous resize we only want to recompute once the box has settled.
+  const calculateMarkerPositions = useDebouncedCallback(() => {
     // console.log('[Markers] Attempting to calculate positions...');
 
     if (!containerRef.current) {
@@ -74,25 +76,31 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
       .filter((pos): pos is SegmentMarker => pos !== null);
     
     setProcessedMatches(segmentPositions);
-  }, 150);
+  }, 200);
 
   // Effect for container resize
   useEffect(() => {
     updateRightEdgePosition();
-    
-    const resizeObserver = new ResizeObserver(() => {
+
+    // Recompute on resize *and* as the container's height settles after load
+    // (fonts, metadata, index, accordions). Both callbacks are rate-limited
+    // (throttle / debounce), so a burst of resize ticks can't flood layout.
+    const handleResize = () => {
       updateRightEdgePosition();
-    });
-    
+      calculateMarkerPositions();
+    };
+
+    const resizeObserver = new ResizeObserver(handleResize);
+
     if (containerRef.current) {
       resizeObserver.observe(containerRef.current);
     }
-    
-    window.addEventListener('resize', updateRightEdgePosition);
-    
+
+    window.addEventListener('resize', handleResize);
+
     return () => {
       resizeObserver.disconnect();
-      window.removeEventListener('resize', updateRightEdgePosition);
+      window.removeEventListener('resize', handleResize);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []); // Run only once on mount
@@ -104,10 +112,10 @@ const ScrollMarkers: React.FC<ScrollMarkersProps> = ({
 
     
     if (initialRenderComplete && hasSegments) {
-      const timer = setTimeout(() => {
-        calculateMarkerPositions();
-      }, 500);
-      return () => clearTimeout(timer);
+      // The debounce handles coalescing and waiting for layout to settle, so we
+      // no longer need an artificial 500ms delay here (it was the main cause of
+      // markers lagging behind a search).
+      calculateMarkerPositions();
     } else if (!hasSegments) {
       setProcessedMatches([]);
     }

@@ -43,7 +43,15 @@
 }
 
 .wordInfoHalf{
-  
+
+  background-color: light-dark(var(--mantine-color-lightscale-5), var(--mantine-color-dark-7));
+
+  /* Tablet (.wordInfoHalf only renders on non-mobile, so max-width:1100px = the
+     tablet range): the panel stacks under the book text, where the desktop tint
+     reads as an odd block — keep it on the body colour instead. */
+  @media (max-width: 1100px) {
+    background-color: var(--mantine-color-body);
+  }
 
   @media (max-width: 600px) {
     margin-top: 0px;
@@ -157,7 +165,7 @@
   z-index: 10;
   transition: all 0.3s ease;
   float: right;
-  top: 40px;
+  top: 96px;
   right: 10px;
 
 
@@ -218,6 +226,16 @@
   @media (max-width: 1000px) { /* Adjust padding for mobile to create a small buffer for the navbar*/
     padding-left: 5px;
     padding-right: 5px;
+  }
+
+  /* Content runs full-height under the fixed header now. On non-mobile (where the
+     header is always shown) reserve its 56px height at the top of the scroll area,
+     so the book title and dictionary entry start clear of it — the same place they
+     sat before the header offset was removed. The padding scrolls away with the
+     content, so text still passes under the header as you scroll. Mobile keeps
+     top: 0 (its header hides on scroll). */
+  @media (min-width: 661px) {
+    padding-top: 56px;
   }
 
 

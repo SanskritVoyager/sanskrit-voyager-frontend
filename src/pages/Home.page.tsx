@@ -674,6 +674,10 @@ export function HomePage() {
                       isWordInfoHalf
                         ? {
                             overflowY: 'hidden',
+                            // Match the book column's explicit paddingTop:0 inline, so
+                            // Mantine's Grid.Col gutter can't push this column lower than
+                            // the book column and misalign the two titles.
+                            paddingTop: 0,
                             opacity: !isWordInfoVisible ? 0 : 1,
                             visibility: !isWordInfoVisible ? 'hidden' : 'visible',
                             height: isMobile
@@ -757,7 +761,18 @@ export function HomePage() {
                       </div>
                     )}
 
-                    <div className={classes.scrollContainer}>
+                    <div
+                      className={classes.scrollContainer}
+                      style={{
+                        // The chevron floats as this column's first child; the scroll
+                        // container is a BFC (overflow:auto), so it drops below the float,
+                        // pushing the dictionary heading down by the chevron's height
+                        // (28px, the md ActionIcon). The chevron only renders in half mode,
+                        // so there trim that 28px off the 56px header reserve to bring the
+                        // heading back in line with the book title. (Don't touch the chevron.)
+                        paddingTop: isWordInfoHalf ? 'calc(56px - 28px)' : undefined,
+                      }}
+                    >
                       {showWelcomeState ? (
                         <Welcome setBookTitle={setBookTitle} bookTitle={bookTitle} />
                       ) : isLoadingWordData ? (

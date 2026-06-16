@@ -196,10 +196,10 @@ function AdvancedSearchResults({
                           {/* Title row */}
                           <Group align="center" style={{ whiteSpace: 'nowrap' }}>
                             <Text
-                              className={`${classes.titleText} ${book.title.length > 40 ? classes.longTitle : classes.normalTitle}`}
-                              title={book.title} // Show full title on hover
+                              className={`${classes.titleText} ${(book.title?.length ?? 0) > 40 ? classes.longTitle : classes.normalTitle}`}
+                              title={book.title || 'Unknown Text'} // Show full title on hover
                             >
-                              {book.title}
+                              {book.title || 'Unknown Text'}
                             </Text>
                           </Group>
 
