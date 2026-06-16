@@ -2,7 +2,7 @@
   position: fixed;
   height: 56px;
   width: 100vw;
-  background-color: var(--mantine-color-body);
+  background-color: transparent; /* var(--mantine-color-body); */
   padding-left: var(--mantine-spacing-md);
   padding-right: var(--mantine-spacing-md);
   z-index: 100;

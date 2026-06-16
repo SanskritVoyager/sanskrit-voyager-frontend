@@ -128,8 +128,10 @@ export function HomePage() {
   // ----- Constants -----
 
   const { height: viewportHeight } = useViewportSize();
-  const headerHeight = isMobile ? 0 : 56;
-  const availableHeight = viewportHeight - headerHeight;
+  // Content spans the full viewport on every breakpoint; the fixed header floats
+  // over it (see-through). Only the navbar is offset by the 56px header height,
+  // handled in CSS (.navbarBox), since the header's buttons sit over its top-left.
+  const availableHeight = viewportHeight;
 
   const [isLoadingBook, setIsLoadingBook] = useState(false);
 
@@ -464,7 +466,6 @@ export function HomePage() {
           overflow: 'hidden',
           position: 'fixed',
           width: '100%',
-          height: vhActual,
           bottom: 0,
         }}
       >

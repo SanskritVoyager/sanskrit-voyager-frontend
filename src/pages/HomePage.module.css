@@ -65,8 +65,18 @@
     height: 100%;
   }
 
+  /* The content area spans the full viewport (under the fixed header), but the
+     header's buttons sit over the navbar's top-left. Offset the navbar by the
+     56px header height so its title/logo stay clear of them. border-box keeps
+     the panel within the viewport so its bottom isn't clipped. Mobile (<=660px)
+     and the tablet seam (661–768px) are offset elsewhere, so this is desktop-only. */
+  @media (min-width: 769px) {
+    box-sizing: border-box;
+    padding-top: 56px;
+  }
+
   z-index: 100;
-  
+
 
 
 
@@ -418,10 +428,10 @@
   bottom: 0;
   top: 0; /* Always start from top on mobile */
   
-  /* Desktop: offset by header height */
+  /* Desktop: offset by header height 
   @media (min-width: 769px) {
     top: 56px;
-  }
+  }*/
 }
 
 @media (max-width: 768px) {
