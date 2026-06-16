@@ -42,6 +42,20 @@
   padding-top: var(--mantine-spacing-xs);
 }
 
+.helpText {
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
+  font-size: var(--mantine-font-size-sm);
+}
+
+.docsLink {
+  color: light-dark(var(--mantine-color-coolOrange-6), var(--mantine-color-coolOrange-4));
+  text-decoration: none;
+}
+
+.docsLink:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .welcome {
     justify-content: flex-start;

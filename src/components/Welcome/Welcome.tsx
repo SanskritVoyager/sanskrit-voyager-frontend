@@ -30,6 +30,14 @@ export function Welcome({ bookTitle, setBookTitle }: WelcomeProps) {
           placeholder="Choose a book"
         />
       </div>
+
+      <Text className={classes.helpText}>
+        Need help?{' '}
+        <a href="/docs" className={classes.docsLink}>
+          Read the docs
+        </a>
+        .
+      </Text>
     </div>
   );
 }
