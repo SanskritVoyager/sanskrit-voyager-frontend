@@ -92,7 +92,7 @@ export function NavbarSimple({
           
           <Select
             data={[
-              { value: 'IAST', label: 'Romanic (IAST)' },
+              { value: 'IAST', label: 'Roman (IAST)' },
               { value: 'DEVANAGARI', label: 'Devanagari' },
               { value: 'HK', label: 'Harvard-Kyoto (HK)' },
               { value: 'SLP1', label: 'SLP1 (Sanskrit Library Phonetic)' },
@@ -105,6 +105,7 @@ export function NavbarSimple({
             ]}
             value={scheme.value}
             label="Select Transliteration Scheme"
+            description="Output transliteration format for the analysis tool"
             placeholder="Pick Transliteration Scheme, default is IAST"
             onChange={(_value, option) => {
               setScheme(option);

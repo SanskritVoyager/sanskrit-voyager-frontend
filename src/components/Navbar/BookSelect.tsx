@@ -8,6 +8,7 @@ interface BookSelectProps {
   bookTitle: string | null;
   label?: string;
   placeholder?: string;
+  description?: string | null;
 }
 
 // BookTitle interface defines the structure of our processed book data
@@ -39,6 +40,7 @@ function BookSelect({
   bookTitle,
   label = 'Select a book to import',
   placeholder = 'Pick a book to import',
+  description = "Read books from GRETIL and SARIT"
 }: BookSelectProps) {
   // Store the processed book titles
   const [bookTitlesList, setBookTitlesList] = useState<BookTitle[]>([]);
@@ -131,6 +133,7 @@ function BookSelect({
       value={selectedValue}
       label={label}
       placeholder={placeholder}
+      description={description}
       searchable
       nothingFoundMessage="Nothing found..."
       onChange={selectBook}

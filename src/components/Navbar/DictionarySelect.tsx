@@ -18,7 +18,7 @@ const DictionarySelectComponent = ({
   return (
     <MultiSelect
       label="Dictionary"
-      description="Select dictionaries"
+      description="Select dictionaries, Monier-Williams is default"
       placeholder="Select dictionaries"
       data={[
         {

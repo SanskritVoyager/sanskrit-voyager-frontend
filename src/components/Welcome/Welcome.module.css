@@ -42,6 +42,25 @@
   padding-top: var(--mantine-spacing-xs);
 }
 
+.suggestedText {
+  color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
+  font-size: var(--mantine-font-size-sm);
+  margin-top: calc(var(--mantine-spacing-xs) * -1);
+}
+
+.suggestedLink {
+  color: light-dark(var(--mantine-color-palette-2), var(--mantine-color-palette-2));
+  text-decoration: none;
+}
+
+.suggestedLink:hover {
+  text-decoration: underline;
+}
+
+.separator {
+  color: light-dark(var(--mantine-color-gray-5), var(--mantine-color-gray-6));
+}
+
 .helpText {
   color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
   font-size: var(--mantine-font-size-sm);

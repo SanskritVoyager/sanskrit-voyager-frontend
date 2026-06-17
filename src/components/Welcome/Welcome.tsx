@@ -3,6 +3,21 @@ import BookSelect from '@/components/Navbar/BookSelect';
 import Logo from '@/utils/logo';
 import classes from './Welcome.module.css';
 
+const suggestedTexts = [
+  {
+    title: 'Pātañjalayogaśāstra',
+    href: '/book/patanjalayogasastra_sarit',
+  },
+  {
+    title: 'Madhyāntavibhāgakārikā',
+    href: '/book/maitreya-madhyantavibhagakarika',
+  },
+  {
+    title: 'Bhairavastava',
+    href: '/book/abhinavagupta-bhairavastava',
+  },
+];
+
 interface WelcomeProps {
   bookTitle: string | null;
   setBookTitle: (value: string | null) => void;
@@ -27,9 +42,22 @@ export function Welcome({ bookTitle, setBookTitle }: WelcomeProps) {
           setBookTitle={setBookTitle}
           bookTitle={bookTitle}
           label="Start reading"
-          placeholder="Choose a book"
+          description={null}
+          placeholder="Choose a text from GRETIL or SARIT"
         />
       </div>
+
+      <Text className={classes.suggestedText}>
+        Suggested texts:{' '}
+        {suggestedTexts.map((text, index) => (
+          <span key={text.href}>
+            {index > 0 && <span className={classes.separator}> · </span>}
+            <a href={text.href} className={classes.suggestedLink}>
+              {text.title}
+            </a>
+          </span>
+        ))}
+      </Text>
 
       <Text className={classes.helpText}>
         Need help?{' '}
