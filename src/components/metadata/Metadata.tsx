@@ -362,6 +362,8 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
         </Text>
       )}
 
+     
+
       <Accordion
         className={classes.metadataAccordion}
         // variant="contained"
@@ -543,8 +545,14 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
           </Accordion.Panel>
         </Accordion.Item>
       </Accordion>
+      {/* AI translation disclaimer */}
+      <Text size="xs" c="dimmed" fs="italic" mt="xs" mb="md">
+        Translations are automatically generated with Claude-Opus-4.6, and only partially
+        reviewed by hand. They may contain errors.
+      </Text>
     </div>
   );
 };
+
 
 export default MetadataComponent;

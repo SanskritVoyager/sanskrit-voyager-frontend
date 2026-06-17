@@ -158,7 +158,10 @@ export function HeaderSearch({
     <header className={classes.header}>
       <div className={classes.inner}>
         <Group gap={isMobile ? 'xs' : 'md'}>
-          <Tooltip label={isNavbarVisible ? 'Hide panel' : 'Show panel'} position="bottom">
+          <Tooltip
+            label={`${isNavbarVisible ? 'Hide panel' : 'Show panel'} (Ctrl+B)`}
+            position="bottom"
+          >
             <ActionIcon
               className={classes.navbarToggle}
               onClick={onToggleNavbar}
