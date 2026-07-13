@@ -145,7 +145,7 @@ export function NavbarSimple({
             setText(pastedData);
             handleTransliteration(pastedData);
           }}
-          label="Write Text Here"
+          label="Text Analysis Tool"
           description="Copy and paste text here to transliterate it."
           placeholder={
             'Write text here to transliterate it.' +

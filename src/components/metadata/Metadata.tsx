@@ -547,8 +547,7 @@ const MetadataComponent: React.FC<MetadataProps> = ({ metadata }) => {
       </Accordion>
       {/* AI translation disclaimer */}
       <Text size="xs" c="dimmed" fs="italic" mt="xs" mb="md">
-        Translations are automatically generated with Claude-Opus-4.6, and only partially
-        reviewed by hand. They may contain errors.
+        Translations are automatically generated. They may contain errors.
       </Text>
     </div>
   );
