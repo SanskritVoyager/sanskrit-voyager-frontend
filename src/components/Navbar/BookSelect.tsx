@@ -9,6 +9,9 @@ interface BookSelectProps {
   label?: string;
   placeholder?: string;
   description?: string | null;
+  // Called when a book is picked (not when the selection is cleared). Selection
+  // is URL-driven, so setBookTitle is not a reliable signal that a book was chosen.
+  onSelect?: () => void;
 }
 
 // BookTitle interface defines the structure of our processed book data
@@ -40,7 +43,8 @@ function BookSelect({
   bookTitle,
   label = 'Select a book to import',
   placeholder = 'Pick a book to import',
-  description = "Read books from GRETIL and SARIT"
+  description = "Read books from GRETIL and SARIT",
+  onSelect,
 }: BookSelectProps) {
   // Store the processed book titles
   const [bookTitlesList, setBookTitlesList] = useState<BookTitle[]>([]);
@@ -118,6 +122,7 @@ function BookSelect({
     setSelectedValue(value);
     if (selectedBook) {
       navigate(`/book/${toSlug(selectedBook.original)}`);
+      onSelect?.();
     } else {
       setBookTitle(null);
       navigate('/');

@@ -69,13 +69,12 @@ export function NavbarSimple({
   handleAdvancedSearch,
 }: NavbarProps) {
 
-  const handleBookSelect = (title: string | null) => {
-    setBookTitle(title);
-    if (isMobile) {
-      setTimeout(() => {
-        setIsNavbarVisible(false);
-      }, 300); // 300ms delay before closing
-    }
+  // On mobile the navbar covers the whole viewport, so picking a book should
+  // hand the screen over to the reading view. Short delay so the closing Select
+  // stays visible long enough to register as feedback.
+  const handleBookSelected = () => {
+    if (!isMobile) return;
+    setTimeout(() => setIsNavbarVisible(false), 300);
   };
 
   return (
@@ -122,7 +121,11 @@ export function NavbarSimple({
             setSelectedDictionaries={setSelectedDictionaries}
           />
 
-          <BookSelect setBookTitle={handleBookSelect} bookTitle={bookTitle} />
+          <BookSelect
+            setBookTitle={setBookTitle}
+            bookTitle={bookTitle}
+            onSelect={handleBookSelected}
+          />
 
           {bookTitle !== null && (
             <TranslationControl textType={textType} setTextType={setTextType} />
