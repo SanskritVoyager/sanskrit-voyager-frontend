@@ -1,0 +1,3177 @@
+{
+ "file_title": "yogasūtra_DCS",
+ "file_title_normal": "yogasutra_DCS",
+ "metadata": {
+  "original_title": "Yogasūtra",
+  "publisher": "Digital Corpus of Sanskrit (DCS)",
+  "license": {
+   "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+   "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "source": "Digital Corpus of Sanskrit (DCS), text ID 26. http://www.sanskrit-linguistics.org/dcs/ Segmentation follows the DCS line/pāda boundaries; chapter and verse labels are taken from the DCS references.",
+  "text_id": "26",
+  "collection": "DCS"
+ },
+ "body": [
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "1"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 1"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.1",
+      "label": "DCS 1.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha yogānuśāsanam ||",
+       "translated_text": "Now, the instruction on <s>yoga</s>.",
+       "segment_number": 50179
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.2",
+      "label": "DCS 1.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yogaś cittavṛttinirodhaḥ ||",
+       "translated_text": "<s>Yoga</s> is the cessation of the fluctuations of the mind.",
+       "segment_number": 50180
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.3",
+      "label": "DCS 1.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadā draṣṭuḥ svarūpe 'vasthānam ||",
+       "translated_text": "Then the seer abides in his own form.",
+       "segment_number": 50181
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.4",
+      "label": "DCS 1.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vṛttisārūpyam itaratra ||",
+       "translated_text": "At other times, there is conformity with the fluctuations.",
+       "segment_number": 50182
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.5",
+      "label": "DCS 1.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vṛttayaḥ pañcatayyaḥ kliṣṭāḥ akliṣṭāḥ ||",
+       "translated_text": "The fluctuations are fivefold, afflicted and unafflicted.",
+       "segment_number": 50183
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.6",
+      "label": "DCS 1.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pramāṇaviparyayavikalpanidrāsmṛtayaḥ ||",
+       "translated_text": "They are valid cognition, error, conceptual construction, sleep, and memory.",
+       "segment_number": 50184
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.7",
+      "label": "DCS 1.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pratyakṣānumānāgamāḥ pramāṇāni ||",
+       "translated_text": "Perception, inference, and authoritative testimony are valid cognitions.",
+       "segment_number": 50185
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.8",
+      "label": "DCS 1.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "viparyayo mithyājñānam atadrūpapratiṣṭham ||",
+       "translated_text": "Error is false knowledge, grounded in a form other than the thing itself.",
+       "segment_number": 50186
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.9",
+      "label": "DCS 1.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śabdajñānānupātī vastuśūnyo vikalpaḥ ||",
+       "translated_text": "Conceptual construction is based on verbal knowledge and is empty of a real object.",
+       "segment_number": 50187
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.10",
+      "label": "DCS 1.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "abhāvapratyayālambanā vṛttir nidrā ||",
+       "translated_text": "Sleep is a fluctuation resting on the cognition of absence.",
+       "segment_number": 50188
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.11",
+      "label": "DCS 1.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "anubhūtaviṣayāsaṃpramoṣaḥ smṛtiḥ ||",
+       "translated_text": "Memory is the non-loss of an experienced object.",
+       "segment_number": 50189
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.12",
+      "label": "DCS 1.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "abhyāsavairāgyābhyāṃ tannirodhaḥ ||",
+       "translated_text": "Its cessation comes through practice and dispassion.",
+       "segment_number": 50190
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.13",
+      "label": "DCS 1.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra sthitau yatno 'bhyāsaḥ ||",
+       "translated_text": "Of these, practice is the effort toward steadiness in that state.",
+       "segment_number": 50191
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.14",
+      "label": "DCS 1.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sa tu dīrghakālādaranairantaryasatkārasevito dṛḍhabhūmiḥ ||",
+       "translated_text": "But it has a firm ground when cultivated for a long time, without interruption, and with reverent care.",
+       "segment_number": 50192
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.15",
+      "label": "DCS 1.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dṛṣṭānuśravikaviṣayavitṛṣṇasya vaśīkārasaṃjñā vairāgyam ||",
+       "translated_text": "Dispassion, called mastery, belongs to one who is free from thirst for objects seen or heard about.",
+       "segment_number": 50193
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.16",
+      "label": "DCS 1.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatparaṃ puruṣakhyāter guṇavaitṛṣṇyam ||",
+       "translated_text": "The higher form of that is indifference even toward the guṇas, arising from knowledge of puruṣa.",
+       "segment_number": 50194
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.17",
+      "label": "DCS 1.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vitarkavicārānandāsmitārūpānugamāt samprajñātaḥ ||",
+       "translated_text": "Cognitive samādhi is accompanied by reasoning, reflection, bliss, and the sense of I-am-ness.",
+       "segment_number": 50195
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.18",
+      "label": "DCS 1.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "virāmapratyayābhyāsapūrvaḥ saṃskāraśeṣo 'nyaḥ ||",
+       "translated_text": "The other samādhi, preceded by the practice of the idea of cessation, leaves only latent impressions.",
+       "segment_number": 50196
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.19",
+      "label": "DCS 1.19"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhavapratyayo videhaprakṛtilayānām ||",
+       "translated_text": "For the bodiless and those dissolved into prakṛti, it is caused by their state of becoming.",
+       "segment_number": 50197
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.20",
+      "label": "DCS 1.20"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śraddhāvīryasmṛtisamādhiprajñāpūrvaka itareṣām ||",
+       "translated_text": "For others, it is preceded by faith, energy, memory, samādhi, and insight.",
+       "segment_number": 50198
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.21",
+      "label": "DCS 1.21"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tīvrasaṃvegānām āsannaḥ ||",
+       "translated_text": "It is near for those whose intensity is keen.",
+       "segment_number": 50199
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.22",
+      "label": "DCS 1.22"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mṛdumadhyādhimātratvāt tato 'pi viśeṣaḥ ||",
+       "translated_text": "Because intensity may be mild, moderate, or excessive, there is further distinction even from that.",
+       "segment_number": 50200
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.23",
+      "label": "DCS 1.23"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "īśvarapraṇidhānād vā ||",
+       "translated_text": "Or it comes through dedication to īśvara.",
+       "segment_number": 50201
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.24",
+      "label": "DCS 1.24"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kleśakarmavipākāśayair aparāmṛṣṭaḥ puruṣaviśeṣa īśvaraḥ ||",
+       "translated_text": "Īśvara is a special puruṣa, untouched by afflictions, actions, fruits of action, and latent deposits.",
+       "segment_number": 50202
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.25",
+      "label": "DCS 1.25"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra niratiśayaṃ sarvajñabījam ||",
+       "translated_text": "In him the seed of omniscience is unsurpassed.",
+       "segment_number": 50203
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.26",
+      "label": "DCS 1.26"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sa pūrveṣām api guruḥ kālenānavacchedāt ||",
+       "translated_text": "He is also the teacher of the ancients, because he is not delimited by time.",
+       "segment_number": 50204
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.27",
+      "label": "DCS 1.27"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasya vācakaḥ praṇavaḥ ||",
+       "translated_text": "His verbal expression is praṇava.",
+       "segment_number": 50205
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.28",
+      "label": "DCS 1.28"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tajjapas tadarthabhāvanam ||",
+       "translated_text": "Its repetition is to be accompanied by contemplation of its meaning.",
+       "segment_number": 50206
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.29",
+      "label": "DCS 1.29"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tataḥ pratyakcetanādhigamo 'py antarāyābhāvaś ca ||",
+       "translated_text": "From that comes the attainment of inward consciousness and also the absence of obstacles.",
+       "segment_number": 50207
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.30",
+      "label": "DCS 1.30"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vyādhistyānasaṃśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatvāni cittavikṣepās te 'ntarāyāḥ ||",
+       "translated_text": "Illness, apathy, doubt, heedlessness, laziness, lack of restraint, mistaken vision, failure to attain a stage, and instability are distractions of the mind; these are the obstacles.",
+       "segment_number": 50208
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.31",
+      "label": "DCS 1.31"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsā vikṣepasahabhuvaḥ ||",
+       "translated_text": "Pain, dejection, bodily tremor, inhalation, and exhalation accompany distraction.",
+       "segment_number": 50209
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.32",
+      "label": "DCS 1.32"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatpratiṣedhārtham ekatattvābhyāsaḥ ||",
+       "translated_text": "For the purpose of counteracting that, there is practice of one principle.",
+       "segment_number": 50210
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.33",
+      "label": "DCS 1.33"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "maitrīkaruṇāmuditopekṣāṇāṃ sukhaduḥkhapuṇyāpuṇyaviṣayāṇāṃ bhāvanātaś cittaprasādanam ||",
+       "translated_text": "Through cultivation of friendliness, compassion, joy, and equanimity toward happiness, suffering, merit, and demerit, the mind becomes clear.",
+       "segment_number": 50211
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.34",
+      "label": "DCS 1.34"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pracchardanavidhāraṇābhyāṃ vā prāṇasya ||",
+       "translated_text": "Or by exhalation and retention of the breath.",
+       "segment_number": 50212
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.35",
+      "label": "DCS 1.35"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "viṣayavatī vā pravṛttir utpannā manasaḥ sthitinibandhinī ||",
+       "translated_text": "Or a sense-activity that has arisen in relation to an object becomes a support for steadiness of the mind.",
+       "segment_number": 50213
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.36",
+      "label": "DCS 1.36"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "viśokā vā jyotiṣmatī ||",
+       "translated_text": "Or there is the sorrowless and luminous one.",
+       "segment_number": 50214
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.37",
+      "label": "DCS 1.37"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vītarāgaviṣayaṃ vā cittam ||",
+       "translated_text": "Or the mind may take as its object one who is free from passion.",
+       "segment_number": 50215
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.38",
+      "label": "DCS 1.38"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "svapnanidrājñānālambanaṃ vā ||",
+       "translated_text": "Or it may rest on knowledge arising from dream and sleep.",
+       "segment_number": 50216
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.39",
+      "label": "DCS 1.39"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yathābhimatadhyānād vā ||",
+       "translated_text": "Or from meditation on whatever is desired.",
+       "segment_number": 50217
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.40",
+      "label": "DCS 1.40"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "paramāṇuparamamahattvānto 'sya vaśīkāraḥ ||",
+       "translated_text": "Its mastery extends from the smallest atom to the greatest magnitude.",
+       "segment_number": 50218
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.41",
+      "label": "DCS 1.41"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṣīṇavṛtter abhijātasyeva maṇer grahītṛgrahaṇagrāhyeṣu tatsthatadañjanatā samāpattiḥ ||",
+       "translated_text": "When its fluctuations have diminished, like a clear jewel, its taking on the color of what is present in the knower, the instrument of knowing, and the known is samāpatti.",
+       "segment_number": 50219
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.42",
+      "label": "DCS 1.42"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra śabdārthajñānavikalpaiḥ saṃkīrṇā savitarkā samāpattiḥ ||",
+       "translated_text": "There, samāpatti mixed with conceptual distinctions of word, object, and knowledge is savitarka.",
+       "segment_number": 50220
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.43",
+      "label": "DCS 1.43"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "smṛtipariśuddhau svarūpaśūnyevārthamātranirbhāsā nirvitarkā ||",
+       "translated_text": "When memory is purified, the nirvitarka state appears as though empty of its own form and shining only as the object.",
+       "segment_number": 50221
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.44",
+      "label": "DCS 1.44"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "etayaiva savicārā nirvicārā ca sūkṣmaviṣayā vyākhyātā ||",
+       "translated_text": "By this alone, savicāra and nirvicāra samāpatti, whose objects are subtle, have been explained.",
+       "segment_number": 50222
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.45",
+      "label": "DCS 1.45"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sūkṣmaviṣayatvaṃ cāliṅgaparyavasānam ||",
+       "translated_text": "And subtle objectivity extends up to the unmanifest.",
+       "segment_number": 50223
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.46",
+      "label": "DCS 1.46"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tā eva sabījaḥ samādhiḥ ||",
+       "translated_text": "Those very states are samādhi with seed.",
+       "segment_number": 50224
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.47",
+      "label": "DCS 1.47"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nirvicāravaiśāradya 'dhyātmaprasādaḥ ||",
+       "translated_text": "From proficiency in nirvicāra comes clarity of the inner self.",
+       "segment_number": 50225
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.48",
+      "label": "DCS 1.48"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ṛtaṃbharā tatra prajñā ||",
+       "translated_text": "There the insight is truth-bearing.",
+       "segment_number": 50226
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.49",
+      "label": "DCS 1.49"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śrutānumānaprajñābhyām anyaviṣayā viśeṣārthatvāt ||",
+       "translated_text": "It has a different object from insight based on scripture and inference, because its object is particular.",
+       "segment_number": 50227
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.50",
+      "label": "DCS 1.50"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tajjaḥ saṃskāro 'nyasaṃskārapratibandhī ||",
+       "translated_text": "The latent impression born from that obstructs other latent impressions.",
+       "segment_number": 50228
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.51",
+      "label": "DCS 1.51"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasyāpi nirodhe sarvanirodhān nirbījaḥ samādhiḥ ||",
+       "translated_text": "When even that is brought to cessation, because all has been brought to cessation, there is seedless samādhi.",
+       "segment_number": 50229
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "2"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 2"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.1",
+      "label": "DCS 2.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tapaḥsvādhyāyeśvarapraṇidhānāni kriyāyogaḥ ||",
+       "translated_text": "Austerity, self-study, and dedication to īśvara are kriyāyoga.",
+       "segment_number": 50230
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.2",
+      "label": "DCS 2.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "samādhibhāvanārthaḥ kleśatanūkaraṇārthaś ca ||",
+       "translated_text": "It is for cultivating samādhi and for attenuating the afflictions.",
+       "segment_number": 50231
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.3",
+      "label": "DCS 2.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "avidyāsmitārāgadveṣābhiniveśāḥ kleśāḥ ||",
+       "translated_text": "Ignorance, I-am-ness, attachment, aversion, and clinging to life are the afflictions.",
+       "segment_number": 50232
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.4",
+      "label": "DCS 2.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "avidyā kṣetram uttareṣāṃ prasuptatanuvicchinnodārāṇām ||",
+       "translated_text": "Ignorance is the field for the subsequent afflictions, whether dormant, attenuated, interrupted, or fully active.",
+       "segment_number": 50233
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.5",
+      "label": "DCS 2.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "anityāśuciduḥkhānātmasu nityaśucisukhātmakhyātir avidyā ||",
+       "translated_text": "Ignorance is the apprehension of the impermanent, impure, painful, and non-self as permanent, pure, pleasant, and self.",
+       "segment_number": 50234
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.6",
+      "label": "DCS 2.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dṛgdarśanaśaktyor ekātmataivāsmitā ||",
+       "translated_text": "I-am-ness is the apparent identity of the powers of seeing and of the instrument of seeing.",
+       "segment_number": 50235
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.7",
+      "label": "DCS 2.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sukhānuśayī rāgaḥ ||",
+       "translated_text": "Attachment follows upon pleasure.",
+       "segment_number": 50236
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.8",
+      "label": "DCS 2.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "duḥkhānuśayī dveṣaḥ ||",
+       "translated_text": "Aversion follows upon pain.",
+       "segment_number": 50237
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.9",
+      "label": "DCS 2.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "svarasavāhī viduṣo 'pi tathārūḍho 'bhiniveśaḥ ||",
+       "translated_text": "Clinging to life, flowing by its own nature and established even in the learned, is of that same kind.",
+       "segment_number": 50238
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.10",
+      "label": "DCS 2.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "te pratiprasavaheyāḥ sūkṣmāḥ ||",
+       "translated_text": "In their subtle form, these are to be abandoned by return to their source.",
+       "segment_number": 50239
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.11",
+      "label": "DCS 2.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dhyānaheyās tadvṛttayaḥ ||",
+       "translated_text": "Their fluctuations are to be abandoned by meditation.",
+       "segment_number": 50240
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.12",
+      "label": "DCS 2.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kleśamūlaḥ karmāśayo dṛṣṭādṛṣṭajanmavedanīyaḥ ||",
+       "translated_text": "The store of karma, rooted in affliction, is to be experienced in births seen and unseen.",
+       "segment_number": 50241
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.13",
+      "label": "DCS 2.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sati mūle tadvipāko jātyāyurbhogāḥ ||",
+       "translated_text": "As long as the root exists, its fruition is birth, span of life, and experience.",
+       "segment_number": 50242
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.14",
+      "label": "DCS 2.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "te hlādaparitāpaphalāḥ puṇyāpuṇyahetutvāt ||",
+       "translated_text": "These have pleasure and pain as their fruits because of merit and demerit as their causes.",
+       "segment_number": 50243
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.15",
+      "label": "DCS 2.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pariṇāmatāpasaṃskāraduḥkhaguṇavṛttirodhāc ca duḥkham eva sarvaṃ vivekinaḥ ||",
+       "translated_text": "For the discriminating person, all is indeed suffering, because of the suffering caused by change, distress, latent impressions, and the opposition of the guṇa-fluctuations.",
+       "segment_number": 50244
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.16",
+      "label": "DCS 2.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "heyaṃ duḥkham anāgatam ||",
+       "translated_text": "The suffering that has not yet come is to be abandoned.",
+       "segment_number": 50245
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.17",
+      "label": "DCS 2.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "draṣṭṛdṛśyayoḥ saṃyogo heyahetuḥ ||",
+       "translated_text": "The conjunction of the seer and the seen is the cause of what is to be abandoned.",
+       "segment_number": 50246
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.18",
+      "label": "DCS 2.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prakāśakriyāsthitiśīlaṃ bhūtendriyātmake bhogāpavargārthaṃ dṛśyam ||",
+       "translated_text": "The seen, whose nature is illumination, activity, and stability, consists of the elements and senses and exists for experience and liberation.",
+       "segment_number": 50247
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.19",
+      "label": "DCS 2.19"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "viśeṣāviśeṣaliṅgamātrāliṅgāni guṇaparvāṇi ||",
+       "translated_text": "The stages of the guṇas are the particular, the non-particular, the merely marked, and the unmarked.",
+       "segment_number": 50248
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.20",
+      "label": "DCS 2.20"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "draṣṭā dṛśimātraḥ śuddho 'pi pratyayānupaśyaḥ ||",
+       "translated_text": "The seer is mere seeing; though pure, he observes cognitions.",
+       "segment_number": 50249
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.21",
+      "label": "DCS 2.21"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadartha eva dṛśyasyātmā ||",
+       "translated_text": "The very nature of the seen exists only for his sake.",
+       "segment_number": 50250
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.22",
+      "label": "DCS 2.22"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṛtārthaṃ prati naṣṭam apy anaṣṭaṃ tadanyasādhāraṇatvāt ||",
+       "translated_text": "Though destroyed in relation to one whose purpose is fulfilled, it is not destroyed, because it is common to others.",
+       "segment_number": 50251
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.23",
+      "label": "DCS 2.23"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "svasvāmiśaktyoḥ svarūpopalabdhihetuḥ saṃyogaḥ ||",
+       "translated_text": "Conjunction is the cause of apprehending the own nature of the powers of the possessed and the possessor.",
+       "segment_number": 50252
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.24",
+      "label": "DCS 2.24"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasya hetur avidyā ||",
+       "translated_text": "Its cause is ignorance.",
+       "segment_number": 50253
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.25",
+      "label": "DCS 2.25"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadabhāvāt saṃyogābhāvo hānaṃ taddṛśeḥ kaivalyam ||",
+       "translated_text": "Because of the absence of that, there is absence of conjunction; this is abandonment, the isolation of that seer.",
+       "segment_number": 50254
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.26",
+      "label": "DCS 2.26"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vivekakhyātir aviplavā hānopāyaḥ ||",
+       "translated_text": "Unwavering discriminative discernment is the means of abandonment.",
+       "segment_number": 50255
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.27",
+      "label": "DCS 2.27"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasya saptadhā prāntabhūmiprajñā ||",
+       "translated_text": "For that person, insight reaches its final ground in seven ways.",
+       "segment_number": 50256
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.28",
+      "label": "DCS 2.28"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yogāṅgānuṣṭhānād aśuddhikṣaye jñānadīptir ā vivekakhyāteḥ ||",
+       "translated_text": "From the practice of the limbs of yoga, when impurity has been destroyed, the light of knowledge extends up to discriminative discernment.",
+       "segment_number": 50257
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.29",
+      "label": "DCS 2.29"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yamaniyamāsanaprāṇāyāmapratyāhāradhāraṇādhyānasamādhayo 'ṣṭāv aṅgāni ||",
+       "translated_text": "Restraint, observance, posture, breath-control, withdrawal of the senses, concentration, meditation, and samādhi are the eight limbs.",
+       "segment_number": 50258
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.30",
+      "label": "DCS 2.30"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ahiṃsāsatyāsteyabrahmacaryāparigrahā yamāḥ ||",
+       "translated_text": "Non-violence, truthfulness, non-stealing, celibate restraint, and non-possessiveness are the restraints.",
+       "segment_number": 50259
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.31",
+      "label": "DCS 2.31"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ete jātideśakālasamayānavacchinnāḥ sārvabhaumā mahāvratam ||",
+       "translated_text": "These, when not limited by class, place, time, or convention, are the great vow, universal in scope.",
+       "segment_number": 50260
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.32",
+      "label": "DCS 2.32"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śaucasaṃtoṣatapaḥsvādhyāyeśvarapraṇidhānāni niyamāḥ ||",
+       "translated_text": "Purity, contentment, austerity, study of sacred recitation, and devotion to <s>Īśvara</s> are the observances.",
+       "segment_number": 50261
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.33",
+      "label": "DCS 2.33"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vitarkabādhane pratipakṣabhāvanam ||",
+       "translated_text": "When obstructive thoughts arise, cultivation of the opposite is to be practiced.",
+       "segment_number": 50262
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.34",
+      "label": "DCS 2.34"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vitarkā hiṃsādayaḥ kṛtakāritānumoditā lobhakrodhamohapūrvakā mṛdumadhyādhimātrā duḥkhājñānānantaphalā iti pratipakṣabhāvanam ||",
+       "translated_text": "Obstructive thoughts, such as violence and the rest, whether done, caused to be done, or approved, preceded by greed, anger, or delusion, and mild, moderate, or intense, have endless fruits of suffering and ignorance; thus one should cultivate the opposite.",
+       "segment_number": 50263
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.35",
+      "label": "DCS 2.35"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ahiṃsāpratiṣṭhāyāṃ tatsannidhau vairatyāgaḥ ||",
+       "translated_text": "When one is established in non-violence, hostility is abandoned in one's presence.",
+       "segment_number": 50264
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.36",
+      "label": "DCS 2.36"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "satyapratiṣṭhāyāṃ kriyāphalāśrayatvam ||",
+       "translated_text": "When one is established in truthfulness, actions and their fruits come to depend on one.",
+       "segment_number": 50265
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.37",
+      "label": "DCS 2.37"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "asteyapratiṣṭhāyāṃ sarvaratnopasthānam ||",
+       "translated_text": "When one is established in non-stealing, all jewels come near.",
+       "segment_number": 50266
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.38",
+      "label": "DCS 2.38"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "brahmacaryapratiṣṭhāyāṃ vīryalābhaḥ ||",
+       "translated_text": "When one is established in celibate restraint, vigor is obtained.",
+       "segment_number": 50267
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.39",
+      "label": "DCS 2.39"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aparigrahasthairye janmakathaṃtāsaṃbodhaḥ ||",
+       "translated_text": "When non-possessiveness is firm, there is understanding of the how and why of birth.",
+       "segment_number": 50268
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.40",
+      "label": "DCS 2.40"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śaucāt svāṅgajugupsā parair asaṃsargaḥ ||",
+       "translated_text": "From purity come disgust toward one's own body and non-contact with others.",
+       "segment_number": 50269
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.41",
+      "label": "DCS 2.41"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sattvaśuddhisaumanasyaikāgratendriyajayātmadarśanayogyatvāni ca ||",
+       "translated_text": "And there arise purity of sattva, cheerfulness, one-pointedness, conquest of the senses, and fitness for vision of the self.",
+       "segment_number": 50270
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.42",
+      "label": "DCS 2.42"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "saṃtoṣād anuttamaḥ sukhalābhaḥ ||",
+       "translated_text": "From contentment, unsurpassed happiness is obtained.",
+       "segment_number": 50271
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.43",
+      "label": "DCS 2.43"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kāyendriyasiddhir aśuddhikṣayāt tapasaḥ ||",
+       "translated_text": "Through austerity, from the destruction of impurity, come perfection of the body and senses.",
+       "segment_number": 50272
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.44",
+      "label": "DCS 2.44"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "svādhyāyād iṣṭadevatāsaṃprayogaḥ ||",
+       "translated_text": "From study of sacred recitation comes communion with the desired deity.",
+       "segment_number": 50273
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.45",
+      "label": "DCS 2.45"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "samādhisiddhir īśvarapraṇidhānāt ||",
+       "translated_text": "Perfection in samādhi comes from devotion to <s>Īśvara</s>.",
+       "segment_number": 50274
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.46",
+      "label": "DCS 2.46"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sthirasukham āsanam ||",
+       "translated_text": "Posture is steady and comfortable.",
+       "segment_number": 50275
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.47",
+      "label": "DCS 2.47"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prayatnaśaithilyānantyasamāpattibhyām ||",
+       "translated_text": "It is attained through relaxation of effort and absorption into the infinite.",
+       "segment_number": 50276
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.48",
+      "label": "DCS 2.48"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tato dvaṃdvānabhighātaḥ ||",
+       "translated_text": "From that, one is not struck by the pairs of opposites.",
+       "segment_number": 50277
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.49",
+      "label": "DCS 2.49"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmin sati śvāsapraśvāsayor gativicchedaḥ prāṇāyāmaḥ ||",
+       "translated_text": "When that exists, breath-control is the interruption of the movement of inhalation and exhalation.",
+       "segment_number": 50278
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.50",
+      "label": "DCS 2.50"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sa tu bāhyābhyantarastambhavṛttir deśakālasaṃkhyābhiḥ paridṛṣṭo dīrghasūkṣmaḥ ||",
+       "translated_text": "It has the modes of external, internal, and suspended breath; observed with respect to place, time, and number, it becomes long and subtle.",
+       "segment_number": 50279
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.51",
+      "label": "DCS 2.51"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bāhyābhyantaraviṣayākṣepī caturthaḥ ||",
+       "translated_text": "The fourth transcends the sphere of the external and internal.",
+       "segment_number": 50280
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.52",
+      "label": "DCS 2.52"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tataḥ kṣīyate prakāśāvaraṇam ||",
+       "translated_text": "From that, the covering over illumination is diminished.",
+       "segment_number": 50281
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.53",
+      "label": "DCS 2.53"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dhāraṇāsu ca yogyatā manasaḥ ||",
+       "translated_text": "And the mind becomes fit for acts of concentration.",
+       "segment_number": 50282
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.54",
+      "label": "DCS 2.54"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "svaviṣayāsaṃprayoge cittasvarūpānukāra ivendriyāṇāṃ pratyāhāraḥ ||",
+       "translated_text": "Withdrawal of the senses is, as it were, the senses' imitation of the mind's own form when they are disconnected from their own objects.",
+       "segment_number": 50283
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.55",
+      "label": "DCS 2.55"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tataḥ paramā vaśyatendriyāṇām ||",
+       "translated_text": "From that comes supreme mastery over the senses.",
+       "segment_number": 50284
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "3"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 3"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.1",
+      "label": "DCS 3.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "deśabandhaś cittasya dhāraṇā ||",
+       "translated_text": "Concentration is the binding of the mind to a place.",
+       "segment_number": 50285
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.2",
+      "label": "DCS 3.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra pratyayaikatānatā dhyānam ||",
+       "translated_text": "There, meditation is the one-streamed continuity of the cognition.",
+       "segment_number": 50286
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.3",
+      "label": "DCS 3.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tad evārthamātrānirbhāsaṃ svarūpaśūnyam iva samādhiḥ ||",
+       "translated_text": "That very meditation, when only the object shines forth and it is as though empty of its own form, is samādhi.",
+       "segment_number": 50287
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.4",
+      "label": "DCS 3.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "trayam ekatra saṃyamaḥ ||",
+       "translated_text": "The three together are saṃyama.",
+       "segment_number": 50288
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.5",
+      "label": "DCS 3.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tajjayāt prajñālokaḥ ||",
+       "translated_text": "From mastery of that, the light of insight arises.",
+       "segment_number": 50289
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.6",
+      "label": "DCS 3.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasya bhūmiṣu viniyogaḥ ||",
+       "translated_text": "It is to be applied to the stages.",
+       "segment_number": 50290
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.7",
+      "label": "DCS 3.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "trayam antaraṅgaṃ pūrvebhyaḥ ||",
+       "translated_text": "The three are inward limbs in relation to the preceding ones.",
+       "segment_number": 50291
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.8",
+      "label": "DCS 3.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tad api bahiraṅgaṃ nirbījasya ||",
+       "translated_text": "Yet even that is an outward limb in relation to seedless samādhi.",
+       "segment_number": 50292
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.9",
+      "label": "DCS 3.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vyutthānanirodhasaṃskārayor abhibhavaprādurbhāvau nirodhalakṣaṇacittānvayo nirodhapariṇāmaḥ ||",
+       "translated_text": "The suppression-transformation is the mind's connection with the characteristic of suppression, in which the saṃskāras (latent formations) of emergence and suppression are respectively overpowered and manifested.",
+       "segment_number": 50293
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.10",
+      "label": "DCS 3.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasya praśāntavāhitā saṃskārāt ||",
+       "translated_text": "Its peaceful flow comes from saṃskāra (latent formation).",
+       "segment_number": 50294
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.11",
+      "label": "DCS 3.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sarvārthataikāgratayoḥ kṣayodayau cittasya samādhipariṇāmaḥ ||",
+       "translated_text": "The samādhi-transformation of the mind is the subsiding and arising of all-objectness and one-pointedness.",
+       "segment_number": 50295
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.12",
+      "label": "DCS 3.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śāntoditau tulyapratyayaś cittasyaikāgratāpariṇāmaḥ ||",
+       "translated_text": "The one-pointedness-transformation of the mind is when the past and arisen cognitions are similar.",
+       "segment_number": 50296
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.13",
+      "label": "DCS 3.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "etena bhūtendriyeṣu dharmalakṣaṇāvasthāpariṇāmā vyākhyātāḥ ||",
+       "translated_text": "By this, the transformations of property, mark, and condition in the elements and senses have been explained.",
+       "segment_number": 50297
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.14",
+      "label": "DCS 3.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śāntoditāvyapadeśyadharmānupātī dharmī ||",
+       "translated_text": "The property-bearer follows properties that are pacified, arisen, or not yet nameable.",
+       "segment_number": 50298
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.15",
+      "label": "DCS 3.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kramānyatvaṃ pariṇāmānyatve hetuḥ ||",
+       "translated_text": "Difference in sequence is the cause of difference in transformations.",
+       "segment_number": 50299
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.16",
+      "label": "DCS 3.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pariṇāmatrayasaṃyamād atītānāgatajñānam ||",
+       "translated_text": "From saṃyama on the three transformations comes knowledge of the past and future.",
+       "segment_number": 50300
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.17",
+      "label": "DCS 3.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śabdārthapratyayānām itaretarādhyāsāt saṃkaras tatpravibhāgasaṃyamāt sarvabhūtarutajñānam ||",
+       "translated_text": "Because word, meaning, and cognition are superimposed on one another, there is confusion; from saṃyama on their distinction comes knowledge of the sounds of all beings.",
+       "segment_number": 50301
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.18",
+      "label": "DCS 3.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "saṃskārasākṣātkaraṇāt pūrvajātijñānam ||",
+       "translated_text": "From direct perception of saṃskāras (latent formations) comes knowledge of former births.",
+       "segment_number": 50302
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.19",
+      "label": "DCS 3.19"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pratyayasya paracittajñānam ||",
+       "translated_text": "From saṃyama on a cognition comes knowledge of another's mind.",
+       "segment_number": 50303
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.20",
+      "label": "DCS 3.20"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "na tatsālambanaṃ tasyāviṣayībhūtatvāt ||",
+       "translated_text": "But not together with its support, because that has not become the object of that cognition.",
+       "segment_number": 50304
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.21",
+      "label": "DCS 3.21"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kāyarūpasaṃyamāt tadgrāhyaśaktistambhe cakṣuḥprakāśāsaṃyoge 'ntardhānam ||",
+       "translated_text": "From saṃyama on the form of the body, when the power by which it is grasped is suspended and there is no conjunction with the light of the eye, invisibility results.",
+       "segment_number": 50305
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.22",
+      "label": "DCS 3.22"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sopakramaṃ nirupakramaṃ ca karma tatsaṃyamād aparāntajñānam ariṣṭebhyo vā ||",
+       "translated_text": "Karma is of two kinds, quick to fructify and slow to fructify; from saṃyama on that comes knowledge of the end of life, or else from omens.",
+       "segment_number": 50306
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.23",
+      "label": "DCS 3.23"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "maitryādiṣu balāni ||",
+       "translated_text": "In friendliness and the other attitudes, there are strengths.",
+       "segment_number": 50307
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.24",
+      "label": "DCS 3.24"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "baleṣu hastibalādīni ||",
+       "translated_text": "Among strengths are the strength of an elephant and the like.",
+       "segment_number": 50308
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.25",
+      "label": "DCS 3.25"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pravṛttyālokanyāsāt sūkṣmavyavahitaviprakṛṣṭajñānam ||",
+       "translated_text": "By placing the light of activity, there is knowledge of what is subtle, hidden, or remote.",
+       "segment_number": 50309
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.26",
+      "label": "DCS 3.26"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhuvanajñānaṃ sūryasaṃyamāt ||",
+       "translated_text": "Knowledge of the worlds comes from saṃyama on the sun.",
+       "segment_number": 50310
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.27",
+      "label": "DCS 3.27"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "candre tārāvyūhajñānam ||",
+       "translated_text": "On the moon, there is knowledge of the arrangement of the stars.",
+       "segment_number": 50311
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.28",
+      "label": "DCS 3.28"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dhruve tadgatijñānam ||",
+       "translated_text": "On the pole-star, there is knowledge of their motion.",
+       "segment_number": 50312
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.29",
+      "label": "DCS 3.29"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nābhicakre kāyavyūhajñānam ||",
+       "translated_text": "On the navel-wheel, there is knowledge of the arrangement of the body.",
+       "segment_number": 50313
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.30",
+      "label": "DCS 3.30"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kaṇṭhakūpe kṣutpipāsānivṛttiḥ ||",
+       "translated_text": "On the hollow of the throat, hunger and thirst cease.",
+       "segment_number": 50314
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.31",
+      "label": "DCS 3.31"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kūrmanāḍyāṃ sthairyam ||",
+       "translated_text": "On the tortoise-channel, there is steadiness.",
+       "segment_number": 50315
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.32",
+      "label": "DCS 3.32"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mūrdhajyotiṣi siddhadarśanam ||",
+       "translated_text": "On the light in the head, there is vision of perfected beings.",
+       "segment_number": 50316
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.33",
+      "label": "DCS 3.33"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prātibhād vā sarvam ||",
+       "translated_text": "Or, from intuitive illumination, everything is known.",
+       "segment_number": 50317
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.34",
+      "label": "DCS 3.34"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "hṛdaye cittasaṃvit ||",
+       "translated_text": "In the heart, there is awareness of the mind.",
+       "segment_number": 50318
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.35",
+      "label": "DCS 3.35"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sattvapuruṣayor atyantāsaṃkīrṇayoḥ pratyayāviśeṣaḥ bhogaḥ parārthatvāt svārthasaṃyamāt puruṣajñānam ||",
+       "translated_text": "Experience is the non-distinction of cognition between sattva and puruṣa, which are utterly unmixed; because sattva exists for another, from saṃyama on what exists for itself comes knowledge of puruṣa.",
+       "segment_number": 50319
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.36",
+      "label": "DCS 3.36"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tataḥ prātibhaśrāvaṇavedanādarśāsvādavārttā jāyante ||",
+       "translated_text": "From that arise intuitive, auditory, tactile, visual, gustatory, and olfactory knowledges.",
+       "segment_number": 50320
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.37",
+      "label": "DCS 3.37"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "te samādhāv upasargā vyutthāne siddhayaḥ ||",
+       "translated_text": "They are obstacles in samādhi, but powers in the state of emergence.",
+       "segment_number": 50321
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.38",
+      "label": "DCS 3.38"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bandhakāraṇaśaithilyāt pracārasaṃvedanāc ca cittasya paraśarīrāveśaḥ ||",
+       "translated_text": "From the loosening of the cause of bondage and from awareness of the pathways, there is entry of the mind into another body.",
+       "segment_number": 50322
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.39",
+      "label": "DCS 3.39"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "udānajayāj jalapaṅkakaṇṭakādiṣv asaṅga utkrāntiś ca ||",
+       "translated_text": "From mastery of udāna, there is non-attachment in water, mud, thorns, and the like, and also upward departure.",
+       "segment_number": 50323
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.40",
+      "label": "DCS 3.40"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "samānajayāt prajvalanam ||",
+       "translated_text": "From mastery of samāna comes blazing heat.",
+       "segment_number": 50324
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.41",
+      "label": "DCS 3.41"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śrotrākāśayoḥ sambandhasaṃyamād divyaṃ śrotram ||",
+       "translated_text": "From saṃyama on the relation between hearing and space comes divine hearing.",
+       "segment_number": 50325
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.42",
+      "label": "DCS 3.42"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kāyākāśayoḥ sambandhasaṃyamāl laghutūlasamāpatteś cākāśagamanam ||",
+       "translated_text": "From saṃyama on the relation between body and space, and from absorption into the lightness of cotton, comes movement through space.",
+       "segment_number": 50326
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.43",
+      "label": "DCS 3.43"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bahirakalpitā vṛttir mahāvidehā tataḥ prakāśāvaraṇakṣayaḥ ||",
+       "translated_text": "The externally unimagined activity is the great disembodied state; from that comes destruction of the covering over illumination.",
+       "segment_number": 50327
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.44",
+      "label": "DCS 3.44"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sthūlasvarūpasūkṣmānvayārthavattvasaṃyamād bhūtajayaḥ ||",
+       "translated_text": "From saṃyama on grossness, own-form, subtlety, inherence, and purposefulness comes mastery over the elements.",
+       "segment_number": 50328
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.45",
+      "label": "DCS 3.45"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tato 'ṇimādiprādurbhāvaḥ kāyasampad taddharmānabhighātaś ca ||",
+       "translated_text": "From that arise aṇimā and the other powers, bodily perfection, and non-obstruction by their properties.",
+       "segment_number": 50329
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.46",
+      "label": "DCS 3.46"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rūpalāvaṇyabalavajrasaṃhananatvāni kāyasampat ||",
+       "translated_text": "Beauty of form, grace, strength, and diamond-like firmness are bodily perfection.",
+       "segment_number": 50330
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.47",
+      "label": "DCS 3.47"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "grahaṇasvarūpāsmitānvayārthavattvasaṃyamād indriyajayaḥ ||",
+       "translated_text": "From saṃyama on grasping, own-form, I-am-ness, inherence, and purposefulness comes mastery over the senses.",
+       "segment_number": 50331
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.48",
+      "label": "DCS 3.48"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tato manojavitvaṃ vikaraṇabhāvaḥ pradhānajayaś ca ||",
+       "translated_text": "From that come speed like the mind, the state of being without instruments, and mastery over primordial nature.",
+       "segment_number": 50332
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.49",
+      "label": "DCS 3.49"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sattvapuruṣānyatākhyātimātrasya sarvabhāvādhiṣṭhātṛtvaṃ sarvajñātṛtvaṃ ca ||",
+       "translated_text": "For one who has only the discernment of the difference between sattva and puruṣa, there is lordship over all states and omniscience.",
+       "segment_number": 50333
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.50",
+      "label": "DCS 3.50"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadvairāgyād api doṣabījakṣaye kaivalyam ||",
+       "translated_text": "Through dispassion even toward that, when the seed of defect is destroyed, there is kaivalya.",
+       "segment_number": 50334
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.51",
+      "label": "DCS 3.51"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sthānyupanimantraṇe saṅgasmayākaraṇaṃ punar aniṣṭaprasaṅgāt ||",
+       "translated_text": "When there is an invitation from beings in high places, one should not form attachment or pride, because undesirable consequences would arise again.",
+       "segment_number": 50335
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.52",
+      "label": "DCS 3.52"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṣaṇatatkramayoḥ saṃyamād vivekajaṃ jñānam ||",
+       "translated_text": "From <s>saṃyama</s> (integrated concentration) on moments and their sequence comes knowledge born of discrimination.",
+       "segment_number": 50336
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.53",
+      "label": "DCS 3.53"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "jātilakṣaṇadeśair anyatānavacchedāt tulyayos tataḥ pratipattiḥ ||",
+       "translated_text": "From that comes discernment of two things that are alike, because their difference is not delimited by class, characteristic, or place.",
+       "segment_number": 50337
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.54",
+      "label": "DCS 3.54"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tārakaṃ sarvaviṣayaṃ sarvathāviṣayam akramaṃ ceti vivekajaṃ jñānam ||",
+       "translated_text": "Knowledge born of discrimination is called tāraka, salvific: it has all things as its object, has them in every way as its object, and is non-sequential.",
+       "segment_number": 50338
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.55",
+      "label": "DCS 3.55"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sattvapuruṣayoḥ śuddhisāmye kaivalyam ||",
+       "translated_text": "When the purity of <s>sattva</s> and <s>puruṣa</s> is equal, there is <s>kaivalya</s> (isolation).",
+       "segment_number": 50339
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "4"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 4"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.1",
+      "label": "DCS 4.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "janmauṣadhimantratapaḥsamādhijāḥ siddhayaḥ ||",
+       "translated_text": "The powers arise from birth, herbs, mantra, austerity, or <s>samādhi</s>.",
+       "segment_number": 50340
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.2",
+      "label": "DCS 4.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "jātyantarapariṇāmaḥ prakṛtyāpūrāt ||",
+       "translated_text": "Transformation into another birth or kind comes from the filling-in by <s>prakṛti</s> (nature).",
+       "segment_number": 50341
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.3",
+      "label": "DCS 4.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nimittam aprayojakaṃ prakṛtīnāṃ varaṇabhedas tu tataḥ kṣetrikavat ||",
+       "translated_text": "The instrumental cause does not impel the <s>prakṛtis</s>; rather, it breaks the obstruction, like a farmer with a field.",
+       "segment_number": 50342
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.4",
+      "label": "DCS 4.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nirmāṇacittāny asmitāmātrāt ||",
+       "translated_text": "Created minds arise from mere I-am-ness.",
+       "segment_number": 50343
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.5",
+      "label": "DCS 4.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pravṛttibhede prayojakaṃ cittam ekam anekeṣām ||",
+       "translated_text": "Although their activities differ, one mind is the impeller of many.",
+       "segment_number": 50344
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.6",
+      "label": "DCS 4.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra dhyānajam anāśayam ||",
+       "translated_text": "Among these, the mind born of meditation is without a store of karma.",
+       "segment_number": 50345
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.7",
+      "label": "DCS 4.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "karmāśuklākṛṣṇaṃ yoginas trividham itareṣām ||",
+       "translated_text": "The karma of the yogin is neither white nor black; that of others is of three kinds.",
+       "segment_number": 50346
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.8",
+      "label": "DCS 4.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatas tadvipākānuguṇānām evābhivyaktir vāsanānām ||",
+       "translated_text": "From that, only the latent impressions corresponding to the ripening of that karma become manifest.",
+       "segment_number": 50347
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.9",
+      "label": "DCS 4.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "jātideśakālavyavahitānām apy ānantaryaṃ smṛtisaṃskārayor ekarūpatvāt ||",
+       "translated_text": "Even when separated by birth, place, and time, they have immediate continuity, because memory and saṃskāra have one form.",
+       "segment_number": 50348
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.10",
+      "label": "DCS 4.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tāsām anāditvaṃ cāśiṣo nityatvāt ||",
+       "translated_text": "And these latent impressions are beginningless, because the will-to-live is eternal.",
+       "segment_number": 50349
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.11",
+      "label": "DCS 4.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "hetuphalāśrayālambanaiḥ saṃgṛhītatvād eṣām abhāve tadabhāvaḥ ||",
+       "translated_text": "Because they are held together by cause, result, support, and object, when these are absent, they too are absent.",
+       "segment_number": 50350
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.12",
+      "label": "DCS 4.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atītānāgataṃ svarūpo 'sty adhvabhedād dharmāṇām ||",
+       "translated_text": "The past and the future exist in their own form, because the properties are distinguished by temporal path.",
+       "segment_number": 50351
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.13",
+      "label": "DCS 4.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "te vyaktasūkṣmā guṇātmānaḥ ||",
+       "translated_text": "They, whether manifest or subtle, have the guṇas as their nature.",
+       "segment_number": 50352
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.14",
+      "label": "DCS 4.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pariṇāmaikatvād vastutattvam ||",
+       "translated_text": "Because transformation is unified, the reality of an object is established.",
+       "segment_number": 50353
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.15",
+      "label": "DCS 4.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vastusāmye cittabhedāt tayor viviktaḥ panthāḥ ||",
+       "translated_text": "Although the object is the same, because minds differ, the paths of the two are distinct.",
+       "segment_number": 50354
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.16",
+      "label": "DCS 4.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "taduparāgāpekṣitvāccittasya vastu jñātājñātam ||",
+       "translated_text": "An object is known or unknown because it depends on the mind's being colored by it.",
+       "segment_number": 50355
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.17",
+      "label": "DCS 4.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sadā jñātāś cittavṛttayas tatprabhoḥ puruṣasyāpariṇāmitvāt ||",
+       "translated_text": "The fluctuations of the mind are always known, because their master, <s>puruṣa</s>, is unchanging.",
+       "segment_number": 50356
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.18",
+      "label": "DCS 4.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "na tatsvābhāsaṃ dṛśyatvāt ||",
+       "translated_text": "The mind is not self-illuminating, because it is something seen.",
+       "segment_number": 50357
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.19",
+      "label": "DCS 4.19"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ekasamaye cobhayānavadhāraṇam ||",
+       "translated_text": "And both cannot be ascertained at the same time.",
+       "segment_number": 50358
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.20",
+      "label": "DCS 4.20"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "cittāntaradṛśye buddhibuddher atiprasaṅgaḥ smṛtisaṃkaraś ca ||",
+       "translated_text": "If it were seen by another mind, there would be an infinite regress of cognition of cognition, and a confusion of memories.",
+       "segment_number": 50359
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.21",
+      "label": "DCS 4.21"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "citer apratisaṃkramāyās tadākārāpattau svabuddhisaṃvedanam ||",
+       "translated_text": "When consciousness, which does not pass over into another, assumes that form, there is awareness of one's own cognition.",
+       "segment_number": 50360
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.22",
+      "label": "DCS 4.22"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "draṣṭṛdṛśyoparaktaṃ cittaṃ sarvārtham ||",
+       "translated_text": "The mind, colored by both seer and seen, has all purposes as its scope.",
+       "segment_number": 50361
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.23",
+      "label": "DCS 4.23"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadasaṃkhyeyavāsanābhiś citram api parārthaṃ saṃhatyakāritvāt ||",
+       "translated_text": "Though variegated by countless latent impressions, it exists for another, because it acts as an aggregate.",
+       "segment_number": 50362
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.24",
+      "label": "DCS 4.24"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "viśeṣadarśina ātmabhāvabhāvanānivṛttiḥ ||",
+       "translated_text": "For one who sees the distinction, reflection on the state of selfhood ceases.",
+       "segment_number": 50363
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.25",
+      "label": "DCS 4.25"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadā vivekanimnaṃ kaivalyaprāgbhāraṃ cittam ||",
+       "translated_text": "Then the mind slopes toward discrimination and inclines toward <s>kaivalya</s>.",
+       "segment_number": 50364
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.26",
+      "label": "DCS 4.26"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tacchidreṣu pratyayāntarāṇi saṃskārebhyaḥ ||",
+       "translated_text": "In the gaps in that, other cognitions arise from saṃskāras.",
+       "segment_number": 50365
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.27",
+      "label": "DCS 4.27"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "hānam eṣāṃ kleśavad uktam ||",
+       "translated_text": "Their abandonment has been taught as being like that of the afflictions.",
+       "segment_number": 50366
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.28",
+      "label": "DCS 4.28"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prasaṃkhyāne 'py akusīdasya sarvathā vivekakhyāter dharmameghaḥ samādhiḥ ||",
+       "translated_text": "For one who is not complacent even about highest insight, because discriminative discernment is complete in every way, there is the <s>dharmamegha</s> samādhi.",
+       "segment_number": 50367
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.29",
+      "label": "DCS 4.29"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tataḥ kleśakarmanivṛttiḥ ||",
+       "translated_text": "From that comes the cessation of afflictions and karma.",
+       "segment_number": 50368
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.30",
+      "label": "DCS 4.30"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadā sarvāvaraṇamalāpetasya jñānasyānantyājjñeyam alpam ||",
+       "translated_text": "Then, because knowledge is infinite when all coverings and impurities have been removed, what remains to be known is little.",
+       "segment_number": 50369
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.31",
+      "label": "DCS 4.31"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tataḥ kṛtārthānāṃ pariṇāmakramasamāptir guṇānām ||",
+       "translated_text": "From that, for the guṇas whose purpose has been fulfilled, the sequence of transformations comes to an end.",
+       "segment_number": 50370
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.32",
+      "label": "DCS 4.32"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṣaṇapratiyogī pariṇāmāparāntanirgrāhyaḥ kramaḥ ||",
+       "translated_text": "Sequence is correlated with moments and is grasped at the far end of transformation.",
+       "segment_number": 50371
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.33",
+      "label": "DCS 4.33"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "puruṣārthaśūnyānāṃ guṇānāṃ pratiprasavaḥ kaivalyaṃ svarūpapratiṣṭhā vā citiśaktir iti ||",
+       "translated_text": "<s>Kaivalya</s> is the return-to-source of the guṇas, now empty of purpose for <s>puruṣa</s>; or it is the power of consciousness established in its own nature.",
+       "segment_number": 50372
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

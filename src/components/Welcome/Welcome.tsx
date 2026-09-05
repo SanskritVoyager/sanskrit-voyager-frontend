@@ -34,7 +34,7 @@ export function Welcome({ bookTitle, setBookTitle }: WelcomeProps) {
       </div>
 
       <Text className={classes.description}>
-        Choose a book to begin reading or use the dictionary lookup. Version 1.3 is here with a speed update. 
+        Choose a book to begin reading and exploring. Now added the Digital Corpus of Sanskrit with translations. 
       </Text>
 
       <div className={classes.bookPicker}>

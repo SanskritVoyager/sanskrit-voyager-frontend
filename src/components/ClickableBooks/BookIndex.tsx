@@ -8,6 +8,9 @@ interface ChapterInfo {
   order: number;
 }
 
+// Indexes longer than this scroll inside the panel instead of pushing the text down.
+const LONG_INDEX_THRESHOLD = 40;
+
 interface BookIndexProps {
   chapters: ChapterInfo[];
   onChapterClick: (elementId: string) => void;
@@ -23,7 +26,7 @@ const BookIndex: React.FC<BookIndexProps> = ({ chapters, onChapterClick }) => {
       shadow="xs" 
       p="md" 
       pb={'lg'}
-      className={classes.bookIndex}
+      className={`${classes.bookIndex} ${chapters.length > LONG_INDEX_THRESHOLD ? classes.bookIndexScrollable : ''}`}
     >
      <span className={classes.indexTitle}>Table of Contents</span> 
       <List type="ordered">

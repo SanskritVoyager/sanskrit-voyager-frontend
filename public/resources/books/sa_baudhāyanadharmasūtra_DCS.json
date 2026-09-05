@@ -1,0 +1,3444 @@
+{
+ "file_title": "baudhāyanadharmasūtra_DCS",
+ "file_title_normal": "baudhayanadharmasutra_DCS",
+ "metadata": {
+  "original_title": "Baudhāyanadharmasūtra",
+  "publisher": "Digital Corpus of Sanskrit (DCS)",
+  "license": {
+   "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+   "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "source": "Digital Corpus of Sanskrit (DCS), text ID 186. http://www.sanskrit-linguistics.org/dcs/ Segmentation follows the DCS line/pāda boundaries; chapter and verse labels are taken from the DCS references.",
+  "text_id": "186",
+  "collection": "DCS"
+ },
+ "body": [
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "1"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 1"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.1",
+      "label": "DCS 1.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "upadiṣṭo dharmaḥ prativedam ||",
+       "translated_text": "<s>Dharma</s> (normative order) has been taught in each Veda.",
+       "segment_number": 490545
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.2",
+      "label": "DCS 1.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasyānu vyākhyāsyāmaḥ ||",
+       "translated_text": "We shall explain it in accordance with that.",
+       "segment_number": 490546
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.3",
+      "label": "DCS 1.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "smārto dvitīyaḥ ||",
+       "translated_text": "The second source is what is remembered in tradition.",
+       "segment_number": 490547
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.4",
+      "label": "DCS 1.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tṛtīyaḥ śiṣṭāgamaḥ ||",
+       "translated_text": "The third is the transmitted practice of the learned.",
+       "segment_number": 490548
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.5",
+      "label": "DCS 1.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śiṣṭāḥ khalu vigatamatsarā nirahaṃkārāḥ kumbhīdhānyālolupā dambhadarpalobhamohakrodhavivarjitāḥ ||",
+       "translated_text": "The learned, indeed, are those who are free from envy, without egoism, satisfied with a potful of grain, not greedy, and devoid of hypocrisy, arrogance, avarice, delusion, and anger.",
+       "segment_number": 490549
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.6",
+      "label": "DCS 1.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dharmeṇādhigato yeṣāṃ vedaḥ saparibṛṃhaṇaḥ",
+       "translated_text": "Those by whom the Veda, together with its supplements, has been acquired in accordance with <s>dharma</s>,",
+       "segment_number": 490550
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śiṣṭās tadanumānajñāḥ śrutipratyakṣahetavaḥ",
+       "translated_text": "the learned know what is inferred from that; scripture, perception, and reason are their grounds.",
+       "segment_number": 490551
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "iti ||",
+       "translated_text": "Thus.",
+       "segment_number": 490552
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.7",
+      "label": "DCS 1.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadabhāve daśāvarā pariṣat ||",
+       "translated_text": "In their absence, there is a council of at least ten.",
+       "segment_number": 490553
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.8",
+      "label": "DCS 1.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpyudāharanti",
+       "translated_text": "And on this they also cite:",
+       "segment_number": 490554
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "cāturvaidyaṃ vikalpī ca aṅgavid dharmapāṭhakaḥ",
+       "translated_text": "One learned in the four Vedas, one who resolves alternatives, one who knows the ancillary sciences, and a reciter of <s>dharma</s>,",
+       "segment_number": 490555
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "āśramasthās trayo viprāḥ parṣad eṣā daśāvarā ||",
+       "translated_text": "together with three Brahmins established in the āśramas: this is a council of at least ten.",
+       "segment_number": 490556
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.9",
+      "label": "DCS 1.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pañca vā syus trayo vā syur eko vā syād aninditaḥ",
+       "translated_text": "There may be five, or three, or there may be one who is blameless;",
+       "segment_number": 490557
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prativaktā tu dharmasya netare tu sahasraśaḥ ||",
+       "translated_text": "he is a spokesman for <s>dharma</s>, but not others by the thousands.",
+       "segment_number": 490558
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.10",
+      "label": "DCS 1.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yathā dārumayo hastī yathā carmamayo mṛgaḥ",
+       "translated_text": "As an elephant made of wood, as a deer made of hide,",
+       "segment_number": 490559
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "brāhmaṇaś cānadhīyānas trayas te nāmadhārakāḥ ||",
+       "translated_text": "so is a Brahmin who does not study: those three merely bear the name.",
+       "segment_number": 490560
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.11",
+      "label": "DCS 1.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yad vadanti tamasmūḍhā mūrkhā dharmam ajānataḥ",
+       "translated_text": "The <s>dharma</s> that confused fools speak, not knowing <s>dharma</s>,",
+       "segment_number": 490561
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tat pāpaṃ śatadhā bhūtvā vaktṝn samadhigacchati ||",
+       "translated_text": "that sin, becoming a hundredfold, reaches the speakers.",
+       "segment_number": 490562
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.12",
+      "label": "DCS 1.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bahudvārasya dharmasya sūkṣmā duranugā gatiḥ",
+       "translated_text": "The course of <s>dharma</s>, which has many doors, is subtle and hard to follow;",
+       "segment_number": 490563
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmān na vācyo hy ekena bahujñenāpi saṃśaye ||",
+       "translated_text": "therefore, in a doubtful matter it should not be declared by one person, even if he knows much.",
+       "segment_number": 490564
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.13",
+      "label": "DCS 1.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dharmaśāstrarathārūḍhā vedakhaḍgadharā dvijāḥ",
+       "translated_text": "Brahmins mounted on the chariot of the <s>dharmaśāstra</s> and bearing the sword of the Veda:",
+       "segment_number": 490565
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "krīḍārtham api yad brūyuḥ sa dharmaḥ paramaḥ smṛtaḥ ||",
+       "translated_text": "whatever they might say, even in play, is remembered as the highest <s>dharma</s>.",
+       "segment_number": 490566
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.14",
+      "label": "DCS 1.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yathāśmani sthitaṃ toyaṃ mārutārkau praṇāśayet",
+       "translated_text": "As wind and sun destroy water standing on a stone,",
+       "segment_number": 490567
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadvat kartari yat pāpaṃ jalavat sampralīyate ||",
+       "translated_text": "so the sin that rests on the doer dissolves like water.",
+       "segment_number": 490568
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.15",
+      "label": "DCS 1.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śarīraṃ balam āyuś ca vayaḥ kālaṃ ca karma ca",
+       "translated_text": "Considering the body, strength, lifespan, age, time, and deed,",
+       "segment_number": 490569
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "samīkṣya dharmavid buddhyā prāyaścittāni nirdiśet ||",
+       "translated_text": "one who knows <s>dharma</s> should prescribe expiations with understanding.",
+       "segment_number": 490570
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.16",
+      "label": "DCS 1.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "avratānām amantrāṇāṃ jātimātropajīvinām",
+       "translated_text": "For those without vows and without mantras, who live merely on the basis of birth,",
+       "segment_number": 490571
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sahasraśaḥ sametānāṃ pariṣattvaṃ na vidyate",
+       "translated_text": "even if they have assembled by the thousands, there is no status of a council.",
+       "segment_number": 490572
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "iti ||",
+       "translated_text": "Thus.",
+       "segment_number": 490573
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "2"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 2"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.1",
+      "label": "DCS 2.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pañcadhā vipratipattir dakṣiṇatas tathottarataḥ ||",
+       "translated_text": "There is a fivefold disagreement between the southern and the northern regions.",
+       "segment_number": 490574
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.2",
+      "label": "DCS 2.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yāni dakṣiṇatas tāni vyākhyāsyāmaḥ ||",
+       "translated_text": "We shall explain those that are in the south.",
+       "segment_number": 490575
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.3",
+      "label": "DCS 2.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yathaitad anupetena saha bhojanaṃ striyā saha bhojanaṃ paryuṣitabhojanaṃ mātulapitṛsvasṛduhitṛgamanam iti ||",
+       "translated_text": "For example: eating together with one who has not been initiated, eating together with a woman, eating food kept overnight, and intercourse with the daughter of a maternal uncle or of a paternal aunt.",
+       "segment_number": 490576
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.4",
+      "label": "DCS 2.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athottarata ūrṇāvikrayaḥ sīdhupānam ubhayato dadbhir vyavahāra āyudhīyakaṃ samudrasaṃyānam iti ||",
+       "translated_text": "Now in the north: selling wool, drinking liquor, dealing with those who have teeth on both sides, the military profession, and sea voyage.",
+       "segment_number": 490577
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.5",
+      "label": "DCS 2.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "itarad itarasmin kurvan duṣyatītarad itarasmin ||",
+       "translated_text": "One is defiled by doing the other practice in the other region, and the other by doing the one in the other region.",
+       "segment_number": 490578
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.6",
+      "label": "DCS 2.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra tatra deśaprāmāṇyam eva syāt ||",
+       "translated_text": "In each case, the authority of the region itself should prevail.",
+       "segment_number": 490579
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.7",
+      "label": "DCS 2.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mithyaitad iti gautamaḥ ||",
+       "translated_text": "<s>Gautama</s> says, \"This is false.\"",
+       "segment_number": 490580
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.8",
+      "label": "DCS 2.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ubhayaṃ caiva",
+       "translated_text": "And both",
+       "segment_number": 490581
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nādriyeta śiṣṭasmṛtivirodhadarśanāt ||",
+       "translated_text": "should not be respected, since contradiction with the remembered practice of the learned is seen.",
+       "segment_number": 490582
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.9",
+      "label": "DCS 2.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prāg ādarśāt pratyak kanakhalād dakṣiṇenahimavantam udak pāriyātram etad āryāvartam",
+       "translated_text": "East of <s>Ādarśa</s>, west of <s>Kanakhala</s>, south of the Himalaya, and north of the <s>Pāriyātra</s>: this is <s>Āryāvarta</s>.",
+       "segment_number": 490583
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmin ya ācāraḥ sa pramāṇam ||",
+       "translated_text": "The conduct there is authoritative.",
+       "segment_number": 490584
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.10",
+      "label": "DCS 2.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "gaṅgāyamunayor antaram ity eke ||",
+       "translated_text": "Some say it is the region between the <s>Gaṅgā</s> and the <s>Yamunā</s>.",
+       "segment_number": 490585
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.11",
+      "label": "DCS 2.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpy atra bhāllavino gāthām udāharanti ||",
+       "translated_text": "And here the followers of <s>Bhāllavin</s> also cite a verse:",
+       "segment_number": 490586
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.12",
+      "label": "DCS 2.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "paścāt sindhur vidharaṇī sūryasyodayanaṃ puraḥ",
+       "translated_text": "The <s>Sindhu</s> is at the back, <s>Vidharaṇī</s> at the front, where the sun rises;",
+       "segment_number": 490587
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yāvat kṛṣṇā vidhāvanti tāvaddhi brahmavarcasam ||",
+       "translated_text": "as far as the black antelopes range, so far indeed extends Brahmanical splendor.",
+       "segment_number": 490588
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.13",
+      "label": "DCS 2.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "avantayo 'ṅgamagadhāḥ surāṣṭrā dakṣiṇāpathāḥ",
+       "translated_text": "The <s>Avantis</s>, <s>Aṅgas</s>, <s>Magadhas</s>, <s>Surāṣṭras</s>, and the peoples of the southern road,",
+       "segment_number": 490589
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "upāvṛtsindhusauvīrā ete saṃkīrṇayonayaḥ ||",
+       "translated_text": "the <s>Upāvṛts</s>, <s>Sindhus</s>, and <s>Sauvīras</s>: these are of mixed origin.",
+       "segment_number": 490590
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.14",
+      "label": "DCS 2.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "āraṭṭān kāraskarān puṇḍrān sauvīrān vaṅgān kaliṅgānprānūnān iti ca gatvā punastomena yajeta sarvapṛṣṭhayā vā ||",
+       "translated_text": "And having gone to the <s>Āraṭṭas</s>, <s>Kāraskaras</s>, <s>Puṇḍras</s>, <s>Sauvīras</s>, <s>Vaṅgas</s>, <s>Kaliṅgas</s>, and <s>Prānūnas</s>, one should then sacrifice with a punastoma, or with a sarvapṛṣṭhā rite.",
+       "segment_number": 490591
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.15",
+      "label": "DCS 2.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpy udāharanti",
+       "translated_text": "And they also cite:",
+       "segment_number": 490592
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "padbhyāṃ sa kurute pāpaṃ yaḥ kaliṅgān prapadyate",
+       "translated_text": "He who goes to the <s>Kaliṅgas</s> commits sin with his feet;",
+       "segment_number": 490593
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ṛṣayo niṣkṛtiṃ tasya prāhur vaiśvānaraṃ haviḥ ||",
+       "translated_text": "the seers have declared that the expiation for him is an offering to <s>Vaiśvānara</s>.",
+       "segment_number": 490594
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.16",
+      "label": "DCS 2.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bahūnām api doṣāṇāṃ kṛtānāṃ doṣanirṇaye",
+       "translated_text": "When determining the fault from many faults that have been committed,",
+       "segment_number": 490595
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pavitreṣṭiṃ praśaṃsanti sā hi pāvanamuttamam ||",
+       "translated_text": "they commend the purifying sacrifice, for that is the highest purifier.",
+       "segment_number": 490596
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.17",
+      "label": "DCS 2.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpy udāharanti",
+       "translated_text": "And they also cite:",
+       "segment_number": 490597
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vaiśvānarīṃ vrātapatīṃ pavitreṣṭiṃ tathaiva ca",
+       "translated_text": "The <s>Vaiśvānarī</s>, the <s>Vrātapatī</s>, and likewise the purifying sacrifice:",
+       "segment_number": 490598
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ṛtāvṛtau prayuñjānaḥ pāpebhyo vipramucyate",
+       "translated_text": "performing them season after season, one is released from sins.",
+       "segment_number": 490599
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pāpebhyo vipramucyata iti ||",
+       "translated_text": "One is released from sins. Thus.",
+       "segment_number": 490600
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "3"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 3"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.1",
+      "label": "DCS 3.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aṣṭācatvāriṃśad varṣāṇi paurāṇaṃ vedabrahmacaryam ||",
+       "translated_text": "Forty-eight years is the ancient course of Vedic studentship.",
+       "segment_number": 490601
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.2",
+      "label": "DCS 3.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "caturviṃśatiṃ dvādaśa vā prativedam ||",
+       "translated_text": "Or twenty-four or twelve years for each Veda.",
+       "segment_number": 490602
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.3",
+      "label": "DCS 3.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "saṃvatsarāvamaṃ vā pratikāṇḍam ||",
+       "translated_text": "Or at least one year for each section.",
+       "segment_number": 490603
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.4",
+      "label": "DCS 3.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "grahaṇāntaṃ vā jīvitasyāsthiratvāt ||",
+       "translated_text": "Or until it has been mastered, because life is unstable.",
+       "segment_number": 490604
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.5",
+      "label": "DCS 3.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṛṣṇakeśo 'gnīn ādadhīteti śrutiḥ ||",
+       "translated_text": "The revelation says, \"One should establish the sacred fires while one's hair is black.\"",
+       "segment_number": 490605
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.6",
+      "label": "DCS 3.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nāsya karma niyacchanti kiṃcid ā mauñjibandhanāt",
+       "translated_text": "No rites at all are prescribed for him up to the tying of the girdle;",
+       "segment_number": 490606
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vṛttyā śūdrasamo hy eṣa yāvad vedena jāyate iti ||",
+       "translated_text": "for by way of livelihood he is equal to a Śūdra until he is born through the Veda. Thus.",
+       "segment_number": 490607
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.7",
+      "label": "DCS 3.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "garbhādiḥ saṃkhyā varṣāṇām",
+       "translated_text": "The counting of years begins from conception.",
+       "segment_number": 490608
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadaṣṭameṣu brāhmaṇamupanayīta ||",
+       "translated_text": "In the eighth year from that, one should initiate a Brahmin.",
+       "segment_number": 490609
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.8",
+      "label": "DCS 3.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tryadhikeṣu rājanyam ||",
+       "translated_text": "A Kṣatriya in the years three beyond that.",
+       "segment_number": 490610
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.9",
+      "label": "DCS 3.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmād ekādhikeṣu vaiśyam ||",
+       "translated_text": "A Vaiśya in the years one beyond that.",
+       "segment_number": 490611
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.10",
+      "label": "DCS 3.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vasanto grīṣmaḥ śarad ity ṛtavo varṇānupūrvyeṇa ||",
+       "translated_text": "Spring, summer, and autumn are the seasons, in the order of the varṇas.",
+       "segment_number": 490612
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.11",
+      "label": "DCS 3.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "gāyatrītriṣṭubjagatībhir yathākramam ||",
+       "translated_text": "With the <s>Gāyatrī</s>, <s>Triṣṭubh</s>, and <s>Jagatī</s> metres respectively.",
+       "segment_number": 490613
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.12",
+      "label": "DCS 3.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ā ṣoḍaśād ā dvāviṃśād ā caturviṃśād anātyaya eṣāṃ krameṇa ||",
+       "translated_text": "Up to the sixteenth, up to the twenty-second, and up to the twenty-fourth year respectively, there is no lapse for them.",
+       "segment_number": 490614
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.13",
+      "label": "DCS 3.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mauñjī dhanurjyā śāṇīti mekhalāḥ ||",
+       "translated_text": "The girdles are of muñja grass, bowstring, and hemp.",
+       "segment_number": 490615
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.14",
+      "label": "DCS 3.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṛṣṇarurubastājināny ajināni ||",
+       "translated_text": "The skins are those of the black antelope, the ruru deer, and the goat.",
+       "segment_number": 490616
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.15",
+      "label": "DCS 3.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mūrdhalalāṭanāsāgrapramāṇā yājñikasya vṛkṣasya daṇḍāḥ ||",
+       "translated_text": "The staffs, made from a sacrificial tree, should measure up to the crown of the head, the forehead, and the tip of the nose.",
+       "segment_number": 490617
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.16",
+      "label": "DCS 3.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhavatpūrvāṃ bhikṣāmadhyāṃ yācñāntāṃ bhikṣāṃ caretsaptākṣarāṃ kṣāṃ ca hiṃ ca na vardhayet ||",
+       "translated_text": "He should go for alms with a seven-syllable request, beginning with \"bhavat,\" having \"bhikṣā\" in the middle and ending with a request; he should not lengthen the syllables kṣā and hiṃ.",
+       "segment_number": 490618
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.17",
+      "label": "DCS 3.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhavatpūrvāṃ brāhmaṇo bhikṣeta bhavanmadhyāṃ rājanyo bhavadantāṃ vaiśyaḥ sarveṣu varṇeṣu ||",
+       "translated_text": "A Brahmin should beg with \"bhavat\" at the beginning, a Kṣatriya with \"bhavat\" in the middle, and a Vaiśya with \"bhavat\" at the end, among all the varṇas.",
+       "segment_number": 490619
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.18",
+      "label": "DCS 3.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "te brāhmaṇādyāḥ svakarmasthāḥ ||",
+       "translated_text": "They, beginning with the Brahmin, are to remain in their own duties.",
+       "segment_number": 490620
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.19",
+      "label": "DCS 3.19"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sadāraṇyāt samidha āhṛtyādadhyāt ||",
+       "translated_text": "Having brought fuel from the forest each day, he should place it on the fire.",
+       "segment_number": 490621
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.20",
+      "label": "DCS 3.20"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "satyavādī hrīmān anahaṃkāraḥ ||",
+       "translated_text": "He should be truthful, modest, and free from egoism.",
+       "segment_number": 490622
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.21",
+      "label": "DCS 3.21"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pūrvotthāyī jaghanyasaṃveśī ||",
+       "translated_text": "He should rise before others and lie down after them.",
+       "segment_number": 490623
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.22",
+      "label": "DCS 3.22"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sarvatrāpratihataguruvākyo 'nyatra pātakāt ||",
+       "translated_text": "Everywhere the teacher's word is not to be resisted, except in the case of a mortal sin.",
+       "segment_number": 490624
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.23",
+      "label": "DCS 3.23"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yāvadarthasaṃbhāṣī strībhiḥ ||",
+       "translated_text": "He should converse with women only as much as necessary.",
+       "segment_number": 490625
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.24",
+      "label": "DCS 3.24"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nṛttagītavāditragandhamālyopānacchattradhāraṇāñjanābhyañjanavarjī ||",
+       "translated_text": "He should avoid dancing, singing, instrumental music, perfumes, garlands, wearing shoes and a parasol, collyrium, and anointing the body.",
+       "segment_number": 490626
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.25",
+      "label": "DCS 3.25"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dakṣiṇaṃ dakṣiṇena savyaṃ savyena copasaṃgṛhṇīyāt ||",
+       "translated_text": "He should clasp the right with the right hand, and the left with the left.",
+       "segment_number": 490627
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.26",
+      "label": "DCS 3.26"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dīrgham āyuḥ svargaṃ cepsan kāmam anyasmai sādhuvṛttāya guruṇānujñātaḥ ||",
+       "translated_text": "If he desires long life and heaven, he may, with his teacher's permission, do so also for another person of good conduct, as he wishes.",
+       "segment_number": 490628
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.27",
+      "label": "DCS 3.27"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "asāv ahaṃ bho iti śrotre saṃspṛśya manaḥsamādhānārtham ||",
+       "translated_text": "Saying, \"I am so-and-so, sir,\" he should touch the ears, for the sake of concentrating the mind.",
+       "segment_number": 490629
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.28",
+      "label": "DCS 3.28"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "adhastāj jānvor ā padbhyām ||",
+       "translated_text": "From below the knees down to the feet.",
+       "segment_number": 490630
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.29",
+      "label": "DCS 3.29"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nāsīno nāsīnāya na śayāno na śayānāya nāprayato nāprayatāya ||",
+       "translated_text": "He should not greet while seated one who is seated, nor while lying down one who is lying down, nor while impure one who is impure.",
+       "segment_number": 490631
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.30",
+      "label": "DCS 3.30"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śaktiviṣaye muhūrtam api nāprayataḥ syāt ||",
+       "translated_text": "So far as he is able, he should not remain impure even for a moment.",
+       "segment_number": 490632
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.31",
+      "label": "DCS 3.31"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "samiddhāryudakumbhapuṣpānnahasto nābhivādayed yaccānyad apy evaṃyuktam ||",
+       "translated_text": "He should not greet anyone while holding fuel, a water-pot, flowers, or food in his hand, nor anything else similarly encumbering.",
+       "segment_number": 490633
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.32",
+      "label": "DCS 3.32"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "na samavāye 'bhivādayed atyantaśaḥ ||",
+       "translated_text": "He should not greet in an assembly, in an excessive way.",
+       "segment_number": 490634
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.33",
+      "label": "DCS 3.33"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhrātṛpatnīnāṃ yuvatīnāṃ ca gurupatnīnāṃ jātavīryaḥ ||",
+       "translated_text": "When his virility has arisen, this applies to the wives of brothers and to young wives of teachers.",
+       "segment_number": 490635
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.34",
+      "label": "DCS 3.34"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nauśilāphalakakuñjaraprāsādakaṭeṣu cakravatsu cādoṣaṃ sahāsanam ||",
+       "translated_text": "There is no fault in sitting together on boats, rocks, planks, elephants, palace roofs, mats, and wheeled vehicles.",
+       "segment_number": 490636
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.35",
+      "label": "DCS 3.35"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prasādhanotsādanasnāpanocchiṣṭabhojanānīti guroḥ ||",
+       "translated_text": "Arranging the toilet, rubbing the body, bathing, and eating leftovers are services for the teacher.",
+       "segment_number": 490637
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.36",
+      "label": "DCS 3.36"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ucchiṣṭavarjanaṃ tatputre 'nūcāne vā ||",
+       "translated_text": "But eating leftovers is to be avoided in the case of the teacher's son or of one learned in the Veda.",
+       "segment_number": 490638
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.37",
+      "label": "DCS 3.37"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prasādhanotsādanasnāpanavarjanaṃ ca tatpatnyām ||",
+       "translated_text": "And arranging the toilet, rubbing the body, and bathing are to be avoided in the case of the teacher's wife.",
+       "segment_number": 490639
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.38",
+      "label": "DCS 3.38"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dhāvantam anudhāved gacchantam anugacchet tiṣṭhantamanutiṣṭhet ||",
+       "translated_text": "If he runs, one should run after him; if he walks, one should follow him; if he stands, one should stand after him.",
+       "segment_number": 490640
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.39",
+      "label": "DCS 3.39"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nāpsu ślāghamānaḥ snāyāt ||",
+       "translated_text": "He should not bathe in water while boasting of himself.",
+       "segment_number": 490641
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.40",
+      "label": "DCS 3.40"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "daṇḍa iva plavet ||",
+       "translated_text": "He should float like a staff.",
+       "segment_number": 490642
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.41",
+      "label": "DCS 3.41"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "abrāhmaṇād adhyayanam āpadi ||",
+       "translated_text": "In distress, study may be from a non-Brahmin.",
+       "segment_number": 490643
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.42",
+      "label": "DCS 3.42"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śuśrūṣānuvrajyā ca yāvadadhyayanam ||",
+       "translated_text": "And service and following him continue as long as the study lasts.",
+       "segment_number": 490644
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.43",
+      "label": "DCS 3.43"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tayos tad eva pāvanam ||",
+       "translated_text": "For those two, that very thing is the purification.",
+       "segment_number": 490645
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.44",
+      "label": "DCS 3.44"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhrātṛputraśiṣyeṣu caivam ||",
+       "translated_text": "The same applies also with brothers, sons, and pupils.",
+       "segment_number": 490646
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.45",
+      "label": "DCS 3.45"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ṛtvijśvaśurapitṛvyamātulānāṃ tu yavīyasāṃ pratyutthāyābhibhāṣaṇam ||",
+       "translated_text": "But in the case of priests, fathers-in-law, paternal uncles, and maternal uncles who are younger, one should rise and address them.",
+       "segment_number": 490647
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.46",
+      "label": "DCS 3.46"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pratyabhivāda iti kātyaḥ ||",
+       "translated_text": "<s>Kātya</s> says that there should be a return greeting.",
+       "segment_number": 490648
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_3.47",
+      "label": "DCS 3.47"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śiśāv āṅgirase darśanāt ||",
+       "translated_text": "Because this is seen in the case of the child <s>Āṅgirasa</s>.",
+       "segment_number": 490649
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "4"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 4"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.1",
+      "label": "DCS 4.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dharmārthau yatra na syātāṃ śuśrūṣā vāpi tadvidhā",
+       "translated_text": "Where <s>dharma</s> (normative duty) and material benefit are not present, nor service of that kind,",
+       "segment_number": 490650
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vidyayā saha martavyaṃ na cainām ūṣare vapet ||",
+       "translated_text": "one should die together with knowledge, and should not sow it in barren soil.",
+       "segment_number": 490651
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.2",
+      "label": "DCS 4.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "agnir iva kakṣaṃ dahati brahma pṛṣṭam anādṛtam",
+       "translated_text": "Like fire burning a thicket, sacred knowledge that has been asked for but not honored burns,",
+       "segment_number": 490652
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmād vai śakyaṃ na brūyād brahma mānam akurvatām iti ||",
+       "translated_text": "therefore one should certainly not tell sacred knowledge to those who do not show it honor. Thus.",
+       "segment_number": 490653
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.3",
+      "label": "DCS 4.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "evāsmai vaco vedayante ||",
+       "translated_text": "In this way they make known the teaching to him.",
+       "segment_number": 490654
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.4",
+      "label": "DCS 4.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "brahma vai mṛtyave prajāḥ prāyacchat tasmai brahmacāriṇameva na prāyacchat so 'bravīd astu mahyam apy etasmin bhāga iti yām eva rātriṃ samidhaṃ nāharātaīti ||",
+       "translated_text": "Sacred knowledge handed over creatures to Death; it did not hand over the brahmacārin to him. Death said, \"Let there be a share for me also in this one,\" namely, any night on which he does not bring fuel.",
+       "segment_number": 490655
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.5",
+      "label": "DCS 4.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmād brahmacārī yāṃ rātriṃ samidhaṃ nāharaty āyuṣa eva tām avadāya vasati tasmād brahmacārī samidham āharen ned āyuṣo 'vadāya vasānīti ||",
+       "translated_text": "Therefore, on any night on which a brahmacārin does not bring fuel, he dwells having cut off that much from his life. Therefore a brahmacārin should bring fuel, thinking, \"May I not dwell after cutting off from my life.\"",
+       "segment_number": 490656
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.6",
+      "label": "DCS 4.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dīrghasattraṃ vā eṣa upaiti yo brahmacaryam upaiti sa yāmupayan samidham ādadhāti sā prāyaṇīyātha yāṃ snāsyansodayanīyātha yā antareṇa sattryā evāsya tāḥ ||",
+       "translated_text": "He who enters brahmacarya enters a long sattra-sacrifice: the fuel he puts on when being initiated is the opening rite; the one he puts on when about to bathe at the end is the concluding rite; those in between are his sattra rites.",
+       "segment_number": 490657
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.7",
+      "label": "DCS 4.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "brāhmaṇo vai brahmacaryam upayan caturdhā bhūtāni praviśaty agniṃ padā mṛtyuṃ padācāryaṃ padātmany evāsya caturthaḥ pādaḥ pariśiṣyate",
+       "translated_text": "A Brahmin entering brahmacarya enters beings in four parts: one part into fire, one part into Death, one part into the teacher, and the fourth part remains in himself.",
+       "segment_number": 490658
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sa yad agnau samidham ādadhāti ya evāsyāgnau pādas tameva tena parikrīṇāti taṃ saṃskṛtyātman dhatte sa enam āviśati",
+       "translated_text": "When he puts fuel on the fire, the part of him that is in the fire he thereby buys back; having consecrated it, he places it in himself, and it enters him.",
+       "segment_number": 490659
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha yad ātmānaṃ daridrīkrityāhrīr bhūtvā bhikṣate brahmacaryaṃ carati ya evāsya mṛtyau pādas tam eva tena parikrīṇāti taṃ saṃskṛtyātman dhatte sa enam āviśati",
+       "translated_text": "When, having made himself poor and become free from shame, he begs and practices brahmacarya, the part of him that is in Death he thereby buys back; having consecrated it, he places it in himself, and it enters him.",
+       "segment_number": 490660
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha yad ācāryavacaḥ karoti ya evāsyācārye pādas tameva tena parikrīṇāti taṃ saṃskṛtyātman dhatte sa enam āviśati",
+       "translated_text": "When he carries out the teacher's word, the part of him that is in the teacher he thereby buys back; having consecrated it, he places it in himself, and it enters him.",
+       "segment_number": 490661
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha yat svādhyāyam adhīte ya evāsyātmani pādas tameva tena parikrīṇāti taṃ saṃskṛtyātman dhatte sa enam āviśati",
+       "translated_text": "When he studies his own Vedic recitation, the part of him that is in himself he thereby buys back; having consecrated it, he places it in himself, and it enters him.",
+       "segment_number": 490662
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "na ha vai snātvā bhikṣeta api ha vai snātvā bhikṣāṃ caraty api jñātīnām aśanāyāpi pitṝṇām anyābhyaḥ kriyābhyaḥ",
+       "translated_text": "After the final bath he should certainly not beg; yet after the final bath he may go for alms even from relatives, if hungry, and even for the ancestors and for other rites.",
+       "segment_number": 490663
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sa yad anyāṃ bhikṣitavyāṃ na vindetāpi svāmevācāryajāyāṃ bhikṣetātho svāṃ mātaram",
+       "translated_text": "If he finds no other person from whom alms may be begged, he may even beg from his own teacher's wife, or else from his own mother.",
+       "segment_number": 490664
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nainaṃ saptamy abhikṣitātīyāt ||",
+       "translated_text": "He should not let a seventh house pass by without begging.",
+       "segment_number": 490665
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.8",
+      "label": "DCS 4.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhaikṣasyācaraṇe doṣaḥ pāvakasyāsamindhane",
+       "translated_text": "There is fault in failing to go for alms and in failing to kindle the purifier,",
+       "segment_number": 490666
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "saptarātram akṛtvaitad avakīrṇivrataṃ caret ||",
+       "translated_text": "and if he has not done this for seven nights, he should perform the vow for one who has broken chastity.",
+       "segment_number": 490667
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.9",
+      "label": "DCS 4.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tam evaṃ vidvāṃsam evaṃ carantaṃ sarve vedā āviśanti ||",
+       "translated_text": "All the Vedas enter a man who knows this and practices in this way.",
+       "segment_number": 490668
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_4.10",
+      "label": "DCS 4.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yathā ha vā agniḥ samiddho rocata evaṃ ha vā eṣa snātvā rocate ya evaṃ vidvān brahmacaryaṃ caratīti brāhmaṇam iti brāhmaṇam ||",
+       "translated_text": "Just as a kindled fire shines, so he, after the final bath, shines when he knows thus and practices brahmacarya. So says the Brāhmaṇa, so says the Brāhmaṇa.",
+       "segment_number": 490669
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "5"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 5"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.1",
+      "label": "DCS 5.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha snātakasya ||",
+       "translated_text": "Now, regarding the snātaka.",
+       "segment_number": 490670
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.2",
+      "label": "DCS 5.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "antarvāsa uttarīyam ||",
+       "translated_text": "An undergarment and an upper garment.",
+       "segment_number": 490671
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.3",
+      "label": "DCS 5.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vaiṇavaṃ daṇḍaṃ dhārayet ||",
+       "translated_text": "He should carry a staff of bamboo.",
+       "segment_number": 490672
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.4",
+      "label": "DCS 5.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sodakaṃ ca kamaṇḍalum ||",
+       "translated_text": "And a water-pot filled with water.",
+       "segment_number": 490673
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.5",
+      "label": "DCS 5.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dviyajñopavītī ||",
+       "translated_text": "He should wear two sacred threads.",
+       "segment_number": 490674
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.6",
+      "label": "DCS 5.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "uṣṇīṣam ajinam uttarīyam upānahau chattraṃ copāsanaṃ darśapūrṇamāsau ||",
+       "translated_text": "A turban, an antelope skin, an upper garment, shoes, a parasol, attendance, and the new-moon and full-moon sacrifices.",
+       "segment_number": 490675
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.7",
+      "label": "DCS 5.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "parvasu ca keśaśmaśrulomanakhavāpanam ||",
+       "translated_text": "And on the parvan days, shaving the hair, beard, body hair, and nails.",
+       "segment_number": 490676
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.8",
+      "label": "DCS 5.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasya vṛttiḥ ||",
+       "translated_text": "His livelihood is as follows.",
+       "segment_number": 490677
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.9",
+      "label": "DCS 5.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "brāhmaṇarājanyavaiśyarathakāreṣv āmaṃ lipseta ||",
+       "translated_text": "He may seek uncooked food among Brahmins, Kṣatriyas, Vaiśyas, and Rathakāras.",
+       "segment_number": 490678
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.10",
+      "label": "DCS 5.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhaikṣaṃ vā ||",
+       "translated_text": "Or alms.",
+       "segment_number": 490679
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.11",
+      "label": "DCS 5.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vāgyatas tiṣṭhet ||",
+       "translated_text": "He should remain restraining his speech.",
+       "segment_number": 490680
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.12",
+      "label": "DCS 5.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sarvāṇi cāsya devapitṛsaṃyuktāni pākayajñasaṃsthāni bhūtikarmāni kurvīteti ||",
+       "translated_text": "And he should perform all his prosperity rites connected with the gods and ancestors, consisting of domestic cooked offerings. Thus.",
+       "segment_number": 490681
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_5.13",
+      "label": "DCS 5.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "etena vidhinā prajāpateḥ parameṣṭhinaḥ paramaṛṣayaḥ paramāṃ kāṣṭhāṃ gacchantīti baudhāyanaḥ ||",
+       "translated_text": "By this rule, says <s>Baudhāyana</s>, the supreme seers of <s>Prajāpati Parameṣṭhin</s> reach the highest goal.",
+       "segment_number": 490682
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "6"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 6"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.1",
+      "label": "DCS 6.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha kamaṇḍalucaryām upadiśanti ||",
+       "translated_text": "Now they teach the conduct concerning the water-pot.",
+       "segment_number": 490683
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.2",
+      "label": "DCS 6.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "chāgasya dakṣiṇe karṇe pāṇau viprasya dakṣiṇe",
+       "translated_text": "Fire is recited as being in the right ear of a goat, in the right hand of a Brahmin,",
+       "segment_number": 490684
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "apsu caiva kuśastambe pāvakaḥ paripaṭhyate ||",
+       "translated_text": "in waters, and also in a clump of kuśa grass.",
+       "segment_number": 490685
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.3",
+      "label": "DCS 6.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmācchaucaṃ kṛtvā pāṇinā parimṛjīta paryagnikaraṇaṃ hi tat uddīpyasva jātaveda iti punardāhād viśiṣyate ||",
+       "translated_text": "Therefore, after performing purification, one should wipe with the hand; for that is the act of passing around with fire, and it is superior to burning again with the formula, \"Blaze up, <s>Jātavedas</s>.\"",
+       "segment_number": 490686
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.4",
+      "label": "DCS 6.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatrāpi kiṃcit saṃspṛṣṭaṃ manasi manyeta kuśairvā tṛṇair vā prajvālya pradakṣiṇaṃ paridahanam ||",
+       "translated_text": "Even there, if one should think in his mind that something has been touched, he should kindle kuśa grasses or ordinary grasses and burn around it clockwise.",
+       "segment_number": 490687
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.5",
+      "label": "DCS 6.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ata ūrdhvaṃ śvavāyasaprabhṛtyupahatānām agnivarṇa ityupadiśanti ||",
+       "translated_text": "After this, for things damaged by dogs, crows, and the like, they prescribe the formula beginning \"fire-colored.\"",
+       "segment_number": 490688
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.6",
+      "label": "DCS 6.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mūtrapurīṣalohitaretaḥprabhṛtyupahatānām utsargaḥ ||",
+       "translated_text": "For things damaged by urine, feces, blood, semen, and the like, there is abandonment.",
+       "segment_number": 490689
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.7",
+      "label": "DCS 6.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhagne kamaṇḍalau vyāhṛtibhiḥ śataṃ juhuyāj japed vā ||",
+       "translated_text": "When a kamaṇḍalu (water-pot) is broken, he should offer a hundred oblations with the vyāhṛtis, or recite them.",
+       "segment_number": 490690
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.8",
+      "label": "DCS 6.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhūmir bhūmim agān mātā mātaram apy agāt bhūyāsma putraiḥ paśubhir yo no dveṣṭi sa bhidyatām iti ||",
+       "translated_text": "\"Earth has gone to earth; mother too has gone to mother. May we become abundant in sons and cattle; may he who hates us be split apart.\" Thus.",
+       "segment_number": 490691
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.9",
+      "label": "DCS 6.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kapālāni saṃhṛtyāpsu prakṣipya sāvitrīṃ daśāvarāṃ kṛtvā punar evānyaṃ gṛhṇīyāt ||",
+       "translated_text": "Having gathered the fragments and thrown them into the waters, having recited the <s>Sāvitrī</s> ten times at least, he should then take another one again.",
+       "segment_number": 490692
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.10",
+      "label": "DCS 6.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "varuṇam āśritya etat te varuṇa punar eva mām om iti akṣaraṃ dhyāyet ||",
+       "translated_text": "Resorting to <s>Varuṇa</s>, he should meditate on the syllable om in the words, \"This is yours, <s>Varuṇa</s>; again, indeed, me. Om.\"",
+       "segment_number": 490693
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.11",
+      "label": "DCS 6.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śūdrād gṛhya śataṃ kuryād vaiśyād ardhaśataṃ smṛtam",
+       "translated_text": "Having received it from a Śūdra, he should perform one hundred; from a Vaiśya, fifty are remembered;",
+       "segment_number": 490694
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṣatriyāt pañcaviṃśat tu brāhmaṇād daśa kīrtitāḥ ||",
+       "translated_text": "from a Kṣatriya, twenty-five, but from a Brahmin, ten are stated.",
+       "segment_number": 490695
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.12",
+      "label": "DCS 6.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "astamita āditya udakaṃ gṛhṇīyān na gṛhṇīyād iti mīmāṃsante brahmavādinaḥ ||",
+       "translated_text": "When the sun has set, the theologians debate whether one should take water or should not take it.",
+       "segment_number": 490696
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.13",
+      "label": "DCS 6.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "gṛhṇīyād ity etad aparam ||",
+       "translated_text": "\"One should take it\": this is the latter view.",
+       "segment_number": 490697
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.14",
+      "label": "DCS 6.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yāvad udakaṃ gṛhṇīyāt tāvat prāṇam āyacchet ||",
+       "translated_text": "For as long as he takes water, for that long he should restrain his breath.",
+       "segment_number": 490698
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.15",
+      "label": "DCS 6.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "agnir ha vai hy udakaṃ gṛhṇāti ||",
+       "translated_text": "For fire indeed takes up the water.",
+       "segment_number": 490699
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.16",
+      "label": "DCS 6.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kamaṇḍalūdakenābhiṣiktapāṇipādo yāvad ārdraṃ tāvadaśuciḥ pareṣām ātmānam eva pūtam karoti nānyat karma kurvīteti vijñāyate ||",
+       "translated_text": "One whose hands and feet have been sprinkled with water from a kamaṇḍalu is impure for others as long as they are wet; he makes only himself pure, and should perform no other rite. So it is understood.",
+       "segment_number": 490700
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.17",
+      "label": "DCS 6.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "api vā pratiśaucam ā maṇibandhācchucir iti baudhāyanaḥ ||",
+       "translated_text": "Or else, according to <s>Baudhāyana</s>, at each purification he is pure as far as the wrist.",
+       "segment_number": 490701
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_6.18",
+      "label": "DCS 6.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpy udāharanti ||",
+       "translated_text": "Now they also cite an example:",
+       "segment_number": 490702
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "7"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 7"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.1",
+      "label": "DCS 7.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kamaṇḍalur dvijātīnāṃ śaucārthaṃ vihitaḥ purā",
+       "translated_text": "The kamaṇḍalu was ordained of old for the purification of twice-born men,",
+       "segment_number": 490703
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "brahmaṇā munimukhyaiś ca tasmāt taṃ dhārayet sadā ||",
+       "translated_text": "by <s>Brahmā</s> and by the foremost sages; therefore one should always carry it.",
+       "segment_number": 490704
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.2",
+      "label": "DCS 7.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tataḥ śaucaṃ tataḥ pānaṃ saṃdhyopāsanam eva ca",
+       "translated_text": "Then purification, then drinking, and the twilight worship as well",
+       "segment_number": 490705
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nirviśaṅkena kartavyaṃ yadīcchecchreya ātmanaḥ ||",
+       "translated_text": "should be performed without hesitation, if one desires one's own welfare.",
+       "segment_number": 490706
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.3",
+      "label": "DCS 7.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kuryācchuddhena manasā na cittaṃ dūṣayed budhaḥ sahakamaṇḍalunotpannaḥ svayaṃbhūs tasmāt kamaṇḍalunā caret ||",
+       "translated_text": "A wise man should act with a pure mind and should not defile his thought. <s>Svayaṃbhū</s> was born together with a kamaṇḍalu; therefore one should go about with a kamaṇḍalu.",
+       "segment_number": 490707
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.4",
+      "label": "DCS 7.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mūtrapurīṣe kurvan dakṣiṇe haste gṛhṇāti savya ācamanīyam etat sidhyati sādhūnām ||",
+       "translated_text": "When passing urine and feces, he takes it in the right hand; the water for sipping is in the left. This succeeds for good men.",
+       "segment_number": 490708
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.5",
+      "label": "DCS 7.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yathā hi somasaṃyogāc camaso medhya ucyate",
+       "translated_text": "For just as a cup is called fit for sacrifice because of contact with soma,",
+       "segment_number": 490709
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "apāṃ tathaiva saṃyogān nityo medhyaḥ kamaṇḍaluḥ ||",
+       "translated_text": "so too the kamaṇḍalu is always fit for sacrifice because of contact with waters.",
+       "segment_number": 490710
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.6",
+      "label": "DCS 7.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pitṛdevāgnikāryeṣu tasmāt taṃ parivarjayet ||",
+       "translated_text": "Therefore one should avoid it in rites for ancestors, gods, and fire.",
+       "segment_number": 490711
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.7",
+      "label": "DCS 7.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasmād vinā kamaṇḍalunā nādhvānaṃ vrajen na sīmantaṃ nagṛhād gṛham ||",
+       "translated_text": "Therefore, without a kamaṇḍalu one should not go on a road, nor to a boundary, nor from house to house.",
+       "segment_number": 490712
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.8",
+      "label": "DCS 7.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "padam api na gacched iṣumātrād ity eke ||",
+       "translated_text": "Some say that he should not go even a step, not even the length of an arrow.",
+       "segment_number": 490713
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.9",
+      "label": "DCS 7.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yad icched dharmasaṃtatim iti baudhāyanaḥ ||",
+       "translated_text": "\"If he desires the continuance of <s>dharma</s> (normative order),\" says <s>Baudhāyana</s>.",
+       "segment_number": 490714
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_7.10",
+      "label": "DCS 7.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ṛgvidheneti vāg vadati ṛgvidheneti vāg vadati ||",
+       "translated_text": "Speech says, \"By the Ṛgvidhāna, by the Ṛgvidhāna.\"",
+       "segment_number": 490715
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "8"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 8"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.1",
+      "label": "DCS 8.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athātaḥ śaucādhiṣṭhānam ||",
+       "translated_text": "Now, therefore, the basis of purity.",
+       "segment_number": 490716
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.2",
+      "label": "DCS 8.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "adbhiḥ śudhyanti gātrāṇi buddhir jñānena śudhyati",
+       "translated_text": "The limbs are purified by waters; the intellect is purified by knowledge;",
+       "segment_number": 490717
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ahiṃsayā ca bhūtātmā manaḥ satyena śudhyati",
+       "translated_text": "the embodied self is purified by non-injury, and the mind is purified by truthfulness.",
+       "segment_number": 490718
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "iti ||",
+       "translated_text": "Thus.",
+       "segment_number": 490719
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.3",
+      "label": "DCS 8.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "manaḥśuddhir antaḥśaucam ||",
+       "translated_text": "Purity of mind is internal purity.",
+       "segment_number": 490720
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.4",
+      "label": "DCS 8.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bahiḥśaucaṃ vyākhyāsyāmaḥ ||",
+       "translated_text": "We shall explain external purity.",
+       "segment_number": 490721
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.5",
+      "label": "DCS 8.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kauśaṃ sautraṃ vā tristrivṛd yajñopavītam ||",
+       "translated_text": "The yajñopavīta (sacred thread), made of kuśa or of thread, is to be threefold and triply twisted.",
+       "segment_number": 490722
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.6",
+      "label": "DCS 8.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ā nābheḥ ||",
+       "translated_text": "It should reach down to the navel.",
+       "segment_number": 490723
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.7",
+      "label": "DCS 8.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dakṣiṇaṃ bāhum uddhṛtya savyam avadhāya śiro 'vadadhyāt ||",
+       "translated_text": "Having raised the right arm and lowered the left, one should place it over the head.",
+       "segment_number": 490724
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.8",
+      "label": "DCS 8.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "viparītaṃ pitṛbhyaḥ ||",
+       "translated_text": "The reverse is for the ancestors.",
+       "segment_number": 490725
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.9",
+      "label": "DCS 8.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kaṇṭhe 'vasaktaṃ nivītam ||",
+       "translated_text": "When it is hung around the neck, it is nivīta.",
+       "segment_number": 490726
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.10",
+      "label": "DCS 8.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "adho 'vasaktaṃ adhovītam ||",
+       "translated_text": "When it is hung downward, it is adhovīta.",
+       "segment_number": 490727
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.11",
+      "label": "DCS 8.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prāṅmukha udaṅmukho vāsīnaḥ śaucam ārabheta śucau deśe dakṣiṇam bāhuṃ jānvantarā kṛtvā prakṣālya pādau pāṇī cāmaṇibandhāt ||",
+       "translated_text": "Sitting facing east or facing north, he should begin purification in a clean place, putting the right arm between the knees, and washing the feet and the hands up to the wrists.",
+       "segment_number": 490728
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.12",
+      "label": "DCS 8.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pādaprakṣālanoccheṣaṇena nācāmet ||",
+       "translated_text": "He should not sip water with what remains from washing the feet.",
+       "segment_number": 490729
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.13",
+      "label": "DCS 8.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yady ācāmed bhūmau srāvayitvācāmet ||",
+       "translated_text": "If he should sip, he should first pour it on the ground and then sip.",
+       "segment_number": 490730
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.14",
+      "label": "DCS 8.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "brāhmeṇa tīrthenācāmet ||",
+       "translated_text": "He should sip water with the brāhma tīrtha (Brahmanical part of the hand).",
+       "segment_number": 490731
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.15",
+      "label": "DCS 8.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aṅguṣṭhamūlaṃ brāhmaṃ tīrtham ||",
+       "translated_text": "The root of the thumb is the brāhma tīrtha.",
+       "segment_number": 490732
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.16",
+      "label": "DCS 8.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aṅguṣṭhāgraṃ pitryam aṅgulyagraṃ daivam aṅgulimūlam ārṣam ||",
+       "translated_text": "The tip of the thumb is the ancestral tīrtha; the tips of the fingers are the divine one; the root of the fingers is the seers' one.",
+       "segment_number": 490733
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.17",
+      "label": "DCS 8.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nāṅgulībhir na sabudbudābhir na saphenābhir noṣṇābhirna kṣārābhir na lavaṇābhir na kaluṣābhir na vivarṇābhir na durgandharasābhiḥ ||",
+       "translated_text": "Not with the fingers, not with water having bubbles, not with foam, not with hot water, not with alkaline water, not with salty water, not with turbid water, not with discolored water, and not with water of bad smell or taste.",
+       "segment_number": 490734
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.18",
+      "label": "DCS 8.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "na hasan na jalpan na tiṣṭhan na vilokayan na prahvo na praṇato na muktaśikho na prāvṛtakaṇṭho na veṣṭitaśirā na tvaramāṇo nāyajñopavītī na prasāritapādo na baddhakakṣyo na bahirjānuḥ śabdam akurvan ||",
+       "translated_text": "Not laughing, not talking, not standing, not looking about, not bent down, not bowed forward, not with loosened topknot, not with covered neck, not with wrapped head, not hurrying, not without the sacred thread, not with feet stretched out, not with the loins bound up, not with the knee outside, and not making a sound.",
+       "segment_number": 490735
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.19",
+      "label": "DCS 8.19"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "trir apo hṛdayaṃgamāḥ pibet ||",
+       "translated_text": "Three times he should drink waters that go to the heart.",
+       "segment_number": 490736
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.20",
+      "label": "DCS 8.20"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "triḥ parimṛjet ||",
+       "translated_text": "Three times he should wipe around.",
+       "segment_number": 490737
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.21",
+      "label": "DCS 8.21"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dvir ity eke ||",
+       "translated_text": "Some say twice.",
+       "segment_number": 490738
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.22",
+      "label": "DCS 8.22"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sakṛd ubhayaṃ śūdrasya striyāś ca ||",
+       "translated_text": "For a Śūdra and for a woman, both are done once.",
+       "segment_number": 490739
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.23",
+      "label": "DCS 8.23"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpy udāharanti",
+       "translated_text": "Now they also cite:",
+       "segment_number": 490740
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "gatābhir hṛdayaṃ vipraḥ kaṇṭhyābhiḥ kṣatriyaḥ śuciḥ",
+       "translated_text": "A Brahmin is pure by waters that have gone to the heart; a Kṣatriya by waters that reach the throat;",
+       "segment_number": 490741
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vaiśyo 'dbhiḥ prāśitābhiḥ syāt strīśūdrau spṛśya cāntataḥ",
+       "translated_text": "a Vaiśya becomes pure by waters that have been swallowed; and a woman and a Śūdra at the end by touching them.",
+       "segment_number": 490742
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "iti ||",
+       "translated_text": "Thus.",
+       "segment_number": 490743
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.24",
+      "label": "DCS 8.24"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dantavad dantasakteṣu dantavat teṣu dhāraṇāt",
+       "translated_text": "With respect to things stuck on the teeth, they are like teeth, because they remain on the teeth;",
+       "segment_number": 490744
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "srasteṣu teṣu nācāmet teṣāṃ saṃsrāvavacchuciḥ",
+       "translated_text": "when they have fallen away, he should not sip water; he is pure as in the case of their flowing away.",
+       "segment_number": 490745
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "iti ||",
+       "translated_text": "Thus.",
+       "segment_number": 490746
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.25",
+      "label": "DCS 8.25"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpy udāharanti",
+       "translated_text": "Now they also cite:",
+       "segment_number": 490747
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dantavad dantalagneṣu yaccāpyantar mukhe bhavet",
+       "translated_text": "In regard to things stuck on the teeth, and whatever may be inside the mouth,",
+       "segment_number": 490748
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ācāntasyāvaśiṣṭaṃ syān nigirann eva tacchuciḥ",
+       "translated_text": "it is the remainder of one who has sipped water; when he swallows just that, he is pure.",
+       "segment_number": 490749
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "iti ||",
+       "translated_text": "Thus.",
+       "segment_number": 490750
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.26",
+      "label": "DCS 8.26"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "khāny adbhiḥ saṃspṛśya pādau nābhiṃ śiraḥ savyaṃ pāṇimantataḥ ||",
+       "translated_text": "Having touched the apertures with waters, then the feet, the navel, the head, and finally the left hand.",
+       "segment_number": 490751
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.27",
+      "label": "DCS 8.27"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "taijasaṃ ced ādāyocchiṣṭī syāt tadudasyācamyādāsyann adbhiḥ prokṣet ||",
+       "translated_text": "If, after taking a metal vessel, it has become defiled by leftovers, then, having set it aside and sipped water, when he is about to take it up he should sprinkle it with water.",
+       "segment_number": 490752
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.28",
+      "label": "DCS 8.28"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha ced annenocchiṣṭī syāt tad udasyācamyādāsyann adbhiḥ prokṣet ||",
+       "translated_text": "But if it has become defiled by food, then, having set it aside and sipped water, when he is about to take it up he should sprinkle it with water.",
+       "segment_number": 490753
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.29",
+      "label": "DCS 8.29"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "atha ced adbhir ucchiṣṭī syāt tad udasyācamyādāsyann adbhiḥ prokṣet ||",
+       "translated_text": "But if it has become defiled by water, then, having set it aside and sipped water, when he is about to take it up he should sprinkle it with water.",
+       "segment_number": 490754
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.30",
+      "label": "DCS 8.30"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "etad eva viparītam amatre ||",
+       "translated_text": "This same rule is reversed in the case of earthen vessels.",
+       "segment_number": 490755
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.31",
+      "label": "DCS 8.31"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vānaspatye vikalpaḥ ||",
+       "translated_text": "In the case of objects made from trees, there is an option.",
+       "segment_number": 490756
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.32",
+      "label": "DCS 8.32"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "taijasānām ucchiṣṭānāṃ gośakṛnmṛdbhasmabhiḥ parimārjanamanyatamena vā ||",
+       "translated_text": "Metal objects defiled by leftovers are to be wiped with cow dung, earth, and ashes, or with any one of these.",
+       "segment_number": 490757
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.33",
+      "label": "DCS 8.33"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tāmrarajatasuvarṇānām amlaiḥ ||",
+       "translated_text": "Copper, silver, and gold objects are to be cleaned with sour substances.",
+       "segment_number": 490758
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.34",
+      "label": "DCS 8.34"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "amatrāṇāṃ dahanam ||",
+       "translated_text": "Earthen vessels are to be burned.",
+       "segment_number": 490759
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.35",
+      "label": "DCS 8.35"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dāravāṇāṃ takṣaṇam ||",
+       "translated_text": "Wooden objects are to be planed.",
+       "segment_number": 490760
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.36",
+      "label": "DCS 8.36"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vaiṇavānāṃ gomayena ||",
+       "translated_text": "Bamboo objects are to be cleaned with cow dung.",
+       "segment_number": 490761
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.37",
+      "label": "DCS 8.37"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "phalamayānāṃ govālarajjvā ||",
+       "translated_text": "Objects made of fruit are to be cleaned with a rope of cow hair.",
+       "segment_number": 490762
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.38",
+      "label": "DCS 8.38"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṛṣṇājinānāṃ bilvataṇḍulaiḥ ||",
+       "translated_text": "Black-antelope skins are to be cleaned with grains of bilva.",
+       "segment_number": 490763
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.39",
+      "label": "DCS 8.39"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kutapānām ariṣṭaiḥ ||",
+       "translated_text": "Woollen blankets are to be cleaned with ariṣṭa substances.",
+       "segment_number": 490764
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.40",
+      "label": "DCS 8.40"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aurṇānām ādityena ||",
+       "translated_text": "Woollen objects are to be purified by the sun.",
+       "segment_number": 490765
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.41",
+      "label": "DCS 8.41"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṣaumāṇāṃ gaurasarṣapakalkena ||",
+       "translated_text": "Linen objects are to be cleaned with a paste of white mustard.",
+       "segment_number": 490766
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.42",
+      "label": "DCS 8.42"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mṛdā celānām ||",
+       "translated_text": "Cloths are to be cleaned with earth.",
+       "segment_number": 490767
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.43",
+      "label": "DCS 8.43"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "celavac carmaṇām ||",
+       "translated_text": "Leather objects are to be treated like cloths.",
+       "segment_number": 490768
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.44",
+      "label": "DCS 8.44"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "taijasavad upalamaṇīnām ||",
+       "translated_text": "Stones and gems are to be treated like metal objects.",
+       "segment_number": 490769
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.45",
+      "label": "DCS 8.45"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dāruvad asthnām ||",
+       "translated_text": "Bones are to be treated like wood.",
+       "segment_number": 490770
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.46",
+      "label": "DCS 8.46"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kṣaumavacchaṅkhaśṛṅgaśuktidantānām ||",
+       "translated_text": "Conches, horns, shells, and teeth are to be treated like linen.",
+       "segment_number": 490771
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.47",
+      "label": "DCS 8.47"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "payasā vā ||",
+       "translated_text": "Or else with milk.",
+       "segment_number": 490772
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.48",
+      "label": "DCS 8.48"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "cakṣurghrāṇānukūlyād vā mūtrapurīṣāsṛjśukrakuṇapaspṛṣṭānāṃ pūrvoktānām anyatamenatriḥsaptakṛtvaḥ parimārjanam ||",
+       "translated_text": "For the objects mentioned before that have been touched by urine, feces, blood, semen, or a corpse, there is wiping, three times or seven times, with any one of the previously stated substances, according to what is agreeable to sight and smell.",
+       "segment_number": 490773
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.49",
+      "label": "DCS 8.49"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ataijasānām evaṃbhūtānām utsargaḥ ||",
+       "translated_text": "Non-metal objects that are in such a condition are to be discarded.",
+       "segment_number": 490774
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.50",
+      "label": "DCS 8.50"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vacanād yajñe camasapātrānām ||",
+       "translated_text": "By explicit injunction, however, in a sacrifice this does not apply to camasa vessels.",
+       "segment_number": 490775
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.51",
+      "label": "DCS 8.51"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "na somenocchiṣṭā bhavantīti śrutiḥ ||",
+       "translated_text": "The revelation says, \"They do not become defiled by leftovers through soma.\"",
+       "segment_number": 490776
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.52",
+      "label": "DCS 8.52"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kālo 'gnir manasaḥ śuddhir udakādyupalepanam",
+       "translated_text": "Time, fire, purity of mind, and smearing with water and the like,",
+       "segment_number": 490777
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "avijñātaṃ ca bhūtāṇāṃ ṣaḍvidhaṃ śaucam ucyate ||",
+       "translated_text": "and what is unknown among beings: these are said to be the six kinds of purification.",
+       "segment_number": 490778
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_8.53",
+      "label": "DCS 8.53"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "athāpy udāharanti",
+       "translated_text": "And on this point they also cite:",
+       "segment_number": 490779
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kālaṃ deśaṃ tathātmānaṃ dravyaṃ dravyaprayojanam",
+       "translated_text": "Having understood the time, the place, oneself, the substance, the purpose of the substance,",
+       "segment_number": 490780
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "upapattim avasthāṃ ca vijñāya śaucaṃ śaucajñaḥ kuśalo dharmepsuḥ samācaret ||",
+       "translated_text": "the suitability and the condition, one who knows purification, skilled and desiring <s>dharma</s>, should perform purification.",
+       "segment_number": 490781
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

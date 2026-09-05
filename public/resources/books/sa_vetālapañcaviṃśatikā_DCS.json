@@ -1,0 +1,1563 @@
+{
+ "file_title": "vetālapañcaviṃśatikā_DCS",
+ "file_title_normal": "vetalapancavimsatika_DCS",
+ "metadata": {
+  "original_title": "Vetālapañcaviṃśatikā",
+  "publisher": "Digital Corpus of Sanskrit (DCS)",
+  "license": {
+   "text": "Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.",
+   "target": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "source": "Digital Corpus of Sanskrit (DCS), text ID 131. http://www.sanskrit-linguistics.org/dcs/ Segmentation follows the DCS line/pāda boundaries; chapter and verse labels are taken from the DCS references.",
+  "text_id": "131",
+  "collection": "DCS"
+ },
+ "body": [
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "1"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 1"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.1",
+      "label": "DCS 1.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "praṇamya śirasā devaṃ gaṇanāthaṃ vināyakam",
+       "translated_text": "Having bowed his head to the god <s>Gaṇanātha Vināyaka</s>,",
+       "segment_number": 425629
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "lokānāṃ ca vinodāya kariṣyāmi kathām imām ||",
+       "translated_text": "I shall compose this story for the delight of people.",
+       "segment_number": 425630
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.2",
+      "label": "DCS 1.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prārabhyate na khalu vighnabhayena nīcaiḥ",
+       "translated_text": "The lowly do not even begin, out of fear of obstacles;",
+       "segment_number": 425631
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ārabhya vighnavihitā viramanti madhyāḥ ||",
+       "translated_text": "middling people begin, but stop midway when obstacles arise.",
+       "segment_number": 425632
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.3",
+      "label": "DCS 1.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vighnaiḥ sahasraguṇitair api hanyamānāḥ",
+       "translated_text": "But people of excellent qualities, even when struck by obstacles multiplied a thousandfold,",
+       "segment_number": 425633
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prārabdham uttamaguṇā na parityajanti ||",
+       "translated_text": "do not abandon what they have begun.",
+       "segment_number": 425634
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.4",
+      "label": "DCS 1.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kecit prāñjalim icchanti kecid vakraṃ vaco budhāḥ",
+       "translated_text": "Some wise people desire folded-hand reverence; some desire speech with a twist;",
+       "segment_number": 425635
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kecit kathāṃ rasasphītām ataḥ sarvaṃ vidhīyate ||",
+       "translated_text": "some desire a story swollen with rasa. Therefore all of this is being provided.",
+       "segment_number": 425636
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.5",
+      "label": "DCS 1.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "asti dakṣiṇāpathe janapade pratiṣṭhānaṃ nāma nagaram tatra vikramaseno nāma rājā ||",
+       "translated_text": "In the southern country there is a city named <s>Pratiṣṭhāna</s>. There a king named <s>Vikramasena</s> lived.",
+       "segment_number": 425637
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.6",
+      "label": "DCS 1.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kīdṛśo rājā",
+       "translated_text": "What sort of king was he?",
+       "segment_number": 425638
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sūryakoṭisamābhāso vidyujjyotiḥsamaprabhaḥ",
+       "translated_text": "He shone like ten million suns and had a radiance equal to the light of lightning;",
+       "segment_number": 425639
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "siṃhāsanavare ramye mantrivargapuraskṛtaḥ ||",
+       "translated_text": "he sat on a splendid and charming throne, attended by his circle of ministers.",
+       "segment_number": 425640
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.7",
+      "label": "DCS 1.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kandarpa iva rūpāḍhyo harivajjanavallabhaḥ",
+       "translated_text": "He was rich in beauty like <s>Kandarpa</s>, beloved of the people like <s>Hari</s>,",
+       "segment_number": 425641
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "samudra iva maryādī samānaḥ sarvadā satām ||",
+       "translated_text": "bounded in propriety like the ocean, and always impartial toward the good.",
+       "segment_number": 425642
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.8",
+      "label": "DCS 1.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "himakundendutulyābhaḥ śaracchītāṃśunirmalaḥ",
+       "translated_text": "His splendor was like snow, jasmine, and the moon; he was spotless like the cool autumn moon;",
+       "segment_number": 425643
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sitapadmasamābhāsaḥ śuddhasphaṭikanirmalaḥ ||",
+       "translated_text": "he had the luster of a white lotus and the purity of clear crystal.",
+       "segment_number": 425644
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.9",
+      "label": "DCS 1.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nānādānaparo nityaṃ nānādharmaparāyaṇaḥ",
+       "translated_text": "He was always intent on many kinds of gifts and devoted to many kinds of <s>dharma</s> (righteous conduct);",
+       "segment_number": 425645
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pralayāgnisamaḥ kope taḍitkoṭisamaprabhaḥ ||",
+       "translated_text": "in anger he was like the fire of dissolution, with a brilliance like ten million flashes of lightning.",
+       "segment_number": 425646
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.10",
+      "label": "DCS 1.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prabhūtakāntitejasvī udyamī ca pratāpavan",
+       "translated_text": "Endowed with abundant beauty and vigor, energetic and powerful,",
+       "segment_number": 425647
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "visphuradraśmitejāḍhyo babhūva kulanandanaḥ ||",
+       "translated_text": "rich in blazing rays of splendor, he became the delight of his lineage.",
+       "segment_number": 425648
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.11",
+      "label": "DCS 1.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sādhūnāṃ pālanaṃ samyag duṣṭānāṃ nigrahas tathā",
+       "translated_text": "Proper protection of the good, and likewise restraint of the wicked:",
+       "segment_number": 425649
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "eṣa rājñāṃ paro dharmaḥ paratreha ca śarmaṇe ||",
+       "translated_text": "this is the supreme <s>dharma</s> of kings, bringing happiness in the next world and in this one.",
+       "segment_number": 425650
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.12",
+      "label": "DCS 1.12"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "evaṃ guṇasamāviṣṭo rājā sarvāvasaram āsthāna upaviṣṭo'sti ||",
+       "translated_text": "Endowed with such virtues, the king was seated in the assembly hall at the time open to all petitioners.",
+       "segment_number": 425651
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.13",
+      "label": "DCS 1.13"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kasmiṃścid divase kuto 'pi sthānācchāntiśīlo nāma yogī digambaraḥ samāyātaḥ phalahastaḥ san sabhāṃ praviśya rājño haste phalaṃ dattavān ||",
+       "translated_text": "One day, from some place or other, a naked yogin named <s>Śāntiśīla</s> arrived, carrying a fruit in his hand; entering the court, he gave the fruit into the king's hand.",
+       "segment_number": 425652
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.14",
+      "label": "DCS 1.14"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājñāsanaṃ dattaṃ tāmbūlaṃ ca ||",
+       "translated_text": "The king gave him a seat and betel.",
+       "segment_number": 425653
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.15",
+      "label": "DCS 1.15"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sa tu kṣaṇam āsane sthitvā tato nijamārge gataḥ ||",
+       "translated_text": "But he sat on the seat for a moment and then went on his own way.",
+       "segment_number": 425654
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.16",
+      "label": "DCS 1.16"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "anayā rītyā rājño haste phalaṃ dattvā pratyahaṃ darśanaṃ karoti ||",
+       "translated_text": "In this manner, giving a fruit into the king's hand, he came to see him every day.",
+       "segment_number": 425655
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.17",
+      "label": "DCS 1.17"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ekasmin divase rājño hastāt patitaṃ phalaṃ markaṭena vidāritam tanmadhyād ratnam ekaṃ bhūmau nipatitam tasya kāntyā mahān uddyoto jātaḥ sarve'pi lokāḥ savismayāḥ saṃjātāḥ ||",
+       "translated_text": "One day a fruit that had fallen from the king's hand was split open by a monkey. From inside it a single jewel fell to the ground, and from its brilliance a great radiance arose; all the people were filled with amazement.",
+       "segment_number": 425656
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.18",
+      "label": "DCS 1.18"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadā rājā sāścaryo babhūva rājñoktam bho digambara mahad ratnaṃ tvayā kena kāraṇenānītam ||",
+       "translated_text": "Then the king became astonished and said, 'O naked ascetic, for what reason have you brought this great jewel?'",
+       "segment_number": 425657
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.19",
+      "label": "DCS 1.19"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadā digambareṇoktam mahārāja śrūyatām śāstre kathitam asti",
+       "translated_text": "Then the naked ascetic said, 'Great king, listen. It is said in the śāstra:',",
+       "segment_number": 425658
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "riktapāṇir na paśyeta rājānaṃ bhiṣajaṃ gurum",
+       "translated_text": "'One should not look upon a king, a physician, or a guru empty-handed,",
+       "segment_number": 425659
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "daivajñaṃ putrakaṃ mitraṃ phalena phalam ādiśet ||",
+       "translated_text": "nor an astrologer, a son, or a friend; with fruit one should indicate a result.'",
+       "segment_number": 425660
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.20",
+      "label": "DCS 1.20"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mahārāja mayā anekānīdṛśāni ratnāni phalamadhyasthitāni dvādaśavarṣaparyantaṃ tava haste samarpitāni ||",
+       "translated_text": "'Great king, for twelve years I have presented into your hand many such jewels placed inside fruits.'",
+       "segment_number": 425661
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.21",
+      "label": "DCS 1.21"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tasya tad vacanaṃ śrutvā rājñā bhāṇḍāgārika ākāritaḥ ||",
+       "translated_text": "Hearing that statement of his, the king summoned the treasurer.",
+       "segment_number": 425662
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.22",
+      "label": "DCS 1.22"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājñoktam bho bhāṇḍāgārika anena digambareṇa dattāni yāni phalāni tvayā bhāṇḍāgāre kṣiptāni tāni sarvāṇyānaya ||",
+       "translated_text": "The king said, 'O treasurer, bring all those fruits given by this naked ascetic that you put in the treasury.'",
+       "segment_number": 425663
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.23",
+      "label": "DCS 1.23"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājño vacanaṃ śrutvā tenānītāni pratyekam utkṛṣya dṛṣṭāni sarvāṇy api ratnaiḥ pūrṇāni rājā ca hṛṣṭamanāḥ saṃjātaḥ ||",
+       "translated_text": "Hearing the king's command, he brought them. Each one was cut open and inspected, and all were full of jewels; the king became delighted in mind.",
+       "segment_number": 425664
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.24",
+      "label": "DCS 1.24"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tato rājñā ratnasamūhaṃ dṛṣṭvā bhaṇitam bho digambara etāni sarvāṇi ratnāni bahumūlyāni kimartham ānītāni aham ekasyāpi ratnasya maulyaṃ dātum asamarthaḥ tvam ataḥ paraṃ kim abhilaṣasi tat kathaya ||",
+       "translated_text": "Then, seeing the heap of jewels, the king said, 'O naked ascetic, all these jewels are very valuable. Why have they been brought? I am unable to pay the price of even one jewel. Tell me what you desire from now on.'",
+       "segment_number": 425665
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.25",
+      "label": "DCS 1.25"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yoginoktam",
+       "translated_text": "The yogin said:",
+       "segment_number": 425666
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "api svalpataraṃ kāryaṃ yadi syāt pṛthivīpateḥ",
+       "translated_text": "'Even if a king's business should be very small,",
+       "segment_number": 425667
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sabhāmadhye na vaktavyaṃ provācedaṃ bṛhaspatiḥ ||",
+       "translated_text": "it should not be spoken of in the midst of the assembly; <s>Bṛhaspati</s> has declared this.'",
+       "segment_number": 425668
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.26",
+      "label": "DCS 1.26"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "siddhamantrauṣadhaṃ dharmaṃ gṛhachidraṃ ca maithunam",
+       "translated_text": "'A perfected mantra, a medicine, <s>dharma</s>, a household secret, sexual union,",
+       "segment_number": 425669
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kubhuktaṃ kuśrutaṃ marma matimān na prakāśayet ||",
+       "translated_text": "bad eating, bad hearing, a vulnerable point: a wise man should not reveal these.'",
+       "segment_number": 425670
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.27",
+      "label": "DCS 1.27"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ṣaṭkarṇo bhidyate mantraś caturkarṇaḥ sthiro bhavet",
+       "translated_text": "'A counsel heard by six ears is broken; one heard by four ears may remain firm;",
+       "segment_number": 425671
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dvikarṇasya tu mantrasya brahmāpyantaṃ na gacchati ||",
+       "translated_text": "but of a counsel heard by two ears, even <s>Brahmā</s> does not reach the end.'",
+       "segment_number": 425672
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.28",
+      "label": "DCS 1.28"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "giripṛṣṭhaṃ samāruhya prāsāde vā raho gataḥ",
+       "translated_text": "'Having climbed a mountain slope, or having gone secretly into a palace,",
+       "segment_number": 425673
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "araṇye nirjane sthāne tatra mantro vidhīyate ||",
+       "translated_text": "or in a lonely place in the forest, there counsel should be undertaken.'",
+       "segment_number": 425674
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.29",
+      "label": "DCS 1.29"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "deva ekānte vijñāpayiṣyāmi ||",
+       "translated_text": "'Lord, I shall inform you in private.'",
+       "segment_number": 425675
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.30",
+      "label": "DCS 1.30"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājñā nirjanaṃ kṛtam yoginoktam deva asyāṃ kṛṣṇacaturdaśyāṃ godānadītīre mahāśmaśāne mantrasādhanaṃ kariṣyāmi ||",
+       "translated_text": "The king had the place emptied of people. The yogin said, 'Lord, on this dark fourteenth lunar day, on the bank of the <s>Godā</s> river, in the great cremation ground, I shall perform a mantra rite.'",
+       "segment_number": 425676
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.31",
+      "label": "DCS 1.31"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sādhite sati aṣṭau mahāsiddhayo bhaviṣyanti",
+       "translated_text": "'When it has been accomplished, the eight great siddhis will arise.'",
+       "segment_number": 425677
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aṇimā mahimā caiva laghimā garimā tathā",
+       "translated_text": "'Aṇimā, mahimā, laghimā, and garimā,",
+       "segment_number": 425678
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "prāptiḥ prākāmyam īśitvaṃ vaśitvaṃ cāṣṭa siddhayaḥ ||",
+       "translated_text": "prāpti, prākāmya, īśitva, and vaśitva: these are the eight siddhis.'",
+       "segment_number": 425679
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.32",
+      "label": "DCS 1.32"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "pumāṃstu dhairyasampanno bhavatyuttarasādhakaḥ",
+       "translated_text": "'A man who is endowed with courage becomes the assisting practitioner,",
+       "segment_number": 425680
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yasmād adhīro mantrasya siddhasyāpi vināśakaḥ ||",
+       "translated_text": "because a coward destroys even a perfected mantra.'",
+       "segment_number": 425681
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.33",
+      "label": "DCS 1.33"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dhīras tu tvadṛte nānyaḥ puruṣaḥ pratibhāti me",
+       "translated_text": "'Apart from you, no other steadfast man appears to me;",
+       "segment_number": 425682
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ato'haṃ kartum icchāmi tvām evottarasādhakam ||",
+       "translated_text": "therefore I wish to make you alone the assisting practitioner.'",
+       "segment_number": 425683
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.34",
+      "label": "DCS 1.34"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadarthaṃ tvaṃ mamottarasādhako bhava ||",
+       "translated_text": "'For that purpose, be my assisting practitioner.'",
+       "segment_number": 425684
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.35",
+      "label": "DCS 1.35"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rātrau sakhaḍgena bhavatā ekākinā matsamīpam āgantavyam ||",
+       "translated_text": "'At night you must come near me alone, with your sword.'",
+       "segment_number": 425685
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.36",
+      "label": "DCS 1.36"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājñā pratipannam evam ahaṃ kariṣyāmi ||",
+       "translated_text": "The king agreed: 'I shall do so.'",
+       "segment_number": 425686
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.37",
+      "label": "DCS 1.37"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tadanantaraṃ sarvopaskaradravyāṇi gṛhītvā digambaraś caturdaśyāṃ mahāśmaśāne gataḥ ||",
+       "translated_text": "After that, taking all the necessary materials and substances, the naked ascetic went on the fourteenth lunar day to the great cremation ground.",
+       "segment_number": 425687
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.38",
+      "label": "DCS 1.38"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājāpi rajanyāṃ kṛṣṇavāsāṃsi gṛhītvā tatraiva samāyātaḥ ||",
+       "translated_text": "The king too, at night, put on black garments and came to that very place.",
+       "segment_number": 425688
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.39",
+      "label": "DCS 1.39"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "so 'pi rājānaṃ dṛṣṭvā hṛṣṭaromā saṃjātaḥ ||",
+       "translated_text": "When he saw the king, the ascetic's hair stood on end with joy.",
+       "segment_number": 425689
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.40",
+      "label": "DCS 1.40"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yoginoktam bho rājan yojanārdhe mahāśmaśānam asti tatra śiṃśipāvṛkṣe mṛtakam avalambitam āste tatra gatvā tan mṛtakaṃ gṛhītvā śīghram āgaccha ||",
+       "translated_text": "The yogin said: \"O king, half a yojana away there is a great cremation ground. There, on a <s>śiṃśipā</s> tree, a corpse is hanging. Go there, take that corpse, and come back quickly.\"",
+       "segment_number": 425690
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.41",
+      "label": "DCS 1.41"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yadi vadasi tarhi tanmṛtakaṃ punar vṛkṣe yāsyati ||",
+       "translated_text": "\"If you speak, then that corpse will go back to the tree again.\"",
+       "segment_number": 425691
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.42",
+      "label": "DCS 1.42"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tad vacanam ākarṇya asamasāhasiko rājā śiṃśipāvṛkṣasyopari pracalitaḥ ||",
+       "translated_text": "Having heard those words, the king, whose courage was unequaled, set out toward the <s>śiṃśipā</s> tree.",
+       "segment_number": 425692
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.43",
+      "label": "DCS 1.43"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājā śmaśānaṃ samprāpya niḥśaṅko dhūmasaṃkulam",
+       "translated_text": "The king reached the cremation ground, fearless, amid dense smoke.",
+       "segment_number": 425693
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "sarvopaskarasaṃyuktaṃ śmaśānaṃ bhāti bhūtale ||",
+       "translated_text": "Furnished with every dreadful implement, the cremation ground shone upon the earth.",
+       "segment_number": 425694
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.44",
+      "label": "DCS 1.44"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mastiṣkaliptaśubhrāsthiprākāraṃ lohitāśayam",
+       "translated_text": "Its rampart was of white bones smeared with brains, and its reservoirs were blood.",
+       "segment_number": 425695
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ākrīḍam iva kālasya kapālacaṣakākulam ||",
+       "translated_text": "It was like the playground of Death, crowded with skulls used as cups.",
+       "segment_number": 425696
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.45",
+      "label": "DCS 1.45"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dhūmāndhakāramalinaṃ rakṣorāvābhigarjitam",
+       "translated_text": "Darkened and stained by smoke, it thundered with the cries of demons.",
+       "segment_number": 425697
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "cañcaccitāgnitaḍitaṃ kālamegha ivotthitaḥ ||",
+       "translated_text": "It rose like a cloud of doom, flashed through by the flickering lightning of funeral-pyre fires.",
+       "segment_number": 425698
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.46",
+      "label": "DCS 1.46"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "gṛdhrākṛṣṭāntramālābhiḥ kṛtaprālambavibhramam",
+       "translated_text": "With garlands of entrails dragged by vultures, it had the appearance of hanging festoons.",
+       "segment_number": 425699
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kāla ivotsave mattaḥ kṛttikānṛtyakampitam ||",
+       "translated_text": "It was like Death himself, drunk at a festival and shaken by the dance of the Kṛttikās.",
+       "segment_number": 425700
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.47",
+      "label": "DCS 1.47"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "jīrṇāsthinalakachidrakṣiprasaṃjātamārutam",
+       "translated_text": "Winds arose there, rushing through the holes in old bone-tubes.",
+       "segment_number": 425701
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "saṃcaradyoginīvṛndanūpurair iva nāditam ||",
+       "translated_text": "It seemed to resound with the anklets of bands of wandering yoginīs.",
+       "segment_number": 425702
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.48",
+      "label": "DCS 1.48"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dikṣu pratiphaladghorakairavasphārahuṃkṛtam",
+       "translated_text": "In the quarters echoed the terrible, swelling cries of jackals.",
+       "segment_number": 425703
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "trijagatpralayārambhakṛtoṃkāra ivāntakaḥ ||",
+       "translated_text": "Like the destroyer making the syllable oṃ at the beginning of the dissolution of the three worlds,",
+       "segment_number": 425704
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.49",
+      "label": "DCS 1.49"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "maṇḍitaṃ muṇḍakhaṇḍaiś ca kaṅkālakulamālitam",
+       "translated_text": "it was adorned with fragments of severed heads and garlanded with heaps of skeletons.",
+       "segment_number": 425705
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "jvalanāṅgāramalinaṃ dvitīyam iva bhairavam ||",
+       "translated_text": "Blackened by burning embers, it was like a second <s>Bhairava</s>.",
+       "segment_number": 425706
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.50",
+      "label": "DCS 1.50"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "karṇaśalyoddhatārāvaṃ duḥśāsanavadhākulaṃ",
+       "translated_text": "It rang with cries raised like arrows in the ear and was filled with the slaughter of Duḥśāsana.",
+       "segment_number": 425707
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "saṃcaradbhīmapuruṣaṃ dvitīyam iva bhāratam ||",
+       "translated_text": "With terrifying men moving about, it was like a second <s>Bhārata</s>.",
+       "segment_number": 425708
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.51",
+      "label": "DCS 1.51"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bahuchalaṃ dyūtam iva strīcittam iva dāruṇam",
+       "translated_text": "It was very unstable like gambling, and cruel like the heart of a woman.",
+       "segment_number": 425709
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aviveka ivānekaśaṅkātaṅkaniketanam ||",
+       "translated_text": "Like lack of discernment, it was a dwelling-place of many doubts and terrors.",
+       "segment_number": 425710
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.52",
+      "label": "DCS 1.52"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "svarotkaṭajanasthānaṃ ghoraśūrpaṇakhīvṛtam",
+       "translated_text": "Its inhabitants were harsh-voiced, and it was surrounded by dreadful Śūrpaṇakhās.",
+       "segment_number": 425711
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "daṇḍakāraṇyasadṛśaṃ mārīcacakitāntaram ||",
+       "translated_text": "It resembled the <s>Daṇḍaka</s> forest, with <s>Mārīca</s> lurking fearfully within.",
+       "segment_number": 425712
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.53",
+      "label": "DCS 1.53"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bhrāntākampanadhūmrākṣameghanādavibhīṣaṇam",
+       "translated_text": "It was bewildering, shaking, with Dhūmrākṣa, Meghanāda, and Vibhīṣaṇa as terrors.",
+       "segment_number": 425713
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "laṅkādāha ivotpanno jīvadrāvaṇavighnakam ||",
+       "translated_text": "It seemed like the burning of <s>Laṅkā</s> itself, producing obstacles for the living <s>Rāvaṇa</s>.",
+       "segment_number": 425714
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.54",
+      "label": "DCS 1.54"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "samagraduḥkhanilayaṃ bhūtasaṃghapradharṣaṇam",
+       "translated_text": "It was the abode of every sorrow and the assaulting ground of hosts of spirits.",
+       "segment_number": 425715
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "bahuchidraghanāśliṣṭaṃ pretarāśinirantaram ||",
+       "translated_text": "It was tightly packed with many pits and continuously filled with masses of ghosts.",
+       "segment_number": 425716
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.55",
+      "label": "DCS 1.55"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "māṃsapūritavaktrāś ca madirānandacetasaḥ",
+       "translated_text": "There, with mouths filled with flesh and minds delighted by liquor,",
+       "segment_number": 425717
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "dṛśyante bahudhā tatra bhūtavetālarākṣasāḥ ||",
+       "translated_text": "spirits, vetālas, and rākṣasas were seen in many forms.",
+       "segment_number": 425718
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.56",
+      "label": "DCS 1.56"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra gatvā rājñā śiṃśipāvṛkṣam āruhya churikayā pāśaṃ chittvā mṛtakaṃ bhūtale pātitam ||",
+       "translated_text": "Having gone there, the king climbed the <s>śiṃśipā</s> tree, cut the noose with his knife, and dropped the corpse to the ground.",
+       "segment_number": 425719
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.57",
+      "label": "DCS 1.57"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kīdṛśaṃ mṛtakam",
+       "translated_text": "What was the corpse like?",
+       "segment_number": 425720
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nīlajīmūtasaṃkāśam ūrdhvakeśaṃ bhayāvaham",
+       "translated_text": "It was like a dark rain cloud, with hair standing upward, terrifying,",
+       "segment_number": 425721
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vartulākṣaṃ ca nirmāṃsaṃ pretamudrāvibhūṣitam ||",
+       "translated_text": "round-eyed, fleshless, and adorned with the marks of a ghost.",
+       "segment_number": 425722
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.58",
+      "label": "DCS 1.58"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "uttīrṇo yāvad rājā tāvanmṛtakaṃ tatraiva śākhāyām avalambitam ||",
+       "translated_text": "As soon as the king had climbed down, the corpse was hanging again on that very branch.",
+       "segment_number": 425723
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.59",
+      "label": "DCS 1.59"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "punar api rājā vṛkṣam āruhya mṛtakaṃ skandhe dhṛtvā uttīrya mārge calitaḥ ||",
+       "translated_text": "Again the king climbed the tree, took the corpse on his shoulder, descended, and set out along the road.",
+       "segment_number": 425724
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.60",
+      "label": "DCS 1.60"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mārge calite sati śavasaṃkramitena vetālena rājānaṃ pratyabhihitam bho rājan",
+       "translated_text": "As he was walking on the road, the vetāla that had entered the corpse spoke to the king: \"O king,",
+       "segment_number": 425725
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kāvyaśāstravinodena kālo gacchati dhīmatām",
+       "translated_text": "for the wise, time passes in the enjoyment of poetry and śāstra;",
+       "segment_number": 425726
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vyasanena tu mūrkhāṇāṃ nidrayā kalahena vā ||",
+       "translated_text": "but for fools it passes in vice, sleep, or quarrel.",
+       "segment_number": 425727
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.61",
+      "label": "DCS 1.61"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vinayena vinā kā śrīḥ kā niśā śaśinā vinā",
+       "translated_text": "What is splendor without discipline? What is night without the moon?",
+       "segment_number": 425728
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rahitā satkavitvena kīdṛśī vāgvidagdhatā ||",
+       "translated_text": "And what sort of cleverness in speech is there if it is devoid of good poetry?",
+       "segment_number": 425729
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_1.62",
+      "label": "DCS 1.62"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "rājan śrūyatām tāvat kathām ekāṃ kathayāmi ||",
+       "translated_text": "King, listen now; I shall tell one story.\"",
+       "segment_number": 425730
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "tag": "div",
+   "attributes": {
+    "type": "chapter",
+    "n": "2"
+   },
+   "children": [
+    {
+     "tag": "head",
+     "attributes": {},
+     "text": "Chapter 2"
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.1",
+      "label": "DCS 2.1"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ugraṃ bhayāvaharūpaṃ bhayaghnaṃ bhayasūdanaṃ mahābhīmaṃ mahānandaṃ namāmi gaṇanāyakam ||",
+       "translated_text": "I bow to the lord of hosts, fierce, terrifying in form, remover of fear, destroyer of fear, greatly formidable, and greatly blissful.",
+       "segment_number": 425731
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.2",
+      "label": "DCS 2.2"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "punas tena rājñā śiṃśipāvṛkṣān mṛtakaṃ samānīya skandhe dhṛtvā yāvanmārge gacchati tāvat tena kathānakaṃ prārabdham ||",
+       "translated_text": "Again, when that king had brought the corpse from the <s>śiṃśipā</s> tree, placed it on his shoulder, and was going along the road, the tale was begun by it.",
+       "segment_number": 425732
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.3",
+      "label": "DCS 2.3"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "vetālenoktam rājan śrūyatāṃ kathāṃ kathayāmi ||",
+       "translated_text": "The vetāla said: \"King, listen; I shall tell a story.",
+       "segment_number": 425733
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.4",
+      "label": "DCS 2.4"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "asti dharmapurī nāma nagarī ||",
+       "translated_text": "There is a city named <s>Dharmapurī</s>.",
+       "segment_number": 425734
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.5",
+      "label": "DCS 2.5"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tatra dharmaśīlo nāma rājā ||",
+       "translated_text": "There a king named <s>Dharmaśīla</s> lived.",
+       "segment_number": 425735
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.6",
+      "label": "DCS 2.6"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tena caṇḍikāyatanaṃ kāritam agre caturaśraṃ kuṇḍaṃ ca ||",
+       "translated_text": "He had a shrine of <s>Caṇḍikā</s> made, and in front of it a square pit.",
+       "segment_number": 425736
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.7",
+      "label": "DCS 2.7"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "nityam eva devīṃ pūjayitvā bhojanaṃ karoti mantriṇoktam deva mama vacanaṃ śrūyatām",
+       "translated_text": "Each day he worshipped the goddess and then took his meal. His minister said: 'Lord, hear my words.",
+       "segment_number": 425737
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "aputrasya gṛhaṃ śūnyaṃ dik śūnyābāndhavasya ca",
+       "translated_text": "The house of a man without a son is empty, and the quarter of one without kinsmen is empty.",
+       "segment_number": 425738
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mūrkhasya hṛdayaṃ śūnyaṃ sarvaśūnyā daridratā ||",
+       "translated_text": "The heart of a fool is empty, and poverty makes everything empty.'",
+       "segment_number": 425739
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.8",
+      "label": "DCS 2.8"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "evaṃ mantrivacanaṃ śrutvā rājñā devyāḥ stutir ārabdhā",
+       "translated_text": "Having heard these words of the minister, the king began a hymn to the goddess:",
+       "segment_number": 425740
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "namas te devi deveśi brahmaviṣṇvindravandite",
+       "translated_text": "'Homage to you, goddess, lady of the gods, worshipped by Brahmā, Viṣṇu, and Indra.",
+       "segment_number": 425741
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "śivadehodbhave saumye mahālakṣmi namo 'stu te ||",
+       "translated_text": "Born from the body of Śiva, gentle one, great Lakṣmī, homage to you.",
+       "segment_number": 425742
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.9",
+      "label": "DCS 2.9"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "jaya devi mahāghore raktamāṃse balipriye",
+       "translated_text": "Victory, goddess, greatly terrible one, fond of offerings of blood and flesh.",
+       "segment_number": 425743
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "kālarūpe kālaraudre kālarātri namo'stu te ||",
+       "translated_text": "Form of Time, terrible as Time, dark night of Time, homage to you.",
+       "segment_number": 425744
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.10",
+      "label": "DCS 2.10"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "mahāpretāsanārūḍhe śivāyaiva bhayaṃkare",
+       "translated_text": "Mounted on a seat of great ghosts, fearsome even to Śiva,",
+       "segment_number": 425745
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "carmamuṇḍadhare caṇḍe caturvaktre namo namaḥ ||",
+       "translated_text": "wearing hide and severed heads, fierce one, four-faced one, homage, homage to you.",
+       "segment_number": 425746
+      }
+     ]
+    },
+    {
+     "tag": "lg",
+     "attributes": {
+      "id": "DCS_2.11",
+      "label": "DCS 2.11"
+     },
+     "children": [
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "tālajaṅghe iti mahākāye stavena devī nirmāṃse samārādhitā māṃsabhakṣiṇi",
+       "translated_text": "O long-legged, great-bodied one: by this hymn the fleshless, flesh-eating goddess was propitiated.",
+       "segment_number": 425747
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "devyoktam",
+       "translated_text": "The goddess said:",
+       "segment_number": 425748
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "ūrdhvakeśotkaṭe tuṣṭāhaṃ ūrdhvakeśotkaṭe tuṣṭāhaṃ ūrdhvakeśotkaṭe tava kṣāme rājendra tārakākṣi rājendra namo varaṃ brūhi 'stu yathepsitam",
+       "translated_text": "'With hair standing upward, I am pleased; with hair standing upward, I am pleased. With your fierce upward hair, O emaciated lord of kings, star-eyed lord of kings, homage; choose the boon you desire.'",
+       "segment_number": 425749
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "te ||",
+       "translated_text": "to you.",
+       "segment_number": 425750
+      },
+      {
+       "tag": "l",
+       "attributes": {},
+       "text": "yathepsitam",
+       "translated_text": "What is desired.",
+       "segment_number": 425751
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

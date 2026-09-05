@@ -109,6 +109,20 @@ SanskritVoyager/
     └── render.tsx
 ```
 
+## Book data
+
+Books live in `public/resources/books/` as JSON trees of `TextElement` nodes (tags documented in `docs/book-tags-guide.md`); `titles.json` lists the file names shown in the book picker.
+
+Texts from the Digital Corpus of Sanskrit (DCS) are generated from the translation job folder with:
+
+```
+python3 scripts/convert_dcs_books.py            # all finalized books -> sa_<title>_DCS.json + titles.json
+python3 scripts/convert_dcs_books.py --only 101  # a single DCS text id
+python3 scripts/convert_dcs_books.py --include-partial   # also books still being translated
+```
+
+The script joins the job's segments and translations with the corpus TSV to recover chapter/verse structure, so each line keeps its corpus `segment_number` for search highlighting.
+
 ## Features
 
 This application comes with the following features:

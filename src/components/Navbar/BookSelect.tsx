@@ -43,7 +43,7 @@ function BookSelect({
   bookTitle,
   label = 'Select a book to import',
   placeholder = 'Pick a book to import',
-  description = "Read books from GRETIL and SARIT",
+  description = "Read books from GRETIL, SARIT and DCS",
   onSelect,
 }: BookSelectProps) {
   // Store the processed book titles

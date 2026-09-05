@@ -16,6 +16,12 @@
   border-radius: 0.5rem;
 }
 
+/* Long tables of contents (e.g. DCS texts with hundreds of chapters) scroll in place */
+.bookIndexScrollable {
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
 /* Light mode */
 [data-mantine-color-scheme="light"] .bookIndex,
 .bookIndex {
