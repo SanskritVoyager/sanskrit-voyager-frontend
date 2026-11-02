@@ -18,6 +18,9 @@
     "storybook": "storybook dev -p 6006",
     "storybook:build": "storybook build"
   },
+  "engines": {
+  "node": "26.x"
+  },
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@mantine/core": "7.10.2",
