@@ -35,6 +35,8 @@ const WordInfoPortal: React.FC<WordInfoPortalProps> = ({
     // Create new container
     const container = document.createElement('div');
     container.className = classes.wordInfo;
+    // Sits inside the book text; keep dictionary entries out of in-page search
+    container.setAttribute('data-search-ignore', '');
     clickedElement.parentNode?.insertBefore(container, clickedElement.nextSibling);
 
     // Store references

@@ -1,5 +1,5 @@
-import React, { useEffect, useRef } from 'react';
-import Mark from 'mark.js';
+import React, { useMemo } from 'react';
+import { findMatchRanges } from './searchMatcher';
 import classes from './HighlightText.module.css';
 
 interface HighlightTextProps {
@@ -9,28 +9,24 @@ interface HighlightTextProps {
 }
 
 const HighlightText: React.FC<HighlightTextProps> = ({ text, query, isSearchResult }) => {
-  const containerRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    if (containerRef.current && query && query.trim()) {
-      const instance = new Mark(containerRef.current);
-      const searchTerms = query.trim().split(/\s+/);
-      instance.mark(searchTerms, {
-        separateWordSearch: true,
-        diacritics: true, // Enable diacritic insensitivity
-        synonyms: { 'ṃ': 'm', 'ṁ': 'm', 'ḥ': 'h', 'ś': 's', 'ṣ': 's', 'ṭ': 't', 'ṛ': 'r', 'ṇ': 'n', 'ḍ': 'd' }, // Basic Sanskrit diacritics
-        accuracy: 'complementary', // Improved matching for diacritics
-        caseSensitive: false, // Case insensitive matching
-      });
-    }
+  // Rendered from the plain string every time, so marks from an earlier query never linger
+  const pieces = useMemo(() => {
+    const ranges = findMatchRanges(text, query, { separateWords: true });
+    if (!ranges.length) return text;
+    const result: React.ReactNode[] = [];
+    let cursor = 0;
+    ranges.forEach(([start, end]) => {
+      if (start > cursor) result.push(text.slice(cursor, start));
+      result.push(<mark key={start}>{text.slice(start, end)}</mark>);
+      cursor = end;
+    });
+    if (cursor < text.length) result.push(text.slice(cursor));
+    return result;
   }, [text, query]);
 
   return (
-    <div
-      ref={containerRef}
-      className={isSearchResult ? classes.highlightedBox : classes.highlightedText}
-    >
-      {text}
+    <div className={isSearchResult ? classes.highlightedBox : classes.highlightedText}>
+      {pieces}
     </div>
   );
 };

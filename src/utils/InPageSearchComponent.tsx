@@ -33,12 +33,15 @@ export const InPageSearch: React.FC<InPageSearchProps> = ({
   // Debounce the local query before sending to parent
   const [debouncedQuery] = useDebouncedValue(localQuery, 300);
   
-  // Sync debounced value to parent
+  // Sync debounced value to parent, only when it changes: reacting to the parent's query too
+  // would write the old query back when the parent clears it
+  const sentQueryRef = React.useRef(debouncedQuery);
   React.useEffect(() => {
-    if (debouncedQuery !== searchQuery) {
+    if (debouncedQuery !== sentQueryRef.current) {
+      sentQueryRef.current = debouncedQuery;
       setSearchQuery(debouncedQuery);
     }
-  }, [debouncedQuery, setSearchQuery, searchQuery]);
+  }, [debouncedQuery, setSearchQuery]);
   
   // Sync parent query to local state when it changes externally
   React.useEffect(() => {
@@ -66,6 +69,7 @@ export const InPageSearch: React.FC<InPageSearchProps> = ({
       {(styles) => (
         <Paper
           style={styles}
+          data-search-ignore
           className={classes.searchContainer}
           shadow="md"
           p="xs"

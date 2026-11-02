@@ -24,6 +24,7 @@ import { ActionToggle } from './ColorSchemeToggle/ColorSchemeToggle';
 import React, { useState, useEffect, useRef } from 'react';
 import SearchToggle from './AdvancedSearchToggle';
 import SearchHighlightToggle from './SearchHighlightToggle';
+import { loadDictionaryKeys } from '@/utils/dictionaryKeys';
 
 
 
@@ -68,7 +69,7 @@ export function HeaderSearch({
   onToggleInPageSearch?: () => void;
   bookTitle?: string | null;
 }) {
-  const [entries, setEntries] = useState([]);
+  const [entries, setEntries] = useState<string[]>([]);
   const [filteredData, setFilteredData] = useState<string[]>([]);
   const [value, setValue] = useDebouncedState('', 600);
   const { colorScheme } = useMantineColorScheme();
@@ -93,8 +94,7 @@ export function HeaderSearch({
 
   useEffect(() => {
     // Fetch the JSON data
-    fetch('/resources/MWKeysOnly.json')
-      .then((response) => response.json())
+    loadDictionaryKeys()
       .then((data) => {
         setEntries(data);
         const no_diacritics = data.map((entry: string) => ({

@@ -774,7 +774,14 @@ export function HomePage() {
                       }}
                     >
                       {showWelcomeState ? (
-                        <Welcome setBookTitle={setBookTitle} bookTitle={bookTitle} />
+                        <Welcome
+                          onLookupWord={setSelectedWord}
+                          onSearchTexts={(searchQuery) => {
+                            // AdvancedSearch mounts with the modal and runs a non-empty query
+                            setQuery(searchQuery);
+                            handleAdvancedSearch.open();
+                          }}
+                        />
                       ) : isLoadingWordData ? (
                         <LoadingSkeleton />
                       ) : (

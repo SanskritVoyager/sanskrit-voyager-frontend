@@ -4,13 +4,20 @@ import classes from './ClickableSimpleBooks.module.css';
 import { BookText, TextElement, Metadata } from '../../types/bookTypes';
 import MetadataComponent from '../metadata/Metadata';
 import { WordEntry } from '../../types/wordTypes';
-import { safeSplitText } from './textUtils';
+import {
+  safeSplitText,
+  normalizeOriginalText,
+  toDandas,
+  isDandaToken,
+  isVerseRefToken,
+} from './textUtils';
 import HighlightText from '../../utils/HighlightText';
 import { Accordion } from '@mantine/core';
 import { useThrottledCallback, useThrottledState } from '@mantine/hooks';
 import ScrollMarkers from './ClickableSimpleMarkers';
 import BookSpan from './ClickableSimpleBooksSpan';
 import BookIndex from './BookIndex';
+import { BookSectionHeading } from './BookSectionHeading';
 import { InPageSearch } from '@/utils/InPageSearchComponent';
 import { useInPageSearch } from '@/utils/InPageSearchHook';
 
@@ -58,6 +65,13 @@ const ClickableSimpleBooks = ({
   
 
   
+  // Everything that changes the rendered text; an open in-page search runs again when it does.
+  // In-page search results must stay out of it, or reporting them would re-run the search.
+  const searchContentKey = React.useMemo(
+    () => [bookText, textType, targetSegmentNumber, matchedBookSegments, query],
+    [bookText, textType, targetSegmentNumber, matchedBookSegments, query]
+  );
+
   // Initialize the in-page search hook
   const {
     searchQuery,
@@ -71,8 +85,8 @@ const ClickableSimpleBooks = ({
     clearSearch
   } = useInPageSearch({
     containerRef,
-    segmentRefs,
-    onMatchedSegmentsChange: setSearchMatchedSegments
+    onMatchedSegmentsChange: setSearchMatchedSegments,
+    contentKey: searchContentKey,
   });
 
   // Toggle search when trigger changes (undefined on mount means it won't trigger)
@@ -109,7 +123,11 @@ const ClickableSimpleBooks = ({
 
     const findChapters = (elements: TextElement[]) => {
       for (const element of elements) {
-        if ((element.tag === 'ChapterTitle' || element.tag === 'head') && element.text) {
+        const sectionHeading = BookSectionHeading.fromElement(element);
+        if (sectionHeading) {
+          extractedChapters.push({ ...sectionHeading, order: chapterCount + 1 });
+          chapterCount++;
+        } else if ((element.tag === 'ChapterTitle' || element.tag === 'head') && element.text) {
           const chapterId = `chapter-${chapterCount}`;
           extractedChapters.push({
             text: element.text,
@@ -137,8 +155,8 @@ const ClickableSimpleBooks = ({
     segmentRefs.current = new Map();
     setInitialRenderComplete(false);
     // Don't clear matchedBookSegments here - it's managed by the parent
-    // and should persist when opening a book from advanced search
-    setSearchMatchedSegments([]);
+    // and should persist when opening a book from advanced search.
+    // searchMatchedSegments belongs to useInPageSearch, which searches the new book itself.
     foundNotes.current = 0;
     // console.log('Segment refs map and note counter reset due to book change');
   }, [bookText]);
@@ -197,7 +215,7 @@ const ClickableSimpleBooks = ({
 
   const blockTags = new Set([
     'div', 'lg', 'l', 'p', 'head', 'pb', 'milestone', 'ab',
-    'ChapterTitle', 'Subchapter', 'OpeningTitle',
+    'ChapterTitle', 'Subchapter', 'OpeningTitle', 'opener',
     'Sutra', 'Commentary', 'LeadingBhashya', 'IntroBhashya', 'Vyakhya',
     'quote', 'trailer', 'homage', 'colophon',
     'table', 'row', 'list', 'item',
@@ -225,12 +243,14 @@ const ClickableSimpleBooks = ({
 
   const renderTextElement = (element: TextElement): React.ReactNode => {
     const isBlock = blockTags.has(element.tag);
+    const sectionHeading = BookSectionHeading.fromElement(element);
 
     const elementClasses = [
       classes[element.tag] || '',
       element.attributes?.rend === 'bold' ? classes.bold : '',
       element.attributes?.rend === 'it' ? classes.italic : '',
-      element.attributes?.type ? classes[element.attributes.type] : '',
+      // Types vary in case across sources (Adhyāya / adhyāya), so match CSS on the lowercase form
+      element.attributes?.type ? classes[element.attributes.type.toLowerCase()] : '',
     ]
       .filter(Boolean)
       .join(' ');
@@ -265,14 +285,7 @@ const ClickableSimpleBooks = ({
       if (!text || isSeparatorOnlyLine(text)) {
         return null;
       }
-      const transformedText = isTranslation
-        ? text
-        : text
-            .replace(/([A-Za-z]+)_(\d+\.\d+)\s/g, '$2 ')
-            .replace(/([A-Za-z]+)_(\d+)/g, '$2 ')
-            .replace(/\//g, '|')
-            .replace(/\.(?!\d)/g, '|')
-            .replace(/\*/g, '');
+      const transformedText = isTranslation ? text : normalizeOriginalText(text);
 
       const segments = safeSplitText(transformedText);
 
@@ -305,24 +318,47 @@ const ClickableSimpleBooks = ({
           );
         } else {
           const words = segment.match(/\|\||\||\+|[^\s+|]+/g) || [];
+          const lastWord = words.length > 0 ? words[words.length - 1].trim() : '';
+          // A line break inside the text gets a danda, unless the line already ends with one
+          const needsLineDanda = segmentIndex < segments.length - 1 && !isDandaToken(lastWord);
           return (
             <span key={segmentIndex} className={classes.textSegment}>
               <span className={classes.textContent}>
                 {words.map((word: string, wordIndex: number) => {
                   const trimmedWord = word.trim();
                   if (!trimmedWord) return null;
-                  // Skip rendering standalone pipes - they're just separators
-                  if (trimmedWord === '|' || trimmedWord === '||') return null;
+                  const trailingSpace = wordIndex < words.length - 1 ? ' ' : '';
+                  // Dandas are punctuation: rendered, but not clickable
+                  if (isDandaToken(trimmedWord)) {
+                    return (
+                      <span key={`${segmentIndex}-${wordIndex}`} className={classes.danda}>
+                        {toDandas(trimmedWord)}
+                        {trailingSpace}
+                      </span>
+                    );
+                  }
+                  // A bare number next to a danda is a verse reference (|| 1,1.1 ||), not a word
+                  const nextToDanda =
+                    (wordIndex > 0 && isDandaToken(words[wordIndex - 1].trim())) ||
+                    (wordIndex < words.length - 1 && isDandaToken(words[wordIndex + 1].trim()));
+                  if (nextToDanda && isVerseRefToken(trimmedWord)) {
+                    return (
+                      <span key={`${segmentIndex}-${wordIndex}`} className={classes.verseRef}>
+                        {trimmedWord}
+                        {trailingSpace}
+                      </span>
+                    );
+                  }
                   return (
                     <BookSpan
                       key={`${segmentIndex}-${wordIndex}`}
-                      wordText={word + (wordIndex < words.length - 1 ? ' ' : '')}
+                      wordText={word + trailingSpace}
                       wordKey={`${segmentIndex}-${wordIndex}`}
                       onClick={(e) => handleWordClick(e, trimmedWord)}
                     />
                   );
                 })}
-                {segmentIndex < segments.length - 1 && <span className={classes.pipeMark}>|</span>}
+                {needsLineDanda && <span className={classes.danda}>।</span>}
               </span>
               {segmentIndex < segments.length - 1 && <br />}
             </span>
@@ -450,11 +486,12 @@ const ClickableSimpleBooks = ({
     const hasTranslation = !!(element.translated_text && (textType === 'both' || textType === 'tran'));
     const WrapperTag = isBlock || hasTranslation ? 'div' : 'span';
     const TextTag = isBlock ? 'div' : 'span';
+    const ContainerTag = sectionHeading ? 'div' : 'span';
 
     return (
       <>
         {!isBlock && element.text && ' '}
-        <span
+        <ContainerTag
           className={`
             ${classes.paragraphContainer}
             ${elementClasses}
@@ -465,6 +502,11 @@ const ClickableSimpleBooks = ({
           ref={setSegmentRef}
           id={elementId}
         >
+        {sectionHeading && (
+          <h2 id={sectionHeading.elementId} className={`${classes.head} ${classes.sectionHeading}`}>
+            {sectionHeading.text}
+          </h2>
+        )}
         {element.text && (
           <WrapperTag
             className={`${classes.lineContainer} ${
@@ -478,7 +520,10 @@ const ClickableSimpleBooks = ({
             {(textType === 'both' || textType === 'or') && (
               <TextTag className={`${classes.originalText} ${!isBlock ? classes.originalTextInline : ''}`}>
                 {isTargetSegment || isMatchedSegment ? (
-                  <HighlightText text={element.text} query={query} />
+                  <HighlightText
+                    text={toDandas(normalizeOriginalText(element.text))}
+                    query={query}
+                  />
                 ) : (
                   renderWords(element.text)
                 )}
@@ -544,7 +589,7 @@ const ClickableSimpleBooks = ({
           }
           return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
         })}
-      </span>
+      </ContainerTag>
       {!isBlock && element.text && ' '}
       </>
     );

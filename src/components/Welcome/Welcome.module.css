@@ -36,10 +36,44 @@
   line-height: 1.55;
 }
 
-.bookPicker {
+.searchBox {
   width: 100%;
   max-width: 100%;
   padding-top: var(--mantine-spacing-xs);
+}
+
+.searchInput {
+  font-size: var(--mantine-font-size-sm);
+}
+
+/* Its max-height comes from the space left in the viewport */
+.dropdown {
+  overflow-y: auto;
+}
+
+.optionLabel {
+  flex: 1;
+  min-width: 0;
+}
+
+/* The row Enter submits: a step stronger than the hover shade */
+.option[data-default]:not([data-combobox-selected]) {
+  background-color: light-dark(var(--mantine-color-gray-1), var(--mantine-color-dark-8));
+}
+
+.enterHint {
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  box-shadow: 0 1px 3px light-dark(rgba(0, 0, 0, 0.12), rgba(0, 0, 0, 0.4));
+}
+
+/* Once a row is picked with the arrow keys, Enter submits that row instead */
+.dropdown:has([data-combobox-selected]) .option[data-default]:not([data-combobox-selected]) {
+  background-color: transparent;
+}
+
+.dropdown:has([data-combobox-selected]) .option:not([data-combobox-selected]) .enterHint {
+  visibility: hidden;
 }
 
 .suggestedText {

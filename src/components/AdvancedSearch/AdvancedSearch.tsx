@@ -250,7 +250,7 @@ function AdvancedSearch({
           classes={classes}
           setQuery={setQuery}
           currentInput={currentInput}
-          
+          initialQuery={query}
         />
 
         <Stack gap="xs">

@@ -1,6 +1,6 @@
 import { Text } from '@mantine/core';
-import BookSelect from '@/components/Navbar/BookSelect';
 import Logo from '@/utils/logo';
+import { WelcomeSearch } from './WelcomeSearch';
 import classes from './Welcome.module.css';
 
 const suggestedTexts = [
@@ -19,11 +19,11 @@ const suggestedTexts = [
 ];
 
 interface WelcomeProps {
-  bookTitle: string | null;
-  setBookTitle: (value: string | null) => void;
+  onLookupWord: (word: string) => void;
+  onSearchTexts: (query: string) => void;
 }
 
-export function Welcome({ bookTitle, setBookTitle }: WelcomeProps) {
+export function Welcome({ onLookupWord, onSearchTexts }: WelcomeProps) {
   return (
     <div className={classes.welcome}>
       <div className={classes.titleRow}>
@@ -34,17 +34,12 @@ export function Welcome({ bookTitle, setBookTitle }: WelcomeProps) {
       </div>
 
       <Text className={classes.description}>
-        Choose a book to begin reading and exploring. Now added the Digital Corpus of Sanskrit with translations. 
+        Search for a book to read, a word to look up, or a passage across all texts. Now added
+        the Digital Corpus of Sanskrit with translations.
       </Text>
 
-      <div className={classes.bookPicker}>
-        <BookSelect
-          setBookTitle={setBookTitle}
-          bookTitle={bookTitle}
-          label="Start reading"
-          description={null}
-          placeholder="Choose a text from GRETIL or SARIT"
-        />
+      <div className={classes.searchBox}>
+        <WelcomeSearch onLookupWord={onLookupWord} onSearchTexts={onSearchTexts} />
       </div>
 
       <Text className={classes.suggestedText}>

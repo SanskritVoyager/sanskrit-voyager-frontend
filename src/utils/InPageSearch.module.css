@@ -54,31 +54,15 @@
 
 
 
-/* Highlight styles that will be applied by the hook */
-:global(.search-highlight) {
-  background-color: light-dark(rgba(255, 235, 59, 0.3), rgba(255, 235, 59, 0.2)) !important;
-  color: inherit !important;
-  border-radius: 2px;
-  padding: 0 2px;
-  transition: background-color 0.2s ease;
+/* Matches painted by the hook through the CSS Custom Highlight API.
+   ::highlight() accepts only colour, background, text-decoration and text-shadow. */
+::highlight(search-highlight) {
+  background-color: light-dark(rgba(255, 235, 59, 0.3), rgba(255, 235, 59, 0.2));
 }
 
-:global(.search-highlight-current) {
-  background-color: light-dark(rgba(255, 152, 0, 0.4), rgba(255, 153, 0, 0.205)) !important;
+::highlight(search-highlight-current) {
+  background-color: light-dark(rgba(255, 152, 0, 0.4), rgba(255, 153, 0, 0.205));
 }
-
-/* Dark mode border for current highlight 
-border: 1px solid var(--mantine-color-palette-7);
-[data-mantine-color-scheme="dark"] :global(.search-highlight-current) {
-  
-  
-}
-
-/* Dark mode border for current highlight
-[data-mantine-color-scheme="dark"] :global(.search-highlight) {
-}
-
-*/
 
 
 

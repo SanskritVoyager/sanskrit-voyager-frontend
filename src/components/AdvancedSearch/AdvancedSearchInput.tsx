@@ -11,11 +11,20 @@ interface SearchInputProps {
   setQuery: (value: string) => void;
   currentInput: MutableRefObject<string | null>;
   autofocus?: boolean; // New prop to control auto-focus behavior
+  initialQuery?: string; // Query already searched when the modal opens
 }
 
 const SearchInputComponent = React.memo(
-  ({ handleSearch, isLoading, classes, setQuery, currentInput, autofocus }: SearchInputProps) => {
-    const [inputValue, setInputValue] = useState('');
+  ({
+    handleSearch,
+    isLoading,
+    classes,
+    setQuery,
+    currentInput,
+    autofocus,
+    initialQuery = '',
+  }: SearchInputProps) => {
+    const [inputValue, setInputValue] = useState(initialQuery);
 
     
 

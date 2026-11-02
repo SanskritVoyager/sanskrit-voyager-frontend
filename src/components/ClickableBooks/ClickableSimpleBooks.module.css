@@ -190,6 +190,19 @@ ol li::marker {
     text-underline-offset: 3px;
   }
 
+  /* Punctuation: dandas and verse references are shown but are not clickable */
+  .danda {
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
+    cursor: default;
+  }
+
+  .verseRef {
+    color: light-dark(var(--mantine-color-gray-6), var(--mantine-color-gray-5));
+    font-family: 'LinuxBiolinum', sans-serif;
+    font-size: 0.85em;
+    cursor: default;
+  }
+
 .label .translatedText {
   display: none;
 }
@@ -365,12 +378,19 @@ mark:hover {
   }
 }
 
-/* Specific division types (adjust 'type' values as needed) */
-.div.kanda, .div.adhyaya, .div.sarga, .div.chapter {
+/* Specific division types. The type attribute is lowercased before the class
+   lookup, so use the spelling found in the data (usually with diacritics). */
+.div.kāṇḍa, .div.kanda, .div.adhyāya, .div.adhyaya, .div.sarga, .div.chapter {
   margin-top: 2.5rem;
   margin-bottom: 1.5rem;
   padding-top: 1rem;
   border-top: 2px solid light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-4));
+}
+
+/* Sub-sections nested inside a chapter-level division */
+.div.brāhmaṇa, .div.pāda, .div.section, .div.subchapter {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 .head {
@@ -389,6 +409,42 @@ mark:hover {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   text-align: left;
+}
+
+/* Generated from div display metadata, outside the original/translation toggles.
+   The text sits directly in the h2, so the padding stands in for the 0.5rem
+   margins that .originalText gives a regular head. */
+.sectionHeading {
+  font-weight: 500;
+  padding: 0.5rem 0;
+  scroll-margin-top: 6rem;
+}
+
+/* Heading hierarchy: a head is a subsection only when the division above it
+   has a head of its own (Adhyāya > Brāhmaṇa). Under a bare wrapper div it is
+   the top-level heading and keeps the centred .head style. */
+.div:has(> .head) > .div > .head {
+  font-size: 1.15em;
+  text-align: left;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.35rem;
+  letter-spacing: 0.02em;
+  color: light-dark(var(--mantine-color-dark-5), var(--mantine-color-gray-4));
+  border-bottom: 1px solid light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-5));
+}
+
+.div:has(> .head) > .div:has(> .head) > .div > .head {
+  font-size: 1em;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: none;
+}
+
+/* Same gap between text and rule as a regular subsection head (0.5rem + 0.35rem) */
+.div:has(> .head) > .div > .sectionHeading {
+  padding-bottom: 0.85rem;
 }
 
 .trailer { /* Colophons */
@@ -834,7 +890,8 @@ mark:hover {
   }
 }
 
-.OpeningTitle {
+.OpeningTitle, .opener {
+  display: block;
   text-align: center;
   font-weight: 500;
   font-size: 1.1rem;
@@ -846,7 +903,7 @@ mark:hover {
 
 }
 
-.OpeningTitle .translatedText {
+.OpeningTitle .translatedText, .opener .translatedText {
   font-style: italic;
   font-size: 0.95rem;
   margin-left: 0; /* Center it */
