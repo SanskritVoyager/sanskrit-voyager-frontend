@@ -1,32 +1,35 @@
-import React from 'react';
+import React, { MutableRefObject, useEffect, useState } from 'react';
 import { TextInput, Loader, ActionIcon } from '@mantine/core';
 import { IconSearch } from '@tabler/icons-react';
-import { useState, MutableRefObject } from 'react';
-import { useRef, useEffect } from 'react'; 
 
 interface SearchInputProps {
-  handleSearch: (newQuery: string) => void;
+  /** Runs a search for the typed text (Enter or the search icon) */
+  onSubmit: (query: string) => void;
   isLoading: boolean;
   classes: any;
-  setQuery: (value: string) => void;
+  /** The latest typed text, for the Search button rendered by the parent */
   currentInput: MutableRefObject<string | null>;
-  autofocus?: boolean; // New prop to control auto-focus behavior
-  initialQuery?: string; // Query already searched when the modal opens
+  autofocus?: boolean;
+  /** The query already searched (from the URL); shown until the user types */
+  initialQuery?: string;
 }
 
 const SearchInputComponent = React.memo(
   ({
-    handleSearch,
+    onSubmit,
     isLoading,
     classes,
-    setQuery,
     currentInput,
     autofocus,
     initialQuery = '',
   }: SearchInputProps) => {
     const [inputValue, setInputValue] = useState(initialQuery);
 
-    
+    // Back/forward or a shared link can change the query under the panel
+    useEffect(() => {
+      setInputValue(initialQuery);
+      currentInput.current = initialQuery;
+    }, [initialQuery]);
 
     return (
       <TextInput
@@ -35,17 +38,15 @@ const SearchInputComponent = React.memo(
         value={inputValue}
         autoCapitalize="off"
         autoCorrect="off"
-        autoFocus
+        autoFocus={autofocus}
         spellCheck={false}
         onChange={(event) => {
-          const value = event.currentTarget.value;
+          const { value } = event.currentTarget;
           setInputValue(value);
           currentInput.current = value;
         }}
         onKeyDown={(event) => {
-          if (event.key === 'Enter') {
-            setQuery(inputValue);
-          }
+          if (event.key === 'Enter') onSubmit(inputValue);
         }}
         className={classes.control}
         classNames={{ input: classes.mainSearchInput }}
@@ -55,7 +56,7 @@ const SearchInputComponent = React.memo(
             <Loader type="dots" size="xs" color="rgba(191, 191, 191, 1)" />
           ) : (
             <ActionIcon
-              onClick={() => setQuery(inputValue)}
+              onClick={() => onSubmit(inputValue)}
               variant="subtle"
               color="gray"
               aria-label="Search"
@@ -64,7 +65,7 @@ const SearchInputComponent = React.memo(
             </ActionIcon>
           )
         }
-        rightSectionWidth={42} // Ensure enough space for the button
+        rightSectionWidth={42}
       />
     );
   }

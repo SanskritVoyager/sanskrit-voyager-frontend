@@ -537,3 +537,28 @@
   gap: 0 !important;
   height: 100%;
 }
+
+/* ----- Search panel ----- */
+
+/* The reader slides in beside the panel when a hit opens a text */
+@keyframes textColumnEnter {
+  from {
+    opacity: 0;
+    transform: translateX(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.textDisplay {
+  animation: textColumnEnter 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Search / Dictionary switch at the top of the panel; narrower than the
+   column so it clears the floating collapse chevron */
+.panelTabs {
+  margin-bottom: 0.75rem;
+  max-width: 280px;
+}

@@ -13,7 +13,7 @@ import {
   Skeleton,
   useMantineTheme,
   Transition,
-  Modal,
+  SegmentedControl,
  FileInput, ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
 import {
   useDisclosure,
@@ -93,7 +93,10 @@ export function HomePage() {
   const [isWordInfoVisible, setIsWordInfoVisible] = useState(false);
   const [displayInflectionTables, setDisplayInflectionTables] = useState(false);
   const [isLoadingWordData, setIsLoadingWordData] = useState(false);
-  const [isAdvancedSearchVisible, handleAdvancedSearch] = useDisclosure(false);
+  // The corpus search panel: open state here, content in the side panel below
+  const isSearchRoute = location.pathname === '/search';
+  const [isAdvancedSearchVisible, searchDisclosure] = useDisclosure(isSearchRoute);
+  const [panelTab, setPanelTab] = useState<'search' | 'dictionary'>('search');
   // Start the navbar closed when the app is opened directly via a deep link
   // (a /book or /text URL carries a :slug) on mobile, where the navbar fills
   // the screen (100vw) and would otherwise cover the text. matchMedia is read
@@ -139,10 +142,52 @@ export function HomePage() {
   const [targetSegmentNumber, setTargetSegmentNumber] = useState<number | null>(null);
   const [query, setQuery] = useState<string>('');
   const [matchedBookSegments, setMatchedBookSegments] = useState<number[]>([]);
+  // The hit open in the reader and the key of the search the results answer
+  const [currentHitId, setCurrentHitId] = useState<string | null>(null);
+  const [searchedKey, setSearchedKey] = useState('');
 
   const isWordInfoHalf = text !== '' || bookTitle !== null;
   const showWelcomeState =
     text.trim() === '' && bookTitle === null && selectedWord.trim() === '' && wordData.length === 0;
+
+  // ----- Search panel -----
+  // Search lives in the side panel next to the reader, full width while no
+  // text is open. `/search` is its route when nothing is open; with a text
+  // open the path stays on the text and `?q=` carries the query.
+  const hasDictionaryContent = selectedWord !== '' || wordData.length > 0;
+  const withoutQuery = (search: string) => {
+    const params = new URLSearchParams(search);
+    params.delete('q');
+    const rest = params.toString();
+    return rest ? `?${rest}` : '';
+  };
+  const openSearchPanel = () => {
+    searchDisclosure.open();
+    setPanelTab('search');
+    setIsWordInfoVisible(true);
+    if (!isWordInfoHalf && !isSearchRoute) {
+      navigate({ pathname: '/search', search: location.search });
+    }
+  };
+  const closeSearchPanel = () => {
+    searchDisclosure.close();
+    setQuery('');
+    setAdvancedSearchResults(null);
+    setMatchedBookSegments([]);
+    setCurrentHitId(null);
+    setSearchedKey('');
+    if (!hasDictionaryContent) setIsWordInfoVisible(false);
+    if (isSearchRoute) navigate({ pathname: '/', search: withoutQuery(location.search) });
+  };
+  // Ctrl+S and the header icon bring the search to the front, or close it
+  // when it is already there
+  const isSearchInFront =
+    isAdvancedSearchVisible && panelTab === 'search' && (isWordInfoVisible || !isWordInfoHalf);
+  const handleAdvancedSearch = {
+    open: openSearchPanel,
+    close: closeSearchPanel,
+    toggle: () => (isSearchInFront ? closeSearchPanel() : openSearchPanel()),
+  };
 
   // OLD const breakpoints = [50, 450, 600, 800];
 
@@ -157,7 +202,7 @@ export function HomePage() {
     if (clickedAdditionalWord) {
       let element = document.querySelector(`h1[data-word="${clickedAdditionalWord}"]`);
       setIsWordInfoVisible(true);
-      handleAdvancedSearch.close();
+      setPanelTab('dictionary');
 
       if (!element) {
         const allH1s = document.querySelectorAll('h1');
@@ -213,7 +258,7 @@ export function HomePage() {
         .then((data) => {
           setWordData(data);
           setIsLoadingWordData(false);
-          handleAdvancedSearch.close();
+          setPanelTab('dictionary');
         })
         .catch(() => {
           setIsLoadingWordData(false);
@@ -300,7 +345,15 @@ export function HomePage() {
   // so the toSlug-match guard below avoids clobbering it. Cold-loads of /text/
   // URLs use the slug as-is and rely on backend tolerance.
   useEffect(() => {
-    if (!slug) return;
+    if (!slug) {
+      // Back from a hit to /search: the search is full width again
+      if (isSearchRoute && bookTitle !== null) {
+        setBookTitle(null);
+        setBookText({});
+        setActiveComponent(null);
+      }
+      return;
+    }
     let cancelled = false;
     if (isTextRoute) {
       if (!bookTitle || toSlug(bookTitle) !== slug) setBookTitle(slug);
@@ -363,6 +416,34 @@ export function HomePage() {
     if (next.toString() !== searchParams.toString()) setSearchParams(next);
   }, [selectedWord, selectedDictionaries]);
 
+  // ----- Corpus search ↔ URL sync -----
+  // Effect: URL ?q → search query. A query in the URL opens the panel, so a
+  // shared /text/...?q= link lands with the results beside the text.
+  useEffect(() => {
+    const q = searchParams.get('q') ?? '';
+    if (q === query) return;
+    setQuery(q);
+    if (q) {
+      searchDisclosure.open();
+      setPanelTab('search');
+      setIsWordInfoVisible(true);
+    }
+  }, [searchParams]);
+
+  // Effect: search query → URL ?q. Skips the first run, like the dictionary
+  // sync above, so an incoming URL is not wiped before the query lands.
+  const skipSearchUrlWrite = useRef(true);
+  useEffect(() => {
+    if (skipSearchUrlWrite.current) {
+      skipSearchUrlWrite.current = false;
+      return;
+    }
+    const next = new URLSearchParams(searchParams);
+    if (query) next.set('q', query);
+    else next.delete('q');
+    if (next.toString() !== searchParams.toString()) setSearchParams(next);
+  }, [query]);
+
   // Function to fetch a book from the API
   const fetchBookFromApi = async (title: string) => {
     try {
@@ -410,6 +491,81 @@ export function HomePage() {
   });
 
   const shouldShowHeader = isNavbarVisible || headerIsPinned || !isMobile;
+
+  // ----- Side panel content -----
+  // The panel shows the corpus search or the dictionary. Both can be live at
+  // once (a word clicked while results are open); tabs then switch between them.
+  const showSearchInPanel = isAdvancedSearchVisible && panelTab === 'search';
+  const showPanelTabs = isAdvancedSearchVisible && hasDictionaryContent;
+
+  const wordDataPanel = isLoadingWordData ? (
+    <LoadingSkeleton />
+  ) : (
+    <WordDataComponent
+      wordData={wordData}
+      setWordData={setWordData}
+      selectedDictionaries={selectedDictionaries}
+      isMobile={isMobile}
+      isTablet={isTablet}
+      isNavabarVisible={isNavbarVisible}
+      setDisplayInflectionTables={setDisplayInflectionTables}
+      displayInflectionTables={displayInflectionTables}
+    />
+  );
+
+  const renderPanelContent = () => (
+    <>
+      {showPanelTabs && (
+        <SegmentedControl
+          className={classes.panelTabs}
+          value={panelTab}
+          onChange={(tab) => setPanelTab(tab as 'search' | 'dictionary')}
+          data={[
+            { label: 'Search', value: 'search' },
+            { label: 'Dictionary', value: 'dictionary' },
+          ]}
+          size="xs"
+        />
+      )}
+      {showSearchInPanel ? (
+        <AdvancedSearch
+          advancedSearchResults={advancedSearchResults}
+          setAdvancedSearchResults={setAdvancedSearchResults}
+          isMobile={isMobile}
+          compact={isWordInfoHalf}
+          openTitle={bookTitle}
+          query={query}
+          setQuery={setQuery}
+          searchedKey={searchedKey}
+          setSearchedKey={setSearchedKey}
+          currentHitId={currentHitId}
+          setCurrentHitId={setCurrentHitId}
+          onSearch={() => {}}
+          setTargetSegmentNumber={setTargetSegmentNumber}
+          onOpenText={(textId, title, segmentNumber) => {
+            // bookTitle gets the original (diacritics preserved) for the API;
+            // the URL gets the ASCII slug. ?q= (and any dictionary lookup) is
+            // kept so the panel survives the move.
+            setBookTitle(title);
+            const path = `/text/${toSlug(title)}` + (segmentNumber ? `/${segmentNumber}` : '');
+            navigate({ pathname: path, search: location.search });
+          }}
+          matchedBookSegments={matchedBookSegments}
+          setMatchedBookSegments={setMatchedBookSegments}
+          setIsNavbarVisible={setIsNavbarVisible}
+        />
+      ) : showWelcomeState ? (
+        <Welcome
+          onLookupWord={setSelectedWord}
+          onSearchTexts={(searchQuery) =>
+            navigate({ pathname: '/search', search: `?q=${encodeURIComponent(searchQuery)}` })
+          }
+        />
+      ) : (
+        wordDataPanel
+      )}
+    </>
+  );
 
   // now the main page
   // mainContainer wrapping everything
@@ -647,22 +803,7 @@ export function HomePage() {
                     breakpoints={breakpoints}
                     initialBreakpointIndex={1}
                   >
-                    <div className={classes.scrollContainer}>
-                      {isLoadingWordData ? (
-                        <LoadingSkeleton />
-                      ) : (
-                        <WordDataComponent
-                          wordData={wordData}
-                          setWordData={setWordData}
-                          selectedDictionaries={selectedDictionaries}
-                          isMobile={isMobile}
-                          isTablet={isTablet}
-                          isNavabarVisible={isNavbarVisible}
-                          setDisplayInflectionTables={setDisplayInflectionTables}
-                          displayInflectionTables={displayInflectionTables}
-                        />
-                      )}
-                    </div>
+                    <div className={classes.scrollContainer}>{renderPanelContent()}</div>
                   </ResizablePanel>
                 ) : (
                   <Grid.Col
@@ -773,29 +914,7 @@ export function HomePage() {
                         paddingTop: isWordInfoHalf ? 'calc(56px - 28px)' : undefined,
                       }}
                     >
-                      {showWelcomeState ? (
-                        <Welcome
-                          onLookupWord={setSelectedWord}
-                          onSearchTexts={(searchQuery) => {
-                            // AdvancedSearch mounts with the modal and runs a non-empty query
-                            setQuery(searchQuery);
-                            handleAdvancedSearch.open();
-                          }}
-                        />
-                      ) : isLoadingWordData ? (
-                        <LoadingSkeleton />
-                      ) : (
-                        <WordDataComponent
-                          wordData={wordData}
-                          setWordData={setWordData}
-                          selectedDictionaries={selectedDictionaries}
-                          isMobile={isMobile}
-                          isTablet={isTablet}
-                          isNavabarVisible={isNavbarVisible}
-                          setDisplayInflectionTables={setDisplayInflectionTables}
-                          displayInflectionTables={displayInflectionTables}
-                        />
-                      )}
+                      {renderPanelContent()}
                     </div>
                   </Grid.Col>
                 )}
@@ -804,48 +923,6 @@ export function HomePage() {
           </Transition>
         </Grid>
       </div>
-      {/* Add the modal at the end of your component, before the Analytics tag */}
-      <Modal
-        className={classes.advancedSearchModal}
-        opened={isAdvancedSearchVisible}
-        onClose={handleAdvancedSearch.close}
-        size="xl"
-        fullScreen={isMobile} // Add fullScreen prop for mobile
-        centered
-        classNames={{
-          header: classes.modalHeader,
-          title: classes.modalTitle,
-          close: classes.modalClose,
-          body: classes.modalBody,
-        }}
-        trapFocus={false}
-      >
-        <AdvancedSearch
-          advancedSearchResults={advancedSearchResults}
-          setAdvancedSearchResults={setAdvancedSearchResults}
-          isMobile={isMobile}
-          query={query}
-          setQuery={setQuery}
-          onSearch={(params) => {
-            // console.log('Advanced search params:', params);
-          }}
-          setTargetSegmentNumber={setTargetSegmentNumber}
-          onOpenText={(textId, bookTitle, segmentNumber) => {
-            // Set bookTitle directly with the original (diacritics preserved) so
-            // the API call uses what the backend expects. The URL gets the ASCII
-            // slug only for cosmetics/sharing; the URL effect's slug-match guard
-            // prevents it from overwriting bookTitle back to the slug.
-            setBookTitle(bookTitle);
-            const path = `/text/${toSlug(bookTitle)}` + (segmentNumber ? `/${segmentNumber}` : '');
-            navigate(path);
-          }}
-          matchedBookSegments={matchedBookSegments}
-          setMatchedBookSegments={setMatchedBookSegments}
-          handleAdvancedSearch={handleAdvancedSearch}
-          setIsNavbarVisible={setIsNavbarVisible}
-        />
-      </Modal>
-
       <Analytics />
     </div>
   );

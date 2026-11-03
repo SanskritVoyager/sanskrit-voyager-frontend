@@ -3,6 +3,7 @@ import { HomePage } from './pages/Home.page';
 
 const router = createBrowserRouter([
   { path: '/', element: <HomePage /> },
+  { path: '/search', element: <HomePage /> },
   { path: '/book/:slug', element: <HomePage /> },
   { path: '/book/:slug/:segment', element: <HomePage /> },
   { path: '/text/:slug', element: <HomePage /> },
