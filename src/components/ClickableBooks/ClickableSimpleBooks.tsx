@@ -11,7 +11,7 @@ import {
   isDandaToken,
   isVerseRefToken,
 } from './textUtils';
-import HighlightText from '../../utils/HighlightText';
+import { findMatchRanges } from '../../utils/searchMatcher';
 import { Accordion } from '@mantine/core';
 import { useThrottledCallback, useThrottledState } from '@mantine/hooks';
 import ScrollMarkers from './ClickableSimpleMarkers';
@@ -20,6 +20,537 @@ import BookIndex from './BookIndex';
 import { BookSectionHeading } from './BookSectionHeading';
 import { InPageSearch } from '@/utils/InPageSearchComponent';
 import { useInPageSearch } from '@/utils/InPageSearchHook';
+
+const blockTags = new Set([
+  'div', 'lg', 'l', 'p', 'head', 'pb', 'milestone', 'ab',
+  'ChapterTitle', 'Subchapter', 'OpeningTitle', 'opener',
+  'Sutra', 'Commentary', 'LeadingBhashya', 'IntroBhashya', 'Vyakhya',
+  'quote', 'trailer', 'homage', 'colophon',
+  'table', 'row', 'list', 'item',
+  'sp', 'epigraph',
+]);
+
+const extractXmlId = (attrs?: Record<string, any>): string | undefined => {
+  if (!attrs) return;
+  const key = Object.keys(attrs).find(k => /(^id$|}id$)/.test(k));
+  const val = key ? attrs[key] : undefined;
+  return typeof val === 'string' ? val.trim() : undefined;
+};
+
+const formatLabelId = (raw?: string): string | undefined =>
+  raw ? raw.replace(/_/g, ' ') : raw;
+
+const isEmptyLabelledLg = (el: TextElement): string | undefined => {
+  if (el.tag !== 'lg') return;
+  const rawId = extractXmlId(el.attributes);
+  if (!rawId) return;
+  const hasNoText = !el.text || !el.text.trim();
+  const hasNoChildren = !el.children || el.children.length === 0;
+  return hasNoText && hasNoChildren ? rawId : undefined;
+};
+
+/** A text element with its footnote number assigned once per book, in render order */
+type NumberedElement = Omit<TextElement, 'children'> & {
+  noteNumber?: number;
+  children?: NumberedElement[];
+};
+
+const annotateNotes = (elements: TextElement[]): NumberedElement[] => {
+  let count = 0;
+  const walk = (list: TextElement[]): NumberedElement[] =>
+    list.map((element) => {
+      const copy: NumberedElement = { ...element, children: undefined };
+      if (element.tag === 'note') {
+        count += 1;
+        copy.noteNumber = count;
+      }
+      if (element.children) copy.children = walk(element.children);
+      return copy;
+    });
+  return walk(elements);
+};
+
+const segmentNumberOf = (element: TextElement): number | null => {
+  if (element.segment_number !== undefined) return element.segment_number;
+  if (element.attributes?.id) {
+    return parseInt(element.attributes.id.replace('segment-', ''), 10) || null;
+  }
+  return null;
+};
+
+/** Every segment number inside an element, so a segment can tell whether a change concerns it */
+const collectSegmentNumbers = (element: TextElement, into: number[] = []): number[] => {
+  const number = segmentNumberOf(element);
+  if (number !== null) into.push(number);
+  element.children?.forEach((child) => collectSegmentNumbers(child, into));
+  return into;
+};
+
+const isMarked = (word: string, query: string) =>
+  query !== '' && findMatchRanges(word, query, { separateWords: true }).length > 0;
+
+/** Plain text with the query's words wrapped in <mark>, as the search results show them */
+const markMatches = (text: string, query: string): React.ReactNode => {
+  if (!query) return text;
+  const ranges = findMatchRanges(text, query, { separateWords: true });
+  if (!ranges.length) return text;
+  const pieces: React.ReactNode[] = [];
+  let cursor = 0;
+  ranges.forEach(([start, end]) => {
+    if (start > cursor) pieces.push(text.slice(cursor, start));
+    pieces.push(<mark key={start}>{text.slice(start, end)}</mark>);
+    cursor = end;
+  });
+  if (cursor < text.length) pieces.push(text.slice(cursor));
+  return pieces;
+};
+
+/** A top-level element of the body, with the label an empty <lg> before it may carry */
+interface BookItem {
+  key: number;
+  element: NumberedElement;
+  labelId?: string;
+  labelSegmentNumber: number | null;
+  segments: number[];
+}
+
+const buildItems = (body: NumberedElement[]): BookItem[] => {
+  const items: BookItem[] = [];
+  for (let i = 0; i < body.length; i += 1) {
+    const element = body[i];
+    const labelId = isEmptyLabelledLg(element);
+    const next = body[i + 1];
+    if (labelId && next) {
+      // Empty <lg> carrying only a label: the next sibling becomes the labelled
+      // content so the label aligns to that block's first line
+      const labelSegmentNumber = element.segment_number ?? null;
+      const segments = collectSegmentNumbers(next);
+      if (labelSegmentNumber !== null) segments.push(labelSegmentNumber);
+      items.push({ key: i, element: next, labelId, labelSegmentNumber, segments });
+      i += 1; // consumed `next`
+    } else {
+      items.push({
+        key: i,
+        element,
+        labelSegmentNumber: null,
+        segments: collectSegmentNumbers(element),
+      });
+    }
+  }
+  return items;
+};
+
+interface BookSegmentProps {
+  element: NumberedElement;
+  labelId?: string;
+  labelSegmentNumber: number | null;
+  textType: string;
+  /** The target segment, or null when it is not inside this element */
+  targetSegmentNumber: number | null;
+  /** Matched segment numbers inside this element, joined with commas (stable for memo) */
+  matchedKey: string;
+  /** The search query to mark, or '' when nothing inside is target or matched */
+  highlightQuery: string;
+  chapterIds: Map<string, string>;
+  segmentRefs: React.MutableRefObject<Map<number, HTMLDivElement>>;
+  handleWordClick: (e: React.MouseEvent<HTMLElement>, word: string) => void;
+}
+
+// One top-level element of the text. Memoized, so a change of target, matched
+// segments or query re-renders only the segments it concerns rather than the
+// whole text.
+const BookSegment = React.memo(function BookSegment({
+  element,
+  labelId,
+  labelSegmentNumber,
+  textType,
+  targetSegmentNumber,
+  matchedKey,
+  highlightQuery,
+  chapterIds,
+  segmentRefs,
+  handleWordClick,
+}: BookSegmentProps) {
+  const matchedSegments = React.useMemo(
+    () => new Set(matchedKey ? matchedKey.split(',').map(Number) : []),
+    [matchedKey]
+  );
+
+  const renderTextElement = (element: NumberedElement): React.ReactNode => {
+    const isBlock = blockTags.has(element.tag);
+    const sectionHeading = BookSectionHeading.fromElement(element);
+
+    const elementClasses = [
+      classes[element.tag] || '',
+      element.attributes?.rend === 'bold' ? classes.bold : '',
+      element.attributes?.rend === 'it' ? classes.italic : '',
+      // Types vary in case across sources (Adhyāya / adhyāya), so match CSS on the lowercase form
+      element.attributes?.type ? classes[element.attributes.type.toLowerCase()] : '',
+    ]
+      .filter(Boolean)
+      .join(' ');
+
+    const segmentNumber = element.segment_number !== undefined ? element.segment_number :
+                    (element.attributes?.id ?
+                      (parseInt(element.attributes.id.replace('segment-', '')) || null) :
+                      null);
+
+    const isTargetSegment =
+      segmentNumber !== null &&
+      segmentNumber !== undefined &&
+      segmentNumber === targetSegmentNumber;
+
+    const isMatchedSegment =
+      segmentNumber !== null &&
+      segmentNumber !== undefined &&
+      matchedSegments.has(segmentNumber);
+
+    const setSegmentRef = (el: HTMLDivElement | null) => {
+      if (el && segmentNumber !== null && segmentNumber !== undefined) {
+        segmentRefs.current.set(segmentNumber, el);
+      }
+    };
+
+    const isSeparatorOnlyLine = (text: string) => {
+      const trimmed = text.trim();
+      return trimmed === '||' || trimmed === '//' || trimmed === '*||*' || trimmed === '*//*';
+    };
+
+    // Words of a target or matched segment carry <mark> where they match the query
+    const wordHighlight = isTargetSegment || isMatchedSegment ? highlightQuery : '';
+
+    const renderWords = (text: string, isTranslation: boolean = false) => {
+      if (!text || isSeparatorOnlyLine(text)) {
+        return null;
+      }
+      const transformedText = isTranslation ? text : normalizeOriginalText(text);
+
+      const segments = safeSplitText(transformedText);
+
+      return segments.map((segment, segmentIndex) => {
+        if (isTranslation) {
+          const parts = segment.split(/(<s>.*?<\/s>)/);
+          return (
+            <span key={segmentIndex} className={classes.textSegment}>
+              <span className={classes.textContent}>
+                {parts.map((part, partIndex) => {
+                  if (part.startsWith('<s>') && part.endsWith('</s>')) {
+                    const sanskritWordRaw = part.replace(/<\/?s>/g, '').trim();
+                    const sanskritWordProcessed = sanskritWordRaw.toLowerCase();
+                    return (
+                      <BookSpan
+                        key={`${segmentIndex}-${partIndex}`}
+                        wordText={sanskritWordRaw + ' '}
+                        wordKey={`${segmentIndex}-${partIndex}`}
+                        isSanskrit={true}
+                        highlight={isMarked(sanskritWordRaw, wordHighlight)}
+                        onClick={(e) => handleWordClick(e, sanskritWordProcessed)}
+                      />
+                    );
+                  }
+                  return <span key={`${segmentIndex}-${partIndex}`}>{markMatches(part, wordHighlight)}</span>;
+                })}
+                {segmentIndex < segments.length - 1 && <span className={classes.pipeMark}>|</span>}
+              </span>
+              {segmentIndex < segments.length - 1 && <br />}
+            </span>
+          );
+        } else {
+          const words = segment.match(/\|\||\||\+|[^\s+|]+/g) || [];
+          const lastWord = words.length > 0 ? words[words.length - 1].trim() : '';
+          // A line break inside the text gets a danda, unless the line already ends with one
+          const needsLineDanda = segmentIndex < segments.length - 1 && !isDandaToken(lastWord);
+          return (
+            <span key={segmentIndex} className={classes.textSegment}>
+              <span className={classes.textContent}>
+                {words.map((word: string, wordIndex: number) => {
+                  const trimmedWord = word.trim();
+                  if (!trimmedWord) return null;
+                  const trailingSpace = wordIndex < words.length - 1 ? ' ' : '';
+                  // Dandas are punctuation: rendered, but not clickable
+                  if (isDandaToken(trimmedWord)) {
+                    return (
+                      <span key={`${segmentIndex}-${wordIndex}`} className={classes.danda}>
+                        {toDandas(trimmedWord)}
+                        {trailingSpace}
+                      </span>
+                    );
+                  }
+                  // A bare number next to a danda is a verse reference (|| 1,1.1 ||), not a word
+                  const nextToDanda =
+                    (wordIndex > 0 && isDandaToken(words[wordIndex - 1].trim())) ||
+                    (wordIndex < words.length - 1 && isDandaToken(words[wordIndex + 1].trim()));
+                  if (nextToDanda && isVerseRefToken(trimmedWord)) {
+                    return (
+                      <span key={`${segmentIndex}-${wordIndex}`} className={classes.verseRef}>
+                        {trimmedWord}
+                        {trailingSpace}
+                      </span>
+                    );
+                  }
+                  return (
+                    <BookSpan
+                      key={`${segmentIndex}-${wordIndex}`}
+                      wordText={word + trailingSpace}
+                      wordKey={`${segmentIndex}-${wordIndex}`}
+                      highlight={isMarked(trimmedWord, wordHighlight)}
+                      onClick={(e) => handleWordClick(e, trimmedWord)}
+                    />
+                  );
+                })}
+                {needsLineDanda && <span className={classes.danda}>।</span>}
+              </span>
+              {segmentIndex < segments.length - 1 && <br />}
+            </span>
+          );
+        }
+      });
+    };
+
+    if (element.tag === 'lg') {
+      const rawId = extractXmlId(element.attributes);
+      if (rawId) {
+        const labelText = formatLabelId(rawId);
+        return (
+          <div
+            className={`
+              ${classes.paragraphContainer}
+              ${classes.lg}
+              ${classes.labeledLg}
+              ${isTargetSegment ? classes.highlightedSegment : ''}
+              ${isMatchedSegment ? classes.matchedSegment : ''}
+            `}
+            data-segment-number={segmentNumber}
+            ref={setSegmentRef}
+            id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
+          >
+            <div className={classes.label}>{labelText}</div>
+            {element.children?.map((child, childIndex) => (
+              <React.Fragment key={`lg-label-child-${childIndex}`}>
+                {renderTextElement(child)}
+              </React.Fragment>
+            ))}
+          </div>
+        );
+      }
+    }
+
+    if (element.tag === 'note') {
+      const noteContent = element.text || '';
+      const noteNumber = element.noteNumber ?? 0;
+      const noteId = `note-${noteNumber}`;
+      return (
+        <Accordion
+          variant="default"
+          radius="md"
+          className={classes.noteAccordion}
+          classNames={{
+            root: classes.noteAccordionRoot,
+            panel: classes.noteAccordionPanel,
+            item: classes.noteAccordionItem,
+            control: classes.noteAccordionControl,
+          }}
+        >
+          <Accordion.Item value={noteId}>
+            <Accordion.Control className={classes.noteAccordionControl}>
+              <span className={classes.noteNumber}>{noteNumber}</span>
+            </Accordion.Control>
+            <Accordion.Panel className={classes.noteAccordionPanel}>
+              {noteContent && renderWords(noteContent)}
+              {element.children?.map((noteChild, noteChildIndex) => (
+                <React.Fragment key={`note-child-${noteChildIndex}`}>
+                  {renderTextElement(noteChild)}
+                </React.Fragment>
+              ))}
+            </Accordion.Panel>
+          </Accordion.Item>
+        </Accordion>
+      );
+    }
+
+    if (element.tag === 'pb' || element.tag === 'milestone') {
+      let pageText = '';
+      const attributes = element.attributes || {};
+
+      if (element.tag === 'pb') {
+        let base = '--- Page';
+        if (attributes.n) {
+          base += ` ${attributes.n}`;
+        }
+        if (attributes.ed) {
+          base += ` (${attributes.ed})`;
+        }
+        pageText = `${base} ---`;
+      } else if (element.tag === 'milestone') {
+        const unit = attributes.unit || 'Milestone';
+        let n_val = attributes.n || '';
+        pageText = `--- ${unit}${n_val ? ' ' + n_val : ''} ---`;
+      }
+
+      return (
+        <div
+          className={`
+            ${classes.paragraphContainer}
+            ${classes.pageBreak}
+            ${elementClasses}
+          `}
+          data-segment-number={segmentNumber}
+          ref={setSegmentRef}
+          id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
+          onClick={() => {
+            // console.log('Clicked page/milestone:', attributes.n, attributes.ed, attributes.unit);
+          }}
+        >
+          <div className={classes.pageBreakTextContainer}>{pageText}</div>
+          {element.children?.map((child, index) => {
+            const childWithType = {
+              ...child,
+              attributes: {
+                ...child.attributes,
+                type: child.attributes?.type || element.attributes?.type,
+              },
+            };
+            return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
+          })}
+        </div>
+      );
+    }
+
+    let elementId: string | undefined;
+    if ((element.tag === 'ChapterTitle' || element.tag === 'head') && element.text) {
+      elementId = chapterIds.get(element.text);
+    } else {
+      elementId = segmentNumber !== null ? `segment-${segmentNumber}` : undefined;
+    }
+
+    const hasTranslation = !!(element.translated_text && (textType === 'both' || textType === 'tran'));
+    const WrapperTag = isBlock || hasTranslation ? 'div' : 'span';
+    const TextTag = isBlock ? 'div' : 'span';
+    const ContainerTag = sectionHeading ? 'div' : 'span';
+
+    return (
+      <>
+        {!isBlock && element.text && ' '}
+        <ContainerTag
+          className={`
+            ${classes.paragraphContainer}
+            ${elementClasses}
+            ${isTargetSegment ? classes.highlightedSegment : ''}
+            ${isMatchedSegment ? classes.matchedSegment : ''}
+            `}
+          data-segment-number={segmentNumber}
+          ref={setSegmentRef}
+          id={elementId}
+        >
+        {sectionHeading && (
+          <h2 id={sectionHeading.elementId} className={`${classes.head} ${classes.sectionHeading}`}>
+            {sectionHeading.text}
+          </h2>
+        )}
+        {element.text && (
+          <WrapperTag
+            className={`${classes.lineContainer} ${
+              textType === 'or'
+                ? classes.originalOnly
+                : textType === 'tran'
+                  ? classes.translationOnly
+                  : ''
+            }`}
+          >
+            {(textType === 'both' || textType === 'or') && (
+              <TextTag className={`${classes.originalText} ${!isBlock ? classes.originalTextInline : ''}`}>
+                {renderWords(element.text)}
+              </TextTag>
+            )}
+
+            {hasTranslation && (
+              <div
+                className={`${classes.translatedText} ${
+                  textType === 'tran' ? classes.translationOnly : ''
+                }`}
+              >
+                {renderWords(element.translated_text!, true)}
+              </div>
+            )}
+          </WrapperTag>
+        )}
+
+        {element.children?.map((child, index) => {
+          const childWithType = {
+            ...child,
+            attributes: {
+              ...child.attributes,
+              type: child.attributes?.type || element.attributes?.type,
+            },
+          };
+          if (child.tag === 'note') {
+            const noteContent = childWithType.text || '';
+            const noteNumber = childWithType.noteNumber ?? 0;
+            const noteId = `note-${noteNumber}`;
+            return (
+              <Accordion
+                variant="default"
+                radius="md"
+                className={classes.noteAccordion}
+                key={noteId}
+                classNames={{
+                  root: classes.noteAccordionRoot,
+                  panel: classes.noteAccordionPanel,
+                  item: classes.noteAccordionItem,
+                  control: classes.noteAccordionControl,
+                }}
+              >
+                <Accordion.Item value={noteId}>
+                  <Accordion.Control className={classes.noteAccordionControl}>
+                    <span className={classes.noteNumber}>{noteNumber}</span>
+                  </Accordion.Control>
+                  <Accordion.Panel className={classes.noteAccordionPanel}>
+                    {noteContent && renderWords(noteContent)}
+                    {childWithType.children?.map((noteChild, noteChildIndex) => (
+                      <React.Fragment key={`note-child-${noteChildIndex}`}>
+                        {renderTextElement(noteChild)}
+                      </React.Fragment>
+                    ))}
+                  </Accordion.Panel>
+                </Accordion.Item>
+              </Accordion>
+            );
+          }
+          return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
+        })}
+      </ContainerTag>
+      {!isBlock && element.text && ' '}
+      </>
+    );
+  };
+
+  if (labelId) {
+    const isTarget = labelSegmentNumber !== null && labelSegmentNumber === targetSegmentNumber;
+    const isMatched = labelSegmentNumber !== null && matchedSegments.has(labelSegmentNumber);
+    return (
+      <div
+        className={`
+          ${classes.paragraphContainer}
+          ${classes.labeledLg}
+          ${isTarget ? classes.highlightedSegment : ''}
+          ${isMatched ? classes.matchedSegment : ''}
+        `}
+        data-segment-number={labelSegmentNumber}
+        ref={(node) => {
+          if (node && labelSegmentNumber !== null) {
+            segmentRefs.current.set(labelSegmentNumber, node);
+          }
+        }}
+        id={labelSegmentNumber !== null ? `segment-${labelSegmentNumber}` : undefined}
+      >
+        <div className={classes.label}>{formatLabelId(labelId)}</div>
+        {renderTextElement(element)}
+      </div>
+    );
+  }
+
+  return <>{renderTextElement(element)}</>;
+});
 
 interface ClickableSimpleBooksProps {
   bookText: BookText;
@@ -56,7 +587,6 @@ const ClickableSimpleBooks = ({
   const [clickedElement, setClickedElement] = useState<HTMLElement | null>(null);
   const highlightedSpanRef = useRef<HTMLElement | null>(null);
   const chapterIdMap = useRef<Map<string, string>>(new Map());
-  const foundNotes = useRef<number>(0);
 
 
   const containerRef = useRef<HTMLDivElement>(null);
@@ -152,14 +682,21 @@ const ClickableSimpleBooks = ({
   }, [bookText]);
 
   useEffect(() => {
-    segmentRefs.current = new Map();
     setInitialRenderComplete(false);
     // Don't clear matchedBookSegments here - it's managed by the parent
     // and should persist when opening a book from advanced search.
     // searchMatchedSegments belongs to useInPageSearch, which searches the new book itself.
-    foundNotes.current = 0;
-    // console.log('Segment refs map and note counter reset due to book change');
   }, [bookText]);
+
+  // Footnotes numbered and top-level items built once per book. The segment
+  // refs are reset here, before the new book's segments mount and register
+  // themselves; the memoized segments register once and keep their entries.
+  const items = React.useMemo(() => {
+    segmentRefs.current = new Map();
+    return buildItems(annotateNotes(bookText.body || []));
+  }, [bookText]);
+
+  const matchedSet = React.useMemo(() => new Set(matchedBookSegments), [matchedBookSegments]);
 
   const scrollToSegment = useCallback(
     (segmentNumber: number) => {
@@ -213,396 +750,12 @@ const ClickableSimpleBooks = ({
     [setSelectedWord]
   );
 
-  const blockTags = new Set([
-    'div', 'lg', 'l', 'p', 'head', 'pb', 'milestone', 'ab',
-    'ChapterTitle', 'Subchapter', 'OpeningTitle', 'opener',
-    'Sutra', 'Commentary', 'LeadingBhashya', 'IntroBhashya', 'Vyakhya',
-    'quote', 'trailer', 'homage', 'colophon',
-    'table', 'row', 'list', 'item',
-    'sp', 'epigraph',
-  ]);
-
-  const extractXmlId = (attrs?: Record<string, any>): string | undefined => {
-    if (!attrs) return;
-    const key = Object.keys(attrs).find(k => /(^id$|}id$)/.test(k));
-    const val = key ? attrs[key] : undefined;
-    return typeof val === 'string' ? val.trim() : undefined;
-  };
-
-  const formatLabelId = (raw?: string): string | undefined =>
-    raw ? raw.replace(/_/g, ' ') : raw;
-
-  const isEmptyLabelledLg = (el: TextElement): string | undefined => {
-    if (el.tag !== 'lg') return;
-    const rawId = extractXmlId(el.attributes);
-    if (!rawId) return;
-    const hasNoText = !el.text || !el.text.trim();
-    const hasNoChildren = !el.children || el.children.length === 0;
-    return hasNoText && hasNoChildren ? rawId : undefined;
-  };
-
-  const renderTextElement = (element: TextElement): React.ReactNode => {
-    const isBlock = blockTags.has(element.tag);
-    const sectionHeading = BookSectionHeading.fromElement(element);
-
-    const elementClasses = [
-      classes[element.tag] || '',
-      element.attributes?.rend === 'bold' ? classes.bold : '',
-      element.attributes?.rend === 'it' ? classes.italic : '',
-      // Types vary in case across sources (Adhyāya / adhyāya), so match CSS on the lowercase form
-      element.attributes?.type ? classes[element.attributes.type.toLowerCase()] : '',
-    ]
-      .filter(Boolean)
-      .join(' ');
-
-    const segmentNumber = element.segment_number !== undefined ? element.segment_number :
-                    (element.attributes?.id ?
-                      (parseInt(element.attributes.id.replace('segment-', '')) || null) :
-                      null);
-
-    const isTargetSegment =
-      segmentNumber !== null &&
-      segmentNumber !== undefined &&
-      segmentNumber === targetSegmentNumber;
-
-    const isMatchedSegment =
-      segmentNumber !== null &&
-      segmentNumber !== undefined &&
-      matchedBookSegments.includes(segmentNumber);
-
-    const setSegmentRef = (el: HTMLDivElement | null) => {
-      if (el && segmentNumber !== null && segmentNumber !== undefined) {
-        segmentRefs.current.set(segmentNumber, el);
-      }
-    };
-
-    const isSeparatorOnlyLine = (text: string) => {
-      const trimmed = text.trim();
-      return trimmed === '||' || trimmed === '//' || trimmed === '*||*' || trimmed === '*//*';
-    };
-
-    const renderWords = (text: string, isTranslation: boolean = false) => {
-      if (!text || isSeparatorOnlyLine(text)) {
-        return null;
-      }
-      const transformedText = isTranslation ? text : normalizeOriginalText(text);
-
-      const segments = safeSplitText(transformedText);
-
-      return segments.map((segment, segmentIndex) => {
-        if (isTranslation) {
-          const parts = segment.split(/(<s>.*?<\/s>)/);
-          return (
-            <span key={segmentIndex} className={classes.textSegment}>
-              <span className={classes.textContent}>
-                {parts.map((part, partIndex) => {
-                  if (part.startsWith('<s>') && part.endsWith('</s>')) {
-                    const sanskritWordRaw = part.replace(/<\/?s>/g, '').trim();
-                    const sanskritWordProcessed = sanskritWordRaw.toLowerCase();
-                    return (
-                      <BookSpan
-                        key={`${segmentIndex}-${partIndex}`}
-                        wordText={sanskritWordRaw + ' '}
-                        wordKey={`${segmentIndex}-${partIndex}`}
-                        isSanskrit={true}
-                        onClick={(e) => handleWordClick(e, sanskritWordProcessed)}
-                      />
-                    );
-                  }
-                  return <span key={`${segmentIndex}-${partIndex}`}>{part}</span>;
-                })}
-                {segmentIndex < segments.length - 1 && <span className={classes.pipeMark}>|</span>}
-              </span>
-              {segmentIndex < segments.length - 1 && <br />}
-            </span>
-          );
-        } else {
-          const words = segment.match(/\|\||\||\+|[^\s+|]+/g) || [];
-          const lastWord = words.length > 0 ? words[words.length - 1].trim() : '';
-          // A line break inside the text gets a danda, unless the line already ends with one
-          const needsLineDanda = segmentIndex < segments.length - 1 && !isDandaToken(lastWord);
-          return (
-            <span key={segmentIndex} className={classes.textSegment}>
-              <span className={classes.textContent}>
-                {words.map((word: string, wordIndex: number) => {
-                  const trimmedWord = word.trim();
-                  if (!trimmedWord) return null;
-                  const trailingSpace = wordIndex < words.length - 1 ? ' ' : '';
-                  // Dandas are punctuation: rendered, but not clickable
-                  if (isDandaToken(trimmedWord)) {
-                    return (
-                      <span key={`${segmentIndex}-${wordIndex}`} className={classes.danda}>
-                        {toDandas(trimmedWord)}
-                        {trailingSpace}
-                      </span>
-                    );
-                  }
-                  // A bare number next to a danda is a verse reference (|| 1,1.1 ||), not a word
-                  const nextToDanda =
-                    (wordIndex > 0 && isDandaToken(words[wordIndex - 1].trim())) ||
-                    (wordIndex < words.length - 1 && isDandaToken(words[wordIndex + 1].trim()));
-                  if (nextToDanda && isVerseRefToken(trimmedWord)) {
-                    return (
-                      <span key={`${segmentIndex}-${wordIndex}`} className={classes.verseRef}>
-                        {trimmedWord}
-                        {trailingSpace}
-                      </span>
-                    );
-                  }
-                  return (
-                    <BookSpan
-                      key={`${segmentIndex}-${wordIndex}`}
-                      wordText={word + trailingSpace}
-                      wordKey={`${segmentIndex}-${wordIndex}`}
-                      onClick={(e) => handleWordClick(e, trimmedWord)}
-                    />
-                  );
-                })}
-                {needsLineDanda && <span className={classes.danda}>।</span>}
-              </span>
-              {segmentIndex < segments.length - 1 && <br />}
-            </span>
-          );
-        }
-      });
-    };
-
-    if (element.tag === 'lg') {
-      const rawId = extractXmlId(element.attributes);
-      if (rawId) {
-        const labelText = formatLabelId(rawId);
-        return (
-          <div
-            className={`
-              ${classes.paragraphContainer}
-              ${classes.lg}
-              ${classes.labeledLg}
-              ${isTargetSegment ? classes.highlightedSegment : ''}
-              ${isMatchedSegment ? classes.matchedSegment : ''}
-            `}
-            data-segment-number={segmentNumber}
-            ref={setSegmentRef}
-            id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
-          >
-            <div className={classes.label}>{labelText}</div>
-            {element.children?.map((child, childIndex) => (
-              <React.Fragment key={`lg-label-child-${childIndex}`}>
-                {renderTextElement(child)}
-              </React.Fragment>
-            ))}
-          </div>
-        );
-      }
-    }
-
-    if (element.tag === 'note') {
-      const noteContent = element.text || '';
-      const noteNumber = ++foundNotes.current;
-      const noteId = `note-${noteNumber}`;
-      return (
-        <Accordion
-          variant="default"
-          radius="md"
-          className={classes.noteAccordion}
-          classNames={{
-            root: classes.noteAccordionRoot,
-            panel: classes.noteAccordionPanel,
-            item: classes.noteAccordionItem,
-            control: classes.noteAccordionControl,
-          }}
-        >
-          <Accordion.Item value={noteId}>
-            <Accordion.Control className={classes.noteAccordionControl}>
-              <span className={classes.noteNumber}>{noteNumber}</span>
-            </Accordion.Control>
-            <Accordion.Panel className={classes.noteAccordionPanel}>
-              {noteContent && renderWords(noteContent)}
-              {element.children?.map((noteChild, noteChildIndex) => (
-                <React.Fragment key={`note-child-${noteChildIndex}`}>
-                  {renderTextElement(noteChild)}
-                </React.Fragment>
-              ))}
-            </Accordion.Panel>
-          </Accordion.Item>
-        </Accordion>
-      );
-    }
-
-    if (element.tag === 'pb' || element.tag === 'milestone') {
-      let pageText = '';
-      const attributes = element.attributes || {};
-
-      if (element.tag === 'pb') {
-        let base = '--- Page';
-        if (attributes.n) {
-          base += ` ${attributes.n}`;
-        }
-        if (attributes.ed) {
-          base += ` (${attributes.ed})`;
-        }
-        pageText = `${base} ---`;
-      } else if (element.tag === 'milestone') {
-        const unit = attributes.unit || 'Milestone';
-        let n_val = attributes.n || '';
-        pageText = `--- ${unit}${n_val ? ' ' + n_val : ''} ---`;
-      }
-
-      return (
-        <div
-          className={`
-            ${classes.paragraphContainer}
-            ${classes.pageBreak}
-            ${elementClasses}
-          `}
-          data-segment-number={segmentNumber}
-          ref={setSegmentRef}
-          id={segmentNumber !== null ? `segment-${segmentNumber}` : undefined}
-          onClick={() => {
-            // console.log('Clicked page/milestone:', attributes.n, attributes.ed, attributes.unit);
-          }}
-        >
-          <div className={classes.pageBreakTextContainer}>{pageText}</div>
-          {element.children?.map((child, index) => {
-            const childWithType = {
-              ...child,
-              attributes: {
-                ...child.attributes,
-                type: child.attributes?.type || element.attributes?.type,
-              },
-            };
-            return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
-          })}
-        </div>
-      );
-    }
-
-    let elementId: string | undefined;
-    if ((element.tag === 'ChapterTitle' || element.tag === 'head') && element.text) {
-      elementId = chapterIdMap.current.get(element.text);
-    } else {
-      elementId = segmentNumber !== null ? `segment-${segmentNumber}` : undefined;
-    }
-
-    const hasTranslation = !!(element.translated_text && (textType === 'both' || textType === 'tran'));
-    const WrapperTag = isBlock || hasTranslation ? 'div' : 'span';
-    const TextTag = isBlock ? 'div' : 'span';
-    const ContainerTag = sectionHeading ? 'div' : 'span';
-
-    return (
-      <>
-        {!isBlock && element.text && ' '}
-        <ContainerTag
-          className={`
-            ${classes.paragraphContainer}
-            ${elementClasses}
-            ${isTargetSegment ? classes.highlightedSegment : ''}
-            ${isMatchedSegment ? classes.matchedSegment : ''}
-            `}
-          data-segment-number={segmentNumber}
-          ref={setSegmentRef}
-          id={elementId}
-        >
-        {sectionHeading && (
-          <h2 id={sectionHeading.elementId} className={`${classes.head} ${classes.sectionHeading}`}>
-            {sectionHeading.text}
-          </h2>
-        )}
-        {element.text && (
-          <WrapperTag
-            className={`${classes.lineContainer} ${
-              textType === 'or'
-                ? classes.originalOnly
-                : textType === 'tran'
-                  ? classes.translationOnly
-                  : ''
-            }`}
-          >
-            {(textType === 'both' || textType === 'or') && (
-              <TextTag className={`${classes.originalText} ${!isBlock ? classes.originalTextInline : ''}`}>
-                {isTargetSegment || isMatchedSegment ? (
-                  <HighlightText
-                    text={toDandas(normalizeOriginalText(element.text))}
-                    query={query}
-                  />
-                ) : (
-                  renderWords(element.text)
-                )}
-              </TextTag>
-            )}
-
-            {hasTranslation && (
-              <div
-                className={`${classes.translatedText} ${
-                  textType === 'tran' ? classes.translationOnly : ''
-                }`}
-              >
-                {isTargetSegment || isMatchedSegment ? (
-                  <HighlightText text={element.translated_text!} query={query} />
-                ) : (
-                  renderWords(element.translated_text!, true)
-                )}
-              </div>
-            )}
-          </WrapperTag>
-        )}
-
-        {element.children?.map((child, index) => {
-          const childWithType = {
-            ...child,
-            attributes: {
-              ...child.attributes,
-              type: child.attributes?.type || element.attributes?.type,
-            },
-          };
-          if (child.tag === 'note') {
-            const noteContent = childWithType.text || '';
-            const noteNumber = ++foundNotes.current;
-            const noteId = `note-${noteNumber}`;
-            return (
-              <Accordion
-                variant="default"
-                radius="md"
-                className={classes.noteAccordion}
-                key={noteId}
-                classNames={{
-                  root: classes.noteAccordionRoot,
-                  panel: classes.noteAccordionPanel,
-                  item: classes.noteAccordionItem,
-                  control: classes.noteAccordionControl,
-                }}
-              >
-                <Accordion.Item value={noteId}>
-                  <Accordion.Control className={classes.noteAccordionControl}>
-                    <span className={classes.noteNumber}>{noteNumber}</span>
-                  </Accordion.Control>
-                  <Accordion.Panel className={classes.noteAccordionPanel}>
-                    {noteContent && renderWords(noteContent)}
-                    {childWithType.children?.map((noteChild, noteChildIndex) => (
-                      <React.Fragment key={`note-child-${noteChildIndex}`}>
-                        {renderTextElement(noteChild)}
-                      </React.Fragment>
-                    ))}
-                  </Accordion.Panel>
-                </Accordion.Item>
-              </Accordion>
-            );
-          }
-          return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
-        })}
-      </ContainerTag>
-      {!isBlock && element.text && ' '}
-      </>
-    );
-  };
-
   const handleChapterClick = useCallback((elementId: string) => {
     const element = document.getElementById(elementId);
     if (element) {
       element.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   }, []);
-
-  foundNotes.current = 0;
 
   // console.log('matchedBookSegments:', matchedBookSegments);
   // console.log(`[Books] Rendering. Passing segmentRefs with size: ${segmentRefs.current.size} to ScrollMarkers.`);
@@ -643,54 +796,30 @@ const ClickableSimpleBooks = ({
               : ''
         }`}
       >
-        {(() => {
-          const els = bookText.body || [];
-          const out: React.ReactNode[] = [];
-          for (let i = 0; i < els.length; i++) {
-            const el = els[i];
-            const labelId = isEmptyLabelledLg(el);
-            const next = els[i + 1];
-            if (labelId && next) {
-              // Empty <lg> carrying only a label — adopt the next sibling as
-              // the labelled content so the label aligns to that block's first line.
-              const labelSegmentNumber = el.segment_number ?? null;
-              const isTarget = labelSegmentNumber !== null && labelSegmentNumber === targetSegmentNumber;
-              const isMatched = labelSegmentNumber !== null && matchedBookSegments.includes(labelSegmentNumber);
-              out.push(
-                <React.Fragment key={i}>
-                  <div
-                    className={`
-                      ${classes.paragraphContainer}
-                      ${classes.labeledLg}
-                      ${isTarget ? classes.highlightedSegment : ''}
-                      ${isMatched ? classes.matchedSegment : ''}
-                    `}
-                    data-segment-number={labelSegmentNumber}
-                    ref={(node) => {
-                      if (node && labelSegmentNumber !== null) {
-                        segmentRefs.current.set(labelSegmentNumber, node);
-                      }
-                    }}
-                    id={labelSegmentNumber !== null ? `segment-${labelSegmentNumber}` : undefined}
-                  >
-                    <div className={classes.label}>{formatLabelId(labelId)}</div>
-                    {renderTextElement(next)}
-                  </div>
-                  {['lg', 'p', 'pb', 'l'].includes(next.tag) && <br />}
-                </React.Fragment>
-              );
-              i++; // consumed `next`
-              continue;
-            }
-            out.push(
-              <React.Fragment key={i}>
-                {renderTextElement(el)}
-                {['lg', 'p', 'pb', 'l'].includes(el.tag) && <br />}
-              </React.Fragment>
-            );
-          }
-          return out;
-        })()}
+        {items.map((item) => {
+          const target =
+            targetSegmentNumber !== null && item.segments.includes(targetSegmentNumber)
+              ? targetSegmentNumber
+              : null;
+          const matchedKey = item.segments.filter((n) => matchedSet.has(n)).join(',');
+          return (
+            <React.Fragment key={item.key}>
+              <BookSegment
+                element={item.element}
+                labelId={item.labelId}
+                labelSegmentNumber={item.labelSegmentNumber}
+                textType={textType}
+                targetSegmentNumber={target}
+                matchedKey={matchedKey}
+                highlightQuery={target !== null || matchedKey ? query : ''}
+                chapterIds={chapterIdMap.current}
+                segmentRefs={segmentRefs}
+                handleWordClick={handleWordClick}
+              />
+              {['lg', 'p', 'pb', 'l'].includes(item.element.tag) && <br />}
+            </React.Fragment>
+          );
+        })}
       </div>
       {combinedMatchedSegments.length > 0 && (
         <ScrollMarkers
