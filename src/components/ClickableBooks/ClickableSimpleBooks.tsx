@@ -16,7 +16,7 @@ import { Accordion } from '@mantine/core';
 import { useThrottledCallback, useThrottledState } from '@mantine/hooks';
 import ScrollMarkers from './ClickableSimpleMarkers';
 import BookSpan from './ClickableSimpleBooksSpan';
-import BookIndex from './BookIndex';
+import BookIndex, { ChapterInfo } from './BookIndex';
 import { BookSectionHeading } from './BookSectionHeading';
 import { InPageSearch } from '@/utils/InPageSearchComponent';
 import { useInPageSearch } from '@/utils/InPageSearchHook';
@@ -647,7 +647,7 @@ const ClickableSimpleBooks = ({
   const chapters = React.useMemo(() => {
     if (!bookText.body || bookText.body.length === 0) return [];
 
-    const extractedChapters: Array<{ text: string; elementId: string; order: number }> = [];
+    const extractedChapters: ChapterInfo[] = [];
     const idMap = new Map<string, string>();
     let chapterCount = 0;
 
@@ -661,6 +661,7 @@ const ClickableSimpleBooks = ({
           const chapterId = `chapter-${chapterCount}`;
           extractedChapters.push({
             text: element.text,
+            translation: element.translated_text,
             elementId: chapterId,
             order: chapterCount + 1
           });
@@ -784,6 +785,7 @@ const ClickableSimpleBooks = ({
       {chapters.length > 0 && (
         <BookIndex
           chapters={chapters}
+          textType={textType}
           onChapterClick={handleChapterClick}
         />
       )}

@@ -59,10 +59,39 @@
   line-height: 1.8;
   text-decoration: none;
   color: light-dark(var(--mantine-color-gray-7), var(--mantine-color-gray-3));
-  display: inline-block;
+  /* A column flexbox takes its baseline from its first line, so the list number
+     stays beside the title when a translated subtitle follows (an inline-block
+     would align it with the last line) */
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
   position: relative;
   transition: all 0.2s ease;
   padding: 0.125rem 0;
+  text-align: start;
+}
+
+/* Translated chapter title (or, in translation-only mode, the original) under the main line */
+.indexSubtitle {
+  display: block;
+  font-size: 0.875rem;
+  line-height: 1.4;
+  font-style: italic;
+  color: light-dark(
+    color-mix(in srgb, var(--mantine-color-gray-6), var(--mantine-color-gray-7) 35%),
+    var(--mantine-color-gray-5)
+  );
+  padding-left: 1rem;
+  padding-bottom: 0.25rem;
+}
+
+/* Sanskrit terms inside a translation: italic in upright text, upright in italic text */
+.indexSanskritTerm {
+  font-style: italic;
+}
+
+.indexSubtitle .indexSanskritTerm {
+  font-style: normal;
 }
 
 /* Subtle hover effect with accent */
