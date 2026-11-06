@@ -1,0 +1,24 @@
+[package]
+name = "sanskrit-voyager-transliteration"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "vidyut-lipi transliteration compiled to WebAssembly for the Sanskrit Voyager reader"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+vidyut-lipi = "=0.2.0"
+
+# vidyut-lipi 0.2.0 plus the normalization-table cache patch (see README.md).
+# Bumping the version above means re-vendoring and re-applying the patch.
+[patch.crates-io]
+vidyut-lipi = { path = "vendor/vidyut-lipi" }
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true

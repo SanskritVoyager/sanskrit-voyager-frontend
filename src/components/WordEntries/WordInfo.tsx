@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Loader } from '@mantine/core';
 import { WordEntry, GroupedEntries } from '../../types/wordTypes';
 import classes from './WordInfo.module.css';
+import { useDisplayWord } from '../../context/TransliterationContext';
 
 interface WordInfoProps {
   wordData: WordEntry[];
@@ -11,6 +12,9 @@ interface WordInfoProps {
 
 function WordInfo({ wordData, onAdditionalWordClick, isLoading }: WordInfoProps): JSX.Element {
   const [localClickedWord, setLocalClickedWord] = useState<string | null>(null);
+  // Shown in the navbar's scheme; a click passes the stored word, which the
+  // dictionary panel scrolls to by data-word
+  const displayWord = useDisplayWord();
 
   const groupEntries = (data: WordEntry[]): GroupedEntries => {
     const groupedEntries: GroupedEntries = {};
@@ -81,7 +85,7 @@ function WordInfo({ wordData, onAdditionalWordClick, isLoading }: WordInfoProps)
                     onAdditionalWordClick(word);
                   }}
                 >
-                  {word}
+                  {displayWord(word)}
                 </span>
               );
             })}

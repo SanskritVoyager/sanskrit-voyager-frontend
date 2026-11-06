@@ -1,4 +1,10 @@
 import classes from './DictionaryEntry.module.css';
+import { useDisplayWord } from '../../context/TransliterationContext';
+import { displaySanskrit } from '../../utils/displayWord';
+
+/** Edgerton and Grassmann give an entry's headword in <b> at its start, after any homonym number */
+const BOLD_HEADWORD = /^\s*(?:<hom>[^<]*<\/hom>\s*)?<b>/;
+const DEVANAGARI = /\p{Script_Extensions=Devanagari}/u;
 
 interface DictionaryEntryProps {
   entry: string;
@@ -6,6 +12,8 @@ interface DictionaryEntryProps {
 }
 
 function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
+  // Sanskrit (<s>, <s1>) is shown in the navbar's scheme; a click looks up the stored word
+  const displayWord = useDisplayWord();
   const processContent = (content: string) => {
     // Add this check: If content is null or undefined, return empty result
     if (!content) {
@@ -17,6 +25,13 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
     // remove the <srs/> tag
     // should I remove them ?
     content = content.replace(/<srs\s*\/>/g, '');
+
+    // Where the entry's headword <b> opens (Dharma, agní,), or -1
+    const headwordStart = BOLD_HEADWORD.test(content) ? content.indexOf('<b>') : -1;
+    let inHeadword = false;
+    // Macdonell writes a headword twice in one <s>: in Devanagari, then in his own
+    // romanization (धर्म dhár-ma, कृष्ण krish-ná). That is not IAST, so it is shown as printed.
+    let inMacdonellHeadword = false;
 
     let buffer = '';
     const result = [];
@@ -94,19 +109,20 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
               className={orderedClasses}
               onClick={() => onWordClick?.(isName ? word.toLowerCase() : word, index)}
             >
-              {word}
+              {inMacdonellHeadword && !DEVANAGARI.test(word) ? word : displayWord(word)}
             </span>
           );
         });
       }
 
-      if (appliedClasses.length === 0) return text;
+      const shown = inHeadword ? displaySanskrit(displayWord, text) : text;
+      if (appliedClasses.length === 0) return shown;
 
       const orderedClasses = appliedClasses.join(' ');
 
       return (
         <span key={index++} className={orderedClasses}>
-          {text}
+          {shown}
         </span>
       );
     };
@@ -142,12 +158,15 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
           if (lastIndex !== -1) {
             tagStack.splice(lastIndex, 1);
           }
+          if (tagName === 'b') inHeadword = false;
+          if (tagName === 's') inMacdonellHeadword = false;
         } else {
           // Opening tag
           if (buffer) {
             result.push(createStyledSpan(buffer));
             buffer = '';
           }
+          const tagStart = i;
           let tagName = '';
           i++; // Skip <
           while (content[i] !== '>' && i < content.length) {
@@ -160,6 +179,11 @@ function DictionaryEntry({ entry, onWordClick }: DictionaryEntryProps) {
             i++;
           }
           tagStack.push(tagName);
+          if (tagName === 'b' && tagStart === headwordStart) inHeadword = true;
+          if (tagName === 's') {
+            const end = content.indexOf('</s>', i);
+            inMacdonellHeadword = DEVANAGARI.test(content.slice(i, end === -1 ? undefined : end));
+          }
         }
       } else {
         buffer += content[i];

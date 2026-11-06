@@ -1,6 +1,7 @@
 import React from 'react';
 import { Table } from '@mantine/core';
 import classes from './InflectionTable.module.css';
+import { useDisplayWord } from '../../context/TransliterationContext';
 
 interface InflectionTableProps {
   inflection_wordsIAST: string[] | null;
@@ -13,6 +14,9 @@ const InflectionTable = ({
   rowcolstitles,
   useColor = false,
 }: InflectionTableProps) => {
+  // Before the early returns below, as hooks must be
+  const displayWord = useDisplayWord();
+
   if (!inflection_wordsIAST || !Array.isArray(inflection_wordsIAST)) {
     return null;
   }
@@ -114,7 +118,7 @@ const InflectionTable = ({
                         : {}
                     }
                   >
-                    {cell}
+                    {displayWord(cell)}
                   </Table.Td>
                 );
               })}

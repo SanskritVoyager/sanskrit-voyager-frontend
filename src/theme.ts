@@ -3,11 +3,13 @@ import { createTheme, rem, virtualColor } from '@mantine/core';
 import './fonts/LinuxBiolinum/LinuxBiolinum.css';
 import './fonts/LibertinusSans/LibertinusSans.css';
 import './fonts/IndUni-P/IndUni-P.css';
+import './fonts/SanskritDevanagari.css';
 
 export const theme = createTheme({
   primaryColor: 'primary',
 
-  fontFamily: 'Palatino, serif',
+  // SanskritDevanagari covers Devanagari letters only (unicode-range): Latin stays Palatino
+  fontFamily: 'SanskritDevanagari, Palatino, serif',
 
   fontSizes: {
     xs: rem(11),

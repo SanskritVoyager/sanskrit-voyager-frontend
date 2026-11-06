@@ -102,6 +102,26 @@ describe('findDomMatches', () => {
     expect(matches[0].segment).toBeNull();
   });
 
+  it('matches words shown in another scheme by their stored text as well', () => {
+    document.body.innerHTML = `
+      <div id="root">
+        <div data-segment-number="1"><span data-stored-text="rāmo">रामो </span><span data-stored-text="dharmaṃ"><mark>धर्मं</mark> </span><span data-stored-text="vetti">वेत्ति</span></div>
+        <div data-segment-number="2"><span>English passage </span><span data-stored-text="dharmakṣetre">धर्मक्षेत्रे</span></div>
+      </div>`;
+    const root = document.getElementById('root')!;
+
+    // An IAST or plain query marks the whole shown word: its letters do not line up
+    expect(findDomMatches(root, 'dharma').map(rangeText)).toEqual(['धर्मं', 'धर्मक्षेत्रे']);
+    expect(findDomMatches(root, 'kṣetre').map(rangeText)).toEqual(['धर्मक्षेत्रे']);
+    expect(findDomMatches(root, 'dharma').map((match) => match.segment)).toEqual([1, 2]);
+    // A query in the shown script finds the same words, each once
+    expect(findDomMatches(root, 'धर्म').map(rangeText)).toEqual(['धर्मं', 'धर्मक्षेत्रे']);
+    // A phrase runs across shown words
+    expect(findDomMatches(root, 'ramo dharmam').map(rangeText)).toEqual(['रामो धर्मं']);
+    // Text without a stored form is searched as shown, and found once
+    expect(findDomMatches(root, 'passage').map(rangeText)).toEqual(['passage']);
+  });
+
   it('maps offsets back through decomposed characters in the DOM', () => {
     document.body.innerHTML = `<div id="root"><span>${'kṛṣṇa'.normalize('NFD')} </span>uvāca</div>`;
     const [match] = findDomMatches(document.getElementById('root')!, 'krsna');

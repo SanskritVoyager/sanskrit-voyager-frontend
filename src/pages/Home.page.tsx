@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, createContext, useContext } from 'react';
+import React, { useState, useEffect, useRef, useCallback, createContext, useContext } from 'react';
 import { useParams, useLocation, useNavigate, useSearchParams } from 'react-router-dom';
 import { findOriginalBySlug, loadTitles, toSlug } from '../utils/bookSlug';
 import {
@@ -14,7 +14,7 @@ import {
   useMantineTheme,
   Transition,
   SegmentedControl,
- FileInput, ComboboxItem, Container, lighten, darken, ScrollArea } from '@mantine/core';
+ FileInput, Container, lighten, darken, ScrollArea } from '@mantine/core';
 import {
   useDisclosure,
   useDebouncedState,
@@ -54,6 +54,15 @@ import { SearchResult } from '@/types/searchTypes';
 import { useResponsive } from '@/context/ResponsiveContext';
 
 import { useContainerHeadroom } from '../hooks/useHeadroom';
+import { useSelectedWord } from '../hooks/useSelectedWord';
+import { useTransliterationScheme } from '../hooks/useTransliterationScheme';
+import { TransliterationProvider } from '../context/TransliterationContext';
+import { readLookup, writeLookup } from '../utils/lookupParams';
+import {
+  TransliterationScheme,
+  parseTransliterationScheme,
+  schemeOfSourceWord,
+} from '../utils/transliterationSchemes';
 
 import { fetchBookText } from '../utils/apiService';
 
@@ -81,11 +90,28 @@ export function HomePage() {
 
   // ----- General state -----
   const [text, setText] = useState('');
-  const [scheme, setScheme] = useState<ComboboxItem>({ value: 'IAST', label: 'IAST' });
-  const [textTranslit, setTextTranslit] = useDebouncedState('', 100);
+  // The scheme picked in the navbar, saved per browser so it survives a reload
+  const [scheme, setScheme] = useTransliterationScheme();
+  // The analysis-box text as shown, and the scheme it was converted into. One
+  // state, so a click never pairs new text with an old scheme or vice versa.
+  const [transliterated, setTransliterated] = useDebouncedState<{
+    text: string;
+    scheme?: TransliterationScheme;
+  }>({ text: '' }, 100);
+  const textTranslit = transliterated.text;
   const [translatedText, setTranslatedText] = useState<Translation[]>([]);
   const [loading, setLoading] = useState(false);
-  const [selectedWord, setSelectedWord] = useState('');
+  const [selectedWord, selectWord] = useSelectedWord();
+  // Book text and dictionary entries: IAST or Devanagari, per schemeOfSourceWord
+  const selectSourceWord = useCallback(
+    (word: string) => selectWord(word, schemeOfSourceWord(word)),
+    [selectWord]
+  );
+  // Analysis-box words are written in the scheme the box converted them into
+  const selectTransliteratedWord = useCallback(
+    (word: string) => selectWord(word, transliterated.scheme),
+    [selectWord, transliterated.scheme]
+  );
   const [bookTitle, setBookTitle] = useState<string | null>(null);
   const [bookText, setBookText] = useState<BookText>({});
   const [textType, setTextType] = useState('both');
@@ -148,13 +174,16 @@ export function HomePage() {
 
   const isWordInfoHalf = text !== '' || bookTitle !== null;
   const showWelcomeState =
-    text.trim() === '' && bookTitle === null && selectedWord.trim() === '' && wordData.length === 0;
+    text.trim() === '' &&
+    bookTitle === null &&
+    selectedWord.word.trim() === '' &&
+    wordData.length === 0;
 
   // ----- Search panel -----
   // Search lives in the side panel next to the reader, full width while no
   // text is open. `/search` is its route when nothing is open; with a text
   // open the path stays on the text and `?q=` carries the query.
-  const hasDictionaryContent = selectedWord !== '' || wordData.length > 0;
+  const hasDictionaryContent = selectedWord.word !== '' || wordData.length > 0;
   const withoutQuery = (search: string) => {
     const params = new URLSearchParams(search);
     params.delete('q');
@@ -226,15 +255,18 @@ export function HomePage() {
     }
   }, [clickedAdditionalWord]);
 
-  // Effect to select single word
+  // Effect to select single word: a one-word analysis is looked up as soon as it
+  // is converted. It depends on the conversion only. It used to list `words`, a
+  // new array every render, so it re-ran after every render, and a header search
+  // then alternated with this word in an endless loop of lookups.
   useEffect(() => {
     if (textTranslit && words.length === 1) {
-      setSelectedWord(words[0].trim());
+      selectWord(words[0].trim(), transliterated.scheme);
     }
-  }, [textTranslit, words]);
+  }, [transliterated]);
 
   useEffect(() => {
-    if (selectedWord !== '') {
+    if (selectedWord.word !== '') {
       // Always make word info visible
       setIsWordInfoVisible(true);
 
@@ -252,9 +284,9 @@ export function HomePage() {
 
   // Effect to fetch word data when a word is selected
   useEffect(() => {
-    if (selectedWord) {
+    if (selectedWord.word) {
       setIsLoadingWordData(true);
-      fetchMultidictData(selectedWord, selectedDictionaries)
+      fetchMultidictData(selectedWord.word, selectedDictionaries, selectedWord.scheme)
         .then((data) => {
           setWordData(data);
           setIsLoadingWordData(false);
@@ -380,23 +412,17 @@ export function HomePage() {
   }, [segment]);
 
   // ----- Dictionary search ↔ URL sync -----
-  // The lookup lives in a query string (?w=…&dicts=…) rather than a path
-  // segment so it layers on top of the book/text route instead of replacing
-  // it — you can look a word up while reading. mw is the default dictionary,
-  // so a bare-mw (or empty) selection is omitted from the URL; any other set
-  // is encoded in full (mw included if it's there alongside others).
-  const isDefaultDicts = (dicts: string[]) =>
-    dicts.length === 0 || (dicts.length === 1 && dicts[0] === 'mw');
+  // ?w=…&input_scheme=…&dicts=…, layered on the book/text route; the format is
+  // documented and tested in utils/lookupParams.
 
-  // Effect: URL ?w / ?dicts → dictionary search state. Authoritative, so
-  // sharing a link, the back button, and forward all reproduce the lookup.
+  // Effect: URL → dictionary search state. Authoritative, so sharing a link,
+  // the back button, and forward all reproduce the lookup.
   useEffect(() => {
-    const w = searchParams.get('w') ?? '';
-    if (w !== selectedWord) setSelectedWord(w);
-
-    const dictsParam = searchParams.get('dicts');
-    const dicts = dictsParam ? dictsParam.split(',').filter(Boolean) : [];
-    if (dicts.join(',') !== selectedDictionaries.join(',')) setSelectedDictionaries(dicts);
+    const { selectedWord: fromUrl, dictionaries } = readLookup(searchParams);
+    selectWord(fromUrl.word, fromUrl.scheme);
+    if (dictionaries.join(',') !== selectedDictionaries.join(',')) {
+      setSelectedDictionaries(dictionaries);
+    }
   }, [searchParams]);
 
   // Effect: dictionary search state → URL. Skips the first run so the read
@@ -408,11 +434,7 @@ export function HomePage() {
       skipDictUrlWrite.current = false;
       return;
     }
-    const next = new URLSearchParams(searchParams);
-    if (selectedWord) next.set('w', selectedWord);
-    else next.delete('w');
-    if (isDefaultDicts(selectedDictionaries)) next.delete('dicts');
-    else next.set('dicts', selectedDictionaries.join(','));
+    const next = writeLookup(searchParams, { selectedWord, dictionaries: selectedDictionaries });
     if (next.toString() !== searchParams.toString()) setSearchParams(next);
   }, [selectedWord, selectedDictionaries]);
 
@@ -465,9 +487,17 @@ export function HomePage() {
 
   // Transliterate text
   const handleTransliteration = async (inputText: string, newValue?: string) => {
-    const selectedValue = newValue || scheme.value;
+    const selectedValue = newValue || scheme;
+    const selectedScheme = parseTransliterationScheme(selectedValue);
+    // An empty box has nothing to convert. The API used to answer undefined,
+    // which the view effect took for new analysis text: switching the scheme
+    // while reading replaced the open book with an empty analysis pane.
+    if (!inputText) {
+      setTransliterated({ text: '', scheme: selectedScheme });
+      return;
+    }
     const transliteratedText = await transliterateText(inputText, selectedValue);
-    setTextTranslit(transliteratedText);
+    setTransliterated({ text: transliteratedText, scheme: selectedScheme });
   };
 
   // Translate text
@@ -556,7 +586,7 @@ export function HomePage() {
         />
       ) : showWelcomeState ? (
         <Welcome
-          onLookupWord={setSelectedWord}
+          onLookupWord={selectWord}
           onSearchTexts={(searchQuery) =>
             navigate({ pathname: '/search', search: `?q=${encodeURIComponent(searchQuery)}` })
           }
@@ -599,13 +629,15 @@ export function HomePage() {
   // then add a good sliding transition from left to right when text appears
   // and a good sliding transition from right to left when the column is closed
 
-  return (
+  const page = (
     <div className={classes.mainContainer}>
       <div
         className={`${classes.headerContainer} ${!shouldShowHeader ? classes.headerHidden : ''}`}
       >
+        {/* Typed words can be in any scheme, so the backend detects it. onSearch
+            must stay stable: HeaderSearch calls it from an effect that depends on it. */}
         <HeaderSearch
-          onSearch={setSelectedWord}
+          onSearch={selectWord}
           onToggleNavbar={toggleNavbar}
           isMobile={isMobile}
           isNavbarVisible={isNavbarVisible}
@@ -676,7 +708,7 @@ export function HomePage() {
                   ? 12
                   : isTablet && isNavbarVisible
                     ? 12
-                    : (selectedWord !== '' && isWordInfoVisible) ||
+                    : (selectedWord.word !== '' && isWordInfoVisible) ||
                         (isWordInfoVisible && isAdvancedSearchVisible)
                       ? 6
                       : 12
@@ -752,8 +784,8 @@ export function HomePage() {
                   <ClickableWords
                     lines={lines}
                     textTranslit={textTranslit}
-                    selectedWord={selectedWord}
-                    setSelectedWord={setSelectedWord}
+                    selectedWord={selectedWord.word}
+                    setSelectedWord={selectTransliteratedWord}
                     selectedDictionaries={selectedDictionaries}
                     wordData={wordData}
                     isLoadingWordData={isLoadingWordData}
@@ -765,7 +797,7 @@ export function HomePage() {
                 {activeComponent === 'clickableSimpleBooks' && (
                   <ClickableSimpleBooks
                     bookText={bookText}
-                    setSelectedWord={setSelectedWord}
+                    setSelectedWord={selectSourceWord}
                     wordData={wordData}
                     setClickedAdditionalWord={setClickedAdditionalWord}
                     textType={textType}
@@ -926,4 +958,8 @@ export function HomePage() {
       <Analytics />
     </div>
   );
+
+  // Dictionary entries follow the scheme picked in the navbar. Book text does
+  // not yet: see docs/transliteration-display-handoff.md
+  return <TransliterationProvider scheme={scheme}>{page}</TransliterationProvider>;
 }

@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "build:wasm": "cargo build --release --locked --target wasm32-unknown-unknown --manifest-path wasm/transliteration/Cargo.toml && cp wasm/transliteration/target/wasm32-unknown-unknown/release/sanskrit_voyager_transliteration.wasm wasm/transliteration/pkg/",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
     "lint": "npm run lint:eslint && npm run lint:stylelint",

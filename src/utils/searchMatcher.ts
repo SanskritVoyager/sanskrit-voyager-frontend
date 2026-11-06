@@ -103,8 +103,165 @@ export const findMatchRanges = (
 };
 
 /**
+ * Set on an element whose text is shown in another scheme than the stored one:
+ * the stored text, which in-page search also matches. The element's text is the
+ * shown form, optionally followed by whitespace.
+ */
+export const STORED_TEXT_ATTRIBUTE = 'data-stored-text';
+
+/** A place in the DOM: the index of a text node in document order, and an offset in it */
+interface DomPosition {
+  node: number;
+  offset: number;
+}
+
+type FoundMatch = [from: DomPosition, to: DomPosition];
+
+/**
+ * Folded text to match, built from the DOM in pieces. A piece is a text node as
+ * shown, or a word shown in another scheme searched by its stored text; a match
+ * in that word covers the whole word, since its letters do not line up.
+ */
+class SearchedText {
+  text = '';
+  private readonly starts: number[] = [];
+  /** The text node each piece is, or -1 for a stored word */
+  private readonly pieceNodes: number[] = [];
+  private readonly words = new Map<number, FoundMatch>();
+
+  constructor(private readonly maps: (number[] | null)[]) {}
+
+  addNode(node: number, folded: string) {
+    this.starts.push(this.text.length);
+    this.pieceNodes.push(node);
+    this.text += folded;
+  }
+
+  addWord(folded: string, shown: FoundMatch) {
+    this.words.set(this.starts.length, shown);
+    this.starts.push(this.text.length);
+    this.pieceNodes.push(-1);
+    this.text += folded;
+  }
+
+  /** Whitespace between words: never the start or end of a match, so it needs no piece */
+  addSpace() {
+    this.text += ' ';
+  }
+
+  private pieceAt(position: number): number {
+    let low = 0;
+    let high = this.starts.length - 1;
+    while (low < high) {
+      const middle = (low + high + 1) >> 1;
+      if (this.starts[middle] <= position) low = middle;
+      else high = middle - 1;
+    }
+    return low;
+  }
+
+  private positionOf(position: number, edge: 'from' | 'to'): DomPosition {
+    const piece = this.pieceAt(edge === 'from' ? position : position - 1);
+    const node = this.pieceNodes[piece];
+    if (node === -1) return this.words.get(piece)![edge === 'from' ? 0 : 1];
+    const local = position - this.starts[piece];
+    const map = this.maps[node];
+    return {
+      node,
+      offset: edge === 'from' ? toOriginalStart(map, local) : toOriginalEnd(map, local),
+    };
+  }
+
+  matches(regex: RegExp): FoundMatch[] {
+    return Array.from(this.text.matchAll(regex), (match) => {
+      const start = match.index ?? 0;
+      return [this.positionOf(start, 'from'), this.positionOf(start + match[0].length, 'to')];
+    });
+  }
+}
+
+const isBefore = (a: DomPosition, b: DomPosition) =>
+  a.node < b.node || (a.node === b.node && a.offset < b.offset);
+
+/** Matches from both searched texts in document order, each place found once */
+const mergeMatches = (shown: FoundMatch[], stored: FoundMatch[]): FoundMatch[] => {
+  const all = [...shown, ...stored].sort(([a], [b]) =>
+    isBefore(a, b) ? -1 : isBefore(b, a) ? 1 : 0
+  );
+  const merged: FoundMatch[] = [];
+  all.forEach((match) => {
+    const previous = merged[merged.length - 1];
+    if (!previous || !isBefore(match[0], previous[1])) merged.push(match);
+  });
+  return merged;
+};
+
+const NOT_WHITESPACE = /\S/;
+
+/**
+ * The searched text with the stored form of each word shown in another scheme.
+ * Every other text node is searched as shown, as in the shown text.
+ */
+const storedText = (nodes: Text[], folded: string[], maps: (number[] | null)[]): SearchedText => {
+  const searched = new SearchedText(maps);
+  const owners = new Map<Element, Element | null>();
+  const ownerOf = (node: Text): Element | null => {
+    const parent = node.parentElement;
+    if (!parent) return null;
+    if (!owners.has(parent)) {
+      // A segment holds whole words, so the walk up stops there
+      const found = parent.closest(`[${STORED_TEXT_ATTRIBUTE}], [data-segment-number]`);
+      owners.set(parent, found?.hasAttribute(STORED_TEXT_ATTRIBUTE) ? found : null);
+    }
+    return owners.get(parent) ?? null;
+  };
+
+  /** Where the shown word lies in text nodes `first` to `last`, without its whitespace */
+  const shownWord = (first: number, last: number): FoundMatch | null => {
+    let from: DomPosition | null = null;
+    let to: DomPosition | null = null;
+    for (let node = first; node <= last; node += 1) {
+      const { data } = nodes[node];
+      const start = data.search(NOT_WHITESPACE);
+      if (start !== -1) {
+        from ??= { node, offset: start };
+        to = { node, offset: data.trimEnd().length };
+      }
+    }
+    return from && to ? [from, to] : null;
+  };
+
+  let index = 0;
+  while (index < nodes.length) {
+    const owner = ownerOf(nodes[index]);
+    if (owner) {
+      // The owner's text nodes: the shown word (perhaps inside a <mark>), then whitespace
+      let last = index;
+      while (last + 1 < nodes.length && ownerOf(nodes[last + 1]) === owner) last += 1;
+      const word = shownWord(index, last);
+      if (word) {
+        searched.addWord(
+          foldForSearch(owner.getAttribute(STORED_TEXT_ATTRIBUTE) ?? '').folded,
+          word
+        );
+        if (/\s$/.test(nodes[last].data)) searched.addSpace();
+      }
+      index = last + 1;
+    } else {
+      searched.addNode(index, folded[index]);
+      index += 1;
+    }
+  }
+  return searched;
+};
+
+/**
  * Matches of `query` in the text under `root`, across element boundaries. Subtrees marked
  * `data-search-ignore` are skipped. The DOM is only read: highlighting is up to the caller.
+ *
+ * Words shown in another scheme (marked with STORED_TEXT_ATTRIBUTE) match by their
+ * stored text as well as by what is shown, so an IAST or plain query (krsna) finds
+ * kṛṣṇa shown as कृष्ण, and a query typed in the shown scheme finds it too.
  */
 export const findDomMatches = (root: Element, query: string): DomMatch[] => {
   const regex = buildSearchRegExp(query);
@@ -126,31 +283,24 @@ export const findDomMatches = (root: Element, query: string): DomMatch[] => {
     }
   );
 
-  // All folded text in document order, with where each text node starts in it
+  // All folded text in document order, as shown
   const nodes: Text[] = [];
-  const starts: number[] = [];
+  const folded: string[] = [];
   const maps: (number[] | null)[] = [];
-  let text = '';
   for (let node = walker.nextNode(); node; node = walker.nextNode()) {
-    const { folded, map } = foldForSearch((node as Text).data);
-    if (folded) {
+    const result = foldForSearch((node as Text).data);
+    if (result.folded) {
       nodes.push(node as Text);
-      starts.push(text.length);
-      maps.push(map);
-      text += folded;
+      folded.push(result.folded);
+      maps.push(result.map);
     }
   }
+  const shown = new SearchedText(maps);
+  folded.forEach((text, index) => shown.addNode(index, text));
 
-  const nodeIndexAt = (position: number): number => {
-    let low = 0;
-    let high = starts.length - 1;
-    while (low < high) {
-      const middle = (low + high + 1) >> 1;
-      if (starts[middle] <= position) low = middle;
-      else high = middle - 1;
-    }
-    return low;
-  };
+  const found = root.querySelector(`[${STORED_TEXT_ATTRIBUTE}]`)
+    ? mergeMatches(shown.matches(regex), storedText(nodes, folded, maps).matches(regex))
+    : shown.matches(regex);
 
   const segments = new Map<Element, number | null>();
   const segmentOf = (node: Text): number | null => {
@@ -164,19 +314,13 @@ export const findDomMatches = (root: Element, query: string): DomMatch[] => {
     return segments.get(parent) ?? null;
   };
 
-  return Array.from(text.matchAll(regex), (match) => {
-    const start = match.index ?? 0;
-    const end = start + match[0].length;
-    const first = nodeIndexAt(start);
-    const last = nodeIndexAt(end - 1);
-    return {
-      range: new StaticRange({
-        startContainer: nodes[first],
-        startOffset: toOriginalStart(maps[first], start - starts[first]),
-        endContainer: nodes[last],
-        endOffset: toOriginalEnd(maps[last], end - starts[last]),
-      }),
-      segment: segmentOf(nodes[first]),
-    };
-  });
+  return found.map(([from, to]) => ({
+    range: new StaticRange({
+      startContainer: nodes[from.node],
+      startOffset: from.offset,
+      endContainer: nodes[to.node],
+      endOffset: to.offset,
+    }),
+    segment: segmentOf(nodes[from.node]),
+  }));
 };

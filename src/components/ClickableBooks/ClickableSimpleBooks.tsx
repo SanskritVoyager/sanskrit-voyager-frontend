@@ -20,6 +20,17 @@ import BookIndex, { ChapterInfo } from './BookIndex';
 import { BookSectionHeading } from './BookSectionHeading';
 import { InPageSearch } from '@/utils/InPageSearchComponent';
 import { useInPageSearch } from '@/utils/InPageSearchHook';
+import { useDisplayWord } from '../../context/TransliterationContext';
+import { isSanskritHeading, looksLikeEnglish } from '../../utils/displayWord';
+import { ShownText } from './ShownText';
+
+/**
+ * Which original text is shown in the navbar's scheme: running text unless it
+ * reads as English, headings only when they read as Sanskrit (most are
+ * English: "Chapter 3"), and notes never (sigla and editors' abbreviations).
+ */
+type Conversion = 'text' | 'heading' | 'none';
+const HEADING_TAGS = new Set(['head', 'ChapterTitle', 'Subchapter', 'OpeningTitle']);
 
 const blockTags = new Set([
   'div', 'lg', 'l', 'p', 'head', 'pb', 'milestone', 'ab',
@@ -175,10 +186,14 @@ const BookSegment = React.memo(function BookSegment({
     () => new Set(matchedKey ? matchedKey.split(',').map(Number) : []),
     [matchedKey]
   );
-
-  const renderTextElement = (element: NumberedElement): React.ReactNode => {
+  const renderTextElement = (element: NumberedElement, inNote = false): React.ReactNode => {
     const isBlock = blockTags.has(element.tag);
     const sectionHeading = BookSectionHeading.fromElement(element);
+    const conversion: Conversion = inNote
+      ? 'none'
+      : HEADING_TAGS.has(element.tag)
+        ? 'heading'
+        : 'text';
 
     const elementClasses = [
       classes[element.tag] || '',
@@ -219,11 +234,24 @@ const BookSegment = React.memo(function BookSegment({
     // Words of a target or matched segment carry <mark> where they match the query
     const wordHighlight = isTargetSegment || isMatchedSegment ? highlightQuery : '';
 
-    const renderWords = (text: string, isTranslation: boolean = false) => {
+    const renderWords = (
+      text: string,
+      isTranslation: boolean = false,
+      wordConversion: Conversion = conversion
+    ) => {
       if (!text || isSeparatorOnlyLine(text)) {
         return null;
       }
       const transformedText = isTranslation ? text : normalizeOriginalText(text);
+
+      // Whether the words may be shown in the navbar's scheme, decided on the whole
+      // text (a translation's <s> words are Sanskrit by markup). Each BookSpan reads
+      // the scheme itself and keeps the stored word for clicks, matches and marks.
+      const convertible = isTranslation
+        ? wordConversion !== 'none'
+        : wordConversion === 'text'
+          ? !looksLikeEnglish(text)
+          : wordConversion === 'heading' && isSanskritHeading(text);
 
       const segments = safeSplitText(transformedText);
 
@@ -241,6 +269,7 @@ const BookSegment = React.memo(function BookSegment({
                       <BookSpan
                         key={`${segmentIndex}-${partIndex}`}
                         wordText={sanskritWordRaw + ' '}
+                        convertible={convertible}
                         wordKey={`${segmentIndex}-${partIndex}`}
                         isSanskrit={true}
                         highlight={isMarked(sanskritWordRaw, wordHighlight)}
@@ -292,6 +321,7 @@ const BookSegment = React.memo(function BookSegment({
                     <BookSpan
                       key={`${segmentIndex}-${wordIndex}`}
                       wordText={word + trailingSpace}
+                      convertible={convertible}
                       wordKey={`${segmentIndex}-${wordIndex}`}
                       highlight={isMarked(trimmedWord, wordHighlight)}
                       onClick={(e) => handleWordClick(e, trimmedWord)}
@@ -327,7 +357,7 @@ const BookSegment = React.memo(function BookSegment({
             <div className={classes.label}>{labelText}</div>
             {element.children?.map((child, childIndex) => (
               <React.Fragment key={`lg-label-child-${childIndex}`}>
-                {renderTextElement(child)}
+                {renderTextElement(child, inNote)}
               </React.Fragment>
             ))}
           </div>
@@ -356,10 +386,10 @@ const BookSegment = React.memo(function BookSegment({
               <span className={classes.noteNumber}>{noteNumber}</span>
             </Accordion.Control>
             <Accordion.Panel className={classes.noteAccordionPanel}>
-              {noteContent && renderWords(noteContent)}
+              {noteContent && renderWords(noteContent, false, 'none')}
               {element.children?.map((noteChild, noteChildIndex) => (
                 <React.Fragment key={`note-child-${noteChildIndex}`}>
-                  {renderTextElement(noteChild)}
+                  {renderTextElement(noteChild, true)}
                 </React.Fragment>
               ))}
             </Accordion.Panel>
@@ -410,7 +440,11 @@ const BookSegment = React.memo(function BookSegment({
                 type: child.attributes?.type || element.attributes?.type,
               },
             };
-            return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
+            return (
+              <React.Fragment key={index}>
+                {renderTextElement(childWithType, inNote)}
+              </React.Fragment>
+            );
           })}
         </div>
       );
@@ -444,7 +478,7 @@ const BookSegment = React.memo(function BookSegment({
         >
         {sectionHeading && (
           <h2 id={sectionHeading.elementId} className={`${classes.head} ${classes.sectionHeading}`}>
-            {sectionHeading.text}
+            <ShownText text={sectionHeading.text} kind="heading" />
           </h2>
         )}
         {element.text && (
@@ -505,10 +539,10 @@ const BookSegment = React.memo(function BookSegment({
                     <span className={classes.noteNumber}>{noteNumber}</span>
                   </Accordion.Control>
                   <Accordion.Panel className={classes.noteAccordionPanel}>
-                    {noteContent && renderWords(noteContent)}
+                    {noteContent && renderWords(noteContent, false, 'none')}
                     {childWithType.children?.map((noteChild, noteChildIndex) => (
                       <React.Fragment key={`note-child-${noteChildIndex}`}>
-                        {renderTextElement(noteChild)}
+                        {renderTextElement(noteChild, true)}
                       </React.Fragment>
                     ))}
                   </Accordion.Panel>
@@ -516,7 +550,11 @@ const BookSegment = React.memo(function BookSegment({
               </Accordion>
             );
           }
-          return <React.Fragment key={index}>{renderTextElement(childWithType)}</React.Fragment>;
+          return (
+            <React.Fragment key={index}>
+              {renderTextElement(childWithType, inNote)}
+            </React.Fragment>
+          );
         })}
       </ContainerTag>
       {!isBlock && element.text && ' '}
@@ -595,11 +633,14 @@ const ClickableSimpleBooks = ({
   
 
   
+  // The scheme the words are shown in (navbar); a switch redraws every word
+  const displayWord = useDisplayWord();
+
   // Everything that changes the rendered text; an open in-page search runs again when it does.
   // In-page search results must stay out of it, or reporting them would re-run the search.
   const searchContentKey = React.useMemo(
-    () => [bookText, textType, targetSegmentNumber, matchedBookSegments, query],
-    [bookText, textType, targetSegmentNumber, matchedBookSegments, query]
+    () => [bookText, textType, targetSegmentNumber, matchedBookSegments, query, displayWord],
+    [bookText, textType, targetSegmentNumber, matchedBookSegments, query, displayWord]
   );
 
   // Initialize the in-page search hook

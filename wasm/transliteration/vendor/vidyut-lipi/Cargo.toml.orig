@@ -1,0 +1,27 @@
+[package]
+name = "vidyut-lipi"
+version = "0.2.0"
+authors = ["Arun Prasad <ambuda.library@gmail.com>"]
+description = "A Sanskrit transliterator"
+homepage = "https://github.com/ambuda-org/vidyut"
+repository = "https://github.com/ambuda-org/vidyut"
+categories = ["text-processing"]
+keywords = ["sanskrit"]
+license = "MIT"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rustc-hash = { workspace = true }
+clap = { version = "4.0.12", features = ["derive"] }
+wasm-bindgen = "0.2"
+serde-wasm-bindgen = "0.4"
+console_error_panic_hook = "0.1.7"
+unicode-normalization = "0.1.22"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dev-dependencies]
+codes-iso-15924 = { version = "0.1.3", default-features = false }

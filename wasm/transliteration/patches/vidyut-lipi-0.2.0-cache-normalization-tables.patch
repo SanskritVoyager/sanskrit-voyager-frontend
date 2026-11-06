@@ -1,0 +1,68 @@
+vidyut-lipi 0.2.0: build the Unicode normalization tables once.
+
+In WASM builds, to_nfc() and to_nfd() rebuilt their lookup tables from every
+scheme on each call. transliterate() normalizes its input first, so each call
+paid about 22 us before doing any work, and word-by-word use was ~15x slower
+than whole-text use. The tables are pure functions of the static scheme data,
+so they are now built on first use and kept in a OnceLock. Output is unchanged.
+
+Upstream: https://github.com/ambuda-org/vidyut (vidyut-lipi/src/unicode_norm.rs,
+still rebuilding per call on main as of 2026-11-05).
+
+--- a/src/unicode_norm.rs
++++ b/src/unicode_norm.rs
+@@ -277,17 +277,22 @@
+ /// WASM builds).
+ #[cfg(target_arch = "wasm32")]
+ pub(crate) fn to_nfc(s: &str) -> String {
+-    let mut map = FxHashMap::default();
+-    let mut len_longest_key = 0;
+-    for scheme in Scheme::iter() {
+-        for (nfc, nfd) in scheme.unicode_nfd_pairs() {
+-            if scheme.unicode_composition_exclusions().contains(nfc) {
+-                continue;
++    static NFC: std::sync::OnceLock<(FxHashMap<String, String>, usize)> = std::sync::OnceLock::new();
++    let (map, len_longest_key) = NFC.get_or_init(|| {
++        let mut map = FxHashMap::default();
++        let mut len_longest_key = 0;
++        for scheme in Scheme::iter() {
++            for (nfc, nfd) in scheme.unicode_nfd_pairs() {
++                if scheme.unicode_composition_exclusions().contains(nfc) {
++                    continue;
++                }
++                map.insert(nfd.to_string(), nfc.to_string());
++                len_longest_key = std::cmp::max(len_longest_key, nfd.chars().count());
+             }
+-            map.insert(nfd.to_string(), nfc.to_string());
+-            len_longest_key = std::cmp::max(len_longest_key, nfd.chars().count());
+         }
+-    }
++        (map, len_longest_key)
++    });
++    let len_longest_key = *len_longest_key;
+ 
+     let nfd = to_nfd(s);
+     let nfd_chars: Vec<_> = nfd.chars().collect();
+@@ -327,13 +332,16 @@
+ /// characters are left unchanged.
+ #[allow(unused)]
+ pub(crate) fn to_nfd(s: &str) -> String {
+-    let mut map: FxHashMap<String, String> = FxHashMap::default();
+-
+-    for scheme in Scheme::iter() {
+-        for (nfc, nfd) in scheme.unicode_nfd_pairs() {
+-            map.insert(nfc.to_string(), nfd.to_string());
++    static NFD: std::sync::OnceLock<FxHashMap<String, String>> = std::sync::OnceLock::new();
++    let map = NFD.get_or_init(|| {
++        let mut map: FxHashMap<String, String> = FxHashMap::default();
++        for scheme in Scheme::iter() {
++            for (nfc, nfd) in scheme.unicode_nfd_pairs() {
++                map.insert(nfc.to_string(), nfd.to_string());
++            }
+         }
+-    }
++        map
++    });
+ 
+     let mut ret = String::new();
+     for c in s.chars() {

@@ -22,6 +22,11 @@ import DictionarySelectComponent from './DictionarySelect';
 import BookSelect from './BookSelect';
 import TranslationControl from './TranslationControl';
 import Logo from '../../utils/logo';
+import {
+  TRANSLITERATION_SCHEMES,
+  TransliterationScheme,
+  parseTransliterationScheme,
+} from '../../utils/transliterationSchemes';
 
 interface NavbarProps {
   // Updated Props
@@ -30,8 +35,8 @@ interface NavbarProps {
   isSmallMobile: boolean | undefined;
   isNavbarVisible: boolean;
   setIsNavbarVisible: (value: boolean) => void;
-  scheme: { value: string }; // Assuming scheme is an object with a value property
-  setScheme: (value: any) => void;
+  scheme: TransliterationScheme;
+  setScheme: (scheme: TransliterationScheme) => void;
   handleTransliteration: (text: string, value?: string) => void;
   text: string;
   setText: (value: string) => void;
@@ -90,25 +95,16 @@ export function NavbarSimple({
 
           
           <Select
-            data={[
-              { value: 'IAST', label: 'Roman (IAST)' },
-              { value: 'DEVANAGARI', label: 'Devanagari' },
-              { value: 'HK', label: 'Harvard-Kyoto (HK)' },
-              { value: 'SLP1', label: 'SLP1 (Sanskrit Library Phonetic)' },
-              { value: 'Tamil', label: 'Tamil' },
-              { value: 'Kolkata', label: 'Kolkata' },
-              { value: 'Bengali', label: 'Bengali' },
-              { value: 'Kannada', label: 'Kannada' },
-              { value: 'WX', label: 'WX' },
-              { value: 'ITRANS', label: 'ITRANS' },
-            ]}
-            value={scheme.value}
+            data={TRANSLITERATION_SCHEMES}
+            value={scheme}
             label="Select Transliteration Scheme"
-            description="Output transliteration format for the analysis tool"
+            description="Scheme for book text, the analysis tool and dictionary entries"
             placeholder="Pick Transliteration Scheme, default is IAST"
-            onChange={(_value, option) => {
-              setScheme(option);
-              handleTransliteration(text, _value ?? undefined);
+            onChange={(value) => {
+              const picked = parseTransliterationScheme(value);
+              if (!picked) return;
+              setScheme(picked);
+              handleTransliteration(text, picked);
             }}
             style={{
               width: '100%',

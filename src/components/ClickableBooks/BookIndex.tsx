@@ -1,6 +1,7 @@
 import React from 'react';
 import { Paper, List, Anchor } from '@mantine/core';
 import classes from './ClickableSimpleBooks.module.css';
+import { ShownText } from './ShownText';
 
 export interface ChapterInfo {
   text: string;
@@ -40,7 +41,7 @@ const renderTranslation = (translation: string) =>
   translation.split(/(<s>.*?<\/s>)/).map((part, index) =>
     part.startsWith('<s>') && part.endsWith('</s>') ? (
       <span key={index} className={classes.indexSanskritTerm}>
-        {part.slice(3, -4)}
+        <ShownText text={part.slice(3, -4)} kind="sanskrit" />
       </span>
     ) : (
       part.replace(/<\/?s>/g, '')
@@ -80,10 +81,20 @@ const BookIndex: React.FC<BookIndexProps> = ({ chapters, textType, onChapterClic
                 className={classes.indexLink}
               >
                 {/* One span per line: the entry is a column flexbox and aligns its list number with the first */}
-                <span>{translationFirst ? renderTranslation(translation) : chapter.text}</span>
+                <span>
+                  {translationFirst ? (
+                    renderTranslation(translation)
+                  ) : (
+                    <ShownText text={chapter.text} kind="heading" />
+                  )}
+                </span>
                 {translation !== null && (
                   <span className={classes.indexSubtitle}>
-                    {translationFirst ? chapter.text : renderTranslation(translation)}
+                    {translationFirst ? (
+                      <ShownText text={chapter.text} kind="heading" />
+                    ) : (
+                      renderTranslation(translation)
+                    )}
                   </span>
                 )}
               </Anchor>

@@ -1,0 +1,63 @@
+/*
+ * Devanagari from the system's own fonts, for text set in Roman fonts.
+ *
+ * Naming a Devanagari font spares the browser a font search for every word: the
+ * Ṛgveda (175,000 words) shown in Devanagari laid out in 21 s without it and in
+ * under 3 s with it. unicode-range keeps Latin letters in their own fonts.
+ *
+ * Each list starts with the font the browser fell back to before, so Devanagari
+ * looks as it did. On macOS, Chrome falls back to ITF Devanagari beside Palatino
+ * and to Kohinoor Devanagari beside sans-serif fonts. Then come the other
+ * platforms' defaults: Nirmala UI (Windows), Noto Sans Devanagari (Android, most
+ * Linux). Where none is installed the face is skipped and the browser falls back
+ * as before.
+ *
+ * local() matches a font's PostScript or full name, not its family name.
+ */
+
+/* Before Palatino in the theme's font stack */
+@font-face {
+  font-family: 'SanskritDevanagari';
+  src: local('ITFDevanagari-Book'), local('ITF Devanagari Book'),
+    local('KohinoorDevanagari-Regular'), local('Kohinoor Devanagari Regular'),
+    local('DevanagariSangamMN'), local('Devanagari Sangam MN'), local('NirmalaUI'),
+    local('Nirmala UI'), local('NotoSansDevanagari-Regular'), local('Noto Sans Devanagari Regular'),
+    local('Lohit-Devanagari'), local('Lohit Devanagari'), local('Mangal-Regular'), local('Mangal');
+  font-weight: 400;
+  /* Devanagari, Vedic Extensions, Devanagari Extended, and the joiners inside conjuncts */
+  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D;
+}
+
+@font-face {
+  font-family: 'SanskritDevanagari';
+  src: local('ITFDevanagari-Bold'), local('ITF Devanagari Bold'), local('KohinoorDevanagari-Bold'),
+    local('Kohinoor Devanagari Bold'), local('DevanagariSangamMN-Bold'),
+    local('Devanagari Sangam MN Bold'), local('NirmalaUI-Bold'), local('Nirmala UI Bold'),
+    local('NotoSansDevanagari-Bold'), local('Noto Sans Devanagari Bold'), local('Mangal-Bold'),
+    local('Mangal Bold');
+  font-weight: 700;
+  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D;
+}
+
+/* LinuxBiolinum (headings, sūtras, quotes, the table of contents) has no Devanagari */
+@font-face {
+  font-family: 'LinuxBiolinum';
+  src: local('KohinoorDevanagari-Regular'), local('Kohinoor Devanagari Regular'),
+    local('ITFDevanagari-Book'), local('ITF Devanagari Book'), local('DevanagariSangamMN'),
+    local('Devanagari Sangam MN'), local('NirmalaUI'), local('Nirmala UI'),
+    local('NotoSansDevanagari-Regular'), local('Noto Sans Devanagari Regular'),
+    local('Lohit-Devanagari'), local('Lohit Devanagari'), local('Mangal-Regular'), local('Mangal');
+  font-weight: 400;
+  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D;
+}
+
+@font-face {
+  font-family: 'LinuxBiolinum';
+  src: local('KohinoorDevanagari-Semibold'), local('Kohinoor Devanagari Semibold'),
+    local('ITFDevanagari-Demi'), local('ITF Devanagari Demi'), local('DevanagariSangamMN-Bold'),
+    local('Devanagari Sangam MN Bold'), local('NirmalaUI-Semibold'), local('Nirmala UI Semibold'),
+    local('NotoSansDevanagari-SemiBold'), local('Noto Sans Devanagari SemiBold'),
+    local('Mangal-Bold'), local('Mangal Bold');
+  font-weight: 600;
+  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D;
+}

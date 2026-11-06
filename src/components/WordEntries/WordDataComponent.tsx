@@ -1,6 +1,8 @@
 import React, { memo } from 'react';
 import InflectionTable from './InflectionTable';
 import { fetchWordData } from '../../utils/Api';
+import { schemeOfSourceWord } from '../../utils/transliterationSchemes';
+import { useDisplayWord } from '../../context/TransliterationContext';
 import { useState, useEffect } from 'react';
 import DictionaryEntry from './DictionaryEntry';
 import { Text, Divider, Title, Tooltip, ActionIcon } from '@mantine/core';
@@ -52,8 +54,13 @@ const WordDataComponent = ({
   setDisplayInflectionTables,
   displayInflectionTables,
 }: WordDataComponentProps) => {
+  // Headwords, components and stems are shown in the navbar's scheme; clicks
+  // and data-word keep the stored word
+  const displayWord = useDisplayWord();
+
+  // Components and dictionary entries are IAST or Devanagari (Macdonell mixes both)
   const handleWordClick = async (word: string, index: number) => {
-    fetchWordData(word)
+    fetchWordData(word, schemeOfSourceWord(word))
       .then((data) => {
         if (data && data.length > 0) {
           setWordData((prevWordData) => {
@@ -116,7 +123,7 @@ const WordDataComponent = ({
                 key={index}
               >
                 <Title order={1} className={classes.mainWord} data-word={longEntry[0]}>
-                  {longEntry[0]}
+                  {displayWord(longEntry[0])}
                 </Title>
 
                 {longEntry[0] !== longEntry[5] && ( // word components si può rimuovere il p outer?
@@ -131,7 +138,7 @@ const WordDataComponent = ({
                             onClick={() => handleWordClick(part, index)}
                             className={classes.pronunciation}
                           >
-                            {part}
+                            {displayWord(part)}
                           </span>
                         );
                       }
@@ -142,7 +149,7 @@ const WordDataComponent = ({
                 {longEntry[0] !== longEntry[4] && (
                   <div className={classes.etymologySection}>
                     <span className={classes.etymologyLabel}>from:</span>
-                    <span className={classes.etymologyTerm}>{longEntry[4]}</span>
+                    <span className={classes.etymologyTerm}>{displayWord(longEntry[4])}</span>
                   </div>
                 )}
 
@@ -315,7 +322,7 @@ const WordDataComponent = ({
                 }}
               >
                 <Title order={1} className={classes.mainWord} data-word={shortEntry[0]}>
-                  {shortEntry[0]}
+                  {displayWord(shortEntry[0])}
                 </Title>
 
                 {shortEntry[0] !== shortEntry[1] && ( // word components
@@ -330,7 +337,7 @@ const WordDataComponent = ({
                             onClick={() => handleWordClick(part, index)}
                             className={classes.pronunciation}
                           >
-                            {part}
+                            {displayWord(part)}
                           </span>
                         );
                       }

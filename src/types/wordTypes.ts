@@ -1,4 +1,13 @@
 // types/wordTypes.ts
+import type { TransliterationScheme } from '../utils/transliterationSchemes';
+
+/** A word to look up, and the scheme it is written in */
+export type SelectedWord = {
+  word: string;
+  /** Sent to the backend as input_scheme; undefined lets it auto-detect */
+  scheme?: TransliterationScheme;
+};
+
 export type InflectionEntry = [string, string]; // [caseAbbr, numberAbbr]
 
 export type LongEntry = [

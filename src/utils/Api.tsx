@@ -1,8 +1,18 @@
-export async function fetchWordData(word: string) {
+import type { TransliterationScheme } from './transliterationSchemes';
+
+/**
+ * Looks `word` up in the default dictionary. `inputScheme` is the scheme the
+ * word is written in; without it the backend auto-detects.
+ */
+export async function fetchWordData(word: string, inputScheme?: TransliterationScheme) {
   // console.log('Posting word to API:', word); // Print the word
 
+  // The scheme goes in the query string: a text/plain body keeps this a
+  // CORS-simple request, which browsers send without a preflight
+  const query = inputScheme ? `?input_scheme=${encodeURIComponent(inputScheme)}` : '';
+
   try {
-    const response = await fetch('https://api.yogasutratrees.com/process', {
+    const response = await fetch(`https://api.yogasutratrees.com/process${query}`, {
       method: 'POST',
       headers: {
         'Content-Type': 'text/plain',
@@ -67,7 +77,15 @@ export async function handleTranslate(inputText: string) {
   return translatedText;
 }
 
-export async function fetchMultidictData(text: string, dictionary_names: string[]) {
+/**
+ * Looks `text` up in `dictionary_names`. `inputScheme` is the scheme the text
+ * is written in; without it the backend auto-detects.
+ */
+export async function fetchMultidictData(
+  text: string,
+  dictionary_names: string[],
+  inputScheme?: TransliterationScheme
+) {
   // console.log('Posting word to API:', text, 'With dictionary:', dictionary_names);
 
   try {
@@ -76,9 +94,11 @@ export async function fetchMultidictData(text: string, dictionary_names: string[
       headers: {
         'Content-Type': 'application/json',
       },
+      // JSON.stringify drops an undefined input_scheme, leaving auto-detection
       body: JSON.stringify({
         text,
         dictionary_names,
+        input_scheme: inputScheme,
       }),
     });
 
